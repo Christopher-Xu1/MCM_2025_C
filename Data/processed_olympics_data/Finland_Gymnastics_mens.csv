@@ -1,0 +1,609 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Paavo Aaltonen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Individual All-Around,Bronze,True
+Paavo Aaltonen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Team All-Around,Gold,True
+Paavo Aaltonen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Paavo Aaltonen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horse Vault,Gold,True
+Paavo Aaltonen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Paavo Aaltonen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Paavo Aaltonen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Rings,No medal,True
+Paavo Aaltonen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Pommelled Horse,Gold,True
+Paavo Aaltonen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Paavo Aaltonen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Paavo Aaltonen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Paavo Aaltonen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Paavo Aaltonen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Paavo Aaltonen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Paavo Aaltonen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,True
+Paavo Aaltonen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Kaarle Ekholm,M,Finland,FIN,1912,Stockholm,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Kaarle Ekholm,M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,True
+Eugen Ekman,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Eugen Ekman,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Eugen Ekman,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Eugen Ekman,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Eugen Ekman,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Eugen Ekman,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Eugen Ekman,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Rings,No medal,True
+Eugen Ekman,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,Gold,True
+Eugen Ekman,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Eugen Ekman,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Eugen Ekman,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Eugen Ekman,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Eugen Ekman,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Eugen Ekman,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Eugen Ekman,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Rings,No medal,True
+Eugen Ekman,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Eino Forsstrm,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Eino Forsstrm,M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,True
+Otto Granstrm,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Mikko Hmlinen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Mikko Hmlinen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Mikko Hmlinen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Mikko Hmlinen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Mikko Hmlinen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Mikko Hmlinen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rings,No medal,True
+Mikko Hmlinen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Mikko Hmlinen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rope Climbing,No medal,True
+Mikko Hmlinen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Side Horse,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Rings,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Rings,No medal,True
+Kauko Heikkinen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Reino Heino,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Reino Heino,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Reino Heino,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Reino Heino,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Reino Heino,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Reino Heino,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Reino Heino,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Rings,No medal,True
+Reino Heino,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Raimo Heinonen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Raimo Heinonen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Raimo Heinonen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Raimo Heinonen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Raimo Heinonen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Raimo Heinonen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Raimo Heinonen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,No medal,True
+Raimo Heinonen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Raimo Heinonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Raimo Heinonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Raimo Heinonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Raimo Heinonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Raimo Heinonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Raimo Heinonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Raimo Heinonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Rings,No medal,True
+Raimo Heinonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Raimo Heinonen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Raimo Heinonen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Raimo Heinonen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Raimo Heinonen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Raimo Heinonen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Raimo Heinonen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Raimo Heinonen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Rings,No medal,True
+Raimo Heinonen,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Veikko Huhtanen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Individual All-Around,Gold,True
+Veikko Huhtanen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Team All-Around,Gold,True
+Veikko Huhtanen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Veikko Huhtanen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Veikko Huhtanen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Parallel Bars,Silver,True
+Veikko Huhtanen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horizontal Bar,Bronze,True
+Veikko Huhtanen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Rings,No medal,True
+Veikko Huhtanen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Pommelled Horse,Gold,True
+Eero Hyvrinen,M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Johannes Hyvrinen,M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Tauno (granit-),M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Kaarle Jansson,M,Finland,FIN,1912,Stockholm,Gymnastics,Gymnastics Men's Individual All-Around,No medal,False
+Vin Karonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Vin Karonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Vin Karonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Vin Karonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Vin Karonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Vin Karonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rings,No medal,True
+Vin Karonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Vin Karonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rope Climbing,No medal,True
+Vin Karonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Side Horse,No medal,True
+Ilmari Keinnen,M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Johan (kemppainen-),M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Eevert Kerttula,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Eevert Kerttula,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Eevert Kerttula,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Eevert Kerttula,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Eevert Kerttula,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Eevert Kerttula,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rings,No medal,True
+Eevert Kerttula,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Eevert Kerttula,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rope Climbing,No medal,True
+Eevert Kerttula,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Side Horse,No medal,True
+Otto Kestola,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Otto Kestola,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Otto Kestola,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Otto Kestola,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Otto Kestola,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Otto Kestola,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Otto Kestola,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Rings,No medal,True
+Otto Kestola,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Otto Kestola,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Otto Kestola,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Otto Kestola,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Otto Kestola,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Otto Kestola,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Otto Kestola,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Otto Kestola,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Rings,No medal,True
+Otto Kestola,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Kaiku Kinos,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Kaiku Kinos,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Kaiku Kinos,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Kaiku Kinos,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Kaiku Kinos,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Kaiku Kinos,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Rings,No medal,True
+Kaiku Kinos,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Karl Kirmes,M,Finland,FIN,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Karl Kirmes,M,Finland,FIN,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Karl Kirmes,M,Finland,FIN,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Karl Kirmes,M,Finland,FIN,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Karl Kirmes,M,Finland,FIN,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No medal,True
+Karl Kirmes,M,Finland,FIN,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Viktor (stenvall-),M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Aapeli Korhonen,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,False
+Urho Korhonen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Urho Korhonen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Urho Korhonen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Urho Korhonen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Urho Korhonen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Urho Korhonen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Rings,No medal,True
+Urho Korhonen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Eniu Kosonen,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,False
+Edvard Kostamo,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Edvard Kostamo,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Edvard Kostamo,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Edvard Kostamo,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Edvard Kostamo,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Edvard Kostamo,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rings,No medal,True
+Edvard Kostamo,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Edvard Kostamo,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rope Climbing,No medal,True
+Edvard Kostamo,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Side Horse,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rings,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rope Climbing,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Side Horse,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Rings,No medal,True
+Jaakko Kunnas,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Pentti (nordlund-),M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Olli Laiho,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Olli Laiho,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Olli Laiho,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Olli Laiho,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Olli Laiho,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Olli Laiho,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Olli Laiho,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Rings,No medal,True
+Olli Laiho,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Olli Laiho,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Olli Laiho,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Olli Laiho,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Olli Laiho,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Olli Laiho,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Olli Laiho,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Olli Laiho,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Rings,No medal,True
+Olli Laiho,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Pommelled Horse,Silver,True
+Kalevi Laitinen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Kalevi Laitinen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Team All-Around,Gold,True
+Kalevi Laitinen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Kalevi Laitinen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Kalevi Laitinen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Kalevi Laitinen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Kalevi Laitinen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Rings,No medal,True
+Kalevi Laitinen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Kalevi Laitinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Kalevi Laitinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Kalevi Laitinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Kalevi Laitinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Kalevi Laitinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Kalevi Laitinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Kalevi Laitinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,True
+Kalevi Laitinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Onni Lappalainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Onni Lappalainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Onni Lappalainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Onni Lappalainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Onni Lappalainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Onni Lappalainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Onni Lappalainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,True
+Onni Lappalainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Onni Lappalainen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Onni Lappalainen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Onni Lappalainen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Onni Lappalainen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Onni Lappalainen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Onni Lappalainen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Onni Lappalainen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,No medal,True
+Onni Lappalainen,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Heikki (lindholm-),M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Erkki Leimuvirta,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Erkki Leimuvirta,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Erkki Leimuvirta,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Erkki Leimuvirta,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Erkki Leimuvirta,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Erkki Leimuvirta,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Erkki Leimuvirta,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,No medal,True
+Erkki Leimuvirta,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Erkki Leimuvirta,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Erkki Leimuvirta,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Erkki Leimuvirta,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Erkki Leimuvirta,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Erkki Leimuvirta,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Erkki Leimuvirta,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Erkki Leimuvirta,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Rings,No medal,True
+Erkki Leimuvirta,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Kaino Lempinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Kaino Lempinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Kaino Lempinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Kaino Lempinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Kaino Lempinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Kaino Lempinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Kaino Lempinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,True
+Kaino Lempinen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Berndt Lindfors,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Berndt Lindfors,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Berndt Lindfors,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Berndt Lindfors,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Berndt Lindfors,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Berndt Lindfors,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Berndt Lindfors,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,True
+Berndt Lindfors,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Berndt Lindfors,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Berndt Lindfors,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Berndt Lindfors,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Berndt Lindfors,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Berndt Lindfors,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Berndt Lindfors,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Berndt Lindfors,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,No medal,True
+Berndt Lindfors,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Johan Lindroth,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Yrj Linko,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Edvard (borg-),M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Karl Lund,M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Martti Mansikka,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Martti Mansikka,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Martti Mansikka,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Martti Mansikka,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Martti Mansikka,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Martti Mansikka,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Martti Mansikka,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,No medal,True
+Martti Mansikka,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Matti Markkanen,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Kaarl Mikkolainen,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Heikki Nieminen,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Villiam Nieminen,M,Finland,FIN,1912,Stockholm,Gymnastics,Gymnastics Men's Individual All-Around,No medal,False
+Mauno Nissinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Mauno Nissinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Mauno Nissinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Mauno Nissinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Mauno Nissinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Mauno Nissinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Mauno Nissinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Rings,No medal,True
+Mauno Nissinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Mauno Nissinen,M,Finland,FIN,1972,Munich,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Mauno Nissinen,M,Finland,FIN,1972,Munich,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Mauno Nissinen,M,Finland,FIN,1972,Munich,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Mauno Nissinen,M,Finland,FIN,1972,Munich,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Mauno Nissinen,M,Finland,FIN,1972,Munich,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Mauno Nissinen,M,Finland,FIN,1972,Munich,Gymnastics,Gymnastics Men's Rings,No medal,True
+Mauno Nissinen,M,Finland,FIN,1972,Munich,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Rings,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Mauri Nyberg-noroma,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Rings,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Mauri Nyberg-noroma,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Rings,No medal,True
+Mauri Nyberg-noroma,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Sakari Olkkonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Sakari Olkkonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Sakari Olkkonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Sakari Olkkonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Sakari Olkkonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Sakari Olkkonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Sakari Olkkonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Rings,No medal,True
+Sakari Olkkonen,M,Finland,FIN,1960,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Kalle Paasia,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Veikko Pakarinen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Veikko Pakarinen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Veikko Pakarinen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Veikko Pakarinen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Veikko Pakarinen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Veikko Pakarinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Veikko Pakarinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Veikko Pakarinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Veikko Pakarinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Veikko Pakarinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Veikko Pakarinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Veikko Pakarinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Rings,No medal,True
+Veikko Pakarinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Ivar Partanen,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,False
+Aarne Pelkonen,M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Kustaa Pernaja,M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Sulo (nordqvist-),M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Aarne Pohjonen,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Keijo Rahikainen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Keijo Rahikainen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Keijo Rahikainen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Keijo Rahikainen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Keijo Rahikainen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Keijo Rahikainen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Keijo Rahikainen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Rings,No medal,True
+Keijo Rahikainen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Johan (dahlgren-),M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Hannu Rantakari,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Hannu Rantakari,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Hannu Rantakari,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Hannu Rantakari,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Horse Vault,Bronze,True
+Hannu Rantakari,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Hannu Rantakari,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Hannu Rantakari,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Rings,No medal,True
+Hannu Rantakari,M,Finland,FIN,1964,Tokyo,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Hannu Rantakari,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Hannu Rantakari,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Hannu Rantakari,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Hannu Rantakari,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Hannu Rantakari,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Hannu Rantakari,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Hannu Rantakari,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Rings,No medal,True
+Hannu Rantakari,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Heikki Riipinen,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Aarne Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Aarne Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Aarne Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Aarne Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Aarne Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Aarne Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rings,No medal,True
+Aarne Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Aarne Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rope Climbing,No medal,True
+Aarne Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Side Horse,No medal,True
+Aksel Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Aksel Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Aksel Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Aksel Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Aksel Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Aksel Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rings,No medal,True
+Aksel Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Aksel Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rope Climbing,No medal,True
+Aksel Roine,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Side Horse,No medal,True
+Olavi (grnfelt-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Olavi (grnfelt-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Team All-Around,Gold,True
+Olavi (grnfelt-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Olavi (grnfelt-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horse Vault,Silver,True
+Olavi (grnfelt-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Olavi (grnfelt-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Olavi (grnfelt-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Rings,No medal,True
+Olavi (grnfelt-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Olavi (grnfelt-),M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Olavi (grnfelt-),M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Olavi (grnfelt-),M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Olavi (grnfelt-),M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Olavi (grnfelt-),M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Olavi (grnfelt-),M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Olavi (grnfelt-),M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,True
+Olavi (grnfelt-),M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Arvid Rydman,M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Arno Saarinen,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Johan Saarivuori,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,False
+Aleksanteri (schabarin-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Aleksanteri (schabarin-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Aleksanteri (schabarin-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Aleksanteri (schabarin-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Aleksanteri (schabarin-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Aleksanteri (schabarin-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horizontal Bar,Gold,True
+Aleksanteri (schabarin-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Rings,No medal,True
+Aleksanteri (schabarin-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Aleksanteri (schabarin-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Aleksanteri (schabarin-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Team All-Around,Gold,True
+Aleksanteri (schabarin-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Aleksanteri (schabarin-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Aleksanteri (schabarin-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Aleksanteri (schabarin-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Aleksanteri (schabarin-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Rings,No medal,True
+Aleksanteri (schabarin-),M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Kaarlo Saastamoinen,M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Einar Sahlstein,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Sulo Salmi,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Sulo Salmi,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Team All-Around,Gold,True
+Sulo Salmi,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Sulo Salmi,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Sulo Salmi,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Sulo Salmi,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Sulo Salmi,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Rings,No medal,True
+Sulo Salmi,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Arne (nylenius-),M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Arne (nylenius-),M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,True
+Heikki (lundahl-),M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Karl Sandelin,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Heikki Sappinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Heikki Sappinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Heikki Sappinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Heikki Sappinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Heikki Sappinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Heikki Sappinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Heikki Sappinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Rings,No medal,True
+Heikki Sappinen,M,Finland,FIN,1968,Mexico City,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Heikki Savolainen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Heikki Savolainen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Heikki Savolainen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Heikki Savolainen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Heikki Savolainen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Heikki Savolainen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Rings,No medal,True
+Heikki Savolainen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Pommelled Horse,Bronze,True
+Heikki Savolainen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Individual All-Around,Bronze,True
+Heikki Savolainen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Heikki Savolainen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Heikki Savolainen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Heikki Savolainen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Parallel Bars,Bronze,True
+Heikki Savolainen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Horizontal Bar,Silver,True
+Heikki Savolainen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Rings,No medal,True
+Heikki Savolainen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Heikki Savolainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Heikki Savolainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Heikki Savolainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Heikki Savolainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Heikki Savolainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Heikki Savolainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Heikki Savolainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Rings,No medal,True
+Heikki Savolainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Heikki Savolainen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Heikki Savolainen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Team All-Around,Gold,True
+Heikki Savolainen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Heikki Savolainen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Heikki Savolainen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Heikki Savolainen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Heikki Savolainen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Rings,No medal,True
+Heikki Savolainen,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Pommelled Horse,Gold,True
+Heikki Savolainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Heikki Savolainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Heikki Savolainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Heikki Savolainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Heikki Savolainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Heikki Savolainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Heikki Savolainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,True
+Heikki Savolainen,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Esa (serenius-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Esa (serenius-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Esa (serenius-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Esa (serenius-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Esa (serenius-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Esa (serenius-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Esa (serenius-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Rings,No medal,True
+Esa (serenius-),M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Elis Sipil,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Hannes (sirn-),M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Viktor Smeds,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Kaarlo (salin-),M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Kurt Stenberg,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Birger Stenman,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Birger Stenman,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Birger Stenman,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Birger Stenman,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Birger Stenman,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Birger Stenman,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Rings,No medal,True
+Birger Stenman,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Otto Suhonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Otto Suhonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Otto Suhonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Otto Suhonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Otto Suhonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Otto Suhonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rings,No medal,True
+Otto Suhonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Otto Suhonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Rope Climbing,No medal,True
+Otto Suhonen,M,Finland,FIN,1924,Paris,Gymnastics,Gymnastics Men's Side Horse,No medal,True
+Klaus (lindholm-),M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Kalevi Suoniemi,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Kalevi Suoniemi,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Kalevi Suoniemi,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Kalevi Suoniemi,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Kalevi Suoniemi,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Kalevi Suoniemi,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Kalevi Suoniemi,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,No medal,True
+Kalevi Suoniemi,M,Finland,FIN,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Anders Tamminen,M,Finland,FIN,1912,Stockholm,Gymnastics,Gymnastics Men's Individual All-Around,No medal,False
+Lauri Tanner,M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+David Teivonen,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,False
+Einari Tersvirta,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Einari Tersvirta,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Einari Tersvirta,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Einari Tersvirta,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Einari Tersvirta,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Horizontal Bar,Bronze,True
+Einari Tersvirta,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Einari Tersvirta,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Einari Tersvirta,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Einari Tersvirta,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Einari Tersvirta,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Einari Tersvirta,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Einari Tersvirta,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Rings,No medal,True
+Einari Tersvirta,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Einari Tersvirta,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Einari Tersvirta,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Team All-Around,Gold,True
+Einari Tersvirta,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Einari Tersvirta,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Einari Tersvirta,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Einari Tersvirta,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Einari Tersvirta,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Rings,No medal,True
+Einari Tersvirta,M,Finland,FIN,1948,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Vin Tiiri,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Vin Tiiri,M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,True
+Eino Tukiainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Eino Tukiainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Eino Tukiainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Eino Tukiainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Eino Tukiainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Eino Tukiainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Eino Tukiainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Rings,No medal,True
+Eino Tukiainen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Rings,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Martti Uosikkinen,M,Finland,FIN,1932,Los Angeles,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Martti Uosikkinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Rings,No medal,True
+Martti Uosikkinen,M,Finland,FIN,1936,Berlin,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Karl Vhmki,M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Kaarlo Vasama,M,Finland,FIN,1912,Stockholm,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver,False
+Kalevi Viskari,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Kalevi Viskari,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Bronze,True
+Kalevi Viskari,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,True
+Kalevi Viskari,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Kalevi Viskari,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Kalevi Viskari,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Kalevi Viskari,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,True
+Kalevi Viskari,M,Finland,FIN,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True
+Yrj Vuolio,M,Finland,FIN,1912,Stockholm,Gymnastics,Gymnastics Men's Individual All-Around,No medal,False
+Karl Wegelius,M,Finland,FIN,1908,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze,False
+Elis Ylnen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Individual All-Around,No medal,True
+Elis Ylnen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Team All-Around,No medal,True
+Elis Ylnen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horse Vault,No medal,True
+Elis Ylnen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Parallel Bars,No medal,True
+Elis Ylnen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,True
+Elis Ylnen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Rings,No medal,True
+Elis Ylnen,M,Finland,FIN,1928,Amsterdam,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,True

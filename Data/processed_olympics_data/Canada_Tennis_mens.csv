@@ -1,0 +1,43 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Charles Brown,M,Canada,CAN,1908,London,Tennis,Tennis Men's Singles,No medal,False
+Grant Connell,M,Canada,CAN,1988,Seoul,Tennis,Tennis Men's Singles,No medal,True
+Grant Connell,M,Canada,CAN,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,True
+Grant Connell,M,Canada,CAN,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,True
+Frank Dancevic,M,Canada,CAN,2008,Beijing,Tennis,Tennis Men's Singles,No medal,False
+John Foulkes,M,Canada,CAN,1908,London,Tennis,Tennis Men's Singles,No medal,True
+John Foulkes,M,Canada,CAN,1908,London,Tennis,Tennis Men's Doubles,No medal,True
+Brian Gyetko,M,Canada,CAN,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,False
+Sbastien Lareau,M,Canada,CAN,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,True
+Sbastien Lareau,M,Canada,CAN,2000,Sydney,Tennis,Tennis Men's Singles,No medal,True
+Sbastien Lareau,M,Canada,CAN,2000,Sydney,Tennis,Tennis Men's Doubles,Gold,True
+Martin Laurendeau,M,Canada,CAN,1988,Seoul,Tennis,Tennis Men's Singles,No medal,False
+Sbastien Leblanc,M,Canada,CAN,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,False
+Glenn Michibata,M,Canada,CAN,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,False
+Daniel Nestor,M,Canada,CAN,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,True
+Daniel Nestor,M,Canada,CAN,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,True
+Daniel Nestor,M,Canada,CAN,2000,Sydney,Tennis,Tennis Men's Singles,No medal,True
+Daniel Nestor,M,Canada,CAN,2000,Sydney,Tennis,Tennis Men's Doubles,Gold,True
+Daniel Nestor,M,Canada,CAN,2004,Athina,Tennis,Tennis Men's Doubles,No medal,True
+Daniel Nestor,M,Canada,CAN,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,True
+Daniel Nestor,M,Canada,CAN,2012,London,Tennis,Tennis Men's Doubles,No medal,True
+Daniel Nestor,M,Canada,CAN,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,True
+Frdric Niemeyer,M,Canada,CAN,2004,Athina,Tennis,Tennis Men's Singles,No medal,True
+Frdric Niemeyer,M,Canada,CAN,2004,Athina,Tennis,Tennis Men's Doubles,No medal,True
+Frdric Niemeyer,M,Canada,CAN,2008,Beijing,Tennis,Tennis Men's Singles,No medal,True
+Frdric Niemeyer,M,Canada,CAN,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,True
+Vasek Pospisil,M,Canada,CAN,2012,London,Tennis,Tennis Men's Singles,No medal,True
+Vasek Pospisil,M,Canada,CAN,2012,London,Tennis,Tennis Men's Doubles,No medal,True
+Vasek Pospisil,M,Canada,CAN,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,True
+Vasek Pospisil,M,Canada,CAN,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,True
+Robert Powell,M,Canada,CAN,1908,London,Tennis,Tennis Men's Singles,No medal,True
+Robert Powell,M,Canada,CAN,1908,London,Tennis,Tennis Men's Doubles,No medal,True
+Christopher Pridham,M,Canada,CAN,1988,Seoul,Tennis,Tennis Men's Singles,No medal,False
+Milos Raonic,M,Canada,CAN,2012,London,Tennis,Tennis Men's Singles,No medal,True
+Andrew Sznajder,M,Canada,CAN,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,False
+Felix Auger-aliassime,M,Canada,CAN,2020,Tokyo,Tennis,Men's Singles,No medal,True
+Felix Auger-aliassime,M,Canada,CAN,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,True
+Milos Raonic,M,Canada,CAN,2024,Paris,Tennis,Men's Doubles,No medal,True
+Milos Raonic,M,Canada,CAN,2024,Paris,Tennis,Men's Singles,No medal,True
+Felix Auger-aliassime,M,Canada,CAN,2024,Paris,Tennis,Men's Doubles,No medal,True
+Felix Auger-aliassime,M,Canada,CAN,2024,Paris,Tennis,Men's Singles,No medal,True
+Felix Auger-aliassime,M,Canada,CAN,2024,Paris,Tennis,Mixed Doubles,Bronze,True

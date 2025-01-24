@@ -1,0 +1,4 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Itay Shanny,M,Israel,ISR,2020,Tokyo,Archery,Men's Individual,No medal,False
+Roy Dror,M,Israel,ISR,2024,Paris,Archery,Men's Individual,No medal,True
+Roy Dror,M,Israel,ISR,2024,Paris,Archery,Mixed Team,No medal,True

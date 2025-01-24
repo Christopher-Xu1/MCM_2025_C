@@ -1,0 +1,72 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Marguerite (-bordes),F,France,FRA,1912,Stockholm,Tennis,Tennis Women's Singles,Gold,True
+Marguerite (-bordes),F,France,FRA,1912,Stockholm,Tennis,Tennis Mixed Doubles,Bronze,True
+Marguerite (-bordes),F,France,FRA,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,True
+Aliz Cornet,F,France,FRA,2008,Beijing,Tennis,Tennis Women's Singles,No medal,True
+Aliz Cornet,F,France,FRA,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,True
+Aliz Cornet,F,France,FRA,2012,London,Tennis,Tennis Women's Singles,No medal,True
+Aliz Cornet,F,France,FRA,2012,London,Tennis,Tennis Women's Doubles,No medal,True
+Aliz Cornet,F,France,FRA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,True
+lisabeth (-macready),F,France,FRA,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,True
+lisabeth (-macready),F,France,FRA,1920,Antwerpen,Tennis,Tennis Women's Doubles,Bronze,True
+Nathalie Dechy,F,France,FRA,2000,Sydney,Tennis,Tennis Women's Singles,No medal,True
+Nathalie Dechy,F,France,FRA,2004,Athina,Tennis,Tennis Women's Singles,No medal,True
+Cornlie (flameng-),F,France,FRA,1906,Athina,Tennis,Tennis Women's Singles,No medal,True
+Cornlie (flameng-),F,France,FRA,1906,Athina,Tennis,Tennis Mixed Doubles,Gold,True
+Isabelle Demongeot,F,France,FRA,1988,Seoul,Tennis,Tennis Women's Singles,No medal,True
+Isabelle Demongeot,F,France,FRA,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,True
+Isabelle Demongeot,F,France,FRA,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,True
+Marguerite Fourrier,F,France,FRA,1900,Paris,Tennis,Tennis Women's Singles,No medal,False
+Caroline Garcia,F,France,FRA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,True
+Caroline Garcia,F,France,FRA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,True
+Catherine (-fenwick),F,France,FRA,1900,Paris,Tennis,Tennis Mixed Doubles,No medal,False
+A. (regnier-),F,France,FRA,1924,Paris,Tennis,Tennis Women's Singles,No medal,False
+Julie Halard-dcugis,F,France,FRA,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,True
+Julie Halard-dcugis,F,France,FRA,2000,Sydney,Tennis,Tennis Women's Singles,No medal,True
+Julie Halard-dcugis,F,France,FRA,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,True
+Suzanne Lenglen,F,France,FRA,1920,Antwerpen,Tennis,Tennis Women's Singles,Gold,True
+Suzanne Lenglen,F,France,FRA,1920,Antwerpen,Tennis,Tennis Women's Doubles,Bronze,True
+Amlie Mauresmo,F,France,FRA,2000,Sydney,Tennis,Tennis Women's Singles,No medal,True
+Amlie Mauresmo,F,France,FRA,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,True
+Amlie Mauresmo,F,France,FRA,2004,Athina,Tennis,Tennis Women's Singles,Silver,True
+Kristina Mladenovic,F,France,FRA,2012,London,Tennis,Tennis Women's Doubles,No medal,True
+Kristina Mladenovic,F,France,FRA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,True
+Kristina Mladenovic,F,France,FRA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,True
+Pauline Parmentier,F,France,FRA,2008,Beijing,Tennis,Tennis Women's Singles,No medal,False
+Mary Pierce,F,France,FRA,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,True
+Mary Pierce,F,France,FRA,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,True
+Mary Pierce,F,France,FRA,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,True
+Mary Pierce,F,France,FRA,2004,Athina,Tennis,Tennis Women's Singles,No medal,True
+Yvonne (-boppe),F,France,FRA,1900,Paris,Tennis,Tennis Women's Singles,Silver,False
+Virginie Razzano,F,France,FRA,2008,Beijing,Tennis,Tennis Women's Singles,No medal,True
+Virginie Razzano,F,France,FRA,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,True
+Catherine Suire,F,France,FRA,1988,Seoul,Tennis,Tennis Women's Singles,No medal,False
+Nathalie Tauziat,F,France,FRA,1988,Seoul,Tennis,Tennis Women's Singles,No medal,True
+Nathalie Tauziat,F,France,FRA,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,True
+Nathalie Tauziat,F,France,FRA,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,True
+Nathalie Tauziat,F,France,FRA,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,True
+Nathalie Tauziat,F,France,FRA,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,True
+Nathalie Tauziat,F,France,FRA,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,True
+Sandrine (-magnelli),F,France,FRA,2004,Athina,Tennis,Tennis Women's Singles,No medal,False
+Jeanne (baudry-),F,France,FRA,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,True
+Jeanne (baudry-),F,France,FRA,1924,Paris,Tennis,Tennis Women's Singles,No medal,True
+Pnlope (-serpieri),F,France,FRA,1924,Paris,Tennis,Tennis Women's Singles,Silver,False
+Alize Cornet,F,France,FRA,2020,Tokyo,Tennis,Women's Singles,No medal,True
+Alize Cornet,F,France,FRA,2020,Tokyo,Tennis,Women's Doubles Team,No medal,True
+Fiona Ferro,F,France,FRA,2020,Tokyo,Tennis,Women's Singles,No medal,True
+Fiona Ferro,F,France,FRA,2020,Tokyo,Tennis,Women's Doubles Team,No medal,True
+Fiona Ferro,F,France,FRA,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,True
+Caroline Garcia,F,France,FRA,2020,Tokyo,Tennis,Women's Singles,No medal,True
+Caroline Garcia,F,France,FRA,2020,Tokyo,Tennis,Women's Doubles Team,No medal,True
+Kristina Mladenovic,F,France,FRA,2020,Tokyo,Tennis,Women's Singles,No medal,True
+Kristina Mladenovic,F,France,FRA,2020,Tokyo,Tennis,Women's Doubles Team,No medal,True
+Kristina Mladenovic,F,France,FRA,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,True
+Caroline Garcia,F,France,FRA,2024,Paris,Tennis,Women's Doubles,No medal,True
+Caroline Garcia,F,France,FRA,2024,Paris,Tennis,Women's Singles,No medal,True
+Caroline Garcia,F,France,FRA,2024,Paris,Tennis,Mixed Doubles,No medal,True
+Varvara Gracheva,F,France,FRA,2024,Paris,Tennis,Women's Doubles,No medal,True
+Varvara Gracheva,F,France,FRA,2024,Paris,Tennis,Women's Singles,No medal,True
+Clara Burel,F,France,FRA,2024,Paris,Tennis,Women's Doubles,No medal,True
+Clara Burel,F,France,FRA,2024,Paris,Tennis,Women's Singles,No medal,True
+Diane Parry,F,France,FRA,2024,Paris,Tennis,Women's Doubles,No medal,True
+Diane Parry,F,France,FRA,2024,Paris,Tennis,Women's Singles,No medal,True

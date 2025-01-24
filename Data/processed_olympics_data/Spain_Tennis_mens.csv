@@ -1,0 +1,64 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Nicols Snchez,M,Spain,ESP,2008,Beijing,Tennis,Tennis Men's Singles,No medal,True
+Nicols Snchez,M,Spain,ESP,2012,London,Tennis,Tennis Men's Singles,No medal,True
+Jos Areyzaga,M,Spain,ESP,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,False
+Manuel Areyzaga,M,Spain,ESP,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,True
+Manuel Areyzaga,M,Spain,ESP,1924,Paris,Tennis,Tennis Men's Singles,No medal,True
+Jordi Casta,M,Spain,ESP,1992,Barcelona,Tennis,Tennis Men's Singles,Silver,False
+Roberto Agut,M,Spain,ESP,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,False
+Sergi Torner,M,Spain,ESP,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,True
+Sergi Torner,M,Spain,ESP,1996,Atlanta,Tennis,Tennis Men's Singles,Silver,True
+Sergi Torner,M,Spain,ESP,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,True
+Toms Llad,M,Spain,ESP,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,False
+Sergio Martnez,M,Spain,ESP,1988,Seoul,Tennis,Tennis Men's Singles,No medal,True
+Sergio Martnez,M,Spain,ESP,1988,Seoul,Tennis,Tennis Men's Doubles,Silver,True
+Sergio Martnez,M,Spain,ESP,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,True
+Alex Verdegay,M,Spain,ESP,2000,Sydney,Tennis,Tennis Men's Singles,No medal,True
+Alex Verdegay,M,Spain,ESP,2000,Sydney,Tennis,Tennis Men's Doubles,Bronze,True
+Alberto Casal,M,Spain,ESP,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,True
+Alberto Casal,M,Spain,ESP,2000,Sydney,Tennis,Tennis Men's Singles,No medal,True
+Alberto Casal,M,Spain,ESP,2000,Sydney,Tennis,Tennis Men's Doubles,Bronze,True
+Carlos Masferrer,M,Spain,ESP,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,False
+Enrique Vicua,M,Spain,ESP,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,False
+Jos Flrez,M,Spain,ESP,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,False
+David Ern,M,Spain,ESP,2008,Beijing,Tennis,Tennis Men's Singles,No medal,True
+David Ern,M,Spain,ESP,2012,London,Tennis,Tennis Men's Singles,No medal,True
+David Ern,M,Spain,ESP,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,True
+Juan Donat,M,Spain,ESP,2000,Sydney,Tennis,Tennis Men's Singles,No medal,True
+Juan Donat,M,Spain,ESP,2004,Athina,Tennis,Tennis Men's Singles,No medal,True
+Eduardo Vzquez,M,Spain,ESP,1924,Paris,Tennis,Tennis Men's Singles,No medal,False
+Feliciano Daz-guerra,M,Spain,ESP,2004,Athina,Tennis,Tennis Men's Singles,No medal,True
+Feliciano Daz-guerra,M,Spain,ESP,2012,London,Tennis,Tennis Men's Singles,No medal,True
+Raimundo Veloso,M,Spain,ESP,1924,Paris,Tennis,Tennis Men's Singles,No medal,False
+Carlos Llompart,M,Spain,ESP,2004,Athina,Tennis,Tennis Men's Singles,No medal,False
+Rafael Parera,M,Spain,ESP,2008,Beijing,Tennis,Tennis Men's Singles,Gold,True
+Rafael Parera,M,Spain,ESP,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,True
+Alberto Violas,M,Spain,ESP,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,False
+Tommy Garcs,M,Spain,ESP,2004,Athina,Tennis,Tennis Men's Singles,No medal,True
+Tommy Garcs,M,Spain,ESP,2008,Beijing,Tennis,Tennis Men's Singles,No medal,True
+Emilio Vicario,M,Spain,ESP,1988,Seoul,Tennis,Tennis Men's Singles,No medal,True
+Emilio Vicario,M,Spain,ESP,1988,Seoul,Tennis,Tennis Men's Doubles,Silver,True
+Emilio Vicario,M,Spain,ESP,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,True
+Emilio Vicario,M,Spain,ESP,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,True
+Javier Vicario,M,Spain,ESP,1988,Seoul,Tennis,Tennis Men's Singles,No medal,False
+Francisco Pons,M,Spain,ESP,1924,Paris,Tennis,Tennis Men's Singles,No medal,False
+Fernando Carmona,M,Spain,ESP,2012,London,Tennis,Tennis Men's Singles,No medal,False
+Fernando Fibla,M,Spain,ESP,2000,Sydney,Tennis,Tennis Men's Singles,No medal,False
+Pablo Andujar,M,Spain,ESP,2020,Tokyo,Tennis,Men's Singles,No medal,True
+Pablo Andujar,M,Spain,ESP,2020,Tokyo,Tennis,Men's Doubles Team,No medal,True
+Roberto Carballes,M,Spain,ESP,2020,Tokyo,Tennis,Men's Singles,No medal,True
+Roberto Carballes,M,Spain,ESP,2020,Tokyo,Tennis,Men's Doubles Team,No medal,True
+Pablo Carreno,M,Spain,ESP,2020,Tokyo,Tennis,Men's Singles,Bronze,True
+Pablo Carreno,M,Spain,ESP,2020,Tokyo,Tennis,Men's Doubles Team,No medal,True
+Pablo Carreno,M,Spain,ESP,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,True
+Alejandro Davidovich,M,Spain,ESP,2020,Tokyo,Tennis,Men's Singles,No medal,True
+Alejandro Davidovich,M,Spain,ESP,2020,Tokyo,Tennis,Men's Doubles Team,No medal,True
+Carlos Alcaraz,M,Spain,ESP,2024,Paris,Tennis,Men's Doubles,No medal,True
+Carlos Alcaraz,M,Spain,ESP,2024,Paris,Tennis,Men's Singles,Silver,True
+Pablo Carreno,M,Spain,ESP,2024,Paris,Tennis,Men's Doubles,No medal,True
+Marcel Granollers,M,Spain,ESP,2024,Paris,Tennis,Men's Doubles,No medal,True
+Marcel Granollers,M,Spain,ESP,2024,Paris,Tennis,Mixed Doubles,No medal,True
+Pedro Martinez,M,Spain,ESP,2024,Paris,Tennis,Men's Singles,No medal,False
+Jaume Munar,M,Spain,ESP,2024,Paris,Tennis,Men's Singles,No medal,False
+Rafael Nadal,M,Spain,ESP,2024,Paris,Tennis,Men's Doubles,No medal,True
+Rafael Nadal,M,Spain,ESP,2024,Paris,Tennis,Men's Singles,No medal,True

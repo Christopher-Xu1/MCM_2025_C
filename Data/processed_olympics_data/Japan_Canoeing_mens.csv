@@ -1,0 +1,63 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Taro Ando,M,Japan,JPN,2000,Sydney,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,False
+Izumi Eto,M,Japan,JPN,1964,Tokyo,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,False
+Tsuyoshi Fujino,M,Japan,JPN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,True
+Tsuyoshi Fujino,M,Japan,JPN,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,True
+Shusei Fukuzato,M,Japan,JPN,1984,Los Angeles,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",No medal,True
+Shusei Fukuzato,M,Japan,JPN,1984,Los Angeles,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,True
+Takuya Haneda,M,Japan,JPN,2008,Beijing,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,True
+Takuya Haneda,M,Japan,JPN,2012,London,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,True
+Takuya Haneda,M,Japan,JPN,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, Slalom",Bronze,True
+Mitsuhide Hata,M,Japan,JPN,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,True
+Mitsuhide Hata,M,Japan,JPN,1976,Montreal,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",No medal,True
+Mitsuhide Hata,M,Japan,JPN,1976,Montreal,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,True
+Daisaburo Honda,M,Japan,JPN,1964,Tokyo,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,False
+Kiyoto Inoue,M,Japan,JPN,1984,Los Angeles,Canoeing,"Canoeing Men's Canadian Singles, 500 metres",No medal,True
+Kiyoto Inoue,M,Japan,JPN,1984,Los Angeles,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",No medal,True
+Kiyoto Inoue,M,Japan,JPN,1988,Seoul,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",No medal,True
+Shunichi Iwamura,M,Japan,JPN,1964,Tokyo,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,False
+Hiroyuki Izumi,M,Japan,JPN,1984,Los Angeles,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",No medal,True
+Hiroyuki Izumi,M,Japan,JPN,1984,Los Angeles,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,True
+Hiroyuki Izumi,M,Japan,JPN,1988,Seoul,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",No medal,True
+Yasunobu Kanada,M,Japan,JPN,1988,Seoul,Canoeing,"Canoeing Men's Canadian Singles, 500 metres",No medal,False
+Katsufusa Kashimura,M,Japan,JPN,1964,Tokyo,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,False
+Hideo Kobayashi,M,Japan,JPN,1964,Tokyo,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,False
+Kazumori Koike,M,Japan,JPN,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,True
+Kazumori Koike,M,Japan,JPN,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,True
+Momotaro Matsushita,M,Japan,JPN,2012,London,Canoeing,"Canoeing Men's Kayak Singles, 200 metres",No medal,True
+Momotaro Matsushita,M,Japan,JPN,2012,London,Canoeing,"Canoeing Men's Kayak Doubles, 200 metres",No medal,True
+Masanari Mochida,M,Japan,JPN,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,False
+Hiroyuki Nagao,M,Japan,JPN,2008,Beijing,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,False
+Mitsuo Nakanishi,M,Japan,JPN,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,True
+Mitsuo Nakanishi,M,Japan,JPN,1976,Montreal,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",No medal,True
+Atsumobu Ogata,M,Japan,JPN,1976,Montreal,Canoeing,"Canoeing Men's Canadian Singles, 500 metres",No medal,True
+Atsumobu Ogata,M,Japan,JPN,1976,Montreal,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",No medal,True
+Atsumobu Ogata,M,Japan,JPN,1976,Montreal,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,True
+Shoken Okada,M,Japan,JPN,1972,Munich,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,False
+Naoya Sakamoto,M,Japan,JPN,2012,London,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,False
+Toshisuke Sakamoto,M,Japan,JPN,1988,Seoul,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,False
+Masatoshi Sanma,M,Japan,JPN,2008,Beijing,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,False
+Shota Sasaki,M,Japan,JPN,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,False
+Tsubasa Sasaki,M,Japan,JPN,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,False
+Tadamasa Sato,M,Japan,JPN,1964,Tokyo,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,True
+Tadamasa Sato,M,Japan,JPN,1972,Munich,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,True
+Hideo Shigashiyama,M,Japan,JPN,1964,Tokyo,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,False
+Tomio Sumimoto,M,Japan,JPN,1964,Tokyo,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,False
+Katsuya Toyama,M,Japan,JPN,1988,Seoul,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,True
+Katsuya Toyama,M,Japan,JPN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",No medal,True
+Katsuya Toyama,M,Japan,JPN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,True
+Tsunehisa Uchino,M,Japan,JPN,1988,Seoul,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",No medal,True
+Tsunehisa Uchino,M,Japan,JPN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",No medal,True
+Tsunehisa Uchino,M,Japan,JPN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,True
+Yuji Umezawa,M,Japan,JPN,1964,Tokyo,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,False
+Hiroki Watanabe,M,Japan,JPN,2012,London,Canoeing,"Canoeing Men's Kayak Doubles, 200 metres",No medal,False
+Tetsumasa Yamaguchi,M,Japan,JPN,1968,Mexico City,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",No medal,True
+Tetsumasa Yamaguchi,M,Japan,JPN,1968,Mexico City,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,True
+Tetsumasa Yamaguchi,M,Japan,JPN,1972,Munich,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",No medal,True
+Hisao Yanagisawa,M,Japan,JPN,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,True
+Hisao Yanagisawa,M,Japan,JPN,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,True
+Kazuki Yazawa,M,Japan,JPN,2008,Beijing,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,True
+Kazuki Yazawa,M,Japan,JPN,2012,London,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,True
+Kazuki Yazawa,M,Japan,JPN,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,True
+Nobuatsu Yoshino,M,Japan,JPN,1968,Mexico City,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,False
+Shoji Yoshio,M,Japan,JPN,1964,Tokyo,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",No medal,False

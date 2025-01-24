@@ -1,0 +1,16 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Alphonzo Sr.,M,United States-2,USA,1904,St. Louis,Tennis,Tennis Men's Doubles,Silver,False
+James Blake,M,United States-2,USA,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,False
+Robert Bryan,M,United States-2,USA,2012,London,Tennis,Tennis Mixed Doubles,No medal,False
+Mardy Fish,M,United States-2,USA,2004,Athina,Tennis,Tennis Men's Doubles,No medal,False
+Francis Hunter,M,United States-2,USA,1924,Paris,Tennis,Tennis Men's Doubles,Gold,False
+John Isner,M,United States-2,USA,2012,London,Tennis,Tennis Men's Doubles,No medal,False
+Steve Johnson,M,United States-2,USA,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,Bronze,False
+Robert Leroy,M,United States-2,USA,1904,St. Louis,Tennis,Tennis Men's Doubles,Silver,False
+Sam Querrey,M,United States-2,USA,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,False
+Vincent Richards,M,United States-2,USA,1924,Paris,Tennis,Tennis Mixed Doubles,Silver,True
+Vincent Richards,M,United States-2,USA,1924,Paris,Tennis,Tennis Men's Doubles,Gold,True
+Andrew Roddick,M,United States-2,USA,2004,Athina,Tennis,Tennis Men's Doubles,No medal,True
+Andrew Roddick,M,United States-2,USA,2012,London,Tennis,Tennis Men's Doubles,No medal,True
+Jack Sock,M,United States-2,USA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,Gold,True
+Jack Sock,M,United States-2,USA,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,Bronze,True

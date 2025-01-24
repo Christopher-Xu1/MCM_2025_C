@@ -1,0 +1,8 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Sylvain Andre,M,France,FRA,2020,Tokyo,Cycling BMX Racing,Men,No medal,True
+Joris Daudet,M,France,FRA,2020,Tokyo,Cycling BMX Racing,Men,No medal,True
+Romain Mahieu,M,France,FRA,2020,Tokyo,Cycling BMX Racing,Men,No medal,True
+Sylvain Andre,M,France,FRA,2024,Paris,Cycling BMX Racing,Men,Silver,True
+Joris Daudet,M,France,FRA,2024,Paris,Cycling BMX Racing,Men,Gold,True
+Romain Mahieu,M,France,FRA,2024,Paris,Cycling BMX Racing,Men,Bronze,True
+Arthur Pilard,M,France,FRA,2024,Paris,Cycling BMX Racing,Men,No medal,False

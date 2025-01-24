@@ -1,0 +1,73 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Cao Yuan,M,China,CHN,2012,London,Diving,Diving Men's Synchronized Platform,Gold,True
+Cao Yuan,M,China,CHN,2016,Rio de Janeiro,Diving,Diving Men's Springboard,Gold,True
+Cao Yuan,M,China,CHN,2016,Rio de Janeiro,Diving,Diving Men's Synchronized Springboard,Bronze,True
+Chen Aisen,M,China,CHN,2016,Rio de Janeiro,Diving,Diving Men's Platform,Gold,True
+Chen Aisen,M,China,CHN,2016,Rio de Janeiro,Diving,Diving Men's Synchronized Platform,Gold,True
+He Chao,M,China,CHN,2016,Rio de Janeiro,Diving,Diving Men's Springboard,No medal,False
+He Chong,M,China,CHN,2008,Beijing,Diving,Diving Men's Springboard,Gold,True
+He Chong,M,China,CHN,2012,London,Diving,Diving Men's Springboard,Bronze,True
+Hu Jia,M,China,CHN,2000,Sydney,Diving,Diving Men's Platform,Silver,True
+Hu Jia,M,China,CHN,2000,Sydney,Diving,Diving Men's Synchronized Platform,Silver,True
+Hu Jia,M,China,CHN,2004,Athina,Diving,Diving Men's Platform,Gold,True
+Huo Liang,M,China,CHN,2008,Beijing,Diving,Diving Men's Platform,No medal,True
+Huo Liang,M,China,CHN,2008,Beijing,Diving,Diving Men's Synchronized Platform,Gold,True
+Lan Wei,M,China,CHN,1992,Barcelona,Diving,Diving Men's Springboard,No medal,False
+Li Deliang,M,China,CHN,1988,Seoul,Diving,Diving Men's Springboard,Bronze,False
+Li Hongping,M,China,CHN,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,False
+Li Kongzheng,M,China,CHN,1984,Los Angeles,Diving,Diving Men's Platform,Bronze,True
+Li Kongzheng,M,China,CHN,1988,Seoul,Diving,Diving Men's Platform,No medal,True
+Lin Yue,M,China,CHN,2008,Beijing,Diving,Diving Men's Synchronized Platform,Gold,True
+Lin Yue,M,China,CHN,2012,London,Diving,Diving Men's Platform,No medal,True
+Lin Yue,M,China,CHN,2016,Rio de Janeiro,Diving,Diving Men's Synchronized Platform,Gold,True
+Luo Yutong,M,China,CHN,2012,London,Diving,Diving Men's Synchronized Springboard,Gold,False
+Peng Bo,M,China,CHN,2004,Athina,Diving,Diving Men's Springboard,Gold,True
+Peng Bo,M,China,CHN,2004,Athina,Diving,Diving Men's Synchronized Springboard,No medal,True
+Qin Kai,M,China,CHN,2008,Beijing,Diving,Diving Men's Springboard,Bronze,True
+Qin Kai,M,China,CHN,2008,Beijing,Diving,Diving Men's Synchronized Springboard,Gold,True
+Qin Kai,M,China,CHN,2012,London,Diving,Diving Men's Springboard,Silver,True
+Qin Kai,M,China,CHN,2012,London,Diving,Diving Men's Synchronized Springboard,Gold,True
+Qin Kai,M,China,CHN,2016,Rio de Janeiro,Diving,Diving Men's Synchronized Springboard,Bronze,True
+Qiu Bo,M,China,CHN,2012,London,Diving,Diving Men's Platform,Silver,True
+Qiu Bo,M,China,CHN,2016,Rio de Janeiro,Diving,Diving Men's Platform,No medal,True
+Sun Shuwei,M,China,CHN,1992,Barcelona,Diving,Diving Men's Platform,Gold,False
+Tan Liangde,M,China,CHN,1984,Los Angeles,Diving,Diving Men's Springboard,Silver,True
+Tan Liangde,M,China,CHN,1988,Seoul,Diving,Diving Men's Springboard,Silver,True
+Tan Liangde,M,China,CHN,1992,Barcelona,Diving,Diving Men's Springboard,Silver,True
+Tian Liang,M,China,CHN,1996,Atlanta,Diving,Diving Men's Platform,No medal,True
+Tian Liang,M,China,CHN,2000,Sydney,Diving,Diving Men's Platform,Gold,True
+Tian Liang,M,China,CHN,2000,Sydney,Diving,Diving Men's Synchronized Platform,Silver,True
+Tian Liang,M,China,CHN,2004,Athina,Diving,Diving Men's Platform,Bronze,True
+Tian Liang,M,China,CHN,2004,Athina,Diving,Diving Men's Synchronized Platform,Gold,True
+Tong Hui,M,China,CHN,1984,Los Angeles,Diving,Diving Men's Platform,No medal,False
+Wang Feng,M,China,CHN,2004,Athina,Diving,Diving Men's Springboard,No medal,True
+Wang Feng,M,China,CHN,2008,Beijing,Diving,Diving Men's Synchronized Springboard,Gold,True
+Wang Kenan,M,China,CHN,2004,Athina,Diving,Diving Men's Synchronized Springboard,No medal,False
+Xiao Hailiang,M,China,CHN,1996,Atlanta,Diving,Diving Men's Platform,Bronze,True
+Xiao Hailiang,M,China,CHN,2000,Sydney,Diving,Diving Men's Springboard,No medal,True
+Xiao Hailiang,M,China,CHN,2000,Sydney,Diving,Diving Men's Synchronized Springboard,Gold,True
+Xiong Ni,M,China,CHN,1988,Seoul,Diving,Diving Men's Platform,Silver,True
+Xiong Ni,M,China,CHN,1992,Barcelona,Diving,Diving Men's Platform,Bronze,True
+Xiong Ni,M,China,CHN,1996,Atlanta,Diving,Diving Men's Springboard,Gold,True
+Xiong Ni,M,China,CHN,2000,Sydney,Diving,Diving Men's Springboard,Gold,True
+Xiong Ni,M,China,CHN,2000,Sydney,Diving,Diving Men's Synchronized Springboard,Gold,True
+Yang Jinghui,M,China,CHN,2004,Athina,Diving,Diving Men's Synchronized Platform,Gold,False
+Yu Zhuocheng,M,China,CHN,1996,Atlanta,Diving,Diving Men's Springboard,Silver,False
+Zhang Yanquan,M,China,CHN,2012,London,Diving,Diving Men's Synchronized Platform,Gold,False
+Zhou Luxin,M,China,CHN,2008,Beijing,Diving,Diving Men's Platform,Silver,False
+Yuan Cao,M,China,CHN,2020,Tokyo,Diving,Men's 10m Platform,Gold,True
+Yuan Cao,M,China,CHN,2020,Tokyo,Diving,Men's Synchronised 10m Platform Team,Silver,True
+Aisen Chen,M,China,CHN,2020,Tokyo,Diving,Men's Synchronised 10m Platform Team,Silver,False
+Zongyuan Wang,M,China,CHN,2020,Tokyo,Diving,Men's 3m Springboard,Silver,True
+Zongyuan Wang,M,China,CHN,2020,Tokyo,Diving,Men's Synchronised 3m Springboard Team,Gold,True
+Siyi Xie,M,China,CHN,2020,Tokyo,Diving,Men's 3m Springboard,Gold,True
+Siyi Xie,M,China,CHN,2020,Tokyo,Diving,Men's Synchronised 3m Springboard Team,Gold,True
+Jian Yang,M,China,CHN,2020,Tokyo,Diving,Men's 10m Platform,Silver,False
+Zongyuan Wang,M,China,CHN,2024,Paris,Diving,Men's 3m Springboard,Silver,True
+Zongyuan Wang,M,China,CHN,2024,Paris,Diving,Men's Synchronised 3m Springboard,Gold,True
+Siyi Xie,M,China,CHN,2024,Paris,Diving,Men's 3m Springboard,Gold,True
+Daoyi Long,M,China,CHN,2024,Paris,Diving,Men's Synchronised 3m Springboard,Gold,False
+Hao Yang,M,China,CHN,2024,Paris,Diving,Men's 10m Platform,No medal,True
+Hao Yang,M,China,CHN,2024,Paris,Diving,Men's Synchronised 10m Platform,Gold,True
+Junjie Lian,M,China,CHN,2024,Paris,Diving,Men's Synchronised 10m Platform,Gold,False
+Yuan Cao,M,China,CHN,2024,Paris,Diving,Men's 10m Platform,Gold,True

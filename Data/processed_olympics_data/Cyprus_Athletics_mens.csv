@@ -1,0 +1,49 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Georgios Andreou,M,Cyprus,CYP,2000,Sydney,Athletics,Athletics Men's Decathlon,No medal,False
+Dimitrios Araouzos,M,Cyprus,CYP,1984,Los Angeles,Athletics,Athletics Men's Long Jump,No medal,False
+Dimitrios Chondrokoukis,M,Cyprus,CYP,2016,Rio de Janeiro,Athletics,Athletics Men's High Jump,No medal,False
+Euripidis Dimosthenous,M,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Men's 400 metres,No medal,True
+Euripidis Dimosthenous,M,Cyprus,CYP,2000,Sydney,Athletics,Athletics Men's 400 metres,No medal,True
+Filippos Filippou,M,Cyprus,CYP,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,True
+Filippos Filippou,M,Cyprus,CYP,1984,Los Angeles,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,True
+Kyriakos Ioannou,M,Cyprus,CYP,2004,Athina,Athletics,Athletics Men's High Jump,No medal,True
+Kyriakos Ioannou,M,Cyprus,CYP,2008,Beijing,Athletics,Athletics Men's High Jump,No medal,True
+Kyriakos Ioannou,M,Cyprus,CYP,2012,London,Athletics,Athletics Men's High Jump,No medal,True
+Kyriakos Ioannou,M,Cyprus,CYP,2016,Rio de Janeiro,Athletics,Athletics Men's High Jump,No medal,True
+Marios Kassianidis,M,Cyprus,CYP,1984,Los Angeles,Athletics,"Athletics Men's 10,000 metres",No medal,True
+Marios Kassianidis,M,Cyprus,CYP,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,True
+Prodromos Katsantonis,M,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Men's 110 metres Hurdles,No medal,True
+Prodromos Katsantonis,M,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,True
+Prodromos Katsantonis,M,Cyprus,CYP,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,True
+Prodromos Katsantonis,M,Cyprus,CYP,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,True
+Marios Khatziandreou,M,Cyprus,CYP,1988,Seoul,Athletics,Athletics Men's Triple Jump,No medal,True
+Marios Khatziandreou,M,Cyprus,CYP,1992,Barcelona,Athletics,Athletics Men's Triple Jump,No medal,True
+Ilias Louka,M,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Men's Shot Put,No medal,False
+Mikhalis Louka,M,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Men's Shot Put,No medal,False
+Anninos Markoullidis,M,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,True
+Anninos Markoullidis,M,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,True
+Anninos Markoullidis,M,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,True
+Anninos Markoullidis,M,Cyprus,CYP,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,True
+Anninos Markoullidis,M,Cyprus,CYP,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,True
+Anninos Markoullidis,M,Cyprus,CYP,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,True
+Anninos Markoullidis,M,Cyprus,CYP,2004,Athina,Athletics,Athletics Men's 200 metres,No medal,True
+Apostolos Parellis,M,Cyprus,CYP,2012,London,Athletics,Athletics Men's Discus Throw,No medal,True
+Apostolos Parellis,M,Cyprus,CYP,2016,Rio de Janeiro,Athletics,Athletics Men's Discus Throw,No medal,True
+Konstantinos Pokhanis,M,Cyprus,CYP,2000,Sydney,Athletics,Athletics Men's 400 metres Hurdles,No medal,False
+Anthimos Rotos,M,Cyprus,CYP,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,False
+Loukas Spyrou,M,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,False
+Spyros Spyrou,M,Cyprus,CYP,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,True
+Spyros Spyrou,M,Cyprus,CYP,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,True
+Stathis Stasi,M,Cyprus,CYP,2000,Sydney,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,False
+Konstantinos Stathelakos,M,Cyprus,CYP,2012,London,Athletics,Athletics Men's Hammer Throw,No medal,False
+Fotis Stefani,M,Cyprus,CYP,1992,Barcelona,Athletics,Athletics Men's Pole Vault,No medal,True
+Fotis Stefani,M,Cyprus,CYP,2000,Sydney,Athletics,Athletics Men's Pole Vault,No medal,True
+Milan Trajkovic,M,Cyprus,CYP,2016,Rio de Janeiro,Athletics,Athletics Men's 110 metres Hurdles,No medal,True
+Giannis Zisimidis,M,Cyprus,CYP,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,True
+Giannis Zisimidis,M,Cyprus,CYP,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,True
+Giannis Zisimidis,M,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,True
+Giannis Zisimidis,M,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,True
+Giannis Zisimidis,M,Cyprus,CYP,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,True
+Apostolos Parellis,M,Cyprus,CYP,2020,Tokyo,Athletics,Men's Discus Throw,No medal,True
+Milan Trajkovic,M,Cyprus,CYP,2020,Tokyo,Athletics,Men's 110m Hurdles,No medal,True
+Milan Trajkovic,M,Cyprus,CYP,2024,Paris,Athletics,Men's 110m Hurdles,No medal,True

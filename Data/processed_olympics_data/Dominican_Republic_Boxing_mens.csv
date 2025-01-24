@@ -1,0 +1,59 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Jorge Amparo,M,Dominican Republic,DOM,1976,Montreal,Boxing,Boxing Men's Light-Middleweight,No medal,False
+Wellington Romero,M,Dominican Republic,DOM,2012,London,Boxing,Boxing Men's Lightweight,No medal,False
+Hctor Avila,M,Dominican Republic,DOM,1992,Barcelona,Boxing,Boxing Men's Flyweight,No medal,False
+ngel Beltr,M,Dominican Republic,DOM,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,False
+Manuel Herrera,M,Dominican Republic,DOM,1984,Los Angeles,Boxing,Boxing Men's Light-Flyweight,No medal,True
+Manuel Herrera,M,Dominican Republic,DOM,1988,Seoul,Boxing,Boxing Men's Light-Flyweight,No medal,True
+Donato Cartagena,M,Dominican Republic,DOM,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,False
+Agustin Castillo,M,Dominican Republic,DOM,1992,Barcelona,Boxing,Boxing Men's Bantamweight,No medal,False
+Gilbert Rivera,M,Dominican Republic,DOM,2008,Beijing,Boxing,Boxing Men's Welterweight,No medal,False
+Junior Martnez,M,Dominican Republic,DOM,2012,London,Boxing,Boxing Men's Middleweight,No medal,False
+Victoriano Sosa,M,Dominican Republic,DOM,1992,Barcelona,Boxing,Boxing Men's Featherweight,No medal,False
+Gustavo Cruz,M,Dominican Republic,DOM,1976,Montreal,Boxing,Boxing Men's Featherweight,No medal,False
+Meluin Leon,M,Dominican Republic,DOM,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,False
+Leonel Nez,M,Dominican Republic,DOM,2016,Rio de Janeiro,Boxing,Boxing Men's Flyweight,No medal,False
+Fausto Mercedes,M,Dominican Republic,DOM,1992,Barcelona,Boxing,Boxing Men's Light-Flyweight,No medal,False
+Flix Guzmn,M,Dominican Republic,DOM,2004,Athina,Boxing,Boxing Men's Lightweight,No medal,True
+Flix Guzmn,M,Dominican Republic,DOM,2008,Beijing,Boxing,Boxing Men's Light-Welterweight,Gold,True
+William Alcantara,M,Dominican Republic,DOM,2012,London,Boxing,Boxing Men's Bantamweight,No medal,False
+Pedro Reynoso,M,Dominican Republic,DOM,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,False
+Virgilio Frias,M,Dominican Republic,DOM,1984,Los Angeles,Boxing,Boxing Men's Heavyweight,No medal,False
+Hctor Mora,M,Dominican Republic,DOM,2016,Rio de Janeiro,Boxing,Boxing Men's Bantamweight,No medal,False
+Joan Amaro,M,Dominican Republic,DOM,1996,Atlanta,Boxing,Boxing Men's Flyweight,No medal,False
+Gabriel Romero,M,Dominican Republic,DOM,1996,Atlanta,Boxing,Boxing Men's Light-Heavyweight,No medal,False
+Yovanny Lorenzo,M,Dominican Republic,DOM,2000,Sydney,Boxing,Boxing Men's Welterweight,No medal,False
+Rogelio Martnez,M,Dominican Republic,DOM,1996,Atlanta,Boxing,Boxing Men's Welterweight,No medal,False
+Argenis Zapata,M,Dominican Republic,DOM,2004,Athina,Boxing,Boxing Men's Bantamweight,No medal,False
+Eleoncio Mercedes,M,Dominican Republic,DOM,1976,Montreal,Boxing,Boxing Men's Light-Flyweight,No medal,False
+Abraham Mieses,M,Dominican Republic,DOM,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,False
+Miguel Mercedes,M,Dominican Republic,DOM,1996,Atlanta,Boxing,Boxing Men's Lightweight,No medal,False
+Johnny Montero,M,Dominican Republic,DOM,2008,Beijing,Boxing,Boxing Men's Light-Flyweight,No medal,False
+Isidro Rodrguez,M,Dominican Republic,DOM,2004,Athina,Boxing,Boxing Men's Light-Welterweight,No medal,False
+Roberto Gonzlez,M,Dominican Republic,DOM,2008,Beijing,Boxing,Boxing Men's Featherweight,No medal,False
+Johnny Hughes,M,Dominican Republic,DOM,1996,Atlanta,Boxing,Boxing Men's Bantamweight,No medal,False
+Pedro Nolasco,M,Dominican Republic,DOM,1984,Los Angeles,Boxing,Boxing Men's Bantamweight,Bronze,False
+Argenis Nez,M,Dominican Republic,DOM,2008,Beijing,Boxing,Boxing Men's Middleweight,No medal,False
+Juan Pichardo,M,Dominican Republic,DOM,2004,Athina,Boxing,Boxing Men's Flyweight,No medal,True
+Juan Pichardo,M,Dominican Republic,DOM,2008,Beijing,Boxing,Boxing Men's Flyweight,No medal,True
+Jos Reyes,M,Dominican Republic,DOM,1996,Atlanta,Boxing,Boxing Men's Light-Flyweight,No medal,False
+Ramn Puello,M,Dominican Republic,DOM,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,False
+Laureano Padilla,M,Dominican Republic,DOM,1984,Los Angeles,Boxing,Boxing Men's Flyweight,No medal,False
+Csar Robles,M,Dominican Republic,DOM,1992,Barcelona,Boxing,Boxing Men's Welterweight,No medal,False
+Jerson Ravelo,M,Dominican Republic,DOM,2000,Sydney,Boxing,Boxing Men's Middleweight,No medal,False
+Rafael Montas,M,Dominican Republic,DOM,1992,Barcelona,Boxing,Boxing Men's Light-Welterweight,No medal,False
+Jos Saizozema,M,Dominican Republic,DOM,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,False
+Francisco Snchez,M,Dominican Republic,DOM,1976,Montreal,Boxing,Boxing Men's Bantamweight,No medal,False
+Jess Snchez,M,Dominican Republic,DOM,1976,Montreal,Boxing,Boxing Men's Light-Welterweight,No medal,False
+Andrs Tena,M,Dominican Republic,DOM,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,False
+Juan Cabrera,M,Dominican Republic,DOM,2000,Sydney,Boxing,Boxing Men's Light-Middleweight,No medal,True
+Juan Cabrera,M,Dominican Republic,DOM,2004,Athina,Boxing,Boxing Men's Middleweight,No medal,True
+Jos Vallejo,M,Dominican Republic,DOM,1976,Montreal,Boxing,Boxing Men's Welterweight,No medal,False
+Emilio S.,M,Dominican Republic,DOM,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,False
+Euri Cedeno,M,Dominican Republic,DOM,2020,Tokyo,Boxing,Men's Middle (69-75kg),No medal,False
+de Miguel,M,Dominican Republic,DOM,2020,Tokyo,Boxing,Men's Feather (52-57kg),No medal,False
+de Leonel,M,Dominican Republic,DOM,2020,Tokyo,Boxing,Men's Light (57-63kg),No medal,False
+Rodrigo Marte,M,Dominican Republic,DOM,2020,Tokyo,Boxing,Men's Fly (48-52kg),No medal,False
+Rohan Polanco,M,Dominican Republic,DOM,2020,Tokyo,Boxing,Men's Welter (63-69kg),No medal,False
+Yunior Alcantara,M,Dominican Republic,DOM,2024,Paris,Boxing,Men's 51kg,Bronze,False
+Javier Pinales,M,Dominican Republic,DOM,2024,Paris,Boxing,Men's 80kg,Bronze,False

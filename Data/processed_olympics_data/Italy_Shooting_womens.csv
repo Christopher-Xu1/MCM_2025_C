@@ -1,0 +1,55 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Diana Bacosi,F,Italy,ITA,2016,Rio de Janeiro,Shooting,Shooting Women's Skeet,Gold,True
+Pia Baldisserri,F,Italy,ITA,1988,Seoul,Shooting,Shooting Mixed Trap,No medal,False
+Chiara Cainero,F,Italy,ITA,2004,Athina,Shooting,Shooting Women's Skeet,No medal,True
+Chiara Cainero,F,Italy,ITA,2008,Beijing,Shooting,Shooting Women's Skeet,Gold,True
+Chiara Cainero,F,Italy,ITA,2012,London,Shooting,Shooting Women's Skeet,No medal,True
+Chiara Cainero,F,Italy,ITA,2016,Rio de Janeiro,Shooting,Shooting Women's Skeet,Silver,True
+Deborah Gelisio,F,Italy,ITA,1996,Atlanta,Shooting,Shooting Women's Double Trap,No medal,True
+Deborah Gelisio,F,Italy,ITA,2000,Sydney,Shooting,Shooting Women's Double Trap,Silver,True
+Deborah Gelisio,F,Italy,ITA,2008,Beijing,Shooting,Shooting Women's Trap,No medal,True
+Maura Genovesi,F,Italy,ITA,2008,Beijing,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,True
+Maura Genovesi,F,Italy,ITA,2008,Beijing,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,True
+Edith Gufler,F,Italy,ITA,1984,Los Angeles,Shooting,"Shooting Women's Air Rifle, 10 metres",Silver,False
+Giulia Iannotti,F,Italy,ITA,2000,Sydney,Shooting,Shooting Women's Trap,No medal,False
+Elania Nardelli,F,Italy,ITA,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,True
+Elania Nardelli,F,Italy,ITA,2012,London,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,True
+Giovanna Pasello,F,Italy,ITA,1996,Atlanta,Shooting,Shooting Women's Double Trap,No medal,False
+Roberta Pelosi,F,Italy,ITA,2004,Athina,Shooting,Shooting Women's Trap,No medal,False
+Jessica Rossi,F,Italy,ITA,2012,London,Shooting,Shooting Women's Trap,Gold,True
+Jessica Rossi,F,Italy,ITA,2016,Rio de Janeiro,Shooting,Shooting Women's Trap,No medal,True
+Sabrina Sena,F,Italy,ITA,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,False
+Barbara Stizzoli,F,Italy,ITA,1996,Atlanta,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,True
+Barbara Stizzoli,F,Italy,ITA,1996,Atlanta,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,True
+Michela Suppo,F,Italy,ITA,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,True
+Michela Suppo,F,Italy,ITA,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,True
+Michela Suppo,F,Italy,ITA,1996,Atlanta,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,True
+Michela Suppo,F,Italy,ITA,1996,Atlanta,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,True
+Valentina Turisini,F,Italy,ITA,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,True
+Valentina Turisini,F,Italy,ITA,2004,Athina,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",Silver,True
+Valentina Turisini,F,Italy,ITA,2008,Beijing,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,True
+Valentina Turisini,F,Italy,ITA,2008,Beijing,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,True
+Cristina Vitali,F,Italy,ITA,2000,Sydney,Shooting,Shooting Women's Skeet,No medal,False
+Flavia Zanfr,F,Italy,ITA,1988,Seoul,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,False
+Petra Zublasing,F,Italy,ITA,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,True
+Petra Zublasing,F,Italy,ITA,2012,London,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,True
+Petra Zublasing,F,Italy,ITA,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,True
+Petra Zublasing,F,Italy,ITA,2016,Rio de Janeiro,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,True
+Loredana Zugna,F,Italy,ITA,1984,Los Angeles,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,False
+Diana Bacosi,F,Italy,ITA,2020,Tokyo,Shooting,Skeet Women,Silver,True
+Chiara Cainero,F,Italy,ITA,2020,Tokyo,Shooting,Skeet Women,No medal,True
+Sofia Ceccarello,F,Italy,ITA,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,True
+Sofia Ceccarello,F,Italy,ITA,2020,Tokyo,Shooting,50m Rifle 3 Positions Women,No medal,True
+Sofia Ceccarello,F,Italy,ITA,2020,Tokyo,Shooting,10m Air Rifle Mixed Team,No medal,True
+Jessica Rossi,F,Italy,ITA,2020,Tokyo,Shooting,Trap Women,No medal,True
+Jessica Rossi,F,Italy,ITA,2020,Tokyo,Shooting,Trap Mixed Team,No medal,True
+Silvana Stanco,F,Italy,ITA,2020,Tokyo,Shooting,Trap Women,No medal,False
+Barbara Gambaro,F,Italy,ITA,2024,Paris,Shooting,10m Air Rifle Women,No medal,True
+Barbara Gambaro,F,Italy,ITA,2024,Paris,Shooting,50m Rifle 3 Positions Women,No medal,True
+Barbara Gambaro,F,Italy,ITA,2024,Paris,Shooting,10m Air Rifle Mixed Team,No medal,True
+Maria Stanco,F,Italy,ITA,2024,Paris,Shooting,Trap Women,Silver,False
+Jessica Rossi,F,Italy,ITA,2024,Paris,Shooting,Trap Women,No medal,True
+Diana Bacosi,F,Italy,ITA,2024,Paris,Shooting,Skeet Women,No medal,True
+Diana Bacosi,F,Italy,ITA,2024,Paris,Shooting,Skeet Mixed Team,Gold,True
+Martina Bartolomei,F,Italy,ITA,2024,Paris,Shooting,Skeet Women,No medal,True
+Martina Bartolomei,F,Italy,ITA,2024,Paris,Shooting,Skeet Mixed Team,No medal,True

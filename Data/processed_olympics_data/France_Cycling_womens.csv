@@ -1,0 +1,79 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Flicia (-vetu),F,France,FRA,1992,Barcelona,Cycling,Cycling Women's Sprint,No medal,True
+Flicia (-vetu),F,France,FRA,1996,Atlanta,Cycling,Cycling Women's Sprint,Gold,True
+Flicia (-vetu),F,France,FRA,2000,Sydney,Cycling,Cycling Women's Sprint,Gold,True
+Flicia (-vetu),F,France,FRA,2000,Sydney,Cycling,Cycling Women's 500 metres Time Trial,Gold,True
+Laurie Berthon,F,France,FRA,2016,Rio de Janeiro,Cycling,Cycling Women's Omnium,No medal,False
+Aude Biannic,F,France,FRA,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,False
+Julie Bresset,F,France,FRA,2012,London,Cycling,"Cycling Women's Mountainbike, Cross-Country",Gold,False
+Anne-Caroline Chausson,F,France,FRA,2008,Beijing,Cycling,Cycling Women's BMX,Gold,False
+Sandie Clair,F,France,FRA,2012,London,Cycling,Cycling Women's Team Sprint,No medal,True
+Sandie Clair,F,France,FRA,2016,Rio de Janeiro,Cycling,Cycling Women's Sprint,No medal,True
+Sandie Clair,F,France,FRA,2016,Rio de Janeiro,Cycling,Cycling Women's Keirin,No medal,True
+Sandie Clair,F,France,FRA,2016,Rio de Janeiro,Cycling,Cycling Women's Team Sprint,No medal,True
+Perrine Clauzel,F,France,FRA,2016,Rio de Janeiro,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,False
+Marion Clignet,F,France,FRA,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Marion Clignet,F,France,FRA,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Marion Clignet,F,France,FRA,1996,Atlanta,Cycling,Cycling Women's Individual Time Trial,No medal,True
+Marion Clignet,F,France,FRA,1996,Atlanta,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",Silver,True
+Marion Clignet,F,France,FRA,2000,Sydney,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",Silver,True
+Marion Clignet,F,France,FRA,2000,Sydney,Cycling,Cycling Women's Points Race,No medal,True
+Audrey (-ragot),F,France,FRA,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Audrey (-ragot),F,France,FRA,2012,London,Cycling,Cycling Women's Individual Time Trial,No medal,True
+Audrey (-ragot),F,France,FRA,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Audrey (-ragot),F,France,FRA,2016,Rio de Janeiro,Cycling,Cycling Women's Individual Time Trial,No medal,True
+Virginie Cueff,F,France,FRA,2012,London,Cycling,Cycling Women's Sprint,No medal,True
+Virginie Cueff,F,France,FRA,2012,London,Cycling,Cycling Women's Team Sprint,No medal,True
+Virginie Cueff,F,France,FRA,2016,Rio de Janeiro,Cycling,Cycling Women's Sprint,No medal,True
+Virginie Cueff,F,France,FRA,2016,Rio de Janeiro,Cycling,Cycling Women's Keirin,No medal,True
+Virginie Cueff,F,France,FRA,2016,Rio de Janeiro,Cycling,Cycling Women's Team Sprint,No medal,True
+Dominique Damiani,F,France,FRA,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,False
+Nathalie Even-lancien,F,France,FRA,1996,Atlanta,Cycling,Cycling Women's Points Race,Gold,False
+Magali Faure-humbert,F,France,FRA,2000,Sydney,Cycling,Cycling Women's 500 metres Time Trial,No medal,False
+Pauline Ferrand-prevot,F,France,FRA,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Pauline Ferrand-prevot,F,France,FRA,2012,London,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,True
+Pauline Ferrand-prevot,F,France,FRA,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Pauline Ferrand-prevot,F,France,FRA,2016,Rio de Janeiro,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,True
+Christel Bruneau,F,France,FRA,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,False
+Isabelle Gautheron,F,France,FRA,1988,Seoul,Cycling,Cycling Women's Sprint,No medal,False
+Marielle Guichard,F,France,FRA,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,False
+Sonia (-raiwisque),F,France,FRA,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Sonia (-raiwisque),F,France,FRA,2004,Athina,Cycling,Cycling Women's Points Race,No medal,True
+Pascale Jeuland,F,France,FRA,2008,Beijing,Cycling,Cycling Women's Points Race,No medal,False
+Latitia Corguill,F,France,FRA,2008,Beijing,Cycling,Cycling Women's BMX,Silver,True
+Latitia Corguill,F,France,FRA,2012,London,Cycling,Cycling Women's BMX,No medal,True
+Magali Floc'h,F,France,FRA,2000,Sydney,Cycling,"Cycling Women's Road Race, Individual",No medal,False
+Laurence Leboucher,F,France,FRA,1996,Atlanta,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,True
+Laurence Leboucher,F,France,FRA,2000,Sydney,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,True
+Laurence Leboucher,F,France,FRA,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,True
+Laurence Leboucher,F,France,FRA,2008,Beijing,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,True
+Jeannie Longo-ciprelli,F,France,FRA,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Jeannie Longo-ciprelli,F,France,FRA,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Jeannie Longo-ciprelli,F,France,FRA,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",Silver,True
+Jeannie Longo-ciprelli,F,France,FRA,1992,Barcelona,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,True
+Jeannie Longo-ciprelli,F,France,FRA,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",Gold,True
+Jeannie Longo-ciprelli,F,France,FRA,1996,Atlanta,Cycling,Cycling Women's Individual Time Trial,Silver,True
+Jeannie Longo-ciprelli,F,France,FRA,2000,Sydney,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Jeannie Longo-ciprelli,F,France,FRA,2000,Sydney,Cycling,Cycling Women's Individual Time Trial,Bronze,True
+Jeannie Longo-ciprelli,F,France,FRA,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Jeannie Longo-ciprelli,F,France,FRA,2004,Athina,Cycling,Cycling Women's Individual Time Trial,No medal,True
+Jeannie Longo-ciprelli,F,France,FRA,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Jeannie Longo-ciprelli,F,France,FRA,2008,Beijing,Cycling,Cycling Women's Individual Time Trial,No medal,True
+Catherine Marsal,F,France,FRA,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Catherine Marsal,F,France,FRA,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Catherine Marsal,F,France,FRA,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Catherine Marsal,F,France,FRA,2000,Sydney,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Catherine Marsal,F,France,FRA,2000,Sydney,Cycling,Cycling Women's Individual Time Trial,No medal,True
+Ccile Odin,F,France,FRA,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Ccile Odin,F,France,FRA,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Edwige Pitel,F,France,FRA,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Edwige Pitel,F,France,FRA,2004,Athina,Cycling,Cycling Women's Individual Time Trial,No medal,True
+Magalie Pottier,F,France,FRA,2012,London,Cycling,Cycling Women's BMX,No medal,False
+Maryline Salvetat,F,France,FRA,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,True
+Maryline Salvetat,F,France,FRA,2008,Beijing,Cycling,Cycling Women's Individual Time Trial,No medal,True
+Clara Snchez,F,France,FRA,2008,Beijing,Cycling,Cycling Women's Sprint,No medal,True
+Clara Snchez,F,France,FRA,2012,London,Cycling,Cycling Women's Keirin,No medal,True
+Clara Snchez,F,France,FRA,2012,London,Cycling,Cycling Women's Omnium,No medal,True
+Sandra Temporelli,F,France,FRA,1996,Atlanta,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,False
+Manon Valentino,F,France,FRA,2016,Rio de Janeiro,Cycling,Cycling Women's BMX,No medal,False
+Sophie Villeneuve,F,France,FRA,2000,Sydney,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,False

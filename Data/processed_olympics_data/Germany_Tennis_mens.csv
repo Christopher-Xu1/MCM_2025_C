@@ -1,0 +1,64 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Boris Becker,M,Germany,GER,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,True
+Boris Becker,M,Germany,GER,1992,Barcelona,Tennis,Tennis Men's Doubles,Gold,True
+Dustin Brown,M,Germany,GER,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,False
+Otto Froitzheim,M,Germany,GER,1908,London,Tennis,Tennis Men's Singles,Silver,False
+Marc-Kevin Goellner,M,Germany,GER,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,True
+Marc-Kevin Goellner,M,Germany,GER,1996,Atlanta,Tennis,Tennis Men's Doubles,Bronze,True
+Thomas Haas,M,Germany,GER,2000,Sydney,Tennis,Tennis Men's Singles,Silver,True
+Thomas Haas,M,Germany,GER,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,True
+Thomas Haas,M,Germany,GER,2004,Athina,Tennis,Tennis Men's Singles,No medal,True
+Hugo Jr.,M,Germany,GER,1904,St. Louis,Tennis,Tennis Men's Singles,No medal,False
+Luis Heyden,M,Germany,GER,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,False
+Christopher Kas,M,Germany,GER,2012,London,Tennis,Tennis Men's Doubles,No medal,False
+Nicolas Kiefer,M,Germany,GER,2000,Sydney,Tennis,Tennis Men's Singles,No medal,True
+Nicolas Kiefer,M,Germany,GER,2004,Athina,Tennis,Tennis Men's Singles,No medal,True
+Nicolas Kiefer,M,Germany,GER,2004,Athina,Tennis,Tennis Men's Doubles,Silver,True
+Nicolas Kiefer,M,Germany,GER,2008,Beijing,Tennis,Tennis Men's Singles,No medal,True
+Nicolas Kiefer,M,Germany,GER,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,True
+Philipp Kohlschreiber,M,Germany,GER,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,True
+Oskar Kreuzer,M,Germany,GER,1908,London,Tennis,Tennis Men's Singles,No medal,True
+Oskar Kreuzer,M,Germany,GER,1912,Stockholm,Tennis,Tennis Men's Singles,Bronze,True
+Otto D'almeida,M,Germany,GER,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,False
+Florian Mayer,M,Germany,GER,2004,Athina,Tennis,Tennis Men's Singles,No medal,False
+Philipp Petzschner,M,Germany,GER,2012,London,Tennis,Tennis Men's Singles,No medal,True
+Philipp Petzschner,M,Germany,GER,2012,London,Tennis,Tennis Men's Doubles,No medal,True
+David Prinosil,M,Germany,GER,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,True
+David Prinosil,M,Germany,GER,1996,Atlanta,Tennis,Tennis Men's Doubles,Bronze,True
+David Prinosil,M,Germany,GER,2000,Sydney,Tennis,Tennis Men's Singles,No medal,True
+David Prinosil,M,Germany,GER,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,True
+Friedrich-Wilhelm Rahe,M,Germany,GER,1908,London,Tennis,Tennis Men's Singles,No medal,False
+Heinrich Schomburgk,M,Germany,GER,1908,London,Tennis,Tennis Men's Singles,No medal,True
+Heinrich Schomburgk,M,Germany,GER,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,True
+Heinrich Schomburgk,M,Germany,GER,1912,Stockholm,Tennis,Tennis Mixed Doubles,Gold,True
+Rainer Schttler,M,Germany,GER,2000,Sydney,Tennis,Tennis Men's Singles,No medal,True
+Rainer Schttler,M,Germany,GER,2004,Athina,Tennis,Tennis Men's Singles,No medal,True
+Rainer Schttler,M,Germany,GER,2004,Athina,Tennis,Tennis Men's Doubles,Silver,True
+Rainer Schttler,M,Germany,GER,2008,Beijing,Tennis,Tennis Men's Singles,No medal,True
+Rainer Schttler,M,Germany,GER,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,True
+Robert Spiess,M,Germany,GER,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,False
+Carl-Uwe Steeb,M,Germany,GER,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,False
+Michael Stich,M,Germany,GER,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,True
+Michael Stich,M,Germany,GER,1992,Barcelona,Tennis,Tennis Men's Doubles,Gold,True
+Jan-Lennard Struff,M,Germany,GER,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,False
+Friedrich Traun,M,Germany,GER,1896,Athina,Tennis,Tennis Men's Singles,No medal,False
+Alexander Bissing,M,Germany,GER,1908,London,Tennis,Tennis Men's Singles,No medal,False
+Otto Mller,M,Germany,GER,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,False
+Dominik Koepfer,M,Germany,GER,2020,Tokyo,Tennis,Men's Singles,No medal,True
+Philipp Kohlschreiber,M,Germany,GER,2020,Tokyo,Tennis,Men's Singles,No medal,True
+Kevin Krawietz,M,Germany,GER,2020,Tokyo,Tennis,Men's Doubles Team,No medal,True
+Kevin Krawietz,M,Germany,GER,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,True
+Tim Puetz,M,Germany,GER,2020,Tokyo,Tennis,Men's Doubles Team,No medal,True
+Jan-lennard Struff,M,Germany,GER,2020,Tokyo,Tennis,Men's Singles,No medal,True
+Jan-lennard Struff,M,Germany,GER,2020,Tokyo,Tennis,Men's Doubles Team,No medal,True
+Alexander Zverev,M,Germany,GER,2020,Tokyo,Tennis,Men's Singles,Gold,True
+Alexander Zverev,M,Germany,GER,2020,Tokyo,Tennis,Men's Doubles Team,No medal,True
+Alexander Zverev,M,Germany,GER,2024,Paris,Tennis,Men's Singles,No medal,True
+Alexander Zverev,M,Germany,GER,2024,Paris,Tennis,Mixed Doubles,No medal,True
+Maximilian Marterer,M,Germany,GER,2024,Paris,Tennis,Men's Singles,No medal,False
+Jan-lennard Struff,M,Germany,GER,2024,Paris,Tennis,Men's Doubles,No medal,True
+Jan-lennard Struff,M,Germany,GER,2024,Paris,Tennis,Men's Singles,No medal,True
+Tim Puetz,M,Germany,GER,2024,Paris,Tennis,Men's Doubles,No medal,True
+Kevin Krawietz,M,Germany,GER,2024,Paris,Tennis,Men's Doubles,No medal,True
+Dominik Koepfer,M,Germany,GER,2024,Paris,Tennis,Men's Doubles,No medal,True
+Dominik Koepfer,M,Germany,GER,2024,Paris,Tennis,Men's Singles,No medal,True

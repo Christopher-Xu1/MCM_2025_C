@@ -1,0 +1,68 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Benjamin Behrla,M,Germany,GER,2008,Beijing,Judo,Judo Men's Half-Heavyweight,No medal,False
+Ole Bischof,M,Germany,GER,2008,Beijing,Judo,Judo Men's Half-Middleweight,Gold,True
+Ole Bischof,M,Germany,GER,2012,London,Judo,Judo Men's Half-Middleweight,Silver,True
+Andre Breitbarth,M,Germany,GER,2016,Rio de Janeiro,Judo,Judo Men's Heavyweight,No medal,False
+Gerhard Dempf,M,Germany,GER,2004,Athina,Judo,Judo Men's Middleweight,No medal,False
+Stefan Dott,M,Germany,GER,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,True
+Stefan Dott,M,Germany,GER,1996,Atlanta,Judo,Judo Men's Half-Middleweight,No medal,True
+Tobias Englmaier,M,Germany,GER,2012,London,Judo,Judo Men's Extra-Lightweight,No medal,True
+Tobias Englmaier,M,Germany,GER,2016,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,No medal,True
+Karl-Richard Frey,M,Germany,GER,2016,Rio de Janeiro,Judo,Judo Men's Half-Heavyweight,No medal,False
+Klaus Glahn,M,Germany,GER,1964,Tokyo,Judo,Judo Men's Open Class,Bronze,False
+Daniel Grschner,M,Germany,GER,2000,Sydney,Judo,Judo Men's Half-Heavyweight,No medal,False
+Oliver Gussenberg,M,Germany,GER,2000,Sydney,Judo,Judo Men's Extra-Lightweight,No medal,True
+Oliver Gussenberg,M,Germany,GER,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,True
+Wolfgang Hofmann,M,Germany,GER,1964,Tokyo,Judo,Judo Men's Middleweight,Silver,False
+Michael Jurack,M,Germany,GER,2004,Athina,Judo,Judo Men's Half-Heavyweight,Bronze,False
+Detlef Knorrek,M,Germany,GER,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,True
+Detlef Knorrek,M,Germany,GER,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,True
+Christophe Lambert,M,Germany,GER,2012,London,Judo,Judo Men's Middleweight,No medal,False
+Florin Lascau,M,Germany,GER,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,False
+Axel Lobenstein,M,Germany,GER,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,False
+Sven Maresch,M,Germany,GER,2016,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,No medal,False
+Frank Mller,M,Germany,GER,1996,Atlanta,Judo,Judo Men's Heavyweight,Bronze,True
+Frank Mller,M,Germany,GER,2000,Sydney,Judo,Judo Men's Heavyweight,No medal,True
+Herbert Niemann,M,Germany,GER,1964,Tokyo,Judo,Judo Men's Heavyweight,No medal,False
+Marc Odenthal,M,Germany,GER,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,False
+Dimitri Peters,M,Germany,GER,2012,London,Judo,Judo Men's Half-Heavyweight,Bronze,False
+Michael Pinske,M,Germany,GER,2008,Beijing,Judo,Judo Men's Middleweight,No medal,False
+Udo Quellmalz,M,Germany,GER,1992,Barcelona,Judo,Judo Men's Half-Lightweight,Bronze,True
+Udo Quellmalz,M,Germany,GER,1996,Atlanta,Judo,Judo Men's Half-Lightweight,Gold,True
+Matthias Schiessleder,M,Germany,GER,1964,Tokyo,Judo,Judo Men's Lightweight,No medal,False
+Martin Schmidt,M,Germany,GER,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,True
+Martin Schmidt,M,Germany,GER,2000,Sydney,Judo,Judo Men's Lightweight,No medal,True
+Sebastian Seidl,M,Germany,GER,2016,Rio de Janeiro,Judo,Judo Men's Half-Lightweight,No medal,True
+Marko Spittka,M,Germany,GER,1996,Atlanta,Judo,Judo Men's Middleweight,Bronze,True
+Marko Spittka,M,Germany,GER,2000,Sydney,Judo,Judo Men's Middleweight,No medal,True
+Henry Sthr,M,Germany,GER,1992,Barcelona,Judo,Judo Men's Heavyweight,No medal,False
+Andreas Tlzer,M,Germany,GER,2004,Athina,Judo,Judo Men's Heavyweight,No medal,True
+Andreas Tlzer,M,Germany,GER,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,True
+Andreas Tlzer,M,Germany,GER,2012,London,Judo,Judo Men's Heavyweight,Bronze,True
+Richard Trautmann,M,Germany,GER,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,Bronze,True
+Richard Trautmann,M,Germany,GER,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,Bronze,True
+Christopher Vlk,M,Germany,GER,2012,London,Judo,Judo Men's Lightweight,No medal,False
+Igor Wandtke,M,Germany,GER,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,True
+Florian Wanner,M,Germany,GER,2000,Sydney,Judo,Judo Men's Half-Middleweight,No medal,True
+Florian Wanner,M,Germany,GER,2004,Athina,Judo,Judo Men's Half-Middleweight,No medal,True
+Johannes Frey,M,Germany,GER,2020,Tokyo,Judo,Men +100 kg,No medal,True
+Johannes Frey,M,Germany,GER,2020,Tokyo,Judo,Mixed Team,Bronze,True
+Karl-richard Frey,M,Germany,GER,2020,Tokyo,Judo,Men -100 kg,No medal,True
+Karl-richard Frey,M,Germany,GER,2020,Tokyo,Judo,Mixed Team,Bronze,True
+Moritz Plafky,M,Germany,GER,2020,Tokyo,Judo,Men -60 kg,No medal,False
+Dominic Ressel,M,Germany,GER,2020,Tokyo,Judo,Men -81 kg,No medal,True
+Dominic Ressel,M,Germany,GER,2020,Tokyo,Judo,Mixed Team,Bronze,True
+Sebastian Seidl,M,Germany,GER,2020,Tokyo,Judo,Men -66 kg,No medal,True
+Sebastian Seidl,M,Germany,GER,2020,Tokyo,Judo,Mixed Team,Bronze,True
+Eduard Trippel,M,Germany,GER,2020,Tokyo,Judo,Men -90 kg,Silver,True
+Eduard Trippel,M,Germany,GER,2020,Tokyo,Judo,Mixed Team,Bronze,True
+Igor Wandtke,M,Germany,GER,2020,Tokyo,Judo,Men -73 kg,No medal,True
+Igor Wandtke,M,Germany,GER,2020,Tokyo,Judo,Mixed Team,Bronze,True
+Igor Wandtke,M,Germany,GER,2024,Paris,Judo,Men -73 kg,No medal,True
+Igor Wandtke,M,Germany,GER,2024,Paris,Judo,Mixed Team,No medal,True
+Eduard Trippel,M,Germany,GER,2024,Paris,Judo,Men -90 kg,No medal,True
+Eduard Trippel,M,Germany,GER,2024,Paris,Judo,Mixed Team,No medal,True
+Timo Cavelius,M,Germany,GER,2024,Paris,Judo,Men -81 kg,No medal,True
+Timo Cavelius,M,Germany,GER,2024,Paris,Judo,Mixed Team,No medal,True
+Erik Abramov,M,Germany,GER,2024,Paris,Judo,Men +100 kg,No medal,True
+Erik Abramov,M,Germany,GER,2024,Paris,Judo,Mixed Team,No medal,True

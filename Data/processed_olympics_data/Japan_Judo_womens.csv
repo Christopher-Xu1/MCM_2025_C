@@ -1,0 +1,77 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Noriko Anno,F,Japan,JPN,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,True
+Noriko Anno,F,Japan,JPN,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,True
+Noriko Anno,F,Japan,JPN,2004,Athina,Judo,Judo Women's Half-Heavyweight,Gold,True
+Yuko Emoto,F,Japan,JPN,1996,Atlanta,Judo,Judo Women's Half-Middleweight,Gold,False
+Ryoko Fujimoto,F,Japan,JPN,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,False
+Tomoko Fukumi,F,Japan,JPN,2012,London,Judo,Judo Women's Extra-Lightweight,No medal,False
+Risa Kazumi,F,Japan,JPN,1996,Atlanta,Judo,Judo Women's Middleweight,No medal,False
+Takako Kobayashi,F,Japan,JPN,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,False
+Ami Kondo,F,Japan,JPN,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,Bronze,False
+Kie Kusakabe,F,Japan,JPN,2000,Sydney,Judo,Judo Women's Lightweight,Bronze,True
+Kie Kusakabe,F,Japan,JPN,2004,Athina,Judo,Judo Women's Lightweight,No medal,True
+Keiko Maeda,F,Japan,JPN,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,False
+Kaori Matsumoto,F,Japan,JPN,2012,London,Judo,Judo Women's Lightweight,Gold,True
+Kaori Matsumoto,F,Japan,JPN,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,Bronze,True
+Noriko Mizoguchi,F,Japan,JPN,1992,Barcelona,Judo,Judo Women's Half-Lightweight,Silver,True
+Noriko Mizoguchi,F,Japan,JPN,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,True
+Misato Nakamura,F,Japan,JPN,2008,Beijing,Judo,Judo Women's Half-Lightweight,Bronze,True
+Misato Nakamura,F,Japan,JPN,2012,London,Judo,Judo Women's Half-Lightweight,No medal,True
+Misato Nakamura,F,Japan,JPN,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,Bronze,True
+Sae Nakazawa,F,Japan,JPN,2008,Beijing,Judo,Judo Women's Half-Heavyweight,No medal,False
+Akari Ogata,F,Japan,JPN,2012,London,Judo,Judo Women's Half-Heavyweight,No medal,False
+Yoko Sakaue,F,Japan,JPN,1992,Barcelona,Judo,Judo Women's Heavyweight,Bronze,False
+Aiko Sato,F,Japan,JPN,2008,Beijing,Judo,Judo Women's Lightweight,No medal,False
+Noriko Sugawara-narazaki,F,Japan,JPN,1996,Atlanta,Judo,Judo Women's Half-Lightweight,Bronze,True
+Noriko Sugawara-narazaki,F,Japan,JPN,2000,Sydney,Judo,Judo Women's Half-Lightweight,Silver,True
+Mika Sugimoto,F,Japan,JPN,2012,London,Judo,Judo Women's Heavyweight,Silver,False
+Haruka Tachimoto,F,Japan,JPN,2012,London,Judo,Judo Women's Middleweight,No medal,True
+Haruka Tachimoto,F,Japan,JPN,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,Gold,True
+Ryoko Tamura-tani,F,Japan,JPN,1992,Barcelona,Judo,Judo Women's Extra-Lightweight,Silver,True
+Ryoko Tamura-tani,F,Japan,JPN,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,Silver,True
+Ryoko Tamura-tani,F,Japan,JPN,2000,Sydney,Judo,Judo Women's Extra-Lightweight,Gold,True
+Ryoko Tamura-tani,F,Japan,JPN,2004,Athina,Judo,Judo Women's Extra-Lightweight,Gold,True
+Ryoko Tamura-tani,F,Japan,JPN,2008,Beijing,Judo,Judo Women's Extra-Lightweight,Bronze,True
+Yoko Tanabe,F,Japan,JPN,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,Silver,True
+Yoko Tanabe,F,Japan,JPN,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,Silver,True
+Ayumi Tanimoto,F,Japan,JPN,2004,Athina,Judo,Judo Women's Half-Middleweight,Gold,True
+Ayumi Tanimoto,F,Japan,JPN,2008,Beijing,Judo,Judo Women's Half-Middleweight,Gold,True
+Miku Tashiro,F,Japan,JPN,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,No medal,True
+Chiyori (-masuchi),F,Japan,JPN,1992,Barcelona,Judo,Judo Women's Lightweight,Bronze,False
+Maki Tsukada,F,Japan,JPN,2004,Athina,Judo,Judo Women's Heavyweight,Gold,True
+Maki Tsukada,F,Japan,JPN,2008,Beijing,Judo,Judo Women's Heavyweight,Silver,True
+Masae Ueno,F,Japan,JPN,2000,Sydney,Judo,Judo Women's Middleweight,No medal,True
+Masae Ueno,F,Japan,JPN,2004,Athina,Judo,Judo Women's Middleweight,Gold,True
+Masae Ueno,F,Japan,JPN,2008,Beijing,Judo,Judo Women's Middleweight,Gold,True
+Yoshie Ueno,F,Japan,JPN,2012,London,Judo,Judo Women's Half-Middleweight,Bronze,False
+Mami Umeki,F,Japan,JPN,2016,Rio de Janeiro,Judo,Judo Women's Half-Heavyweight,No medal,False
+Kanae Yamabe,F,Japan,JPN,2016,Rio de Janeiro,Judo,Judo Women's Heavyweight,Bronze,False
+Mayumi Yamashita,F,Japan,JPN,2000,Sydney,Judo,Judo Women's Heavyweight,Bronze,False
+Yuki Yokosawa,F,Japan,JPN,2004,Athina,Judo,Judo Women's Half-Lightweight,Silver,False
+Uta Abe,F,Japan,JPN,2020,Tokyo,Judo,Women -52 kg,Gold,True
+Uta Abe,F,Japan,JPN,2020,Tokyo,Judo,Mixed Team,Silver,True
+Chizuru Arai,F,Japan,JPN,2020,Tokyo,Judo,Women -70 kg,Gold,True
+Chizuru Arai,F,Japan,JPN,2020,Tokyo,Judo,Mixed Team,Silver,True
+Shori Hamada,F,Japan,JPN,2020,Tokyo,Judo,Women -78 kg,Gold,True
+Shori Hamada,F,Japan,JPN,2020,Tokyo,Judo,Mixed Team,Silver,True
+Akira Sone,F,Japan,JPN,2020,Tokyo,Judo,Women +78 kg,Gold,True
+Akira Sone,F,Japan,JPN,2020,Tokyo,Judo,Mixed Team,Silver,True
+Miku Tashiro,F,Japan,JPN,2020,Tokyo,Judo,Women -63 kg,No medal,True
+Miku Tashiro,F,Japan,JPN,2020,Tokyo,Judo,Mixed Team,Silver,True
+Funa Tonaki,F,Japan,JPN,2020,Tokyo,Judo,Women -48 kg,Silver,False
+Tsukasa Yoshida,F,Japan,JPN,2020,Tokyo,Judo,Women -57 kg,Bronze,True
+Tsukasa Yoshida,F,Japan,JPN,2020,Tokyo,Judo,Mixed Team,Silver,True
+Haruka Funakubo,F,Japan,JPN,2024,Paris,Judo,Women -57 kg,Bronze,True
+Haruka Funakubo,F,Japan,JPN,2024,Paris,Judo,Mixed Team,Silver,True
+Natsumi Tsunoda,F,Japan,JPN,2024,Paris,Judo,Women -48 kg,Gold,True
+Natsumi Tsunoda,F,Japan,JPN,2024,Paris,Judo,Mixed Team,Silver,True
+Rika Takayama,F,Japan,JPN,2024,Paris,Judo,Women -78 kg,No medal,True
+Rika Takayama,F,Japan,JPN,2024,Paris,Judo,Mixed Team,Silver,True
+Saki Niizoe,F,Japan,JPN,2024,Paris,Judo,Women -70 kg,No medal,True
+Saki Niizoe,F,Japan,JPN,2024,Paris,Judo,Mixed Team,Silver,True
+Uta Abe,F,Japan,JPN,2024,Paris,Judo,Women -52 kg,No medal,True
+Uta Abe,F,Japan,JPN,2024,Paris,Judo,Mixed Team,Silver,True
+Akira Sone,F,Japan,JPN,2024,Paris,Judo,Women +78 kg,No medal,True
+Akira Sone,F,Japan,JPN,2024,Paris,Judo,Mixed Team,Silver,True
+Miku Takaichi,F,Japan,JPN,2024,Paris,Judo,Women -63 kg,No medal,True
+Miku Takaichi,F,Japan,JPN,2024,Paris,Judo,Mixed Team,Silver,True

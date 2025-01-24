@@ -1,0 +1,4 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Brian Irr,M,United States,USA,2020,Tokyo,Karate,Men's Kumite +75kg,No medal,False
+Thomas Scott,M,United States,USA,2020,Tokyo,Karate,Men's Kumite -75kg,No medal,False
+Ariel Torres,M,United States,USA,2020,Tokyo,Karate,Men's Kata,Bronze,False

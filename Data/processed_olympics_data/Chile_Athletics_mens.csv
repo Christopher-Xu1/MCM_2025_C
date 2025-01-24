@@ -1,0 +1,139 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Jos Aceituno,M,Chile,CHI,1960,Roma,Athletics,"Athletics Men's 5,000 metres",No medal,False
+Juan Umazabal,M,Chile,CHI,1936,Berlin,Athletics,Athletics Men's Marathon,No medal,False
+Domingo Cardenas,M,Chile,CHI,1984,Los Angeles,Athletics,"Athletics Men's 5,000 metres",No medal,True
+Domingo Cardenas,M,Chile,CHI,1984,Los Angeles,Athletics,"Athletics Men's 10,000 metres",No medal,True
+Domingo Cardenas,M,Chile,CHI,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,True
+Domingo Cardenas,M,Chile,CHI,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,True
+scar Alvarado,M,Chile,CHI,1928,Amsterdam,Athletics,Athletics Men's 100 metres,No medal,True
+scar Alvarado,M,Chile,CHI,1928,Amsterdam,Athletics,Athletics Men's Long Jump,No medal,True
+Vctor Pincheira,M,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,False
+Edward Corts,M,Chile,CHI,2012,London,Athletics,Athletics Men's 50 kilometres Walk,No medal,True
+Edward Corts,M,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Men's 50 kilometres Walk,No medal,True
+Yerko Corts,M,Chile,CHI,2012,London,Athletics,Athletics Men's 20 kilometres Walk,No medal,True
+Yerko Corts,M,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Men's 20 kilometres Walk,No medal,True
+Ezequiel Baeza,M,Chile,CHI,1968,Mexico City,Athletics,Athletics Men's Marathon,No medal,False
+Marcelo Cardenas,M,Chile,CHI,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,False
+Gonzalo Costabal,M,Chile,CHI,2008,Beijing,Athletics,Athletics Men's Decathlon,No medal,True
+Gonzalo Costabal,M,Chile,CHI,2012,London,Athletics,Athletics Men's Decathlon,No medal,True
+Anton Barticevic,M,Chile,CHI,1936,Berlin,Athletics,Athletics Men's Hammer Throw,No medal,False
+Juan Jorguera,M,Chile,CHI,1920,Antwerpen,Athletics,Athletics Men's Marathon,No medal,False
+Richard Bayer,M,Chile,CHI,1928,Amsterdam,Athletics,Athletics Men's Hammer Throw,No medal,False
+Hctor L.,M,Chile,CHI,1928,Amsterdam,Athletics,Athletics Men's Discus Throw,No medal,False
+Miguel Castro,M,Chile,CHI,1936,Berlin,Athletics,"Athletics Men's 1,500 metres",No medal,False
+Ramn Nilo,M,Chile,CHI,1952,Helsinki,Athletics,Athletics Men's Marathon,No medal,False
+Alejandro Daz,M,Chile,CHI,1956,Melbourne,Athletics,Athletics Men's Hammer Throw,No medal,False
+Mauricio Castro,M,Chile,CHI,2000,Sydney,Athletics,"Athletics Men's 10,000 metres",No medal,False
+Roberto Boutaud,M,Chile,CHI,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,False
+Gustavo Trstel,M,Chile,CHI,1948,London,Athletics,Athletics Men's 400 metres,No medal,True
+Gustavo Trstel,M,Chile,CHI,1948,London,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,True
+Pablo Schmidt,M,Chile,CHI,1912,Stockholm,Athletics,Athletics Men's 100 metres,No medal,True
+Pablo Schmidt,M,Chile,CHI,1912,Stockholm,Athletics,Athletics Men's 200 metres,No medal,True
+Pablo Schmidt,M,Chile,CHI,1912,Stockholm,Athletics,Athletics Men's 110 metres Hurdles,No medal,True
+Daniel Coz,M,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,False
+Patricio Etchevers,M,Chile,CHI,1964,Tokyo,Athletics,Athletics Men's Javelin Throw,No medal,False
+Juan Allier,M,Chile,CHI,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,False
+Hernn Bueg,M,Chile,CHI,1948,London,Athletics,Athletics Men's Decathlon,No medal,True
+Hernn Bueg,M,Chile,CHI,1952,Helsinki,Athletics,Athletics Men's Decathlon,No medal,True
+Eduardo Fontecilla,M,Chile,CHI,1956,Melbourne,Athletics,Athletics Men's 800 metres,No medal,True
+Eduardo Fontecilla,M,Chile,CHI,1956,Melbourne,Athletics,"Athletics Men's 1,500 metres",No medal,True
+Eduardo Fontecilla,M,Chile,CHI,1956,Melbourne,Athletics,Athletics Men's Marathon,No medal,True
+Eduardo Fontecilla,M,Chile,CHI,1956,Melbourne,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,True
+Walter Fritsch,M,Chile,CHI,1936,Berlin,Athletics,Athletics Men's 400 metres Hurdles,No medal,False
+Jrn Gevert,M,Chile,CHI,1952,Helsinki,Athletics,Athletics Men's 110 metres Hurdles,No medal,True
+Jrn Gevert,M,Chile,CHI,1952,Helsinki,Athletics,Athletics Men's 400 metres Hurdles,No medal,True
+Juan Gordn,M,Chile,CHI,1968,Mexico City,Athletics,Athletics Men's 400 metres Hurdles,No medal,False
+Jorge Castillo,M,Chile,CHI,1968,Mexico City,Athletics,"Athletics Men's 1,500 metres",No medal,False
+Ignacio Martorell,M,Chile,CHI,2008,Beijing,Athletics,Athletics Men's Javelin Throw,No medal,False
+Sergio Lira,M,Chile,CHI,1948,London,Athletics,Athletics Men's 400 metres Hurdles,No medal,True
+Sergio Lira,M,Chile,CHI,1948,London,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,True
+Hernn Abdallah,M,Chile,CHI,1952,Helsinki,Athletics,Athletics Men's Discus Throw,No medal,True
+Hernn Abdallah,M,Chile,CHI,1956,Melbourne,Athletics,Athletics Men's Discus Throw,No medal,True
+Rodolfo Hempel,M,Chile,CHI,1912,Stockholm,Athletics,Athletics Men's High Jump,No medal,True
+Rodolfo Hempel,M,Chile,CHI,1912,Stockholm,Athletics,Athletics Men's Standing High Jump,No medal,True
+Alejandro Ulriksen,M,Chile,CHI,1928,Amsterdam,Athletics,Athletics Men's 200 metres,No medal,True
+Alejandro Ulriksen,M,Chile,CHI,1928,Amsterdam,Athletics,Athletics Men's 400 metres,No medal,True
+Jaime Reitich,M,Chile,CHI,1948,London,Athletics,Athletics Men's 400 metres,No medal,True
+Jaime Reitich,M,Chile,CHI,1948,London,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,True
+Rolf Hoppe,M,Chile,CHI,1968,Mexico City,Athletics,Athletics Men's Javelin Throw,No medal,False
+Enrique Arancibia,M,Chile,CHI,1948,London,Athletics,Athletics Men's Marathon,No medal,False
+Ral Donoso,M,Chile,CHI,1952,Helsinki,Athletics,"Athletics Men's 10,000 metres",No medal,True
+Ral Donoso,M,Chile,CHI,1952,Helsinki,Athletics,Athletics Men's Marathon,No medal,True
+Alfredo Vargas,M,Chile,CHI,1948,London,Athletics,Athletics Men's High Jump,No medal,False
+Sebastin Bianchi,M,Chile,CHI,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,False
+Alberto Celery,M,Chile,CHI,1948,London,Athletics,Athletics Men's 100 metres,No medal,False
+Ernesto Salinas,M,Chile,CHI,1952,Helsinki,Athletics,Athletics Men's High Jump,No medal,False
+Juris Laipenieks,M,Chile,CHI,1960,Roma,Athletics,Athletics Men's Decathlon,No medal,False
+Humberto Muoz,M,Chile,CHI,1924,Paris,Athletics,Athletics Men's 400 metres Hurdles,No medal,False
+Arturo Mackey,M,Chile,CHI,1920,Antwerpen,Athletics,Athletics Men's Javelin Throw,No medal,False
+Arturo Borquez,M,Chile,CHI,1952,Helsinki,Athletics,Athletics Men's Hammer Throw,No medal,False
+Carlos Lira,M,Chile,CHI,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,True
+Carlos Lira,M,Chile,CHI,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,True
+Ivn Lpez,M,Chile,CHI,1964,Tokyo,Athletics,Athletics Men's 100 metres,No medal,True
+Ivn Lpez,M,Chile,CHI,1964,Tokyo,Athletics,Athletics Men's 200 metres,No medal,True
+Ivn Lpez,M,Chile,CHI,1968,Mexico City,Athletics,Athletics Men's 100 metres,No medal,True
+Ivn Lpez,M,Chile,CHI,1968,Mexico City,Athletics,Athletics Men's 200 metres,No medal,True
+Federico Mueller,M,Chile,CHI,1912,Stockholm,Athletics,Athletics Men's 800 metres,No medal,False
+Ral Muoz,M,Chile,CHI,1936,Berlin,Athletics,Athletics Men's 400 metres,No medal,False
+Edmundo Montier,M,Chile,CHI,1952,Helsinki,Athletics,Athletics Men's 110 metres Hurdles,No medal,False
+Jaime Paredes,M,Chile,CHI,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,False
+Leopoldo Palma,M,Chile,CHI,1912,Stockholm,Athletics,Athletics Men's 800 metres,No medal,False
+Manuel Reyes,M,Chile,CHI,1924,Paris,Athletics,Athletics Men's Marathon,No medal,True
+Manuel Reyes,M,Chile,CHI,1928,Amsterdam,Athletics,Athletics Men's Marathon,Silver,True
+Hans Ellwanger,M,Chile,CHI,1936,Berlin,Athletics,Athletics Men's Triple Jump,No medal,False
+Mario Burnier,M,Chile,CHI,1948,London,Athletics,Athletics Men's 110 metres Hurdles,No medal,True
+Mario Burnier,M,Chile,CHI,1948,London,Athletics,Athletics Men's Decathlon,No medal,True
+Erwin Reimer,M,Chile,CHI,1936,Berlin,Athletics,Athletics Men's Decathlon,No medal,False
+Cristin Troncoso,M,Chile,CHI,2008,Beijing,Athletics,Athletics Men's 200 metres,No medal,True
+Cristin Troncoso,M,Chile,CHI,2012,London,Athletics,Athletics Men's 200 metres,No medal,True
+Tmas Scholtesen,M,Chile,CHI,1992,Barcelona,Athletics,Athletics Men's Pole Vault,No medal,False
+Ricardo Gonzlez,M,Chile,CHI,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,True
+Ricardo Gonzlez,M,Chile,CHI,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,True
+Rodrigo Gonzlez,M,Chile,CHI,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,False
+Patricio Saavedra,M,Chile,CHI,1968,Mexico City,Athletics,Athletics Men's 110 metres Hurdles,No medal,False
+Jos Salinas,M,Chile,CHI,1928,Amsterdam,Athletics,Athletics Men's 400 metres,No medal,False
+Rolando Salinas,M,Chile,CHI,1912,Stockholm,Athletics,Athletics Men's 10 kilometres Walk,No medal,False
+Alfonso Rodrguez,M,Chile,CHI,1912,Stockholm,Athletics,"Athletics Men's 5,000 metres",No medal,True
+Alfonso Rodrguez,M,Chile,CHI,1912,Stockholm,Athletics,"Athletics Men's 10,000 metres",No medal,True
+Ramn Mendoza,M,Chile,CHI,1956,Melbourne,Athletics,Athletics Men's 800 metres,No medal,True
+Ramn Mendoza,M,Chile,CHI,1956,Melbourne,Athletics,"Athletics Men's 1,500 metres",No medal,True
+Adolfo Schlegel,M,Chile,CHI,1936,Berlin,Athletics,Athletics Men's Pole Vault,No medal,False
+Alejandro Silva,M,Chile,CHI,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,False
+Carlos Anguita,M,Chile,CHI,1948,London,Athletics,Athletics Men's 100 metres,No medal,True
+Carlos Anguita,M,Chile,CHI,1948,London,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,True
+Juan Silva,M,Chile,CHI,1956,Melbourne,Athletics,Athletics Men's Marathon,No medal,True
+Juan Silva,M,Chile,CHI,1960,Roma,Athletics,Athletics Men's Marathon,No medal,True
+Guillermo Aravena,M,Chile,CHI,1952,Helsinki,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,False
+Pablo Serrano,M,Chile,CHI,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,False
+Alfredo Ugarte,M,Chile,CHI,1924,Paris,Athletics,Athletics Men's 110 metres Hurdles,No medal,True
+Alfredo Ugarte,M,Chile,CHI,1928,Amsterdam,Athletics,Athletics Men's 110 metres Hurdles,No medal,True
+Emilio Valenzuela,M,Chile,CHI,1984,Los Angeles,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,True
+Emilio Valenzuela,M,Chile,CHI,1988,Seoul,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,True
+Diego Balbontn,M,Chile,CHI,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,False
+Carlos Guardia,M,Chile,CHI,1948,London,Athletics,Athletics Men's Triple Jump,No medal,True
+Carlos Guardia,M,Chile,CHI,1952,Helsinki,Athletics,Athletics Men's Long Jump,No medal,True
+Carlos Guardia,M,Chile,CHI,1952,Helsinki,Athletics,Athletics Men's Decathlon,No medal,True
+Marco Lippi,M,Chile,CHI,2004,Athina,Athletics,Athletics Men's Shot Put,No medal,True
+Marco Lippi,M,Chile,CHI,2008,Beijing,Athletics,Athletics Men's Shot Put,No medal,True
+Ricardo Vidal,M,Chile,CHI,1964,Tokyo,Athletics,Athletics Men's Marathon,No medal,False
+Rudolph Wagner,M,Chile,CHI,1928,Amsterdam,Athletics,Athletics Men's 100 metres,No medal,False
+Pedro Bravo,M,Chile,CHI,1972,Munich,Athletics,"Athletics Men's 5,000 metres",No medal,True
+Pedro Bravo,M,Chile,CHI,1976,Montreal,Athletics,"Athletics Men's 5,000 metres",No medal,True
+Pedro Bravo,M,Chile,CHI,1976,Montreal,Athletics,"Athletics Men's 10,000 metres",No medal,True
+Gert Wiesenborn,M,Chile,CHI,1984,Los Angeles,Athletics,Athletics Men's Shot Put,No medal,True
+Gert Wiesenborn,M,Chile,CHI,1988,Seoul,Athletics,Athletics Men's Shot Put,No medal,True
+Gert Wiesenborn,M,Chile,CHI,1992,Barcelona,Athletics,Athletics Men's Shot Put,No medal,True
+Gert Wiesenborn,M,Chile,CHI,1996,Atlanta,Athletics,Athletics Men's Shot Put,No medal,True
+Osvaldo Wenzel,M,Chile,CHI,1936,Berlin,Athletics,Athletics Men's Decathlon,No medal,False
+Enzo Jhonson,M,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,False
+Pedro Amed,M,Chile,CHI,1952,Helsinki,Athletics,Athletics Men's 400 metres Hurdles,No medal,False
+Carlos Brito,M,Chile,CHI,2000,Sydney,Athletics,Athletics Men's 400 metres Hurdles,No medal,False
+Edmundo Erraz,M,Chile,CHI,1948,London,Athletics,Athletics Men's Hammer Throw,No medal,False
+Gabriel Kehr,M,Chile,CHI,2020,Tokyo,Athletics,Men's Hammer Throw,No medal,True
+Humberto Mansilla,M,Chile,CHI,2020,Tokyo,Athletics,Men's Hammer Throw,No medal,True
+Carlos Diaz,M,Chile,CHI,2024,Paris,Athletics,Men's Marathon,No medal,False
+Gabriel Kehr,M,Chile,CHI,2024,Paris,Athletics,Men's Hammer Throw,No medal,True
+Humberto Mansilla,M,Chile,CHI,2024,Paris,Athletics,Men's Hammer Throw,No medal,True
+Claudio Romero,M,Chile,CHI,2024,Paris,Athletics,Men's Discus Throw,No medal,False
+Martin Saenz,M,Chile,CHI,2024,Paris,Athletics,Men's 110m Hurdles,No medal,False
+Hugo Catrileo,M,Chile,CHI,2024,Paris,Athletics,Men's Marathon,No medal,False

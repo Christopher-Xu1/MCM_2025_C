@@ -1,0 +1,4 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Multiple Events
+Miguel Nido,M,Puerto Rico,PUR,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,False
+Juan Ros,M,Puerto Rico,PUR,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,True
+Juan Ros,M,Puerto Rico,PUR,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,True
