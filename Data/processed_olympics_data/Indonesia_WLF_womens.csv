@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Patmawati Wahid,F,Indonesia,INA,2004,Athina,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Sri Agustiani,F,Indonesia,INA,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Flyweight,Silver,Weightlifting,WLF,False
-Citra Febrianti,F,Indonesia,INA,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False
-Sri Indriyani,F,Indonesia,INA,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,Bronze,Weightlifting,WLF,False
-Rosmainar,F,Indonesia,INA,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Raema Rumbewas,F,Indonesia,INA,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,Silver,Weightlifting,WLF,True
-Raema Rumbewas,F,Indonesia,INA,2004,Athina,Weightlifting,Weightlifting Women's Featherweight,Silver,Weightlifting,WLF,True
-Raema Rumbewas,F,Indonesia,INA,2008,Beijing,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True
-Dewi Safitri,F,Indonesia,INA,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False
-Winarni Slamet,F,Indonesia,INA,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,Bronze,Weightlifting,WLF,False
-Cantika Aisah,F,Indonesia,INA,2020,Tokyo,Weightlifting,Women's 49kg,Bronze,Women's,WLF,False
-Nurul Akmal,F,Indonesia,INA,2020,Tokyo,Weightlifting,Women's +87kg,No medal,Women's,WLF,True
-Nurul Akmal,F,Indonesia,INA,2024,Paris,Weightlifting,Women's +81kg,No medal,Women's,WLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Patmawati Wahid,F,Indonesia,INA,2004,Athina,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Sri Agustiani,F,Indonesia,INA,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Flyweight,Silver,Weightlifting,WLF,False,True
+Citra Febrianti,F,Indonesia,INA,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False,True
+Sri Indriyani,F,Indonesia,INA,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,Bronze,Weightlifting,WLF,False,True
+Rosmainar,F,Indonesia,INA,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Raema Rumbewas,F,Indonesia,INA,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,Silver,Weightlifting,WLF,True,True
+Raema Rumbewas,F,Indonesia,INA,2004,Athina,Weightlifting,Weightlifting Women's Featherweight,Silver,Weightlifting,WLF,True,False
+Raema Rumbewas,F,Indonesia,INA,2008,Beijing,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True,False
+Dewi Safitri,F,Indonesia,INA,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False,True
+Winarni Slamet,F,Indonesia,INA,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,Bronze,Weightlifting,WLF,False,True
+Cantika Aisah,F,Indonesia,INA,2020,Tokyo,Weightlifting,Women's 49kg,Bronze,Women's,WLF,False,True
+Nurul Akmal,F,Indonesia,INA,2020,Tokyo,Weightlifting,Women's +87kg,No medal,Women's,WLF,True,True
+Nurul Akmal,F,Indonesia,INA,2024,Paris,Weightlifting,Women's +81kg,No medal,Women's,WLF,True,False

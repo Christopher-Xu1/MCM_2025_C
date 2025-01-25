@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mongkol Aimmanolrom,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Visit Chaicharoen,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Kirin Chavanwong,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Surakit Rukpanich,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Chan Sae-lim,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Kuang Sae-lim,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Ampol Saranont,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Chalaw Sonthong,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Ta Sriratana,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mongkol Aimmanolrom,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Visit Chaicharoen,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Kirin Chavanwong,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Surakit Rukpanich,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Chan Sae-lim,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Kuang Sae-lim,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Ampol Saranont,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Chalaw Sonthong,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Ta Sriratana,M,Thailand,THA,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True

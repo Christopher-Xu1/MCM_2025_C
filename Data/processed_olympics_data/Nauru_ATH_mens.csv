@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jonah Harris,M,Nauru,NRU,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,False
-Winzar Kakiouea,M,Nauru,NRU,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jonah Harris,M,Nauru,NRU,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,False,True
+Winzar Kakiouea,M,Nauru,NRU,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True

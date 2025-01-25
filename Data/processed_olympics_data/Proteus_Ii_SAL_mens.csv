@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Odyssevs Eskitzoglou,M,Proteus Ii,GRE,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Themistoklis Magoulas,M,Proteus Ii,GRE,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Georgios Zaimis,M,Proteus Ii,GRE,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Odyssevs Eskitzoglou,M,Proteus Ii,GRE,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Themistoklis Magoulas,M,Proteus Ii,GRE,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Georgios Zaimis,M,Proteus Ii,GRE,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

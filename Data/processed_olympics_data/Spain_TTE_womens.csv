@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Galyna Khasanova,F,Spain,ESP,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Galyna Khasanova,F,Spain,ESP,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Galyna Khasanova,F,Spain,ESP,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Gloria Vila,F,Spain,ESP,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
-Ana Hospital,F,Spain,ESP,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Ana Hospital,F,Spain,ESP,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Sara Bermdez,F,Spain,ESP,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Sara Bermdez,F,Spain,ESP,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Yanfei Zhang,F,Spain,ESP,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Yanfei Zhang,F,Spain,ESP,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Yanfei Zhang,F,Spain,ESP,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Yanfei Zhang,F,Spain,ESP,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Yanfei Zhang,F,Spain,ESP,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Fang Jin,F,Spain,ESP,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Fang Jin,F,Spain,ESP,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Galia Dvorak,F,Spain,ESP,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,False
-Maria Xiao,F,Spain,ESP,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Maria Xiao,F,Spain,ESP,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Maria Xiao,F,Spain,ESP,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Galyna Khasanova,F,Spain,ESP,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Galyna Khasanova,F,Spain,ESP,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Galyna Khasanova,F,Spain,ESP,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Gloria Vila,F,Spain,ESP,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True
+Ana Hospital,F,Spain,ESP,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Ana Hospital,F,Spain,ESP,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Sara Bermdez,F,Spain,ESP,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Sara Bermdez,F,Spain,ESP,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Yanfei Zhang,F,Spain,ESP,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Yanfei Zhang,F,Spain,ESP,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Yanfei Zhang,F,Spain,ESP,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Yanfei Zhang,F,Spain,ESP,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Yanfei Zhang,F,Spain,ESP,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Fang Jin,F,Spain,ESP,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Fang Jin,F,Spain,ESP,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Galia Dvorak,F,Spain,ESP,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,False,True
+Maria Xiao,F,Spain,ESP,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Maria Xiao,F,Spain,ESP,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False
+Maria Xiao,F,Spain,ESP,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True,False

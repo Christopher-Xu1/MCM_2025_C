@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohammad Alidjani-momer,M,Iran,IRI,1976,Montreal,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-Ebrahim Barkhordari,M,Iran,IRI,2012,London,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Ebrahim Barkhordari,M,Iran,IRI,2012,London,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
-Houshang Ghazvini,M,Iran,IRI,1976,Montreal,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-Kamil Tabrizi,M,Iran,IRI,1976,Montreal,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Mohammad Kalani,M,Iran,IRI,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Esfandiar Lari,M,Iran,IRI,1976,Montreal,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Gholam Mobaser,M,Iran,IRI,1960,Roma,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Gholam Mobaser,M,Iran,IRI,1960,Roma,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Gholam Mobaser,M,Iran,IRI,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Nosratollah Momtahen,M,Iran,IRI,1964,Tokyo,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False
-Pourya Norouziyan,M,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Pourya Norouziyan,M,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Farhang Panah,M,Iran,IRI,1948,London,Shooting,"Shooting Men's Free Rifle, Three Positions, 300 metres",No medal,Shooting,SHO,True
-Farhang Panah,M,Iran,IRI,1948,London,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Mahmoud Sakhaie,M,Iran,IRI,1948,London,Shooting,"Shooting Men's Free Rifle, Three Positions, 300 metres",No medal,Shooting,SHO,True
-Mahmoud Sakhaie,M,Iran,IRI,1948,London,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Nasser Sharifi,M,Iran,IRI,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,False
-Samad Zal,M,Iran,IRI,1948,London,Shooting,"Shooting Men's Free Rifle, Three Positions, 300 metres",No medal,Shooting,SHO,True
-Samad Zal,M,Iran,IRI,1948,London,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Javad Foroughi,M,Iran,IRI,2020,Tokyo,Shooting,10m Air Pistol Men,Gold,10m,SHO,True
-Javad Foroughi,M,Iran,IRI,2020,Tokyo,Shooting,10m Air Pistol Mixed Team,No medal,10m,SHO,True
-Mahyar Sedaghat,M,Iran,IRI,2020,Tokyo,Shooting,10m Air Rifle Men,No medal,10m,SHO,True
-Mahyar Sedaghat,M,Iran,IRI,2020,Tokyo,Shooting,50m Rifle 3 Positions Men,No medal,50m,SHO,True
-Mahyar Sedaghat,M,Iran,IRI,2020,Tokyo,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohammad Alidjani-momer,M,Iran,IRI,1976,Montreal,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+Ebrahim Barkhordari,M,Iran,IRI,2012,London,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Ebrahim Barkhordari,M,Iran,IRI,2012,London,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True,True
+Houshang Ghazvini,M,Iran,IRI,1976,Montreal,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+Kamil Tabrizi,M,Iran,IRI,1976,Montreal,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Mohammad Kalani,M,Iran,IRI,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Esfandiar Lari,M,Iran,IRI,1976,Montreal,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Gholam Mobaser,M,Iran,IRI,1960,Roma,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Gholam Mobaser,M,Iran,IRI,1960,Roma,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Gholam Mobaser,M,Iran,IRI,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Nosratollah Momtahen,M,Iran,IRI,1964,Tokyo,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False,True
+Pourya Norouziyan,M,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Pourya Norouziyan,M,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Farhang Panah,M,Iran,IRI,1948,London,Shooting,"Shooting Men's Free Rifle, Three Positions, 300 metres",No medal,Shooting,SHO,True,True
+Farhang Panah,M,Iran,IRI,1948,London,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Mahmoud Sakhaie,M,Iran,IRI,1948,London,Shooting,"Shooting Men's Free Rifle, Three Positions, 300 metres",No medal,Shooting,SHO,True,True
+Mahmoud Sakhaie,M,Iran,IRI,1948,London,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Nasser Sharifi,M,Iran,IRI,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,False,True
+Samad Zal,M,Iran,IRI,1948,London,Shooting,"Shooting Men's Free Rifle, Three Positions, 300 metres",No medal,Shooting,SHO,True,True
+Samad Zal,M,Iran,IRI,1948,London,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Javad Foroughi,M,Iran,IRI,2020,Tokyo,Shooting,10m Air Pistol Men,Gold,10m,SHO,True,True
+Javad Foroughi,M,Iran,IRI,2020,Tokyo,Shooting,10m Air Pistol Mixed Team,No medal,10m,SHO,True,True
+Mahyar Sedaghat,M,Iran,IRI,2020,Tokyo,Shooting,10m Air Rifle Men,No medal,10m,SHO,True,True
+Mahyar Sedaghat,M,Iran,IRI,2020,Tokyo,Shooting,50m Rifle 3 Positions Men,No medal,50m,SHO,True,True
+Mahyar Sedaghat,M,Iran,IRI,2020,Tokyo,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True,True

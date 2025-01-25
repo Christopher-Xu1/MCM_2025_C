@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Samaa Ahmed,F,Egypt,EGY,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True
-Samaa Ahmed,F,Egypt,EGY,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Samaa Ahmed,F,Egypt,EGY,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Samaa Ahmed,F,Egypt,EGY,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True,True
+Samaa Ahmed,F,Egypt,EGY,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Samaa Ahmed,F,Egypt,EGY,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,False

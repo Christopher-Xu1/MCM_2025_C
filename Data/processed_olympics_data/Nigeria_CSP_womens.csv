@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Emmanuel Bello,F,Nigeria,NGR,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,False
-Powei Bello,F,Nigeria,NGR,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Powei Bello,F,Nigeria,NGR,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,True
-Akinaere Otuedo,F,Nigeria,NGR,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Akinaere Otuedo,F,Nigeria,NGR,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Emmanuel Bello,F,Nigeria,NGR,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,False,True
+Powei Bello,F,Nigeria,NGR,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Powei Bello,F,Nigeria,NGR,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,True,True
+Akinaere Otuedo,F,Nigeria,NGR,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Akinaere Otuedo,F,Nigeria,NGR,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,True,True

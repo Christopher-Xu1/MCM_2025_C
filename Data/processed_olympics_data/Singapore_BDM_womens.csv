@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zarinah Abdullah,F,Singapore,SGP,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Zarinah Abdullah,F,Singapore,SGP,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Gu Juan,F,Singapore,SGP,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Jiang Yanmei,F,Singapore,SGP,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Jiang Yanmei,F,Singapore,SGP,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Lee Yujia,F,Singapore,SGP,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Lee Yujia,F,Singapore,SGP,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Li Li,F,Singapore,SGP,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Liang Xiaoyu,F,Singapore,SGP,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Shinta Sari,F,Singapore,SGP,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Xing Aiying,F,Singapore,SGP,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Yao Lei,F,Singapore,SGP,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Min Yeo,F,Singapore,SGP,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,True
-Jessica Tan,F,Singapore,SGP,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False
-Min Yeo,F,Singapore,SGP,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zarinah Abdullah,F,Singapore,SGP,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Zarinah Abdullah,F,Singapore,SGP,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Gu Juan,F,Singapore,SGP,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Jiang Yanmei,F,Singapore,SGP,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Jiang Yanmei,F,Singapore,SGP,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Lee Yujia,F,Singapore,SGP,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Lee Yujia,F,Singapore,SGP,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Li Li,F,Singapore,SGP,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Liang Xiaoyu,F,Singapore,SGP,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Shinta Sari,F,Singapore,SGP,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Xing Aiying,F,Singapore,SGP,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Yao Lei,F,Singapore,SGP,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Min Yeo,F,Singapore,SGP,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,True,True
+Jessica Tan,F,Singapore,SGP,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False,True
+Min Yeo,F,Singapore,SGP,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,True,False

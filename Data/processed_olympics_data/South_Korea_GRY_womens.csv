@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hong Seong-hui,F,South Korea,KOR,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Kim In-wha,F,South Korea,KOR,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Kim Yu-gyeong,F,South Korea,KOR,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Sin Su-ji,F,South Korea,KOR,2008,Beijing,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Son Yeon-jae,F,South Korea,KOR,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True
-Son Yeon-jae,F,South Korea,KOR,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True
-Yun Byeong-hui,F,South Korea,KOR,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hong Seong-hui,F,South Korea,KOR,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Kim In-wha,F,South Korea,KOR,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Kim Yu-gyeong,F,South Korea,KOR,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Sin Su-ji,F,South Korea,KOR,2008,Beijing,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Son Yeon-jae,F,South Korea,KOR,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True,True
+Son Yeon-jae,F,South Korea,KOR,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True,False
+Yun Byeong-hui,F,South Korea,KOR,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True

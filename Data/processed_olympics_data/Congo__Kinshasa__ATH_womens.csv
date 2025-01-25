@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kungu Bakombo,F,Congo (Kinshasa),COD,1984,Los Angeles,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Kungu Bakombo,F,Congo (Kinshasa),COD,1988,Seoul,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Kungu Bakombo,F,Congo (Kinshasa),COD,1988,Seoul,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Kungu Bakombo,F,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Dikanda Diba,F,Congo (Kinshasa),COD,1988,Seoul,Athletics,"Athletics Women's 3,000 metres",No medal,Athletics,ATH,False
-Batrice Kamuchanga,F,Congo (Kinshasa),COD,2016,Rio de Janeiro,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,False
-Franka Magali,F,Congo (Kinshasa),COD,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Noelly Bibiche,F,Congo (Kinshasa),COD,2004,Athina,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False
-Muyegbe Mubala,F,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Akonga Nsimbo,F,Congo (Kinshasa),COD,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Akonga Nsimbo,F,Congo (Kinshasa),COD,2000,Sydney,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Chancel Sankuru,F,Congo (Kinshasa),COD,2012,London,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kungu Bakombo,F,Congo (Kinshasa),COD,1984,Los Angeles,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Kungu Bakombo,F,Congo (Kinshasa),COD,1988,Seoul,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,False
+Kungu Bakombo,F,Congo (Kinshasa),COD,1988,Seoul,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,False
+Kungu Bakombo,F,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Dikanda Diba,F,Congo (Kinshasa),COD,1988,Seoul,Athletics,"Athletics Women's 3,000 metres",No medal,Athletics,ATH,False,True
+Batrice Kamuchanga,F,Congo (Kinshasa),COD,2016,Rio de Janeiro,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,False,True
+Franka Magali,F,Congo (Kinshasa),COD,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Noelly Bibiche,F,Congo (Kinshasa),COD,2004,Athina,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False,True
+Muyegbe Mubala,F,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Akonga Nsimbo,F,Congo (Kinshasa),COD,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Akonga Nsimbo,F,Congo (Kinshasa),COD,2000,Sydney,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Chancel Sankuru,F,Congo (Kinshasa),COD,2012,London,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,False,True

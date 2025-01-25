@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Katura Horton-perinchief,F,Bermuda,BER,2004,Athina,Diving,Diving Women's Springboard,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Katura Horton-perinchief,F,Bermuda,BER,2004,Athina,Diving,Diving Women's Springboard,No medal,Diving,DIV,False,True

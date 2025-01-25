@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Santiago Cansino,M,Amolgavar,ESP,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Arturo Bov,M,Amolgavar,ESP,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Pedro Castell,M,Amolgavar,ESP,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Santiago Cansino,M,Amolgavar,ESP,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Arturo Bov,M,Amolgavar,ESP,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Pedro Castell,M,Amolgavar,ESP,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

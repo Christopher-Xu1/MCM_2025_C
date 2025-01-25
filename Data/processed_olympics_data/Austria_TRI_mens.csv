@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Simon Agoston,M,Austria,AUT,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Norbert Domnik,M,Austria,AUT,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Johannes Enzenhofer,M,Austria,AUT,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Andreas Giglmayr,M,Austria,AUT,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Thomas Springer,M,Austria,AUT,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Lukas Hollaus,M,Austria,AUT,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Lukas Hollaus,M,Austria,AUT,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Alois Knabl,M,Austria,AUT,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Alois Knabl,M,Austria,AUT,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Tjebbe Kaindl,M,Austria,AUT,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
-Alois Knabl,M,Austria,AUT,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Simon Agoston,M,Austria,AUT,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Norbert Domnik,M,Austria,AUT,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Johannes Enzenhofer,M,Austria,AUT,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Andreas Giglmayr,M,Austria,AUT,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Thomas Springer,M,Austria,AUT,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Lukas Hollaus,M,Austria,AUT,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Lukas Hollaus,M,Austria,AUT,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Alois Knabl,M,Austria,AUT,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Alois Knabl,M,Austria,AUT,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Tjebbe Kaindl,M,Austria,AUT,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True
+Alois Knabl,M,Austria,AUT,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True,False

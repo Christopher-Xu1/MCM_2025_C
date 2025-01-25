@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mustapha Afandi,M,Morocco,MAR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Anasse Abdia,M,Morocco,MAR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Brahim Bouilla,M,Morocco,MAR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Mohamed Gourch,M,Morocco,MAR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Mohamed Gourch,M,Morocco,MAR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Soufiane Haddi,M,Morocco,MAR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Soufiane Haddi,M,Morocco,MAR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Adil Jelloul,M,Morocco,MAR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Mohamed Lacheb,M,Morocco,MAR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Mohamed Lacheb,M,Morocco,MAR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Abdallah Lahoucine,M,Morocco,MAR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Abdallah Lahoucine,M,Morocco,MAR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Mouhcine Lahsaini,M,Morocco,MAR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Mouhcine Lahsaini,M,Morocco,MAR,2012,London,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Mouhcine Lahsaini,M,Morocco,MAR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Mouhcine Lahsaini,M,Morocco,MAR,2016,Rio de Janeiro,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Mustapha Najjari,M,Morocco,MAR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Ahmed Omar,M,Morocco,MAR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Ahmed Omar,M,Morocco,MAR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Ahmed Rhail,M,Morocco,MAR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mustapha Afandi,M,Morocco,MAR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Anasse Abdia,M,Morocco,MAR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Brahim Bouilla,M,Morocco,MAR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Mohamed Gourch,M,Morocco,MAR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Mohamed Gourch,M,Morocco,MAR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Soufiane Haddi,M,Morocco,MAR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Soufiane Haddi,M,Morocco,MAR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Adil Jelloul,M,Morocco,MAR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Mohamed Lacheb,M,Morocco,MAR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Mohamed Lacheb,M,Morocco,MAR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Abdallah Lahoucine,M,Morocco,MAR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Abdallah Lahoucine,M,Morocco,MAR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Mouhcine Lahsaini,M,Morocco,MAR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Mouhcine Lahsaini,M,Morocco,MAR,2012,London,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,True
+Mouhcine Lahsaini,M,Morocco,MAR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Mouhcine Lahsaini,M,Morocco,MAR,2016,Rio de Janeiro,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False
+Mustapha Najjari,M,Morocco,MAR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Ahmed Omar,M,Morocco,MAR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Ahmed Omar,M,Morocco,MAR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Ahmed Rhail,M,Morocco,MAR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True

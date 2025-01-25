@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Taciana Bald,F,Guinea Bissau,GBS,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Taciana Bald,F,Guinea Bissau,GBS,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True

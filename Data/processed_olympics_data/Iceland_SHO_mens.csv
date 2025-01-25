@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alfre Alfresson,M,Iceland,ISL,2000,Sydney,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False
-Carl Eirksson,M,Iceland,ISL,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-sgeir Sigurgeirsson,M,Iceland,ISL,2012,London,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-sgeir Sigurgeirsson,M,Iceland,ISL,2012,London,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
-Asgeir Sigurgeirsson,M,Iceland,ISL,2020,Tokyo,Shooting,10m Air Pistol Men,No medal,10m,SHO,False
-Hakon Svavarsson,M,Iceland,ISL,2024,Paris,Shooting,Skeet Men,No medal,Skeet,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alfre Alfresson,M,Iceland,ISL,2000,Sydney,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False,True
+Carl Eirksson,M,Iceland,ISL,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+sgeir Sigurgeirsson,M,Iceland,ISL,2012,London,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+sgeir Sigurgeirsson,M,Iceland,ISL,2012,London,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True,True
+Asgeir Sigurgeirsson,M,Iceland,ISL,2020,Tokyo,Shooting,10m Air Pistol Men,No medal,10m,SHO,False,True
+Hakon Svavarsson,M,Iceland,ISL,2024,Paris,Shooting,Skeet Men,No medal,Skeet,SHO,False,True

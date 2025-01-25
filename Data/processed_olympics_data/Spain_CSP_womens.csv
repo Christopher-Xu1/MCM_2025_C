@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Isabel Contreras,F,Spain,ESP,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,False
-Antia Jacome,F,Spain,ESP,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Teresa Portela,F,Spain,ESP,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,Silver,Women's,CSP,True
-Maria Corbera,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Maria Corbera,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,True
-Estefania Fernandez,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Estefania Fernandez,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True
-Carolina Garcia,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True
-Carolina Garcia,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True
-Antia Jacome,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Antia Jacome,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,True
-Begona Lazkano,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,False
-Sara Ouzande,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True
-Sara Ouzande,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True
-Teresa Portela,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Isabel Contreras,F,Spain,ESP,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,False,True
+Antia Jacome,F,Spain,ESP,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Teresa Portela,F,Spain,ESP,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,Silver,Women's,CSP,True,True
+Maria Corbera,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Maria Corbera,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,True,True
+Estefania Fernandez,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Estefania Fernandez,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True,True
+Carolina Garcia,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True,True
+Carolina Garcia,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True,True
+Antia Jacome,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,False
+Antia Jacome,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,True,False
+Begona Lazkano,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,False,True
+Sara Ouzande,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True,True
+Sara Ouzande,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True,True
+Teresa Portela,F,Spain,ESP,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True,False

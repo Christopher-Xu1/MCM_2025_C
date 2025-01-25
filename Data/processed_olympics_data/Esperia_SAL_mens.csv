@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Renato Cosentino,M,Esperia,ITA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Giuliano Oberti,M,Esperia,ITA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Massimo Oberti,M,Esperia,ITA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Giovanni Stampa,M,Esperia,ITA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Giuseppe Volpi,M,Esperia,ITA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Renato Cosentino,M,Esperia,ITA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Giuliano Oberti,M,Esperia,ITA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Massimo Oberti,M,Esperia,ITA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Giovanni Stampa,M,Esperia,ITA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Giuseppe Volpi,M,Esperia,ITA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

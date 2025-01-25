@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Daniel Doron,M,Colombia,COL,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Daniel Doron,M,Colombia,COL,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Alejandro Mcallister,M,Colombia,COL,1996,Atlanta,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False
-Rodrigo Daz,M,Colombia,COL,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False
-Hugo Rodrguez,M,Colombia,COL,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Hugo Rodrguez,M,Colombia,COL,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Juan Triana,M,Colombia,COL,1988,Seoul,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Juan Triana,M,Colombia,COL,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Juan Triana,M,Colombia,COL,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Ren Lizarazo,M,Colombia,COL,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False
-Cesar Bautista,M,Colombia,COL,2004,Athina,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
-Hctor Rodrguez,M,Colombia,COL,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
-Manuel Gonzlez,M,Colombia,COL,1988,Seoul,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Manuel Gonzlez,M,Colombia,COL,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Manuel Gonzlez,M,Colombia,COL,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Manuel Gonzlez,M,Colombia,COL,1996,Atlanta,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Manuel Gonzlez,M,Colombia,COL,2000,Sydney,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Manuel Gonzlez,M,Colombia,COL,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Daniel Doron,M,Colombia,COL,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Daniel Doron,M,Colombia,COL,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,False
+Alejandro Mcallister,M,Colombia,COL,1996,Atlanta,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False,True
+Rodrigo Daz,M,Colombia,COL,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False,True
+Hugo Rodrguez,M,Colombia,COL,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Hugo Rodrguez,M,Colombia,COL,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Juan Triana,M,Colombia,COL,1988,Seoul,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Juan Triana,M,Colombia,COL,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,False
+Juan Triana,M,Colombia,COL,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,False
+Ren Lizarazo,M,Colombia,COL,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False,True
+Cesar Bautista,M,Colombia,COL,2004,Athina,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True
+Hctor Rodrguez,M,Colombia,COL,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True
+Manuel Gonzlez,M,Colombia,COL,1988,Seoul,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Manuel Gonzlez,M,Colombia,COL,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,False
+Manuel Gonzlez,M,Colombia,COL,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,False
+Manuel Gonzlez,M,Colombia,COL,1996,Atlanta,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,False
+Manuel Gonzlez,M,Colombia,COL,2000,Sydney,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,False
+Manuel Gonzlez,M,Colombia,COL,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,False

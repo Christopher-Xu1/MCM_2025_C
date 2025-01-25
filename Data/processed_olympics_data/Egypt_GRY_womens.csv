@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yasmine Rostom,F,Egypt,EGY,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Shereen Taama,F,Egypt,EGY,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Login Elsasyed,F,Egypt,EGY,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False
-Polina Fouda,F,Egypt,EGY,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False
-Habiba Marzouk,F,Egypt,EGY,2020,Tokyo,Rhythmic Gymnastics,Individual All-Around,No medal,Individual,GRY,False
-Salma Saleh,F,Egypt,EGY,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False
-Malak Selim,F,Egypt,EGY,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False
-Tia Sobhy,F,Egypt,EGY,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False
-Farida Hussein,F,Egypt,EGY,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False
-Johara Eldeeb,F,Egypt,EGY,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False
-Lamar Behairy,F,Egypt,EGY,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False
-Aliaa Saleh,F,Egypt,EGY,2024,Paris,Rhythmic Gymnastics,Individual All-Around,No medal,Individual,GRY,False
-Amina Sobeih,F,Egypt,EGY,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False
-Abeer Ramadan,F,Egypt,EGY,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yasmine Rostom,F,Egypt,EGY,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Shereen Taama,F,Egypt,EGY,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Login Elsasyed,F,Egypt,EGY,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False,True
+Polina Fouda,F,Egypt,EGY,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False,True
+Habiba Marzouk,F,Egypt,EGY,2020,Tokyo,Rhythmic Gymnastics,Individual All-Around,No medal,Individual,GRY,False,True
+Salma Saleh,F,Egypt,EGY,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False,True
+Malak Selim,F,Egypt,EGY,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False,True
+Tia Sobhy,F,Egypt,EGY,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False,True
+Farida Hussein,F,Egypt,EGY,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False,True
+Johara Eldeeb,F,Egypt,EGY,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False,True
+Lamar Behairy,F,Egypt,EGY,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False,True
+Aliaa Saleh,F,Egypt,EGY,2024,Paris,Rhythmic Gymnastics,Individual All-Around,No medal,Individual,GRY,False,True
+Amina Sobeih,F,Egypt,EGY,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False,True
+Abeer Ramadan,F,Egypt,EGY,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False,True

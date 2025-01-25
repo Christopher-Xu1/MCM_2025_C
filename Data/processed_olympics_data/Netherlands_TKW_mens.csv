@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dennis Bekkers,M,Netherlands,NED,2008,Beijing,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False
-Tommy Mollet,M,Netherlands,NED,2012,London,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False
-Patrick Stevens,M,Netherlands,NED,2004,Athina,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dennis Bekkers,M,Netherlands,NED,2008,Beijing,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False,True
+Tommy Mollet,M,Netherlands,NED,2012,London,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False,True
+Patrick Stevens,M,Netherlands,NED,2004,Athina,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False,True

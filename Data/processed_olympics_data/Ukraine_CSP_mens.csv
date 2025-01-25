@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pavlo Altukhov,M,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True
-Pavlo Altukhov,M,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,True
-Dmytro Ianchuk,M,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,False
-Yurii Vandiuk,M,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,False
-Oleh Kukharyk,M,Ukraine,UKR,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True
-Oleh Kukharyk,M,Ukraine,UKR,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,True
-Ihor Trunov,M,Ukraine,UKR,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True
-Ihor Trunov,M,Ukraine,UKR,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,True
-Dmytro Danylenko,M,Ukraine,UKR,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,False
-Ivan Semykin,M,Ukraine,UKR,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,False
-Pavlo Altukhov,M,Ukraine,UKR,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pavlo Altukhov,M,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True,True
+Pavlo Altukhov,M,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,True,True
+Dmytro Ianchuk,M,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,False,True
+Yurii Vandiuk,M,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,False,True
+Oleh Kukharyk,M,Ukraine,UKR,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True,True
+Oleh Kukharyk,M,Ukraine,UKR,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,True,True
+Ihor Trunov,M,Ukraine,UKR,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True,True
+Ihor Trunov,M,Ukraine,UKR,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,True,True
+Dmytro Danylenko,M,Ukraine,UKR,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,False,True
+Ivan Semykin,M,Ukraine,UKR,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,False,True
+Pavlo Altukhov,M,Ukraine,UKR,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True,False

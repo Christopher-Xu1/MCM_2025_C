@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Erich Amplatz,M,Austria,AUT,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Gottfried Br,M,Austria,AUT,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Weixing Chen,M,Austria,AUT,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Weixing Chen,M,Austria,AUT,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Weixing Chen,M,Austria,AUT,2008,Beijing,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Weixing Chen,M,Austria,AUT,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Weixing Chen,M,Austria,AUT,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Yi Ding,M,Austria,AUT,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Yi Ding,M,Austria,AUT,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Yi Ding,M,Austria,AUT,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Yi Ding,M,Austria,AUT,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Yi Ding,M,Austria,AUT,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Yi Ding,M,Austria,AUT,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Stefan Fegerl,M,Austria,AUT,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Stefan Fegerl,M,Austria,AUT,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Robert Gardos,M,Austria,AUT,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Robert Gardos,M,Austria,AUT,2008,Beijing,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Robert Gardos,M,Austria,AUT,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Robert Gardos,M,Austria,AUT,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Robert Gardos,M,Austria,AUT,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Daniel Habesohn,M,Austria,AUT,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Karl Jindrak,M,Austria,AUT,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Karl Jindrak,M,Austria,AUT,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Werner Schlager,M,Austria,AUT,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Werner Schlager,M,Austria,AUT,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Werner Schlager,M,Austria,AUT,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Werner Schlager,M,Austria,AUT,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Werner Schlager,M,Austria,AUT,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Werner Schlager,M,Austria,AUT,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Werner Schlager,M,Austria,AUT,2008,Beijing,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Werner Schlager,M,Austria,AUT,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Werner Schlager,M,Austria,AUT,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Stefan Fegerl,M,Austria,AUT,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,True
-Robert Gardos,M,Austria,AUT,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Daniel Habesohn,M,Austria,AUT,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Daniel Habesohn,M,Austria,AUT,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Erich Amplatz,M,Austria,AUT,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Gottfried Br,M,Austria,AUT,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Weixing Chen,M,Austria,AUT,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Weixing Chen,M,Austria,AUT,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Weixing Chen,M,Austria,AUT,2008,Beijing,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,False
+Weixing Chen,M,Austria,AUT,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Weixing Chen,M,Austria,AUT,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,False
+Yi Ding,M,Austria,AUT,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Yi Ding,M,Austria,AUT,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Yi Ding,M,Austria,AUT,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Yi Ding,M,Austria,AUT,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Yi Ding,M,Austria,AUT,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Yi Ding,M,Austria,AUT,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Stefan Fegerl,M,Austria,AUT,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Stefan Fegerl,M,Austria,AUT,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,True
+Robert Gardos,M,Austria,AUT,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Robert Gardos,M,Austria,AUT,2008,Beijing,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,True
+Robert Gardos,M,Austria,AUT,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,False
+Robert Gardos,M,Austria,AUT,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Robert Gardos,M,Austria,AUT,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,False
+Daniel Habesohn,M,Austria,AUT,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,True
+Karl Jindrak,M,Austria,AUT,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Karl Jindrak,M,Austria,AUT,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Werner Schlager,M,Austria,AUT,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Werner Schlager,M,Austria,AUT,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Werner Schlager,M,Austria,AUT,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Werner Schlager,M,Austria,AUT,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Werner Schlager,M,Austria,AUT,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Werner Schlager,M,Austria,AUT,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Werner Schlager,M,Austria,AUT,2008,Beijing,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,False
+Werner Schlager,M,Austria,AUT,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Werner Schlager,M,Austria,AUT,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,False
+Stefan Fegerl,M,Austria,AUT,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,True,False
+Robert Gardos,M,Austria,AUT,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True,False
+Daniel Habesohn,M,Austria,AUT,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True,False
+Daniel Habesohn,M,Austria,AUT,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True,False

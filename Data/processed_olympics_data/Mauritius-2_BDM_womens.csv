@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Martine Souza,F,Mauritius-2,MRI,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Martine Souza,F,Mauritius-2,MRI,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True

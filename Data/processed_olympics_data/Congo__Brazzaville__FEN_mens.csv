@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sorel-Arthur Kembe,M,Congo (Brazzaville),CGO,2004,Athina,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sorel-Arthur Kembe,M,Congo (Brazzaville),CGO,2004,Athina,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,False,True

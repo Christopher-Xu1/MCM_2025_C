@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sebastian Dehmer,M,Germany,GER,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Jan Frodeno,M,Germany,GER,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,Gold,Triathlon,TRI,True
-Jan Frodeno,M,Germany,GER,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Steffen Justus,M,Germany,GER,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Maik Petzold,M,Germany,GER,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Maik Petzold,M,Germany,GER,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Christian Prochnow,M,Germany,GER,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Andreas Raelert,M,Germany,GER,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Andreas Raelert,M,Germany,GER,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Daniel Unger,M,Germany,GER,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Stephan Vuckovic,M,Germany,GER,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,Silver,Triathlon,TRI,False
-Justus Nieschlag,M,Germany,GER,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Justus Nieschlag,M,Germany,GER,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Jonas Schomburg,M,Germany,GER,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Jonas Schomburg,M,Germany,GER,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Lasse Luehrs,M,Germany,GER,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
-Jonas Schomburg,M,Germany,GER,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Tim Hellwig,M,Germany,GER,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sebastian Dehmer,M,Germany,GER,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Jan Frodeno,M,Germany,GER,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,Gold,Triathlon,TRI,True,True
+Jan Frodeno,M,Germany,GER,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Steffen Justus,M,Germany,GER,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Maik Petzold,M,Germany,GER,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Maik Petzold,M,Germany,GER,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Christian Prochnow,M,Germany,GER,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Andreas Raelert,M,Germany,GER,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Andreas Raelert,M,Germany,GER,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Daniel Unger,M,Germany,GER,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Stephan Vuckovic,M,Germany,GER,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,Silver,Triathlon,TRI,False,True
+Justus Nieschlag,M,Germany,GER,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Justus Nieschlag,M,Germany,GER,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Jonas Schomburg,M,Germany,GER,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Jonas Schomburg,M,Germany,GER,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Lasse Luehrs,M,Germany,GER,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True
+Jonas Schomburg,M,Germany,GER,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True,False
+Tim Hellwig,M,Germany,GER,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True

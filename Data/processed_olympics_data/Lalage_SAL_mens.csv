@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Miles Bellville,M,Lalage,GBR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
-Christopher Boardman,M,Lalage,GBR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
-Ludovic Franck,M,Lalage,BEL,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Russell Harmer,M,Lalage,GBR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
-mile Hayoit,M,Lalage,BEL,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Willy Huybrechts,M,Lalage,BEL,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Charles Leaf,M,Lalage,GBR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
-Leonard Martin,M,Lalage,GBR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
-Henri Riel,M,Lalage,BEL,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Willy Rompaey,M,Lalage,BEL,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Miles Bellville,M,Lalage,GBR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True
+Christopher Boardman,M,Lalage,GBR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True
+Ludovic Franck,M,Lalage,BEL,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Russell Harmer,M,Lalage,GBR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True
+mile Hayoit,M,Lalage,BEL,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Willy Huybrechts,M,Lalage,BEL,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Charles Leaf,M,Lalage,GBR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True
+Leonard Martin,M,Lalage,GBR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True
+Henri Riel,M,Lalage,BEL,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Willy Rompaey,M,Lalage,BEL,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

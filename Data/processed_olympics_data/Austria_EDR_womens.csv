@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Victoria Max-theurer,F,Austria,AUT,2020,Tokyo,Equestrian,Dressage Team,No medal,Dressage,EDR,True
-Victoria Max-theurer,F,Austria,AUT,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Victoria Max-theurer,F,Austria,AUT,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Victoria Max-theurer,F,Austria,AUT,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Victoria Max-theurer,F,Austria,AUT,2020,Tokyo,Equestrian,Dressage Team,No medal,Dressage,EDR,True,True
+Victoria Max-theurer,F,Austria,AUT,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Victoria Max-theurer,F,Austria,AUT,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,False
+Victoria Max-theurer,F,Austria,AUT,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True,False

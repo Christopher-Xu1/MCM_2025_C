@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sebusiso Keketsi,M,Lesotho,LES,2000,Sydney,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Teboho Mathibeli,M,Lesotho,LES,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Sello Mojela,M,Lesotho,LES,1988,Seoul,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Moroke Mokhotho,M,Lesotho,LES,2016,Rio de Janeiro,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Tsiu Monne,M,Lesotho,LES,1984,Los Angeles,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Ncholu Monontsi,M,Lesotho,LES,1988,Seoul,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Emanuel Nketu,M,Lesotho,LES,2008,Beijing,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Inkululeko Suntele,M,Lesotho,LES,2016,Rio de Janeiro,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Lefa Tsapi,M,Lesotho,LES,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Mosolesa Tsie,M,Lesotho,LES,2000,Sydney,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sebusiso Keketsi,M,Lesotho,LES,2000,Sydney,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Teboho Mathibeli,M,Lesotho,LES,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Sello Mojela,M,Lesotho,LES,1988,Seoul,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Moroke Mokhotho,M,Lesotho,LES,2016,Rio de Janeiro,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Tsiu Monne,M,Lesotho,LES,1984,Los Angeles,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Ncholu Monontsi,M,Lesotho,LES,1988,Seoul,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Emanuel Nketu,M,Lesotho,LES,2008,Beijing,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Inkululeko Suntele,M,Lesotho,LES,2016,Rio de Janeiro,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Lefa Tsapi,M,Lesotho,LES,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Mosolesa Tsie,M,Lesotho,LES,2000,Sydney,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True

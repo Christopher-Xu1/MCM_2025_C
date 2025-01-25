@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vladimir Bobreshov,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,False
-Dmitry Dovgalyonok,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",Gold,Canoeing,CSL,False
-Oleg Goroby,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,False
-Aleksandr Gramovich,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,Canoeing,CSL,False
-Oleksiy Ihraiev,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,Canoeing,CSL,False
-Sergey Kalesnik,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Sergey Kalesnik,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Ivan Kireyev,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,False
-Serhiy Kirsanov,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,False
-Aleksandr Kostoglod,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",No medal,Canoeing,CSL,False
-Vyacheslav Kutuzin,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,False
-Aleksandr Maseykov,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",Gold,Canoeing,CSL,False
-Ihor Nahaiev,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,False
-Micha Liwiski,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Singles, 500 metres",Silver,Canoeing,CSL,False
-Anatoly Tishchenko,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False
-Anatoly Tyurin,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vladimir Bobreshov,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,False,True
+Dmitry Dovgalyonok,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",Gold,Canoeing,CSL,False,True
+Oleg Goroby,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,False,True
+Aleksandr Gramovich,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,Canoeing,CSL,False,True
+Oleksiy Ihraiev,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,Canoeing,CSL,False,True
+Sergey Kalesnik,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Sergey Kalesnik,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Ivan Kireyev,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,False,True
+Serhiy Kirsanov,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,False,True
+Aleksandr Kostoglod,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",No medal,Canoeing,CSL,False,True
+Vyacheslav Kutuzin,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,False,True
+Aleksandr Maseykov,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",Gold,Canoeing,CSL,False,True
+Ihor Nahaiev,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,False,True
+Micha Liwiski,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Singles, 500 metres",Silver,Canoeing,CSL,False,True
+Anatoly Tishchenko,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False,True
+Anatoly Tyurin,M,Unified Team,EUN,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,False,True

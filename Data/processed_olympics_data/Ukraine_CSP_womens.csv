@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anastasiia Chetverikova,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Anastasiia Chetverikova,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,Silver,Women's,CSP,True
-Mariia Kichasova-skoryk,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True
-Mariia Kichasova-skoryk,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True
-Liudmyla Kuklinovska,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
-Liudmyla Kuklinovska,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True
-Liudmyla Luzan,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,Bronze,Women's,CSP,True
-Liudmyla Luzan,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,Silver,Women's,CSP,True
-Mariya Povkh,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Mariya Povkh,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True
-Anastasiia Todorova,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
-Anastasiia Todorova,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True
-Yuliia Yuriichuk,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True
-Yuliia Yuriichuk,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Liudmyla Luzan,F,Ukraine,UKR,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Liudmyla Luzan,F,Ukraine,UKR,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,Silver,Women's,CSP,True
-Anastasiia Rybachok,F,Ukraine,UKR,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Anastasiia Rybachok,F,Ukraine,UKR,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,Silver,Women's,CSP,True
-Mariya Povkh,F,Ukraine,UKR,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anastasiia Chetverikova,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Anastasiia Chetverikova,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,Silver,Women's,CSP,True,True
+Mariia Kichasova-skoryk,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True,True
+Mariia Kichasova-skoryk,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True,True
+Liudmyla Kuklinovska,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True
+Liudmyla Kuklinovska,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True,True
+Liudmyla Luzan,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,Bronze,Women's,CSP,True,True
+Liudmyla Luzan,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,Silver,Women's,CSP,True,True
+Mariya Povkh,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Mariya Povkh,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True,True
+Anastasiia Todorova,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True
+Anastasiia Todorova,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True,True
+Yuliia Yuriichuk,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True,True
+Yuliia Yuriichuk,F,Ukraine,UKR,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Liudmyla Luzan,F,Ukraine,UKR,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,False
+Liudmyla Luzan,F,Ukraine,UKR,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,Silver,Women's,CSP,True,False
+Anastasiia Rybachok,F,Ukraine,UKR,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Anastasiia Rybachok,F,Ukraine,UKR,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,Silver,Women's,CSP,True,True
+Mariya Povkh,F,Ukraine,UKR,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,False

@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marko Baa,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Milan Bievac,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Andrija Delibai,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-ore Joki,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Milo Krasi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Branko Lazarevi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Marko Lomi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Goran Lovre,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Igor Mati,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Nikola Milojevi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Dejan Milovanovi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Bojan Neziri,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Nikola Nikezi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Branimir Petrovi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Sran Radonji,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Milan Stepanov,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Simon Vukevi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marko Baa,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Milan Bievac,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Andrija Delibai,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+ore Joki,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Milo Krasi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Branko Lazarevi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Marko Lomi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Goran Lovre,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Igor Mati,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Nikola Milojevi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Dejan Milovanovi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Bojan Neziri,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Nikola Nikezi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Branimir Petrovi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Sran Radonji,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Milan Stepanov,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Simon Vukevi,M,Serbia And Montenegro,SCG,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True

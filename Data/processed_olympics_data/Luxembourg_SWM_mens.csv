@@ -1,40 +1,40 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Laurent Carnol,M,Luxembourg,LUX,2008,Beijing,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Laurent Carnol,M,Luxembourg,LUX,2012,London,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Laurent Carnol,M,Luxembourg,LUX,2012,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Laurent Carnol,M,Luxembourg,LUX,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Laurent Carnol,M,Luxembourg,LUX,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Yves Clausse,M,Luxembourg,LUX,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Yves Clausse,M,Luxembourg,LUX,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Yves Clausse,M,Luxembourg,LUX,1988,Seoul,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Yves Clausse,M,Luxembourg,LUX,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Yves Clausse,M,Luxembourg,LUX,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Yves Clausse,M,Luxembourg,LUX,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Alwin Prins,M,Luxembourg,LUX,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Alwin Prins,M,Luxembourg,LUX,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Alwin Prins,M,Luxembourg,LUX,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Luc Decker,M,Luxembourg,LUX,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Norbert Franck,M,Luxembourg,LUX,1936,Berlin,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,False
-Pierre Hastert,M,Luxembourg,LUX,1936,Berlin,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,False
-Ren Kohn,M,Luxembourg,LUX,1952,Helsinki,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Ren Kohn,M,Luxembourg,LUX,1956,Melbourne,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Eugne Kuborn,M,Luxembourg,LUX,1924,Paris,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Eugne Kuborn,M,Luxembourg,LUX,1928,Amsterdam,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Thodore Michel,M,Luxembourg,LUX,1920,Antwerpen,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Jean-Pierre Moris,M,Luxembourg,LUX,1924,Paris,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Rudolf Muller,M,Luxembourg,LUX,1960,Roma,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Marcel Neumann,M,Luxembourg,LUX,1936,Berlin,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True
-Marcel Neumann,M,Luxembourg,LUX,1936,Berlin,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Lon Pesch,M,Luxembourg,LUX,1920,Antwerpen,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Ernest Schweitzer,M,Luxembourg,LUX,1960,Roma,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Raphal Stacchiotti,M,Luxembourg,LUX,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Raphal Stacchiotti,M,Luxembourg,LUX,2012,London,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Raphal Stacchiotti,M,Luxembourg,LUX,2012,London,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Raphal Stacchiotti,M,Luxembourg,LUX,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Raphal Stacchiotti,M,Luxembourg,LUX,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Raphal Stacchiotti,M,Luxembourg,LUX,2016,Rio de Janeiro,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Georges Tandel,M,Luxembourg,LUX,1936,Berlin,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,False
-Ren Wagner,M,Luxembourg,LUX,1960,Roma,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Georges Welbes,M,Luxembourg,LUX,1964,Tokyo,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Raphael Stacchiotti,M,Luxembourg,LUX,2020,Tokyo,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,False
-Ralph Daleiden,M,Luxembourg,LUX,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Laurent Carnol,M,Luxembourg,LUX,2008,Beijing,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Laurent Carnol,M,Luxembourg,LUX,2012,London,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Laurent Carnol,M,Luxembourg,LUX,2012,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Laurent Carnol,M,Luxembourg,LUX,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Laurent Carnol,M,Luxembourg,LUX,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Yves Clausse,M,Luxembourg,LUX,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Yves Clausse,M,Luxembourg,LUX,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Yves Clausse,M,Luxembourg,LUX,1988,Seoul,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Yves Clausse,M,Luxembourg,LUX,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Yves Clausse,M,Luxembourg,LUX,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Yves Clausse,M,Luxembourg,LUX,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Alwin Prins,M,Luxembourg,LUX,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Alwin Prins,M,Luxembourg,LUX,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Alwin Prins,M,Luxembourg,LUX,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Luc Decker,M,Luxembourg,LUX,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Norbert Franck,M,Luxembourg,LUX,1936,Berlin,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,False,True
+Pierre Hastert,M,Luxembourg,LUX,1936,Berlin,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,False,True
+Ren Kohn,M,Luxembourg,LUX,1952,Helsinki,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Ren Kohn,M,Luxembourg,LUX,1956,Melbourne,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Eugne Kuborn,M,Luxembourg,LUX,1924,Paris,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Eugne Kuborn,M,Luxembourg,LUX,1928,Amsterdam,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Thodore Michel,M,Luxembourg,LUX,1920,Antwerpen,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Jean-Pierre Moris,M,Luxembourg,LUX,1924,Paris,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Rudolf Muller,M,Luxembourg,LUX,1960,Roma,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Marcel Neumann,M,Luxembourg,LUX,1936,Berlin,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Marcel Neumann,M,Luxembourg,LUX,1936,Berlin,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Lon Pesch,M,Luxembourg,LUX,1920,Antwerpen,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Ernest Schweitzer,M,Luxembourg,LUX,1960,Roma,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Raphal Stacchiotti,M,Luxembourg,LUX,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Raphal Stacchiotti,M,Luxembourg,LUX,2012,London,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Raphal Stacchiotti,M,Luxembourg,LUX,2012,London,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,False
+Raphal Stacchiotti,M,Luxembourg,LUX,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Raphal Stacchiotti,M,Luxembourg,LUX,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Raphal Stacchiotti,M,Luxembourg,LUX,2016,Rio de Janeiro,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,False
+Georges Tandel,M,Luxembourg,LUX,1936,Berlin,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,False,True
+Ren Wagner,M,Luxembourg,LUX,1960,Roma,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Georges Welbes,M,Luxembourg,LUX,1964,Tokyo,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Raphael Stacchiotti,M,Luxembourg,LUX,2020,Tokyo,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,False,True
+Ralph Daleiden,M,Luxembourg,LUX,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True

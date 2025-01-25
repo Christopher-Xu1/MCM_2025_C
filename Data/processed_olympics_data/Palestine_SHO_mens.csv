@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Antonio Salhe,M,Palestine,PLE,2024,Paris,Shooting,Skeet Men,No medal,Skeet,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Antonio Salhe,M,Palestine,PLE,2024,Paris,Shooting,Skeet Men,No medal,Skeet,SHO,False,True

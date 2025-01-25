@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Epaminonas Anezakis,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Standing Long Jump,No medal,Athletics,ATH,True
-Epaminonas Anezakis,M,Crete,CRT,1906,Athina,Athletics,"Athletics Men's Discus Throw, Greek Style",No medal,Athletics,ATH,True
-Epaminonas Anezakis,M,Crete,CRT,1906,Athina,Athletics,"Athletics Men's Javelin Throw, Freestyle",No medal,Athletics,ATH,True
-V. Boulakakis,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Khristos Ferarolakis,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Mikhail Giannarakis,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Nikolaos Malintretos,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Khristos Manarolakis,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-M. Mantakas,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Evangelos Volanakis,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Epaminonas Anezakis,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Standing Long Jump,No medal,Athletics,ATH,True,True
+Epaminonas Anezakis,M,Crete,CRT,1906,Athina,Athletics,"Athletics Men's Discus Throw, Greek Style",No medal,Athletics,ATH,True,True
+Epaminonas Anezakis,M,Crete,CRT,1906,Athina,Athletics,"Athletics Men's Javelin Throw, Freestyle",No medal,Athletics,ATH,True,True
+V. Boulakakis,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Khristos Ferarolakis,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Mikhail Giannarakis,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Nikolaos Malintretos,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Khristos Manarolakis,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+M. Mantakas,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Evangelos Volanakis,M,Crete,CRT,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True

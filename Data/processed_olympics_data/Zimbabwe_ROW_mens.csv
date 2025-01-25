@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-James Fraser-mackenzie,M,Zimbabwe,ZIM,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Andrew Peebles,M,Zimbabwe,ZIM,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Peter Purcell-gilpin,M,Zimbabwe,ZIM,2020,Tokyo,Rowing,Men's Single Sculls,No medal,Men's,ROW,False
-Stephen Cox,M,Zimbabwe,ZIM,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+James Fraser-mackenzie,M,Zimbabwe,ZIM,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Andrew Peebles,M,Zimbabwe,ZIM,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Peter Purcell-gilpin,M,Zimbabwe,ZIM,2020,Tokyo,Rowing,Men's Single Sculls,No medal,Men's,ROW,False,True
+Stephen Cox,M,Zimbabwe,ZIM,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,False,True

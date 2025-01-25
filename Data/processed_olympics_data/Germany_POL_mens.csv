@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Heinrich Amsinck,M,Germany,GER,1936,Berlin,Polo,Polo Men's Polo,No medal,Polo,POL,False
-Andreas Bartram,M,Germany,GER,1936,Berlin,Polo,Polo Men's Polo,No medal,Polo,POL,False
-Heinrich Jr.,M,Germany,GER,1936,Berlin,Polo,Polo Men's Polo,No medal,Polo,POL,False
-Robert Reincke,M,Germany,GER,1936,Berlin,Polo,Polo Men's Polo,No medal,Polo,POL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Heinrich Amsinck,M,Germany,GER,1936,Berlin,Polo,Polo Men's Polo,No medal,Polo,POL,False,True
+Andreas Bartram,M,Germany,GER,1936,Berlin,Polo,Polo Men's Polo,No medal,Polo,POL,False,True
+Heinrich Jr.,M,Germany,GER,1936,Berlin,Polo,Polo Men's Polo,No medal,Polo,POL,False,True
+Robert Reincke,M,Germany,GER,1936,Berlin,Polo,Polo Men's Polo,No medal,Polo,POL,False,True

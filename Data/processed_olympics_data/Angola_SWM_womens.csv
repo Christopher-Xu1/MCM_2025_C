@@ -1,24 +1,24 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ndia Cruz,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Ndia Cruz,F,Angola,ANG,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Ndia Cruz,F,Angola,ANG,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Ndia Cruz,F,Angola,ANG,1996,Atlanta,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Ndia Cruz,F,Angola,ANG,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Carla Fernandes,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Carla Fernandes,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Elsa Freire,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Elsa Freire,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Elsa Freire,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Elsa Freire,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Elsa Freire,F,Angola,ANG,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Elsa Freire,F,Angola,ANG,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Elsa Freire,F,Angola,ANG,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Mariana Henriques,F,Angola,ANG,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Ana Martins,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Ana Martins,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Ana Nbrega,F,Angola,ANG,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Michele Pessoa,F,Angola,ANG,1980,Moskva,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Michele Pessoa,F,Angola,ANG,1980,Moskva,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Ana Romero,F,Angola,ANG,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Catarina Sousa,F,Angola,ANG,2020,Tokyo,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,False
-Lia Lima,F,Angola,ANG,2024,Paris,Swimming,Women's 200m Butterfly,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ndia Cruz,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Ndia Cruz,F,Angola,ANG,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Ndia Cruz,F,Angola,ANG,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Ndia Cruz,F,Angola,ANG,1996,Atlanta,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Ndia Cruz,F,Angola,ANG,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Carla Fernandes,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Carla Fernandes,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Elsa Freire,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Elsa Freire,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Elsa Freire,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Elsa Freire,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Elsa Freire,F,Angola,ANG,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Elsa Freire,F,Angola,ANG,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Elsa Freire,F,Angola,ANG,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Mariana Henriques,F,Angola,ANG,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Ana Martins,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Ana Martins,F,Angola,ANG,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Ana Nbrega,F,Angola,ANG,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Michele Pessoa,F,Angola,ANG,1980,Moskva,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Michele Pessoa,F,Angola,ANG,1980,Moskva,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Ana Romero,F,Angola,ANG,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Catarina Sousa,F,Angola,ANG,2020,Tokyo,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,False,True
+Lia Lima,F,Angola,ANG,2024,Paris,Swimming,Women's 200m Butterfly,No medal,Women's,SWM,False,True

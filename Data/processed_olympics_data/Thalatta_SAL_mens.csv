@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abraham Heel,M,Thalatta,NED,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Michiel Heel,M,Thalatta,NED,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Willem Duyl,M,Thalatta,NED,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abraham Heel,M,Thalatta,NED,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Michiel Heel,M,Thalatta,NED,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Willem Duyl,M,Thalatta,NED,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

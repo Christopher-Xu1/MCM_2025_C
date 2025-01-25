@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Daniele Casadei,M,San Marino,SMR,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
-Diego Mularoni,M,San Marino,SMR,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Diego Mularoni,M,San Marino,SMR,2000,Sydney,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Diego Mularoni,M,San Marino,SMR,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Emanuele Nicolini,M,San Marino,SMR,2004,Athina,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Emanuele Nicolini,M,San Marino,SMR,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Roberto Pellandra,M,San Marino,SMR,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Filippo Piva,M,San Marino,SMR,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Filippo Piva,M,San Marino,SMR,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Filippo Piva,M,San Marino,SMR,1988,Seoul,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Filippo Piva,M,San Marino,SMR,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Michele Piva,M,San Marino,SMR,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Michele Piva,M,San Marino,SMR,1984,Los Angeles,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Michele Piva,M,San Marino,SMR,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Michele Piva,M,San Marino,SMR,1984,Los Angeles,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Michele Piva,M,San Marino,SMR,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Michele Piva,M,San Marino,SMR,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Michele Piva,M,San Marino,SMR,1988,Seoul,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Danilo Zavoli,M,San Marino,SMR,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Danilo Zavoli,M,San Marino,SMR,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Loris Bianchi,M,San Marino,SMR,2024,Paris,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Daniele Casadei,M,San Marino,SMR,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Diego Mularoni,M,San Marino,SMR,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Diego Mularoni,M,San Marino,SMR,2000,Sydney,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,False
+Diego Mularoni,M,San Marino,SMR,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Emanuele Nicolini,M,San Marino,SMR,2004,Athina,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Emanuele Nicolini,M,San Marino,SMR,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Roberto Pellandra,M,San Marino,SMR,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Filippo Piva,M,San Marino,SMR,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Filippo Piva,M,San Marino,SMR,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Filippo Piva,M,San Marino,SMR,1988,Seoul,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Filippo Piva,M,San Marino,SMR,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Michele Piva,M,San Marino,SMR,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Michele Piva,M,San Marino,SMR,1984,Los Angeles,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Michele Piva,M,San Marino,SMR,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Michele Piva,M,San Marino,SMR,1984,Los Angeles,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Michele Piva,M,San Marino,SMR,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Michele Piva,M,San Marino,SMR,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Michele Piva,M,San Marino,SMR,1988,Seoul,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Danilo Zavoli,M,San Marino,SMR,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Danilo Zavoli,M,San Marino,SMR,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Loris Bianchi,M,San Marino,SMR,2024,Paris,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,False,True

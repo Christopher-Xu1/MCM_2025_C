@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sakari Ilmanen,M,Finland,FIN,1920,Antwerpen,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,False
-Walter Jakobsson,M,Finland,FIN,1920,Antwerpen,Figure Skating,Figure Skating Mixed Pairs,Gold,Figure,FSK,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sakari Ilmanen,M,Finland,FIN,1920,Antwerpen,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,False,True
+Walter Jakobsson,M,Finland,FIN,1920,Antwerpen,Figure Skating,Figure Skating Mixed Pairs,Gold,Figure,FSK,False,True

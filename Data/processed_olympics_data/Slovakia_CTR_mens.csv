@@ -1,38 +1,38 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Peter Bazlik,M,Slovakia,SVK,1996,Atlanta,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Peter Bazlik,M,Slovakia,SVK,2000,Sydney,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True
-Peter Bazlik,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True
-Roman Broni,M,Slovakia,SVK,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Roman Broni,M,Slovakia,SVK,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Milan Dvork,M,Slovakia,SVK,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Milan Dvork,M,Slovakia,SVK,1996,Atlanta,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Milan Dvork,M,Slovakia,SVK,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Martin Hrbek,M,Slovakia,SVK,1996,Atlanta,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,False
-Peter Hric,M,Slovakia,SVK,1996,Atlanta,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Jaroslav Jebek,M,Slovakia,SVK,2000,Sydney,Cycling,Cycling Men's Keirin,No medal,Cycling,CTR,True
-Jaroslav Jebek,M,Slovakia,SVK,2000,Sydney,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True
-Jaroslav Jebek,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Jaroslav Jebek,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Keirin,No medal,Cycling,CTR,True
-Jaroslav Jebek,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True
-Matej Juro,M,Slovakia,SVK,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Matej Juro,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Matej Juro,M,Slovakia,SVK,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Matej Juro,M,Slovakia,SVK,2008,Beijing,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-ubo Kondis,M,Slovakia,SVK,2004,Athina,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Jn Lepka,M,Slovakia,SVK,2000,Sydney,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Jn Lepka,M,Slovakia,SVK,2000,Sydney,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True
-Jn Lepka,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True
-Miroslav Liptk,M,Slovakia,SVK,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Miroslav Liptk,M,Slovakia,SVK,1996,Atlanta,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Martin Lika,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Madison,No medal,Cycling,CTR,False
-Rbert Nagy,M,Slovakia,SVK,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Rbert Nagy,M,Slovakia,SVK,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Martin Rika,M,Slovakia,SVK,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Martin Rika,M,Slovakia,SVK,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Peter Sagan,M,Slovakia,SVK,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Peter Sagan,M,Slovakia,SVK,2016,Rio de Janeiro,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Patrik Tybor,M,Slovakia,SVK,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Jn Valach,M,Slovakia,SVK,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jn Valach,M,Slovakia,SVK,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jozef Abka,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Madison,No medal,Cycling,CTR,False
-Pavel Zaduban,M,Slovakia,SVK,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Peter Bazlik,M,Slovakia,SVK,1996,Atlanta,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Peter Bazlik,M,Slovakia,SVK,2000,Sydney,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True,False
+Peter Bazlik,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True,False
+Roman Broni,M,Slovakia,SVK,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Roman Broni,M,Slovakia,SVK,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Milan Dvork,M,Slovakia,SVK,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Milan Dvork,M,Slovakia,SVK,1996,Atlanta,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,True
+Milan Dvork,M,Slovakia,SVK,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Martin Hrbek,M,Slovakia,SVK,1996,Atlanta,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,False,True
+Peter Hric,M,Slovakia,SVK,1996,Atlanta,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Jaroslav Jebek,M,Slovakia,SVK,2000,Sydney,Cycling,Cycling Men's Keirin,No medal,Cycling,CTR,True,True
+Jaroslav Jebek,M,Slovakia,SVK,2000,Sydney,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True,True
+Jaroslav Jebek,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,False
+Jaroslav Jebek,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Keirin,No medal,Cycling,CTR,True,False
+Jaroslav Jebek,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True,False
+Matej Juro,M,Slovakia,SVK,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Matej Juro,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,True
+Matej Juro,M,Slovakia,SVK,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Matej Juro,M,Slovakia,SVK,2008,Beijing,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False
+ubo Kondis,M,Slovakia,SVK,2004,Athina,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Jn Lepka,M,Slovakia,SVK,2000,Sydney,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Jn Lepka,M,Slovakia,SVK,2000,Sydney,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True,True
+Jn Lepka,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True,False
+Miroslav Liptk,M,Slovakia,SVK,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Miroslav Liptk,M,Slovakia,SVK,1996,Atlanta,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,True
+Martin Lika,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Madison,No medal,Cycling,CTR,False,True
+Rbert Nagy,M,Slovakia,SVK,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Rbert Nagy,M,Slovakia,SVK,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Martin Rika,M,Slovakia,SVK,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Martin Rika,M,Slovakia,SVK,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Peter Sagan,M,Slovakia,SVK,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Peter Sagan,M,Slovakia,SVK,2016,Rio de Janeiro,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,False
+Patrik Tybor,M,Slovakia,SVK,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Jn Valach,M,Slovakia,SVK,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Jn Valach,M,Slovakia,SVK,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Jozef Abka,M,Slovakia,SVK,2004,Athina,Cycling,Cycling Men's Madison,No medal,Cycling,CTR,False,True
+Pavel Zaduban,M,Slovakia,SVK,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True

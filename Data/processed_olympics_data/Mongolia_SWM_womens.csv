@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bayaryn Yosi,F,Mongolia,MGL,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Dashtserengiin Saintsetseg,F,Mongolia,MGL,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Gantumriin Oyungerel,F,Mongolia,MGL,2012,London,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Sanjaajamtsyn Altantuyaa,F,Mongolia,MGL,2000,Sydney,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Enkhkhuslen Batbayar,F,Mongolia,MGL,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True
-Enkhkhuslen Batbayar,F,Mongolia,MGL,2024,Paris,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bayaryn Yosi,F,Mongolia,MGL,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Dashtserengiin Saintsetseg,F,Mongolia,MGL,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Gantumriin Oyungerel,F,Mongolia,MGL,2012,London,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Sanjaajamtsyn Altantuyaa,F,Mongolia,MGL,2000,Sydney,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Enkhkhuslen Batbayar,F,Mongolia,MGL,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True,True
+Enkhkhuslen Batbayar,F,Mongolia,MGL,2024,Paris,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True,False

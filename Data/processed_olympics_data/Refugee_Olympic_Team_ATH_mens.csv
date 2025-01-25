@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nyang Chiengjiek,M,Refugee Olympic Team,EOR,2020,Tokyo,Athletics,Men's 800m,No medal,Men's,ATH,False
-Abdelmaji Eisa,M,Refugee Olympic Team,EOR,2020,Tokyo,Athletics,Men's 5000m,No medal,Men's,ATH,False
-Tachlowini Gabriyesos,M,Refugee Olympic Team,EOR,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False
-Dorian Keletela,M,Refugee Olympic Team,EOR,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,False
-Amotun Lokoro,M,Refugee Olympic Team,EOR,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nyang Chiengjiek,M,Refugee Olympic Team,EOR,2020,Tokyo,Athletics,Men's 800m,No medal,Men's,ATH,False,True
+Abdelmaji Eisa,M,Refugee Olympic Team,EOR,2020,Tokyo,Athletics,Men's 5000m,No medal,Men's,ATH,False,True
+Tachlowini Gabriyesos,M,Refugee Olympic Team,EOR,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False,True
+Dorian Keletela,M,Refugee Olympic Team,EOR,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,False,True
+Amotun Lokoro,M,Refugee Olympic Team,EOR,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,False,True

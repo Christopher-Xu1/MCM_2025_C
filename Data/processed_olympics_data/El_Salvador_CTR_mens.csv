@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mauricio Bolaos,M,El Salvador,ESA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Mauricio Bolaos,M,El Salvador,ESA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Mario Contreras,M,El Salvador,ESA,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Francisco Funes,M,El Salvador,ESA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Francisco Funes,M,El Salvador,ESA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Roberto Garca,M,El Salvador,ESA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-David Miranda,M,El Salvador,ESA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Juan Castro,M,El Salvador,ESA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Juan Castro,M,El Salvador,ESA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mauricio Bolaos,M,El Salvador,ESA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Mauricio Bolaos,M,El Salvador,ESA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Mario Contreras,M,El Salvador,ESA,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Francisco Funes,M,El Salvador,ESA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Francisco Funes,M,El Salvador,ESA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Roberto Garca,M,El Salvador,ESA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+David Miranda,M,El Salvador,ESA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Juan Castro,M,El Salvador,ESA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Juan Castro,M,El Salvador,ESA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True

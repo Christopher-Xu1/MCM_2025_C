@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Daniele Lupo,M,Italy-1,ITA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Silver,Beach,VBV,False
-Paolo Nicolai,M,Italy-1,ITA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Silver,Beach,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Daniele Lupo,M,Italy-1,ITA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Silver,Beach,VBV,False,True
+Paolo Nicolai,M,Italy-1,ITA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Silver,Beach,VBV,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Diego Jimnez,M,Dominican Republic,DOM,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Diego Jimnez,M,Dominican Republic,DOM,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True

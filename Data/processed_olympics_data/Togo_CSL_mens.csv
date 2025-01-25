@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Benjamin Boukpeti,M,Togo,TOG,2004,Athina,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Benjamin Boukpeti,M,Togo,TOG,2008,Beijing,Canoeing,"Canoeing Men's Kayak Singles, Slalom",Bronze,Canoeing,CSL,True
-Benjamin Boukpeti,M,Togo,TOG,2012,London,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Benjamin Boukpeti,M,Togo,TOG,2004,Athina,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Benjamin Boukpeti,M,Togo,TOG,2008,Beijing,Canoeing,"Canoeing Men's Kayak Singles, Slalom",Bronze,Canoeing,CSL,True,False
+Benjamin Boukpeti,M,Togo,TOG,2012,London,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False

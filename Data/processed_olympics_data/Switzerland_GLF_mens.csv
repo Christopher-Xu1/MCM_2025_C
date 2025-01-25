@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Joel Girrbach,M,Switzerland,SUI,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Joel Girrbach,M,Switzerland,SUI,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True

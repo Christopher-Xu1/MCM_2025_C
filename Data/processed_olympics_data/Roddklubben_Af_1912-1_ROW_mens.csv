@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-William Bruhn-mller,M,Roddklubben Af 1912-1,SWE,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Silver,Rowing,ROW,False
-Konrad Brunkman,M,Roddklubben Af 1912-1,SWE,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Silver,Rowing,ROW,False
-Nils Dahlbck,M,Roddklubben Af 1912-1,SWE,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Silver,Rowing,ROW,False
-Ture Rosvall,M,Roddklubben Af 1912-1,SWE,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Silver,Rowing,ROW,False
-Leo Wilkens,M,Roddklubben Af 1912-1,SWE,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Silver,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+William Bruhn-mller,M,Roddklubben Af 1912-1,SWE,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Silver,Rowing,ROW,False,True
+Konrad Brunkman,M,Roddklubben Af 1912-1,SWE,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Silver,Rowing,ROW,False,True
+Nils Dahlbck,M,Roddklubben Af 1912-1,SWE,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Silver,Rowing,ROW,False,True
+Ture Rosvall,M,Roddklubben Af 1912-1,SWE,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Silver,Rowing,ROW,False,True
+Leo Wilkens,M,Roddklubben Af 1912-1,SWE,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Silver,Rowing,ROW,False,True

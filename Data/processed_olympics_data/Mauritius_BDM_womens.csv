@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Martine Souza,F,Mauritius,MRI,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Martine Souza,F,Mauritius,MRI,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Martine Souza,F,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Martine Souza,F,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Eileen Kune,F,Mauritius,MRI,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Kate Kune,F,Mauritius,MRI,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Marie-Josephe Jean-pierre,F,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Marie-Josephe Jean-pierre,F,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Amrita Sawaram,F,Mauritius,MRI,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Amrita Sawaram,F,Mauritius,MRI,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Vandanah Seesurun,F,Mauritius,MRI,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Vandanah Seesurun,F,Mauritius,MRI,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Marie-Hlne Valrie-pierre,F,Mauritius,MRI,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Marie-Hlne Valrie-pierre,F,Mauritius,MRI,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Kate Foo,F,Mauritius,MRI,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Martine Souza,F,Mauritius,MRI,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Martine Souza,F,Mauritius,MRI,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Martine Souza,F,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Martine Souza,F,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Eileen Kune,F,Mauritius,MRI,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Kate Kune,F,Mauritius,MRI,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Marie-Josephe Jean-pierre,F,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Marie-Josephe Jean-pierre,F,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Amrita Sawaram,F,Mauritius,MRI,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Amrita Sawaram,F,Mauritius,MRI,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Vandanah Seesurun,F,Mauritius,MRI,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Vandanah Seesurun,F,Mauritius,MRI,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Marie-Hlne Valrie-pierre,F,Mauritius,MRI,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Marie-Hlne Valrie-pierre,F,Mauritius,MRI,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Kate Foo,F,Mauritius,MRI,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False,True

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Li Gong,F,China,CHN,2020,Tokyo,Karate,Women's Kumite +61kg,Bronze,Women's,KTE,False
-Xiaoyan Yin,F,China,CHN,2020,Tokyo,Karate,Women's Kumite -61kg,Silver,Women's,KTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Li Gong,F,China,CHN,2020,Tokyo,Karate,Women's Kumite +61kg,Bronze,Women's,KTE,False,True
+Xiaoyan Yin,F,China,CHN,2020,Tokyo,Karate,Women's Kumite -61kg,Silver,Women's,KTE,False,True

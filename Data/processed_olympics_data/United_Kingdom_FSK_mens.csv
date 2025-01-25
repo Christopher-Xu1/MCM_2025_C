@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kenneth Beaumont,M,United Kingdom,GBR,1920,Antwerpen,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,False
-Arthur Cumming,M,United Kingdom,GBR,1908,London,Figure Skating,Figure Skating Men's Special Figures,Silver,Figure,FSK,False
-John Greig,M,United Kingdom,GBR,1908,London,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,False
-Geoffrey Hall-say,M,United Kingdom,GBR,1908,London,Figure Skating,Figure Skating Men's Special Figures,Bronze,Figure,FSK,False
-Arthur March,M,United Kingdom,GBR,1908,London,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,False
-Basil Williams,M,United Kingdom,GBR,1920,Antwerpen,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,False
-Herbert Yglesias,M,United Kingdom,GBR,1908,London,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kenneth Beaumont,M,United Kingdom,GBR,1920,Antwerpen,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,False,True
+Arthur Cumming,M,United Kingdom,GBR,1908,London,Figure Skating,Figure Skating Men's Special Figures,Silver,Figure,FSK,False,True
+John Greig,M,United Kingdom,GBR,1908,London,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,False,True
+Geoffrey Hall-say,M,United Kingdom,GBR,1908,London,Figure Skating,Figure Skating Men's Special Figures,Bronze,Figure,FSK,False,True
+Arthur March,M,United Kingdom,GBR,1908,London,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,False,True
+Basil Williams,M,United Kingdom,GBR,1920,Antwerpen,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,False,True
+Herbert Yglesias,M,United Kingdom,GBR,1908,London,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,False,True

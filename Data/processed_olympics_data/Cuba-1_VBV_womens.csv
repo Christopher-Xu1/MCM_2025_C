@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Milagros Valle,F,Cuba-1,CUB,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Imara Ribalta,F,Cuba-1,CUB,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Milagros Valle,F,Cuba-1,CUB,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Imara Ribalta,F,Cuba-1,CUB,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True

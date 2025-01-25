@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Philippe Chancerel,M,Allegro,FRA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Marcel Kerviler,M,Allegro,FRA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Jean Gaulayrie,M,Allegro,FRA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Philippe Chancerel,M,Allegro,FRA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Marcel Kerviler,M,Allegro,FRA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Jean Gaulayrie,M,Allegro,FRA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

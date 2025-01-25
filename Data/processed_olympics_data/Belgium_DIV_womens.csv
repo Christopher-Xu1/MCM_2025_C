@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sophie Hennebert,F,Belgium,BEL,1924,Paris,Diving,Diving Women's Plain High,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sophie Hennebert,F,Belgium,BEL,1924,Paris,Diving,Diving Women's Plain High,No medal,Diving,DIV,False,True

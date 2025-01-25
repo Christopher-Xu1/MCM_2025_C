@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anton Kurukulasooriyage,M,Sri Lanka,SRI,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Sunil Silva,M,Sri Lanka,SRI,1984,Los Angeles,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Chinthana Vidanage,M,Sri Lanka,SRI,2008,Beijing,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Ansela Wijewickrema,M,Sri Lanka,SRI,1992,Barcelona,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anton Kurukulasooriyage,M,Sri Lanka,SRI,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Sunil Silva,M,Sri Lanka,SRI,1984,Los Angeles,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Chinthana Vidanage,M,Sri Lanka,SRI,2008,Beijing,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Ansela Wijewickrema,M,Sri Lanka,SRI,1992,Barcelona,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True

@@ -1,36 +1,36 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Joshua Akognon,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Al-Farouq Aminu,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Abdul Aminu,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Abdul Aminu,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Aniekan Archibong,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Adeola Dagunduro,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Ikechukwu Diogu,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Ikechukwu Diogu,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Ebi Ere,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Michael Gbinije,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Ekene Ibekwe,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Ekene Ibekwe,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Olaseni Lawal,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Derrick Obasohan,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Andy Ogide,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Chamberlain Oguchi,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Chamberlain Oguchi,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Richard Oruche,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Olumide Oyedeji,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Anthony Skinn,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Ejike Ugboaja,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Michael Umeh,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Benjamin Uzoh,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Precious Achiuwa,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False
-Caleb Agada,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False
-Obi Emegano,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False
-Chimezie Metu,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False
-Ike Nwamu,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False
-Jordan Nwora,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False
-Jahlil Okafor,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False
-Josh Okogie,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False
-Kz Okpala,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False
-Miye Oni,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False
-Ekpe Udoh,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False
-Nnamdi Vincent,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Joshua Akognon,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Al-Farouq Aminu,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Abdul Aminu,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Abdul Aminu,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Aniekan Archibong,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Adeola Dagunduro,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Ikechukwu Diogu,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Ikechukwu Diogu,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Ebi Ere,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Michael Gbinije,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Ekene Ibekwe,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Ekene Ibekwe,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Olaseni Lawal,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Derrick Obasohan,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Andy Ogide,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Chamberlain Oguchi,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Chamberlain Oguchi,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Richard Oruche,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Olumide Oyedeji,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Anthony Skinn,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Ejike Ugboaja,M,Nigeria,NGR,2012,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Michael Umeh,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Benjamin Uzoh,M,Nigeria,NGR,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Precious Achiuwa,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False,True
+Caleb Agada,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False,True
+Obi Emegano,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False,True
+Chimezie Metu,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False,True
+Ike Nwamu,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False,True
+Jordan Nwora,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False,True
+Jahlil Okafor,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False,True
+Josh Okogie,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False,True
+Kz Okpala,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False,True
+Miye Oni,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False,True
+Ekpe Udoh,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False,True
+Nnamdi Vincent,M,Nigeria,NGR,2020,Tokyo,Basketball,Men Team,No medal,Men,BKB,False,True

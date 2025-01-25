@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rodrigo Bertinotti,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
-Cino Civinini,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
-Raffaello Giannoni,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
-Azeglio Innocenti,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
-Filiberto Innocenti,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
-Manrico Masetti,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
-Vitaliano Masotti,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
-Quintilio Mazzoncini,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
-Spartaco Nerozzi,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rodrigo Bertinotti,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True
+Cino Civinini,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True
+Raffaello Giannoni,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True
+Azeglio Innocenti,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True
+Filiberto Innocenti,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True
+Manrico Masetti,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True
+Vitaliano Masotti,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True
+Quintilio Mazzoncini,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True
+Spartaco Nerozzi,M,Pistoja/Firenze,ITA,1906,Athina,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True

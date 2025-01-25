@@ -1,54 +1,54 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Edith Bosch,F,Netherlands,NED,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Edith Bosch,F,Netherlands,NED,2004,Athina,Judo,Judo Women's Middleweight,Silver,Judo,JUD,True
-Edith Bosch,F,Netherlands,NED,2008,Beijing,Judo,Judo Women's Middleweight,Bronze,Judo,JUD,True
-Edith Bosch,F,Netherlands,NED,2012,London,Judo,Judo Women's Middleweight,Bronze,Judo,JUD,True
-Irene Kok,F,Netherlands,NED,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,Bronze,Judo,JUD,False
-Birgit Ente,F,Netherlands,NED,2012,London,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Jennifer Gal,F,Netherlands,NED,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Jennifer Gal,F,Netherlands,NED,1996,Atlanta,Judo,Judo Women's Half-Middleweight,Bronze,Judo,JUD,True
-Jessica Gal,F,Netherlands,NED,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Jessica Gal,F,Netherlands,NED,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Jessica Gal,F,Netherlands,NED,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Dibora Gravenstijn,F,Netherlands,NED,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Dibora Gravenstijn,F,Netherlands,NED,2004,Athina,Judo,Judo Women's Lightweight,Bronze,Judo,JUD,True
-Dibora Gravenstijn,F,Netherlands,NED,2008,Beijing,Judo,Judo Women's Lightweight,Silver,Judo,JUD,True
-Marie Han,F,Netherlands,NED,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Karin Kienhuis,F,Netherlands,NED,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Karin Kienhuis,F,Netherlands,NED,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Gooitske Marsman,F,Netherlands,NED,1992,Barcelona,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Tamara Meijer,F,Netherlands,NED,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Kim Polling,F,Netherlands,NED,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Tessie Savelkouls,F,Netherlands,NED,2016,Rio de Janeiro,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Angelique Seriese,F,Netherlands,NED,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Carola Uilenhoed,F,Netherlands,NED,2008,Beijing,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Monique Lee,F,Netherlands,NED,1992,Barcelona,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Anicka Emden,F,Netherlands,NED,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,Bronze,Judo,JUD,False
-Sanne Verhagen,F,Netherlands,NED,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Marhinde Verkerk,F,Netherlands,NED,2012,London,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Marhinde Verkerk,F,Netherlands,NED,2016,Rio de Janeiro,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Danille Vriezema,F,Netherlands,NED,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Elisabeth Willeboordse,F,Netherlands,NED,2008,Beijing,Judo,Judo Women's Half-Middleweight,Bronze,Judo,JUD,True
-Elisabeth Willeboordse,F,Netherlands,NED,2012,London,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Claudia Zwiers,F,Netherlands,NED,1996,Atlanta,Judo,Judo Women's Middleweight,Bronze,Judo,JUD,True
-Claudia Zwiers,F,Netherlands,NED,2004,Athina,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Juul Franssen,F,Netherlands,NED,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,True
-Juul Franssen,F,Netherlands,NED,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
-Tessie Savelkouls,F,Netherlands,NED,2020,Tokyo,Judo,Women +78 kg,No medal,Women,JUD,True
-Tessie Savelkouls,F,Netherlands,NED,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
-Guusje Steenhuis,F,Netherlands,NED,2020,Tokyo,Judo,Women -78 kg,No medal,Women,JUD,True
-Guusje Steenhuis,F,Netherlands,NED,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
-van Sanne,F,Netherlands,NED,2020,Tokyo,Judo,Women -70 kg,Bronze,Women,JUD,True
-van Sanne,F,Netherlands,NED,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
-Sanne Verhagen,F,Netherlands,NED,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,True
-Sanne Verhagen,F,Netherlands,NED,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
-van Sanne,F,Netherlands,NED,2024,Paris,Judo,Women -70 kg,No medal,Women,JUD,True
-van Sanne,F,Netherlands,NED,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-van Joanne,F,Netherlands,NED,2024,Paris,Judo,Women -63 kg,No medal,Women,JUD,True
-van Joanne,F,Netherlands,NED,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Marit Kamps,F,Netherlands,NED,2024,Paris,Judo,Women +78 kg,No medal,Women,JUD,True
-Marit Kamps,F,Netherlands,NED,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Julie Beurskens,F,Netherlands,NED,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,True
-Julie Beurskens,F,Netherlands,NED,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Guusje Steenhuis,F,Netherlands,NED,2024,Paris,Judo,Women -78 kg,No medal,Women,JUD,True
-Guusje Steenhuis,F,Netherlands,NED,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Edith Bosch,F,Netherlands,NED,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,True
+Edith Bosch,F,Netherlands,NED,2004,Athina,Judo,Judo Women's Middleweight,Silver,Judo,JUD,True,False
+Edith Bosch,F,Netherlands,NED,2008,Beijing,Judo,Judo Women's Middleweight,Bronze,Judo,JUD,True,False
+Edith Bosch,F,Netherlands,NED,2012,London,Judo,Judo Women's Middleweight,Bronze,Judo,JUD,True,False
+Irene Kok,F,Netherlands,NED,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,Bronze,Judo,JUD,False,True
+Birgit Ente,F,Netherlands,NED,2012,London,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Jennifer Gal,F,Netherlands,NED,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,True
+Jennifer Gal,F,Netherlands,NED,1996,Atlanta,Judo,Judo Women's Half-Middleweight,Bronze,Judo,JUD,True,False
+Jessica Gal,F,Netherlands,NED,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,True
+Jessica Gal,F,Netherlands,NED,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,False
+Jessica Gal,F,Netherlands,NED,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,False
+Dibora Gravenstijn,F,Netherlands,NED,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,True
+Dibora Gravenstijn,F,Netherlands,NED,2004,Athina,Judo,Judo Women's Lightweight,Bronze,Judo,JUD,True,False
+Dibora Gravenstijn,F,Netherlands,NED,2008,Beijing,Judo,Judo Women's Lightweight,Silver,Judo,JUD,True,False
+Marie Han,F,Netherlands,NED,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Karin Kienhuis,F,Netherlands,NED,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,True
+Karin Kienhuis,F,Netherlands,NED,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,False
+Gooitske Marsman,F,Netherlands,NED,1992,Barcelona,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Tamara Meijer,F,Netherlands,NED,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Kim Polling,F,Netherlands,NED,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Tessie Savelkouls,F,Netherlands,NED,2016,Rio de Janeiro,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,True
+Angelique Seriese,F,Netherlands,NED,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Carola Uilenhoed,F,Netherlands,NED,2008,Beijing,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Monique Lee,F,Netherlands,NED,1992,Barcelona,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Anicka Emden,F,Netherlands,NED,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,Bronze,Judo,JUD,False,True
+Sanne Verhagen,F,Netherlands,NED,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,True
+Marhinde Verkerk,F,Netherlands,NED,2012,London,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,True
+Marhinde Verkerk,F,Netherlands,NED,2016,Rio de Janeiro,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,False
+Danille Vriezema,F,Netherlands,NED,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Elisabeth Willeboordse,F,Netherlands,NED,2008,Beijing,Judo,Judo Women's Half-Middleweight,Bronze,Judo,JUD,True,True
+Elisabeth Willeboordse,F,Netherlands,NED,2012,London,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False
+Claudia Zwiers,F,Netherlands,NED,1996,Atlanta,Judo,Judo Women's Middleweight,Bronze,Judo,JUD,True,True
+Claudia Zwiers,F,Netherlands,NED,2004,Athina,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,False
+Juul Franssen,F,Netherlands,NED,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,True,True
+Juul Franssen,F,Netherlands,NED,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Tessie Savelkouls,F,Netherlands,NED,2020,Tokyo,Judo,Women +78 kg,No medal,Women,JUD,True,False
+Tessie Savelkouls,F,Netherlands,NED,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,False
+Guusje Steenhuis,F,Netherlands,NED,2020,Tokyo,Judo,Women -78 kg,No medal,Women,JUD,True,True
+Guusje Steenhuis,F,Netherlands,NED,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+van Sanne,F,Netherlands,NED,2020,Tokyo,Judo,Women -70 kg,Bronze,Women,JUD,True,True
+van Sanne,F,Netherlands,NED,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Sanne Verhagen,F,Netherlands,NED,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,True,False
+Sanne Verhagen,F,Netherlands,NED,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,False
+van Sanne,F,Netherlands,NED,2024,Paris,Judo,Women -70 kg,No medal,Women,JUD,True,False
+van Sanne,F,Netherlands,NED,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,False
+van Joanne,F,Netherlands,NED,2024,Paris,Judo,Women -63 kg,No medal,Women,JUD,True,True
+van Joanne,F,Netherlands,NED,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Marit Kamps,F,Netherlands,NED,2024,Paris,Judo,Women +78 kg,No medal,Women,JUD,True,True
+Marit Kamps,F,Netherlands,NED,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Julie Beurskens,F,Netherlands,NED,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,True,True
+Julie Beurskens,F,Netherlands,NED,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Guusje Steenhuis,F,Netherlands,NED,2024,Paris,Judo,Women -78 kg,No medal,Women,JUD,True,False
+Guusje Steenhuis,F,Netherlands,NED,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,False

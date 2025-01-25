@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Milena (-tatic),F,Yugoslavia,YUG,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True
-Milena (-tatic),F,Yugoslavia,YUG,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True
-Danijela Simi,F,Yugoslavia,YUG,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Dara (-steri),F,Yugoslavia,YUG,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Milena (-tatic),F,Yugoslavia,YUG,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True,True
+Milena (-tatic),F,Yugoslavia,YUG,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True,False
+Danijela Simi,F,Yugoslavia,YUG,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Dara (-steri),F,Yugoslavia,YUG,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True

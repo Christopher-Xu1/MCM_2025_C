@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tikanah Abdul,F,Singapore,SGP,2020,Tokyo,Fencing,Women's Épée Individual,No medal,Women's,FEN,True
-Amita Berthier,F,Singapore,SGP,2020,Tokyo,Fencing,Women's Foil Individual,No medal,Women's,FEN,True
-Amita Berthier,F,Singapore,SGP,2024,Paris,Fencing,Women's Foil Individual,No medal,Women's,FEN,True
-Tikanah Abdul,F,Singapore,SGP,2024,Paris,Fencing,Women's Épée Individual,No medal,Women's,FEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tikanah Abdul,F,Singapore,SGP,2020,Tokyo,Fencing,Women's Épée Individual,No medal,Women's,FEN,True,True
+Amita Berthier,F,Singapore,SGP,2020,Tokyo,Fencing,Women's Foil Individual,No medal,Women's,FEN,True,True
+Amita Berthier,F,Singapore,SGP,2024,Paris,Fencing,Women's Foil Individual,No medal,Women's,FEN,True,False
+Tikanah Abdul,F,Singapore,SGP,2024,Paris,Fencing,Women's Épée Individual,No medal,Women's,FEN,True,False

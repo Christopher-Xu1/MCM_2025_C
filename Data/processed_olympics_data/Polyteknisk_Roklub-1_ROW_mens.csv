@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Erik Bisgaard,M,Polyteknisk Roklub-1,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Bronze,Rowing,ROW,False
-Ejgil Clemmensen,M,Polyteknisk Roklub-1,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Bronze,Rowing,ROW,False
-Rasmus Frandsen,M,Polyteknisk Roklub-1,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Bronze,Rowing,ROW,False
-Mikael Simonsen,M,Polyteknisk Roklub-1,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Bronze,Rowing,ROW,False
-Poul Thymann,M,Polyteknisk Roklub-1,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Bronze,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Erik Bisgaard,M,Polyteknisk Roklub-1,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Bronze,Rowing,ROW,False,True
+Ejgil Clemmensen,M,Polyteknisk Roklub-1,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Bronze,Rowing,ROW,False,True
+Rasmus Frandsen,M,Polyteknisk Roklub-1,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Bronze,Rowing,ROW,False,True
+Mikael Simonsen,M,Polyteknisk Roklub-1,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Bronze,Rowing,ROW,False,True
+Poul Thymann,M,Polyteknisk Roklub-1,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Bronze,Rowing,ROW,False,True

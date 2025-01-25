@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abraham Surez,M,Ecuador,ECU,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Nelson Surez,M,Ecuador,ECU,1976,Montreal,Diving,Diving Men's Platform,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abraham Surez,M,Ecuador,ECU,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Nelson Surez,M,Ecuador,ECU,1976,Montreal,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True

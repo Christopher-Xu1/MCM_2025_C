@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pablo Saenz,M,Ecuador,ECU,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Nicols Gmez,M,Ecuador,ECU,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Nicols Gmez,M,Ecuador,ECU,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Nicols Gmez,M,Ecuador,ECU,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Nicols Gmez,M,Ecuador,ECU,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Luis Morejn,M,Ecuador,ECU,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pablo Saenz,M,Ecuador,ECU,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Nicols Gmez,M,Ecuador,ECU,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Nicols Gmez,M,Ecuador,ECU,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Nicols Gmez,M,Ecuador,ECU,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Nicols Gmez,M,Ecuador,ECU,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Luis Morejn,M,Ecuador,ECU,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True

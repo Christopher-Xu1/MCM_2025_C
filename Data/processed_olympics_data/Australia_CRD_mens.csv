@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rohan Dennis,M,Australia,AUS,2020,Tokyo,Cycling Road,Men's Individual Time Trial,Bronze,Men's,CRD,False
-Luke Durbridge,M,Australia,AUS,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Lucas Hamilton,M,Australia,AUS,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Richie Porte,M,Australia,AUS,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Richie Porte,M,Australia,AUS,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Ben O'connor,M,Australia,AUS,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Lucas Plapp,M,Australia,AUS,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,False
-Michael Matthews,M,Australia,AUS,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Simon Clarke,M,Australia,AUS,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rohan Dennis,M,Australia,AUS,2020,Tokyo,Cycling Road,Men's Individual Time Trial,Bronze,Men's,CRD,False,True
+Luke Durbridge,M,Australia,AUS,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Lucas Hamilton,M,Australia,AUS,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Richie Porte,M,Australia,AUS,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Richie Porte,M,Australia,AUS,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Ben O'connor,M,Australia,AUS,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Lucas Plapp,M,Australia,AUS,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,False,True
+Michael Matthews,M,Australia,AUS,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Simon Clarke,M,Australia,AUS,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True

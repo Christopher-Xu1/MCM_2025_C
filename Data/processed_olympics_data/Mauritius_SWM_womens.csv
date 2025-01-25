@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Heather Arseth,F,Mauritius,MRI,2012,London,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Heather Arseth,F,Mauritius,MRI,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Anouchka Etiennette,F,Mauritius,MRI,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Anouchka Etiennette,F,Mauritius,MRI,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-King-Teng Lam,F,Mauritius,MRI,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,False
-Corinne Leclair,F,Mauritius,MRI,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Corinne Leclair,F,Mauritius,MRI,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Corinne Leclair,F,Mauritius,MRI,1992,Barcelona,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Corinne Leclair,F,Mauritius,MRI,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
-Nathalie Baw,F,Mauritius,MRI,2000,Sydney,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Ingrid Louis,F,Mauritius,MRI,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Annabelle Mariejeanne,F,Mauritius,MRI,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,False
-Luanne Maurice,F,Mauritius,MRI,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,False
-Alicia Kok,F,Mauritius,MRI,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False
-Anishta Teeluck,F,Mauritius,MRI,2024,Paris,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Heather Arseth,F,Mauritius,MRI,2012,London,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Heather Arseth,F,Mauritius,MRI,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Anouchka Etiennette,F,Mauritius,MRI,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Anouchka Etiennette,F,Mauritius,MRI,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+King-Teng Lam,F,Mauritius,MRI,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,False,True
+Corinne Leclair,F,Mauritius,MRI,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Corinne Leclair,F,Mauritius,MRI,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Corinne Leclair,F,Mauritius,MRI,1992,Barcelona,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Corinne Leclair,F,Mauritius,MRI,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Nathalie Baw,F,Mauritius,MRI,2000,Sydney,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Ingrid Louis,F,Mauritius,MRI,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Annabelle Mariejeanne,F,Mauritius,MRI,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,False,True
+Luanne Maurice,F,Mauritius,MRI,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,False,True
+Alicia Kok,F,Mauritius,MRI,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False,True
+Anishta Teeluck,F,Mauritius,MRI,2024,Paris,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,False,True

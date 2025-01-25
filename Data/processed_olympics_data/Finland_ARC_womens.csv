@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Minna (-koivisto),F,Finland,FIN,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Minna (-koivisto),F,Finland,FIN,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Carita Jussila,F,Finland,FIN,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Taru Kuoppa,F,Finland,FIN,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Pivi Meriluoto-aaltonen,F,Finland,FIN,1980,Moskva,Archery,Archery Women's Individual,Bronze,Archery,ARC,True
-Pivi Meriluoto-aaltonen,F,Finland,FIN,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Pivi Meriluoto-aaltonen,F,Finland,FIN,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Pivi Meriluoto-aaltonen,F,Finland,FIN,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Mari Piuva,F,Finland,FIN,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Jutta (vhoja-),F,Finland,FIN,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Jutta (vhoja-),F,Finland,FIN,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Ulla (rajakisto-),F,Finland,FIN,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Katri Suutari,F,Finland,FIN,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Minna (-koivisto),F,Finland,FIN,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Minna (-koivisto),F,Finland,FIN,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Carita Jussila,F,Finland,FIN,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Taru Kuoppa,F,Finland,FIN,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Pivi Meriluoto-aaltonen,F,Finland,FIN,1980,Moskva,Archery,Archery Women's Individual,Bronze,Archery,ARC,True,True
+Pivi Meriluoto-aaltonen,F,Finland,FIN,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Pivi Meriluoto-aaltonen,F,Finland,FIN,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Pivi Meriluoto-aaltonen,F,Finland,FIN,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Mari Piuva,F,Finland,FIN,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Jutta (vhoja-),F,Finland,FIN,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Jutta (vhoja-),F,Finland,FIN,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Ulla (rajakisto-),F,Finland,FIN,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Katri Suutari,F,Finland,FIN,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hui Mun,F,Dpr Korea,PRK,2024,Paris,Judo,Women -70 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hui Mun,F,Dpr Korea,PRK,2024,Paris,Judo,Women -70 kg,No medal,Women,JUD,False,True

@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rosetta (newell-),F,Ireland,IRL,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Rosetta (newell-),F,Ireland,IRL,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Mabel Wallis,F,Ireland,IRL,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Mabel Wallis,F,Ireland,IRL,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rosetta (newell-),F,Ireland,IRL,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Rosetta (newell-),F,Ireland,IRL,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Mabel Wallis,F,Ireland,IRL,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Mabel Wallis,F,Ireland,IRL,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True

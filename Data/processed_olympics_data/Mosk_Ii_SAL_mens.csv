@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Charles Arentz,M,Mosk Ii,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False
-Otto Falkenberg,M,Mosk Ii,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False
-Robert Giertsen,M,Mosk Ii,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False
-Willy Gilbert,M,Mosk Ii,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False
-Halfdan Schjtt,M,Mosk Ii,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False
-Trygve Schjtt,M,Mosk Ii,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False
-Arne Sejersted,M,Mosk Ii,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Charles Arentz,M,Mosk Ii,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False,True
+Otto Falkenberg,M,Mosk Ii,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False,True
+Robert Giertsen,M,Mosk Ii,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False,True
+Willy Gilbert,M,Mosk Ii,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False,True
+Halfdan Schjtt,M,Mosk Ii,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False,True
+Trygve Schjtt,M,Mosk Ii,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False,True
+Arne Sejersted,M,Mosk Ii,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Manuel Cardeas,M,Puerto Rico,PUR,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Manuel Cardeas,M,Puerto Rico,PUR,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True

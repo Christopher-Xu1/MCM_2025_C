@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dedeh Erawati,F,Indonesia,INA,2008,Beijing,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False
-Irene Joseph,F,Indonesia,INA,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Maria Londa,F,Indonesia,INA,2016,Rio de Janeiro,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False
-Carolina Rieuwpassa,F,Indonesia,INA,1972,Munich,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Carolina Rieuwpassa,F,Indonesia,INA,1972,Munich,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Carolina Rieuwpassa,F,Indonesia,INA,1976,Montreal,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Carolina Rieuwpassa,F,Indonesia,INA,1976,Montreal,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Supriyati Sutono,F,Indonesia,INA,2004,Athina,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,False
-Emma Tahapari,F,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Emma Tahapari,F,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Triyaningsih,F,Indonesia,INA,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Alvin Tehupeiory,F,Indonesia,INA,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dedeh Erawati,F,Indonesia,INA,2008,Beijing,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False,True
+Irene Joseph,F,Indonesia,INA,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Maria Londa,F,Indonesia,INA,2016,Rio de Janeiro,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False,True
+Carolina Rieuwpassa,F,Indonesia,INA,1972,Munich,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Carolina Rieuwpassa,F,Indonesia,INA,1972,Munich,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Carolina Rieuwpassa,F,Indonesia,INA,1976,Montreal,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Carolina Rieuwpassa,F,Indonesia,INA,1976,Montreal,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Supriyati Sutono,F,Indonesia,INA,2004,Athina,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,False,True
+Emma Tahapari,F,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Emma Tahapari,F,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Triyaningsih,F,Indonesia,INA,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Alvin Tehupeiory,F,Indonesia,INA,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,False,True

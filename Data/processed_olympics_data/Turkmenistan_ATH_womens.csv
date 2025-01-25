@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Viktoriya Brigadnaya,F,Turkmenistan,TKM,2000,Sydney,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,False
-Valentina Nazarova,F,Turkmenistan,TKM,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Svetlana Pessova,F,Turkmenistan,TKM,2004,Athina,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False
-Masa Rejepowa,F,Turkmenistan,TKM,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-elena Rabowa,F,Turkmenistan,TKM,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Valentina Meredova,F,Turkmenistan,TKM,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Viktoriya Brigadnaya,F,Turkmenistan,TKM,2000,Sydney,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,False,True
+Valentina Nazarova,F,Turkmenistan,TKM,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Svetlana Pessova,F,Turkmenistan,TKM,2004,Athina,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False,True
+Masa Rejepowa,F,Turkmenistan,TKM,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+elena Rabowa,F,Turkmenistan,TKM,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Valentina Meredova,F,Turkmenistan,TKM,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False,True

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Catharine Pendrel,F,Canada,CAN,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,False
-Haley Smith,F,Canada,CAN,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,False
-Isabella Holmgren,F,Canada,CAN,2024,Paris,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Catharine Pendrel,F,Canada,CAN,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,False,True
+Haley Smith,F,Canada,CAN,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,False,True
+Isabella Holmgren,F,Canada,CAN,2024,Paris,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,False,True

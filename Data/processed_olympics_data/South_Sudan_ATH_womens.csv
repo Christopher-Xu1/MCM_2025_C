@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Margret Hassan,F,South Sudan,SSD,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Lucia Moris,F,South Sudan,SSD,2020,Tokyo,Athletics,Women's 200m,No medal,Women's,ATH,True
-Lucia Moris,F,South Sudan,SSD,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Margret Hassan,F,South Sudan,SSD,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Lucia Moris,F,South Sudan,SSD,2020,Tokyo,Athletics,Women's 200m,No medal,Women's,ATH,True,True
+Lucia Moris,F,South Sudan,SSD,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,True,False

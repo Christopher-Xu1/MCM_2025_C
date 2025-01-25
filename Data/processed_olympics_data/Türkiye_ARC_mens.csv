@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mete Gazoz,M,Türkiye,TUR,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True
-Mete Gazoz,M,Türkiye,TUR,2024,Paris,Archery,Men's Team,Bronze,Men's,ARC,True
-Mete Gazoz,M,Türkiye,TUR,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
-Berkim Tumer,M,Türkiye,TUR,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True
-Berkim Tumer,M,Türkiye,TUR,2024,Paris,Archery,Men's Team,Bronze,Men's,ARC,True
-Abdullah Yildirmis,M,Türkiye,TUR,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True
-Abdullah Yildirmis,M,Türkiye,TUR,2024,Paris,Archery,Men's Team,Bronze,Men's,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mete Gazoz,M,Türkiye,TUR,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True,True
+Mete Gazoz,M,Türkiye,TUR,2024,Paris,Archery,Men's Team,Bronze,Men's,ARC,True,True
+Mete Gazoz,M,Türkiye,TUR,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True,True
+Berkim Tumer,M,Türkiye,TUR,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True,True
+Berkim Tumer,M,Türkiye,TUR,2024,Paris,Archery,Men's Team,Bronze,Men's,ARC,True,True
+Abdullah Yildirmis,M,Türkiye,TUR,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True,True
+Abdullah Yildirmis,M,Türkiye,TUR,2024,Paris,Archery,Men's Team,Bronze,Men's,ARC,True,True

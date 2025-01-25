@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anton Sintsov,M,Russia,ROC,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anton Sintsov,M,Russia,ROC,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False,True

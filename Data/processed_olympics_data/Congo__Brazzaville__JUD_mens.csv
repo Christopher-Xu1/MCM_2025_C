@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bienvenu Mbida,M,Congo (Brazzaville),CGO,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Abel Ndenguet,M,Congo (Brazzaville),CGO,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Kevin Ngapoula-mbembo,M,Congo (Brazzaville),CGO,2000,Sydney,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Deo Ngokaba,M,Congo (Brazzaville),CGO,2016,Rio de Janeiro,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Sraphin Okuaka,M,Congo (Brazzaville),CGO,1984,Los Angeles,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Christophe Wogo,M,Congo (Brazzaville),CGO,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bienvenu Mbida,M,Congo (Brazzaville),CGO,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Abel Ndenguet,M,Congo (Brazzaville),CGO,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Kevin Ngapoula-mbembo,M,Congo (Brazzaville),CGO,2000,Sydney,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Deo Ngokaba,M,Congo (Brazzaville),CGO,2016,Rio de Janeiro,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Sraphin Okuaka,M,Congo (Brazzaville),CGO,1984,Los Angeles,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Christophe Wogo,M,Congo (Brazzaville),CGO,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True

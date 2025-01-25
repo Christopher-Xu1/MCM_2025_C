@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Willem Sr.,M,Bem Ii,NED,1936,Berlin,Sailing,Sailing Mixed Two Person Keelboat,Bronze,Sailing,SAL,False
-Adrianus Maas,M,Bem Ii,NED,1936,Berlin,Sailing,Sailing Mixed Two Person Keelboat,Bronze,Sailing,SAL,True
-Adrianus Maas,M,Bem Ii,NED,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Edward Stutterheim,M,Bem Ii,NED,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Willem Sr.,M,Bem Ii,NED,1936,Berlin,Sailing,Sailing Mixed Two Person Keelboat,Bronze,Sailing,SAL,False,True
+Adrianus Maas,M,Bem Ii,NED,1936,Berlin,Sailing,Sailing Mixed Two Person Keelboat,Bronze,Sailing,SAL,True,True
+Adrianus Maas,M,Bem Ii,NED,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Edward Stutterheim,M,Bem Ii,NED,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True

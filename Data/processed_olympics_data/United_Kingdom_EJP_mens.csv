@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Scott Brash,M,United Kingdom,GBR,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Scott Brash,M,United Kingdom,GBR,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Harry Charles,M,United Kingdom,GBR,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Harry Charles,M,United Kingdom,GBR,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Ben Maher,M,United Kingdom,GBR,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Ben Maher,M,United Kingdom,GBR,2020,Tokyo,Equestrian,Jumping Individual,Gold,Jumping,EJP,True
-Scott Brash,M,United Kingdom,GBR,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Scott Brash,M,United Kingdom,GBR,2024,Paris,Equestrian,Jumping Team,Gold,Jumping,EJP,True
-Harry Charles,M,United Kingdom,GBR,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Harry Charles,M,United Kingdom,GBR,2024,Paris,Equestrian,Jumping Team,Gold,Jumping,EJP,True
-Joseph Stockdale,M,United Kingdom,GBR,2024,Paris,Equestrian,Jumping Team,Gold,Jumping,EJP,False
-Ben Maher,M,United Kingdom,GBR,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Ben Maher,M,United Kingdom,GBR,2024,Paris,Equestrian,Jumping Team,Gold,Jumping,EJP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Scott Brash,M,United Kingdom,GBR,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Scott Brash,M,United Kingdom,GBR,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Harry Charles,M,United Kingdom,GBR,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Harry Charles,M,United Kingdom,GBR,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Ben Maher,M,United Kingdom,GBR,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Ben Maher,M,United Kingdom,GBR,2020,Tokyo,Equestrian,Jumping Individual,Gold,Jumping,EJP,True,True
+Scott Brash,M,United Kingdom,GBR,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+Scott Brash,M,United Kingdom,GBR,2024,Paris,Equestrian,Jumping Team,Gold,Jumping,EJP,True,False
+Harry Charles,M,United Kingdom,GBR,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+Harry Charles,M,United Kingdom,GBR,2024,Paris,Equestrian,Jumping Team,Gold,Jumping,EJP,True,False
+Joseph Stockdale,M,United Kingdom,GBR,2024,Paris,Equestrian,Jumping Team,Gold,Jumping,EJP,False,True
+Ben Maher,M,United Kingdom,GBR,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+Ben Maher,M,United Kingdom,GBR,2024,Paris,Equestrian,Jumping Team,Gold,Jumping,EJP,True,False

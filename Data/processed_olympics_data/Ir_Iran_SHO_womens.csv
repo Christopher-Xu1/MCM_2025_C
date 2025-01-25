@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Haniyeh Rostamiyan,F,Ir Iran,IRI,2024,Paris,Shooting,10m Air Pistol Women,No medal,10m,SHO,True
-Haniyeh Rostamiyan,F,Ir Iran,IRI,2024,Paris,Shooting,25m Pistol Women,No medal,25m,SHO,True
-Fatemeh Amini,F,Ir Iran,IRI,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,False
-Shermineh Chehel,F,Ir Iran,IRI,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Haniyeh Rostamiyan,F,Ir Iran,IRI,2024,Paris,Shooting,10m Air Pistol Women,No medal,10m,SHO,True,True
+Haniyeh Rostamiyan,F,Ir Iran,IRI,2024,Paris,Shooting,25m Pistol Women,No medal,25m,SHO,True,True
+Fatemeh Amini,F,Ir Iran,IRI,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,False,True
+Shermineh Chehel,F,Ir Iran,IRI,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,False,True

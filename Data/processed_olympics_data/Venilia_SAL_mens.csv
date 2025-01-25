@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Antonio Ciciliano,M,Venilia,ITA,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False
-Antonio Cosentino,M,Venilia,ITA,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False
-Giulio Stefano,M,Venilia,ITA,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Antonio Ciciliano,M,Venilia,ITA,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False,True
+Antonio Cosentino,M,Venilia,ITA,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False,True
+Giulio Stefano,M,Venilia,ITA,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False,True

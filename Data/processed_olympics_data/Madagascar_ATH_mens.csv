@@ -1,39 +1,39 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kame Ali,M,Madagascar,MAD,2012,London,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Kame Ali,M,Madagascar,MAD,2016,Rio de Janeiro,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Frdrique Andrianaivo,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Marc Rabmila,M,Madagascar,MAD,1964,Tokyo,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False
-Toussaint Rabenala,M,Madagascar,MAD,1992,Barcelona,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False
-Alfred Rabenja,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Henri Rafaralahy,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Joseph Rakotoarimanana,M,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Yvon Rakotoarimiandry,M,Madagascar,MAD,2000,Sydney,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
-Tisbite Rakotoarisoa,M,Madagascar,MAD,1980,Moskva,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Tisbite Rakotoarisoa,M,Madagascar,MAD,1980,Moskva,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Hubert Rakotomblontsoa,M,Madagascar,MAD,1992,Barcelona,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
-Dominique Rakotorahalahy,M,Madagascar,MAD,1968,Mexico City,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,False
-Andr Ralainasolo,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Arsne Randriamahazomana,M,Madagascar,MAD,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Jean-Jacky Randriamamitiana,M,Madagascar,MAD,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Joseph-Berlioz Randriamihaja,M,Madagascar,MAD,2000,Sydney,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Joseph-Berlioz Randriamihaja,M,Madagascar,MAD,2004,Athina,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Joseph-Berlioz Randriamihaja,M,Madagascar,MAD,2008,Beijing,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Jean-Aim Randrianalijaona,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
-Jules Randrianarivelo,M,Madagascar,MAD,1980,Moskva,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Jules Randrianarivelo,M,Madagascar,MAD,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Jules Randrianarivelo,M,Madagascar,MAD,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Jean Randrianjatavo,M,Madagascar,MAD,1964,Tokyo,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-douard Rasoanaivo,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-douard Rasoanaivo,M,Madagascar,MAD,1972,Munich,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Jean-Louis Ravelomanantsoa,M,Madagascar,MAD,1964,Tokyo,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Jean-Louis Ravelomanantsoa,M,Madagascar,MAD,1964,Tokyo,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Jean-Louis Ravelomanantsoa,M,Madagascar,MAD,1968,Mexico City,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Jean-Louis Ravelomanantsoa,M,Madagascar,MAD,1968,Mexico City,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Jean-Louis Ravelomanantsoa,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Jean-Louis Ravelomanantsoa,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Victor Razafindrakoto,M,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Alain Razahasoa,M,Madagascar,MAD,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Fernand Tovondray,M,Madagascar,MAD,1968,Mexico City,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Fernand Tovondray,M,Madagascar,MAD,1968,Mexico City,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True
-Franck Rabearison,M,Madagascar,MAD,2020,Tokyo,Athletics,Men's 400m,No medal,Men's,ATH,False
-Vatomanga Gardiner,M,Madagascar,MAD,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kame Ali,M,Madagascar,MAD,2012,London,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,True
+Kame Ali,M,Madagascar,MAD,2016,Rio de Janeiro,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,False
+Frdrique Andrianaivo,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Marc Rabmila,M,Madagascar,MAD,1964,Tokyo,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False,True
+Toussaint Rabenala,M,Madagascar,MAD,1992,Barcelona,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False,True
+Alfred Rabenja,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Henri Rafaralahy,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Joseph Rakotoarimanana,M,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Yvon Rakotoarimiandry,M,Madagascar,MAD,2000,Sydney,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+Tisbite Rakotoarisoa,M,Madagascar,MAD,1980,Moskva,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Tisbite Rakotoarisoa,M,Madagascar,MAD,1980,Moskva,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Hubert Rakotomblontsoa,M,Madagascar,MAD,1992,Barcelona,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+Dominique Rakotorahalahy,M,Madagascar,MAD,1968,Mexico City,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,False,True
+Andr Ralainasolo,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Arsne Randriamahazomana,M,Madagascar,MAD,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Jean-Jacky Randriamamitiana,M,Madagascar,MAD,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Joseph-Berlioz Randriamihaja,M,Madagascar,MAD,2000,Sydney,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,True
+Joseph-Berlioz Randriamihaja,M,Madagascar,MAD,2004,Athina,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,False
+Joseph-Berlioz Randriamihaja,M,Madagascar,MAD,2008,Beijing,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,False
+Jean-Aim Randrianalijaona,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+Jules Randrianarivelo,M,Madagascar,MAD,1980,Moskva,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Jules Randrianarivelo,M,Madagascar,MAD,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Jules Randrianarivelo,M,Madagascar,MAD,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Jean Randrianjatavo,M,Madagascar,MAD,1964,Tokyo,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+douard Rasoanaivo,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+douard Rasoanaivo,M,Madagascar,MAD,1972,Munich,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Jean-Louis Ravelomanantsoa,M,Madagascar,MAD,1964,Tokyo,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Jean-Louis Ravelomanantsoa,M,Madagascar,MAD,1964,Tokyo,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Jean-Louis Ravelomanantsoa,M,Madagascar,MAD,1968,Mexico City,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Jean-Louis Ravelomanantsoa,M,Madagascar,MAD,1968,Mexico City,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Jean-Louis Ravelomanantsoa,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Jean-Louis Ravelomanantsoa,M,Madagascar,MAD,1972,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Victor Razafindrakoto,M,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Alain Razahasoa,M,Madagascar,MAD,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Fernand Tovondray,M,Madagascar,MAD,1968,Mexico City,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,True
+Fernand Tovondray,M,Madagascar,MAD,1968,Mexico City,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True,True
+Franck Rabearison,M,Madagascar,MAD,2020,Tokyo,Athletics,Men's 400m,No medal,Men's,ATH,False,True
+Vatomanga Gardiner,M,Madagascar,MAD,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True

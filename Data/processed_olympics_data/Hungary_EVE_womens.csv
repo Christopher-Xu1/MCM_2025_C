@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anita Nemtin,F,Hungary,HUN,1996,Atlanta,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anita Nemtin,F,Hungary,HUN,1996,Atlanta,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False,True

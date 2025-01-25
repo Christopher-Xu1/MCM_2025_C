@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Man (-roper),F,Hong Kong,HKG,2000,Sydney,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,True
-Man (-roper),F,Hong Kong,HKG,2000,Sydney,Athletics,"Athletics Women's 10,000 metres",No medal,Athletics,ATH,True
-Chan Ying,F,Hong Kong,HKG,1992,Barcelona,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Chan Ying,F,Hong Kong,HKG,1996,Atlanta,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Cheung Yee,F,Hong Kong,HKG,1988,Seoul,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False
-Fong Pui,F,Hong Kong,HKG,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Yuko (hasegawa-),F,Hong Kong,HKG,1984,Los Angeles,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Ng Yee,F,Hong Kong,HKG,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Ng Yee,F,Hong Kong,HKG,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Lai Ng,F,Hong Kong,HKG,1984,Los Angeles,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Wan Yee,F,Hong Kong,HKG,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-"Yiu ""christy""",F,Hong Kong,HKG,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Man (-roper),F,Hong Kong,HKG,2000,Sydney,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,True,True
+Man (-roper),F,Hong Kong,HKG,2000,Sydney,Athletics,"Athletics Women's 10,000 metres",No medal,Athletics,ATH,True,True
+Chan Ying,F,Hong Kong,HKG,1992,Barcelona,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,True
+Chan Ying,F,Hong Kong,HKG,1996,Atlanta,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,False
+Cheung Yee,F,Hong Kong,HKG,1988,Seoul,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False,True
+Fong Pui,F,Hong Kong,HKG,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Yuko (hasegawa-),F,Hong Kong,HKG,1984,Los Angeles,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Ng Yee,F,Hong Kong,HKG,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Ng Yee,F,Hong Kong,HKG,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Lai Ng,F,Hong Kong,HKG,1984,Los Angeles,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Wan Yee,F,Hong Kong,HKG,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+"Yiu ""christy""",F,Hong Kong,HKG,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True

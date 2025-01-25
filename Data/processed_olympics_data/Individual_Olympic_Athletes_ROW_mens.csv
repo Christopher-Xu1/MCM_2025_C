@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vladimir Banjanac,M,Individual Olympic Athletes,IOA,1992,Barcelona,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False
-Lazo Piva,M,Individual Olympic Athletes,IOA,1992,Barcelona,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vladimir Banjanac,M,Individual Olympic Athletes,IOA,1992,Barcelona,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False,True
+Lazo Piva,M,Individual Olympic Athletes,IOA,1992,Barcelona,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False,True

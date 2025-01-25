@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Romeo Frigo,M,Switzerland,SUI,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Thomas Hardmeier,M,Switzerland,SUI,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Jean-Pierre Hritier,M,Switzerland,SUI,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Patrick Jopp,M,Switzerland,SUI,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Axel Mller,M,Switzerland,SUI,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Lucien Trepper,M,Switzerland,SUI,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Jakob Wolfensberger,M,Switzerland,SUI,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Romeo Frigo,M,Switzerland,SUI,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Thomas Hardmeier,M,Switzerland,SUI,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Jean-Pierre Hritier,M,Switzerland,SUI,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Patrick Jopp,M,Switzerland,SUI,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Axel Mller,M,Switzerland,SUI,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Lucien Trepper,M,Switzerland,SUI,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Jakob Wolfensberger,M,Switzerland,SUI,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yves Baudrier,M,Qu'Importe,FRA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Grard Piolenc,M,Qu'Importe,FRA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Claude Desouches,M,Qu'Importe,FRA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Jean Peytel,M,Qu'Importe,FRA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Jacques Rambaud,M,Qu'Importe,FRA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yves Baudrier,M,Qu'Importe,FRA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Grard Piolenc,M,Qu'Importe,FRA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Claude Desouches,M,Qu'Importe,FRA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Jean Peytel,M,Qu'Importe,FRA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Jacques Rambaud,M,Qu'Importe,FRA,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

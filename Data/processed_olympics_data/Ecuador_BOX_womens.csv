@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Stefania Pachito,F,Ecuador,ECU,2020,Tokyo,Boxing,Women's Middle (69-75kg),No medal,Women's,BOX,False
-Jose Palacios,F,Ecuador,ECU,2020,Tokyo,Boxing,Women's Light (57-60kg),No medal,Women's,BOX,True
-Jose Palacios,F,Ecuador,ECU,2024,Paris,Boxing,Women's 60kg,No medal,Women's,BOX,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Stefania Pachito,F,Ecuador,ECU,2020,Tokyo,Boxing,Women's Middle (69-75kg),No medal,Women's,BOX,False,True
+Jose Palacios,F,Ecuador,ECU,2020,Tokyo,Boxing,Women's Light (57-60kg),No medal,Women's,BOX,True,True
+Jose Palacios,F,Ecuador,ECU,2024,Paris,Boxing,Women's 60kg,No medal,Women's,BOX,True,False

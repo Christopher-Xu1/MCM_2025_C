@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ernests Gtmanis,M,Latvia,LAT,1924,Paris,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Romans Kuklins,M,Latvia,LAT,1996,Atlanta,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Igors Aplavskis,M,Latvia,LAT,1992,Barcelona,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ernests Gtmanis,M,Latvia,LAT,1924,Paris,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Romans Kuklins,M,Latvia,LAT,1996,Atlanta,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Igors Aplavskis,M,Latvia,LAT,1992,Barcelona,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True

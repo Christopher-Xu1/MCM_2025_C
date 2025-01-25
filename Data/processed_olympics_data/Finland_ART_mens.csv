@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Win Aaltonen,M,Finland,FIN,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,False
-Uuno Asunta,M,Finland,FIN,1948,London,Art Competitions,"Art Competitions Mixed Literature, Lyric Works",No medal,Art,ART,False
-Sven Englund,M,Finland,FIN,1948,London,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",No medal,Art,ART,False
-Urho Karhumki,M,Finland,FIN,1936,Berlin,Art Competitions,"Art Competitions Mixed Literature, Epic Works",Gold,Art,ART,False
-Yrj Lindegren,M,Finland,FIN,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",Gold,Art,ART,False
-Heikki Niemelinen,M,Finland,FIN,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",Bronze,Art,ART,False
-Klaus (lindholm-),M,Finland,FIN,1924,Paris,Art Competitions,Art Competitions Mixed Literature,No medal,Art,ART,False
-Kalervo Tuukkanen,M,Finland,FIN,1948,London,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",Silver,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Win Aaltonen,M,Finland,FIN,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,False,True
+Uuno Asunta,M,Finland,FIN,1948,London,Art Competitions,"Art Competitions Mixed Literature, Lyric Works",No medal,Art,ART,False,True
+Sven Englund,M,Finland,FIN,1948,London,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",No medal,Art,ART,False,True
+Urho Karhumki,M,Finland,FIN,1936,Berlin,Art Competitions,"Art Competitions Mixed Literature, Epic Works",Gold,Art,ART,False,True
+Yrj Lindegren,M,Finland,FIN,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",Gold,Art,ART,False,True
+Heikki Niemelinen,M,Finland,FIN,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",Bronze,Art,ART,False,True
+Klaus (lindholm-),M,Finland,FIN,1924,Paris,Art Competitions,Art Competitions Mixed Literature,No medal,Art,ART,False,True
+Kalervo Tuukkanen,M,Finland,FIN,1948,London,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",Silver,Art,ART,False,True

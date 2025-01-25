@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mariya Koryttseva,F,Ukraine-1,UKR,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Tetiana Perebyinis,F,Ukraine-1,UKR,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Olha Savchuk,F,Ukraine-1,UKR,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Elina Svitolina,F,Ukraine-1,UKR,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mariya Koryttseva,F,Ukraine-1,UKR,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Tetiana Perebyinis,F,Ukraine-1,UKR,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Olha Savchuk,F,Ukraine-1,UKR,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Elina Svitolina,F,Ukraine-1,UKR,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True

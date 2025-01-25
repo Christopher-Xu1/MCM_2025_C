@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lajos Gncz,M,Hungary-2,HUN,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Klmn Kirchmayer,M,Hungary-2,HUN,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Le Barth,M,Hungary-2,HUN,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Aurl Kelemen,M,Hungary-2,HUN,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lajos Gncz,M,Hungary-2,HUN,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Klmn Kirchmayer,M,Hungary-2,HUN,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Le Barth,M,Hungary-2,HUN,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Aurl Kelemen,M,Hungary-2,HUN,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

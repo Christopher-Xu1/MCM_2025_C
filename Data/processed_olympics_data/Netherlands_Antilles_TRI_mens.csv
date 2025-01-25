@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Roland Melis,M,Netherlands Antilles,AHO,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Roland Melis,M,Netherlands Antilles,AHO,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True

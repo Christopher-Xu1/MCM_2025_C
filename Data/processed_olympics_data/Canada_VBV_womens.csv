@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Barbara Broen-ouelette,F,Canada,CAN,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Guylaine Dumont,F,Canada,CAN,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Marie-Andree Lessard,F,Canada,CAN,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Margo Malowney,F,Canada,CAN,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Annie Martin,F,Canada,CAN,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Annie Martin,F,Canada,CAN,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Heather Bansley,F,Canada,CAN,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,True
-Melissa Humana-paredes,F,Canada,CAN,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,True
-Sarah Pavan,F,Canada,CAN,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False
-Brandie Wilkerson,F,Canada,CAN,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,True
-Sophie Bukovec,F,Canada,CAN,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False
-Melissa Humana-paredes,F,Canada,CAN,2024,Paris,Beach Volleyball,Women,Silver,Women,VBV,True
-Brandie Wilkerson,F,Canada,CAN,2024,Paris,Beach Volleyball,Women,Silver,Women,VBV,True
-Heather Bansley,F,Canada,CAN,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Barbara Broen-ouelette,F,Canada,CAN,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Guylaine Dumont,F,Canada,CAN,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Marie-Andree Lessard,F,Canada,CAN,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Margo Malowney,F,Canada,CAN,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Annie Martin,F,Canada,CAN,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,True
+Annie Martin,F,Canada,CAN,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,False
+Heather Bansley,F,Canada,CAN,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,True,True
+Melissa Humana-paredes,F,Canada,CAN,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,True,True
+Sarah Pavan,F,Canada,CAN,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False,True
+Brandie Wilkerson,F,Canada,CAN,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,True,True
+Sophie Bukovec,F,Canada,CAN,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False,True
+Melissa Humana-paredes,F,Canada,CAN,2024,Paris,Beach Volleyball,Women,Silver,Women,VBV,True,False
+Brandie Wilkerson,F,Canada,CAN,2024,Paris,Beach Volleyball,Women,Silver,Women,VBV,True,False
+Heather Bansley,F,Canada,CAN,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,True,False

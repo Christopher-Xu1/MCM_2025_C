@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bernardo D'almeida,M,Canopus,POR,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Carlos Loureno,M,Canopus,POR,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Srgio Marques,M,Canopus,POR,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Juan Tresserras,M,Canopus,ESP,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Jos Buxeda,M,Canopus,ESP,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Santiago Buxeda,M,Canopus,ESP,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bernardo D'almeida,M,Canopus,POR,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Carlos Loureno,M,Canopus,POR,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Srgio Marques,M,Canopus,POR,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Juan Tresserras,M,Canopus,ESP,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Jos Buxeda,M,Canopus,ESP,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Santiago Buxeda,M,Canopus,ESP,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

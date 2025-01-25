@@ -1,41 +1,41 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ahmet Akdilek,M,Turkey,TUR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Ahmet Akdilek,M,Turkey,TUR,2012,London,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Bilal Akgl,M,Turkey,TUR,2008,Beijing,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Onur Balkan,M,Turkey,TUR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Kazm Bingen,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Kazm Bingen,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Mevlt Bora,M,Turkey,TUR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Mevlt Bora,M,Turkey,TUR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Rfat Alkan,M,Turkey,TUR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Kirkor Canbazyan,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Kirkor Canbazyan,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Cavit Cav,M,Turkey,TUR,1928,Amsterdam,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Cavit Cav,M,Turkey,TUR,1928,Amsterdam,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Galip Cav,M,Turkey,TUR,1928,Amsterdam,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Galip Cav,M,Turkey,TUR,1928,Amsterdam,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Ali Etiner,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Ali Etiner,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Haluk Gnzgen,M,Turkey,TUR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Ali Hrylmaz,M,Turkey,TUR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Ali Hrylmaz,M,Turkey,TUR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Mira Kal,M,Turkey,TUR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Seyit Krmz,M,Turkey,TUR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Erol Kkbakrc,M,Turkey,TUR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Erol Kkbakrc,M,Turkey,TUR,1976,Montreal,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Erol Kkbakrc,M,Turkey,TUR,1976,Montreal,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Kemal Kkbay,M,Turkey,TUR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Ahmet Rken,M,Turkey,TUR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Ahmet Rken,M,Turkey,TUR,2016,Rio de Janeiro,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Mustafa Osmanl,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Mustafa Osmanl,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Tacettin Ztrkmen,M,Turkey,TUR,1928,Amsterdam,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
-Orhan Suda,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Orhan Suda,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Orhan Suda,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Orhan Suda,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Talat Tunalp,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Talat Tunalp,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Talat Tunalp,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Talat Tunalp,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Yunus Unat,M,Turkey,TUR,1928,Amsterdam,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ahmet Akdilek,M,Turkey,TUR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Ahmet Akdilek,M,Turkey,TUR,2012,London,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,True
+Bilal Akgl,M,Turkey,TUR,2008,Beijing,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Onur Balkan,M,Turkey,TUR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Kazm Bingen,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Kazm Bingen,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Mevlt Bora,M,Turkey,TUR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Mevlt Bora,M,Turkey,TUR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Rfat Alkan,M,Turkey,TUR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Kirkor Canbazyan,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Kirkor Canbazyan,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Cavit Cav,M,Turkey,TUR,1928,Amsterdam,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Cavit Cav,M,Turkey,TUR,1928,Amsterdam,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Galip Cav,M,Turkey,TUR,1928,Amsterdam,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Galip Cav,M,Turkey,TUR,1928,Amsterdam,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Ali Etiner,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Ali Etiner,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Haluk Gnzgen,M,Turkey,TUR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Ali Hrylmaz,M,Turkey,TUR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Ali Hrylmaz,M,Turkey,TUR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Mira Kal,M,Turkey,TUR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Seyit Krmz,M,Turkey,TUR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Erol Kkbakrc,M,Turkey,TUR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Erol Kkbakrc,M,Turkey,TUR,1976,Montreal,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,False
+Erol Kkbakrc,M,Turkey,TUR,1976,Montreal,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,False
+Kemal Kkbay,M,Turkey,TUR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Ahmet Rken,M,Turkey,TUR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Ahmet Rken,M,Turkey,TUR,2016,Rio de Janeiro,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,True
+Mustafa Osmanl,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Mustafa Osmanl,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Tacettin Ztrkmen,M,Turkey,TUR,1928,Amsterdam,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True
+Orhan Suda,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Orhan Suda,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Orhan Suda,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Orhan Suda,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,False
+Talat Tunalp,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Talat Tunalp,M,Turkey,TUR,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Talat Tunalp,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Talat Tunalp,M,Turkey,TUR,1948,London,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,False
+Yunus Unat,M,Turkey,TUR,1928,Amsterdam,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True

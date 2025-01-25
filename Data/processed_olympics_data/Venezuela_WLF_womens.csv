@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Judith Ozuriaga,F,Venezuela,VEN,2008,Beijing,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False
-Yaniuska Espinosa,F,Venezuela,VEN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Karla Beaumont,F,Venezuela,VEN,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False
-Yusleidy Roldn,F,Venezuela,VEN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Inmara Gonzlez,F,Venezuela,VEN,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False
-Iriner Smith,F,Venezuela,VEN,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Naryury Revern,F,Venezuela,VEN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Betsi Arteaga,F,Venezuela,VEN,2012,London,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Solenny Mendoza,F,Venezuela,VEN,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
-Mariana Figueroa,F,Venezuela,VEN,2020,Tokyo,Weightlifting,Women's 59kg,No medal,Women's,WLF,False
-Alexandra Perez,F,Venezuela,VEN,2020,Tokyo,Weightlifting,Women's 87kg,No medal,Women's,WLF,False
-Katherin Echandia,F,Venezuela,VEN,2024,Paris,Weightlifting,Women's 49kg,No medal,Women's,WLF,False
-Anyelin Venegas,F,Venezuela,VEN,2024,Paris,Weightlifting,Women's 59kg,No medal,Women's,WLF,False
-Naryury Perez,F,Venezuela,VEN,2024,Paris,Weightlifting,Women's +81kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Judith Ozuriaga,F,Venezuela,VEN,2008,Beijing,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False,True
+Yaniuska Espinosa,F,Venezuela,VEN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Karla Beaumont,F,Venezuela,VEN,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False,True
+Yusleidy Roldn,F,Venezuela,VEN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Inmara Gonzlez,F,Venezuela,VEN,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False,True
+Iriner Smith,F,Venezuela,VEN,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Naryury Revern,F,Venezuela,VEN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Betsi Arteaga,F,Venezuela,VEN,2012,London,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Solenny Mendoza,F,Venezuela,VEN,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True
+Mariana Figueroa,F,Venezuela,VEN,2020,Tokyo,Weightlifting,Women's 59kg,No medal,Women's,WLF,False,True
+Alexandra Perez,F,Venezuela,VEN,2020,Tokyo,Weightlifting,Women's 87kg,No medal,Women's,WLF,False,True
+Katherin Echandia,F,Venezuela,VEN,2024,Paris,Weightlifting,Women's 49kg,No medal,Women's,WLF,False,True
+Anyelin Venegas,F,Venezuela,VEN,2024,Paris,Weightlifting,Women's 59kg,No medal,Women's,WLF,False,True
+Naryury Perez,F,Venezuela,VEN,2024,Paris,Weightlifting,Women's +81kg,No medal,Women's,WLF,False,True

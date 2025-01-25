@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nathan Byukusenge,M,Rwanda,RWA,2016,Rio de Janeiro,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Faustin Mparabanyi,M,Rwanda,RWA,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Adrien Niyonshuti,M,Rwanda,RWA,2012,London,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Adrien Niyonshuti,M,Rwanda,RWA,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Emmanuel Nkurunziza,M,Rwanda,RWA,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Alphonse Nshimiyiama,M,Rwanda,RWA,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nathan Byukusenge,M,Rwanda,RWA,2016,Rio de Janeiro,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Faustin Mparabanyi,M,Rwanda,RWA,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Adrien Niyonshuti,M,Rwanda,RWA,2012,London,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,True
+Adrien Niyonshuti,M,Rwanda,RWA,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Emmanuel Nkurunziza,M,Rwanda,RWA,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Alphonse Nshimiyiama,M,Rwanda,RWA,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True

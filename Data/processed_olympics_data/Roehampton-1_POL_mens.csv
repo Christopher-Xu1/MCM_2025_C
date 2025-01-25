@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Charles Miller,M,Roehampton-1,GBR,1908,London,Polo,Polo Men's Polo,Gold,Polo,POL,False
-George Miller,M,Roehampton-1,GBR,1908,London,Polo,Polo Men's Polo,Gold,Polo,POL,False
-Patteson Nickalls,M,Roehampton-1,GBR,1908,London,Polo,Polo Men's Polo,Gold,Polo,POL,False
-Herbert Wilson,M,Roehampton-1,GBR,1908,London,Polo,Polo Men's Polo,Gold,Polo,POL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Charles Miller,M,Roehampton-1,GBR,1908,London,Polo,Polo Men's Polo,Gold,Polo,POL,False,True
+George Miller,M,Roehampton-1,GBR,1908,London,Polo,Polo Men's Polo,Gold,Polo,POL,False,True
+Patteson Nickalls,M,Roehampton-1,GBR,1908,London,Polo,Polo Men's Polo,Gold,Polo,POL,False,True
+Herbert Wilson,M,Roehampton-1,GBR,1908,London,Polo,Polo Men's Polo,Gold,Polo,POL,False,True

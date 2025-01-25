@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Catherine (-hommel),F,Luxembourg,LUX,1948,London,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False
-Mathilde (-weydert),F,Luxembourg,LUX,1948,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Mathilde (-weydert),F,Luxembourg,LUX,1948,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Danile Kaber,F,Luxembourg,LUX,1988,Seoul,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Vronique Linster,F,Luxembourg,LUX,1996,Atlanta,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False
-Milena (-steinmetz),F,Luxembourg,LUX,1948,London,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False
-Charline Mathias,F,Luxembourg,LUX,2016,Rio de Janeiro,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False
-van Patrizia,F,Luxembourg,LUX,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False
-Vera Hoffmann,F,Luxembourg,LUX,2024,Paris,Athletics,Women's 1500m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Catherine (-hommel),F,Luxembourg,LUX,1948,London,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False,True
+Mathilde (-weydert),F,Luxembourg,LUX,1948,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Mathilde (-weydert),F,Luxembourg,LUX,1948,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Danile Kaber,F,Luxembourg,LUX,1988,Seoul,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Vronique Linster,F,Luxembourg,LUX,1996,Atlanta,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False,True
+Milena (-steinmetz),F,Luxembourg,LUX,1948,London,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False,True
+Charline Mathias,F,Luxembourg,LUX,2016,Rio de Janeiro,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False,True
+van Patrizia,F,Luxembourg,LUX,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False,True
+Vera Hoffmann,F,Luxembourg,LUX,2024,Paris,Athletics,Women's 1500m,No medal,Women's,ATH,False,True

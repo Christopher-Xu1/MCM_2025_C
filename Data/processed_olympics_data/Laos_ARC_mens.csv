@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Phoutlamphay Thiamphasone,M,Laos,LAO,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Phoutlamphay Thiamphasone,M,Laos,LAO,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True

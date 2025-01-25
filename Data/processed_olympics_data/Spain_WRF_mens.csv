@@ -1,38 +1,38 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Laureano Venegas,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Francisco Rodrguez,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,True
-Francisco Rodrguez,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Vicente Surez,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True
-Vicente Surez,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True
-Santiago Pastor,M,Spain,ESP,1960,Roma,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,False
-Juan Grandal,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-ngel Casanueva,M,Spain,ESP,1960,Roma,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False
-Hernando Hernndez,M,Spain,ESP,1960,Roma,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False
-Carlos Antn,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Taimuraz Naskidaeva,M,Spain,ESP,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Miguel Ramrez,M,Spain,ESP,1984,Los Angeles,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False
-Francisco Serna,M,Spain,ESP,1984,Los Angeles,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Francisco Serna,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Francisco Serna,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Andrs Pacheco,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False
-Alfredo Martnez,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Luis Lpez,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Jess Trujillo,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Santiago Alonso,M,Spain,ESP,1980,Moskva,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Ignacio Barcena,M,Spain,ESP,1984,Los Angeles,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False
-Jos Rodrguez,M,Spain,ESP,1960,Roma,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Jos Rodrguez,M,Spain,ESP,1964,Tokyo,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Jos Garca,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,True
-Jos Garca,M,Spain,ESP,2004,Athina,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,True
-Fernando Vallejo,M,Spain,ESP,1980,Moskva,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False
-Domingo Gracia,M,Spain,ESP,1924,Paris,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Francisco Moreno,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Francisco Parra,M,Spain,ESP,2008,Beijing,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Moises Parra,M,Spain,ESP,2004,Athina,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False
-scar Silva,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False
-Eusebio Serna,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False
-Miguel Portillo,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,False
-Francisco Plana,M,Spain,ESP,1924,Paris,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False
-Jordn Giralt,M,Spain,ESP,1924,Paris,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Emilio Barrachina,M,Spain,ESP,1924,Paris,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False
-Pedro Cuesta,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Laureano Venegas,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Francisco Rodrguez,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Francisco Rodrguez,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True,False
+Vicente Surez,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True,True
+Vicente Surez,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True,False
+Santiago Pastor,M,Spain,ESP,1960,Roma,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Juan Grandal,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+ngel Casanueva,M,Spain,ESP,1960,Roma,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Hernando Hernndez,M,Spain,ESP,1960,Roma,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Carlos Antn,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Taimuraz Naskidaeva,M,Spain,ESP,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Miguel Ramrez,M,Spain,ESP,1984,Los Angeles,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False,True
+Francisco Serna,M,Spain,ESP,1984,Los Angeles,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True,True
+Francisco Serna,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Francisco Serna,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Andrs Pacheco,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False,True
+Alfredo Martnez,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Luis Lpez,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Jess Trujillo,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Santiago Alonso,M,Spain,ESP,1980,Moskva,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Ignacio Barcena,M,Spain,ESP,1984,Los Angeles,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False,True
+Jos Rodrguez,M,Spain,ESP,1960,Roma,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Jos Rodrguez,M,Spain,ESP,1964,Tokyo,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Jos Garca,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Jos Garca,M,Spain,ESP,2004,Athina,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Fernando Vallejo,M,Spain,ESP,1980,Moskva,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Domingo Gracia,M,Spain,ESP,1924,Paris,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Francisco Moreno,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Francisco Parra,M,Spain,ESP,2008,Beijing,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Moises Parra,M,Spain,ESP,2004,Athina,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+scar Silva,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Eusebio Serna,M,Spain,ESP,1988,Seoul,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False,True
+Miguel Portillo,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Francisco Plana,M,Spain,ESP,1924,Paris,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Jordn Giralt,M,Spain,ESP,1924,Paris,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Emilio Barrachina,M,Spain,ESP,1924,Paris,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Pedro Cuesta,M,Spain,ESP,1992,Barcelona,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False,True

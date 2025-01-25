@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Irene Prescott,F,Tonga,TGA,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Malia Day,F,Tonga,TGA,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True
-Malia Day,F,Tonga,TGA,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Irene Prescott,F,Tonga,TGA,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Malia Day,F,Tonga,TGA,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True,True
+Malia Day,F,Tonga,TGA,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True,False

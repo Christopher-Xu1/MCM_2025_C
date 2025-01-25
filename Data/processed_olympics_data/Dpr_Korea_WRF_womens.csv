@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gyong Choe,F,Dpr Korea,PRK,2024,Paris,Wrestling,Women's Freestyle 53kg,Bronze,Women's,WRF,False
-Gum Pak,F,Dpr Korea,PRK,2024,Paris,Wrestling,Women's Freestyle 68kg,No medal,Women's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gyong Choe,F,Dpr Korea,PRK,2024,Paris,Wrestling,Women's Freestyle 53kg,Bronze,Women's,WRF,False,True
+Gum Pak,F,Dpr Korea,PRK,2024,Paris,Wrestling,Women's Freestyle 68kg,No medal,Women's,WRF,False,True

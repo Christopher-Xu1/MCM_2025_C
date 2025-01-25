@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Robin Aisher,M,Yeoman Vii,GBR,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-George Nicholson,M,Yeoman Vii,GBR,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-John Ruggles,M,Yeoman Vii,GBR,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Robin Aisher,M,Yeoman Vii,GBR,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+George Nicholson,M,Yeoman Vii,GBR,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+John Ruggles,M,Yeoman Vii,GBR,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True

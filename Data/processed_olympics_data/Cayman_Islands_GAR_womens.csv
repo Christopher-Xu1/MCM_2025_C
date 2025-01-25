@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Raegan Rutty,F,Cayman Islands,CAY,2020,Tokyo,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True
-Raegan Rutty,F,Cayman Islands,CAY,2020,Tokyo,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True
-Raegan Rutty,F,Cayman Islands,CAY,2020,Tokyo,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True
-Raegan Rutty,F,Cayman Islands,CAY,2020,Tokyo,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True
-Raegan Rutty,F,Cayman Islands,CAY,2020,Tokyo,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Raegan Rutty,F,Cayman Islands,CAY,2020,Tokyo,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True,True
+Raegan Rutty,F,Cayman Islands,CAY,2020,Tokyo,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True,True
+Raegan Rutty,F,Cayman Islands,CAY,2020,Tokyo,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True,True
+Raegan Rutty,F,Cayman Islands,CAY,2020,Tokyo,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True,True
+Raegan Rutty,F,Cayman Islands,CAY,2020,Tokyo,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True,True

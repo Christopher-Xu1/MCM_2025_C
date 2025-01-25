@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nancy Arendt-kemp,F,Luxembourg,LUX,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Nancy Arendt-kemp,F,Luxembourg,LUX,1988,Seoul,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Marie-Jeanne Bernard,F,Luxembourg,LUX,1928,Amsterdam,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Rene Brasseur,F,Luxembourg,LUX,1924,Paris,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Lara Heinz,F,Luxembourg,LUX,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Lara Heinz,F,Luxembourg,LUX,2000,Sydney,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Lara Heinz,F,Luxembourg,LUX,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Lara Heinz,F,Luxembourg,LUX,2004,Athina,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Laure Koster,F,Luxembourg,LUX,1924,Paris,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Christine Mailliet,F,Luxembourg,LUX,2008,Beijing,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False
-Julie-Marie Meynen,F,Luxembourg,LUX,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Julie-Marie Meynen,F,Luxembourg,LUX,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Virginie Rausch,F,Luxembourg,LUX,1928,Amsterdam,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Simone Theis,F,Luxembourg,LUX,1960,Roma,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Arlette Wilmes,F,Luxembourg,LUX,1968,Mexico City,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Arlette Wilmes,F,Luxembourg,LUX,1968,Mexico City,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Julie Meynen,F,Luxembourg,LUX,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True
-Julie Meynen,F,Luxembourg,LUX,2020,Tokyo,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nancy Arendt-kemp,F,Luxembourg,LUX,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Nancy Arendt-kemp,F,Luxembourg,LUX,1988,Seoul,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Marie-Jeanne Bernard,F,Luxembourg,LUX,1928,Amsterdam,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Rene Brasseur,F,Luxembourg,LUX,1924,Paris,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Lara Heinz,F,Luxembourg,LUX,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Lara Heinz,F,Luxembourg,LUX,2000,Sydney,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Lara Heinz,F,Luxembourg,LUX,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Lara Heinz,F,Luxembourg,LUX,2004,Athina,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Laure Koster,F,Luxembourg,LUX,1924,Paris,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Christine Mailliet,F,Luxembourg,LUX,2008,Beijing,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Julie-Marie Meynen,F,Luxembourg,LUX,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Julie-Marie Meynen,F,Luxembourg,LUX,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Virginie Rausch,F,Luxembourg,LUX,1928,Amsterdam,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Simone Theis,F,Luxembourg,LUX,1960,Roma,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Arlette Wilmes,F,Luxembourg,LUX,1968,Mexico City,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Arlette Wilmes,F,Luxembourg,LUX,1968,Mexico City,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Julie Meynen,F,Luxembourg,LUX,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True,True
+Julie Meynen,F,Luxembourg,LUX,2020,Tokyo,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,True,True

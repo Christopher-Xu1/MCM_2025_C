@@ -1,36 +1,36 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gheorghe Bdr,M,Romania,ROU,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Gheorghe Bdr,M,Romania,ROU,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Gheorghe Calcic,M,Romania,ROU,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Constantin Ciocan,M,Romania,ROU,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Constantin Ciocan,M,Romania,ROU,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Ion Cosma,M,Romania,ROU,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Ion Cosma,M,Romania,ROU,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Ion Cosma,M,Romania,ROU,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Ion Cosma,M,Romania,ROU,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Victor Georgescu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Victor Georgescu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Ion Ioni,M,Romania,ROU,1952,Helsinki,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Ion Ioni,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Ion Ioni,M,Romania,ROU,1960,Roma,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Gabriel Moiceanu,M,Romania,ROU,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Gabriel Moiceanu,M,Romania,ROU,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Gabriel Moiceanu,M,Romania,ROU,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Andrei Nechita,M,Romania,ROU,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Marin Niculescu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Marin Niculescu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Petre Nu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Petre Nu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Ovidiu Oprea,M,Romania,ROU,2004,Athina,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Mircea Romacanu,M,Romania,ROU,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Emil Rusu,M,Romania,ROU,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Emil Rusu,M,Romania,ROU,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Emil Rusu,M,Romania,ROU,1968,Mexico City,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Aurel Elaru,M,Romania,ROU,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Aurel Elaru,M,Romania,ROU,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Constantin Stnescu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Constantin Stnescu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Serghei Vetcov,M,Romania,ROU,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Teodor Vasile,M,Romania,ROU,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Teodor Vasile,M,Romania,ROU,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Ludovic Zanoni,M,Romania,ROU,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gheorghe Bdr,M,Romania,ROU,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Gheorghe Bdr,M,Romania,ROU,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Gheorghe Calcic,M,Romania,ROU,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Constantin Ciocan,M,Romania,ROU,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Constantin Ciocan,M,Romania,ROU,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Ion Cosma,M,Romania,ROU,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Ion Cosma,M,Romania,ROU,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Ion Cosma,M,Romania,ROU,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Ion Cosma,M,Romania,ROU,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Victor Georgescu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Victor Georgescu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Ion Ioni,M,Romania,ROU,1952,Helsinki,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Ion Ioni,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Ion Ioni,M,Romania,ROU,1960,Roma,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,False
+Gabriel Moiceanu,M,Romania,ROU,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Gabriel Moiceanu,M,Romania,ROU,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Gabriel Moiceanu,M,Romania,ROU,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Andrei Nechita,M,Romania,ROU,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Marin Niculescu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Marin Niculescu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Petre Nu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Petre Nu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Ovidiu Oprea,M,Romania,ROU,2004,Athina,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Mircea Romacanu,M,Romania,ROU,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Emil Rusu,M,Romania,ROU,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Emil Rusu,M,Romania,ROU,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Emil Rusu,M,Romania,ROU,1968,Mexico City,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,False
+Aurel Elaru,M,Romania,ROU,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Aurel Elaru,M,Romania,ROU,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Constantin Stnescu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Constantin Stnescu,M,Romania,ROU,1952,Helsinki,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Serghei Vetcov,M,Romania,ROU,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Teodor Vasile,M,Romania,ROU,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Teodor Vasile,M,Romania,ROU,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Ludovic Zanoni,M,Romania,ROU,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True

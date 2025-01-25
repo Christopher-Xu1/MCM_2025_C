@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Julian Wilson,M,Australia,AUS,2020,Tokyo,Surfing,Men,No medal,Men,SRF,False
-Owen Wright,M,Australia,AUS,2020,Tokyo,Surfing,Men,Bronze,Men,SRF,False
-Ethan Ewing,M,Australia,AUS,2024,Paris,Surfing,Men,No medal,Men,SRF,False
-Jack Robinson,M,Australia,AUS,2024,Paris,Surfing,Men,Silver,Men,SRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Julian Wilson,M,Australia,AUS,2020,Tokyo,Surfing,Men,No medal,Men,SRF,False,True
+Owen Wright,M,Australia,AUS,2020,Tokyo,Surfing,Men,Bronze,Men,SRF,False,True
+Ethan Ewing,M,Australia,AUS,2024,Paris,Surfing,Men,No medal,Men,SRF,False,True
+Jack Robinson,M,Australia,AUS,2024,Paris,Surfing,Men,Silver,Men,SRF,False,True

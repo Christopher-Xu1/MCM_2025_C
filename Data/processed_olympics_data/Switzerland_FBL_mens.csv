@@ -1,44 +1,44 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Max Abegglen,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,True
-Max Abegglen,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,True
-Amir Abrashi,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Franois Affolter,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Edmond Bailly,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,False
-Flix Bdouret,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False
-Diego Benaglio,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Oliver Buff,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Fabio Daprel,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Paul Lavallaz,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,False
-Walter Dietrich,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,True
-Walter Dietrich,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,True
-Josip Drmi,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Karl Ehrenbolger,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False
-Innocent Emeghara,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Paul Fssler,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,True
-Paul Fssler,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,True
-Fabian Frei,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Xavier Hochstrasser,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Willy Jaeggi,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,False
-Pajtim Kasami,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Timm Klose,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Edmond Iii,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False
-Admir Mehmedi,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Adolfo Arniz,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False
-Michel Morganella,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-August Oberhauser,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False
-Robert Pache,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False
-Kurt Pichler,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,False
-Aron Pollitz,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False
-Hans Pulver,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False
-Rudolf Ramseyer,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,True
-Rudolf Ramseyer,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,True
-Adolphe Reymond,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False
-Ricardo Araya,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Fabian Schr,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Paul Schmiedlin,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False
-Franz Schehaye,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,False
-Paul Sturzenegger,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False
-Gaston Tschirren,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,False
-M. Weiler,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,False
-Alain Wiss,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Steven Zuber,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Max Abegglen,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,True,True
+Max Abegglen,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,True,False
+Amir Abrashi,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Franois Affolter,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Edmond Bailly,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,False,True
+Flix Bdouret,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False,True
+Diego Benaglio,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Oliver Buff,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Fabio Daprel,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Paul Lavallaz,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,False,True
+Walter Dietrich,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,True,True
+Walter Dietrich,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,True,False
+Josip Drmi,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Karl Ehrenbolger,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False,True
+Innocent Emeghara,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Paul Fssler,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,True,True
+Paul Fssler,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,True,False
+Fabian Frei,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Xavier Hochstrasser,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Willy Jaeggi,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,False,True
+Pajtim Kasami,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Timm Klose,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Edmond Iii,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False,True
+Admir Mehmedi,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Adolfo Arniz,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False,True
+Michel Morganella,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+August Oberhauser,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False,True
+Robert Pache,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False,True
+Kurt Pichler,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,False,True
+Aron Pollitz,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False,True
+Hans Pulver,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False,True
+Rudolf Ramseyer,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,True,True
+Rudolf Ramseyer,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,True,False
+Adolphe Reymond,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False,True
+Ricardo Araya,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Fabian Schr,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Paul Schmiedlin,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False,True
+Franz Schehaye,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,False,True
+Paul Sturzenegger,M,Switzerland,SUI,1924,Paris,Football,Football Men's Football,Silver,Football,FBL,False,True
+Gaston Tschirren,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,False,True
+M. Weiler,M,Switzerland,SUI,1928,Amsterdam,Football,Football Men's Football,No medal,Football,FBL,False,True
+Alain Wiss,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Steven Zuber,M,Switzerland,SUI,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True

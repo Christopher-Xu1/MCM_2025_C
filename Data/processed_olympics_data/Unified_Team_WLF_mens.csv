@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Artur Akoyev,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight II,Silver,Weightlifting,WLF,False
-Tudor Casapu,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Middleweight,Gold,Weightlifting,WLF,False
-Akakios Kakiasvili,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Middle-Heavyweight,Gold,Weightlifting,WLF,False
-Aleksandr Kurlovich,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Super-Heavyweight,Gold,Weightlifting,WLF,False
-Israel Militosyan,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Lightweight,Gold,Weightlifting,WLF,False
-Ibragim Samadov,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Sergey Syrtsov,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Middle-Heavyweight,Silver,Weightlifting,WLF,False
-Tymur Taimazov,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight I,Silver,Weightlifting,WLF,False
-Leonid Taranenko,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Super-Heavyweight,Silver,Weightlifting,WLF,False
-Viktor Tregubov,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight I,Gold,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Artur Akoyev,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight II,Silver,Weightlifting,WLF,False,True
+Tudor Casapu,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Middleweight,Gold,Weightlifting,WLF,False,True
+Akakios Kakiasvili,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Middle-Heavyweight,Gold,Weightlifting,WLF,False,True
+Aleksandr Kurlovich,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Super-Heavyweight,Gold,Weightlifting,WLF,False,True
+Israel Militosyan,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Lightweight,Gold,Weightlifting,WLF,False,True
+Ibragim Samadov,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Sergey Syrtsov,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Middle-Heavyweight,Silver,Weightlifting,WLF,False,True
+Tymur Taimazov,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight I,Silver,Weightlifting,WLF,False,True
+Leonid Taranenko,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Super-Heavyweight,Silver,Weightlifting,WLF,False,True
+Viktor Tregubov,M,Unified Team,EUN,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight I,Gold,Weightlifting,WLF,False,True

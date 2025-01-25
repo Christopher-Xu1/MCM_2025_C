@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Egil Abel,M,Fornebo,NOR,1920,Antwerpen,Sailing,Sailing Mixed 7 metres,Silver,Sailing,SAL,False
-Christian Dick,M,Fornebo,NOR,1920,Antwerpen,Sailing,Sailing Mixed 7 metres,Silver,Sailing,SAL,False
-Johan Faye,M,Fornebo,NOR,1920,Antwerpen,Sailing,Sailing Mixed 7 metres,Silver,Sailing,SAL,False
-Niels Nielsen,M,Fornebo,NOR,1920,Antwerpen,Sailing,Sailing Mixed 7 metres,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Egil Abel,M,Fornebo,NOR,1920,Antwerpen,Sailing,Sailing Mixed 7 metres,Silver,Sailing,SAL,False,True
+Christian Dick,M,Fornebo,NOR,1920,Antwerpen,Sailing,Sailing Mixed 7 metres,Silver,Sailing,SAL,False,True
+Johan Faye,M,Fornebo,NOR,1920,Antwerpen,Sailing,Sailing Mixed 7 metres,Silver,Sailing,SAL,False,True
+Niels Nielsen,M,Fornebo,NOR,1920,Antwerpen,Sailing,Sailing Mixed 7 metres,Silver,Sailing,SAL,False,True

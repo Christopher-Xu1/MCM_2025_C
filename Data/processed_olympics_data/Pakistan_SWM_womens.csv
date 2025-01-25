@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anum Bandey,F,Pakistan,PAK,2012,London,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,False
-Kiran Khan,F,Pakistan,PAK,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Rubab Raza,F,Pakistan,PAK,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Lianna Swan,F,Pakistan,PAK,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Bisma Khan,F,Pakistan,PAK,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
-Jehanara Nabi,F,Pakistan,PAK,2024,Paris,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anum Bandey,F,Pakistan,PAK,2012,London,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,False,True
+Kiran Khan,F,Pakistan,PAK,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Rubab Raza,F,Pakistan,PAK,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Lianna Swan,F,Pakistan,PAK,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Bisma Khan,F,Pakistan,PAK,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True
+Jehanara Nabi,F,Pakistan,PAK,2024,Paris,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,False,True

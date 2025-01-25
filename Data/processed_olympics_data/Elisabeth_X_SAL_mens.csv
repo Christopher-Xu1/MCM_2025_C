@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tor Arneberg,M,Elisabeth X,NOR,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Finn (jacobsen-),M,Elisabeth X,NOR,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Johan (jacobsen-),M,Elisabeth X,NOR,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Erik Heiberg,M,Elisabeth X,NOR,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Carl Mortensen,M,Elisabeth X,NOR,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tor Arneberg,M,Elisabeth X,NOR,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Finn (jacobsen-),M,Elisabeth X,NOR,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Johan (jacobsen-),M,Elisabeth X,NOR,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Erik Heiberg,M,Elisabeth X,NOR,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Carl Mortensen,M,Elisabeth X,NOR,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bryan Keane,M,Ireland,IRL,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Gavin Noble,M,Ireland,IRL,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Russell White,M,Ireland,IRL,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bryan Keane,M,Ireland,IRL,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Gavin Noble,M,Ireland,IRL,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Russell White,M,Ireland,IRL,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,False,True

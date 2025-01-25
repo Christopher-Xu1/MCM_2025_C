@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Malak Hamza,F,Egypt,EGY,2020,Tokyo,Trampoline Gymnastics,Women,No medal,Women,GTR,True
-Malak Hamza,F,Egypt,EGY,2024,Paris,Trampoline Gymnastics,Women,No medal,Women,GTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Malak Hamza,F,Egypt,EGY,2020,Tokyo,Trampoline Gymnastics,Women,No medal,Women,GTR,True,True
+Malak Hamza,F,Egypt,EGY,2024,Paris,Trampoline Gymnastics,Women,No medal,Women,GTR,True,False

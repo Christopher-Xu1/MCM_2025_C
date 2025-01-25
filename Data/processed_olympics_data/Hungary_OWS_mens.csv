@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kristof Rasovszky,M,Hungary,HUN,2020,Tokyo,Marathon Swimming,Men's 10km,Silver,Men's,OWS,True
-Kristof Rasovszky,M,Hungary,HUN,2024,Paris,Marathon Swimming,Men's 10km,Gold,Men's,OWS,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kristof Rasovszky,M,Hungary,HUN,2020,Tokyo,Marathon Swimming,Men's 10km,Silver,Men's,OWS,True,True
+Kristof Rasovszky,M,Hungary,HUN,2024,Paris,Marathon Swimming,Men's 10km,Gold,Men's,OWS,True,False

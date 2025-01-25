@@ -1,39 +1,39 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carlos Gonzlez,M,Chile,CHI,1924,Paris,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Ricardo Aviles,M,Chile,CHI,1992,Barcelona,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Ricardo Aviles,M,Chile,CHI,1996,Atlanta,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Claudio Negrn,M,Chile,CHI,1956,Melbourne,Boxing,Boxing Men's Bantamweight,Bronze,Boxing,BOX,False
-Victor Guzman,M,Chile,CHI,1948,London,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Juan Legue,M,Chile,CHI,1968,Mexico City,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Alfredo Cornejo,M,Chile,CHI,1960,Roma,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Eduardo Diaz,M,Chile,CHI,1948,London,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Luis Maurelios,M,Chile,CHI,1924,Paris,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Jorge Hernndez,M,Chile,CHI,1928,Amsterdam,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Juan Daz,M,Chile,CHI,1960,Roma,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Enrique Giaverini,M,Chile,CHI,1936,Berlin,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Celestino Henrquez,M,Chile,CHI,1948,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Enrique Gonzlez,M,Chile,CHI,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Luis Gonzlez,M,Chile,CHI,1968,Mexico City,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Carlos Lillo,M,Chile,CHI,1936,Berlin,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Humberto Veas,M,Chile,CHI,1948,London,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Guillermo Lpez,M,Chile,CHI,1936,Berlin,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Carlos Manrquez,M,Chile,CHI,1956,Melbourne,Boxing,Boxing Men's Light-Heavyweight,Bronze,Boxing,BOX,True
-Carlos Manrquez,M,Chile,CHI,1960,Roma,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Julio Medina,M,Chile,CHI,1972,Munich,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Mario Molina,M,Chile,CHI,1964,Tokyo,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Luis Muoz,M,Chile,CHI,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Sergio Dren,M,Chile,CHI,1928,Amsterdam,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Zorobabel Rodrguez,M,Chile,CHI,1924,Paris,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Guillermo Salinas,M,Chile,CHI,1964,Tokyo,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Osvaldo Martnez,M,Chile,CHI,1928,Amsterdam,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Ramn Zapata,M,Chile,CHI,1956,Melbourne,Boxing,Boxing Men's Middleweight,Silver,Boxing,BOX,False
-Jos Rivera,M,Chile,CHI,1928,Amsterdam,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Carlos Usaveaga,M,Chile,CHI,1924,Paris,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Martn Fuentes,M,Chile,CHI,1972,Munich,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Guillermo Velsquez,M,Chile,CHI,1968,Mexico City,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Hctor Vera,M,Chile,CHI,1972,Munich,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Jos Vergara,M,Chile,CHI,1936,Berlin,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Manuel Castillo,M,Chile,CHI,1948,London,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Misael Carrasco,M,Chile,CHI,1964,Tokyo,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Misael Carrasco,M,Chile,CHI,1968,Mexico City,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Luis Zuiga,M,Chile,CHI,1964,Tokyo,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carlos Gonzlez,M,Chile,CHI,1924,Paris,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Ricardo Aviles,M,Chile,CHI,1992,Barcelona,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,True
+Ricardo Aviles,M,Chile,CHI,1996,Atlanta,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,False
+Claudio Negrn,M,Chile,CHI,1956,Melbourne,Boxing,Boxing Men's Bantamweight,Bronze,Boxing,BOX,False,True
+Victor Guzman,M,Chile,CHI,1948,London,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Juan Legue,M,Chile,CHI,1968,Mexico City,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Alfredo Cornejo,M,Chile,CHI,1960,Roma,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Eduardo Diaz,M,Chile,CHI,1948,London,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Luis Maurelios,M,Chile,CHI,1924,Paris,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Jorge Hernndez,M,Chile,CHI,1928,Amsterdam,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Juan Daz,M,Chile,CHI,1960,Roma,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Enrique Giaverini,M,Chile,CHI,1936,Berlin,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Celestino Henrquez,M,Chile,CHI,1948,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Enrique Gonzlez,M,Chile,CHI,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Luis Gonzlez,M,Chile,CHI,1968,Mexico City,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Carlos Lillo,M,Chile,CHI,1936,Berlin,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Humberto Veas,M,Chile,CHI,1948,London,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Guillermo Lpez,M,Chile,CHI,1936,Berlin,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Carlos Manrquez,M,Chile,CHI,1956,Melbourne,Boxing,Boxing Men's Light-Heavyweight,Bronze,Boxing,BOX,True,True
+Carlos Manrquez,M,Chile,CHI,1960,Roma,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,False
+Julio Medina,M,Chile,CHI,1972,Munich,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Mario Molina,M,Chile,CHI,1964,Tokyo,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Luis Muoz,M,Chile,CHI,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Sergio Dren,M,Chile,CHI,1928,Amsterdam,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Zorobabel Rodrguez,M,Chile,CHI,1924,Paris,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Guillermo Salinas,M,Chile,CHI,1964,Tokyo,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Osvaldo Martnez,M,Chile,CHI,1928,Amsterdam,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Ramn Zapata,M,Chile,CHI,1956,Melbourne,Boxing,Boxing Men's Middleweight,Silver,Boxing,BOX,False,True
+Jos Rivera,M,Chile,CHI,1928,Amsterdam,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Carlos Usaveaga,M,Chile,CHI,1924,Paris,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Martn Fuentes,M,Chile,CHI,1972,Munich,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Guillermo Velsquez,M,Chile,CHI,1968,Mexico City,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Hctor Vera,M,Chile,CHI,1972,Munich,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Jos Vergara,M,Chile,CHI,1936,Berlin,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Manuel Castillo,M,Chile,CHI,1948,London,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Misael Carrasco,M,Chile,CHI,1964,Tokyo,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,True
+Misael Carrasco,M,Chile,CHI,1968,Mexico City,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,False
+Luis Zuiga,M,Chile,CHI,1964,Tokyo,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True

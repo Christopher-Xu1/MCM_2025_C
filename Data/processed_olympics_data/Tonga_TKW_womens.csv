@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Malia Paseka,F,Tonga,TGA,2020,Tokyo,Taekwondo,Women -67kg,No medal,Women,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Malia Paseka,F,Tonga,TGA,2020,Tokyo,Taekwondo,Women -67kg,No medal,Women,TKW,False,True

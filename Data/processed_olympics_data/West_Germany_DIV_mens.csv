@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dieter Drr,M,West Germany,FRG,1976,Montreal,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Dieter Drr,M,West Germany,FRG,1976,Montreal,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Dieter Drr,M,West Germany,FRG,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Dieter Drr,M,West Germany,FRG,1984,Los Angeles,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Gerhard Hlzl,M,West Germany,FRG,1972,Munich,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Norbert Huda,M,West Germany,FRG,1968,Mexico City,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Norbert Huda,M,West Germany,FRG,1972,Munich,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Norbert Huda,M,West Germany,FRG,1976,Montreal,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Albin Killat,M,West Germany,FRG,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Albin Killat,M,West Germany,FRG,1984,Los Angeles,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Albin Killat,M,West Germany,FRG,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Albin Killat,M,West Germany,FRG,1988,Seoul,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Klaus Konzorr,M,West Germany,FRG,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Klaus Konzorr,M,West Germany,FRG,1972,Munich,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Wilfried Meyer,M,West Germany,FRG,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Wilfried Meyer,M,West Germany,FRG,1988,Seoul,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Ulrich Reff,M,West Germany,FRG,1968,Mexico City,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Karlheinz Schwemmer,M,West Germany,FRG,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Karlheinz Schwemmer,M,West Germany,FRG,1972,Munich,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Reinhard Bauer,M,West Germany,FRG,1972,Munich,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Bernd Wucherpfennig,M,West Germany,FRG,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Bernd Wucherpfennig,M,West Germany,FRG,1972,Munich,Diving,Diving Men's Platform,No medal,Diving,DIV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dieter Drr,M,West Germany,FRG,1976,Montreal,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Dieter Drr,M,West Germany,FRG,1976,Montreal,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Dieter Drr,M,West Germany,FRG,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Dieter Drr,M,West Germany,FRG,1984,Los Angeles,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Gerhard Hlzl,M,West Germany,FRG,1972,Munich,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Norbert Huda,M,West Germany,FRG,1968,Mexico City,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Norbert Huda,M,West Germany,FRG,1972,Munich,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Norbert Huda,M,West Germany,FRG,1976,Montreal,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Albin Killat,M,West Germany,FRG,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Albin Killat,M,West Germany,FRG,1984,Los Angeles,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Albin Killat,M,West Germany,FRG,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Albin Killat,M,West Germany,FRG,1988,Seoul,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Klaus Konzorr,M,West Germany,FRG,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Klaus Konzorr,M,West Germany,FRG,1972,Munich,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Wilfried Meyer,M,West Germany,FRG,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Wilfried Meyer,M,West Germany,FRG,1988,Seoul,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Ulrich Reff,M,West Germany,FRG,1968,Mexico City,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Karlheinz Schwemmer,M,West Germany,FRG,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Karlheinz Schwemmer,M,West Germany,FRG,1972,Munich,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Reinhard Bauer,M,West Germany,FRG,1972,Munich,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Bernd Wucherpfennig,M,West Germany,FRG,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Bernd Wucherpfennig,M,West Germany,FRG,1972,Munich,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False

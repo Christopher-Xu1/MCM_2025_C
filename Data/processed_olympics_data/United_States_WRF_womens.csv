@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Haley Augello,F,United States,USA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Ali Bernard,F,United States,USA,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Ali Bernard,F,United States,USA,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Kelsey Campbell,F,United States,USA,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Clarissa Chun,F,United States,USA,2008,Beijing,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Clarissa Chun,F,United States,USA,2012,London,Wrestling,"Wrestling Women's Flyweight, Freestyle",Bronze,Wrestling,WRF,True
-Adeline Gray,F,United States,USA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Helen Maroulis,F,United States,USA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",Gold,Wrestling,WRF,False
-Sara Mcmann,F,United States,USA,2004,Athina,Wrestling,"Wrestling Women's Middleweight, Freestyle",Silver,Wrestling,WRF,False
-Randi Miller,F,United States,USA,2008,Beijing,Wrestling,"Wrestling Women's Middleweight, Freestyle",Bronze,Wrestling,WRF,False
-Patricia Miranda,F,United States,USA,2004,Athina,Wrestling,"Wrestling Women's Flyweight, Freestyle",Bronze,Wrestling,WRF,False
-Toccara Montgomery,F,United States,USA,2004,Athina,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Tela O'donnell,F,United States,USA,2004,Athina,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Elena Pirozhkova,F,United States,USA,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Elena Pirozhkova,F,United States,USA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Marcie Dusen,F,United States,USA,2008,Beijing,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Maria Gray,F,United States,USA,2020,Tokyo,Wrestling,Women's Freestyle 76kg,Silver,Women's,WRF,False
-Ann Hildebrandt,F,United States,USA,2020,Tokyo,Wrestling,Women's Freestyle 50kg,Bronze,Women's,WRF,True
-Louise Maroulis,F,United States,USA,2020,Tokyo,Wrestling,Women's Freestyle 57kg,Bronze,Women's,WRF,True
-Mariama Mensah,F,United States,USA,2020,Tokyo,Wrestling,Women's Freestyle 68kg,Gold,Women's,WRF,False
-Kiyoko Miracle,F,United States,USA,2020,Tokyo,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,False
-Gwenisha Winchester,F,United States,USA,2020,Tokyo,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,False
-Amit Elor,F,United States,USA,2024,Paris,Wrestling,Women's Freestyle 68kg,Gold,Women's,WRF,False
-Alexis Blades,F,United States,USA,2024,Paris,Wrestling,Women's Freestyle 76kg,Silver,Women's,WRF,False
-Ann Hildebrandt,F,United States,USA,2024,Paris,Wrestling,Women's Freestyle 50kg,Gold,Women's,WRF,True
-Louise Maroulis,F,United States,USA,2024,Paris,Wrestling,Women's Freestyle 57kg,Bronze,Women's,WRF,True
-Colleen Miracle,F,United States,USA,2024,Paris,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,False
-Olivia Parrish,F,United States,USA,2024,Paris,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Haley Augello,F,United States,USA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Ali Bernard,F,United States,USA,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Ali Bernard,F,United States,USA,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Kelsey Campbell,F,United States,USA,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Clarissa Chun,F,United States,USA,2008,Beijing,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Clarissa Chun,F,United States,USA,2012,London,Wrestling,"Wrestling Women's Flyweight, Freestyle",Bronze,Wrestling,WRF,True,False
+Adeline Gray,F,United States,USA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Helen Maroulis,F,United States,USA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",Gold,Wrestling,WRF,False,True
+Sara Mcmann,F,United States,USA,2004,Athina,Wrestling,"Wrestling Women's Middleweight, Freestyle",Silver,Wrestling,WRF,False,True
+Randi Miller,F,United States,USA,2008,Beijing,Wrestling,"Wrestling Women's Middleweight, Freestyle",Bronze,Wrestling,WRF,False,True
+Patricia Miranda,F,United States,USA,2004,Athina,Wrestling,"Wrestling Women's Flyweight, Freestyle",Bronze,Wrestling,WRF,False,True
+Toccara Montgomery,F,United States,USA,2004,Athina,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Tela O'donnell,F,United States,USA,2004,Athina,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Elena Pirozhkova,F,United States,USA,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True,True
+Elena Pirozhkova,F,United States,USA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Marcie Dusen,F,United States,USA,2008,Beijing,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Maria Gray,F,United States,USA,2020,Tokyo,Wrestling,Women's Freestyle 76kg,Silver,Women's,WRF,False,True
+Ann Hildebrandt,F,United States,USA,2020,Tokyo,Wrestling,Women's Freestyle 50kg,Bronze,Women's,WRF,True,True
+Louise Maroulis,F,United States,USA,2020,Tokyo,Wrestling,Women's Freestyle 57kg,Bronze,Women's,WRF,True,True
+Mariama Mensah,F,United States,USA,2020,Tokyo,Wrestling,Women's Freestyle 68kg,Gold,Women's,WRF,False,True
+Kiyoko Miracle,F,United States,USA,2020,Tokyo,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,False,True
+Gwenisha Winchester,F,United States,USA,2020,Tokyo,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,False,True
+Amit Elor,F,United States,USA,2024,Paris,Wrestling,Women's Freestyle 68kg,Gold,Women's,WRF,False,True
+Alexis Blades,F,United States,USA,2024,Paris,Wrestling,Women's Freestyle 76kg,Silver,Women's,WRF,False,True
+Ann Hildebrandt,F,United States,USA,2024,Paris,Wrestling,Women's Freestyle 50kg,Gold,Women's,WRF,True,False
+Louise Maroulis,F,United States,USA,2024,Paris,Wrestling,Women's Freestyle 57kg,Bronze,Women's,WRF,True,False
+Colleen Miracle,F,United States,USA,2024,Paris,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,False,True
+Olivia Parrish,F,United States,USA,2024,Paris,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,False,True

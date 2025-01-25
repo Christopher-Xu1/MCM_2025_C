@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-George Bryant,M,Boston Archers,USA,1904,St. Louis,Archery,Archery Men's Team Round,Bronze,Archery,ARC,False
-Wallace Bryant,M,Boston Archers,USA,1904,St. Louis,Archery,Archery Men's Team Round,Bronze,Archery,ARC,False
-Cyrus Dallin,M,Boston Archers,USA,1904,St. Louis,Archery,Archery Men's Team Round,Bronze,Archery,ARC,False
-Henry Richardson,M,Boston Archers,USA,1904,St. Louis,Archery,Archery Men's Team Round,Bronze,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+George Bryant,M,Boston Archers,USA,1904,St. Louis,Archery,Archery Men's Team Round,Bronze,Archery,ARC,False,True
+Wallace Bryant,M,Boston Archers,USA,1904,St. Louis,Archery,Archery Men's Team Round,Bronze,Archery,ARC,False,True
+Cyrus Dallin,M,Boston Archers,USA,1904,St. Louis,Archery,Archery Men's Team Round,Bronze,Archery,ARC,False,True
+Henry Richardson,M,Boston Archers,USA,1904,St. Louis,Archery,Archery Men's Team Round,Bronze,Archery,ARC,False,True

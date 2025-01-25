@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abdoul Alfaga,M,Niger,NIG,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Heavyweight,Silver,Taekwondo,TKW,False
-Razak Issoufou,M,Niger,NIG,2020,Tokyo,Taekwondo,Men +80kg,No medal,Men,TKW,False
-Nouridine Issaka,M,Niger,NIG,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,False
-Abdoul Issoufou,M,Niger,NIG,2024,Paris,Taekwondo,Men +80kg,No medal,Men,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abdoul Alfaga,M,Niger,NIG,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Heavyweight,Silver,Taekwondo,TKW,False,True
+Razak Issoufou,M,Niger,NIG,2020,Tokyo,Taekwondo,Men +80kg,No medal,Men,TKW,False,True
+Nouridine Issaka,M,Niger,NIG,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,False,True
+Abdoul Issoufou,M,Niger,NIG,2024,Paris,Taekwondo,Men +80kg,No medal,Men,TKW,False,True

@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maike Becker,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Elke Blumauer,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Sabine Erbs,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Astrid Hhn,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Kerstin Jnon,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Sabrina Koschella,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Corinna Kunze,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Roswitha Mroczynski,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Petra Platen,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Vanadis (-schmidt),F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Silvia Schmitt,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Dagmar Stelberg,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Claudia Sturm,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maike Becker,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Elke Blumauer,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Sabine Erbs,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Astrid Hhn,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Kerstin Jnon,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Sabrina Koschella,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Corinna Kunze,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Roswitha Mroczynski,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Petra Platen,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Vanadis (-schmidt),F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Silvia Schmitt,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Dagmar Stelberg,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Claudia Sturm,F,West Germany,FRG,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True

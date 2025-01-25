@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Laura (reback-),F,United States,USA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Laura (reback-),F,United States,USA,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Sarah Groff-true,F,United States,USA,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Sarah Groff-true,F,United States,USA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Jennifer Gutierrez,F,United States,USA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Sarah (-kortuem),F,United States,USA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Gwen (-lemieux),F,United States,USA,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Gwen (-lemieux),F,United States,USA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,Gold,Triathlon,TRI,True
-Barbara Lindquist,F,United States,USA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Julie Swail-ertel,F,United States,USA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Sheila Taormina,F,United States,USA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Sheila Taormina,F,United States,USA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Susan (bartholomew-),F,United States,USA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,Bronze,Triathlon,TRI,False
-Katie (hursey-),F,United States,USA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Joanna Zeiger,F,United States,USA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Taylor Knibb,F,United States,USA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Taylor Knibb,F,United States,USA,2020,Tokyo,Triathlon,Mixed Relay Team,Silver,Mixed,TRI,True
-Summer Rappaport,F,United States,USA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Summer Rappaport,F,United States,USA,2020,Tokyo,Triathlon,Mixed Relay Team,Silver,Mixed,TRI,True
-Katie Zaferes,F,United States,USA,2020,Tokyo,Triathlon,Women's Individual,Bronze,Women's,TRI,True
-Katie Zaferes,F,United States,USA,2020,Tokyo,Triathlon,Mixed Relay Team,Silver,Mixed,TRI,True
-Taylor Knibb,F,United States,USA,2024,Paris,"Cycling Road, Triathlon",Women's Individual Time Trial,No medal,Women's,TRI,True
-Taylor Knibb,F,United States,USA,2024,Paris,"Cycling Road, Triathlon",Women's Individual,No medal,Women's,TRI,True
-Kirsten Kasper,F,United States,USA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False
-Taylor Spivey,F,United States,USA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Laura (reback-),F,United States,USA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Laura (reback-),F,United States,USA,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Sarah Groff-true,F,United States,USA,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Sarah Groff-true,F,United States,USA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Jennifer Gutierrez,F,United States,USA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Sarah (-kortuem),F,United States,USA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Gwen (-lemieux),F,United States,USA,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Gwen (-lemieux),F,United States,USA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,Gold,Triathlon,TRI,True,False
+Barbara Lindquist,F,United States,USA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Julie Swail-ertel,F,United States,USA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Sheila Taormina,F,United States,USA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Sheila Taormina,F,United States,USA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Susan (bartholomew-),F,United States,USA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,Bronze,Triathlon,TRI,False,True
+Katie (hursey-),F,United States,USA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Joanna Zeiger,F,United States,USA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Taylor Knibb,F,United States,USA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,True
+Taylor Knibb,F,United States,USA,2020,Tokyo,Triathlon,Mixed Relay Team,Silver,Mixed,TRI,True,True
+Summer Rappaport,F,United States,USA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,True
+Summer Rappaport,F,United States,USA,2020,Tokyo,Triathlon,Mixed Relay Team,Silver,Mixed,TRI,True,True
+Katie Zaferes,F,United States,USA,2020,Tokyo,Triathlon,Women's Individual,Bronze,Women's,TRI,True,True
+Katie Zaferes,F,United States,USA,2020,Tokyo,Triathlon,Mixed Relay Team,Silver,Mixed,TRI,True,True
+Taylor Knibb,F,United States,USA,2024,Paris,"Cycling Road, Triathlon",Women's Individual Time Trial,No medal,Women's,TRI,True,False
+Taylor Knibb,F,United States,USA,2024,Paris,"Cycling Road, Triathlon",Women's Individual,No medal,Women's,TRI,True,False
+Kirsten Kasper,F,United States,USA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False,True
+Taylor Spivey,F,United States,USA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False,True

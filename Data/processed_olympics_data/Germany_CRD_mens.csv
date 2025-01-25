@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nikias Arndt,M,Germany,GER,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Nikias Arndt,M,Germany,GER,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Emanuel Buchmann,M,Germany,GER,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Simon Geschke,M,Germany,GER,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Maximilian Schachmann,M,Germany,GER,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Maximilian Schachmann,M,Germany,GER,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Maximilian Schachmann,M,Germany,GER,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Maximilian Schachmann,M,Germany,GER,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Nils Politt,M,Germany,GER,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nikias Arndt,M,Germany,GER,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Nikias Arndt,M,Germany,GER,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Emanuel Buchmann,M,Germany,GER,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Simon Geschke,M,Germany,GER,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Maximilian Schachmann,M,Germany,GER,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Maximilian Schachmann,M,Germany,GER,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Maximilian Schachmann,M,Germany,GER,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,False
+Maximilian Schachmann,M,Germany,GER,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,False
+Nils Politt,M,Germany,GER,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True

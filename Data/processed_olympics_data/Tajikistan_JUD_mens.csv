@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mukhamadmurod Abdurakhmonov,M,Tajikistan,TJK,2016,Rio de Janeiro,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Ne'matullo Asronqulov,M,Tajikistan,TJK,2008,Beijing,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Rasul Boqiev,M,Tajikistan,TJK,2008,Beijing,Judo,Judo Men's Lightweight,Bronze,Judo,JUD,True
-Rasul Boqiev,M,Tajikistan,TJK,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Rustam Boqiev,M,Tajikistan,TJK,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Sheral Bozorov,M,Tajikistan,TJK,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Khayrullo Nazriev,M,Tajikistan,TJK,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Saidahtam Rahimov,M,Tajikistan,TJK,1996,Atlanta,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Parviz Sobirov,M,Tajikistan,TJK,2012,London,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Komronshokh Ustopiriyon,M,Tajikistan,TJK,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Somon Makhmadbekov,M,Tajikistan,TJK,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,True
-Akmal Murodov,M,Tajikistan,TJK,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,False
-Temur Rakhimov,M,Tajikistan,TJK,2020,Tokyo,Judo,Men +100 kg,No medal,Men,JUD,True
-Komronshokh Ustopiriyon,M,Tajikistan,TJK,2020,Tokyo,Judo,Men -90 kg,No medal,Men,JUD,True
-Komronshokh Ustopiriyon,M,Tajikistan,TJK,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,True
-Behruzi Khojazoda,M,Tajikistan,TJK,2024,Paris,Judo,Men -73 kg,No medal,Men,JUD,False
-Temur Rakhimov,M,Tajikistan,TJK,2024,Paris,Judo,Men +100 kg,Bronze,Men,JUD,True
-Somon Makhmadbekov,M,Tajikistan,TJK,2024,Paris,Judo,Men -81 kg,Bronze,Men,JUD,True
-Nurali Emomali,M,Tajikistan,TJK,2024,Paris,Judo,Men -66 kg,No medal,Men,JUD,False
-Dzhakhongir Madzhidov,M,Tajikistan,TJK,2024,Paris,Judo,Men -100 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mukhamadmurod Abdurakhmonov,M,Tajikistan,TJK,2016,Rio de Janeiro,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Ne'matullo Asronqulov,M,Tajikistan,TJK,2008,Beijing,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Rasul Boqiev,M,Tajikistan,TJK,2008,Beijing,Judo,Judo Men's Lightweight,Bronze,Judo,JUD,True,True
+Rasul Boqiev,M,Tajikistan,TJK,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Rustam Boqiev,M,Tajikistan,TJK,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Sheral Bozorov,M,Tajikistan,TJK,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Khayrullo Nazriev,M,Tajikistan,TJK,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Saidahtam Rahimov,M,Tajikistan,TJK,1996,Atlanta,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Parviz Sobirov,M,Tajikistan,TJK,2012,London,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Komronshokh Ustopiriyon,M,Tajikistan,TJK,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,True
+Somon Makhmadbekov,M,Tajikistan,TJK,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,True,True
+Akmal Murodov,M,Tajikistan,TJK,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,False,True
+Temur Rakhimov,M,Tajikistan,TJK,2020,Tokyo,Judo,Men +100 kg,No medal,Men,JUD,True,True
+Komronshokh Ustopiriyon,M,Tajikistan,TJK,2020,Tokyo,Judo,Men -90 kg,No medal,Men,JUD,True,False
+Komronshokh Ustopiriyon,M,Tajikistan,TJK,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,True,False
+Behruzi Khojazoda,M,Tajikistan,TJK,2024,Paris,Judo,Men -73 kg,No medal,Men,JUD,False,True
+Temur Rakhimov,M,Tajikistan,TJK,2024,Paris,Judo,Men +100 kg,Bronze,Men,JUD,True,False
+Somon Makhmadbekov,M,Tajikistan,TJK,2024,Paris,Judo,Men -81 kg,Bronze,Men,JUD,True,False
+Nurali Emomali,M,Tajikistan,TJK,2024,Paris,Judo,Men -66 kg,No medal,Men,JUD,False,True
+Dzhakhongir Madzhidov,M,Tajikistan,TJK,2024,Paris,Judo,Men -100 kg,No medal,Men,JUD,False,True

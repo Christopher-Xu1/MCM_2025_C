@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Almighty Voice,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False
-Black Eagle,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False
-Black Hawk,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False
-Flat Iron,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False
-Half Moon,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False
-Lightfoot,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False
-Man Soap,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False
-Night Hawk,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False
-Rain Face,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False
-Red Jacket,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False
-Snake Eater,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False
-Spotted Tail,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Almighty Voice,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False,True
+Black Eagle,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False,True
+Black Hawk,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False,True
+Flat Iron,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False,True
+Half Moon,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False,True
+Lightfoot,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False,True
+Man Soap,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False,True
+Night Hawk,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False,True
+Rain Face,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False,True
+Red Jacket,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False,True
+Snake Eater,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False,True
+Spotted Tail,M,Mohawk Indians-2,CAN,1904,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Bronze,Lacrosse,LAX,False,True

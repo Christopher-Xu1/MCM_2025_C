@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Amanda Taylor,F,South Africa,RSA,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Amanda Taylor,F,South Africa,RSA,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Loren Wulfsohn,F,South Africa,RSA,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Loren Wulfsohn,F,South Africa,RSA,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Clarissa Johnston,F,South Africa,RSA,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,False
-Laura Strugnell,F,South Africa,RSA,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Amanda Taylor,F,South Africa,RSA,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Amanda Taylor,F,South Africa,RSA,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Loren Wulfsohn,F,South Africa,RSA,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Loren Wulfsohn,F,South Africa,RSA,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Clarissa Johnston,F,South Africa,RSA,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,False,True
+Laura Strugnell,F,South Africa,RSA,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,False,True

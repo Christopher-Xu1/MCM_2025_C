@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Choong Fook,M,Malaysia-2,MAS,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Choong Fook,M,Malaysia-2,MAS,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Choong Fook,M,Malaysia-2,MAS,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Lee Wah,M,Malaysia-2,MAS,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Lee Wah,M,Malaysia-2,MAS,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Lee Wah,M,Malaysia-2,MAS,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Razif Mohamed,M,Malaysia-2,MAS,1992,Barcelona,Badminton,Badminton Men's Doubles,Bronze,Badminton,BDM,False
-Jalani Mohamed,M,Malaysia-2,MAS,1992,Barcelona,Badminton,Badminton Men's Doubles,Bronze,Badminton,BDM,False
-Soo Kiang,M,Malaysia-2,MAS,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Tan Her,M,Malaysia-2,MAS,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Choong Fook,M,Malaysia-2,MAS,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Choong Fook,M,Malaysia-2,MAS,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Choong Fook,M,Malaysia-2,MAS,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Lee Wah,M,Malaysia-2,MAS,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Lee Wah,M,Malaysia-2,MAS,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Lee Wah,M,Malaysia-2,MAS,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Razif Mohamed,M,Malaysia-2,MAS,1992,Barcelona,Badminton,Badminton Men's Doubles,Bronze,Badminton,BDM,False,True
+Jalani Mohamed,M,Malaysia-2,MAS,1992,Barcelona,Badminton,Badminton Men's Doubles,Bronze,Badminton,BDM,False,True
+Soo Kiang,M,Malaysia-2,MAS,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Tan Her,M,Malaysia-2,MAS,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True

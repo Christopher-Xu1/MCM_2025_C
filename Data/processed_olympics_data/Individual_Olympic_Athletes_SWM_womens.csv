@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Darija Alauf,F,Individual Olympic Athletes,IOA,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Darija Alauf,F,Individual Olympic Athletes,IOA,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Nataa Mekovska,F,Individual Olympic Athletes,IOA,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Nataa Mekovska,F,Individual Olympic Athletes,IOA,1992,Barcelona,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Faye Hussain,F,Individual Olympic Athletes,IOA,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Darija Alauf,F,Individual Olympic Athletes,IOA,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Darija Alauf,F,Individual Olympic Athletes,IOA,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Nataa Mekovska,F,Individual Olympic Athletes,IOA,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Nataa Mekovska,F,Individual Olympic Athletes,IOA,1992,Barcelona,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Faye Hussain,F,Individual Olympic Athletes,IOA,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True

@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-James Birkett,M,South Africa,RSA,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
-James Birkett,M,South Africa,RSA,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True
-Hamish Lovemore,M,South Africa,RSA,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
-Hamish Lovemore,M,South Africa,RSA,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+James Birkett,M,South Africa,RSA,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True,True
+James Birkett,M,South Africa,RSA,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True,True
+Hamish Lovemore,M,South Africa,RSA,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True,True
+Hamish Lovemore,M,South Africa,RSA,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True,True

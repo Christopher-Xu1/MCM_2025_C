@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sren Kjeldsen,M,Denmark,DEN,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Jacob Olesen,M,Denmark,DEN,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-B Hansen,M,Denmark,DEN,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Rasmus Hoejgaard,M,Denmark,DEN,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Nicolai Hojgaard,M,Denmark,DEN,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Thorbjorn Olesen,M,Denmark,DEN,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sren Kjeldsen,M,Denmark,DEN,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Jacob Olesen,M,Denmark,DEN,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+B Hansen,M,Denmark,DEN,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Rasmus Hoejgaard,M,Denmark,DEN,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Nicolai Hojgaard,M,Denmark,DEN,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Thorbjorn Olesen,M,Denmark,DEN,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True

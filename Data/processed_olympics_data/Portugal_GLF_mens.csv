@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ricardo Gouveia,M,Portugal,POR,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Jos-Filipe Lima,M,Portugal,POR,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ricardo Gouveia,M,Portugal,POR,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Jos-Filipe Lima,M,Portugal,POR,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True

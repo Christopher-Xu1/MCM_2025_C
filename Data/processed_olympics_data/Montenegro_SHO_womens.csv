@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jelena Pantovic,F,Montenegro,MNE,2020,Tokyo,Shooting,10m Air Pistol Women,No medal,10m,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jelena Pantovic,F,Montenegro,MNE,2020,Tokyo,Shooting,10m Air Pistol Women,No medal,10m,SHO,False,True

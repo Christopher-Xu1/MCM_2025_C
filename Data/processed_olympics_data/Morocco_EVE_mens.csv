@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abdelkebir Ouaddar,M,Morocco,MAR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False
-Yassine Al-rahmouni,M,Morocco,MAR,2012,London,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abdelkebir Ouaddar,M,Morocco,MAR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False,True
+Yassine Al-rahmouni,M,Morocco,MAR,2012,London,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Michael Cheng,M,"Hong Kong, China",HKG,2020,Tokyo,Sailing,Men's Windsurfer - RS:X,No medal,Men's,SAL,False
-Yin Cheng,M,"Hong Kong, China",HKG,2024,Paris,Sailing,Men's Windsurfing,No medal,Men's,SAL,False
-Williams Aylsworth,M,"Hong Kong, China",HKG,2024,Paris,Sailing,Men's Skiff,No medal,Men's,SAL,False
-Luke Sakai,M,"Hong Kong, China",HKG,2024,Paris,Sailing,Men's Skiff,No medal,Men's,SAL,False
-Nicholas Halliday,M,"Hong Kong, China",HKG,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Michael Cheng,M,"Hong Kong, China",HKG,2020,Tokyo,Sailing,Men's Windsurfer - RS:X,No medal,Men's,SAL,False,True
+Yin Cheng,M,"Hong Kong, China",HKG,2024,Paris,Sailing,Men's Windsurfing,No medal,Men's,SAL,False,True
+Williams Aylsworth,M,"Hong Kong, China",HKG,2024,Paris,Sailing,Men's Skiff,No medal,Men's,SAL,False,True
+Luke Sakai,M,"Hong Kong, China",HKG,2024,Paris,Sailing,Men's Skiff,No medal,Men's,SAL,False,True
+Nicholas Halliday,M,"Hong Kong, China",HKG,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,False,True

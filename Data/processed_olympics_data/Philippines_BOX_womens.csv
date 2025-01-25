@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Irish Magno,F,Philippines,PHI,2020,Tokyo,Boxing,Women's Fly (48-51kg),No medal,Women's,BOX,False
-Nesthy Petecio,F,Philippines,PHI,2020,Tokyo,Boxing,Women's Feather (54-57kg),Silver,Women's,BOX,True
-Aira Villegas,F,Philippines,PHI,2024,Paris,Boxing,Women's 50kg,Bronze,Women's,BOX,False
-Nesthy Petecio,F,Philippines,PHI,2024,Paris,Boxing,Women's 57kg,Bronze,Women's,BOX,True
-Hergie Bacyadan,F,Philippines,PHI,2024,Paris,Boxing,Women's 75kg,No medal,Women's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Irish Magno,F,Philippines,PHI,2020,Tokyo,Boxing,Women's Fly (48-51kg),No medal,Women's,BOX,False,True
+Nesthy Petecio,F,Philippines,PHI,2020,Tokyo,Boxing,Women's Feather (54-57kg),Silver,Women's,BOX,True,True
+Aira Villegas,F,Philippines,PHI,2024,Paris,Boxing,Women's 50kg,Bronze,Women's,BOX,False,True
+Nesthy Petecio,F,Philippines,PHI,2024,Paris,Boxing,Women's 57kg,Bronze,Women's,BOX,True,False
+Hergie Bacyadan,F,Philippines,PHI,2024,Paris,Boxing,Women's 75kg,No medal,Women's,BOX,False,True

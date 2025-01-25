@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Edward Barrett,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False
-Frederick Goodfellow,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False
-William Hirons,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False
-Frederick Humphreys,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False
-Albert Ireton,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False
-Frederick Merriman,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False
-Edwin Mills,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False
-John Shepherd,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Edward Barrett,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False,True
+Frederick Goodfellow,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False,True
+William Hirons,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False,True
+Frederick Humphreys,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False,True
+Albert Ireton,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False,True
+Frederick Merriman,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False,True
+Edwin Mills,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False,True
+John Shepherd,M,London City Police-1,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold,Tug-Of-War,TOW,False,True

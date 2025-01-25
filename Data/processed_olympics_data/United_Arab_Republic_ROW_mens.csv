@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abdel Hadj,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Mohamed Sami,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Abdel Abou-shanab,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Abdallah Gazi,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Taha Hassouba,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Saleh Ibrahim,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Abbas Khamis,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Ibrahim Mahmoud,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Abdel Saad,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abdel Hadj,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Mohamed Sami,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Abdel Abou-shanab,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Abdallah Gazi,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Taha Hassouba,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Saleh Ibrahim,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Abbas Khamis,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Ibrahim Mahmoud,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Abdel Saad,M,United Arab Republic,UAR,1960,Roma,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True

@@ -1,36 +1,36 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Monika Babok,F,Croatia,CRO,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Petra (-santos),F,Croatia,CRO,2000,Sydney,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Petra (-santos),F,Croatia,CRO,2000,Sydney,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Petra (-santos),F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Petra (-santos),F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Tinka Danevi,F,Croatia,CRO,1996,Atlanta,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Tinka Danevi,F,Croatia,CRO,2000,Sydney,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Anita Gali,F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Anita Gali,F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Sanja Jovanovi,F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Sanja Jovanovi,F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Sanja Jovanovi,F,Croatia,CRO,2008,Beijing,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Sanja Jovanovi,F,Croatia,CRO,2008,Beijing,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Sanja Jovanovi,F,Croatia,CRO,2012,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Smiljana Marinovi,F,Croatia,CRO,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Smiljana Marinovi,F,Croatia,CRO,2000,Sydney,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Smiljana Marinovi,F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Smiljana Marinovi,F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Smiljana Marinovi,F,Croatia,CRO,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Smiljana Marinovi,F,Croatia,CRO,2008,Beijing,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Kim Pavlin,F,Croatia,CRO,2012,London,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Kim Pavlin,F,Croatia,CRO,2012,London,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Matea Samardi,F,Croatia,CRO,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Matea Samardi,F,Croatia,CRO,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Matea Samardi,F,Croatia,CRO,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Karla Iti,F,Croatia,CRO,2012,London,Swimming,Swimming Women's 10 kilometres Open Water,No medal,Swimming,SWM,False
-Marijana Urkovi,F,Croatia,CRO,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Anja Trii,F,Croatia,CRO,2008,Beijing,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False
-Gabrijela (-vukovi),F,Croatia,CRO,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Gabrijela (-vukovi),F,Croatia,CRO,1996,Atlanta,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Gabrijela (-vukovi),F,Croatia,CRO,1996,Atlanta,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Ema Rajic,F,Croatia,CRO,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True
-Ema Rajic,F,Croatia,CRO,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,True
-Jana Pavalic,F,Croatia,CRO,2024,Paris,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,True
-Jana Pavalic,F,Croatia,CRO,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Monika Babok,F,Croatia,CRO,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Petra (-santos),F,Croatia,CRO,2000,Sydney,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Petra (-santos),F,Croatia,CRO,2000,Sydney,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Petra (-santos),F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Petra (-santos),F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Tinka Danevi,F,Croatia,CRO,1996,Atlanta,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Tinka Danevi,F,Croatia,CRO,2000,Sydney,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,False
+Anita Gali,F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Anita Gali,F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Sanja Jovanovi,F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Sanja Jovanovi,F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Sanja Jovanovi,F,Croatia,CRO,2008,Beijing,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Sanja Jovanovi,F,Croatia,CRO,2008,Beijing,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,False
+Sanja Jovanovi,F,Croatia,CRO,2012,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Smiljana Marinovi,F,Croatia,CRO,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Smiljana Marinovi,F,Croatia,CRO,2000,Sydney,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Smiljana Marinovi,F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Smiljana Marinovi,F,Croatia,CRO,2004,Athina,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Smiljana Marinovi,F,Croatia,CRO,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Smiljana Marinovi,F,Croatia,CRO,2008,Beijing,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Kim Pavlin,F,Croatia,CRO,2012,London,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Kim Pavlin,F,Croatia,CRO,2012,London,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Matea Samardi,F,Croatia,CRO,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Matea Samardi,F,Croatia,CRO,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Matea Samardi,F,Croatia,CRO,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Karla Iti,F,Croatia,CRO,2012,London,Swimming,Swimming Women's 10 kilometres Open Water,No medal,Swimming,SWM,False,True
+Marijana Urkovi,F,Croatia,CRO,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Anja Trii,F,Croatia,CRO,2008,Beijing,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Gabrijela (-vukovi),F,Croatia,CRO,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Gabrijela (-vukovi),F,Croatia,CRO,1996,Atlanta,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Gabrijela (-vukovi),F,Croatia,CRO,1996,Atlanta,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Ema Rajic,F,Croatia,CRO,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True,True
+Ema Rajic,F,Croatia,CRO,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,True,True
+Jana Pavalic,F,Croatia,CRO,2024,Paris,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,True,True
+Jana Pavalic,F,Croatia,CRO,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True,True

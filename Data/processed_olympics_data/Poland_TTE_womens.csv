@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Katarzyna Grzybowska-franc,F,Poland,POL,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Katarzyna Grzybowska-franc,F,Poland,POL,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Katarzyna Grzybowska-franc,F,Poland,POL,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Qian Li,F,Poland,POL,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Qian Li,F,Poland,POL,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Qian Li,F,Poland,POL,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Qian Li,F,Poland,POL,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Qian Li,F,Poland,POL,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Qian Li,F,Poland,POL,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Natalia Partyka,F,Poland,POL,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Natalia Partyka,F,Poland,POL,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Natalia Partyka,F,Poland,POL,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Natalia Partyka,F,Poland,POL,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Jie Xu,F,Poland,POL,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jie Xu,F,Poland,POL,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Natalia Bajor,F,Poland,POL,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Qian Li,F,Poland,POL,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Qian Li,F,Poland,POL,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Natalia Partyka,F,Poland,POL,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Natalia Partyka,F,Poland,POL,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Natalia Bajor,F,Poland,POL,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Natalia Bajor,F,Poland,POL,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Anna Wegrzyn,F,Poland,POL,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,False
-Katarzyna Wegrzyn,F,Poland,POL,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,False
-Zuzanna Wielgos,F,Poland,POL,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Katarzyna Grzybowska-franc,F,Poland,POL,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Katarzyna Grzybowska-franc,F,Poland,POL,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Katarzyna Grzybowska-franc,F,Poland,POL,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Qian Li,F,Poland,POL,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Qian Li,F,Poland,POL,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Qian Li,F,Poland,POL,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Qian Li,F,Poland,POL,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Qian Li,F,Poland,POL,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Qian Li,F,Poland,POL,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Natalia Partyka,F,Poland,POL,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Natalia Partyka,F,Poland,POL,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Natalia Partyka,F,Poland,POL,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Natalia Partyka,F,Poland,POL,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Jie Xu,F,Poland,POL,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Jie Xu,F,Poland,POL,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Natalia Bajor,F,Poland,POL,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True,True
+Qian Li,F,Poland,POL,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False
+Qian Li,F,Poland,POL,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True,False
+Natalia Partyka,F,Poland,POL,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False
+Natalia Partyka,F,Poland,POL,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True,False
+Natalia Bajor,F,Poland,POL,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False
+Natalia Bajor,F,Poland,POL,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True,False
+Anna Wegrzyn,F,Poland,POL,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,False,True
+Katarzyna Wegrzyn,F,Poland,POL,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,False,True
+Zuzanna Wielgos,F,Poland,POL,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,False,True

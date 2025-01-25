@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Beate (-faure),F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Annette Ellerbracke,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Ute Hankers,F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Erika Heucke,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Ruth (-malkus),F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Almut (-neumaier),F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Marianne Lepa,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Ingrid Lorenz,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Teresia (-schttler),F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Birgit Prner,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Regina Ptz,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Annedore Richter,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Renate (-bauer),F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Ulrike Ruschenburg,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Andrea Sauvigny,F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Gertrude Schfer,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Marina (milowidowa-),F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Margarethe (-herzog),F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Sigrid Terstegge,F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Regina Vossen,F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Ursula Westphal,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Gudrun (-burschik),F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Beate (-faure),F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Annette Ellerbracke,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Ute Hankers,F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Erika Heucke,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Ruth (-malkus),F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Almut (-neumaier),F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Marianne Lepa,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Ingrid Lorenz,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Teresia (-schttler),F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Birgit Prner,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Regina Ptz,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Annedore Richter,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Renate (-bauer),F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Ulrike Ruschenburg,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Andrea Sauvigny,F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Gertrude Schfer,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Marina (milowidowa-),F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Margarethe (-herzog),F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Sigrid Terstegge,F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Regina Vossen,F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Ursula Westphal,F,West Germany,FRG,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Gudrun (-burschik),F,West Germany,FRG,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True

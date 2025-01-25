@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mariam Bah,F,Cote D'Ivoire,CIV,2004,Athina,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True
-Mariam Bah,F,Cote D'Ivoire,CIV,2008,Beijing,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True
-Ruth Gbagbi,F,Cote D'Ivoire,CIV,2012,London,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,True
-Ruth Gbagbi,F,Cote D'Ivoire,CIV,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Welterweight,Bronze,Taekwondo,TKW,True
-Mamina Kon,F,Cote D'Ivoire,CIV,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mariam Bah,F,Cote D'Ivoire,CIV,2004,Athina,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True,True
+Mariam Bah,F,Cote D'Ivoire,CIV,2008,Beijing,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True,False
+Ruth Gbagbi,F,Cote D'Ivoire,CIV,2012,London,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,True,True
+Ruth Gbagbi,F,Cote D'Ivoire,CIV,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Welterweight,Bronze,Taekwondo,TKW,True,False
+Mamina Kon,F,Cote D'Ivoire,CIV,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False,True

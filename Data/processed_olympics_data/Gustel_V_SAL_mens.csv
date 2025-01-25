@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dietrich Christensen,M,Gustel V,GER,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Kurt Frey,M,Gustel V,GER,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Hans Lubinus,M,Gustel V,GER,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Theodor Thomsen,M,Gustel V,GER,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Haimar Wedemeyer,M,Gustel V,GER,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dietrich Christensen,M,Gustel V,GER,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Kurt Frey,M,Gustel V,GER,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Hans Lubinus,M,Gustel V,GER,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Theodor Thomsen,M,Gustel V,GER,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Haimar Wedemeyer,M,Gustel V,GER,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

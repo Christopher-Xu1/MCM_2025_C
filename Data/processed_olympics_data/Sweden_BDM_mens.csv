@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hans Axelsson,M,Sweden,SWE,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Hans Axelsson,M,Sweden,SWE,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Hans Axelsson,M,Sweden,SWE,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Lars Bergstrm,M,Sweden,SWE,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Lars Bergstrm,M,Sweden,SWE,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Henri Hurskainen,M,Sweden,SWE,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Henri Hurskainen,M,Sweden,SWE,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Sven Johansson,M,Sweden,SWE,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Sven Johansson,M,Sweden,SWE,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Pr-Gunnar Jnsson,M,Sweden,SWE,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Pr-Gunnar Jnsson,M,Sweden,SWE,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Jens Olsson,M,Sweden,SWE,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Jens Olsson,M,Sweden,SWE,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Rasmus Wengberg,M,Sweden,SWE,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Felix Burestedt,M,Sweden,SWE,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hans Axelsson,M,Sweden,SWE,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Hans Axelsson,M,Sweden,SWE,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Hans Axelsson,M,Sweden,SWE,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Lars Bergstrm,M,Sweden,SWE,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Lars Bergstrm,M,Sweden,SWE,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Henri Hurskainen,M,Sweden,SWE,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Henri Hurskainen,M,Sweden,SWE,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Sven Johansson,M,Sweden,SWE,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Sven Johansson,M,Sweden,SWE,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Pr-Gunnar Jnsson,M,Sweden,SWE,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Pr-Gunnar Jnsson,M,Sweden,SWE,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Jens Olsson,M,Sweden,SWE,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Jens Olsson,M,Sweden,SWE,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Rasmus Wengberg,M,Sweden,SWE,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Felix Burestedt,M,Sweden,SWE,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,False,True

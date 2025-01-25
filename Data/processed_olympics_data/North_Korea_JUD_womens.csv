@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-An Kum-ae,F,North Korea,PRK,2008,Beijing,Judo,Judo Women's Half-Lightweight,Silver,Judo,JUD,True
-An Kum-ae,F,North Korea,PRK,2012,London,Judo,Judo Women's Half-Lightweight,Gold,Judo,JUD,True
-Cha Hyon-hyang,F,North Korea,PRK,2000,Sydney,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Hong Ok-song,F,North Korea,PRK,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Ji Kyong-sun,F,North Korea,PRK,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Kang Yong-ok,F,North Korea,PRK,1992,Barcelona,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Kim Ryon-mi,F,North Korea,PRK,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Kim Sol-mi,F,North Korea,PRK,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Kye Sun-hui,F,North Korea,PRK,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,Gold,Judo,JUD,True
-Kye Sun-hui,F,North Korea,PRK,2000,Sydney,Judo,Judo Women's Half-Lightweight,Bronze,Judo,JUD,True
-Kye Sun-hui,F,North Korea,PRK,2004,Athina,Judo,Judo Women's Lightweight,Silver,Judo,JUD,True
-Kye Sun-hui,F,North Korea,PRK,2008,Beijing,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Pak Ok-song,F,North Korea,PRK,2008,Beijing,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Ri Kyong-ok,F,North Korea,PRK,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Ri Sang-sim,F,North Korea,PRK,2004,Athina,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Sol Kyong,F,North Korea,PRK,2016,Rio de Janeiro,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Won Ok-im,F,North Korea,PRK,2008,Beijing,Judo,Judo Women's Half-Middleweight,Bronze,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+An Kum-ae,F,North Korea,PRK,2008,Beijing,Judo,Judo Women's Half-Lightweight,Silver,Judo,JUD,True,True
+An Kum-ae,F,North Korea,PRK,2012,London,Judo,Judo Women's Half-Lightweight,Gold,Judo,JUD,True,False
+Cha Hyon-hyang,F,North Korea,PRK,2000,Sydney,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Hong Ok-song,F,North Korea,PRK,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Ji Kyong-sun,F,North Korea,PRK,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Kang Yong-ok,F,North Korea,PRK,1992,Barcelona,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Kim Ryon-mi,F,North Korea,PRK,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Kim Sol-mi,F,North Korea,PRK,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Kye Sun-hui,F,North Korea,PRK,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,Gold,Judo,JUD,True,True
+Kye Sun-hui,F,North Korea,PRK,2000,Sydney,Judo,Judo Women's Half-Lightweight,Bronze,Judo,JUD,True,False
+Kye Sun-hui,F,North Korea,PRK,2004,Athina,Judo,Judo Women's Lightweight,Silver,Judo,JUD,True,False
+Kye Sun-hui,F,North Korea,PRK,2008,Beijing,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,False
+Pak Ok-song,F,North Korea,PRK,2008,Beijing,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Ri Kyong-ok,F,North Korea,PRK,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Ri Sang-sim,F,North Korea,PRK,2004,Athina,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Sol Kyong,F,North Korea,PRK,2016,Rio de Janeiro,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Won Ok-im,F,North Korea,PRK,2008,Beijing,Judo,Judo Women's Half-Middleweight,Bronze,Judo,JUD,False,True

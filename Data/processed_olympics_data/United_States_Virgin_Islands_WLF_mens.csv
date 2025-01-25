@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Leston Sprauve,M,United States Virgin Islands,ISV,1968,Mexico City,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Leston Sprauve,M,United States Virgin Islands,ISV,1968,Mexico City,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False,True

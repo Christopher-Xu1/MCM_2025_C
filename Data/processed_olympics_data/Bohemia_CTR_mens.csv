@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Frantiek Hirsch,M,Bohemia,BOH,1900,Paris,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,False
-Bohumil Kubrycht,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Bohumil Kubrycht,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Frantiek Kundert,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Frantiek Kundert,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Bohumil Rame,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Bohumil Rame,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Vclav Tintra,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Vclav Tintra,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Jan Vokoun,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jan Vokoun,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Frantiek Hirsch,M,Bohemia,BOH,1900,Paris,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,False,True
+Bohumil Kubrycht,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Bohumil Kubrycht,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Frantiek Kundert,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Frantiek Kundert,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Bohumil Rame,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Bohumil Rame,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Vclav Tintra,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Vclav Tintra,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Jan Vokoun,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Jan Vokoun,M,Bohemia,BOH,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True

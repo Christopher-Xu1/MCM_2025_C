@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-J. Bertrand,M,Tritons Lillois-2,FRA,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Silver,Swimming,SWM,False
-Victor Cadet,M,Tritons Lillois-2,FRA,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Silver,Swimming,SWM,False
-Maurice Hochepied,M,Tritons Lillois-2,FRA,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Silver,Swimming,SWM,False
-Victor Hochepied,M,Tritons Lillois-2,FRA,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Silver,Swimming,SWM,False
-Jules (gaillard-),M,Tritons Lillois-2,FRA,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Silver,Swimming,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+J. Bertrand,M,Tritons Lillois-2,FRA,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Silver,Swimming,SWM,False,True
+Victor Cadet,M,Tritons Lillois-2,FRA,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Silver,Swimming,SWM,False,True
+Maurice Hochepied,M,Tritons Lillois-2,FRA,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Silver,Swimming,SWM,False,True
+Victor Hochepied,M,Tritons Lillois-2,FRA,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Silver,Swimming,SWM,False,True
+Jules (gaillard-),M,Tritons Lillois-2,FRA,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Silver,Swimming,SWM,False,True

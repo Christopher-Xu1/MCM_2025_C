@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-George Corsar,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False
-Arthur Griffiths,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False
-Charles Hill,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False
-John Miller,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False
-David Stevenson,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False
-James Stevenson,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False
-Robert Thompson,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False
-John Wilson,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+George Corsar,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False,True
+Arthur Griffiths,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False,True
+Charles Hill,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False,True
+John Miller,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False,True
+David Stevenson,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False,True
+James Stevenson,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False,True
+Robert Thompson,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False,True
+John Wilson,M,Scotland-2,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,False,True

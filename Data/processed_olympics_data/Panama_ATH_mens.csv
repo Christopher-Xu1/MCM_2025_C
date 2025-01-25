@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Guy Abrahams,M,Panama,PAN,1976,Montreal,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Guy Abrahams,M,Panama,PAN,1976,Montreal,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Florencio Mejia,M,Panama,PAN,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Florencio Mejia,M,Panama,PAN,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Donaldo Arza,M,Panama,PAN,1972,Munich,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Donaldo Arza,M,Panama,PAN,1972,Munich,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Jorge Castelblanco,M,Panama,PAN,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Alonso Henry,M,Panama,PAN,2012,London,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Alonso Henry,M,Panama,PAN,2016,Rio de Janeiro,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Bayano Kamani,M,Panama,PAN,2004,Athina,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True
-Bayano Kamani,M,Panama,PAN,2008,Beijing,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True
-Lloyd Labeach,M,Panama,PAN,1948,London,Athletics,Athletics Men's 100 metres,Bronze,Athletics,ATH,True
-Lloyd Labeach,M,Panama,PAN,1948,London,Athletics,Athletics Men's 200 metres,Bronze,Athletics,ATH,True
-Alfonso Pitters,M,Panama,PAN,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Irving Arana,M,Panama,PAN,2004,Athina,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Irving Arana,M,Panama,PAN,2008,Beijing,Athletics,Athletics Men's Long Jump,Gold,Athletics,ATH,True
-Irving Arana,M,Panama,PAN,2012,London,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Curt Lawson,M,Panama,PAN,1996,Atlanta,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True
-Curt Lawson,M,Panama,PAN,2000,Sydney,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True
-Jorge Castel,M,Panama,PAN,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False
-Alonso Edward,M,Panama,PAN,2020,Tokyo,Athletics,Men's 200m,No medal,Men's,ATH,False
-Harmodio Deliser,M,Panama,PAN,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Guy Abrahams,M,Panama,PAN,1976,Montreal,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Guy Abrahams,M,Panama,PAN,1976,Montreal,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Florencio Mejia,M,Panama,PAN,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Florencio Mejia,M,Panama,PAN,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Donaldo Arza,M,Panama,PAN,1972,Munich,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Donaldo Arza,M,Panama,PAN,1972,Munich,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Jorge Castelblanco,M,Panama,PAN,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Alonso Henry,M,Panama,PAN,2012,London,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Alonso Henry,M,Panama,PAN,2016,Rio de Janeiro,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Bayano Kamani,M,Panama,PAN,2004,Athina,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True,True
+Bayano Kamani,M,Panama,PAN,2008,Beijing,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True,False
+Lloyd Labeach,M,Panama,PAN,1948,London,Athletics,Athletics Men's 100 metres,Bronze,Athletics,ATH,True,True
+Lloyd Labeach,M,Panama,PAN,1948,London,Athletics,Athletics Men's 200 metres,Bronze,Athletics,ATH,True,True
+Alfonso Pitters,M,Panama,PAN,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Irving Arana,M,Panama,PAN,2004,Athina,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,True
+Irving Arana,M,Panama,PAN,2008,Beijing,Athletics,Athletics Men's Long Jump,Gold,Athletics,ATH,True,False
+Irving Arana,M,Panama,PAN,2012,London,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,False
+Curt Lawson,M,Panama,PAN,1996,Atlanta,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True,True
+Curt Lawson,M,Panama,PAN,2000,Sydney,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True,False
+Jorge Castel,M,Panama,PAN,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False,True
+Alonso Edward,M,Panama,PAN,2020,Tokyo,Athletics,Men's 200m,No medal,Men's,ATH,False,True
+Harmodio Deliser,M,Panama,PAN,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True

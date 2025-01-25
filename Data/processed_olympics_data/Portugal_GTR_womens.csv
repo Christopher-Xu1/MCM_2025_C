@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ana Rente,F,Portugal,POR,2008,Beijing,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,True
-Ana Rente,F,Portugal,POR,2012,London,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,True
-Ana Rente,F,Portugal,POR,2016,Rio de Janeiro,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ana Rente,F,Portugal,POR,2008,Beijing,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,True,True
+Ana Rente,F,Portugal,POR,2012,London,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,True,False
+Ana Rente,F,Portugal,POR,2016,Rio de Janeiro,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,True,False

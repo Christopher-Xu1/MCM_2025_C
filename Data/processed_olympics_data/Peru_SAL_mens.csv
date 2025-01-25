@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Augusto Aramburu,M,Peru,PER,2004,Athina,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Luis Schwarz,M,Peru,PER,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Stefano Mola,M,Peru,PER,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False
-Stefano Peschiera,M,Peru,PER,2020,Tokyo,Sailing,Men's One Person Dinghy - Laser,No medal,Men's,SAL,True
-Stefano Peschiera,M,Peru,PER,2024,Paris,Sailing,Men's Dinghy,Bronze,Men's,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Augusto Aramburu,M,Peru,PER,2004,Athina,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Luis Schwarz,M,Peru,PER,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Stefano Mola,M,Peru,PER,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False,True
+Stefano Peschiera,M,Peru,PER,2020,Tokyo,Sailing,Men's One Person Dinghy - Laser,No medal,Men's,SAL,True,True
+Stefano Peschiera,M,Peru,PER,2024,Paris,Sailing,Men's Dinghy,Bronze,Men's,SAL,True,False

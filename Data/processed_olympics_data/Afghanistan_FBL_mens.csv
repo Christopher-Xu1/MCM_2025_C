@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohammad Afzal,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False
-Abdul Assar,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,True
-Abdul Assar,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,True
-Abdul Azimi,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False
-Yar Barakzai,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False
-Mohammad Gharzai,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False
-Abdul Kharot,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False
-Mohammad Kharot,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False
-Abdul Tajik,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False
-Abdul Yusufzai,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False
-Mohammad Yusufzai,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohammad Afzal,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Abdul Assar,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,True,True
+Abdul Assar,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,True,True
+Abdul Azimi,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Yar Barakzai,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mohammad Gharzai,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Abdul Kharot,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mohammad Kharot,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Abdul Tajik,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Abdul Yusufzai,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mohammad Yusufzai,M,Afghanistan,AFG,1948,London,Football,Football Men's Football,No medal,Football,FBL,False,True

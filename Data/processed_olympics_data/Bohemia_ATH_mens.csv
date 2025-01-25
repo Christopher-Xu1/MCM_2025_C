@@ -1,40 +1,40 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Otto Hahnel-kohout,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Otto Hahnel-kohout,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Bohumil Honztko,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Frantiek Janda-suk,M,Bohemia,BOH,1900,Paris,Athletics,Athletics Men's Discus Throw,Silver,Athletics,ATH,True
-Frantiek Janda-suk,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,True
-Frantiek Janda-suk,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
-Ladislav Jirnek-strana,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Jindich Jirsk,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,False
-Vclav Labk-gregan,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Vclav Labk-gregan,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Vclav Labk-gregan,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Zdenk Msteck,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Karel Nedvd,M,Bohemia,BOH,1900,Paris,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
-Arnot Nejedl,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's 5 mile,No medal,Athletics,ATH,True
-Arnot Nejedl,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Arnot Nejedl,M,Bohemia,BOH,1908,London,Athletics,Athletics Men's 5 mile,No medal,Athletics,ATH,True
-Arnot Nejedl,M,Bohemia,BOH,1908,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Vclav Nov,M,Bohemia,BOH,1900,Paris,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Vladimr Penc,M,Bohemia,BOH,1912,Stockholm,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Vladimr Penc,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Bohuslav Pohl-polensk,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Bohuslav Pohl-polensk,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True
-Ondej Pukl,M,Bohemia,BOH,1900,Paris,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Ondej Pukl,M,Bohemia,BOH,1900,Paris,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Rudolf Richter,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's 10 kilometres Walk,No medal,Athletics,ATH,False
-Frantiek Slavk,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Frantiek Souek,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
-Frantiek Souek,M,Bohemia,BOH,1906,Athina,Athletics,"Athletics Men's Discus Throw, Greek Style",No medal,Athletics,ATH,True
-Frantiek Souek,M,Bohemia,BOH,1906,Athina,Athletics,"Athletics Men's Javelin Throw, Freestyle",No medal,Athletics,ATH,True
-Frantiek Souek,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's Pentathlon (Ancient),No medal,Athletics,ATH,True
-Frantiek Souek,M,Bohemia,BOH,1908,London,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
-Frantiek Souek,M,Bohemia,BOH,1908,London,Athletics,"Athletics Men's Javelin Throw, Freestyle",No medal,Athletics,ATH,True
-Miroslav Ustera,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
-Miroslav Ustera,M,Bohemia,BOH,1906,Athina,Athletics,"Athletics Men's Discus Throw, Greek Style",No medal,Athletics,ATH,True
-Miroslav Ustera,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's Pentathlon (Ancient),No medal,Athletics,ATH,True
-Miroslav Ustera,M,Bohemia,BOH,1908,London,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
-Miroslav Ustera,M,Bohemia,BOH,1908,London,Athletics,"Athletics Men's Discus Throw, Greek Style",No medal,Athletics,ATH,True
-Miroslav Ustera,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
-Bedich Vygoda,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Otto Hahnel-kohout,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Otto Hahnel-kohout,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,True
+Bohumil Honztko,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Frantiek Janda-suk,M,Bohemia,BOH,1900,Paris,Athletics,Athletics Men's Discus Throw,Silver,Athletics,ATH,True,True
+Frantiek Janda-suk,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,True,False
+Frantiek Janda-suk,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True,False
+Ladislav Jirnek-strana,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Jindich Jirsk,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,False,True
+Vclav Labk-gregan,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Vclav Labk-gregan,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Vclav Labk-gregan,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Zdenk Msteck,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Karel Nedvd,M,Bohemia,BOH,1900,Paris,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+Arnot Nejedl,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's 5 mile,No medal,Athletics,ATH,True,True
+Arnot Nejedl,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Arnot Nejedl,M,Bohemia,BOH,1908,London,Athletics,Athletics Men's 5 mile,No medal,Athletics,ATH,True,False
+Arnot Nejedl,M,Bohemia,BOH,1908,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Vclav Nov,M,Bohemia,BOH,1900,Paris,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Vladimr Penc,M,Bohemia,BOH,1912,Stockholm,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Vladimr Penc,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Bohuslav Pohl-polensk,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Bohuslav Pohl-polensk,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True,True
+Ondej Pukl,M,Bohemia,BOH,1900,Paris,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Ondej Pukl,M,Bohemia,BOH,1900,Paris,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Rudolf Richter,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's 10 kilometres Walk,No medal,Athletics,ATH,False,True
+Frantiek Slavk,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Frantiek Souek,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True,True
+Frantiek Souek,M,Bohemia,BOH,1906,Athina,Athletics,"Athletics Men's Discus Throw, Greek Style",No medal,Athletics,ATH,True,True
+Frantiek Souek,M,Bohemia,BOH,1906,Athina,Athletics,"Athletics Men's Javelin Throw, Freestyle",No medal,Athletics,ATH,True,True
+Frantiek Souek,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's Pentathlon (Ancient),No medal,Athletics,ATH,True,True
+Frantiek Souek,M,Bohemia,BOH,1908,London,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True,False
+Frantiek Souek,M,Bohemia,BOH,1908,London,Athletics,"Athletics Men's Javelin Throw, Freestyle",No medal,Athletics,ATH,True,False
+Miroslav Ustera,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True,True
+Miroslav Ustera,M,Bohemia,BOH,1906,Athina,Athletics,"Athletics Men's Discus Throw, Greek Style",No medal,Athletics,ATH,True,True
+Miroslav Ustera,M,Bohemia,BOH,1906,Athina,Athletics,Athletics Men's Pentathlon (Ancient),No medal,Athletics,ATH,True,True
+Miroslav Ustera,M,Bohemia,BOH,1908,London,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True,False
+Miroslav Ustera,M,Bohemia,BOH,1908,London,Athletics,"Athletics Men's Discus Throw, Greek Style",No medal,Athletics,ATH,True,False
+Miroslav Ustera,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True,False
+Bedich Vygoda,M,Bohemia,BOH,1912,Stockholm,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True

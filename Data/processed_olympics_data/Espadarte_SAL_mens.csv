@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Francisco Andrade,M,Espadarte,POR,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,Bronze,Sailing,SAL,False
-Joaquim Fiza,M,Espadarte,POR,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Francisco Andrade,M,Espadarte,POR,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,Bronze,Sailing,SAL,False,True
+Joaquim Fiza,M,Espadarte,POR,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,Bronze,Sailing,SAL,False,True

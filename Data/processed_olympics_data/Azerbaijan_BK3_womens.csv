@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dina Ulyanova,F,Azerbaijan,AZE,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,False
-Alexandra Mollenhauer,F,Azerbaijan,AZE,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,False
-Marcedes Walker,F,Azerbaijan,AZE,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,False
-Tiffany Hayes,F,Azerbaijan,AZE,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dina Ulyanova,F,Azerbaijan,AZE,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,False,True
+Alexandra Mollenhauer,F,Azerbaijan,AZE,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,False,True
+Marcedes Walker,F,Azerbaijan,AZE,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,False,True
+Tiffany Hayes,F,Azerbaijan,AZE,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,False,True

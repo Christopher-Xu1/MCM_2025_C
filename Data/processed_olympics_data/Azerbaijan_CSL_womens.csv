@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Inna Osypenko-radomska,F,Azerbaijan,AZE,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",Bronze,Canoeing,CSL,True
-Inna Osypenko-radomska,F,Azerbaijan,AZE,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Inna Osypenko-radomska,F,Azerbaijan,AZE,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",Bronze,Canoeing,CSL,True,True
+Inna Osypenko-radomska,F,Azerbaijan,AZE,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True

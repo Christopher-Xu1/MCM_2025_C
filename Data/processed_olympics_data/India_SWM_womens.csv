@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Shivani Kataria,F,India,IND,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False
-Nisha Millet,F,India,IND,2000,Sydney,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False
-Dolly Nazir,F,India,IND,1952,Helsinki,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Dolly Nazir,F,India,IND,1952,Helsinki,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Sangeeta Puri,F,India,IND,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Arati Saha,F,India,IND,1952,Helsinki,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Shikha Tandon,F,India,IND,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Shikha Tandon,F,India,IND,2004,Athina,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Patel Patel,F,India,IND,2020,Tokyo,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,False
-Dhinidhi Desinghu,F,India,IND,2024,Paris,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Shivani Kataria,F,India,IND,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Nisha Millet,F,India,IND,2000,Sydney,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Dolly Nazir,F,India,IND,1952,Helsinki,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Dolly Nazir,F,India,IND,1952,Helsinki,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Sangeeta Puri,F,India,IND,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Arati Saha,F,India,IND,1952,Helsinki,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Shikha Tandon,F,India,IND,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Shikha Tandon,F,India,IND,2004,Athina,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Patel Patel,F,India,IND,2020,Tokyo,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,False,True
+Dhinidhi Desinghu,F,India,IND,2024,Paris,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Joris Harmsen,M,Netherlands,NED,2020,Tokyo,Cycling BMX Racing,Men,No medal,Men,BMX,False
-Niek Kimmann,M,Netherlands,NED,2020,Tokyo,Cycling BMX Racing,Men,Gold,Men,BMX,False
-van Twan,M,Netherlands,NED,2020,Tokyo,Cycling BMX Racing,Men,No medal,Men,BMX,False
-Jaymio Brink,M,Netherlands,NED,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False
-van Dave,M,Netherlands,NED,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Joris Harmsen,M,Netherlands,NED,2020,Tokyo,Cycling BMX Racing,Men,No medal,Men,BMX,False,True
+Niek Kimmann,M,Netherlands,NED,2020,Tokyo,Cycling BMX Racing,Men,Gold,Men,BMX,False,True
+van Twan,M,Netherlands,NED,2020,Tokyo,Cycling BMX Racing,Men,No medal,Men,BMX,False,True
+Jaymio Brink,M,Netherlands,NED,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False,True
+van Dave,M,Netherlands,NED,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False,True

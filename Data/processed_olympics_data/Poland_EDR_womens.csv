@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aleksandra Szulc,F,Poland,POL,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Aleksandra Szulc,F,Poland,POL,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True
-Katarzyna Milczarek,F,Poland,POL,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Katarzyna Milczarek,F,Poland,POL,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True
-Sandra Sysojeva,F,Poland,POL,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Sandra Sysojeva,F,Poland,POL,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aleksandra Szulc,F,Poland,POL,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Aleksandra Szulc,F,Poland,POL,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True,True
+Katarzyna Milczarek,F,Poland,POL,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Katarzyna Milczarek,F,Poland,POL,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True,True
+Sandra Sysojeva,F,Poland,POL,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Sandra Sysojeva,F,Poland,POL,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True,True

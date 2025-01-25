@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Trevor Brown,M,Australia-2,AUS,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Brett Clarke,M,Australia-2,AUS,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Russell Lavale,M,Australia-2,AUS,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Jeff Plumb,M,Australia-2,AUS,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Trevor Brown,M,Australia-2,AUS,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Brett Clarke,M,Australia-2,AUS,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Russell Lavale,M,Australia-2,AUS,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Jeff Plumb,M,Australia-2,AUS,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True

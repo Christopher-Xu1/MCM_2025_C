@@ -1,35 +1,35 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marime Boye,F,Senegal,SEN,1980,Moskva,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Marime Boye,F,Senegal,SEN,1980,Moskva,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Franoise Damado,F,Senegal,SEN,1980,Moskva,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Franoise Damado,F,Senegal,SEN,1980,Moskva,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-N'Dye Dia,F,Senegal,SEN,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Ada Diop,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Ada Diop,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Ada Diop,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Aminata Diouf,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Aminata Diouf,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Aminata Diouf,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Mame Diouf,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True
-Mame Diouf,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Mame Diouf,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True
-Mame Diouf,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Fatou Fall,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Fatou Fall,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Julie Ndiaye,F,Senegal,SEN,1976,Montreal,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False
-Kne N'doye,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,True
-Kne N'doye,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Kne N'doye,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,True
-Ndew Niang,F,Senegal,SEN,1976,Montreal,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Ndew Niang,F,Senegal,SEN,1976,Montreal,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True
-Amy Sne,F,Senegal,SEN,2012,London,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,True
-Amy Sne,F,Senegal,SEN,2016,Rio de Janeiro,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,True
-Constance Senghor,F,Senegal,SEN,1984,Los Angeles,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False
-Ndye Souma,F,Senegal,SEN,2012,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Assatou (-ndiaye),F,Senegal,SEN,1988,Seoul,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Assatou (-ndiaye),F,Senegal,SEN,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Amy Thiam,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Amy Thiam,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Amy Thiam,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Amy Thiam,F,Senegal,SEN,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Saly Sarr,F,Senegal,SEN,2024,Paris,Athletics,Women's Triple Jump,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marime Boye,F,Senegal,SEN,1980,Moskva,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Marime Boye,F,Senegal,SEN,1980,Moskva,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Franoise Damado,F,Senegal,SEN,1980,Moskva,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Franoise Damado,F,Senegal,SEN,1980,Moskva,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+N'Dye Dia,F,Senegal,SEN,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Ada Diop,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Ada Diop,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Ada Diop,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,False
+Aminata Diouf,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Aminata Diouf,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Aminata Diouf,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,False
+Mame Diouf,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True,True
+Mame Diouf,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Mame Diouf,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True,False
+Mame Diouf,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,False
+Fatou Fall,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Fatou Fall,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Julie Ndiaye,F,Senegal,SEN,1976,Montreal,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False,True
+Kne N'doye,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,True,True
+Kne N'doye,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,False
+Kne N'doye,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,True,False
+Ndew Niang,F,Senegal,SEN,1976,Montreal,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Ndew Niang,F,Senegal,SEN,1976,Montreal,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True,True
+Amy Sne,F,Senegal,SEN,2012,London,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,True,True
+Amy Sne,F,Senegal,SEN,2016,Rio de Janeiro,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,True,False
+Constance Senghor,F,Senegal,SEN,1984,Los Angeles,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False,True
+Ndye Souma,F,Senegal,SEN,2012,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Assatou (-ndiaye),F,Senegal,SEN,1988,Seoul,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Assatou (-ndiaye),F,Senegal,SEN,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,False
+Amy Thiam,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Amy Thiam,F,Senegal,SEN,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Amy Thiam,F,Senegal,SEN,2004,Athina,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,False
+Amy Thiam,F,Senegal,SEN,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,False
+Saly Sarr,F,Senegal,SEN,2024,Paris,Athletics,Women's Triple Jump,No medal,Women's,ATH,False,True

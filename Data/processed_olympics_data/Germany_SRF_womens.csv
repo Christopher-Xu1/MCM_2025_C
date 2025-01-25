@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Camilla Kemp,F,Germany,GER,2024,Paris,Surfing,Women,No medal,Women,SRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Camilla Kemp,F,Germany,GER,2024,Paris,Surfing,Women,No medal,Women,SRF,False,True

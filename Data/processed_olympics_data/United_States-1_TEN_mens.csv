@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Brian Baker,M,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Robert Bryan,M,United States-1,USA,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Robert Bryan,M,United States-1,USA,2008,Beijing,Tennis,Tennis Men's Doubles,Bronze,Tennis,TEN,True
-Robert Bryan,M,United States-1,USA,2012,London,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,True
-Michael Bryan,M,United States-1,USA,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Michael Bryan,M,United States-1,USA,2008,Beijing,Tennis,Tennis Men's Doubles,Bronze,Tennis,TEN,True
-Michael Bryan,M,United States-1,USA,2012,London,Tennis,Tennis Mixed Doubles,Bronze,Tennis,TEN,True
-Michael Bryan,M,United States-1,USA,2012,London,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,True
-Edgar Leonard,M,United States-1,USA,1904,St. Louis,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,False
-Rajeev Ram,M,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,Silver,Tennis,TEN,True
-Rajeev Ram,M,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Watson Washburn,M,United States-1,USA,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Richard Iii,M,United States-1,USA,1924,Paris,Tennis,Tennis Mixed Doubles,Gold,Tennis,TEN,True
-Richard Iii,M,United States-1,USA,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Beals Wright,M,United States-1,USA,1904,St. Louis,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Brian Baker,M,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Robert Bryan,M,United States-1,USA,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Robert Bryan,M,United States-1,USA,2008,Beijing,Tennis,Tennis Men's Doubles,Bronze,Tennis,TEN,True,False
+Robert Bryan,M,United States-1,USA,2012,London,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,True,False
+Michael Bryan,M,United States-1,USA,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Michael Bryan,M,United States-1,USA,2008,Beijing,Tennis,Tennis Men's Doubles,Bronze,Tennis,TEN,True,False
+Michael Bryan,M,United States-1,USA,2012,London,Tennis,Tennis Mixed Doubles,Bronze,Tennis,TEN,True,False
+Michael Bryan,M,United States-1,USA,2012,London,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,True,False
+Edgar Leonard,M,United States-1,USA,1904,St. Louis,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,False,True
+Rajeev Ram,M,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,Silver,Tennis,TEN,True,True
+Rajeev Ram,M,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Watson Washburn,M,United States-1,USA,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Richard Iii,M,United States-1,USA,1924,Paris,Tennis,Tennis Mixed Doubles,Gold,Tennis,TEN,True,True
+Richard Iii,M,United States-1,USA,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Beals Wright,M,United States-1,USA,1904,St. Louis,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,False,True

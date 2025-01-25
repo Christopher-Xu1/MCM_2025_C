@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gonda (butters-),F,South Africa,RSA,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False
-Tanya Seymour,F,South Africa,RSA,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
-Victoria Scott-legendre,F,South Africa,RSA,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gonda (butters-),F,South Africa,RSA,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False,True
+Tanya Seymour,F,South Africa,RSA,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True
+Victoria Scott-legendre,F,South Africa,RSA,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,False,True

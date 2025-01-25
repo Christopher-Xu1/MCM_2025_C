@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elizabeth Andiego,F,Kenya,KEN,2012,London,Boxing,Boxing Women's Middleweight,No medal,Boxing,BOX,False
-Elizabeth Akinyi,F,Kenya,KEN,2020,Tokyo,Boxing,Women's Welter (64-69kg),No medal,Women's,BOX,False
-Christine Ongare,F,Kenya,KEN,2020,Tokyo,Boxing,Women's Fly (48-51kg),No medal,Women's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elizabeth Andiego,F,Kenya,KEN,2012,London,Boxing,Boxing Women's Middleweight,No medal,Boxing,BOX,False,True
+Elizabeth Akinyi,F,Kenya,KEN,2020,Tokyo,Boxing,Women's Welter (64-69kg),No medal,Women's,BOX,False,True
+Christine Ongare,F,Kenya,KEN,2020,Tokyo,Boxing,Women's Fly (48-51kg),No medal,Women's,BOX,False,True

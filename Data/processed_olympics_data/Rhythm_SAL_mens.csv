@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Henry Jr.,M,Rhythm,USA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Richard Jessup,M,Rhythm,USA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Julian Roosevelt,M,Rhythm,USA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Henry Jr.,M,Rhythm,USA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Richard Jessup,M,Rhythm,USA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Julian Roosevelt,M,Rhythm,USA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

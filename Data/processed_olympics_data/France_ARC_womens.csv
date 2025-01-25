@@ -1,41 +1,41 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Virginie Arnold,F,France,FRA,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Virginie Arnold,F,France,FRA,2008,Beijing,Archery,Archery Women's Team,Bronze,Archery,ARC,True
-Marie-Jose Bazin,F,France,FRA,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Marie-Jose Bazin,F,France,FRA,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Sverine Bonal,F,France,FRA,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Sverine Bonal,F,France,FRA,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Sverine Bonal,F,France,FRA,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Pierrette Dame,F,France,FRA,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Sophie Dodmont,F,France,FRA,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Sophie Dodmont,F,France,FRA,2008,Beijing,Archery,Archery Women's Team,Bronze,Archery,ARC,True
-Alexandra Fouace,F,France,FRA,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Alexandra Fouace,F,France,FRA,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Alexandra Fouace,F,France,FRA,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Herrad Frey,F,France,FRA,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Christine Gabillard,F,France,FRA,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Christine Gabillard,F,France,FRA,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Nathalie Hibon,F,France,FRA,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Nathalie Hibon,F,France,FRA,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Nathalie Hibon,F,France,FRA,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Nathalie Hibon,F,France,FRA,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Catherine Pellen,F,France,FRA,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Catherine Pellen,F,France,FRA,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Sylvie Pissis,F,France,FRA,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Brengre Schuh,F,France,FRA,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Brengre Schuh,F,France,FRA,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Brengre Schuh,F,France,FRA,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Brengre Schuh,F,France,FRA,2008,Beijing,Archery,Archery Women's Team,Bronze,Archery,ARC,True
-Brengre Schuh,F,France,FRA,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Aurore Trayan,F,France,FRA,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Aurore Trayan,F,France,FRA,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Marie-Christine (-nungesser),F,France,FRA,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Lisa Barbelin,F,France,FRA,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Lisa Barbelin,F,France,FRA,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
-Lisa Barbelin,F,France,FRA,2024,Paris,Archery,Women's Individual,Bronze,Women's,ARC,True
-Lisa Barbelin,F,France,FRA,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True
-Lisa Barbelin,F,France,FRA,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
-Amelie Cordeau,F,France,FRA,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Amelie Cordeau,F,France,FRA,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True
-Caroline Lopez,F,France,FRA,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Caroline Lopez,F,France,FRA,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Virginie Arnold,F,France,FRA,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Virginie Arnold,F,France,FRA,2008,Beijing,Archery,Archery Women's Team,Bronze,Archery,ARC,True,True
+Marie-Jose Bazin,F,France,FRA,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Marie-Jose Bazin,F,France,FRA,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Sverine Bonal,F,France,FRA,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Sverine Bonal,F,France,FRA,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Sverine Bonal,F,France,FRA,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Pierrette Dame,F,France,FRA,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Sophie Dodmont,F,France,FRA,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Sophie Dodmont,F,France,FRA,2008,Beijing,Archery,Archery Women's Team,Bronze,Archery,ARC,True,True
+Alexandra Fouace,F,France,FRA,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Alexandra Fouace,F,France,FRA,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Alexandra Fouace,F,France,FRA,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Herrad Frey,F,France,FRA,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Christine Gabillard,F,France,FRA,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Christine Gabillard,F,France,FRA,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Nathalie Hibon,F,France,FRA,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Nathalie Hibon,F,France,FRA,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Nathalie Hibon,F,France,FRA,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Nathalie Hibon,F,France,FRA,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Catherine Pellen,F,France,FRA,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Catherine Pellen,F,France,FRA,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Sylvie Pissis,F,France,FRA,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Brengre Schuh,F,France,FRA,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Brengre Schuh,F,France,FRA,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Brengre Schuh,F,France,FRA,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Brengre Schuh,F,France,FRA,2008,Beijing,Archery,Archery Women's Team,Bronze,Archery,ARC,True,False
+Brengre Schuh,F,France,FRA,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Aurore Trayan,F,France,FRA,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Aurore Trayan,F,France,FRA,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Marie-Christine (-nungesser),F,France,FRA,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Lisa Barbelin,F,France,FRA,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Lisa Barbelin,F,France,FRA,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True
+Lisa Barbelin,F,France,FRA,2024,Paris,Archery,Women's Individual,Bronze,Women's,ARC,True,False
+Lisa Barbelin,F,France,FRA,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True,False
+Lisa Barbelin,F,France,FRA,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True,False
+Amelie Cordeau,F,France,FRA,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Amelie Cordeau,F,France,FRA,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True,True
+Caroline Lopez,F,France,FRA,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Caroline Lopez,F,France,FRA,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True,True

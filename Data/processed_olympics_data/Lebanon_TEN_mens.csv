@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Benjamin Hassan,M,Lebanon,LBN,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
-Benjamin Hassan,M,Lebanon,LBN,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True
-Hady Habib,M,Lebanon,LBN,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
-Hady Habib,M,Lebanon,LBN,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Benjamin Hassan,M,Lebanon,LBN,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True,True
+Benjamin Hassan,M,Lebanon,LBN,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True,True
+Hady Habib,M,Lebanon,LBN,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True,True
+Hady Habib,M,Lebanon,LBN,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True,True

@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marcus Fraser,M,Australia,AUS,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Scott Hend,M,Australia,AUS,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Marc Leishman,M,Australia,AUS,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Cameron Smith,M,Australia,AUS,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Jason Day,M,Australia,AUS,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Woo Lee,M,Australia,AUS,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marcus Fraser,M,Australia,AUS,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Scott Hend,M,Australia,AUS,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Marc Leishman,M,Australia,AUS,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Cameron Smith,M,Australia,AUS,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Jason Day,M,Australia,AUS,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Woo Lee,M,Australia,AUS,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True

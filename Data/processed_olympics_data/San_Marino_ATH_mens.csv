@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gian Berardi,M,San Marino,SMR,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Ivano Bucci,M,San Marino,SMR,2008,Beijing,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Aldo Canti,M,San Marino,SMR,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Aldo Canti,M,San Marino,SMR,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Dominique Canti,M,San Marino,SMR,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Dominique Canti,M,San Marino,SMR,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Dominique Canti,M,San Marino,SMR,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Stefano Casali,M,San Marino,SMR,1980,Moskva,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
-Stefano Casali,M,San Marino,SMR,1984,Los Angeles,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
-Gian Macina,M,San Marino,SMR,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Gian Macina,M,San Marino,SMR,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Manlio Molinari,M,San Marino,SMR,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Manlio Molinari,M,San Marino,SMR,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Manlio Molinari,M,San Marino,SMR,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Manlio Molinari,M,San Marino,SMR,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Eugenio Rossi,M,San Marino,SMR,2016,Rio de Janeiro,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
-Nicola Selva,M,San Marino,SMR,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gian Berardi,M,San Marino,SMR,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Ivano Bucci,M,San Marino,SMR,2008,Beijing,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Aldo Canti,M,San Marino,SMR,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Aldo Canti,M,San Marino,SMR,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Dominique Canti,M,San Marino,SMR,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Dominique Canti,M,San Marino,SMR,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Dominique Canti,M,San Marino,SMR,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Stefano Casali,M,San Marino,SMR,1980,Moskva,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True,True
+Stefano Casali,M,San Marino,SMR,1984,Los Angeles,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True,False
+Gian Macina,M,San Marino,SMR,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Gian Macina,M,San Marino,SMR,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Manlio Molinari,M,San Marino,SMR,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Manlio Molinari,M,San Marino,SMR,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Manlio Molinari,M,San Marino,SMR,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Manlio Molinari,M,San Marino,SMR,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Eugenio Rossi,M,San Marino,SMR,2016,Rio de Janeiro,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False,True
+Nicola Selva,M,San Marino,SMR,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True

@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anja Osterman,F,Slovenia,SLO,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Anja Osterman,F,Slovenia,SLO,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
-Spela Ponomarenko,F,Slovenia,SLO,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Spela Ponomarenko,F,Slovenia,SLO,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anja Osterman,F,Slovenia,SLO,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Anja Osterman,F,Slovenia,SLO,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True
+Spela Ponomarenko,F,Slovenia,SLO,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Spela Ponomarenko,F,Slovenia,SLO,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True

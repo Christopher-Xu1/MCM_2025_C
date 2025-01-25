@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Adzo Kpossi,F,Togo,TOG,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Adzo Kpossi,F,Togo,TOG,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Agnes Gaitou,F,Togo,TOG,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Adzo Kpossi,F,Togo,TOG,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Adzo Kpossi,F,Togo,TOG,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Agnes Gaitou,F,Togo,TOG,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True

@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Shabana Akhtar,F,Pakistan,PAK,1996,Atlanta,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False
-Rabia Ashiq,F,Pakistan,PAK,2012,London,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False
-Shazia Hidayat,F,Pakistan,PAK,2000,Sydney,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,False
-Najma Parveen,F,Pakistan,PAK,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Sadaf Siddiqui,F,Pakistan,PAK,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Sumaira Zahoor,F,Pakistan,PAK,2004,Athina,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,False
-Najma Parveen,F,Pakistan,PAK,2020,Tokyo,Athletics,Women's 200m,No medal,Women's,ATH,True
-Faiqa Riaz,F,Pakistan,PAK,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Shabana Akhtar,F,Pakistan,PAK,1996,Atlanta,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False,True
+Rabia Ashiq,F,Pakistan,PAK,2012,London,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False,True
+Shazia Hidayat,F,Pakistan,PAK,2000,Sydney,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,False,True
+Najma Parveen,F,Pakistan,PAK,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Sadaf Siddiqui,F,Pakistan,PAK,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Sumaira Zahoor,F,Pakistan,PAK,2004,Athina,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,False,True
+Najma Parveen,F,Pakistan,PAK,2020,Tokyo,Athletics,Women's 200m,No medal,Women's,ATH,True,False
+Faiqa Riaz,F,Pakistan,PAK,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False,True

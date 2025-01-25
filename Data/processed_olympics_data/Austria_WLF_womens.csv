@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sarah Fischer,F,Austria,AUT,2020,Tokyo,Weightlifting,Women's +87kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sarah Fischer,F,Austria,AUT,2020,Tokyo,Weightlifting,Women's +87kg,No medal,Women's,WLF,False,True

@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Bodden,M,Cayman Islands,CAY,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,True
-John Bodden,M,Cayman Islands,CAY,1992,Barcelona,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Mark Clarke,M,Cayman Islands,CAY,1992,Barcelona,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Mark Clarke,M,Cayman Islands,CAY,1996,Atlanta,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Alun Davies,M,Cayman Islands,CAY,1996,Atlanta,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Carson Ebanks,M,Cayman Islands,CAY,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,True
-Carson Ebanks,M,Cayman Islands,CAY,1996,Atlanta,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-David Grogono,M,Cayman Islands,CAY,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Michael Joseph,M,Cayman Islands,CAY,1996,Atlanta,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Geoffrey Kirkconnell,M,Cayman Islands,CAY,1976,Montreal,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False
-Byron Marsh,M,Cayman Islands,CAY,1992,Barcelona,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Donald Mclean,M,Cayman Islands,CAY,1996,Atlanta,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Peter Milburn,M,Cayman Islands,CAY,1976,Montreal,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False
-John Stafford,M,Cayman Islands,CAY,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Bodden,M,Cayman Islands,CAY,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,True,True
+John Bodden,M,Cayman Islands,CAY,1992,Barcelona,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Mark Clarke,M,Cayman Islands,CAY,1992,Barcelona,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,True
+Mark Clarke,M,Cayman Islands,CAY,1996,Atlanta,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,False
+Alun Davies,M,Cayman Islands,CAY,1996,Atlanta,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Carson Ebanks,M,Cayman Islands,CAY,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,True,True
+Carson Ebanks,M,Cayman Islands,CAY,1996,Atlanta,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+David Grogono,M,Cayman Islands,CAY,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Michael Joseph,M,Cayman Islands,CAY,1996,Atlanta,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Geoffrey Kirkconnell,M,Cayman Islands,CAY,1976,Montreal,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False,True
+Byron Marsh,M,Cayman Islands,CAY,1992,Barcelona,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Donald Mclean,M,Cayman Islands,CAY,1996,Atlanta,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Peter Milburn,M,Cayman Islands,CAY,1976,Montreal,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False,True
+John Stafford,M,Cayman Islands,CAY,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True

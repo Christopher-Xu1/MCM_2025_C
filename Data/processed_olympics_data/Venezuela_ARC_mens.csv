@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elas Burgos,M,Venezuela,VEN,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Elas Burgos,M,Venezuela,VEN,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elas Burgos,M,Venezuela,VEN,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Elas Burgos,M,Venezuela,VEN,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False

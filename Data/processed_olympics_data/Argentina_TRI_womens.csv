@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nancy Lvarez,F,Argentina,ARG,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Romina Biagioli,F,Argentina,ARG,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Romina Biagioli,F,Argentina,ARG,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nancy Lvarez,F,Argentina,ARG,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Romina Biagioli,F,Argentina,ARG,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,True
+Romina Biagioli,F,Argentina,ARG,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,True,False

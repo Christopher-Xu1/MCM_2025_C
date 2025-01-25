@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fabienne In-albon,F,Switzerland,SUI,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False
-Albane Valenzuela,F,Switzerland,SUI,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,True
-Kim Metraux,F,Switzerland,SUI,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
-Albane Valenzuela,F,Switzerland,SUI,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
-Morgane Metraux,F,Switzerland,SUI,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
-Albane Valenzuela,F,Switzerland,SUI,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fabienne In-albon,F,Switzerland,SUI,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False,True
+Albane Valenzuela,F,Switzerland,SUI,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,True,True
+Kim Metraux,F,Switzerland,SUI,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True
+Albane Valenzuela,F,Switzerland,SUI,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,False
+Morgane Metraux,F,Switzerland,SUI,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True
+Albane Valenzuela,F,Switzerland,SUI,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,False

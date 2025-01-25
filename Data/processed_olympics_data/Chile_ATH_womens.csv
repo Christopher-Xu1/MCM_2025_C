@@ -1,42 +1,42 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marlene (-ebensperger),F,Chile,CHI,1956,Melbourne,Athletics,Athletics Women's Javelin Throw,Silver,Athletics,ATH,True
-Marlene (-ebensperger),F,Chile,CHI,1960,Roma,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True
-Natalia Soler,F,Chile,CHI,2008,Beijing,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True
-Natalia Soler,F,Chile,CHI,2012,London,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True
-Natalia Soler,F,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True
-Karen Pinto,F,Chile,CHI,2012,London,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True
-Karen Pinto,F,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True
-Marion Appeln,F,Chile,CHI,1948,London,Athletics,Athletics Women's 80 metres Hurdles,No medal,Athletics,ATH,True
-Marion Appeln,F,Chile,CHI,1948,London,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Marion Appeln,F,Chile,CHI,1952,Helsinki,Athletics,Athletics Women's 80 metres Hurdles,No medal,Athletics,ATH,True
-Isidora Ibacache,F,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Beatriz Buccicardi,F,Chile,CHI,1948,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Beatriz Buccicardi,F,Chile,CHI,1948,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Beatriz Buccicardi,F,Chile,CHI,1948,London,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Gerda Martn,F,Chile,CHI,1952,Helsinki,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False
-Raquel Martnez,F,Chile,CHI,1936,Berlin,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Adriana Pacheco,F,Chile,CHI,1948,London,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Adriana Pacheco,F,Chile,CHI,1952,Helsinki,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Adriana Pacheco,F,Chile,CHI,1952,Helsinki,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Rosa Arias,F,Chile,CHI,1968,Mexico City,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True
-Rosa Arias,F,Chile,CHI,1972,Munich,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True
-rika Fuente,F,Chile,CHI,1996,Atlanta,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-rika Fuente,F,Chile,CHI,2000,Sydney,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-rika Fuente,F,Chile,CHI,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-rika Fuente,F,Chile,CHI,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-rika Fuente,F,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Alejandra Snchez,F,Chile,CHI,1984,Los Angeles,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Alejandra Snchez,F,Chile,CHI,1984,Los Angeles,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True
-Mnica Muranda,F,Chile,CHI,1984,Los Angeles,Athletics,"Athletics Women's 3,000 metres",No medal,Athletics,ATH,True
-Mnica Muranda,F,Chile,CHI,1984,Los Angeles,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Natalia Jaramillo,F,Chile,CHI,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Natalia Jaramillo,F,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Edith Thomas,F,Chile,CHI,1952,Helsinki,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False
-Carolina Guzmn,F,Chile,CHI,2004,Athina,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,False
-Carlota Ulloa,F,Chile,CHI,1968,Mexico City,Athletics,Athletics Women's 80 metres Hurdles,No medal,Athletics,ATH,False
-Annegret Weller-schneider,F,Chile,CHI,1948,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Annegret Weller-schneider,F,Chile,CHI,1948,London,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Karen Gallardo,F,Chile,CHI,2020,Tokyo,Athletics,Women's Discus Throw,No medal,Women's,ATH,False
-Natalia Duco,F,Chile,CHI,2024,Paris,Athletics,Women's Shot Put,No medal,Women's,ATH,False
-Xennia Gallardo,F,Chile,CHI,2024,Paris,Athletics,Women's Shot Put,No medal,Women's,ATH,False
-Martina Weil,F,Chile,CHI,2024,Paris,Athletics,Women's 400m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marlene (-ebensperger),F,Chile,CHI,1956,Melbourne,Athletics,Athletics Women's Javelin Throw,Silver,Athletics,ATH,True,True
+Marlene (-ebensperger),F,Chile,CHI,1960,Roma,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True,False
+Natalia Soler,F,Chile,CHI,2008,Beijing,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True,True
+Natalia Soler,F,Chile,CHI,2012,London,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True,False
+Natalia Soler,F,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True,False
+Karen Pinto,F,Chile,CHI,2012,London,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True,True
+Karen Pinto,F,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True,False
+Marion Appeln,F,Chile,CHI,1948,London,Athletics,Athletics Women's 80 metres Hurdles,No medal,Athletics,ATH,True,True
+Marion Appeln,F,Chile,CHI,1948,London,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Marion Appeln,F,Chile,CHI,1952,Helsinki,Athletics,Athletics Women's 80 metres Hurdles,No medal,Athletics,ATH,True,False
+Isidora Ibacache,F,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Beatriz Buccicardi,F,Chile,CHI,1948,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Beatriz Buccicardi,F,Chile,CHI,1948,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Beatriz Buccicardi,F,Chile,CHI,1948,London,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Gerda Martn,F,Chile,CHI,1952,Helsinki,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False,True
+Raquel Martnez,F,Chile,CHI,1936,Berlin,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Adriana Pacheco,F,Chile,CHI,1948,London,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Adriana Pacheco,F,Chile,CHI,1952,Helsinki,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Adriana Pacheco,F,Chile,CHI,1952,Helsinki,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,False
+Rosa Arias,F,Chile,CHI,1968,Mexico City,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True,True
+Rosa Arias,F,Chile,CHI,1972,Munich,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True,False
+rika Fuente,F,Chile,CHI,1996,Atlanta,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,True
+rika Fuente,F,Chile,CHI,2000,Sydney,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+rika Fuente,F,Chile,CHI,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+rika Fuente,F,Chile,CHI,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+rika Fuente,F,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Alejandra Snchez,F,Chile,CHI,1984,Los Angeles,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Alejandra Snchez,F,Chile,CHI,1984,Los Angeles,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True,True
+Mnica Muranda,F,Chile,CHI,1984,Los Angeles,Athletics,"Athletics Women's 3,000 metres",No medal,Athletics,ATH,True,True
+Mnica Muranda,F,Chile,CHI,1984,Los Angeles,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,True
+Natalia Jaramillo,F,Chile,CHI,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,True
+Natalia Jaramillo,F,Chile,CHI,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Edith Thomas,F,Chile,CHI,1952,Helsinki,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False,True
+Carolina Guzmn,F,Chile,CHI,2004,Athina,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,False,True
+Carlota Ulloa,F,Chile,CHI,1968,Mexico City,Athletics,Athletics Women's 80 metres Hurdles,No medal,Athletics,ATH,False,True
+Annegret Weller-schneider,F,Chile,CHI,1948,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Annegret Weller-schneider,F,Chile,CHI,1948,London,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Karen Gallardo,F,Chile,CHI,2020,Tokyo,Athletics,Women's Discus Throw,No medal,Women's,ATH,False,True
+Natalia Duco,F,Chile,CHI,2024,Paris,Athletics,Women's Shot Put,No medal,Women's,ATH,False,True
+Xennia Gallardo,F,Chile,CHI,2024,Paris,Athletics,Women's Shot Put,No medal,Women's,ATH,False,True
+Martina Weil,F,Chile,CHI,2024,Paris,Athletics,Women's 400m,No medal,Women's,ATH,False,True

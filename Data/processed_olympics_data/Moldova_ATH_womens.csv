@@ -1,31 +1,31 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Natalia Artic-stratulat,F,Moldova,MDA,2016,Rio de Janeiro,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,False
-Olga Bolova,F,Moldova,MDA,1996,Atlanta,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True
-Olga Bolova,F,Moldova,MDA,2000,Sydney,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True
-Olga Bolova,F,Moldova,MDA,2004,Athina,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,True
-Natalia (nijelscaia-),F,Moldova,MDA,2004,Athina,Athletics,"Athletics Women's 10,000 metres",No medal,Athletics,ATH,True
-Natalia (nijelscaia-),F,Moldova,MDA,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Olesea Cojuhari,F,Moldova,MDA,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Olga Cristea,F,Moldova,MDA,2004,Athina,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Olga Cristea,F,Moldova,MDA,2008,Beijing,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Valentina Delion,F,Moldova,MDA,2008,Beijing,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Valentina Enachi,F,Moldova,MDA,1996,Atlanta,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Valentina Enachi,F,Moldova,MDA,2000,Sydney,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Lilia (tozlovanu-),F,Moldova,MDA,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Ina Gliznua,F,Moldova,MDA,1996,Atlanta,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True
-Ina Gliznua,F,Moldova,MDA,2000,Sydney,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True
-Ina Gliznua,F,Moldova,MDA,2004,Athina,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True
-Ina Gliznua,F,Moldova,MDA,2008,Beijing,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True
-Oxana Juravel,F,Moldova,MDA,2008,Beijing,Athletics,"Athletics Women's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
-Zalina (-petrivskaya),F,Moldova,MDA,2008,Beijing,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,True
-Zalina (-petrivskaya),F,Moldova,MDA,2012,London,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,True
-Zalina (-petrivskaya),F,Moldova,MDA,2016,Rio de Janeiro,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,True
-Marina Marghiev-nicienco,F,Moldova,MDA,2008,Beijing,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,True
-Marina Marghiev-nicienco,F,Moldova,MDA,2016,Rio de Janeiro,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,True
-Elena Popescu,F,Moldova,MDA,2012,London,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False
-Svetlana Epelev-tcaci,F,Moldova,MDA,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Dimitriana Surdu,F,Moldova,MDA,2016,Rio de Janeiro,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,False
-Dimitriana Bezede,F,Moldova,MDA,2020,Tokyo,Athletics,Women's Shot Put,No medal,Women's,ATH,False
-Alexandra Emilianov,F,Moldova,MDA,2020,Tokyo,Athletics,Women's Discus Throw,No medal,Women's,ATH,False
-Lilia Fisikovici,F,Moldova,MDA,2020,Tokyo,Athletics,Women's Marathon,No medal,Women's,ATH,False
-Zalina Petrivskaya,F,Moldova,MDA,2020,Tokyo,Athletics,Women's Hammer Throw,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Natalia Artic-stratulat,F,Moldova,MDA,2016,Rio de Janeiro,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,False,True
+Olga Bolova,F,Moldova,MDA,1996,Atlanta,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True,True
+Olga Bolova,F,Moldova,MDA,2000,Sydney,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True,False
+Olga Bolova,F,Moldova,MDA,2004,Athina,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,True,False
+Natalia (nijelscaia-),F,Moldova,MDA,2004,Athina,Athletics,"Athletics Women's 10,000 metres",No medal,Athletics,ATH,True,True
+Natalia (nijelscaia-),F,Moldova,MDA,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Olesea Cojuhari,F,Moldova,MDA,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Olga Cristea,F,Moldova,MDA,2004,Athina,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Olga Cristea,F,Moldova,MDA,2008,Beijing,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,False
+Valentina Delion,F,Moldova,MDA,2008,Beijing,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Valentina Enachi,F,Moldova,MDA,1996,Atlanta,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,True
+Valentina Enachi,F,Moldova,MDA,2000,Sydney,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Lilia (tozlovanu-),F,Moldova,MDA,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Ina Gliznua,F,Moldova,MDA,1996,Atlanta,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True,True
+Ina Gliznua,F,Moldova,MDA,2000,Sydney,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True,False
+Ina Gliznua,F,Moldova,MDA,2004,Athina,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True,False
+Ina Gliznua,F,Moldova,MDA,2008,Beijing,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True,False
+Oxana Juravel,F,Moldova,MDA,2008,Beijing,Athletics,"Athletics Women's 3,000 metres Steeplechase",No medal,Athletics,ATH,False,True
+Zalina (-petrivskaya),F,Moldova,MDA,2008,Beijing,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,True,True
+Zalina (-petrivskaya),F,Moldova,MDA,2012,London,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,True,False
+Zalina (-petrivskaya),F,Moldova,MDA,2016,Rio de Janeiro,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,True,False
+Marina Marghiev-nicienco,F,Moldova,MDA,2008,Beijing,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,True,True
+Marina Marghiev-nicienco,F,Moldova,MDA,2016,Rio de Janeiro,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,True,False
+Elena Popescu,F,Moldova,MDA,2012,London,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False,True
+Svetlana Epelev-tcaci,F,Moldova,MDA,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Dimitriana Surdu,F,Moldova,MDA,2016,Rio de Janeiro,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,False,True
+Dimitriana Bezede,F,Moldova,MDA,2020,Tokyo,Athletics,Women's Shot Put,No medal,Women's,ATH,False,True
+Alexandra Emilianov,F,Moldova,MDA,2020,Tokyo,Athletics,Women's Discus Throw,No medal,Women's,ATH,False,True
+Lilia Fisikovici,F,Moldova,MDA,2020,Tokyo,Athletics,Women's Marathon,No medal,Women's,ATH,False,True
+Zalina Petrivskaya,F,Moldova,MDA,2020,Tokyo,Athletics,Women's Hammer Throw,No medal,Women's,ATH,False,True

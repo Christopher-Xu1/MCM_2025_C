@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-J'maal Alexander,M,British Virgin Islands,IVB,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Stephen Augustine,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Keita Cline,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Keita Cline,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Keita Cline,M,British Virgin Islands,IVB,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Dion Crabbe,M,British Virgin Islands,IVB,2004,Athina,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
-Dean Greenaway,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Dean Greenaway,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Eldred Henry,M,British Virgin Islands,IVB,2016,Rio de Janeiro,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,False
-Guy Hill,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Guy Hill,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Lindel Hodge,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Lindel Hodge,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Lindel Hodge,M,British Virgin Islands,IVB,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Lindel Hodge,M,British Virgin Islands,IVB,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Eric Matthias,M,British Virgin Islands,IVB,2008,Beijing,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,False
-Jeremy Molyneaux,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Jeremy Molyneaux,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Norbert Rhymer,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Norbert Rhymer,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Karl Scatliffe,M,British Virgin Islands,IVB,1992,Barcelona,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
-Mario Todman,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Mario Todman,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Willis Todman,M,British Virgin Islands,IVB,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Willis Todman,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Ralston Varlack,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Ralston Varlack,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-McMASTER Kyron,M,British Virgin Islands,IVB,2020,Tokyo,Athletics,Men's 400m Hurdles,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+J'maal Alexander,M,British Virgin Islands,IVB,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Stephen Augustine,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Keita Cline,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Keita Cline,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,True
+Keita Cline,M,British Virgin Islands,IVB,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Dion Crabbe,M,British Virgin Islands,IVB,2004,Athina,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False,True
+Dean Greenaway,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Dean Greenaway,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Eldred Henry,M,British Virgin Islands,IVB,2016,Rio de Janeiro,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,False,True
+Guy Hill,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Guy Hill,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Lindel Hodge,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Lindel Hodge,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Lindel Hodge,M,British Virgin Islands,IVB,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Lindel Hodge,M,British Virgin Islands,IVB,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Eric Matthias,M,British Virgin Islands,IVB,2008,Beijing,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,False,True
+Jeremy Molyneaux,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Jeremy Molyneaux,M,British Virgin Islands,IVB,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Norbert Rhymer,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Norbert Rhymer,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Karl Scatliffe,M,British Virgin Islands,IVB,1992,Barcelona,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False,True
+Mario Todman,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Mario Todman,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Willis Todman,M,British Virgin Islands,IVB,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Willis Todman,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Ralston Varlack,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Ralston Varlack,M,British Virgin Islands,IVB,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+McMASTER Kyron,M,British Virgin Islands,IVB,2020,Tokyo,Athletics,Men's 400m Hurdles,No medal,Men's,ATH,False,True

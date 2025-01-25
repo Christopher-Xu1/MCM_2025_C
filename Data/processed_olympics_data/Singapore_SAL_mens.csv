@@ -1,24 +1,24 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-"Chan ""joseph""",M,Singapore,SGP,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-"Chan ""joseph""",M,Singapore,SGP,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Kum Chan,M,Singapore,SGP,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Xinru Cheng,M,Singapore,SGP,2012,London,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Xinru Cheng,M,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Koh Leong,M,Singapore,SGP,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Koh Leong,M,Singapore,SGP,2008,Beijing,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Terence Koh,M,Singapore,SGP,2008,Beijing,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Yi Lim,M,Singapore,SGP,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Justin Liu,M,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Leonard Ong,M,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Siew Her,M,Singapore,SGP,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Siew Her,M,Singapore,SGP,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Siew Her,M,Singapore,SGP,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-John Snowden,M,Singapore,SGP,1956,Melbourne,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Chi Tan,M,Singapore,SGP,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Kheng Tan,M,Singapore,SGP,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Kheng Tan,M,Singapore,SGP,2004,Athina,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Tan Haw,M,Singapore,SGP,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Xu Zhen,M,Singapore,SGP,2008,Beijing,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Ryan Lo,M,Singapore,SGP,2020,Tokyo,Sailing,Men's One Person Dinghy - Laser,No medal,Men's,SAL,True
-Maximilian Maeder,M,Singapore,SGP,2024,Paris,Sailing,Men's Kite,Bronze,Men's,SAL,False
-Ryan Lo,M,Singapore,SGP,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+"Chan ""joseph""",M,Singapore,SGP,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,True
+"Chan ""joseph""",M,Singapore,SGP,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Kum Chan,M,Singapore,SGP,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Xinru Cheng,M,Singapore,SGP,2012,London,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,True
+Xinru Cheng,M,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,False
+Koh Leong,M,Singapore,SGP,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Koh Leong,M,Singapore,SGP,2008,Beijing,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,False
+Terence Koh,M,Singapore,SGP,2008,Beijing,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Yi Lim,M,Singapore,SGP,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Justin Liu,M,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Leonard Ong,M,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Siew Her,M,Singapore,SGP,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Siew Her,M,Singapore,SGP,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Siew Her,M,Singapore,SGP,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+John Snowden,M,Singapore,SGP,1956,Melbourne,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Chi Tan,M,Singapore,SGP,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Kheng Tan,M,Singapore,SGP,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,True
+Kheng Tan,M,Singapore,SGP,2004,Athina,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Tan Haw,M,Singapore,SGP,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Xu Zhen,M,Singapore,SGP,2008,Beijing,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Ryan Lo,M,Singapore,SGP,2020,Tokyo,Sailing,Men's One Person Dinghy - Laser,No medal,Men's,SAL,True,True
+Maximilian Maeder,M,Singapore,SGP,2024,Paris,Sailing,Men's Kite,Bronze,Men's,SAL,False,True
+Ryan Lo,M,Singapore,SGP,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,True,False

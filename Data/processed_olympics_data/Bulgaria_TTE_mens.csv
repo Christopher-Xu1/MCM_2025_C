@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mariano Domuschiev,M,Bulgaria,BUL,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mariano Domuschiev,M,Bulgaria,BUL,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True

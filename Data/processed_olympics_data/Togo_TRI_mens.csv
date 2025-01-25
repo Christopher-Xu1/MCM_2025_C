@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eloi Adjavon,M,Togo,TOG,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eloi Adjavon,M,Togo,TOG,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True

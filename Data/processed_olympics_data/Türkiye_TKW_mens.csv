@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hakan Recber,M,Türkiye,TUR,2024,Paris,Taekwondo,Men -68kg,No medal,Men,TKW,False
-Kutalmis Atesli,M,Türkiye,TUR,2024,Paris,Taekwondo,Men +80kg,No medal,Men,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hakan Recber,M,Türkiye,TUR,2024,Paris,Taekwondo,Men -68kg,No medal,Men,TKW,False,True
+Kutalmis Atesli,M,Türkiye,TUR,2024,Paris,Taekwondo,Men +80kg,No medal,Men,TKW,False,True

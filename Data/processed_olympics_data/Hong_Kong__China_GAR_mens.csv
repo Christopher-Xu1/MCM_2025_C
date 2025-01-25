@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hung Shek,M,"Hong Kong, China",HKG,2020,Tokyo,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True
-Hung Shek,M,"Hong Kong, China",HKG,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True
-Hung Shek,M,"Hong Kong, China",HKG,2024,Paris,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hung Shek,M,"Hong Kong, China",HKG,2020,Tokyo,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True,True
+Hung Shek,M,"Hong Kong, China",HKG,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True,False
+Hung Shek,M,"Hong Kong, China",HKG,2024,Paris,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True,False

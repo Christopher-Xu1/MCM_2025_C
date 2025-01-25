@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maja Matevi,F,Slovenia-2,SLO,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Tina Pisnik,F,Slovenia-2,SLO,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maja Matevi,F,Slovenia-2,SLO,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Tina Pisnik,F,Slovenia-2,SLO,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True

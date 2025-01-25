@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Daniela (-tenger),F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Daniela (-tenger),F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Silver,Canoeing,CSL,True
-Elise Chabbey,F,Switzerland,SUI,2012,London,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Sabine Eichenberger,F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Silver,Canoeing,CSL,False
-Nagwa Desouki,F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Nagwa Desouki,F,Switzerland,SUI,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Sandra (-jni),F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Sandra (-jni),F,Switzerland,SUI,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Ingrid Haralamow-raimann,F,Switzerland,SUI,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Ingrid Haralamow-raimann,F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Ingrid Haralamow-raimann,F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Ingrid Haralamow-raimann,F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Silver,Canoeing,CSL,True
-Danielle Kamber,F,Switzerland,SUI,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Elisabeth Kser,F,Switzerland,SUI,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Gabriela (-verbiest),F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Silver,Canoeing,CSL,False
-Elsa Sidler,F,Switzerland,SUI,1952,Helsinki,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False
-Naemi Braendle,F,Switzerland,SUI,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,False
-Alena Marx,F,Switzerland,SUI,2020,Tokyo,Canoe Slalom,Women's Canoe,No medal,Women's,CSL,True
-Alena Marx,F,Switzerland,SUI,2024,Paris,Canoe Slalom,Women's Canoe Single,No medal,Women's,CSL,True
-Alena Marx,F,Switzerland,SUI,2024,Paris,Canoe Slalom,Women's Kayak Single,No medal,Women's,CSL,True
-Alena Marx,F,Switzerland,SUI,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Daniela (-tenger),F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Daniela (-tenger),F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Silver,Canoeing,CSL,True,True
+Elise Chabbey,F,Switzerland,SUI,2012,London,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Sabine Eichenberger,F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Silver,Canoeing,CSL,False,True
+Nagwa Desouki,F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Nagwa Desouki,F,Switzerland,SUI,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False
+Sandra (-jni),F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Sandra (-jni),F,Switzerland,SUI,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False
+Ingrid Haralamow-raimann,F,Switzerland,SUI,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Ingrid Haralamow-raimann,F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Ingrid Haralamow-raimann,F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Ingrid Haralamow-raimann,F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Silver,Canoeing,CSL,True,False
+Danielle Kamber,F,Switzerland,SUI,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Elisabeth Kser,F,Switzerland,SUI,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Gabriela (-verbiest),F,Switzerland,SUI,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Silver,Canoeing,CSL,False,True
+Elsa Sidler,F,Switzerland,SUI,1952,Helsinki,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False,True
+Naemi Braendle,F,Switzerland,SUI,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,False,True
+Alena Marx,F,Switzerland,SUI,2020,Tokyo,Canoe Slalom,Women's Canoe,No medal,Women's,CSL,True,True
+Alena Marx,F,Switzerland,SUI,2024,Paris,Canoe Slalom,Women's Canoe Single,No medal,Women's,CSL,True,False
+Alena Marx,F,Switzerland,SUI,2024,Paris,Canoe Slalom,Women's Kayak Single,No medal,Women's,CSL,True,False
+Alena Marx,F,Switzerland,SUI,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True,False

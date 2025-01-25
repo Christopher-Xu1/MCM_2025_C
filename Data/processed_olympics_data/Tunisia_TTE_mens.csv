@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sofiane Letaief,M,Tunisia,TUN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Gdara Hamam,M,Tunisia,TUN,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Lotfi Joudi,M,Tunisia,TUN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Mourad Sta,M,Tunisia,TUN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Mourad Sta,M,Tunisia,TUN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Mourad Sta,M,Tunisia,TUN,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Adam Hmam,M,Tunisia,TUN,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sofiane Letaief,M,Tunisia,TUN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Gdara Hamam,M,Tunisia,TUN,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Lotfi Joudi,M,Tunisia,TUN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Mourad Sta,M,Tunisia,TUN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Mourad Sta,M,Tunisia,TUN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Mourad Sta,M,Tunisia,TUN,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Adam Hmam,M,Tunisia,TUN,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True

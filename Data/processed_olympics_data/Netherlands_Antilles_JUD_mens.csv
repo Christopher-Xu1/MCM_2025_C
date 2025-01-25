@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jaime Felipa,M,Netherlands Antilles,AHO,1976,Montreal,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Willem Maduro,M,Netherlands Antilles,AHO,1976,Montreal,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Sergio Murray,M,Netherlands Antilles,AHO,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jaime Felipa,M,Netherlands Antilles,AHO,1976,Montreal,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Willem Maduro,M,Netherlands Antilles,AHO,1976,Montreal,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Sergio Murray,M,Netherlands Antilles,AHO,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True

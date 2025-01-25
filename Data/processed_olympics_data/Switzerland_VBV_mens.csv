@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Martin Laciga,M,Switzerland,SUI,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Paul Laciga,M,Switzerland,SUI,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Mirco Gerson,M,Switzerland,SUI,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,False
-Adrian Heidrich,M,Switzerland,SUI,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Martin Laciga,M,Switzerland,SUI,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Paul Laciga,M,Switzerland,SUI,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Mirco Gerson,M,Switzerland,SUI,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,False,True
+Adrian Heidrich,M,Switzerland,SUI,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,False,True

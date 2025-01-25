@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ahmed Jewel,M,Bangladesh,BAN,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Bazlur Rahman,M,Bangladesh,BAN,1988,Seoul,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Karar Rahman,M,Bangladesh,BAN,1996,Atlanta,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Mohamed Rahman,M,Bangladesh,BAN,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Mohammad Rahman,M,Bangladesh,BAN,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Mohammad Rahman,M,Bangladesh,BAN,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Mohammed Rana,M,Bangladesh,BAN,2008,Beijing,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Salam Salam,M,Bangladesh,BAN,1988,Seoul,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Karar Islam,M,Bangladesh,BAN,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Ariful Islam,M,Bangladesh,BAN,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False
-Islam Rafi,M,Bangladesh,BAN,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ahmed Jewel,M,Bangladesh,BAN,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Bazlur Rahman,M,Bangladesh,BAN,1988,Seoul,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Karar Rahman,M,Bangladesh,BAN,1996,Atlanta,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Mohamed Rahman,M,Bangladesh,BAN,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Mohammad Rahman,M,Bangladesh,BAN,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Mohammad Rahman,M,Bangladesh,BAN,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Mohammed Rana,M,Bangladesh,BAN,2008,Beijing,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Salam Salam,M,Bangladesh,BAN,1988,Seoul,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Karar Islam,M,Bangladesh,BAN,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Ariful Islam,M,Bangladesh,BAN,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False,True
+Islam Rafi,M,Bangladesh,BAN,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True

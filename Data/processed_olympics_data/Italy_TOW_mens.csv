@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Adriano Arnoldo,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Silvio Calzolari,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Romolo Carpi,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Giovanni Forni,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Rodolfo Rambozzi,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Carlo Schiappapietra,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Giuseppe Tonani,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Amedeo Zotti,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Adriano Arnoldo,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Silvio Calzolari,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Romolo Carpi,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Giovanni Forni,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Rodolfo Rambozzi,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Carlo Schiappapietra,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Giuseppe Tonani,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Amedeo Zotti,M,Italy,ITA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True

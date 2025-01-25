@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fernando Ciuffardi,M,Chile,CHI,2004,Athina,Tennis,Tennis Men's Singles,Bronze,Tennis,TEN,True
-Fernando Ciuffardi,M,Chile,CHI,2004,Athina,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,True
-Fernando Ciuffardi,M,Chile,CHI,2008,Beijing,Tennis,Tennis Men's Singles,Silver,Tennis,TEN,True
-Fernando Ciuffardi,M,Chile,CHI,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Nicols Fried,M,Chile,CHI,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Nicols Fried,M,Chile,CHI,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Nicols Fried,M,Chile,CHI,2004,Athina,Tennis,Tennis Men's Singles,Gold,Tennis,TEN,True
-Nicols Fried,M,Chile,CHI,2004,Athina,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,True
-Nicols Fried,M,Chile,CHI,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Nicols Fried,M,Chile,CHI,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Julio Martnez,M,Chile,CHI,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Hans Castillo,M,Chile,CHI,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Marcelo Mayorga,M,Chile,CHI,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Marcelo Mayorga,M,Chile,CHI,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Domingo Ponsa,M,Chile,CHI,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Domingo Ponsa,M,Chile,CHI,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Luis Ponsa,M,Chile,CHI,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Luis Ponsa,M,Chile,CHI,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Tomas Barrios,M,Chile,CHI,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True
-Tomas Barrios,M,Chile,CHI,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True
-Nicolas Jarry,M,Chile,CHI,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
-Nicolas Jarry,M,Chile,CHI,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True
-Alejandro Tabilo,M,Chile,CHI,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
-Alejandro Tabilo,M,Chile,CHI,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fernando Ciuffardi,M,Chile,CHI,2004,Athina,Tennis,Tennis Men's Singles,Bronze,Tennis,TEN,True,True
+Fernando Ciuffardi,M,Chile,CHI,2004,Athina,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,True,True
+Fernando Ciuffardi,M,Chile,CHI,2008,Beijing,Tennis,Tennis Men's Singles,Silver,Tennis,TEN,True,False
+Fernando Ciuffardi,M,Chile,CHI,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Nicols Fried,M,Chile,CHI,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Nicols Fried,M,Chile,CHI,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Nicols Fried,M,Chile,CHI,2004,Athina,Tennis,Tennis Men's Singles,Gold,Tennis,TEN,True,False
+Nicols Fried,M,Chile,CHI,2004,Athina,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,True,False
+Nicols Fried,M,Chile,CHI,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Nicols Fried,M,Chile,CHI,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Julio Martnez,M,Chile,CHI,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Hans Castillo,M,Chile,CHI,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Marcelo Mayorga,M,Chile,CHI,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Marcelo Mayorga,M,Chile,CHI,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Domingo Ponsa,M,Chile,CHI,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Domingo Ponsa,M,Chile,CHI,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Luis Ponsa,M,Chile,CHI,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Luis Ponsa,M,Chile,CHI,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Tomas Barrios,M,Chile,CHI,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True,True
+Tomas Barrios,M,Chile,CHI,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True,False
+Nicolas Jarry,M,Chile,CHI,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True,True
+Nicolas Jarry,M,Chile,CHI,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True,True
+Alejandro Tabilo,M,Chile,CHI,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True,True
+Alejandro Tabilo,M,Chile,CHI,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True,True

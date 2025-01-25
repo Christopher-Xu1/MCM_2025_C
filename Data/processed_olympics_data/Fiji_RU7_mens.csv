@@ -1,41 +1,41 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ro Dakuwaqa,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False
-Apisai Domolailai,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False
-Osea Kolinisau,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False
-Semi Kunatani,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False
-Viliame Mata,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False
-Leone Nakarawa,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False
-Vatemo Ravouvou,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False
-Savenaca Rawaca,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False
-Kitione Taliga,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False
-Josua Ratulevu,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False
-Seremaia Vunisa,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False
-Jasa Veremalua,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False
-Samisoni Viriviri,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False
-Masikau Baleiwairiki,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False
-Napolioni Bolaca,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False
-Vilimoni Botitu,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False
-Meli Derenalagi,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False
-Sireli Maqala,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False
-Waisea Nacuqu,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,True
-Kalione Nasoko,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False
-Semi Radradra,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False
-Aminiasi Tuimaba,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False
-Asaeli Tuivuaka,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False
-Jerry Tuwai,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,True
-Josua Vakurunabili,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False
-Jiuta Wainiqolo,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False
-Iowane Teba,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False
-Joseva Talacolo,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False
-Kaminieli Rasaku,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False
-Joji Nasova,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False
-Filipe Sauturaga,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False
-Jerry Tuwai,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,True
-Tamani Veilawa,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False
-Waisea Nacuqu,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,True
-Jeremaia Matana,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False
-Iosefo Baleiwairiki,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False
-Sevuloni Mocenacagi,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False
-Ponipate Loganimasi,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False
-Raisuqe Josaia,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False
-Selesitino Ravutaumada,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ro Dakuwaqa,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False,True
+Apisai Domolailai,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False,True
+Osea Kolinisau,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False,True
+Semi Kunatani,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False,True
+Viliame Mata,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False,True
+Leone Nakarawa,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False,True
+Vatemo Ravouvou,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False,True
+Savenaca Rawaca,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False,True
+Kitione Taliga,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False,True
+Josua Ratulevu,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False,True
+Seremaia Vunisa,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False,True
+Jasa Veremalua,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False,True
+Samisoni Viriviri,M,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Gold,Rugby,RU7,False,True
+Masikau Baleiwairiki,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False,True
+Napolioni Bolaca,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False,True
+Vilimoni Botitu,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False,True
+Meli Derenalagi,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False,True
+Sireli Maqala,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False,True
+Waisea Nacuqu,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,True,True
+Kalione Nasoko,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False,True
+Semi Radradra,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False,True
+Aminiasi Tuimaba,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False,True
+Asaeli Tuivuaka,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False,True
+Jerry Tuwai,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,True,True
+Josua Vakurunabili,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False,True
+Jiuta Wainiqolo,M,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Men Team,Gold,Men,RU7,False,True
+Iowane Teba,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False,True
+Joseva Talacolo,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False,True
+Kaminieli Rasaku,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False,True
+Joji Nasova,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False,True
+Filipe Sauturaga,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False,True
+Jerry Tuwai,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,True,False
+Tamani Veilawa,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False,True
+Waisea Nacuqu,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,True,False
+Jeremaia Matana,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False,True
+Iosefo Baleiwairiki,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False,True
+Sevuloni Mocenacagi,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False,True
+Ponipate Loganimasi,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False,True
+Raisuqe Josaia,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False,True
+Selesitino Ravutaumada,M,Fiji,FIJ,2024,Paris,Rugby Sevens,Men,Silver,Men,RU7,False,True

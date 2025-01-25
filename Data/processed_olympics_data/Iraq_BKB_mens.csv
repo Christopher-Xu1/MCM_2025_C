@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hamid Ahmed,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Yonan Emile,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-George Hanna,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Jalil Hashim,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Kadir Irfan,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Awni Kanaan,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Faras Saleh,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-D. Salman,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Mahdi Salman,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Khalil Wadoou,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hamid Ahmed,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Yonan Emile,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+George Hanna,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Jalil Hashim,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Kadir Irfan,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Awni Kanaan,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Faras Saleh,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+D. Salman,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Mahdi Salman,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Khalil Wadoou,M,Iraq,IRQ,1948,London,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True

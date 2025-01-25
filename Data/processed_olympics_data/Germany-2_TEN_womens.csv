@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Angelique Kerber,F,Germany-2,GER,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Angelique Kerber,F,Germany-2,GER,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Angelique Kerber,F,Germany-2,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Sabine Lisicki,F,Germany-2,GER,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Andrea Petkovic,F,Germany-2,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Angelique Kerber,F,Germany-2,GER,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Angelique Kerber,F,Germany-2,GER,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Angelique Kerber,F,Germany-2,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Sabine Lisicki,F,Germany-2,GER,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Andrea Petkovic,F,Germany-2,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True

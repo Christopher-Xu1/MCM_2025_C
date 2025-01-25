@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nina Amir,F,Israel,ISR,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Vered Buskila,F,Israel,ISR,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Vered Buskila,F,Israel,ISR,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Vered Buskila,F,Israel,ISR,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Gil Cohen,F,Israel,ISR,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Gil Cohen,F,Israel,ISR,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Maayan Davidovich,F,Israel,ISR,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Maayan Davidovich,F,Israel,ISR,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Nufar Edelman,F,Israel,ISR,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Nufar Edelman,F,Israel,ISR,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Anat (-kreiz),F,Israel,ISR,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Anat (-kreiz),F,Israel,ISR,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Michal Hein,F,Israel,ISR,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Shani Kedmi,F,Israel,ISR,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Shani Kedmi,F,Israel,ISR,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Nike Kornecki,F,Israel,ISR,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Nike Kornecki,F,Israel,ISR,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Lee-El Korzits,F,Israel,ISR,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Lee-El Korzits,F,Israel,ISR,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Noya Bar,F,Israel,ISR,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False
-Shay Kakon,F,Israel,ISR,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,True
-Katy Spychakov,F,Israel,ISR,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False
-Shahar Tibi,F,Israel,ISR,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False
-Sharon Kantor,F,Israel,ISR,2024,Paris,Sailing,Women's Windsurfing,Silver,Women's,SAL,False
-Gal Zukerman,F,Israel,ISR,2024,Paris,Sailing,Women's Kite,No medal,Women's,SAL,False
-Shay Kakon,F,Israel,ISR,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,True
-Noa Lasry,F,Israel,ISR,2024,Paris,Sailing,Mixed Dinghy,No medal,Mixed,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nina Amir,F,Israel,ISR,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Vered Buskila,F,Israel,ISR,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Vered Buskila,F,Israel,ISR,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Vered Buskila,F,Israel,ISR,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Gil Cohen,F,Israel,ISR,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Gil Cohen,F,Israel,ISR,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Maayan Davidovich,F,Israel,ISR,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Maayan Davidovich,F,Israel,ISR,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Nufar Edelman,F,Israel,ISR,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Nufar Edelman,F,Israel,ISR,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Anat (-kreiz),F,Israel,ISR,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Anat (-kreiz),F,Israel,ISR,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Michal Hein,F,Israel,ISR,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Shani Kedmi,F,Israel,ISR,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Shani Kedmi,F,Israel,ISR,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Nike Kornecki,F,Israel,ISR,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Nike Kornecki,F,Israel,ISR,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Lee-El Korzits,F,Israel,ISR,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Lee-El Korzits,F,Israel,ISR,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Noya Bar,F,Israel,ISR,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False,True
+Shay Kakon,F,Israel,ISR,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,True,True
+Katy Spychakov,F,Israel,ISR,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False,True
+Shahar Tibi,F,Israel,ISR,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False,True
+Sharon Kantor,F,Israel,ISR,2024,Paris,Sailing,Women's Windsurfing,Silver,Women's,SAL,False,True
+Gal Zukerman,F,Israel,ISR,2024,Paris,Sailing,Women's Kite,No medal,Women's,SAL,False,True
+Shay Kakon,F,Israel,ISR,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,True,False
+Noa Lasry,F,Israel,ISR,2024,Paris,Sailing,Mixed Dinghy,No medal,Mixed,SAL,False,True

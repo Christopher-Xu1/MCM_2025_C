@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carsten Jensen,M,Denmark,DEN,1984,Los Angeles,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Tommy Mortensen,M,Denmark,DEN,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carsten Jensen,M,Denmark,DEN,1984,Los Angeles,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Tommy Mortensen,M,Denmark,DEN,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True

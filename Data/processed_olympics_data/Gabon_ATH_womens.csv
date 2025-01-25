@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Odette (-kingbou),F,Gabon,GAB,1984,Los Angeles,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,False
-Marlyse Nsourou,F,Gabon,GAB,2004,Athina,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False
-Gisle (-bekale),F,Gabon,GAB,1984,Los Angeles,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Gisle (-bekale),F,Gabon,GAB,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Anas Oyembo,F,Gabon,GAB,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Perennes Zang-milama,F,Gabon,GAB,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Perennes Zang-milama,F,Gabon,GAB,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Perennes Zang-milama,F,Gabon,GAB,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Odette (-kingbou),F,Gabon,GAB,1984,Los Angeles,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,False,True
+Marlyse Nsourou,F,Gabon,GAB,2004,Athina,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False,True
+Gisle (-bekale),F,Gabon,GAB,1984,Los Angeles,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Gisle (-bekale),F,Gabon,GAB,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Anas Oyembo,F,Gabon,GAB,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Perennes Zang-milama,F,Gabon,GAB,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Perennes Zang-milama,F,Gabon,GAB,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Perennes Zang-milama,F,Gabon,GAB,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False

@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vladimir Birsa,M,Moldova,MDA,1996,Atlanta,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Alexandru Bratan,M,Moldova,MDA,2000,Sydney,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-Alexandru Bratan,M,Moldova,MDA,2004,Athina,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-Eugen Bratan,M,Moldova,MDA,2004,Athina,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Eugen Bratan,M,Moldova,MDA,2008,Beijing,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Serghei Cechir,M,Moldova,MDA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Anatolii Crcu,M,Moldova,MDA,2012,London,Weightlifting,Weightlifting Men's Middle-Heavyweight,Bronze,Weightlifting,WLF,False
-Serghei (kretsov-),M,Moldova,MDA,1996,Atlanta,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Alexandru Dudoglo,M,Moldova,MDA,2008,Beijing,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Igor Grabucea,M,Moldova,MDA,2008,Beijing,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Andrei Guu,M,Moldova,MDA,2008,Beijing,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Vladimir Popov,M,Moldova,MDA,1996,Atlanta,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Vladimir Popov,M,Moldova,MDA,2000,Sydney,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Alexandru Pac,M,Moldova,MDA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Vadim Vacarciuc,M,Moldova,MDA,1996,Atlanta,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Vadim Vacarciuc,M,Moldova,MDA,2000,Sydney,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Vadim Vacarciuc,M,Moldova,MDA,2004,Athina,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Vadim Vacarciuc,M,Moldova,MDA,2008,Beijing,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Mihai Vihodet,M,Moldova,MDA,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False
-Marin Robu,M,Moldova,MDA,2020,Tokyo,Weightlifting,Men's 73kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vladimir Birsa,M,Moldova,MDA,1996,Atlanta,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Alexandru Bratan,M,Moldova,MDA,2000,Sydney,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,True
+Alexandru Bratan,M,Moldova,MDA,2004,Athina,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,False
+Eugen Bratan,M,Moldova,MDA,2004,Athina,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,True
+Eugen Bratan,M,Moldova,MDA,2008,Beijing,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,False
+Serghei Cechir,M,Moldova,MDA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Anatolii Crcu,M,Moldova,MDA,2012,London,Weightlifting,Weightlifting Men's Middle-Heavyweight,Bronze,Weightlifting,WLF,False,True
+Serghei (kretsov-),M,Moldova,MDA,1996,Atlanta,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Alexandru Dudoglo,M,Moldova,MDA,2008,Beijing,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Igor Grabucea,M,Moldova,MDA,2008,Beijing,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Andrei Guu,M,Moldova,MDA,2008,Beijing,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Vladimir Popov,M,Moldova,MDA,1996,Atlanta,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,True
+Vladimir Popov,M,Moldova,MDA,2000,Sydney,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,False
+Alexandru Pac,M,Moldova,MDA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Vadim Vacarciuc,M,Moldova,MDA,1996,Atlanta,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True,True
+Vadim Vacarciuc,M,Moldova,MDA,2000,Sydney,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,False
+Vadim Vacarciuc,M,Moldova,MDA,2004,Athina,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,False
+Vadim Vacarciuc,M,Moldova,MDA,2008,Beijing,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,False
+Mihai Vihodet,M,Moldova,MDA,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False,True
+Marin Robu,M,Moldova,MDA,2020,Tokyo,Weightlifting,Men's 73kg,No medal,Men's,WLF,False,True

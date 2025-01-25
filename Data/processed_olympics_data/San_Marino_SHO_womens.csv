@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Daniela Din,F,San Marino,SMR,2008,Beijing,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,False
-Emanuela Felici,F,San Marino,SMR,2000,Sydney,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True
-Emanuela Felici,F,San Marino,SMR,2004,Athina,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True
-Nadia Marchi,F,San Marino,SMR,1996,Atlanta,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Alessandra Perilli,F,San Marino,SMR,2012,London,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True
-Alessandra Perilli,F,San Marino,SMR,2016,Rio de Janeiro,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True
-Arianna Perilli,F,San Marino,SMR,2016,Rio de Janeiro,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,False
-Alessandra Perilli,F,San Marino,SMR,2020,Tokyo,Shooting,Trap Women,Bronze,Trap,SHO,True
-Alessandra Perilli,F,San Marino,SMR,2020,Tokyo,Shooting,Trap Mixed Team,Silver,Trap,SHO,True
-Alessandra Perilli,F,San Marino,SMR,2024,Paris,Shooting,Trap Women,No medal,Trap,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Daniela Din,F,San Marino,SMR,2008,Beijing,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,False,True
+Emanuela Felici,F,San Marino,SMR,2000,Sydney,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True,True
+Emanuela Felici,F,San Marino,SMR,2004,Athina,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True,False
+Nadia Marchi,F,San Marino,SMR,1996,Atlanta,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Alessandra Perilli,F,San Marino,SMR,2012,London,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True,True
+Alessandra Perilli,F,San Marino,SMR,2016,Rio de Janeiro,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True,False
+Arianna Perilli,F,San Marino,SMR,2016,Rio de Janeiro,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,False,True
+Alessandra Perilli,F,San Marino,SMR,2020,Tokyo,Shooting,Trap Women,Bronze,Trap,SHO,True,False
+Alessandra Perilli,F,San Marino,SMR,2020,Tokyo,Shooting,Trap Mixed Team,Silver,Trap,SHO,True,False
+Alessandra Perilli,F,San Marino,SMR,2024,Paris,Shooting,Trap Women,No medal,Trap,SHO,True,False

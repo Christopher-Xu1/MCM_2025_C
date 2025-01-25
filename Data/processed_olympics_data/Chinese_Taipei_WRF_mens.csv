@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chi Man-hsien,M,Chinese Taipei,TPE,1988,Seoul,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Hour Jiunn-yih,M,Chinese Taipei,TPE,1988,Seoul,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Hsu Chin-hsiung,M,Chinese Taipei,TPE,1972,Munich,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False
-Huang Chien-lung,M,Chinese Taipei,TPE,1988,Seoul,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Lo Chao-cheng,M,Chinese Taipei,TPE,1988,Seoul,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Lou Wie-ki,M,Chinese Taipei,TPE,1984,Los Angeles,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chi Man-hsien,M,Chinese Taipei,TPE,1988,Seoul,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Hour Jiunn-yih,M,Chinese Taipei,TPE,1988,Seoul,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Hsu Chin-hsiung,M,Chinese Taipei,TPE,1972,Munich,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False,True
+Huang Chien-lung,M,Chinese Taipei,TPE,1988,Seoul,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Lo Chao-cheng,M,Chinese Taipei,TPE,1988,Seoul,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Lou Wie-ki,M,Chinese Taipei,TPE,1984,Los Angeles,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True

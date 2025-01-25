@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Scott Muller,M,Panama,PAN,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Scott Muller,M,Panama,PAN,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True

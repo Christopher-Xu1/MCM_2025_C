@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-George Bennett,M,New Zealand,NZL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-George Bennett,M,New Zealand,NZL,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Patrick Bevin,M,New Zealand,NZL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Patrick Bevin,M,New Zealand,NZL,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Laurence Pithie,M,New Zealand,NZL,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Laurence Pithie,M,New Zealand,NZL,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Corbin Strong,M,New Zealand,NZL,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+George Bennett,M,New Zealand,NZL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+George Bennett,M,New Zealand,NZL,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Patrick Bevin,M,New Zealand,NZL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Patrick Bevin,M,New Zealand,NZL,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Laurence Pithie,M,New Zealand,NZL,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Laurence Pithie,M,New Zealand,NZL,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Corbin Strong,M,New Zealand,NZL,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True

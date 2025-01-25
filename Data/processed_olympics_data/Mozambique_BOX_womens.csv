@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Adosinda Gramane,F,Mozambique,MOZ,2020,Tokyo,Boxing,Women's Middle (69-75kg),No medal,Women's,BOX,False
-Helena Panguana,F,Mozambique,MOZ,2020,Tokyo,Boxing,Women's Welter (64-69kg),No medal,Women's,BOX,False
-dos Lucas,F,Mozambique,MOZ,2024,Paris,Boxing,Women's 66kg,No medal,Women's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Adosinda Gramane,F,Mozambique,MOZ,2020,Tokyo,Boxing,Women's Middle (69-75kg),No medal,Women's,BOX,False,True
+Helena Panguana,F,Mozambique,MOZ,2020,Tokyo,Boxing,Women's Welter (64-69kg),No medal,Women's,BOX,False,True
+dos Lucas,F,Mozambique,MOZ,2024,Paris,Boxing,Women's 66kg,No medal,Women's,BOX,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Christian Zimmermann,M,Palestine,PLE,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Christian Zimmermann,M,Palestine,PLE,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True

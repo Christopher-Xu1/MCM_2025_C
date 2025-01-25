@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ismail Keles,M,Türkiye,TUR,2024,Paris,Shooting,10m Air Pistol Men,No medal,10m,SHO,True
-Ismail Keles,M,Türkiye,TUR,2024,Paris,Shooting,10m Air Pistol Mixed Team,No medal,10m,SHO,True
-Yusuf Dikec,M,Türkiye,TUR,2024,Paris,Shooting,10m Air Pistol Men,No medal,10m,SHO,True
-Yusuf Dikec,M,Türkiye,TUR,2024,Paris,Shooting,10m Air Pistol Mixed Team,Silver,10m,SHO,True
-Oguzhan Tuzun,M,Türkiye,TUR,2024,Paris,Shooting,Trap Men,No medal,Trap,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ismail Keles,M,Türkiye,TUR,2024,Paris,Shooting,10m Air Pistol Men,No medal,10m,SHO,True,True
+Ismail Keles,M,Türkiye,TUR,2024,Paris,Shooting,10m Air Pistol Mixed Team,No medal,10m,SHO,True,True
+Yusuf Dikec,M,Türkiye,TUR,2024,Paris,Shooting,10m Air Pistol Men,No medal,10m,SHO,True,True
+Yusuf Dikec,M,Türkiye,TUR,2024,Paris,Shooting,10m Air Pistol Mixed Team,Silver,10m,SHO,True,True
+Oguzhan Tuzun,M,Türkiye,TUR,2024,Paris,Shooting,Trap Men,No medal,Trap,SHO,False,True

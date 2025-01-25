@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Faisal Al-basam,M,Saudi Arabia,KSA,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Mansour Al-hamad,M,Saudi Arabia,KSA,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Adel Al-jabrin,M,Saudi Arabia,KSA,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Sameer Jawdat,M,Saudi Arabia,KSA,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Youssef Jawdat,M,Saudi Arabia,KSA,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Faisal Al-basam,M,Saudi Arabia,KSA,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Mansour Al-hamad,M,Saudi Arabia,KSA,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Adel Al-jabrin,M,Saudi Arabia,KSA,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Sameer Jawdat,M,Saudi Arabia,KSA,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Youssef Jawdat,M,Saudi Arabia,KSA,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True

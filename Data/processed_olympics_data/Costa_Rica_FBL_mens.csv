@@ -1,48 +1,48 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jose Campos,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,True
-Jose Campos,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,True
-Roger Calvo,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Jairo Obando,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Omar Rodrguez,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-William Salas,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Pablo Quesada,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Juan Reid,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Germn Jimnez,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Evaristo Salas,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Enrique Harvey,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Jnior Campbell,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Neighel Morales,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Luis Gonzalez,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Leony Reyes,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Luis Galagarza,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Ricardo Rodrguez,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Alejandro Rojas,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Warren Quesada,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-William Morales,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Carlos Valverde,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Francisco Ramrez,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Csar Cspedes,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Carlos Jimnez,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Jos Ramrez,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Dennis Herron,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Javier Figueroa,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Julio Piedra,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Roy Medrano,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Marvin Obando,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,True
-Marvin Obando,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,True
-Herberth Quesada,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Ricardo Gutirrez,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Marco Porras,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-lvaro Chacn,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Pablo Snchez,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Carlos Morales,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Eric Bernard,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Miguel Lacy,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Alvaro Artavia,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Carlos Toppings,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,True
-Carlos Toppings,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,True
-Michael Corralesis,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Tomas Torres,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Jos Chan,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Jorge Hooker,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Whayne Harris,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jose Campos,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,True,True
+Jose Campos,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,True,False
+Roger Calvo,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Jairo Obando,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Omar Rodrguez,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+William Salas,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Pablo Quesada,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Juan Reid,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Germn Jimnez,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Evaristo Salas,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Enrique Harvey,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Jnior Campbell,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Neighel Morales,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Luis Gonzalez,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Leony Reyes,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Luis Galagarza,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Ricardo Rodrguez,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Alejandro Rojas,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Warren Quesada,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+William Morales,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Carlos Valverde,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Francisco Ramrez,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Csar Cspedes,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Carlos Jimnez,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Jos Ramrez,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Dennis Herron,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Javier Figueroa,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Julio Piedra,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Roy Medrano,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Marvin Obando,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,True,True
+Marvin Obando,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,True,False
+Herberth Quesada,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Ricardo Gutirrez,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Marco Porras,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+lvaro Chacn,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Pablo Snchez,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Carlos Morales,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Eric Bernard,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Miguel Lacy,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Alvaro Artavia,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Carlos Toppings,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,True,True
+Carlos Toppings,M,Costa Rica,CRC,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,True,False
+Michael Corralesis,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Tomas Torres,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Jos Chan,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Jorge Hooker,M,Costa Rica,CRC,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Whayne Harris,M,Costa Rica,CRC,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True

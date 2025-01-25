@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohamed Abdullah,M,Bangladesh,BAN,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Masbah Ahmmed,M,Bangladesh,BAN,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Mohamed Alam,M,Bangladesh,BAN,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Mohamed Alam,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Mohamed Alam,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Golam Ambia,M,Bangladesh,BAN,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Golam Ambia,M,Bangladesh,BAN,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Shahanuddin Choudhury,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Shahanuddin Choudhury,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Shahanuddin Choudhury,M,Bangladesh,BAN,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Shahanuddin Choudhury,M,Bangladesh,BAN,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Saidur Dawn,M,Bangladesh,BAN,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Saidur Dawn,M,Bangladesh,BAN,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Mohamed Hasan,M,Bangladesh,BAN,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Mohamed Hasan,M,Bangladesh,BAN,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Mohamed Jalal,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Mohamed Jalal,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Mohamed Jalal,M,Bangladesh,BAN,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Mohan Khan,M,Bangladesh,BAN,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Mohamed Milzer,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Mohamed Milzer,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Mohamed Milzer,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Mohammad Shamsuddin,M,Bangladesh,BAN,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Bimal Tarafdar,M,Bangladesh,BAN,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Jahir Rayhan,M,Bangladesh,BAN,2020,Tokyo,Athletics,Men's 400m,No medal,Men's,ATH,False
-Imranur Rahman,M,Bangladesh,BAN,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohamed Abdullah,M,Bangladesh,BAN,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Masbah Ahmmed,M,Bangladesh,BAN,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Mohamed Alam,M,Bangladesh,BAN,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Mohamed Alam,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Mohamed Alam,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Golam Ambia,M,Bangladesh,BAN,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Golam Ambia,M,Bangladesh,BAN,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Shahanuddin Choudhury,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Shahanuddin Choudhury,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,True
+Shahanuddin Choudhury,M,Bangladesh,BAN,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Shahanuddin Choudhury,M,Bangladesh,BAN,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Saidur Dawn,M,Bangladesh,BAN,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Saidur Dawn,M,Bangladesh,BAN,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Mohamed Hasan,M,Bangladesh,BAN,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Mohamed Hasan,M,Bangladesh,BAN,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Mohamed Jalal,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Mohamed Jalal,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Mohamed Jalal,M,Bangladesh,BAN,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Mohan Khan,M,Bangladesh,BAN,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Mohamed Milzer,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Mohamed Milzer,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Mohamed Milzer,M,Bangladesh,BAN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Mohammad Shamsuddin,M,Bangladesh,BAN,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Bimal Tarafdar,M,Bangladesh,BAN,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Jahir Rayhan,M,Bangladesh,BAN,2020,Tokyo,Athletics,Men's 400m,No medal,Men's,ATH,False,True
+Imranur Rahman,M,Bangladesh,BAN,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True

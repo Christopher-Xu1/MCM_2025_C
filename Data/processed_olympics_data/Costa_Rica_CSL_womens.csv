@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gilda (-fix),F,Costa Rica,CRC,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Gilda (-fix),F,Costa Rica,CRC,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gilda (-fix),F,Costa Rica,CRC,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Gilda (-fix),F,Costa Rica,CRC,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False

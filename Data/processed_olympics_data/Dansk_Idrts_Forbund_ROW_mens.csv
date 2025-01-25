@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Knud Bay,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,True
-Knud Bay,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Christian Bielefeldt,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,True
-Christian Bielefeldt,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Hannibal Stergaard,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 mile),No medal,Rowing,ROW,True
-Hannibal Stergaard,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Henning Rasmussen,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 mile),No medal,Rowing,ROW,True
-Henning Rasmussen,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Emanuel Saugman,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,True
-Emanuel Saugman,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Axel Steinthal,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 mile),No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Knud Bay,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,True,True
+Knud Bay,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Christian Bielefeldt,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,True,True
+Christian Bielefeldt,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Hannibal Stergaard,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 mile),No medal,Rowing,ROW,True,True
+Hannibal Stergaard,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Henning Rasmussen,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 mile),No medal,Rowing,ROW,True,True
+Henning Rasmussen,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Emanuel Saugman,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,True,True
+Emanuel Saugman,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Axel Steinthal,M,Dansk Idrts Forbund,DEN,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 mile),No medal,Rowing,ROW,False,True

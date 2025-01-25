@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jos Barrn,M,A North American Team,MEX,1900,Paris,Polo,Polo Men's Polo,Bronze,Polo,POL,True
-Jos Barrn,M,A North American Team,MEX,1900,Paris,Polo,Polo Men's Polo,Bronze,Polo,POL,True
-Jos Barrn,M,A North American Team,MEX,1900,Paris,Polo,Polo Men's Polo,Bronze,Polo,POL,True
-William Wright,M,A North American Team,USA,1900,Paris,Polo,Polo Men's Polo,Bronze,Polo,POL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jos Barrn,M,A North American Team,MEX,1900,Paris,Polo,Polo Men's Polo,Bronze,Polo,POL,True,True
+Jos Barrn,M,A North American Team,MEX,1900,Paris,Polo,Polo Men's Polo,Bronze,Polo,POL,True,True
+Jos Barrn,M,A North American Team,MEX,1900,Paris,Polo,Polo Men's Polo,Bronze,Polo,POL,True,True
+William Wright,M,A North American Team,USA,1900,Paris,Polo,Polo Men's Polo,Bronze,Polo,POL,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kohei Yamamoto,M,Japan,JPN,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kohei Yamamoto,M,Japan,JPN,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False,True

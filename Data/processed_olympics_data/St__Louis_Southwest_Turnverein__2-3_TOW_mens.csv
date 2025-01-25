@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Oscar Friede,M,St. Louis Southwest Turnverein #2-3,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Bronze,Tug-Of-War,TOW,False
-Charles Haberkorn,M,St. Louis Southwest Turnverein #2-3,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Bronze,Tug-Of-War,TOW,False
-Harry Jacobs,M,St. Louis Southwest Turnverein #2-3,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Bronze,Tug-Of-War,TOW,False
-Frank Kugler,M,St. Louis Southwest Turnverein #2-3,GER,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Bronze,Tug-Of-War,TOW,False
-Charles Thias,M,St. Louis Southwest Turnverein #2-3,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Bronze,Tug-Of-War,TOW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Oscar Friede,M,St. Louis Southwest Turnverein #2-3,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Bronze,Tug-Of-War,TOW,False,True
+Charles Haberkorn,M,St. Louis Southwest Turnverein #2-3,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Bronze,Tug-Of-War,TOW,False,True
+Harry Jacobs,M,St. Louis Southwest Turnverein #2-3,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Bronze,Tug-Of-War,TOW,False,True
+Frank Kugler,M,St. Louis Southwest Turnverein #2-3,GER,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Bronze,Tug-Of-War,TOW,False,True
+Charles Thias,M,St. Louis Southwest Turnverein #2-3,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Bronze,Tug-Of-War,TOW,False,True

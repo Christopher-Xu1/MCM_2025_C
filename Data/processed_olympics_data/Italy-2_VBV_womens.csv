@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Daniela Gattelli,F,Italy-2,ITA,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Lucilla Perrotta,F,Italy-2,ITA,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Daniela Gattelli,F,Italy-2,ITA,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Lucilla Perrotta,F,Italy-2,ITA,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True

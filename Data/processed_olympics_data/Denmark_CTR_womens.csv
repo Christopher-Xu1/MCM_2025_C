@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mette Andersen,F,Denmark,DEN,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Simone Christensen,F,Denmark,DEN,2016,Rio de Janeiro,Cycling,Cycling Women's BMX,No medal,Cycling,CTR,False
-Amalie Dideriksen,F,Denmark,DEN,2016,Rio de Janeiro,Cycling,Cycling Women's Omnium,No medal,Cycling,CTR,True
-Annika Langvad,F,Denmark,DEN,2016,Rio de Janeiro,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Hanne Malmberg,F,Denmark,DEN,1992,Barcelona,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,Cycling,CTR,False
-Trine Schmidt,F,Denmark,DEN,2008,Beijing,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,False
-Karina Skibby,F,Denmark,DEN,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Karina Skibby,F,Denmark,DEN,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Amanda Srensen,F,Denmark,DEN,2008,Beijing,Cycling,Cycling Women's BMX,No medal,Cycling,CTR,False
-Helle Srensen,F,Denmark,DEN,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Linda Serup,F,Denmark,DEN,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Linda Serup,F,Denmark,DEN,2008,Beijing,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True
-Amalie Dideriksen,F,Denmark,DEN,2020,Tokyo,Cycling Track,Women's Omnium,No medal,Women's,CTR,True
-Amalie Dideriksen,F,Denmark,DEN,2020,Tokyo,Cycling Track,Women's Madison Team,Silver,Women's,CTR,True
-Julie Leth,F,Denmark,DEN,2020,Tokyo,Cycling Track,Women's Omnium,No medal,Women's,CTR,True
-Julie Leth,F,Denmark,DEN,2020,Tokyo,Cycling Track,Women's Madison Team,Silver,Women's,CTR,True
-Norman Leth,F,Denmark,DEN,2024,Paris,Cycling Track,Women's Madison,No medal,Women's,CTR,True
-Norman Leth,F,Denmark,DEN,2024,Paris,Cycling Track,Women's Omnium,No medal,Women's,CTR,True
-Amalie Dideriksen,F,Denmark,DEN,2024,Paris,Cycling Track,Women's Madison,No medal,Women's,CTR,True
-Amalie Dideriksen,F,Denmark,DEN,2024,Paris,Cycling Track,Women's Omnium,No medal,Women's,CTR,True
-Hjollund Klinge,F,Denmark,DEN,2024,Paris,Cycling Track,Women's Madison,No medal,Women's,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mette Andersen,F,Denmark,DEN,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Simone Christensen,F,Denmark,DEN,2016,Rio de Janeiro,Cycling,Cycling Women's BMX,No medal,Cycling,CTR,False,True
+Amalie Dideriksen,F,Denmark,DEN,2016,Rio de Janeiro,Cycling,Cycling Women's Omnium,No medal,Cycling,CTR,True,True
+Annika Langvad,F,Denmark,DEN,2016,Rio de Janeiro,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Hanne Malmberg,F,Denmark,DEN,1992,Barcelona,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,Cycling,CTR,False,True
+Trine Schmidt,F,Denmark,DEN,2008,Beijing,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,False,True
+Karina Skibby,F,Denmark,DEN,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Karina Skibby,F,Denmark,DEN,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False
+Amanda Srensen,F,Denmark,DEN,2008,Beijing,Cycling,Cycling Women's BMX,No medal,Cycling,CTR,False,True
+Helle Srensen,F,Denmark,DEN,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Linda Serup,F,Denmark,DEN,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Linda Serup,F,Denmark,DEN,2008,Beijing,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True,True
+Amalie Dideriksen,F,Denmark,DEN,2020,Tokyo,Cycling Track,Women's Omnium,No medal,Women's,CTR,True,False
+Amalie Dideriksen,F,Denmark,DEN,2020,Tokyo,Cycling Track,Women's Madison Team,Silver,Women's,CTR,True,False
+Julie Leth,F,Denmark,DEN,2020,Tokyo,Cycling Track,Women's Omnium,No medal,Women's,CTR,True,True
+Julie Leth,F,Denmark,DEN,2020,Tokyo,Cycling Track,Women's Madison Team,Silver,Women's,CTR,True,True
+Norman Leth,F,Denmark,DEN,2024,Paris,Cycling Track,Women's Madison,No medal,Women's,CTR,True,True
+Norman Leth,F,Denmark,DEN,2024,Paris,Cycling Track,Women's Omnium,No medal,Women's,CTR,True,True
+Amalie Dideriksen,F,Denmark,DEN,2024,Paris,Cycling Track,Women's Madison,No medal,Women's,CTR,True,False
+Amalie Dideriksen,F,Denmark,DEN,2024,Paris,Cycling Track,Women's Omnium,No medal,Women's,CTR,True,False
+Hjollund Klinge,F,Denmark,DEN,2024,Paris,Cycling Track,Women's Madison,No medal,Women's,CTR,False,True

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anghelache Donescu,F,Romania,ROU,1980,Moskva,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Anghelache Donescu,F,Romania,ROU,1980,Moskva,Equestrianism,"Equestrianism Mixed Dressage, Team",Bronze,Equestrianism,EVE,True
-Dania Popescu,F,Romania,ROU,1980,Moskva,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anghelache Donescu,F,Romania,ROU,1980,Moskva,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Anghelache Donescu,F,Romania,ROU,1980,Moskva,Equestrianism,"Equestrianism Mixed Dressage, Team",Bronze,Equestrianism,EVE,True,True
+Dania Popescu,F,Romania,ROU,1980,Moskva,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,False,True

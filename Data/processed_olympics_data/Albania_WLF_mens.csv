@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sokol Bishanaku,M,Albania,ALB,1992,Barcelona,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Fatmir Bushi,M,Albania,ALB,1992,Barcelona,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Briken Calja,M,Albania,ALB,2012,London,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Briken Calja,M,Albania,ALB,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Dede Dekaj,M,Albania,ALB,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False
-Daniel Godelli,M,Albania,ALB,2012,London,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Endri Karina,M,Albania,ALB,2012,London,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Ymer Pampuri,M,Albania,ALB,1972,Munich,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Erkand Qerimaj,M,Albania,ALB,2008,Beijing,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Ilirjan Suli,M,Albania,ALB,1996,Atlanta,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Ilirjan Suli,M,Albania,ALB,2000,Sydney,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Gerti Trasha,M,Albania,ALB,2004,Athina,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Gerti Trasha,M,Albania,ALB,2008,Beijing,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Theoharis Trasha,M,Albania,ALB,2004,Athina,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Briken Calja,M,Albania,ALB,2020,Tokyo,Weightlifting,Men's 73kg,No medal,Men's,WLF,True
-Erkand Qerimaj,M,Albania,ALB,2020,Tokyo,Weightlifting,Men's 81kg,No medal,Men's,WLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sokol Bishanaku,M,Albania,ALB,1992,Barcelona,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Fatmir Bushi,M,Albania,ALB,1992,Barcelona,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Briken Calja,M,Albania,ALB,2012,London,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,True
+Briken Calja,M,Albania,ALB,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Dede Dekaj,M,Albania,ALB,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False,True
+Daniel Godelli,M,Albania,ALB,2012,London,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Endri Karina,M,Albania,ALB,2012,London,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Ymer Pampuri,M,Albania,ALB,1972,Munich,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Erkand Qerimaj,M,Albania,ALB,2008,Beijing,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,True
+Ilirjan Suli,M,Albania,ALB,1996,Atlanta,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,True
+Ilirjan Suli,M,Albania,ALB,2000,Sydney,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,False
+Gerti Trasha,M,Albania,ALB,2004,Athina,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,True
+Gerti Trasha,M,Albania,ALB,2008,Beijing,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Theoharis Trasha,M,Albania,ALB,2004,Athina,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Briken Calja,M,Albania,ALB,2020,Tokyo,Weightlifting,Men's 73kg,No medal,Men's,WLF,True,False
+Erkand Qerimaj,M,Albania,ALB,2020,Tokyo,Weightlifting,Men's 81kg,No medal,Men's,WLF,True,False

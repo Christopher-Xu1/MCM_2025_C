@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Karsten Konow,M,Lully Ii,NOR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Magnus Konow,M,Lully Ii,NOR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Fredrik Meyer,M,Lully Ii,NOR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Dag Nyqvist,M,Lully Ii,NOR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Alf Tveten,M,Lully Ii,NOR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Karsten Konow,M,Lully Ii,NOR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Magnus Konow,M,Lully Ii,NOR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Fredrik Meyer,M,Lully Ii,NOR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Dag Nyqvist,M,Lully Ii,NOR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Alf Tveten,M,Lully Ii,NOR,1936,Berlin,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True

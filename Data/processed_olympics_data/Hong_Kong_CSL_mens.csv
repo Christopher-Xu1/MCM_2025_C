@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cheung Chuen,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,False
-Chung Lok,M,Hong Kong,HKG,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Chung Lok,M,Hong Kong,HKG,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,True
-Hui Cheong,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Hui Cheong,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,True
-Kwan Wai,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,False
-Luk Sun,M,Hong Kong,HKG,1988,Seoul,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True
-Luk Sun,M,Hong Kong,HKG,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Luk Sun,M,Hong Kong,HKG,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,True
-Mak Wai,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True
-Mak Wai,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,True
-Ng Wan,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Ng Wan,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,True
-Ng Wan,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Ng Wan,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,True
-Ng Man,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Ng Man,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,True
-Ng Man,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,True
-Tang Cheung,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Tang Cheung,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,True
-Tang Cheung,M,Hong Kong,HKG,1988,Seoul,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Tsoi Wan,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True
-Tsoi Wan,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-John Wai,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cheung Chuen,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,False,True
+Chung Lok,M,Hong Kong,HKG,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Chung Lok,M,Hong Kong,HKG,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,True,True
+Hui Cheong,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Hui Cheong,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,True,True
+Kwan Wai,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,False,True
+Luk Sun,M,Hong Kong,HKG,1988,Seoul,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True,True
+Luk Sun,M,Hong Kong,HKG,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Luk Sun,M,Hong Kong,HKG,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,True,False
+Mak Wai,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True,True
+Mak Wai,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,True,True
+Ng Wan,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Ng Wan,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,True,True
+Ng Wan,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Ng Wan,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,True,False
+Ng Man,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Ng Man,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,True,True
+Ng Man,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,True,False
+Tang Cheung,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Tang Cheung,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,True,True
+Tang Cheung,M,Hong Kong,HKG,1988,Seoul,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Tsoi Wan,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True,True
+Tsoi Wan,M,Hong Kong,HKG,1984,Los Angeles,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+John Wai,M,Hong Kong,HKG,1976,Montreal,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",No medal,Canoeing,CSL,False,True

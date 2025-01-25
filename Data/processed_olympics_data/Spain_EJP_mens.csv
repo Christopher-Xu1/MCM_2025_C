@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eduardo Alvarez,M,Spain,ESP,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Eduardo Alvarez,M,Spain,ESP,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Eduardo Alvarez,M,Spain,ESP,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Sergio Alvarez,M,Spain,ESP,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Sergio Alvarez,M,Spain,ESP,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Ismael Garcia,M,Spain,ESP,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Ismael Garcia,M,Spain,ESP,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eduardo Alvarez,M,Spain,ESP,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Eduardo Alvarez,M,Spain,ESP,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+Eduardo Alvarez,M,Spain,ESP,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,False
+Sergio Alvarez,M,Spain,ESP,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Sergio Alvarez,M,Spain,ESP,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Ismael Garcia,M,Spain,ESP,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Ismael Garcia,M,Spain,ESP,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True

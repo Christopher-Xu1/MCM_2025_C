@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andrey Antropov,M,Russia,RUS,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Andrey Antropov,M,Russia,RUS,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Vladimir Ivanov,M,Russia,RUS,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Vladimir Ivanov,M,Russia,RUS,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Vladimir Ivanov,M,Russia,RUS,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Vladimir Malkov,M,Russia,RUS,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Aleksandr Nikolayenko,M,Russia,RUS,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Stanislav Pukhov,M,Russia,RUS,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Ivan Sozonov,M,Russia,RUS,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Ivan Sozonov,M,Russia,RUS,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Pavel Uvarov,M,Russia,RUS,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Nikolay Zuyev,M,Russia,RUS,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Nikolay Zuyev,M,Russia,RUS,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Nikolay Zuyev,M,Russia,RUS,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Vladimir Ivanov,M,Russia,ROC,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True
-Sergey Sirant,M,Russia,ROC,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,False
-Ivan Sozonov,M,Russia,ROC,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andrey Antropov,M,Russia,RUS,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Andrey Antropov,M,Russia,RUS,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Vladimir Ivanov,M,Russia,RUS,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Vladimir Ivanov,M,Russia,RUS,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Vladimir Ivanov,M,Russia,RUS,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Vladimir Malkov,M,Russia,RUS,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Aleksandr Nikolayenko,M,Russia,RUS,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Stanislav Pukhov,M,Russia,RUS,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Ivan Sozonov,M,Russia,RUS,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Ivan Sozonov,M,Russia,RUS,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Pavel Uvarov,M,Russia,RUS,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Nikolay Zuyev,M,Russia,RUS,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Nikolay Zuyev,M,Russia,RUS,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Nikolay Zuyev,M,Russia,RUS,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Vladimir Ivanov,M,Russia,ROC,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True,False
+Sergey Sirant,M,Russia,ROC,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,False,True
+Ivan Sozonov,M,Russia,ROC,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True,False

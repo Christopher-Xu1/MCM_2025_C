@@ -1,38 +1,38 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abdullah Al-akbary,M,Oman,OMA,1984,Los Angeles,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
-Abdullah Al-akbary,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Abdullah Al-akbary,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Abdullah Al-anbari,M,Oman,OMA,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Mansour Al-baloushi,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Mansour Al-baloushi,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Hamoud Al-dalhami,M,Oman,OMA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Hamoud Al-dalhami,M,Oman,OMA,2004,Athina,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Sulaiman Al-habsi,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Sulaiman Al-habsi,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Barakat Al-harthi,M,Oman,OMA,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Barakat Al-harthi,M,Oman,OMA,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Mohamed Al-hashimi,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Mohamed Al-hashimi,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Mohamed Al-houti,M,Oman,OMA,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Mohamed Al-houti,M,Oman,OMA,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Mohamed Al-houti,M,Oman,OMA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Abdullah Al-khalidi,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Abdullah Al-khalidi,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Abdullah Al-khalidi,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Abdullah Al-khalidi,M,Oman,OMA,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Mohamed Al-malky,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Mohamed Al-malky,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Mohamed Al-malky,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Mohamed Al-malky,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Mohamed Al-malky,M,Oman,OMA,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Mohamed Al-maskary,M,Oman,OMA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Ahmed Bashir,M,Oman,OMA,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Awadh Al-sameer,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Awadh Al-sameer,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Amor Al-sharji,M,Oman,OMA,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Barakat Al-sharji,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Barakat Al-sharji,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Jahad Al-sheikh,M,Oman,OMA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Abdullah Al-sooli,M,Oman,OMA,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Barakat Al,M,Oman,OMA,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,False
-Ali Al,M,Oman,OMA,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abdullah Al-akbary,M,Oman,OMA,1984,Los Angeles,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True,True
+Abdullah Al-akbary,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Abdullah Al-akbary,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Abdullah Al-anbari,M,Oman,OMA,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Mansour Al-baloushi,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Mansour Al-baloushi,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Hamoud Al-dalhami,M,Oman,OMA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Hamoud Al-dalhami,M,Oman,OMA,2004,Athina,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Sulaiman Al-habsi,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Sulaiman Al-habsi,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Barakat Al-harthi,M,Oman,OMA,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Barakat Al-harthi,M,Oman,OMA,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Mohamed Al-hashimi,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Mohamed Al-hashimi,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Mohamed Al-houti,M,Oman,OMA,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Mohamed Al-houti,M,Oman,OMA,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Mohamed Al-houti,M,Oman,OMA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Abdullah Al-khalidi,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Abdullah Al-khalidi,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Abdullah Al-khalidi,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Abdullah Al-khalidi,M,Oman,OMA,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Mohamed Al-malky,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Mohamed Al-malky,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Mohamed Al-malky,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,False
+Mohamed Al-malky,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,False
+Mohamed Al-malky,M,Oman,OMA,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,False
+Mohamed Al-maskary,M,Oman,OMA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Ahmed Bashir,M,Oman,OMA,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Awadh Al-sameer,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Awadh Al-sameer,M,Oman,OMA,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Amor Al-sharji,M,Oman,OMA,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Barakat Al-sharji,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Barakat Al-sharji,M,Oman,OMA,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Jahad Al-sheikh,M,Oman,OMA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Abdullah Al-sooli,M,Oman,OMA,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Barakat Al,M,Oman,OMA,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,False,True
+Ali Al,M,Oman,OMA,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True

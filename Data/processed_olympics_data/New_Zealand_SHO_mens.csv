@@ -1,36 +1,36 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ian Ballinger,M,New Zealand,NZL,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",Bronze,Shooting,SHO,True
-Ian Ballinger,M,New Zealand,NZL,1972,Munich,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Ian Ballinger,M,New Zealand,NZL,1976,Montreal,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Anthony Clarke,M,New Zealand,NZL,1984,Los Angeles,Shooting,"Shooting Men's Running Target, 50 metres",No medal,Shooting,SHO,False
-Desmond Coe,M,New Zealand,NZL,2000,Sydney,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,False
-Robert Eastham,M,New Zealand,NZL,2008,Beijing,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Graeme Ede,M,New Zealand,NZL,2008,Beijing,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True
-Graeme Ede,M,New Zealand,NZL,2008,Beijing,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True
-John Farrell,M,New Zealand,NZL,1988,Seoul,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Geoffrey Jukes,M,New Zealand,NZL,2000,Sydney,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False
-Graeme Mcintyre,M,New Zealand,NZL,1972,Munich,Shooting,"Shooting Mixed Running Target, 50 metres",No medal,Shooting,SHO,True
-Graeme Mcintyre,M,New Zealand,NZL,1976,Montreal,Shooting,"Shooting Mixed Running Target, 50 metres",No medal,Shooting,SHO,True
-Bruce Mcmillan,M,New Zealand,NZL,1972,Munich,Shooting,"Shooting Mixed Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False
-Stewart Nairn,M,New Zealand,NZL,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Stephen Petterson,M,New Zealand,NZL,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Stephen Petterson,M,New Zealand,NZL,1988,Seoul,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Stephen Petterson,M,New Zealand,NZL,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Stephen Petterson,M,New Zealand,NZL,1996,Atlanta,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Victor Shaw,M,New Zealand,NZL,2000,Sydney,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False
-Denis Taylor,M,New Zealand,NZL,1976,Montreal,Shooting,"Shooting Mixed Running Target, 50 metres",No medal,Shooting,SHO,False
-Ryan Taylor,M,New Zealand,NZL,2004,Athina,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Ryan Taylor,M,New Zealand,NZL,2012,London,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Ryan Taylor,M,New Zealand,NZL,2016,Rio de Janeiro,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Brian Thomson,M,New Zealand,NZL,2000,Sydney,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False
-Yang Wang,M,New Zealand,NZL,2008,Beijing,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Michael Watt,M,New Zealand,NZL,1972,Munich,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Brant Woodward,M,New Zealand,NZL,1996,Atlanta,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True
-Brant Woodward,M,New Zealand,NZL,2000,Sydney,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True
-Lawrence Woolley,M,New Zealand,NZL,1976,Montreal,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True
-Lawrence Woolley,M,New Zealand,NZL,1984,Los Angeles,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True
-Lawrence Woolley,M,New Zealand,NZL,1988,Seoul,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True
-Gregory Yelavich,M,New Zealand,NZL,1988,Seoul,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
-Gregory Yelavich,M,New Zealand,NZL,1992,Barcelona,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Gregory Yelavich,M,New Zealand,NZL,1992,Barcelona,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
-Owen Robinson,M,New Zealand,NZL,2024,Paris,Shooting,Trap Men,No medal,Trap,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ian Ballinger,M,New Zealand,NZL,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",Bronze,Shooting,SHO,True,True
+Ian Ballinger,M,New Zealand,NZL,1972,Munich,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Ian Ballinger,M,New Zealand,NZL,1976,Montreal,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Anthony Clarke,M,New Zealand,NZL,1984,Los Angeles,Shooting,"Shooting Men's Running Target, 50 metres",No medal,Shooting,SHO,False,True
+Desmond Coe,M,New Zealand,NZL,2000,Sydney,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,False,True
+Robert Eastham,M,New Zealand,NZL,2008,Beijing,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Graeme Ede,M,New Zealand,NZL,2008,Beijing,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True,True
+Graeme Ede,M,New Zealand,NZL,2008,Beijing,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True,True
+John Farrell,M,New Zealand,NZL,1988,Seoul,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Geoffrey Jukes,M,New Zealand,NZL,2000,Sydney,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False,True
+Graeme Mcintyre,M,New Zealand,NZL,1972,Munich,Shooting,"Shooting Mixed Running Target, 50 metres",No medal,Shooting,SHO,True,True
+Graeme Mcintyre,M,New Zealand,NZL,1976,Montreal,Shooting,"Shooting Mixed Running Target, 50 metres",No medal,Shooting,SHO,True,False
+Bruce Mcmillan,M,New Zealand,NZL,1972,Munich,Shooting,"Shooting Mixed Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False,True
+Stewart Nairn,M,New Zealand,NZL,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Stephen Petterson,M,New Zealand,NZL,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Stephen Petterson,M,New Zealand,NZL,1988,Seoul,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Stephen Petterson,M,New Zealand,NZL,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Stephen Petterson,M,New Zealand,NZL,1996,Atlanta,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Victor Shaw,M,New Zealand,NZL,2000,Sydney,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False,True
+Denis Taylor,M,New Zealand,NZL,1976,Montreal,Shooting,"Shooting Mixed Running Target, 50 metres",No medal,Shooting,SHO,False,True
+Ryan Taylor,M,New Zealand,NZL,2004,Athina,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Ryan Taylor,M,New Zealand,NZL,2012,London,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Ryan Taylor,M,New Zealand,NZL,2016,Rio de Janeiro,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Brian Thomson,M,New Zealand,NZL,2000,Sydney,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False,True
+Yang Wang,M,New Zealand,NZL,2008,Beijing,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Michael Watt,M,New Zealand,NZL,1972,Munich,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Brant Woodward,M,New Zealand,NZL,1996,Atlanta,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True,True
+Brant Woodward,M,New Zealand,NZL,2000,Sydney,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True,False
+Lawrence Woolley,M,New Zealand,NZL,1976,Montreal,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True,True
+Lawrence Woolley,M,New Zealand,NZL,1984,Los Angeles,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True,False
+Lawrence Woolley,M,New Zealand,NZL,1988,Seoul,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True,False
+Gregory Yelavich,M,New Zealand,NZL,1988,Seoul,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True,True
+Gregory Yelavich,M,New Zealand,NZL,1992,Barcelona,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Gregory Yelavich,M,New Zealand,NZL,1992,Barcelona,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True,False
+Owen Robinson,M,New Zealand,NZL,2024,Paris,Shooting,Trap Men,No medal,Trap,SHO,False,True

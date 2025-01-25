@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gabor Harspataki,M,Hungary,HUN,2020,Tokyo,Karate,Men's Kumite -75kg,Bronze,Men's,KTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gabor Harspataki,M,Hungary,HUN,2020,Tokyo,Karate,Men's Kumite -75kg,Bronze,Men's,KTE,False,True

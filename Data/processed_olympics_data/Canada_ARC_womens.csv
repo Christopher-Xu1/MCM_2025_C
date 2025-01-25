@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Wanda Allan-sadegur,F,Canada,CAN,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Wanda Allan-sadegur,F,Canada,CAN,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Marie-Pier Beaudet,F,Canada,CAN,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Marie-Pier Beaudet,F,Canada,CAN,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Marie-Pier Beaudet,F,Canada,CAN,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Brenda Cuming,F,Canada,CAN,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Mary (-luding),F,Canada,CAN,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Linda Kazienko,F,Canada,CAN,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Lucille Lemay,F,Canada,CAN,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Lucille Lemay,F,Canada,CAN,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Lela Muir,F,Canada,CAN,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Marjory Saunders,F,Canada,CAN,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Georcy-Stphanie Picard,F,Canada,CAN,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Stephanie Barrett,F,Canada,CAN,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Stephanie Barrett,F,Canada,CAN,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
-Virginie Chenier,F,Canada,CAN,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Virginie Chenier,F,Canada,CAN,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Wanda Allan-sadegur,F,Canada,CAN,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Wanda Allan-sadegur,F,Canada,CAN,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Marie-Pier Beaudet,F,Canada,CAN,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Marie-Pier Beaudet,F,Canada,CAN,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Marie-Pier Beaudet,F,Canada,CAN,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Brenda Cuming,F,Canada,CAN,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Mary (-luding),F,Canada,CAN,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Linda Kazienko,F,Canada,CAN,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Lucille Lemay,F,Canada,CAN,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Lucille Lemay,F,Canada,CAN,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Lela Muir,F,Canada,CAN,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Marjory Saunders,F,Canada,CAN,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Georcy-Stphanie Picard,F,Canada,CAN,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Stephanie Barrett,F,Canada,CAN,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Stephanie Barrett,F,Canada,CAN,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True
+Virginie Chenier,F,Canada,CAN,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Virginie Chenier,F,Canada,CAN,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Italo Ferreira,M,Brazil,BRA,2020,Tokyo,Surfing,Men,Gold,Men,SRF,False
-Gabriel Medina,M,Brazil,BRA,2020,Tokyo,Surfing,Men,No medal,Men,SRF,True
-Filipe Toledo,M,Brazil,BRA,2024,Paris,Surfing,Men,No medal,Men,SRF,False
-Gabriel Medina,M,Brazil,BRA,2024,Paris,Surfing,Men,Bronze,Men,SRF,True
-Joao Chianca,M,Brazil,BRA,2024,Paris,Surfing,Men,No medal,Men,SRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Italo Ferreira,M,Brazil,BRA,2020,Tokyo,Surfing,Men,Gold,Men,SRF,False,True
+Gabriel Medina,M,Brazil,BRA,2020,Tokyo,Surfing,Men,No medal,Men,SRF,True,True
+Filipe Toledo,M,Brazil,BRA,2024,Paris,Surfing,Men,No medal,Men,SRF,False,True
+Gabriel Medina,M,Brazil,BRA,2024,Paris,Surfing,Men,Bronze,Men,SRF,True,False
+Joao Chianca,M,Brazil,BRA,2024,Paris,Surfing,Men,No medal,Men,SRF,False,True

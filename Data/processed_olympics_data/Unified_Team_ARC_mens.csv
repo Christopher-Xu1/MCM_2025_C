@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vadim Shikarev,M,Unified Team,EUN,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Vadim Shikarev,M,Unified Team,EUN,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Vladimir Yesheyev,M,Unified Team,EUN,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Vladimir Yesheyev,M,Unified Team,EUN,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Stanislav Zabrodsky,M,Unified Team,EUN,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Stanislav Zabrodsky,M,Unified Team,EUN,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vadim Shikarev,M,Unified Team,EUN,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Vadim Shikarev,M,Unified Team,EUN,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Vladimir Yesheyev,M,Unified Team,EUN,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Vladimir Yesheyev,M,Unified Team,EUN,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Stanislav Zabrodsky,M,Unified Team,EUN,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Stanislav Zabrodsky,M,Unified Team,EUN,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True,True

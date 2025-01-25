@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Matja Ceraj,M,Slovenia,SLO,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Matja Ceraj,M,Slovenia,SLO,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-tefan Cuk,M,Slovenia,SLO,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Rok Draki,M,Slovenia,SLO,2008,Beijing,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Rok Draki,M,Slovenia,SLO,2012,London,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Rok Draki,M,Slovenia,SLO,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Adrian Gomboc,M,Slovenia,SLO,2016,Rio de Janeiro,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Sao Jereb,M,Slovenia,SLO,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Filip Leak,M,Slovenia,SLO,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Alja Sedej,M,Slovenia,SLO,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Alja Sedej,M,Slovenia,SLO,2012,London,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Mihael Gank,M,Slovenia,SLO,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Adrian Gomboc,M,Slovenia,SLO,2020,Tokyo,Judo,Men -66 kg,No medal,Men,JUD,True
-Enej Marinic,M,Slovenia,SLO,2024,Paris,Judo,Men +100 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Matja Ceraj,M,Slovenia,SLO,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,True
+Matja Ceraj,M,Slovenia,SLO,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+tefan Cuk,M,Slovenia,SLO,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Rok Draki,M,Slovenia,SLO,2008,Beijing,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Rok Draki,M,Slovenia,SLO,2012,London,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False
+Rok Draki,M,Slovenia,SLO,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Adrian Gomboc,M,Slovenia,SLO,2016,Rio de Janeiro,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,True
+Sao Jereb,M,Slovenia,SLO,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Filip Leak,M,Slovenia,SLO,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Alja Sedej,M,Slovenia,SLO,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Alja Sedej,M,Slovenia,SLO,2012,London,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Mihael Gank,M,Slovenia,SLO,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Adrian Gomboc,M,Slovenia,SLO,2020,Tokyo,Judo,Men -66 kg,No medal,Men,JUD,True,False
+Enej Marinic,M,Slovenia,SLO,2024,Paris,Judo,Men +100 kg,No medal,Men,JUD,False,True

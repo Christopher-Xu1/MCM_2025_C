@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alexandros Baltatzis-mavrokorlatis,M,Greece,GRE,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Vasileios Floros,M,Greece,GRE,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Alexandros Nikolopoulos,M,Greece,GRE,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alexandros Baltatzis-mavrokorlatis,M,Greece,GRE,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Vasileios Floros,M,Greece,GRE,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Alexandros Nikolopoulos,M,Greece,GRE,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True

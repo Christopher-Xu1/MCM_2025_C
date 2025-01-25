@@ -1,24 +1,24 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fernando Vicente,M,Spain,ESP,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Francisco Noya,M,Spain,ESP,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Francisco Noya,M,Spain,ESP,2012,London,Triathlon,Triathlon Men's Olympic Distance,Silver,Triathlon,TRI,True
-Vicente Cabrera,M,Spain,ESP,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Eneko Burguera,M,Spain,ESP,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Eneko Burguera,M,Spain,ESP,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Xavier Sallent,M,Spain,ESP,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Jos Illanes,M,Spain,ESP,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Mario Daz,M,Spain,ESP,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Mario Daz,M,Spain,ESP,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Jos Martnez,M,Spain,ESP,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Ivn Fuentes,M,Spain,ESP,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Ivn Fuentes,M,Spain,ESP,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Ivn Fuentes,M,Spain,ESP,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Fernando Alarza,M,Spain,ESP,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Fernando Alarza,M,Spain,ESP,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Javier Gomez,M,Spain,ESP,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Javier Gomez,M,Spain,ESP,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Mario Mola,M,Spain,ESP,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Mario Mola,M,Spain,ESP,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Alberto Gonzalez,M,Spain,ESP,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
-Roberto Sanchez,M,Spain,ESP,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
-Antonio Serrat,M,Spain,ESP,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fernando Vicente,M,Spain,ESP,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Francisco Noya,M,Spain,ESP,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Francisco Noya,M,Spain,ESP,2012,London,Triathlon,Triathlon Men's Olympic Distance,Silver,Triathlon,TRI,True,False
+Vicente Cabrera,M,Spain,ESP,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Eneko Burguera,M,Spain,ESP,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Eneko Burguera,M,Spain,ESP,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Xavier Sallent,M,Spain,ESP,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Jos Illanes,M,Spain,ESP,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Mario Daz,M,Spain,ESP,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Mario Daz,M,Spain,ESP,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Jos Martnez,M,Spain,ESP,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Ivn Fuentes,M,Spain,ESP,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Ivn Fuentes,M,Spain,ESP,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Ivn Fuentes,M,Spain,ESP,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Fernando Alarza,M,Spain,ESP,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Fernando Alarza,M,Spain,ESP,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Javier Gomez,M,Spain,ESP,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Javier Gomez,M,Spain,ESP,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Mario Mola,M,Spain,ESP,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Mario Mola,M,Spain,ESP,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Alberto Gonzalez,M,Spain,ESP,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True
+Roberto Sanchez,M,Spain,ESP,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True
+Antonio Serrat,M,Spain,ESP,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True

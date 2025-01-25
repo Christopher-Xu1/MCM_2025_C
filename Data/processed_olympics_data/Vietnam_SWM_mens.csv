@@ -1,24 +1,24 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hong Phc,M,Vietnam,VIE,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
-Lm Honh,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Nguyn Vit,M,Vietnam,VIE,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Nguyn Vit,M,Vietnam,VIE,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Nguyn Tun,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Nguyn Tun,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Nguyn Anh,M,Vietnam,VIE,2000,Sydney,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Nguyn Bnh,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Phm Thnh,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-Phm Thnh,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Quch Nam,M,Vietnam,VIE,1988,Seoul,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Quch Nam,M,Vietnam,VIE,1988,Seoul,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Thng Tn,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Thng Tn,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-T V,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-T V,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-T V,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Trn Ti,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Trng Tun,M,Vietnam,VIE,1996,Atlanta,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,False
-Hoang Nguyen,M,Vietnam,VIE,2020,Tokyo,Swimming,Men's 800m Freestyle,No medal,Men's,SWM,True
-Hoang Nguyen,M,Vietnam,VIE,2020,Tokyo,Swimming,Men's 1500m Freestyle,No medal,Men's,SWM,True
-Hoang Nguyen,M,Vietnam,VIE,2024,Paris,Swimming,Men's 1500m Freestyle,No medal,Men's,SWM,True
-Hoang Nguyen,M,Vietnam,VIE,2024,Paris,Swimming,Men's 800m Freestyle,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hong Phc,M,Vietnam,VIE,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Lm Honh,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Nguyn Vit,M,Vietnam,VIE,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Nguyn Vit,M,Vietnam,VIE,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Nguyn Tun,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Nguyn Tun,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Nguyn Anh,M,Vietnam,VIE,2000,Sydney,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Nguyn Bnh,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Phm Thnh,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Phm Thnh,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Quch Nam,M,Vietnam,VIE,1988,Seoul,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Quch Nam,M,Vietnam,VIE,1988,Seoul,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Thng Tn,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Thng Tn,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+T V,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+T V,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+T V,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Trn Ti,M,Vietnam,VIE,1980,Moskva,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Trng Tun,M,Vietnam,VIE,1996,Atlanta,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,False,True
+Hoang Nguyen,M,Vietnam,VIE,2020,Tokyo,Swimming,Men's 800m Freestyle,No medal,Men's,SWM,True,True
+Hoang Nguyen,M,Vietnam,VIE,2020,Tokyo,Swimming,Men's 1500m Freestyle,No medal,Men's,SWM,True,True
+Hoang Nguyen,M,Vietnam,VIE,2024,Paris,Swimming,Men's 1500m Freestyle,No medal,Men's,SWM,True,False
+Hoang Nguyen,M,Vietnam,VIE,2024,Paris,Swimming,Men's 800m Freestyle,No medal,Men's,SWM,True,False

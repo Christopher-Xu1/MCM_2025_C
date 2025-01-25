@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kenjiro Matsuda,M,Riccar,JPN,1964,Tokyo,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Yasutoshi Tagami,M,Riccar,JPN,1964,Tokyo,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kenjiro Matsuda,M,Riccar,JPN,1964,Tokyo,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Yasutoshi Tagami,M,Riccar,JPN,1964,Tokyo,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True

@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jorge Azevedo,M,Brazil,BRA,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Marcus D'almeida,M,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Marcus D'almeida,M,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Emilio Mello,M,Brazil,BRA,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Emilio Mello,M,Brazil,BRA,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Emilio Mello,M,Brazil,BRA,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Emilio Mello,M,Brazil,BRA,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Vitor Krieger,M,Brazil,BRA,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Bernardo Oliveira,M,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Bernardo Oliveira,M,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Luiz Silva,M,Brazil,BRA,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Daniel Xavier,M,Brazil,BRA,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Daniel Xavier,M,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Daniel Xavier,M,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Marcus D'almeida,M,Brazil,BRA,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
-Marcus D'almeida,M,Brazil,BRA,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True
-Marcus D'almeida,M,Brazil,BRA,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True
-Marcus D'almeida,M,Brazil,BRA,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jorge Azevedo,M,Brazil,BRA,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Marcus D'almeida,M,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Marcus D'almeida,M,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Emilio Mello,M,Brazil,BRA,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Emilio Mello,M,Brazil,BRA,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Emilio Mello,M,Brazil,BRA,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Emilio Mello,M,Brazil,BRA,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Vitor Krieger,M,Brazil,BRA,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Bernardo Oliveira,M,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Bernardo Oliveira,M,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Luiz Silva,M,Brazil,BRA,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Daniel Xavier,M,Brazil,BRA,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Daniel Xavier,M,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Daniel Xavier,M,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Marcus D'almeida,M,Brazil,BRA,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,False
+Marcus D'almeida,M,Brazil,BRA,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True,False
+Marcus D'almeida,M,Brazil,BRA,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True,False
+Marcus D'almeida,M,Brazil,BRA,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True,False

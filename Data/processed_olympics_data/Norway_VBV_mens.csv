@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jrre Kjemperud,M,Norway,NOR,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Jan Kvalheim,M,Norway,NOR,1996,Atlanta,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Bjrn Maaseide,M,Norway,NOR,1996,Atlanta,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Tarjei Skarlund,M,Norway,NOR,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True
-Tarjei Skarlund,M,Norway,NOR,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True
-Martin Spinnangr,M,Norway,NOR,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Berntsen Mol,M,Norway,NOR,2020,Tokyo,Beach Volleyball,Men Team,Gold,Men,VBV,True
-Sandlie Sorum,M,Norway,NOR,2020,Tokyo,Beach Volleyball,Men Team,Gold,Men,VBV,False
-Berntsen Mol,M,Norway,NOR,2024,Paris,Beach Volleyball,Men,Bronze,Men,VBV,True
-Sandlie Soerum,M,Norway,NOR,2024,Paris,Beach Volleyball,Men,Bronze,Men,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jrre Kjemperud,M,Norway,NOR,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Jan Kvalheim,M,Norway,NOR,1996,Atlanta,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Bjrn Maaseide,M,Norway,NOR,1996,Atlanta,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Tarjei Skarlund,M,Norway,NOR,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True,True
+Tarjei Skarlund,M,Norway,NOR,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True,False
+Martin Spinnangr,M,Norway,NOR,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Berntsen Mol,M,Norway,NOR,2020,Tokyo,Beach Volleyball,Men Team,Gold,Men,VBV,True,True
+Sandlie Sorum,M,Norway,NOR,2020,Tokyo,Beach Volleyball,Men Team,Gold,Men,VBV,False,True
+Berntsen Mol,M,Norway,NOR,2024,Paris,Beach Volleyball,Men,Bronze,Men,VBV,True,False
+Sandlie Soerum,M,Norway,NOR,2024,Paris,Beach Volleyball,Men,Bronze,Men,VBV,False,True

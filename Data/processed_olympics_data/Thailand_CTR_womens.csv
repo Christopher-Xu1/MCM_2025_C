@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Amanda Carr,F,Thailand,THA,2016,Rio de Janeiro,Cycling,Cycling Women's BMX,No medal,Cycling,CTR,False
-Jutatip Maneephan,F,Thailand,THA,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Jutatip Maneephan,F,Thailand,THA,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Chanpeng Nontasin,F,Thailand,THA,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Amanda Carr,F,Thailand,THA,2016,Rio de Janeiro,Cycling,Cycling Women's BMX,No medal,Cycling,CTR,False,True
+Jutatip Maneephan,F,Thailand,THA,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Jutatip Maneephan,F,Thailand,THA,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False
+Chanpeng Nontasin,F,Thailand,THA,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True

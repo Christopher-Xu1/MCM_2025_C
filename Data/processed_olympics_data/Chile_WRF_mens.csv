@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andrs Valenzuela,M,Chile,CHI,2012,London,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False
-Yasmani Acosta,M,Chile,CHI,2020,Tokyo,Wrestling,Men's Greco-Roman 130kg,No medal,Men's,WRF,True
-Yasmani Acosta,M,Chile,CHI,2024,Paris,Wrestling,Men's Greco-Roman 130kg,Silver,Men's,WRF,True
-Evian Almanza,M,Chile,CHI,2024,Paris,Wrestling,Men's Greco-Roman 67kg,No medal,Men's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andrs Valenzuela,M,Chile,CHI,2012,London,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Yasmani Acosta,M,Chile,CHI,2020,Tokyo,Wrestling,Men's Greco-Roman 130kg,No medal,Men's,WRF,True,True
+Yasmani Acosta,M,Chile,CHI,2024,Paris,Wrestling,Men's Greco-Roman 130kg,Silver,Men's,WRF,True,False
+Evian Almanza,M,Chile,CHI,2024,Paris,Wrestling,Men's Greco-Roman 67kg,No medal,Men's,WRF,False,True

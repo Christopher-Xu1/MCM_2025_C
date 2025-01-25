@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abraham Heel,M,Trintel Ii,NED,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Jacob Berg,M,Trintel Ii,NED,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Willem Duyl,M,Trintel Ii,NED,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abraham Heel,M,Trintel Ii,NED,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Jacob Berg,M,Trintel Ii,NED,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Willem Duyl,M,Trintel Ii,NED,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

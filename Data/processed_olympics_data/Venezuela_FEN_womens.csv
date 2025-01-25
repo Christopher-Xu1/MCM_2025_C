@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alejandra Romero,F,Venezuela,VEN,2004,Athina,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True
-Alejandra Romero,F,Venezuela,VEN,2008,Beijing,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True
-Alejandra Romero,F,Venezuela,VEN,2012,London,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True
-Alejandra Romero,F,Venezuela,VEN,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True
-Johana Choles,F,Venezuela,VEN,2012,London,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Isis Surez,F,Venezuela,VEN,2016,Rio de Janeiro,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Mariana Parra,F,Venezuela,VEN,2004,Athina,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Mariana Parra,F,Venezuela,VEN,2008,Beijing,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Belkis Gonzlez,F,Venezuela,VEN,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Belkis Gonzlez,F,Venezuela,VEN,1960,Roma,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
-Tefila Rodrguez,F,Venezuela,VEN,1960,Roma,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,False
-Mara Garcon,F,Venezuela,VEN,2008,Beijing,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,True
-Mara Garcon,F,Venezuela,VEN,2012,London,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,True
-Gerda Karger,F,Venezuela,VEN,1952,Helsinki,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Ingrid Wunsch,F,Venezuela,VEN,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Ingrid Wunsch,F,Venezuela,VEN,1960,Roma,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
-Norma Baso,F,Venezuela,VEN,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Norma Baso,F,Venezuela,VEN,1960,Roma,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
-Ursula Knauf,F,Venezuela,VEN,1952,Helsinki,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-F Paredes,F,Venezuela,VEN,2024,Paris,Fencing,Women's Sabre Individual,No medal,Women's,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alejandra Romero,F,Venezuela,VEN,2004,Athina,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True,True
+Alejandra Romero,F,Venezuela,VEN,2008,Beijing,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True,False
+Alejandra Romero,F,Venezuela,VEN,2012,London,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True,False
+Alejandra Romero,F,Venezuela,VEN,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True,False
+Johana Choles,F,Venezuela,VEN,2012,London,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Isis Surez,F,Venezuela,VEN,2016,Rio de Janeiro,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Mariana Parra,F,Venezuela,VEN,2004,Athina,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Mariana Parra,F,Venezuela,VEN,2008,Beijing,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,False
+Belkis Gonzlez,F,Venezuela,VEN,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Belkis Gonzlez,F,Venezuela,VEN,1960,Roma,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True,True
+Tefila Rodrguez,F,Venezuela,VEN,1960,Roma,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,False,True
+Mara Garcon,F,Venezuela,VEN,2008,Beijing,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,True,True
+Mara Garcon,F,Venezuela,VEN,2012,London,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,True,False
+Gerda Karger,F,Venezuela,VEN,1952,Helsinki,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Ingrid Wunsch,F,Venezuela,VEN,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Ingrid Wunsch,F,Venezuela,VEN,1960,Roma,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True,True
+Norma Baso,F,Venezuela,VEN,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Norma Baso,F,Venezuela,VEN,1960,Roma,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True,True
+Ursula Knauf,F,Venezuela,VEN,1952,Helsinki,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+F Paredes,F,Venezuela,VEN,2024,Paris,Fencing,Women's Sabre Individual,No medal,Women's,FEN,False,True

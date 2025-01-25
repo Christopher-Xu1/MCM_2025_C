@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nicholas D'amour,M,"Virgin Islands, Us",ISV,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nicholas D'amour,M,"Virgin Islands, Us",ISV,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,False,True

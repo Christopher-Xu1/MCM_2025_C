@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Steve Darcis,M,Belgium,BEL,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Steve Darcis,M,Belgium,BEL,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Steve Darcis,M,Belgium,BEL,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Victor Laveleye,M,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Victor Laveleye,M,Belgium,BEL,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-David Goffin,M,Belgium,BEL,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-David Goffin,M,Belgium,BEL,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Stephane-Joseph Halot,M,Belgium,BEL,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Albert Lammens,M,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Albert Lammens,M,Belgium,BEL,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Xavier Malisse,M,Belgium,BEL,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Xavier Malisse,M,Belgium,BEL,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Olivier Rochus,M,Belgium,BEL,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Olivier Rochus,M,Belgium,BEL,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Olivier Rochus,M,Belgium,BEL,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Olivier Rochus,M,Belgium,BEL,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Olivier Rochus,M,Belgium,BEL,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Maurice Bemden,M,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Jean Washer,M,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Jean Washer,M,Belgium,BEL,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Sander Gille,M,Belgium,BEL,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
-Joran Vliegen,M,Belgium,BEL,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
-Sander Gille,M,Belgium,BEL,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
-Joran Vliegen,M,Belgium,BEL,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
-Zizou Bergs,M,Belgium,BEL,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Steve Darcis,M,Belgium,BEL,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Steve Darcis,M,Belgium,BEL,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Steve Darcis,M,Belgium,BEL,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Victor Laveleye,M,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Victor Laveleye,M,Belgium,BEL,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+David Goffin,M,Belgium,BEL,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+David Goffin,M,Belgium,BEL,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Stephane-Joseph Halot,M,Belgium,BEL,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Albert Lammens,M,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Albert Lammens,M,Belgium,BEL,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Xavier Malisse,M,Belgium,BEL,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Xavier Malisse,M,Belgium,BEL,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Olivier Rochus,M,Belgium,BEL,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Olivier Rochus,M,Belgium,BEL,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Olivier Rochus,M,Belgium,BEL,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Olivier Rochus,M,Belgium,BEL,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Olivier Rochus,M,Belgium,BEL,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Maurice Bemden,M,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Jean Washer,M,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Jean Washer,M,Belgium,BEL,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Sander Gille,M,Belgium,BEL,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True,True
+Joran Vliegen,M,Belgium,BEL,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True,True
+Sander Gille,M,Belgium,BEL,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True,False
+Joran Vliegen,M,Belgium,BEL,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True,False
+Zizou Bergs,M,Belgium,BEL,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,False,True

@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ruslan Lunev,M,Azerbaijan,AZE,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Ruslan Lunev,M,Azerbaijan,AZE,2016,Rio de Janeiro,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,True
-Valeri Timoxin,M,Azerbaijan,AZE,1996,Atlanta,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False
-Emin Jafarov,M,Azerbaijan,AZE,2020,Tokyo,Shooting,Skeet Men,No medal,Skeet,SHO,False
-Ruslan Lunev,M,Azerbaijan,AZE,2020,Tokyo,Shooting,10m Air Pistol Men,No medal,10m,SHO,True
-Ruslan Lunev,M,Azerbaijan,AZE,2020,Tokyo,Shooting,25m Rapid Fire Pistol Men,No medal,25m,SHO,True
-Ruslan Lunev,M,Azerbaijan,AZE,2024,Paris,Shooting,10m Air Pistol Men,No medal,10m,SHO,True
-Ruslan Lunev,M,Azerbaijan,AZE,2024,Paris,Shooting,25m Rapid Fire Pistol Men,No medal,25m,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ruslan Lunev,M,Azerbaijan,AZE,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Ruslan Lunev,M,Azerbaijan,AZE,2016,Rio de Janeiro,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Valeri Timoxin,M,Azerbaijan,AZE,1996,Atlanta,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False,True
+Emin Jafarov,M,Azerbaijan,AZE,2020,Tokyo,Shooting,Skeet Men,No medal,Skeet,SHO,False,True
+Ruslan Lunev,M,Azerbaijan,AZE,2020,Tokyo,Shooting,10m Air Pistol Men,No medal,10m,SHO,True,False
+Ruslan Lunev,M,Azerbaijan,AZE,2020,Tokyo,Shooting,25m Rapid Fire Pistol Men,No medal,25m,SHO,True,False
+Ruslan Lunev,M,Azerbaijan,AZE,2024,Paris,Shooting,10m Air Pistol Men,No medal,10m,SHO,True,False
+Ruslan Lunev,M,Azerbaijan,AZE,2024,Paris,Shooting,25m Rapid Fire Pistol Men,No medal,25m,SHO,True,False

@@ -1,41 +1,41 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sabine (-haubourdin),F,Belgium,BEL,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Sabine (-haubourdin),F,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Sabine (-haubourdin),F,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Sabine (-haubourdin),F,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Fernande (-jamar),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Fernande (-jamar),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Els Callens,F,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Els Callens,F,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,True
-Marguerite Chaudoir,F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Kim Clijsters,F,Belgium,BEL,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Laurence (-crols),F,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Laurence (-crols),F,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Anne Moranville-),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Anne Moranville-),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Anne Moranville-),F,Belgium,BEL,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Anne Moranville-),F,Belgium,BEL,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Marthe (chaudoir-),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Marthe (chaudoir-),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Marthe (chaudoir-),F,Belgium,BEL,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Kirsten Flipkens,F,Belgium,BEL,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Kirsten Flipkens,F,Belgium,BEL,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Justine Henin-hardenne,F,Belgium,BEL,2004,Athina,Tennis,Tennis Women's Singles,Gold,Tennis,TEN,False
-G. Janssen,F,Belgium,BEL,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Marie Jones,F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Marguerite Laurenan,F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Marie (puissant-),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Marie (puissant-),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Marie (puissant-),F,Belgium,BEL,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Marie (puissant-),F,Belgium,BEL,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Franoise Tschaggeny,F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Dominique (monami-),F,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Dominique (monami-),F,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Dominique (monami-),F,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,True
-Yanina Wickmayer,F,Belgium,BEL,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Yanina Wickmayer,F,Belgium,BEL,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Yanina Wickmayer,F,Belgium,BEL,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Elise Mertens,F,Belgium,BEL,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
-Elise Mertens,F,Belgium,BEL,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
-van Alison,F,Belgium,BEL,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
-van Alison,F,Belgium,BEL,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sabine (-haubourdin),F,Belgium,BEL,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Sabine (-haubourdin),F,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Sabine (-haubourdin),F,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Sabine (-haubourdin),F,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Fernande (-jamar),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Fernande (-jamar),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Els Callens,F,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Els Callens,F,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,True,True
+Marguerite Chaudoir,F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Kim Clijsters,F,Belgium,BEL,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Laurence (-crols),F,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Laurence (-crols),F,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Anne Moranville-),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Anne Moranville-),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Anne Moranville-),F,Belgium,BEL,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Anne Moranville-),F,Belgium,BEL,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Marthe (chaudoir-),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Marthe (chaudoir-),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Marthe (chaudoir-),F,Belgium,BEL,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Kirsten Flipkens,F,Belgium,BEL,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Kirsten Flipkens,F,Belgium,BEL,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Justine Henin-hardenne,F,Belgium,BEL,2004,Athina,Tennis,Tennis Women's Singles,Gold,Tennis,TEN,False,True
+G. Janssen,F,Belgium,BEL,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Marie Jones,F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Marguerite Laurenan,F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Marie (puissant-),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Marie (puissant-),F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Marie (puissant-),F,Belgium,BEL,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Marie (puissant-),F,Belgium,BEL,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Franoise Tschaggeny,F,Belgium,BEL,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Dominique (monami-),F,Belgium,BEL,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Dominique (monami-),F,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Dominique (monami-),F,Belgium,BEL,2000,Sydney,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,True,False
+Yanina Wickmayer,F,Belgium,BEL,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Yanina Wickmayer,F,Belgium,BEL,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Yanina Wickmayer,F,Belgium,BEL,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Elise Mertens,F,Belgium,BEL,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Elise Mertens,F,Belgium,BEL,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,True
+van Alison,F,Belgium,BEL,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+van Alison,F,Belgium,BEL,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,True

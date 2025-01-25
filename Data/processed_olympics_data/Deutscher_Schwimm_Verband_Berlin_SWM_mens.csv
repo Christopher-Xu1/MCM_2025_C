@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Max Hainle,M,Deutscher Schwimm Verband Berlin,GER,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Gold,Swimming,SWM,False
-Ernst Hoppenberg,M,Deutscher Schwimm Verband Berlin,GER,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Gold,Swimming,SWM,False
-Gustav Lexau,M,Deutscher Schwimm Verband Berlin,GER,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Gold,Swimming,SWM,False
-Ernst Lhrsen,M,Deutscher Schwimm Verband Berlin,GER,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Gold,Swimming,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Max Hainle,M,Deutscher Schwimm Verband Berlin,GER,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Gold,Swimming,SWM,False,True
+Ernst Hoppenberg,M,Deutscher Schwimm Verband Berlin,GER,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Gold,Swimming,SWM,False,True
+Gustav Lexau,M,Deutscher Schwimm Verband Berlin,GER,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Gold,Swimming,SWM,False,True
+Ernst Lhrsen,M,Deutscher Schwimm Verband Berlin,GER,1900,Paris,Swimming,Swimming Men's 200 metres Team Swimming,Gold,Swimming,SWM,False,True

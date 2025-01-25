@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Virginia Tapia,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Laura Tur,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Mara Abad,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Asuncin Domnguez,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Estela Cervio,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Marta Barbera,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Inmaculada Casado,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Olga Rubio,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Carmen Martnez,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Rita Larrazbal,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Inmaculada Cerezo,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Ana Domingo,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Virginia Tapia,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Laura Tur,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Mara Abad,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Asuncin Domnguez,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Estela Cervio,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Marta Barbera,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Inmaculada Casado,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Olga Rubio,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Carmen Martnez,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Rita Larrazbal,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Inmaculada Cerezo,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Ana Domingo,F,Spain,ESP,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True

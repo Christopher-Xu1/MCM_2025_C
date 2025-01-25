@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sabrina (-babic),F,Yugoslavia,YUG,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sabrina (-babic),F,Yugoslavia,YUG,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True

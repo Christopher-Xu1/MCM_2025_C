@@ -1,31 +1,31 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Glen Martnez,M,Costa Rica,CRC,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Glen Martnez,M,Costa Rica,CRC,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Juan Arias,M,Costa Rica,CRC,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Nery Crdenas,M,Costa Rica,CRC,2008,Beijing,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Nery Crdenas,M,Costa Rica,CRC,2012,London,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Nery Crdenas,M,Costa Rica,CRC,2016,Rio de Janeiro,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Nery Crdenas,M,Costa Rica,CRC,2016,Rio de Janeiro,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Henry Colphon,M,Costa Rica,CRC,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Alex Hutchinson,M,Costa Rica,CRC,1992,Barcelona,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
-Randolph Hutchinson,M,Costa Rica,CRC,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Randolph Hutchinson,M,Costa Rica,CRC,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Ronald Campos,M,Costa Rica,CRC,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Ronald Campos,M,Costa Rica,CRC,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Csar Cedeo,M,Costa Rica,CRC,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Luis Roger,M,Costa Rica,CRC,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Luis Roger,M,Costa Rica,CRC,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Jos Nez,M,Costa Rica,CRC,1992,Barcelona,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Jos Nez,M,Costa Rica,CRC,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Jos Nez,M,Costa Rica,CRC,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Luis Padilla,M,Costa Rica,CRC,1984,Los Angeles,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Luis Padilla,M,Costa Rica,CRC,1984,Los Angeles,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Juan Cordoba,M,Costa Rica,CRC,1968,Mexico City,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Juan Cordoba,M,Costa Rica,CRC,1968,Mexico City,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Juan Cordoba,M,Costa Rica,CRC,1968,Mexico City,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Juan Cordoba,M,Costa Rica,CRC,1972,Munich,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Roberto Furtado,M,Costa Rica,CRC,2016,Rio de Janeiro,Athletics,Athletics Men's Hammer Throw,No medal,Athletics,ATH,False
-Allan Medina,M,Costa Rica,CRC,2008,Beijing,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False
-Miguel Guerrero,M,Costa Rica,CRC,1992,Barcelona,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,False
-Gerald Drummond,M,Costa Rica,CRC,2020,Tokyo,Athletics,Men's 400m Hurdles,No medal,Men's,ATH,True
-Gerald Drummond,M,Costa Rica,CRC,2024,Paris,Athletics,Men's 400m Hurdles,No medal,Men's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Glen Martnez,M,Costa Rica,CRC,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Glen Martnez,M,Costa Rica,CRC,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Juan Arias,M,Costa Rica,CRC,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Nery Crdenas,M,Costa Rica,CRC,2008,Beijing,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Nery Crdenas,M,Costa Rica,CRC,2012,London,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,False
+Nery Crdenas,M,Costa Rica,CRC,2016,Rio de Janeiro,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Nery Crdenas,M,Costa Rica,CRC,2016,Rio de Janeiro,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,False
+Henry Colphon,M,Costa Rica,CRC,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Alex Hutchinson,M,Costa Rica,CRC,1992,Barcelona,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+Randolph Hutchinson,M,Costa Rica,CRC,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Randolph Hutchinson,M,Costa Rica,CRC,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Ronald Campos,M,Costa Rica,CRC,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Ronald Campos,M,Costa Rica,CRC,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Csar Cedeo,M,Costa Rica,CRC,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Luis Roger,M,Costa Rica,CRC,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Luis Roger,M,Costa Rica,CRC,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Jos Nez,M,Costa Rica,CRC,1992,Barcelona,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Jos Nez,M,Costa Rica,CRC,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Jos Nez,M,Costa Rica,CRC,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Luis Padilla,M,Costa Rica,CRC,1984,Los Angeles,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Luis Padilla,M,Costa Rica,CRC,1984,Los Angeles,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Juan Cordoba,M,Costa Rica,CRC,1968,Mexico City,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Juan Cordoba,M,Costa Rica,CRC,1968,Mexico City,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Juan Cordoba,M,Costa Rica,CRC,1968,Mexico City,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Juan Cordoba,M,Costa Rica,CRC,1972,Munich,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,False
+Roberto Furtado,M,Costa Rica,CRC,2016,Rio de Janeiro,Athletics,Athletics Men's Hammer Throw,No medal,Athletics,ATH,False,True
+Allan Medina,M,Costa Rica,CRC,2008,Beijing,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False,True
+Miguel Guerrero,M,Costa Rica,CRC,1992,Barcelona,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,False,True
+Gerald Drummond,M,Costa Rica,CRC,2020,Tokyo,Athletics,Men's 400m Hurdles,No medal,Men's,ATH,True,True
+Gerald Drummond,M,Costa Rica,CRC,2024,Paris,Athletics,Men's 400m Hurdles,No medal,Men's,ATH,True,False

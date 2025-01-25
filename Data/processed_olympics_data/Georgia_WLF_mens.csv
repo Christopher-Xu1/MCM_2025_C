@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Giorgi Asanidze,M,Georgia,GEO,2000,Sydney,Weightlifting,Weightlifting Men's Light-Heavyweight,Bronze,Weightlifting,WLF,True
-Giorgi Asanidze,M,Georgia,GEO,2004,Athina,Weightlifting,Weightlifting Men's Light-Heavyweight,Gold,Weightlifting,WLF,True
-Giorgi Chkheidze,M,Georgia,GEO,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False
-Mukhran Gogia,M,Georgia,GEO,2000,Sydney,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False
-Arsen Kasabijew,M,Georgia,GEO,2004,Athina,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Arsen Kasabijew,M,Georgia,GEO,2008,Beijing,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Albert K'uzilovi,M,Georgia,GEO,2008,Beijing,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False
-Gia Mach'avariani,M,Georgia,GEO,2012,London,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False
-Bidzina Mikiashvili,M,Georgia,GEO,1996,Atlanta,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Valeriane Sarava,M,Georgia,GEO,2000,Sydney,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Lasha Talakhadze,M,Georgia,GEO,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Super-Heavyweight,Gold,Weightlifting,WLF,True
-Raul Tsirek'idze,M,Georgia,GEO,2008,Beijing,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Raul Tsirek'idze,M,Georgia,GEO,2012,London,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Irak'li Turmanidze,M,Georgia,GEO,2012,London,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Irak'li Turmanidze,M,Georgia,GEO,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Super-Heavyweight,Bronze,Weightlifting,WLF,True
-Goga Chkheidze,M,Georgia,GEO,2020,Tokyo,Weightlifting,Men's 67kg,No medal,Men's,WLF,False
-Shota Mishvelidze,M,Georgia,GEO,2020,Tokyo,Weightlifting,Men's 61kg,No medal,Men's,WLF,True
-Anton Pliesnoi,M,Georgia,GEO,2020,Tokyo,Weightlifting,Men's 96kg,Bronze,Men's,WLF,False
-Lasha Talakhadze,M,Georgia,GEO,2020,Tokyo,Weightlifting,Men's +109kg,Gold,Men's,WLF,True
-Lasha Talakhadze,M,Georgia,GEO,2024,Paris,Weightlifting,Men's +102kg,Gold,Men's,WLF,True
-Shota Mishvelidze,M,Georgia,GEO,2024,Paris,Weightlifting,Men's 61kg,No medal,Men's,WLF,True
-Irakli Chkheidze,M,Georgia,GEO,2024,Paris,Weightlifting,Men's 102kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Giorgi Asanidze,M,Georgia,GEO,2000,Sydney,Weightlifting,Weightlifting Men's Light-Heavyweight,Bronze,Weightlifting,WLF,True,True
+Giorgi Asanidze,M,Georgia,GEO,2004,Athina,Weightlifting,Weightlifting Men's Light-Heavyweight,Gold,Weightlifting,WLF,True,False
+Giorgi Chkheidze,M,Georgia,GEO,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False,True
+Mukhran Gogia,M,Georgia,GEO,2000,Sydney,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False,True
+Arsen Kasabijew,M,Georgia,GEO,2004,Athina,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,True
+Arsen Kasabijew,M,Georgia,GEO,2008,Beijing,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,False
+Albert K'uzilovi,M,Georgia,GEO,2008,Beijing,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False,True
+Gia Mach'avariani,M,Georgia,GEO,2012,London,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False,True
+Bidzina Mikiashvili,M,Georgia,GEO,1996,Atlanta,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Valeriane Sarava,M,Georgia,GEO,2000,Sydney,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Lasha Talakhadze,M,Georgia,GEO,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Super-Heavyweight,Gold,Weightlifting,WLF,True,True
+Raul Tsirek'idze,M,Georgia,GEO,2008,Beijing,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True,True
+Raul Tsirek'idze,M,Georgia,GEO,2012,London,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True,False
+Irak'li Turmanidze,M,Georgia,GEO,2012,London,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True,True
+Irak'li Turmanidze,M,Georgia,GEO,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Super-Heavyweight,Bronze,Weightlifting,WLF,True,False
+Goga Chkheidze,M,Georgia,GEO,2020,Tokyo,Weightlifting,Men's 67kg,No medal,Men's,WLF,False,True
+Shota Mishvelidze,M,Georgia,GEO,2020,Tokyo,Weightlifting,Men's 61kg,No medal,Men's,WLF,True,True
+Anton Pliesnoi,M,Georgia,GEO,2020,Tokyo,Weightlifting,Men's 96kg,Bronze,Men's,WLF,False,True
+Lasha Talakhadze,M,Georgia,GEO,2020,Tokyo,Weightlifting,Men's +109kg,Gold,Men's,WLF,True,False
+Lasha Talakhadze,M,Georgia,GEO,2024,Paris,Weightlifting,Men's +102kg,Gold,Men's,WLF,True,False
+Shota Mishvelidze,M,Georgia,GEO,2024,Paris,Weightlifting,Men's 61kg,No medal,Men's,WLF,True,False
+Irakli Chkheidze,M,Georgia,GEO,2024,Paris,Weightlifting,Men's 102kg,No medal,Men's,WLF,False,True

@@ -1,44 +1,44 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jasmine Alkhaldi,F,Philippines,PHI,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Jasmine Alkhaldi,F,Philippines,PHI,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Hayde Espino,F,Philippines,PHI,1960,Roma,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Marie-Lizza Danila,F,Philippines,PHI,2000,Sydney,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Nancy Deano,F,Philippines,PHI,1976,Montreal,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Nancy Deano,F,Philippines,PHI,1976,Montreal,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Nancy Deano,F,Philippines,PHI,1976,Montreal,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Helene Elliott,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Helene Elliott,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Helene Elliott,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Helene Elliott,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Hedvig Garca,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Hedvig Garca,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Hedvig Garca,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Hedvig Garca,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Jenny Guerrero,F,Philippines,PHI,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Jenny Guerrero,F,Philippines,PHI,2000,Sydney,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Christine (-sandejas),F,Philippines,PHI,1984,Los Angeles,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Christine (-sandejas),F,Philippines,PHI,1984,Los Angeles,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Christine (-sandejas),F,Philippines,PHI,1984,Los Angeles,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Christine (-sandejas),F,Philippines,PHI,1984,Los Angeles,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Gertrudes Lozada,F,Philippines,PHI,1956,Melbourne,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Gertrudes Lozada,F,Philippines,PHI,1956,Melbourne,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Jaclyn Pangilinan,F,Philippines,PHI,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Jaclyn Pangilinan,F,Philippines,PHI,2004,Athina,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Joan Simms,F,Philippines,PHI,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Joan Simms,F,Philippines,PHI,2008,Beijing,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Gillian Thomson,F,Philippines,PHI,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Gillian Thomson,F,Philippines,PHI,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Gillian Thomson,F,Philippines,PHI,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Gillian Thomson,F,Philippines,PHI,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Gillian Thomson,F,Philippines,PHI,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Gillian Thomson,F,Philippines,PHI,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Gillian Thomson,F,Philippines,PHI,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Gillian Thomson,F,Philippines,PHI,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Gillian Thomson,F,Philippines,PHI,1996,Atlanta,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Gillian Thomson,F,Philippines,PHI,1996,Atlanta,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Gillian Thomson,F,Philippines,PHI,1996,Atlanta,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Jocelyn Giese,F,Philippines,PHI,1956,Melbourne,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Sandra Giese,F,Philippines,PHI,1960,Roma,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False
-Remedy Rule,F,Philippines,PHI,2020,Tokyo,Swimming,Women's 100m Butterfly,No medal,Women's,SWM,True
-Remedy Rule,F,Philippines,PHI,2020,Tokyo,Swimming,Women's 200m Butterfly,No medal,Women's,SWM,True
-Kayla Sanchez,F,Philippines,PHI,2024,Paris,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jasmine Alkhaldi,F,Philippines,PHI,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Jasmine Alkhaldi,F,Philippines,PHI,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Hayde Espino,F,Philippines,PHI,1960,Roma,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Marie-Lizza Danila,F,Philippines,PHI,2000,Sydney,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Nancy Deano,F,Philippines,PHI,1976,Montreal,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Nancy Deano,F,Philippines,PHI,1976,Montreal,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Nancy Deano,F,Philippines,PHI,1976,Montreal,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Helene Elliott,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Helene Elliott,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Helene Elliott,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Helene Elliott,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Hedvig Garca,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Hedvig Garca,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Hedvig Garca,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Hedvig Garca,F,Philippines,PHI,1968,Mexico City,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Jenny Guerrero,F,Philippines,PHI,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Jenny Guerrero,F,Philippines,PHI,2000,Sydney,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Christine (-sandejas),F,Philippines,PHI,1984,Los Angeles,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Christine (-sandejas),F,Philippines,PHI,1984,Los Angeles,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Christine (-sandejas),F,Philippines,PHI,1984,Los Angeles,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Christine (-sandejas),F,Philippines,PHI,1984,Los Angeles,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Gertrudes Lozada,F,Philippines,PHI,1956,Melbourne,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Gertrudes Lozada,F,Philippines,PHI,1956,Melbourne,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Jaclyn Pangilinan,F,Philippines,PHI,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Jaclyn Pangilinan,F,Philippines,PHI,2004,Athina,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Joan Simms,F,Philippines,PHI,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Joan Simms,F,Philippines,PHI,2008,Beijing,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Gillian Thomson,F,Philippines,PHI,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Gillian Thomson,F,Philippines,PHI,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Gillian Thomson,F,Philippines,PHI,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Gillian Thomson,F,Philippines,PHI,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Gillian Thomson,F,Philippines,PHI,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Gillian Thomson,F,Philippines,PHI,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Gillian Thomson,F,Philippines,PHI,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,False
+Gillian Thomson,F,Philippines,PHI,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Gillian Thomson,F,Philippines,PHI,1996,Atlanta,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Gillian Thomson,F,Philippines,PHI,1996,Atlanta,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,False
+Gillian Thomson,F,Philippines,PHI,1996,Atlanta,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Jocelyn Giese,F,Philippines,PHI,1956,Melbourne,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Sandra Giese,F,Philippines,PHI,1960,Roma,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Remedy Rule,F,Philippines,PHI,2020,Tokyo,Swimming,Women's 100m Butterfly,No medal,Women's,SWM,True,True
+Remedy Rule,F,Philippines,PHI,2020,Tokyo,Swimming,Women's 200m Butterfly,No medal,Women's,SWM,True,True
+Kayla Sanchez,F,Philippines,PHI,2024,Paris,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,False,True

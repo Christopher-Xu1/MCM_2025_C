@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Adrian Arendt,M,Romania,ROU,1980,Moskva,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Mihai Butucaru,M,Romania,ROU,1980,Moskva,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Mircea Carp,M,Romania,ROU,1980,Moskva,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Andrei Chiliman,M,Romania,ROU,1980,Moskva,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Dumitru Fril,M,Romania,ROU,1996,Atlanta,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False
-Horia Ispa,M,Romania,ROU,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Adrian Arendt,M,Romania,ROU,1980,Moskva,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Mihai Butucaru,M,Romania,ROU,1980,Moskva,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Mircea Carp,M,Romania,ROU,1980,Moskva,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Andrei Chiliman,M,Romania,ROU,1980,Moskva,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Dumitru Fril,M,Romania,ROU,1996,Atlanta,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False,True
+Horia Ispa,M,Romania,ROU,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True

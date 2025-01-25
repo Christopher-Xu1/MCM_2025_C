@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elke (-s),F,Germany-2,GER,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Elke (-s),F,Germany-2,GER,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Nicole Struse,F,Germany-2,GER,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Nicole Struse,F,Germany-2,GER,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elke (-s),F,Germany-2,GER,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Elke (-s),F,Germany-2,GER,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Nicole Struse,F,Germany-2,GER,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Nicole Struse,F,Germany-2,GER,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False

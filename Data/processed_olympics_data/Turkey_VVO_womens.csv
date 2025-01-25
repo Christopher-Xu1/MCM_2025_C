@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Naz (-akyol),F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Bra Cansu,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Neslihan Darnel,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Eda Dndar,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Esra Gm,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Gizem (-karaday),F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Glden Kuzubaolu,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Gzde Sonsrma,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-zge Emberci,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Neriman Zsoy,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Bahar Toksoy,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Polen Uslupehlivan,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Sebnem Akoz,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Naz Aydemir,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Hande Baladin,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Meryem Boz,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Kubra Caliskan,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Seyma Ercan,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Eda Erdem,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Zehra Gunes,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Meliha Ismailoglu,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Ebrar Karakurt,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Cansu Ozbay,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Tugba Senoglu,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Naz (-akyol),F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Bra Cansu,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Neslihan Darnel,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Eda Dndar,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Esra Gm,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Gizem (-karaday),F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Glden Kuzubaolu,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Gzde Sonsrma,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+zge Emberci,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Neriman Zsoy,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Bahar Toksoy,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Polen Uslupehlivan,F,Turkey,TUR,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Sebnem Akoz,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Naz Aydemir,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Hande Baladin,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Meryem Boz,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Kubra Caliskan,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Seyma Ercan,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Eda Erdem,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Zehra Gunes,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Meliha Ismailoglu,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Ebrar Karakurt,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Cansu Ozbay,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Tugba Senoglu,F,Turkey,TUR,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True

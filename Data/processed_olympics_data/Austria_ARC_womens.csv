@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Laurence Baldauff,F,Austria,AUT,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Ursula Valenta,F,Austria,AUT,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Elisabeth Straka,F,Austria,AUT,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Laurence Baldauff,F,Austria,AUT,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Ursula Valenta,F,Austria,AUT,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Elisabeth Straka,F,Austria,AUT,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,False,True

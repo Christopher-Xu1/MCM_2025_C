@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Selina Boyle,F,Ireland,IRL,1948,London,Art Competitions,"Art Competitions Mixed Music, Vocals",No medal,Art,ART,False
-Kathleen Bridle,F,Ireland,IRL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,True
-Kathleen Bridle,F,Ireland,IRL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-Lilian Davidson,F,Ireland,IRL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,True
-Lilian Davidson,F,Ireland,IRL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-Letitia Hamilton,F,Ireland,IRL,1948,London,Art Competitions,"Art Competitions Mixed Painting, Paintings",Bronze,Art,ART,True
-Letitia Hamilton,F,Ireland,IRL,1948,London,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Mary Jellett,F,Ireland,IRL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False
-Frances (-boland),F,Ireland,IRL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False
-Florence O'brien,F,Ireland,IRL,1948,London,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",No medal,Art,ART,False
-May Power,F,Ireland,IRL,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False
-Hilda Roberts,F,Ireland,IRL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Hilda Roberts,F,Ireland,IRL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Stella (-ross),F,Ireland,IRL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Selina Boyle,F,Ireland,IRL,1948,London,Art Competitions,"Art Competitions Mixed Music, Vocals",No medal,Art,ART,False,True
+Kathleen Bridle,F,Ireland,IRL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,True,True
+Kathleen Bridle,F,Ireland,IRL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+Lilian Davidson,F,Ireland,IRL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,True,True
+Lilian Davidson,F,Ireland,IRL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+Letitia Hamilton,F,Ireland,IRL,1948,London,Art Competitions,"Art Competitions Mixed Painting, Paintings",Bronze,Art,ART,True,True
+Letitia Hamilton,F,Ireland,IRL,1948,London,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Mary Jellett,F,Ireland,IRL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False,True
+Frances (-boland),F,Ireland,IRL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False,True
+Florence O'brien,F,Ireland,IRL,1948,London,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",No medal,Art,ART,False,True
+May Power,F,Ireland,IRL,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False,True
+Hilda Roberts,F,Ireland,IRL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Hilda Roberts,F,Ireland,IRL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Stella (-ross),F,Ireland,IRL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,False,True

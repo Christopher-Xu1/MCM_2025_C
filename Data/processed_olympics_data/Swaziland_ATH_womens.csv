@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Temalangeni Dlamini,F,Swaziland,SWZ,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Priscilla Mamba,F,Swaziland,SWZ,2000,Sydney,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,False
-Gcinile Moyane,F,Swaziland,SWZ,2004,Athina,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Phumlile Ndzinisa,F,Swaziland,SWZ,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Phumlile Ndzinisa,F,Swaziland,SWZ,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Temalangeni Dlamini,F,Swaziland,SWZ,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Priscilla Mamba,F,Swaziland,SWZ,2000,Sydney,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,False,True
+Gcinile Moyane,F,Swaziland,SWZ,2004,Athina,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Phumlile Ndzinisa,F,Swaziland,SWZ,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Phumlile Ndzinisa,F,Swaziland,SWZ,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False

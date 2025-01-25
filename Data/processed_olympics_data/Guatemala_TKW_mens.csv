@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jos Ros,M,Guatemala,GUA,2000,Sydney,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,True
-Jos Ros,M,Guatemala,GUA,2004,Athina,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jos Ros,M,Guatemala,GUA,2000,Sydney,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,True,True
+Jos Ros,M,Guatemala,GUA,2004,Athina,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,True,False

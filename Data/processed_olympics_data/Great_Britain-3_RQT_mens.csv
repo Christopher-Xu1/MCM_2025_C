@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Henry Leaf,M,Great Britain-3,GBR,1908,London,Racquets,Racquets Men's Doubles,Bronze,Racquets,RQT,False
-Evan Noel,M,Great Britain-3,GBR,1908,London,Racquets,Racquets Men's Doubles,Bronze,Racquets,RQT,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Henry Leaf,M,Great Britain-3,GBR,1908,London,Racquets,Racquets Men's Doubles,Bronze,Racquets,RQT,False,True
+Evan Noel,M,Great Britain-3,GBR,1908,London,Racquets,Racquets Men's Doubles,Bronze,Racquets,RQT,False,True

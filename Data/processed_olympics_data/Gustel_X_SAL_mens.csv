@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Erich Natusch,M,Gustel X,GER,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False
-Georg Nowka,M,Gustel X,GER,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False
-Theodor Thomsen,M,Gustel X,GER,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Erich Natusch,M,Gustel X,GER,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False,True
+Georg Nowka,M,Gustel X,GER,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False,True
+Theodor Thomsen,M,Gustel X,GER,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False,True

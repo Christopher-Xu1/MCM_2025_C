@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gulnafis Aytmukhambetova,F,Kazakhstan,KAZ,2012,London,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,False
-Zhansel Deniz,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,False
-Liya Nurkina,F,Kazakhstan,KAZ,2008,Beijing,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,False
-Feruza Yergeshova,F,Kazakhstan,KAZ,2012,London,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False
-Aynur Yesbergenova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,False
-Cansel Deniz,F,Kazakhstan,KAZ,2020,Tokyo,Taekwondo,Women +67kg,No medal,Women,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gulnafis Aytmukhambetova,F,Kazakhstan,KAZ,2012,London,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,False,True
+Zhansel Deniz,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,False,True
+Liya Nurkina,F,Kazakhstan,KAZ,2008,Beijing,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,False,True
+Feruza Yergeshova,F,Kazakhstan,KAZ,2012,London,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False,True
+Aynur Yesbergenova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,False,True
+Cansel Deniz,F,Kazakhstan,KAZ,2020,Tokyo,Taekwondo,Women +67kg,No medal,Women,TKW,False,True

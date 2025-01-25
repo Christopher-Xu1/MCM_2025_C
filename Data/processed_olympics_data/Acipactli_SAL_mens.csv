@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mauricio Lama,M,Acipactli,MEX,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Juan Frias,M,Acipactli,MEX,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Francisco Lpez,M,Acipactli,MEX,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mauricio Lama,M,Acipactli,MEX,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Juan Frias,M,Acipactli,MEX,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Francisco Lpez,M,Acipactli,MEX,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

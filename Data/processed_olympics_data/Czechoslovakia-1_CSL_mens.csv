@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Antonn Brabec,M,Czechoslovakia-1,TCH,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False
-Frantiek Kadaka,M,Czechoslovakia-1,TCH,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False
-Ji Rohan,M,Czechoslovakia-1,TCH,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False
-Miroslav Imek,M,Czechoslovakia-1,TCH,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Antonn Brabec,M,Czechoslovakia-1,TCH,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False,True
+Frantiek Kadaka,M,Czechoslovakia-1,TCH,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False,True
+Ji Rohan,M,Czechoslovakia-1,TCH,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False,True
+Miroslav Imek,M,Czechoslovakia-1,TCH,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False,True

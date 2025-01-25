@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pere Koroba,F,Indonesia,INA,2004,Athina,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False
-Dewi Yuliawati,F,Indonesia,INA,2016,Rio de Janeiro,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False
-Melani Putri,F,Indonesia,INA,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,False
-Mutiara Putri,F,Indonesia,INA,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pere Koroba,F,Indonesia,INA,2004,Athina,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False,True
+Dewi Yuliawati,F,Indonesia,INA,2016,Rio de Janeiro,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False,True
+Melani Putri,F,Indonesia,INA,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,False,True
+Mutiara Putri,F,Indonesia,INA,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,False,True

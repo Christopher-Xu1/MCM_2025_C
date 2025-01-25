@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Niluka Karunaratne,M,Sri Lanka,SRI,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Niluka Karunaratne,M,Sri Lanka,SRI,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-P. Wijekoon,M,Sri Lanka,SRI,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Niluka Karunaratne,M,Sri Lanka,SRI,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True
-Viren Nettasinghe,M,Sri Lanka,SRI,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Niluka Karunaratne,M,Sri Lanka,SRI,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Niluka Karunaratne,M,Sri Lanka,SRI,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+P. Wijekoon,M,Sri Lanka,SRI,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Niluka Karunaratne,M,Sri Lanka,SRI,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True,False
+Viren Nettasinghe,M,Sri Lanka,SRI,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False,True

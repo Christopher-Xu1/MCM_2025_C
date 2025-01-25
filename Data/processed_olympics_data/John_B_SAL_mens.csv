@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Basil Kelly,M,John B,BAH,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-Percival Knowles,M,John B,BAH,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-George Ramsay,M,John B,BAH,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,True
-George Ramsay,M,John B,BAH,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,True
-Robert Symonette,M,John B,BAH,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,True
-Robert Symonette,M,John B,BAH,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Basil Kelly,M,John B,BAH,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+Percival Knowles,M,John B,BAH,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+George Ramsay,M,John B,BAH,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,True,True
+George Ramsay,M,John B,BAH,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,True,False
+Robert Symonette,M,John B,BAH,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,True,True
+Robert Symonette,M,John B,BAH,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,True,False

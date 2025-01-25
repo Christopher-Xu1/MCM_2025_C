@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aziz Al,M,Ua Emirates,UAE,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Aziz Al,M,Ua Emirates,UAE,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Mohd Al,M,Ua Emirates,UAE,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Mohd Al,M,Ua Emirates,UAE,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Ahmed Al,M,Ua Emirates,UAE,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Ahmed Al,M,Ua Emirates,UAE,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aziz Al,M,Ua Emirates,UAE,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Aziz Al,M,Ua Emirates,UAE,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Mohd Al,M,Ua Emirates,UAE,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Mohd Al,M,Ua Emirates,UAE,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Ahmed Al,M,Ua Emirates,UAE,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Ahmed Al,M,Ua Emirates,UAE,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True

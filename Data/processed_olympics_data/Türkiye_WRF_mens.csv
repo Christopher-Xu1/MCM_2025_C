@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ibrahim Ciftci,M,Türkiye,TUR,2024,Paris,Wrestling,Men's Freestyle 97kg,No medal,Men's,WRF,False
-Taha Akgul,M,Türkiye,TUR,2024,Paris,Wrestling,Men's Freestyle 125kg,Bronze,Men's,WRF,False
-Burhan Akbudak,M,Türkiye,TUR,2024,Paris,Wrestling,Men's Greco-Roman 77kg,No medal,Men's,WRF,False
-Ali Cengiz,M,Türkiye,TUR,2024,Paris,Wrestling,Men's Greco-Roman 87kg,No medal,Men's,WRF,False
-Hamza Bakir,M,Türkiye,TUR,2024,Paris,Wrestling,Men's Greco-Roman 130kg,No medal,Men's,WRF,False
-Enes Basar,M,Türkiye,TUR,2024,Paris,Wrestling,Men's Greco-Roman 60kg,No medal,Men's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ibrahim Ciftci,M,Türkiye,TUR,2024,Paris,Wrestling,Men's Freestyle 97kg,No medal,Men's,WRF,False,True
+Taha Akgul,M,Türkiye,TUR,2024,Paris,Wrestling,Men's Freestyle 125kg,Bronze,Men's,WRF,False,True
+Burhan Akbudak,M,Türkiye,TUR,2024,Paris,Wrestling,Men's Greco-Roman 77kg,No medal,Men's,WRF,False,True
+Ali Cengiz,M,Türkiye,TUR,2024,Paris,Wrestling,Men's Greco-Roman 87kg,No medal,Men's,WRF,False,True
+Hamza Bakir,M,Türkiye,TUR,2024,Paris,Wrestling,Men's Greco-Roman 130kg,No medal,Men's,WRF,False,True
+Enes Basar,M,Türkiye,TUR,2024,Paris,Wrestling,Men's Greco-Roman 60kg,No medal,Men's,WRF,False,True

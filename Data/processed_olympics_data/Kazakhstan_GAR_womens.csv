@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Moldir Azimbay,F,Kazakhstan,KAZ,2012,London,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Moldir Azimbay,F,Kazakhstan,KAZ,2012,London,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Moldir Azimbay,F,Kazakhstan,KAZ,2012,London,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Moldir Azimbay,F,Kazakhstan,KAZ,2012,London,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Olga Kozhevnikova,F,Kazakhstan,KAZ,1996,Atlanta,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Olga Kozhevnikova,F,Kazakhstan,KAZ,1996,Atlanta,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Olga Kozhevnikova,F,Kazakhstan,KAZ,1996,Atlanta,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Olga Kozhevnikova,F,Kazakhstan,KAZ,1996,Atlanta,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Olga Kozhevnikova,F,Kazakhstan,KAZ,1996,Atlanta,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Irina Yevdokimova,F,Kazakhstan,KAZ,2000,Sydney,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Irina Yevdokimova,F,Kazakhstan,KAZ,2000,Sydney,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Irina Yevdokimova,F,Kazakhstan,KAZ,2000,Sydney,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Irina Yevdokimova,F,Kazakhstan,KAZ,2000,Sydney,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Irina Yevdokimova,F,Kazakhstan,KAZ,2000,Sydney,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Moldir Azimbay,F,Kazakhstan,KAZ,2012,London,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Moldir Azimbay,F,Kazakhstan,KAZ,2012,London,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Moldir Azimbay,F,Kazakhstan,KAZ,2012,London,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Moldir Azimbay,F,Kazakhstan,KAZ,2012,London,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Olga Kozhevnikova,F,Kazakhstan,KAZ,1996,Atlanta,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Olga Kozhevnikova,F,Kazakhstan,KAZ,1996,Atlanta,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Olga Kozhevnikova,F,Kazakhstan,KAZ,1996,Atlanta,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Olga Kozhevnikova,F,Kazakhstan,KAZ,1996,Atlanta,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Olga Kozhevnikova,F,Kazakhstan,KAZ,1996,Atlanta,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Irina Yevdokimova,F,Kazakhstan,KAZ,2000,Sydney,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Irina Yevdokimova,F,Kazakhstan,KAZ,2000,Sydney,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Irina Yevdokimova,F,Kazakhstan,KAZ,2000,Sydney,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Irina Yevdokimova,F,Kazakhstan,KAZ,2000,Sydney,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Irina Yevdokimova,F,Kazakhstan,KAZ,2000,Sydney,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True

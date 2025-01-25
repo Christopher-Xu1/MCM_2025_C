@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ximena Escalera,F,Bolivia,BOL,1996,Atlanta,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Katerine Quintanilla,F,Bolivia,BOL,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Katerine Quintanilla,F,Bolivia,BOL,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Katerine Quintanilla,F,Bolivia,BOL,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Katerine Quintanilla,F,Bolivia,BOL,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Katerine Quintanilla,F,Bolivia,BOL,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Katerine Quintanilla,F,Bolivia,BOL,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Katerine Quintanilla,F,Bolivia,BOL,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Paola Cabrera,F,Bolivia,BOL,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Paola Cabrera,F,Bolivia,BOL,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Paola Cabrera,F,Bolivia,BOL,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Karen Guzman,F,Bolivia,BOL,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Karen Guzman,F,Bolivia,BOL,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Karen Torrez,F,Bolivia,BOL,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
-Jose Ribera,F,Bolivia,BOL,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ximena Escalera,F,Bolivia,BOL,1996,Atlanta,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Katerine Quintanilla,F,Bolivia,BOL,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Katerine Quintanilla,F,Bolivia,BOL,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Katerine Quintanilla,F,Bolivia,BOL,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Katerine Quintanilla,F,Bolivia,BOL,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Katerine Quintanilla,F,Bolivia,BOL,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Katerine Quintanilla,F,Bolivia,BOL,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Katerine Quintanilla,F,Bolivia,BOL,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Paola Cabrera,F,Bolivia,BOL,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Paola Cabrera,F,Bolivia,BOL,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Paola Cabrera,F,Bolivia,BOL,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Karen Guzman,F,Bolivia,BOL,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Karen Guzman,F,Bolivia,BOL,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Karen Torrez,F,Bolivia,BOL,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True
+Jose Ribera,F,Bolivia,BOL,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True

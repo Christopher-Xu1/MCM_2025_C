@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hadi Tiranvalipour,M,Eor,EOR,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,False
-Kasra Mehdipournejad,M,Eor,EOR,2024,Paris,Taekwondo,Men +80kg,No medal,Men,TKW,False
-Yahya Al,M,Eor,EOR,2024,Paris,Taekwondo,Men -68kg,No medal,Men,TKW,False
-Farzad Mansouri,M,Eor,EOR,2024,Paris,Taekwondo,Men -80kg,No medal,Men,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hadi Tiranvalipour,M,Eor,EOR,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,False,True
+Kasra Mehdipournejad,M,Eor,EOR,2024,Paris,Taekwondo,Men +80kg,No medal,Men,TKW,False,True
+Yahya Al,M,Eor,EOR,2024,Paris,Taekwondo,Men -68kg,No medal,Men,TKW,False,True
+Farzad Mansouri,M,Eor,EOR,2024,Paris,Taekwondo,Men -80kg,No medal,Men,TKW,False,True

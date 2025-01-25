@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Svitlana Akhadova,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
-Hanna (nepitaieva-),F,Ukraine,UKR,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Hanna (nepitaieva-),F,Ukraine,UKR,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Hanna (nepitaieva-),F,Ukraine,UKR,2000,Sydney,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Hanna (nepitaieva-),F,Ukraine,UKR,2000,Sydney,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Hanna (nepitaieva-),F,Ukraine,UKR,2004,Athina,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Bronze,Canoeing,CSL,True
-Olena (-derevenko),F,Ukraine,UKR,2000,Sydney,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Olena (-derevenko),F,Ukraine,UKR,2004,Athina,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Bronze,Canoeing,CSL,True
-Nataliya Feklisova,F,Ukraine,UKR,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Nataliya Feklisova,F,Ukraine,UKR,2000,Sydney,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Nataliya Feklisova,F,Ukraine,UKR,2000,Sydney,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Inna Hryshchun,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Inna Hryshchun,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Inna Osypenko-radomska,F,Ukraine,UKR,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Inna Osypenko-radomska,F,Ukraine,UKR,2004,Athina,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Bronze,Canoeing,CSL,True
-Inna Osypenko-radomska,F,Ukraine,UKR,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Gold,Canoeing,CSL,True
-Inna Osypenko-radomska,F,Ukraine,UKR,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",Silver,Canoeing,CSL,True
-Inna Osypenko-radomska,F,Ukraine,UKR,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Silver,Canoeing,CSL,True
-Mariya Povkh,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Mariya Povkh,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Mariya Ralcheva,F,Ukraine,UKR,2000,Sydney,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
-Tetiana (-yatsenkian-),F,Ukraine,UKR,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Tetiana (-yatsenkian-),F,Ukraine,UKR,2004,Athina,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Bronze,Canoeing,CSL,True
-Anastasiya Todorova,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Anastasiya Todorova,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Viktoriya Us,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Kateryna Yurchenko,F,Ukraine,UKR,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Kateryna Yurchenko,F,Ukraine,UKR,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Viktoriia Us,F,Ukraine,UKR,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,True
-Viktoriia Us,F,Ukraine,UKR,2020,Tokyo,Canoe Slalom,Women's Canoe,No medal,Women's,CSL,True
-Viktoriia Us,F,Ukraine,UKR,2024,Paris,Canoe Slalom,Women's Canoe Single,No medal,Women's,CSL,True
-Viktoriia Us,F,Ukraine,UKR,2024,Paris,Canoe Slalom,Women's Kayak Single,No medal,Women's,CSL,True
-Viktoriia Us,F,Ukraine,UKR,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Svitlana Akhadova,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True
+Hanna (nepitaieva-),F,Ukraine,UKR,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Hanna (nepitaieva-),F,Ukraine,UKR,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Hanna (nepitaieva-),F,Ukraine,UKR,2000,Sydney,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Hanna (nepitaieva-),F,Ukraine,UKR,2000,Sydney,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,False
+Hanna (nepitaieva-),F,Ukraine,UKR,2004,Athina,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Bronze,Canoeing,CSL,True,False
+Olena (-derevenko),F,Ukraine,UKR,2000,Sydney,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Olena (-derevenko),F,Ukraine,UKR,2004,Athina,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Bronze,Canoeing,CSL,True,False
+Nataliya Feklisova,F,Ukraine,UKR,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Nataliya Feklisova,F,Ukraine,UKR,2000,Sydney,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Nataliya Feklisova,F,Ukraine,UKR,2000,Sydney,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,False
+Inna Hryshchun,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Inna Hryshchun,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Inna Osypenko-radomska,F,Ukraine,UKR,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Inna Osypenko-radomska,F,Ukraine,UKR,2004,Athina,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Bronze,Canoeing,CSL,True,False
+Inna Osypenko-radomska,F,Ukraine,UKR,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Gold,Canoeing,CSL,True,False
+Inna Osypenko-radomska,F,Ukraine,UKR,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",Silver,Canoeing,CSL,True,False
+Inna Osypenko-radomska,F,Ukraine,UKR,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Silver,Canoeing,CSL,True,False
+Mariya Povkh,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Mariya Povkh,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Mariya Ralcheva,F,Ukraine,UKR,2000,Sydney,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True
+Tetiana (-yatsenkian-),F,Ukraine,UKR,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Tetiana (-yatsenkian-),F,Ukraine,UKR,2004,Athina,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",Bronze,Canoeing,CSL,True,False
+Anastasiya Todorova,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Anastasiya Todorova,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Viktoriya Us,F,Ukraine,UKR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Kateryna Yurchenko,F,Ukraine,UKR,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Kateryna Yurchenko,F,Ukraine,UKR,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Viktoriia Us,F,Ukraine,UKR,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,True,True
+Viktoriia Us,F,Ukraine,UKR,2020,Tokyo,Canoe Slalom,Women's Canoe,No medal,Women's,CSL,True,True
+Viktoriia Us,F,Ukraine,UKR,2024,Paris,Canoe Slalom,Women's Canoe Single,No medal,Women's,CSL,True,False
+Viktoriia Us,F,Ukraine,UKR,2024,Paris,Canoe Slalom,Women's Kayak Single,No medal,Women's,CSL,True,False
+Viktoriia Us,F,Ukraine,UKR,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True,False

@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Irina Andreeva,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Irina Andreeva,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True
-Varvara Baranova,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,False
-Svetlana Chernigovskaya,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True
-Svetlana Chernigovskaya,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Svetlana Chernigovskaya,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True
-Anastasiia Dolgova,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,False
-Natalia Podolskaia,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True
-Natalia Podolskaia,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True
-Olesia Romasenko,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Olesia Romasenko,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True
-Kira Stepanova,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Kira Stepanova,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
-Kira Stepanova,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True
-Yuliya Trushkina,F,Russia,AIN,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,False
-Olesia Romasenko,F,Russia,AIN,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Irina Andreeva,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Irina Andreeva,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True,True
+Varvara Baranova,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,False,True
+Svetlana Chernigovskaya,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True,True
+Svetlana Chernigovskaya,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Svetlana Chernigovskaya,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True,True
+Anastasiia Dolgova,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,False,True
+Natalia Podolskaia,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True,True
+Natalia Podolskaia,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True,True
+Olesia Romasenko,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Olesia Romasenko,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True,True
+Kira Stepanova,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Kira Stepanova,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True
+Kira Stepanova,F,Russia,ROC,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True,True
+Yuliya Trushkina,F,Russia,AIN,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,False,True
+Olesia Romasenko,F,Russia,AIN,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,False

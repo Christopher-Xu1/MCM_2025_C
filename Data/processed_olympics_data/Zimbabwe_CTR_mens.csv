@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-David Gillow,M,Zimbabwe,ZIM,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Pierre Gouws,M,Zimbabwe,ZIM,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Timothy Jones,M,Zimbabwe,ZIM,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Antipass Kwari,M,Zimbabwe,ZIM,2008,Beijing,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Gary Mandy,M,Zimbabwe,ZIM,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Gary Mandy,M,Zimbabwe,ZIM,1988,Seoul,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Michael Mcbeath,M,Zimbabwe,ZIM,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-John Musa,M,Zimbabwe,ZIM,1980,Moskva,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-John Musa,M,Zimbabwe,ZIM,1980,Moskva,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+David Gillow,M,Zimbabwe,ZIM,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Pierre Gouws,M,Zimbabwe,ZIM,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Timothy Jones,M,Zimbabwe,ZIM,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Antipass Kwari,M,Zimbabwe,ZIM,2008,Beijing,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Gary Mandy,M,Zimbabwe,ZIM,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Gary Mandy,M,Zimbabwe,ZIM,1988,Seoul,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Michael Mcbeath,M,Zimbabwe,ZIM,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+John Musa,M,Zimbabwe,ZIM,1980,Moskva,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+John Musa,M,Zimbabwe,ZIM,1980,Moskva,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True

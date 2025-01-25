@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anders Almstedt,M,Elsie,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Silver,Sailing,SAL,False
-Erik Mellbin,M,Elsie,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Silver,Sailing,SAL,False
-Gustaf Svensson,M,Elsie,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Silver,Sailing,SAL,False
-Ragnar Svensson,M,Elsie,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anders Almstedt,M,Elsie,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Silver,Sailing,SAL,False,True
+Erik Mellbin,M,Elsie,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Silver,Sailing,SAL,False,True
+Gustaf Svensson,M,Elsie,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Silver,Sailing,SAL,False,True
+Ragnar Svensson,M,Elsie,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Silver,Sailing,SAL,False,True

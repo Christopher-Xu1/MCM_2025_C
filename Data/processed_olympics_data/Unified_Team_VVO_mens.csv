@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yury Cherednik,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Dmitry Fomin,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Sergey Gorbunov,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Yuriy Korov'ianskiy,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Yevgeny Krasilnikov,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Andrey Kuznetsov,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Ruslan Olikhver,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Igor Runov,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Oleksandr Shadchyn,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Oleg Shatunov,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Pavel Shishkin,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Konstantin Ushakov,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yury Cherednik,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Dmitry Fomin,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Sergey Gorbunov,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Yuriy Korov'ianskiy,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Yevgeny Krasilnikov,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Andrey Kuznetsov,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Ruslan Olikhver,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Igor Runov,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Oleksandr Shadchyn,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Oleg Shatunov,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Pavel Shishkin,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Konstantin Ushakov,M,Unified Team,EUN,1992,Barcelona,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True

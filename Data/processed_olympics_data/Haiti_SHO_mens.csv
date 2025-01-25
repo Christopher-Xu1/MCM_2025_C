@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ludovic Augustin,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, Prone, 600 metres",No medal,Shooting,SHO,True
-Ludovic Augustin,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",Bronze,Shooting,SHO,True
-Destin Destine,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, Prone, 600 metres",No medal,Shooting,SHO,True
-Destin Destine,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",Bronze,Shooting,SHO,True
-St. Metullus,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",Bronze,Shooting,SHO,False
-Astrel Rolland,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, Prone, 600 metres",No medal,Shooting,SHO,True
-Astrel Rolland,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",Bronze,Shooting,SHO,True
-Ludovic Valborge,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, Prone, 600 metres",No medal,Shooting,SHO,True
-Ludovic Valborge,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",Bronze,Shooting,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ludovic Augustin,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, Prone, 600 metres",No medal,Shooting,SHO,True,True
+Ludovic Augustin,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",Bronze,Shooting,SHO,True,True
+Destin Destine,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, Prone, 600 metres",No medal,Shooting,SHO,True,True
+Destin Destine,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",Bronze,Shooting,SHO,True,True
+St. Metullus,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",Bronze,Shooting,SHO,False,True
+Astrel Rolland,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, Prone, 600 metres",No medal,Shooting,SHO,True,True
+Astrel Rolland,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",Bronze,Shooting,SHO,True,True
+Ludovic Valborge,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, Prone, 600 metres",No medal,Shooting,SHO,True,True
+Ludovic Valborge,M,Haiti,HAI,1924,Paris,Shooting,"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",Bronze,Shooting,SHO,True,True

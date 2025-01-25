@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-liane Droubry,F,Cote D'Ivoire,CIV,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Talita Flan,F,Cote D'Ivoire,CIV,2016,Rio de Janeiro,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,False
-Assita Tour,F,Cote D'Ivoire,CIV,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+liane Droubry,F,Cote D'Ivoire,CIV,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Talita Flan,F,Cote D'Ivoire,CIV,2016,Rio de Janeiro,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,False,True
+Assita Tour,F,Cote D'Ivoire,CIV,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True

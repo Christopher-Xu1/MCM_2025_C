@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kyla Bremner,F,Australia,AUS,2008,Beijing,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kyla Bremner,F,Australia,AUS,2008,Beijing,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True

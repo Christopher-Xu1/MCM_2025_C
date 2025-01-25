@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Montserrat Riberaygua,F,Andorra,AND,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Monica Doria,F,Andorra,AND,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,True
-Monica Doria,F,Andorra,AND,2020,Tokyo,Canoe Slalom,Women's Canoe,No medal,Women's,CSL,True
-Monica Doria,F,Andorra,AND,2024,Paris,Canoe Slalom,Women's Canoe Single,No medal,Women's,CSL,True
-Monica Doria,F,Andorra,AND,2024,Paris,Canoe Slalom,Women's Kayak Single,No medal,Women's,CSL,True
-Monica Doria,F,Andorra,AND,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Montserrat Riberaygua,F,Andorra,AND,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Monica Doria,F,Andorra,AND,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,True,True
+Monica Doria,F,Andorra,AND,2020,Tokyo,Canoe Slalom,Women's Canoe,No medal,Women's,CSL,True,True
+Monica Doria,F,Andorra,AND,2024,Paris,Canoe Slalom,Women's Canoe Single,No medal,Women's,CSL,True,False
+Monica Doria,F,Andorra,AND,2024,Paris,Canoe Slalom,Women's Kayak Single,No medal,Women's,CSL,True,False
+Monica Doria,F,Andorra,AND,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True,False

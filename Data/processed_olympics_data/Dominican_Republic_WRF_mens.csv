@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jos Defran,M,Dominican Republic,DOM,1968,Mexico City,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Jansel Feliz,M,Dominican Republic,DOM,2004,Athina,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Onesimo Gmez,M,Dominican Republic,DOM,1968,Mexico City,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Servio Severino,M,Dominican Republic,DOM,1984,Los Angeles,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True
-Servio Severino,M,Dominican Republic,DOM,1984,Los Angeles,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True
-Ulises Valentin,M,Dominican Republic,DOM,1992,Barcelona,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Ulises Valentin,M,Dominican Republic,DOM,1996,Atlanta,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Miguel Perez,M,Dominican Republic,DOM,2024,Paris,Wrestling,Men's Freestyle 97kg,No medal,Men's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jos Defran,M,Dominican Republic,DOM,1968,Mexico City,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Jansel Feliz,M,Dominican Republic,DOM,2004,Athina,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Onesimo Gmez,M,Dominican Republic,DOM,1968,Mexico City,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Servio Severino,M,Dominican Republic,DOM,1984,Los Angeles,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Servio Severino,M,Dominican Republic,DOM,1984,Los Angeles,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True,True
+Ulises Valentin,M,Dominican Republic,DOM,1992,Barcelona,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Ulises Valentin,M,Dominican Republic,DOM,1996,Atlanta,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Miguel Perez,M,Dominican Republic,DOM,2024,Paris,Wrestling,Men's Freestyle 97kg,No medal,Men's,WRF,False,True

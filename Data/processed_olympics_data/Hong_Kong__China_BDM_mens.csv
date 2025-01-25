@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Angus Ng,M,"Hong Kong, China",HKG,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,False
-Man Tang,M,"Hong Kong, China",HKG,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,True
-Yiu Lee,M,"Hong Kong, China",HKG,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False
-Man Tang,M,"Hong Kong, China",HKG,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Angus Ng,M,"Hong Kong, China",HKG,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,False,True
+Man Tang,M,"Hong Kong, China",HKG,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,True,True
+Yiu Lee,M,"Hong Kong, China",HKG,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False,True
+Man Tang,M,"Hong Kong, China",HKG,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,True,False

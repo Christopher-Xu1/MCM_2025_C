@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Julie Bradbury,F,Great Britain-2,GBR,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Gillian Clark,F,Great Britain-2,GBR,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Gail Emms,F,Great Britain-2,GBR,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Donna Kellogg,F,Great Britain-2,GBR,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Donna Kellogg,F,Great Britain-2,GBR,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Donna Kellogg,F,Great Britain-2,GBR,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Kelly (-aston),F,Great Britain-2,GBR,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Joanne Muggeridge,F,Great Britain-2,GBR,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Natalie Munt,F,Great Britain-2,GBR,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Joanne Wright-goode,F,Great Britain-2,GBR,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Joanne Wright-goode,F,Great Britain-2,GBR,2000,Sydney,Badminton,Badminton Mixed Doubles,Bronze,Badminton,BDM,True
-Joanne Wright-goode,F,Great Britain-2,GBR,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Julie Bradbury,F,Great Britain-2,GBR,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Gillian Clark,F,Great Britain-2,GBR,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Gail Emms,F,Great Britain-2,GBR,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Donna Kellogg,F,Great Britain-2,GBR,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Donna Kellogg,F,Great Britain-2,GBR,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Donna Kellogg,F,Great Britain-2,GBR,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Kelly (-aston),F,Great Britain-2,GBR,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Joanne Muggeridge,F,Great Britain-2,GBR,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Natalie Munt,F,Great Britain-2,GBR,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Joanne Wright-goode,F,Great Britain-2,GBR,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Joanne Wright-goode,F,Great Britain-2,GBR,2000,Sydney,Badminton,Badminton Mixed Doubles,Bronze,Badminton,BDM,True,False
+Joanne Wright-goode,F,Great Britain-2,GBR,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False

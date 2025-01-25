@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kariman Abuljadayel,F,Saudi Arabia,KSA,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Sarah Attar,F,Saudi Arabia,KSA,2012,London,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Sarah Attar,F,Saudi Arabia,KSA,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Yasmeen Aldabbagh,F,Saudi Arabia,KSA,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kariman Abuljadayel,F,Saudi Arabia,KSA,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Sarah Attar,F,Saudi Arabia,KSA,2012,London,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Sarah Attar,F,Saudi Arabia,KSA,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Yasmeen Aldabbagh,F,Saudi Arabia,KSA,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,False,True

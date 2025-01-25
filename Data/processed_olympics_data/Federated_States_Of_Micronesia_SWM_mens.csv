@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dionisio Ii,M,Federated States Of Micronesia,FSM,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Anderson Bonabart,M,Federated States Of Micronesia,FSM,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Kerson Hadley,M,Federated States Of Micronesia,FSM,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Kerson Hadley,M,Federated States Of Micronesia,FSM,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Welbert Samuel,M,Federated States Of Micronesia,FSM,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Tasi Limtiaco,M,Federated States Of Micronesia,FSM,2020,Tokyo,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dionisio Ii,M,Federated States Of Micronesia,FSM,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Anderson Bonabart,M,Federated States Of Micronesia,FSM,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Kerson Hadley,M,Federated States Of Micronesia,FSM,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Kerson Hadley,M,Federated States Of Micronesia,FSM,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Welbert Samuel,M,Federated States Of Micronesia,FSM,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Tasi Limtiaco,M,Federated States Of Micronesia,FSM,2020,Tokyo,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,False,True

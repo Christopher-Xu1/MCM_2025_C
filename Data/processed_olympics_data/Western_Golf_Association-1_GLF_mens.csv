@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Edward Cummins,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False
-Kenneth Edwards,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False
-Henry Egan,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False
-Walter Egan,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False
-Robert Hunter,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False
-Nathaniel Iii,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False
-Mason Phelps,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False
-Daniel Sawyer,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False
-Clement Smoot,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False
-Warren Wood,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Edward Cummins,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False,True
+Kenneth Edwards,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False,True
+Henry Egan,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False,True
+Walter Egan,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False,True
+Robert Hunter,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False,True
+Nathaniel Iii,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False,True
+Mason Phelps,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False,True
+Daniel Sawyer,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False,True
+Clement Smoot,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False,True
+Warren Wood,M,Western Golf Association-1,USA,1904,St. Louis,Golf,Golf Men's Team,Gold,Golf,GLF,False,True

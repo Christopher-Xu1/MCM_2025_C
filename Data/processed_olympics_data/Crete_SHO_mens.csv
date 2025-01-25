@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nikolaos Malintretos,M,Crete,CRT,1906,Athina,Shooting,"Shooting Men's Military Rifle, Kneeling Or Standing, 300 metres",No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nikolaos Malintretos,M,Crete,CRT,1906,Athina,Shooting,"Shooting Men's Military Rifle, Kneeling Or Standing, 300 metres",No medal,Shooting,SHO,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Itzhak David,M,Israel,ISR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Shlomi Haimy,M,Israel,ISR,2016,Rio de Janeiro,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Henry Ohayon,M,Israel,ISR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Mikhail Yakovlev,M,Israel,ISR,2024,Paris,Cycling Track,Men's Keirin,No medal,Men's,CTR,True
-Mikhail Yakovlev,M,Israel,ISR,2024,Paris,Cycling Track,Men's Sprint,No medal,Men's,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Itzhak David,M,Israel,ISR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Shlomi Haimy,M,Israel,ISR,2016,Rio de Janeiro,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Henry Ohayon,M,Israel,ISR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Mikhail Yakovlev,M,Israel,ISR,2024,Paris,Cycling Track,Men's Keirin,No medal,Men's,CTR,True,True
+Mikhail Yakovlev,M,Israel,ISR,2024,Paris,Cycling Track,Men's Sprint,No medal,Men's,CTR,True,True

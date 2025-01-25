@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jonathan Chan,M,Singapore,SGP,2020,Tokyo,Diving,Men's 10m Platform,No medal,Men's,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jonathan Chan,M,Singapore,SGP,2020,Tokyo,Diving,Men's 10m Platform,No medal,Men's,DIV,False,True

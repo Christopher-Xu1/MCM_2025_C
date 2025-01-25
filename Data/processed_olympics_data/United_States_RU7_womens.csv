@@ -1,38 +1,38 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Akalaini Baravilala,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Ryan Carlyle,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Lauren Doyle,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True
-Joanne Fa'avesi,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Carmen Farmer,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Victoria Folayan,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Kelly Griffin,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Jessica Javelet,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Kathryn Johnson,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Leyla Kelter,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Jillion Potter,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Richelle Stephens,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Kayla Canett,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Lauren Doyle,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Cheta Emba,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Abby Gustaitis,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Nicole Heavirland,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Alev Kelter,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Kristi Kirshe,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Ilona Maher,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Jordan Matyas,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Ariana Ramsey,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Naya Tapper,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Kris Thomas,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Nia Toliver,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Kayla Canett,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,True
-Lauren Doyle,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,True
-Alev Kelter,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,True
-Kristi Kirshe,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,True
-Sarah Levy,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,False
-Ilona Maher,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,True
-Alena Olsen,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,False
-Ariana Ramsey,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,True
-Steph Rovetti,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,False
-Alex Sedrick,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,False
-Sammy Sullivan,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,False
-Naya Tapper,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Akalaini Baravilala,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Ryan Carlyle,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Lauren Doyle,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True,True
+Joanne Fa'avesi,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Carmen Farmer,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Victoria Folayan,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Kelly Griffin,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Jessica Javelet,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Kathryn Johnson,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Leyla Kelter,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Jillion Potter,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Richelle Stephens,F,United States,USA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Kayla Canett,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Lauren Doyle,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,False
+Cheta Emba,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Abby Gustaitis,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Nicole Heavirland,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Alev Kelter,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Kristi Kirshe,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Ilona Maher,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Jordan Matyas,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Ariana Ramsey,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Naya Tapper,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Kris Thomas,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Nia Toliver,F,United States,USA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Kayla Canett,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,True,False
+Lauren Doyle,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,True,False
+Alev Kelter,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,True,False
+Kristi Kirshe,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,True,False
+Sarah Levy,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,False,True
+Ilona Maher,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,True,False
+Alena Olsen,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,False,True
+Ariana Ramsey,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,True,False
+Steph Rovetti,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,False,True
+Alex Sedrick,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,False,True
+Sammy Sullivan,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,False,True
+Naya Tapper,F,United States,USA,2024,Paris,Rugby Sevens,Women,Bronze,Women,RU7,True,False

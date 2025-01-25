@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marion Rothaar,F,West Germany,FRG,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Claudia Scharmann,F,West Germany,FRG,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Diana Schmiemann,F,West Germany,FRG,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Regina (-san),F,West Germany,FRG,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,Bronze,Rhythmic,GRY,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marion Rothaar,F,West Germany,FRG,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Claudia Scharmann,F,West Germany,FRG,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Diana Schmiemann,F,West Germany,FRG,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Regina (-san),F,West Germany,FRG,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,Bronze,Rhythmic,GRY,False,True

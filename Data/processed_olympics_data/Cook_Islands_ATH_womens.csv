@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Patricia Taea,F,Cook Islands,COK,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Patricia Taea,F,Cook Islands,COK,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Tereapii Tapoki,F,Cook Islands,COK,2004,Athina,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True
-Tereapii Tapoki,F,Cook Islands,COK,2008,Beijing,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True
-Erin Tierney,F,Cook Islands,COK,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Erin Tierney,F,Cook Islands,COK,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Patricia Taea,F,Cook Islands,COK,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Patricia Taea,F,Cook Islands,COK,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Tereapii Tapoki,F,Cook Islands,COK,2004,Athina,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True,True
+Tereapii Tapoki,F,Cook Islands,COK,2008,Beijing,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True,False
+Erin Tierney,F,Cook Islands,COK,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Erin Tierney,F,Cook Islands,COK,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True

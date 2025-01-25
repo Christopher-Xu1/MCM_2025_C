@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohammed Almosawi,M,Kuwait,KUW,2020,Tokyo,Karate,Men's Kata,No medal,Men's,KTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohammed Almosawi,M,Kuwait,KUW,2020,Tokyo,Karate,Men's Kata,No medal,Men's,KTE,False,True

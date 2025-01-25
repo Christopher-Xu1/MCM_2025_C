@@ -1,42 +1,42 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Taro Daniel,M,Japan,JPN,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Masanosuke Fukuda,M,Japan,JPN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Takeichi Harada,M,Japan,JPN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Asaji Honda,M,Japan,JPN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Tatsuma Ito,M,Japan,JPN,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Satoshi Iwabuchi,M,Japan,JPN,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Satoshi Iwabuchi,M,Japan,JPN,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Seiichiro Kashio,M,Japan,JPN,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Seiichiro Kashio,M,Japan,JPN,1920,Antwerpen,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,True
-Ichiya Kumagae,M,Japan,JPN,1920,Antwerpen,Tennis,Tennis Men's Singles,Silver,Tennis,TEN,True
-Ichiya Kumagae,M,Japan,JPN,1920,Antwerpen,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,True
-Shuzo Matsuoka,M,Japan,JPN,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Shuzo Matsuoka,M,Japan,JPN,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Shuzo Matsuoka,M,Japan,JPN,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Shuzo Matsuoka,M,Japan,JPN,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Kei Nishikori,M,Japan,JPN,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Kei Nishikori,M,Japan,JPN,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Kei Nishikori,M,Japan,JPN,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Kei Nishikori,M,Japan,JPN,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,Bronze,Tennis,TEN,True
-Sunao Okamoto,M,Japan,JPN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Shigetaru Shimada,M,Japan,JPN,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Go Soeda,M,Japan,JPN,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Go Soeda,M,Japan,JPN,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Yuichi Sugita,M,Japan,JPN,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Takao Suzuki,M,Japan,JPN,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Toshihisa Tsuchihashi,M,Japan,JPN,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Toshihisa Tsuchihashi,M,Japan,JPN,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Taro Daniel,M,Japan,JPN,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True
-Taro Daniel,M,Japan,JPN,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
-McLACHLAN Ben,M,Japan,JPN,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
-McLACHLAN Ben,M,Japan,JPN,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,Mixed,TEN,True
-Kei Nishikori,M,Japan,JPN,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True
-Kei Nishikori,M,Japan,JPN,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
-Yoshihito Nishioka,M,Japan,JPN,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True
-Yoshihito Nishioka,M,Japan,JPN,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
-Yuichi Sugita,M,Japan,JPN,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True
-Taro Daniel,M,Japan,JPN,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
-Taro Daniel,M,Japan,JPN,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True
-Kei Nishikori,M,Japan,JPN,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
-Kei Nishikori,M,Japan,JPN,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True
-Kei Nishikori,M,Japan,JPN,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Taro Daniel,M,Japan,JPN,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Masanosuke Fukuda,M,Japan,JPN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Takeichi Harada,M,Japan,JPN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Asaji Honda,M,Japan,JPN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Tatsuma Ito,M,Japan,JPN,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Satoshi Iwabuchi,M,Japan,JPN,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Satoshi Iwabuchi,M,Japan,JPN,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Seiichiro Kashio,M,Japan,JPN,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Seiichiro Kashio,M,Japan,JPN,1920,Antwerpen,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,True,True
+Ichiya Kumagae,M,Japan,JPN,1920,Antwerpen,Tennis,Tennis Men's Singles,Silver,Tennis,TEN,True,True
+Ichiya Kumagae,M,Japan,JPN,1920,Antwerpen,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,True,True
+Shuzo Matsuoka,M,Japan,JPN,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Shuzo Matsuoka,M,Japan,JPN,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Shuzo Matsuoka,M,Japan,JPN,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Shuzo Matsuoka,M,Japan,JPN,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Kei Nishikori,M,Japan,JPN,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Kei Nishikori,M,Japan,JPN,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Kei Nishikori,M,Japan,JPN,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Kei Nishikori,M,Japan,JPN,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,Bronze,Tennis,TEN,True,False
+Sunao Okamoto,M,Japan,JPN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Shigetaru Shimada,M,Japan,JPN,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Go Soeda,M,Japan,JPN,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Go Soeda,M,Japan,JPN,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Yuichi Sugita,M,Japan,JPN,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Takao Suzuki,M,Japan,JPN,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Toshihisa Tsuchihashi,M,Japan,JPN,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Toshihisa Tsuchihashi,M,Japan,JPN,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Taro Daniel,M,Japan,JPN,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True,False
+Taro Daniel,M,Japan,JPN,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True,False
+McLACHLAN Ben,M,Japan,JPN,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True,True
+McLACHLAN Ben,M,Japan,JPN,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,Mixed,TEN,True,True
+Kei Nishikori,M,Japan,JPN,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True,False
+Kei Nishikori,M,Japan,JPN,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True,False
+Yoshihito Nishioka,M,Japan,JPN,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True,True
+Yoshihito Nishioka,M,Japan,JPN,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True,True
+Yuichi Sugita,M,Japan,JPN,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True,False
+Taro Daniel,M,Japan,JPN,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True,False
+Taro Daniel,M,Japan,JPN,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True,False
+Kei Nishikori,M,Japan,JPN,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True,False
+Kei Nishikori,M,Japan,JPN,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True,False
+Kei Nishikori,M,Japan,JPN,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True,False

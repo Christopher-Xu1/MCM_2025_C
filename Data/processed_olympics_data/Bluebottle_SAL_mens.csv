@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ronald Backus,M,Bluebottle,GBR,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False
-Jonathan Janson,M,Bluebottle,GBR,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False
-Graham Mann,M,Bluebottle,GBR,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ronald Backus,M,Bluebottle,GBR,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False,True
+Jonathan Janson,M,Bluebottle,GBR,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False,True
+Graham Mann,M,Bluebottle,GBR,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,Bronze,Sailing,SAL,False,True

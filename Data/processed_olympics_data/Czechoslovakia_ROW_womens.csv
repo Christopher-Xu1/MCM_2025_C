@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marie Bartkov,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Coxed Quadruple Sculls,No medal,Rowing,ROW,False
-Renata Bernkov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False
-Michaela Bureov-loukotov,F,Czechoslovakia,TCH,1988,Seoul,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Michaela Bureov-loukotov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,True
-Hana (-parker),F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False
-Elika Jandov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False
-Hana Kafkov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,False
-Hana Kavkov,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Coxed Quadruple Sculls,No medal,Rowing,ROW,False
-Lenka Kovov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False
-Hana Krejov,F,Czechoslovakia,TCH,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,False
-Anna (varcov-),F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Coxed Quadruple Sculls,No medal,Rowing,ROW,False
-Blanka Mikyskov,F,Czechoslovakia,TCH,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,False
-Milue Neffeov,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False
-ubica Novotnkov-kurhajcov,F,Czechoslovakia,TCH,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,True
-ubica Novotnkov-kurhajcov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,True
-Jarmila Ptkov,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Coxed Quadruple Sculls,No medal,Rowing,ROW,False
-Oldika Pkn,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False
-Zuzana Prokeov,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False
-Martina Efkov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False
-Irena Soukupov,F,Czechoslovakia,TCH,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,True
-Irena Soukupov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,True
-Alena Svobodov,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Coxed Quadruple Sculls,No medal,Rowing,ROW,False
-Sabina Telensk,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False
-Zdena Tich,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False
-Michaela Vvrov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False
-Hana Kov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False
-Lenka Zavadilov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marie Bartkov,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Coxed Quadruple Sculls,No medal,Rowing,ROW,False,True
+Renata Bernkov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False,True
+Michaela Bureov-loukotov,F,Czechoslovakia,TCH,1988,Seoul,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,True
+Michaela Bureov-loukotov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,True,False
+Hana (-parker),F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False,True
+Elika Jandov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False,True
+Hana Kafkov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,False,True
+Hana Kavkov,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Coxed Quadruple Sculls,No medal,Rowing,ROW,False,True
+Lenka Kovov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False,True
+Hana Krejov,F,Czechoslovakia,TCH,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,False,True
+Anna (varcov-),F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Coxed Quadruple Sculls,No medal,Rowing,ROW,False,True
+Blanka Mikyskov,F,Czechoslovakia,TCH,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,False,True
+Milue Neffeov,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False,True
+ubica Novotnkov-kurhajcov,F,Czechoslovakia,TCH,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,True,True
+ubica Novotnkov-kurhajcov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,True,False
+Jarmila Ptkov,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Coxed Quadruple Sculls,No medal,Rowing,ROW,False,True
+Oldika Pkn,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False,True
+Zuzana Prokeov,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False,True
+Martina Efkov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False,True
+Irena Soukupov,F,Czechoslovakia,TCH,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,True,True
+Irena Soukupov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,True,False
+Alena Svobodov,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Coxed Quadruple Sculls,No medal,Rowing,ROW,False,True
+Sabina Telensk,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False,True
+Zdena Tich,F,Czechoslovakia,TCH,1976,Montreal,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False,True
+Michaela Vvrov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False,True
+Hana Kov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False,True
+Lenka Zavadilov,F,Czechoslovakia,TCH,1992,Barcelona,Rowing,Rowing Women's Coxed Eights,No medal,Rowing,ROW,False,True

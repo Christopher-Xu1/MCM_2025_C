@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Deniz-Marina Dimaki,F,Greece,GRE,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Deniz-Marina Dimaki,F,Greece,GRE,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True

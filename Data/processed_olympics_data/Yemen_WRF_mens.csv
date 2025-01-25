@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abdullah Al-izani,M,Yemen,YEM,1996,Atlanta,Wrestling,"Wrestling Men's Light-Flyweight, Greco-Roman",No medal,Wrestling,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abdullah Al-izani,M,Yemen,YEM,1996,Atlanta,Wrestling,"Wrestling Men's Light-Flyweight, Greco-Roman",No medal,Wrestling,WRF,False,True

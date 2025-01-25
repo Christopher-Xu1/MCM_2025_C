@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Atsumi Fukumoto,F,Japan,JPN,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Akiko Iwamoto,F,Japan,JPN,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Akiko Iwamoto,F,Japan,JPN,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Akiko Iwamoto,F,Japan,JPN,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Akiko Iwamoto,F,Japan,JPN,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Misaki Kumakura,F,Japan,JPN,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Ayami Oishi,F,Japan,JPN,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Nobuko Ota,F,Japan,JPN,1992,Barcelona,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False
-Haruna Sakakibara,F,Japan,JPN,2012,London,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False
-Noriko Shibuta,F,Japan,JPN,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Chiaki Tomita,F,Japan,JPN,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Kahori Uchiyama,F,Japan,JPN,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Miyuki Yamashita,F,Japan,JPN,1992,Barcelona,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False
-Ayako Yoshida,F,Japan,JPN,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Ayako Yoshida,F,Japan,JPN,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Ayami Oishi,F,Japan,JPN,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,True
-Chiaki Tomita,F,Japan,JPN,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,True
-Emi Hirouchi,F,Japan,JPN,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,False
-Ayami Oishi,F,Japan,JPN,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Atsumi Fukumoto,F,Japan,JPN,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Akiko Iwamoto,F,Japan,JPN,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Akiko Iwamoto,F,Japan,JPN,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Akiko Iwamoto,F,Japan,JPN,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Akiko Iwamoto,F,Japan,JPN,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Misaki Kumakura,F,Japan,JPN,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Ayami Oishi,F,Japan,JPN,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Nobuko Ota,F,Japan,JPN,1992,Barcelona,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False,True
+Haruna Sakakibara,F,Japan,JPN,2012,London,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False,True
+Noriko Shibuta,F,Japan,JPN,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Chiaki Tomita,F,Japan,JPN,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Kahori Uchiyama,F,Japan,JPN,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Miyuki Yamashita,F,Japan,JPN,1992,Barcelona,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False,True
+Ayako Yoshida,F,Japan,JPN,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Ayako Yoshida,F,Japan,JPN,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Ayami Oishi,F,Japan,JPN,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,True,False
+Chiaki Tomita,F,Japan,JPN,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,True,False
+Emi Hirouchi,F,Japan,JPN,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,False,True
+Ayami Oishi,F,Japan,JPN,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,True,False

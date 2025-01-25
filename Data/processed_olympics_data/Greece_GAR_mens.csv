@@ -1,66 +1,66 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nikolaos Akestoridis,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,False
-Georgios Aliprantis,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,True
-Georgios Aliprantis,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,Gold,Gymnastics,GAR,True
-Nikolaos Aliprantis,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,True
-Nikolaos Aliprantis,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,True
-Themistoklis Anastasoglou,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,False
-Nikolaos Andriakopoulos,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Rope Climbing,Gold,Gymnastics,GAR,False
-Ioannis Avelas,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False
-Matthias Despotopoulos,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,True
-Matthias Despotopoulos,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,True
-Georgios Georgantopoulos,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False
-Al. Kalafatis,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False
-Filippos Karvelas,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,False
-G. Koemzopoulos,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False
-Konstantinos Kozanitas,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,Bronze,Gymnastics,GAR,False
-G. Kyrieris,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False
-Vlasis Maras,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Vlasis Maras,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Vlasis Maras,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Vlasis Maras,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Vlasis Maras,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Vlasis Maras,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Vlasis Maras,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Vlasis Maras,M,Greece,GRE,2008,Beijing,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Vlasis Maras,M,Greece,GRE,2008,Beijing,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Vlasis Maras,M,Greece,GRE,2008,Beijing,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Vlasis Maras,M,Greece,GRE,2012,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Vlasis Maras,M,Greece,GRE,2012,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Vlasis Maras,M,Greece,GRE,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Ioannis Melissanidis,M,Greece,GRE,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Ioannis Melissanidis,M,Greece,GRE,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,Gold,Gymnastics,GAR,True
-Ioannis Melissanidis,M,Greece,GRE,1996,Atlanta,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Ioannis Melissanidis,M,Greece,GRE,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Ioannis Melissanidis,M,Greece,GRE,1996,Atlanta,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Ioannis Melissanidis,M,Greece,GRE,1996,Atlanta,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Ioannis Melissanidis,M,Greece,GRE,1996,Atlanta,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Ioannis Melissanidis,M,Greece,GRE,2000,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Ioannis Melissanidis,M,Greece,GRE,2000,Sydney,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Ioannis Mitropoulos,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Ioannis Mitropoulos,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Rings,Gold,Gymnastics,GAR,True
-Georgios Moskhakis,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,False
-M. Nomikos,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False
-Konstantinos Pantzopoulos,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False
-Antonios Papaioannou,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Antonios Papaioannou,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Petros Pavlidis,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False
-Petros Persakis,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Rings,Bronze,Gymnastics,GAR,False
-Aristovoulos Petmezas,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,False
-Konstantinos Petropoulakis,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,False
-Eleftherios Petrounias,M,Greece,GRE,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,Gold,Gymnastics,GAR,True
-Alexandros Polakis,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Alexandros Polakis,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,True
-Konstantinos Simeonidis,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False
-Epaminondas Simiriotis,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,False
-Dimosthenis Tambakos,M,Greece,GRE,2000,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Dimosthenis Tambakos,M,Greece,GRE,2000,Sydney,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Dimosthenis Tambakos,M,Greece,GRE,2000,Sydney,Gymnastics,Gymnastics Men's Rings,Silver,Gymnastics,GAR,True
-Dimosthenis Tambakos,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Dimosthenis Tambakos,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Rings,Gold,Gymnastics,GAR,True
-Leonidas Tsiklitiras,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,False
-Vasilis Tsolakidis,M,Greece,GRE,2012,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,False
-Thomas Xenakis,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Rope Climbing,Silver,Gymnastics,GAR,False
-Eleftherios Petrounias,M,Greece,GRE,2020,Tokyo,Artistic Gymnastics,Men's Rings,Bronze,Men's,GAR,True
-Eleftherios Petrounias,M,Greece,GRE,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True
-Eleftherios Petrounias,M,Greece,GRE,2024,Paris,Artistic Gymnastics,Men's Rings,Bronze,Men's,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nikolaos Akestoridis,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,False,True
+Georgios Aliprantis,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,True,True
+Georgios Aliprantis,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,Gold,Gymnastics,GAR,True,True
+Nikolaos Aliprantis,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,True,True
+Nikolaos Aliprantis,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,True,True
+Themistoklis Anastasoglou,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,False,True
+Nikolaos Andriakopoulos,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Rope Climbing,Gold,Gymnastics,GAR,False,True
+Ioannis Avelas,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False,True
+Matthias Despotopoulos,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,True,True
+Matthias Despotopoulos,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,True,True
+Georgios Georgantopoulos,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False,True
+Al. Kalafatis,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False,True
+Filippos Karvelas,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,False,True
+G. Koemzopoulos,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False,True
+Konstantinos Kozanitas,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,Bronze,Gymnastics,GAR,False,True
+G. Kyrieris,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False,True
+Vlasis Maras,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Vlasis Maras,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Vlasis Maras,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+Vlasis Maras,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Vlasis Maras,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Vlasis Maras,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Vlasis Maras,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Vlasis Maras,M,Greece,GRE,2008,Beijing,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,False
+Vlasis Maras,M,Greece,GRE,2008,Beijing,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,False
+Vlasis Maras,M,Greece,GRE,2008,Beijing,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,False
+Vlasis Maras,M,Greece,GRE,2012,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,False
+Vlasis Maras,M,Greece,GRE,2012,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,False
+Vlasis Maras,M,Greece,GRE,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,False
+Ioannis Melissanidis,M,Greece,GRE,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Ioannis Melissanidis,M,Greece,GRE,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,Gold,Gymnastics,GAR,True,True
+Ioannis Melissanidis,M,Greece,GRE,1996,Atlanta,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+Ioannis Melissanidis,M,Greece,GRE,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Ioannis Melissanidis,M,Greece,GRE,1996,Atlanta,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Ioannis Melissanidis,M,Greece,GRE,1996,Atlanta,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Ioannis Melissanidis,M,Greece,GRE,1996,Atlanta,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Ioannis Melissanidis,M,Greece,GRE,2000,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,False
+Ioannis Melissanidis,M,Greece,GRE,2000,Sydney,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,False
+Ioannis Mitropoulos,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Ioannis Mitropoulos,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Rings,Gold,Gymnastics,GAR,True,True
+Georgios Moskhakis,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,False,True
+M. Nomikos,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False,True
+Konstantinos Pantzopoulos,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False,True
+Antonios Papaioannou,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Antonios Papaioannou,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Petros Pavlidis,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False,True
+Petros Persakis,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Rings,Bronze,Gymnastics,GAR,False,True
+Aristovoulos Petmezas,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,False,True
+Konstantinos Petropoulakis,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,False,True
+Eleftherios Petrounias,M,Greece,GRE,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,Gold,Gymnastics,GAR,True,True
+Alexandros Polakis,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Alexandros Polakis,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,True,True
+Konstantinos Simeonidis,M,Greece,GRE,1906,Athina,Gymnastics,Gymnastics Men's Rope Climbing,No medal,Gymnastics,GAR,False,True
+Epaminondas Simiriotis,M,Greece,GRE,1906,Athina,Gymnastics,"Gymnastics Men's Individual All-Around, 5 Events",No medal,Gymnastics,GAR,False,True
+Dimosthenis Tambakos,M,Greece,GRE,2000,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Dimosthenis Tambakos,M,Greece,GRE,2000,Sydney,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Dimosthenis Tambakos,M,Greece,GRE,2000,Sydney,Gymnastics,Gymnastics Men's Rings,Silver,Gymnastics,GAR,True,True
+Dimosthenis Tambakos,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,False
+Dimosthenis Tambakos,M,Greece,GRE,2004,Athina,Gymnastics,Gymnastics Men's Rings,Gold,Gymnastics,GAR,True,False
+Leonidas Tsiklitiras,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,False,True
+Vasilis Tsolakidis,M,Greece,GRE,2012,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,False,True
+Thomas Xenakis,M,Greece,GRE,1896,Athina,Gymnastics,Gymnastics Men's Rope Climbing,Silver,Gymnastics,GAR,False,True
+Eleftherios Petrounias,M,Greece,GRE,2020,Tokyo,Artistic Gymnastics,Men's Rings,Bronze,Men's,GAR,True,False
+Eleftherios Petrounias,M,Greece,GRE,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True,False
+Eleftherios Petrounias,M,Greece,GRE,2024,Paris,Artistic Gymnastics,Men's Rings,Bronze,Men's,GAR,True,False

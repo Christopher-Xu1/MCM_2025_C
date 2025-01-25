@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Frances (greenstock-),F,Heroine,GBR,1908,London,Sailing,Sailing Mixed 7 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Frances (greenstock-),F,Heroine,GBR,1908,London,Sailing,Sailing Mixed 7 metres,Gold,Sailing,SAL,False,True

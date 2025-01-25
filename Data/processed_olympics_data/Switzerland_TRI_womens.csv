@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jolanda Annen,F,Switzerland,SUI,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Sibylle Matter,F,Switzerland,SUI,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Brigitte (huber-),F,Switzerland,SUI,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,Gold,Triathlon,TRI,True
-Brigitte (huber-),F,Switzerland,SUI,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Magali (chopard-),F,Switzerland,SUI,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,Bronze,Triathlon,TRI,True
-Magali (chopard-),F,Switzerland,SUI,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Daniela Ryf,F,Switzerland,SUI,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Daniela Ryf,F,Switzerland,SUI,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Nicola Hug,F,Switzerland,SUI,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Nicola Hug,F,Switzerland,SUI,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Nicola Hug,F,Switzerland,SUI,2012,London,Triathlon,Triathlon Women's Olympic Distance,Gold,Triathlon,TRI,True
-Nicola Hug,F,Switzerland,SUI,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,Silver,Triathlon,TRI,True
-Jolanda Annen,F,Switzerland,SUI,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Jolanda Annen,F,Switzerland,SUI,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Nicola Spirig,F,Switzerland,SUI,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Nicola Spirig,F,Switzerland,SUI,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Julie Derron,F,Switzerland,SUI,2024,Paris,Triathlon,Women's Individual,Silver,Women's,TRI,False
-Cathia Schar,F,Switzerland,SUI,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jolanda Annen,F,Switzerland,SUI,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Sibylle Matter,F,Switzerland,SUI,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Brigitte (huber-),F,Switzerland,SUI,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,Gold,Triathlon,TRI,True,True
+Brigitte (huber-),F,Switzerland,SUI,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Magali (chopard-),F,Switzerland,SUI,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,Bronze,Triathlon,TRI,True,True
+Magali (chopard-),F,Switzerland,SUI,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Daniela Ryf,F,Switzerland,SUI,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Daniela Ryf,F,Switzerland,SUI,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Nicola Hug,F,Switzerland,SUI,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Nicola Hug,F,Switzerland,SUI,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Nicola Hug,F,Switzerland,SUI,2012,London,Triathlon,Triathlon Women's Olympic Distance,Gold,Triathlon,TRI,True,False
+Nicola Hug,F,Switzerland,SUI,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,Silver,Triathlon,TRI,True,False
+Jolanda Annen,F,Switzerland,SUI,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,False
+Jolanda Annen,F,Switzerland,SUI,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,False
+Nicola Spirig,F,Switzerland,SUI,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,True
+Nicola Spirig,F,Switzerland,SUI,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Julie Derron,F,Switzerland,SUI,2024,Paris,Triathlon,Women's Individual,Silver,Women's,TRI,False,True
+Cathia Schar,F,Switzerland,SUI,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False,True

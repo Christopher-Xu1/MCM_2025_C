@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yasmin Hassan,F,Djibouti,DJI,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yasmin Hassan,F,Djibouti,DJI,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True

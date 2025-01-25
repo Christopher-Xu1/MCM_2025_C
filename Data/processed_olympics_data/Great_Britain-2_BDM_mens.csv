@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Simon Archer,M,Great Britain-2,GBR,2000,Sydney,Badminton,Badminton Mixed Doubles,Bronze,Badminton,BDM,True
-Simon Archer,M,Great Britain-2,GBR,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Robert Blair,M,Great Britain-2,GBR,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Anthony Clark,M,Great Britain-2,GBR,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Nicholas Ponting,M,Great Britain-2,GBR,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Nicholas Ponting,M,Great Britain-2,GBR,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Nicholas Ponting,M,Great Britain-2,GBR,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Julian Robertson,M,Great Britain-2,GBR,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Nathan Robertson,M,Great Britain-2,GBR,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-David Wright,M,Great Britain-2,GBR,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Simon Archer,M,Great Britain-2,GBR,2000,Sydney,Badminton,Badminton Mixed Doubles,Bronze,Badminton,BDM,True,True
+Simon Archer,M,Great Britain-2,GBR,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Robert Blair,M,Great Britain-2,GBR,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Anthony Clark,M,Great Britain-2,GBR,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Nicholas Ponting,M,Great Britain-2,GBR,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Nicholas Ponting,M,Great Britain-2,GBR,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Nicholas Ponting,M,Great Britain-2,GBR,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Julian Robertson,M,Great Britain-2,GBR,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Nathan Robertson,M,Great Britain-2,GBR,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+David Wright,M,Great Britain-2,GBR,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True

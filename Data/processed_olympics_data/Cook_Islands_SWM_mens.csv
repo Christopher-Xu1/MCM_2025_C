@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Petero Okotai,M,Cook Islands,COK,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Zachary Payne,M,Cook Islands,COK,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Wesley Roberts,M,Cook Islands,COK,2016,Rio de Janeiro,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,False
-Tikiariki Roberts,M,Cook Islands,COK,2020,Tokyo,Swimming,Men's 200m Freestyle,No medal,Men's,SWM,True
-Tikiariki Roberts,M,Cook Islands,COK,2020,Tokyo,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Petero Okotai,M,Cook Islands,COK,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Zachary Payne,M,Cook Islands,COK,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Wesley Roberts,M,Cook Islands,COK,2016,Rio de Janeiro,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,False,True
+Tikiariki Roberts,M,Cook Islands,COK,2020,Tokyo,Swimming,Men's 200m Freestyle,No medal,Men's,SWM,True,True
+Tikiariki Roberts,M,Cook Islands,COK,2020,Tokyo,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,True,True

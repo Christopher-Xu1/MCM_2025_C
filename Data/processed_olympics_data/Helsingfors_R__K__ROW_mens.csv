@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Oskar Forsman,M,Helsingfors R. K.,FIN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
-Valdemar Henriksson,M,Helsingfors R. K.,FIN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
-Karl Lnnberg,M,Helsingfors R. K.,FIN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
-Johan Nyholm,M,Helsingfors R. K.,FIN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
-Emil Nylund,M,Helsingfors R. K.,FIN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Oskar Forsman,M,Helsingfors R. K.,FIN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True
+Valdemar Henriksson,M,Helsingfors R. K.,FIN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True
+Karl Lnnberg,M,Helsingfors R. K.,FIN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True
+Johan Nyholm,M,Helsingfors R. K.,FIN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True
+Emil Nylund,M,Helsingfors R. K.,FIN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True

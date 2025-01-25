@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nicols Snchez,M,Spain-2,ESP,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Jos Areyzaga,M,Spain-2,ESP,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Jos Areyzaga,M,Spain-2,ESP,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Manuel Areyzaga,M,Spain-2,ESP,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Manuel Areyzaga,M,Spain-2,ESP,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-David Ern,M,Spain-2,ESP,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Marcel Pujol,M,Spain-2,ESP,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Marc Tarrs,M,Spain-2,ESP,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Marc Tarrs,M,Spain-2,ESP,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,True
-Carlos Llompart,M,Spain-2,ESP,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Rafael Parera,M,Spain-2,ESP,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Rafael Parera,M,Spain-2,ESP,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,True
-Ricardo Aym,M,Spain-2,ESP,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nicols Snchez,M,Spain-2,ESP,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Jos Areyzaga,M,Spain-2,ESP,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Jos Areyzaga,M,Spain-2,ESP,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Manuel Areyzaga,M,Spain-2,ESP,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Manuel Areyzaga,M,Spain-2,ESP,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+David Ern,M,Spain-2,ESP,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Marcel Pujol,M,Spain-2,ESP,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Marc Tarrs,M,Spain-2,ESP,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Marc Tarrs,M,Spain-2,ESP,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,True,False
+Carlos Llompart,M,Spain-2,ESP,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Rafael Parera,M,Spain-2,ESP,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Rafael Parera,M,Spain-2,ESP,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,True,False
+Ricardo Aym,M,Spain-2,ESP,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,False,True

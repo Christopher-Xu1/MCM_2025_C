@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Herve Toumandji,M,Centr Afric Re,CAF,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Herve Toumandji,M,Centr Afric Re,CAF,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True

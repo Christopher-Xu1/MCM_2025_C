@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ragnar Jansson,M,Ralia,FIN,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
-Jonas Konto,M,Ralia,FIN,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
-Paul Sjberg,M,Ralia,FIN,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
-Rolf (durchman-),M,Ralia,FIN,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
-Ernst Westerlund,M,Ralia,FIN,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ragnar Jansson,M,Ralia,FIN,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True
+Jonas Konto,M,Ralia,FIN,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True
+Paul Sjberg,M,Ralia,FIN,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True
+Rolf (durchman-),M,Ralia,FIN,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True
+Ernst Westerlund,M,Ralia,FIN,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True

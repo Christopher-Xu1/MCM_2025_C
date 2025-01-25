@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Georges Herpin,M,Sandra,FRA,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Henri Louit,M,Sandra,FRA,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Michel Moussi,M,Sandra,FRA,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Georges Herpin,M,Sandra,FRA,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Henri Louit,M,Sandra,FRA,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Michel Moussi,M,Sandra,FRA,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

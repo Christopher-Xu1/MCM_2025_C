@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vedran Ipalo,M,Croatia,CRO,2004,Athina,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Stipe Drvi,M,Croatia,CRO,1996,Atlanta,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Filip Hrgovi,M,Croatia,CRO,2016,Rio de Janeiro,Boxing,Boxing Men's Super-Heavyweight,Bronze,Boxing,BOX,False
-eljko Mavrovi,M,Croatia,CRO,1992,Barcelona,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Hrvoje Sep,M,Croatia,CRO,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Marijo Ivolija-jelica,M,Croatia,CRO,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Marijo Ivolija-jelica,M,Croatia,CRO,2008,Beijing,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Marko Tomasovi,M,Croatia,CRO,2008,Beijing,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False
-Luka Plantic,M,Croatia,CRO,2020,Tokyo,Boxing,Men's Light Heavy (75-81kg),No medal,Men's,BOX,False
-Gabrijel Veocic,M,Croatia,CRO,2024,Paris,Boxing,Men's 80kg,No medal,Men's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vedran Ipalo,M,Croatia,CRO,2004,Athina,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Stipe Drvi,M,Croatia,CRO,1996,Atlanta,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Filip Hrgovi,M,Croatia,CRO,2016,Rio de Janeiro,Boxing,Boxing Men's Super-Heavyweight,Bronze,Boxing,BOX,False,True
+eljko Mavrovi,M,Croatia,CRO,1992,Barcelona,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Hrvoje Sep,M,Croatia,CRO,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Marijo Ivolija-jelica,M,Croatia,CRO,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,True
+Marijo Ivolija-jelica,M,Croatia,CRO,2008,Beijing,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,False
+Marko Tomasovi,M,Croatia,CRO,2008,Beijing,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False,True
+Luka Plantic,M,Croatia,CRO,2020,Tokyo,Boxing,Men's Light Heavy (75-81kg),No medal,Men's,BOX,False,True
+Gabrijel Veocic,M,Croatia,CRO,2024,Paris,Boxing,Men's 80kg,No medal,Men's,BOX,False,True

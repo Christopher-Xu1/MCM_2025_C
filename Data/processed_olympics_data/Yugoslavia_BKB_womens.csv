@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anelija (-arenac),F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False
-Vesna Bajkua,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False
-Mersada Beirspahi,F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Mira (-nikoli),F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Cvetana Dekleva,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Vesna Despotovi,F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Polona Dornik,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Polona Dornik,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True
-Vera Urakovi,F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Zorica Urkovi,F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Slaana Goli,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Slaana Goli,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True
-Jelica Komnenovi,F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True
-Jelica Komnenovi,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Kornelija Kvesi,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False
-Mara Laki,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False
-ana Lelas,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False
-Biljana Majstorovi,F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True
-Biljana Majstorovi,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Bojana Miloevi,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False
-Vukica (-pljaki),F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Razija (-gibanica),F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False
-Danira (-bili),F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False
-Sanja (-gobac),F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True
-Sanja (-gobac),F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Slavica Peikoza,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Sofija Peki,F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Jasmina (-gipe),F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True
-Jasmina (-gipe),F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Zagorka Poekovi,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Slavica Uka,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Marija (-pavievi),F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Marija Uzelac,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Stojna Vangelovska,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Stojna Vangelovska,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True
-Eleonora (-okovi),F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anelija (-arenac),F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False,True
+Vesna Bajkua,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False,True
+Mersada Beirspahi,F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Mira (-nikoli),F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Cvetana Dekleva,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Vesna Despotovi,F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Polona Dornik,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,True
+Polona Dornik,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True,False
+Vera Urakovi,F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Zorica Urkovi,F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Slaana Goli,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,True
+Slaana Goli,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True,False
+Jelica Komnenovi,F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True,True
+Jelica Komnenovi,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,False
+Kornelija Kvesi,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False,True
+Mara Laki,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False,True
+ana Lelas,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False,True
+Biljana Majstorovi,F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True,True
+Biljana Majstorovi,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,False
+Bojana Miloevi,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False,True
+Vukica (-pljaki),F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Razija (-gibanica),F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False,True
+Danira (-bili),F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False,True
+Sanja (-gobac),F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True,True
+Sanja (-gobac),F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,False
+Slavica Peikoza,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Sofija Peki,F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Jasmina (-gipe),F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True,True
+Jasmina (-gipe),F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,False
+Zagorka Poekovi,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Slavica Uka,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Marija (-pavievi),F,Yugoslavia,YUG,1980,Moskva,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Marija Uzelac,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Stojna Vangelovska,F,Yugoslavia,YUG,1984,Los Angeles,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,True
+Stojna Vangelovska,F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True,False
+Eleonora (-okovi),F,Yugoslavia,YUG,1988,Seoul,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False,True

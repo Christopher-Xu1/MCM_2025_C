@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tatyana Moskvina,F,Belarus,BLR,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Tatyana Moskvina,F,Belarus,BLR,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Darya Skrypnik,F,Belarus,BLR,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Maryna Slutskaya,F,Belarus,BLR,2020,Tokyo,Judo,Women +78 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tatyana Moskvina,F,Belarus,BLR,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,True
+Tatyana Moskvina,F,Belarus,BLR,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,False
+Darya Skrypnik,F,Belarus,BLR,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Maryna Slutskaya,F,Belarus,BLR,2020,Tokyo,Judo,Women +78 kg,No medal,Women,JUD,False,True

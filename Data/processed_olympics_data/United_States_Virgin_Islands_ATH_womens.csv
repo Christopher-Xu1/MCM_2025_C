@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ameerah Bello,F,United States Virgin Islands,ISV,1996,Atlanta,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Ameerah Bello,F,United States Virgin Islands,ISV,1996,Atlanta,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Ameerah Bello,F,United States Virgin Islands,ISV,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Ameerah Bello,F,United States Virgin Islands,ISV,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Ana Gutirrez-wittmann,F,United States Virgin Islands,ISV,1992,Barcelona,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Rita Hendricks,F,United States Virgin Islands,ISV,1976,Montreal,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Flora Hyacinth,F,United States Virgin Islands,ISV,1992,Barcelona,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Flora Hyacinth,F,United States Virgin Islands,ISV,1996,Atlanta,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Flora Hyacinth,F,United States Virgin Islands,ISV,2000,Sydney,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-LaVerne Jones-ferrette,F,United States Virgin Islands,ISV,2004,Athina,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-LaVerne Jones-ferrette,F,United States Virgin Islands,ISV,2004,Athina,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-LaVerne Jones-ferrette,F,United States Virgin Islands,ISV,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-LaVerne Jones-ferrette,F,United States Virgin Islands,ISV,2008,Beijing,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-LaVerne Jones-ferrette,F,United States Virgin Islands,ISV,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-LaVerne Jones-ferrette,F,United States Virgin Islands,ISV,2012,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-LaVerne Jones-ferrette,F,United States Virgin Islands,ISV,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Ruth Morris,F,United States Virgin Islands,ISV,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Ruth Morris,F,United States Virgin Islands,ISV,1988,Seoul,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Ruth Morris,F,United States Virgin Islands,ISV,1992,Barcelona,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Ruth Morris,F,United States Virgin Islands,ISV,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Maria Noel,F,United States Virgin Islands,ISV,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Jilma Patrick,F,United States Virgin Islands,ISV,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Allison Peter,F,United States Virgin Islands,ISV,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Allison Peter,F,United States Virgin Islands,ISV,2012,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Rochelle Thomas,F,United States Virgin Islands,ISV,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ameerah Bello,F,United States Virgin Islands,ISV,1996,Atlanta,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Ameerah Bello,F,United States Virgin Islands,ISV,1996,Atlanta,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Ameerah Bello,F,United States Virgin Islands,ISV,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Ameerah Bello,F,United States Virgin Islands,ISV,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Ana Gutirrez-wittmann,F,United States Virgin Islands,ISV,1992,Barcelona,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Rita Hendricks,F,United States Virgin Islands,ISV,1976,Montreal,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Flora Hyacinth,F,United States Virgin Islands,ISV,1992,Barcelona,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,True
+Flora Hyacinth,F,United States Virgin Islands,ISV,1996,Atlanta,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,False
+Flora Hyacinth,F,United States Virgin Islands,ISV,2000,Sydney,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,False
+LaVerne Jones-ferrette,F,United States Virgin Islands,ISV,2004,Athina,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+LaVerne Jones-ferrette,F,United States Virgin Islands,ISV,2004,Athina,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+LaVerne Jones-ferrette,F,United States Virgin Islands,ISV,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+LaVerne Jones-ferrette,F,United States Virgin Islands,ISV,2008,Beijing,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+LaVerne Jones-ferrette,F,United States Virgin Islands,ISV,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+LaVerne Jones-ferrette,F,United States Virgin Islands,ISV,2012,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+LaVerne Jones-ferrette,F,United States Virgin Islands,ISV,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Ruth Morris,F,United States Virgin Islands,ISV,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Ruth Morris,F,United States Virgin Islands,ISV,1988,Seoul,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Ruth Morris,F,United States Virgin Islands,ISV,1992,Barcelona,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Ruth Morris,F,United States Virgin Islands,ISV,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,False
+Maria Noel,F,United States Virgin Islands,ISV,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Jilma Patrick,F,United States Virgin Islands,ISV,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Allison Peter,F,United States Virgin Islands,ISV,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Allison Peter,F,United States Virgin Islands,ISV,2012,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Rochelle Thomas,F,United States Virgin Islands,ISV,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True

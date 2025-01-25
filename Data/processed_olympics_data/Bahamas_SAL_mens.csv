@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kenneth Albury,M,Bahamas,BAH,1952,Helsinki,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Kenneth Albury,M,Bahamas,BAH,1956,Melbourne,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Kenneth Albury,M,Bahamas,BAH,1960,Roma,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Kenneth Albury,M,Bahamas,BAH,1968,Mexico City,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Robert Dunkley,M,Bahamas,BAH,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Montague Higgs,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Montague Higgs,M,Bahamas,BAH,1984,Los Angeles,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-William Holowesko,M,Bahamas,BAH,1992,Barcelona,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Mark Holowesko,M,Bahamas,BAH,1996,Atlanta,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-David Kelly,M,Bahamas,BAH,1968,Mexico City,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-David Kelly,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Godfrey Kelly,M,Bahamas,BAH,1968,Mexico City,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Godfrey Kelly,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Stephen Kelly,M,Bahamas,BAH,1984,Los Angeles,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Stephen Kelly,M,Bahamas,BAH,1988,Seoul,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Stephen Kelly,M,Bahamas,BAH,1992,Barcelona,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Durward Knowles,M,Bahamas,BAH,1968,Mexico City,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Durward Knowles,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Durward Knowles,M,Bahamas,BAH,1988,Seoul,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Percival Knowles,M,Bahamas,BAH,1968,Mexico City,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Percival Knowles,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Christopher Mckinney,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Thomas Nisbet,M,Bahamas,BAH,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Myles Pritchard,M,Bahamas,BAH,1996,Atlanta,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-George Ramsay,M,Bahamas,BAH,1968,Mexico City,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Michael Russell,M,Bahamas,BAH,1976,Montreal,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Robert Symonette,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Roland Symonette,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kenneth Albury,M,Bahamas,BAH,1952,Helsinki,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,True
+Kenneth Albury,M,Bahamas,BAH,1956,Melbourne,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Kenneth Albury,M,Bahamas,BAH,1960,Roma,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Kenneth Albury,M,Bahamas,BAH,1968,Mexico City,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Robert Dunkley,M,Bahamas,BAH,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Montague Higgs,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,True
+Montague Higgs,M,Bahamas,BAH,1984,Los Angeles,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+William Holowesko,M,Bahamas,BAH,1992,Barcelona,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Mark Holowesko,M,Bahamas,BAH,1996,Atlanta,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+David Kelly,M,Bahamas,BAH,1968,Mexico City,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,True
+David Kelly,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Godfrey Kelly,M,Bahamas,BAH,1968,Mexico City,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,True
+Godfrey Kelly,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Stephen Kelly,M,Bahamas,BAH,1984,Los Angeles,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,True
+Stephen Kelly,M,Bahamas,BAH,1988,Seoul,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Stephen Kelly,M,Bahamas,BAH,1992,Barcelona,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Durward Knowles,M,Bahamas,BAH,1968,Mexico City,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,True
+Durward Knowles,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Durward Knowles,M,Bahamas,BAH,1988,Seoul,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Percival Knowles,M,Bahamas,BAH,1968,Mexico City,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,True
+Percival Knowles,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Christopher Mckinney,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Thomas Nisbet,M,Bahamas,BAH,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Myles Pritchard,M,Bahamas,BAH,1996,Atlanta,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+George Ramsay,M,Bahamas,BAH,1968,Mexico City,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Michael Russell,M,Bahamas,BAH,1976,Montreal,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Robert Symonette,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Roland Symonette,M,Bahamas,BAH,1972,Munich,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chamara Repiyallage,M,Sri Lanka,SRI,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Chamara Repiyallage,M,Sri Lanka,SRI,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chamara Repiyallage,M,Sri Lanka,SRI,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Chamara Repiyallage,M,Sri Lanka,SRI,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,True,False

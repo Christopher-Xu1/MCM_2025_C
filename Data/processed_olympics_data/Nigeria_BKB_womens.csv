@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mobolaji Akiode,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Joanne Aluka,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Mactabene Amachree,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Nguveren Iyorhe,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Aisha Mohamed,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Ojoshogu Negedu,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Linda Ogugua,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Ugochukwu Oha,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Taiwo Rafiu,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Rashidat Sadiq,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-M'fon Udoka,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Itoro (-coleman),F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Promise Amukamara,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True
-Elizabeth Balogun,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True
-Oderah Chidom,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False
-Adaora Elonu,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False
-Ify Ibekwe,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False
-Ezinne Kalu,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True
-Pallas Kunaiyi-akpanah,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True
-Victoria Macaulay,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False
-Aisha Mohammed,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False
-Atonye Nyingifa,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False
-Erica Ogwumike,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False
-Amy Okonkwo,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True
-Promise Amukamara,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,True
-Elizabeth Balogun,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,True
-Blessing Ejiofor,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,False
-Nicole Enabosi,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,False
-Adebola Adeyeye,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,False
-Lauren Ebo,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,False
-Pallas Kunaiyi-akpanah,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,True
-Murjanatu Musa,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,False
-Amy Okonkwo,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,True
-Ifunanya Okoro,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,False
-Tomi Taiwo,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,False
-Ezinne Kalu,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mobolaji Akiode,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Joanne Aluka,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Mactabene Amachree,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Nguveren Iyorhe,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Aisha Mohamed,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Ojoshogu Negedu,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Linda Ogugua,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Ugochukwu Oha,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Taiwo Rafiu,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Rashidat Sadiq,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+M'fon Udoka,F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Itoro (-coleman),F,Nigeria,NGR,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Promise Amukamara,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True,True
+Elizabeth Balogun,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True,True
+Oderah Chidom,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False,True
+Adaora Elonu,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False,True
+Ify Ibekwe,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False,True
+Ezinne Kalu,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True,True
+Pallas Kunaiyi-akpanah,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True,True
+Victoria Macaulay,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False,True
+Aisha Mohammed,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False,True
+Atonye Nyingifa,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False,True
+Erica Ogwumike,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False,True
+Amy Okonkwo,F,Nigeria,NGR,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True,True
+Promise Amukamara,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,True,False
+Elizabeth Balogun,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,True,False
+Blessing Ejiofor,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,False,True
+Nicole Enabosi,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,False,True
+Adebola Adeyeye,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,False,True
+Lauren Ebo,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,False,True
+Pallas Kunaiyi-akpanah,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,True,False
+Murjanatu Musa,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,False,True
+Amy Okonkwo,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,True,False
+Ifunanya Okoro,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,False,True
+Tomi Taiwo,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,False,True
+Ezinne Kalu,F,Nigeria,NGR,2024,Paris,Basketball,Women,No medal,Women,BKB,True,False

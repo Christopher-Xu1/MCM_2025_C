@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Garima Chaudhary,F,India,IND,2012,London,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Khumujam Devi,F,India,IND,2008,Beijing,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Lourembam Devi,F,India,IND,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Shah Kohli,F,India,IND,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Sangita Mehta,F,India,IND,1992,Barcelona,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Divya Tewar,F,India,IND,2008,Beijing,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Sunith Thakur,F,India,IND,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Devi Likmabam,F,India,IND,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,False
-Tulika Maan,F,India,IND,2024,Paris,Judo,Women +78 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Garima Chaudhary,F,India,IND,2012,London,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Khumujam Devi,F,India,IND,2008,Beijing,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Lourembam Devi,F,India,IND,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Shah Kohli,F,India,IND,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Sangita Mehta,F,India,IND,1992,Barcelona,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Divya Tewar,F,India,IND,2008,Beijing,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Sunith Thakur,F,India,IND,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Devi Likmabam,F,India,IND,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,False,True
+Tulika Maan,F,India,IND,2024,Paris,Judo,Women +78 kg,No medal,Women,JUD,False,True

@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yamil (-dodds),F,Sudan,SUD,2004,Athina,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,True
-Yamil (-dodds),F,Sudan,SUD,2008,Beijing,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,True
-Amina Bakhit,F,Sudan,SUD,2012,London,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Amina Bakhit,F,Sudan,SUD,2016,Rio de Janeiro,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Muna Durka,F,Sudan,SUD,2008,Beijing,Athletics,"Athletics Women's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
-Malbas El-jack,F,Sudan,SUD,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Muna Ahmed,F,Sudan,SUD,2008,Beijing,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,False
-Awmima Mohamed,F,Sudan,SUD,2000,Sydney,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yamil (-dodds),F,Sudan,SUD,2004,Athina,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,True,True
+Yamil (-dodds),F,Sudan,SUD,2008,Beijing,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,True,False
+Amina Bakhit,F,Sudan,SUD,2012,London,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Amina Bakhit,F,Sudan,SUD,2016,Rio de Janeiro,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,False
+Muna Durka,F,Sudan,SUD,2008,Beijing,Athletics,"Athletics Women's 3,000 metres Steeplechase",No medal,Athletics,ATH,False,True
+Malbas El-jack,F,Sudan,SUD,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Muna Ahmed,F,Sudan,SUD,2008,Beijing,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+Awmima Mohamed,F,Sudan,SUD,2000,Sydney,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True

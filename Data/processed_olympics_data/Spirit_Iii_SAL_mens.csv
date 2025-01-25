@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carlos Jr.,M,Spirit Iii,USA,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Daniel Sr.,M,Spirit Iii,USA,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Eugene Iii,M,Spirit Iii,USA,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Eugene Jr.,M,Spirit Iii,USA,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carlos Jr.,M,Spirit Iii,USA,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Daniel Sr.,M,Spirit Iii,USA,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Eugene Iii,M,Spirit Iii,USA,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Eugene Jr.,M,Spirit Iii,USA,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

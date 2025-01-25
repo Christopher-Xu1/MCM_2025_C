@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Erik Bye,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Ole Fegth,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Wilhelm Hansen,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Gustav Hhre,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Ambrosius Hyer,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Emil Irgens,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Andreas Knudsen,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Otto Krogh,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Ejnar Tnsager,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Erik Bye,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Ole Fegth,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Wilhelm Hansen,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Gustav Hhre,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Ambrosius Hyer,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Emil Irgens,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Andreas Knudsen,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Otto Krogh,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Ejnar Tnsager,M,Norwegian Rowing Association,NOR,1908,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True

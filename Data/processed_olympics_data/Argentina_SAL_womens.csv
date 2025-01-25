@@ -1,38 +1,38 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Serena Amato,F,Argentina,ARG,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Serena Amato,F,Argentina,ARG,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,Bronze,Sailing,SAL,True
-Serena Amato,F,Argentina,ARG,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Mara Branz,F,Argentina,ARG,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False
-Cecilia Saroli,F,Argentina,ARG,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Cecilia Saroli,F,Argentina,ARG,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Cecilia Saroli,F,Argentina,ARG,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,Gold,Sailing,SAL,True
-Mara Lorenzo,F,Argentina,ARG,1992,Barcelona,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Lucia Falasca,F,Argentina,ARG,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Mnica Wilson,F,Argentina,ARG,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Florencia Gutirrez,F,Argentina,ARG,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Jazmin Becker,F,Argentina,ARG,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Consuelo Monsegur,F,Argentina,ARG,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Consuelo Monsegur,F,Argentina,ARG,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Paula Reinoso,F,Argentina,ARG,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Paula Reinoso,F,Argentina,ARG,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Paula Reinoso,F,Argentina,ARG,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Mara Sesto,F,Argentina,ARG,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Mara Sesto,F,Argentina,ARG,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Mara Sesto,F,Argentina,ARG,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Mara Sesto,F,Argentina,ARG,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Mara Mackern,F,Argentina,ARG,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Victoria Travascio,F,Argentina,ARG,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,True
-Sofia Usandizaga,F,Argentina,ARG,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Catalina Walther,F,Argentina,ARG,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Gisela Bekker,F,Argentina,ARG,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Sol Branz,F,Argentina,ARG,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False
-Cecilia Carranza,F,Argentina,ARG,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,False
-Lucia Falasca,F,Argentina,ARG,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,True
-Lourdes Hartkopf,F,Argentina,ARG,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False
-Belen Tavella,F,Argentina,ARG,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False
-Celia Tejerina,F,Argentina,ARG,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False
-Victoria Travascio,F,Argentina,ARG,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,True
-Eugenia Bosco,F,Argentina,ARG,2024,Paris,Sailing,Mixed Multihull,Silver,Mixed,SAL,False
-Chiara Ferretti,F,Argentina,ARG,2024,Paris,Sailing,Women's Windsurfing,No medal,Women's,SAL,False
-Catalina Turienzo,F,Argentina,ARG,2024,Paris,Sailing,Women's Kite,No medal,Women's,SAL,False
-Lucia Falasca,F,Argentina,ARG,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Serena Amato,F,Argentina,ARG,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Serena Amato,F,Argentina,ARG,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,Bronze,Sailing,SAL,True,False
+Serena Amato,F,Argentina,ARG,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Mara Branz,F,Argentina,ARG,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False,True
+Cecilia Saroli,F,Argentina,ARG,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Cecilia Saroli,F,Argentina,ARG,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Cecilia Saroli,F,Argentina,ARG,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,Gold,Sailing,SAL,True,False
+Mara Lorenzo,F,Argentina,ARG,1992,Barcelona,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Lucia Falasca,F,Argentina,ARG,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Mnica Wilson,F,Argentina,ARG,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Florencia Gutirrez,F,Argentina,ARG,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Jazmin Becker,F,Argentina,ARG,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Consuelo Monsegur,F,Argentina,ARG,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Consuelo Monsegur,F,Argentina,ARG,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Paula Reinoso,F,Argentina,ARG,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Paula Reinoso,F,Argentina,ARG,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Paula Reinoso,F,Argentina,ARG,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Mara Sesto,F,Argentina,ARG,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Mara Sesto,F,Argentina,ARG,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Mara Sesto,F,Argentina,ARG,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Mara Sesto,F,Argentina,ARG,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Mara Mackern,F,Argentina,ARG,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Victoria Travascio,F,Argentina,ARG,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,True,True
+Sofia Usandizaga,F,Argentina,ARG,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Catalina Walther,F,Argentina,ARG,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Gisela Bekker,F,Argentina,ARG,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Sol Branz,F,Argentina,ARG,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False,True
+Cecilia Carranza,F,Argentina,ARG,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,False,True
+Lucia Falasca,F,Argentina,ARG,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,True,False
+Lourdes Hartkopf,F,Argentina,ARG,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False,True
+Belen Tavella,F,Argentina,ARG,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False,True
+Celia Tejerina,F,Argentina,ARG,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False,True
+Victoria Travascio,F,Argentina,ARG,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,True,False
+Eugenia Bosco,F,Argentina,ARG,2024,Paris,Sailing,Mixed Multihull,Silver,Mixed,SAL,False,True
+Chiara Ferretti,F,Argentina,ARG,2024,Paris,Sailing,Women's Windsurfing,No medal,Women's,SAL,False,True
+Catalina Turienzo,F,Argentina,ARG,2024,Paris,Sailing,Women's Kite,No medal,Women's,SAL,False,True
+Lucia Falasca,F,Argentina,ARG,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,True,False

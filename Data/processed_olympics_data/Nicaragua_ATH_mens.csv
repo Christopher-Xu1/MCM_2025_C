@@ -1,32 +1,32 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carlos Balladares,M,Nicaragua,NCA,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Carlos Abaunza,M,Nicaragua,NCA,1976,Montreal,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
-William Villavicencio,M,Nicaragua,NCA,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-William Villavicencio,M,Nicaragua,NCA,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Juan Sandoval,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Juan Sandoval,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Edgar Espinoza,M,Nicaragua,NCA,2012,London,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Erasmo Gmez,M,Nicaragua,NCA,1976,Montreal,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Rodolfo Gmez,M,Nicaragua,NCA,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Ricardo Larios,M,Nicaragua,NCA,1976,Montreal,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Rolando Mendoza,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,True
-Rolando Mendoza,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
-Francisco Menocal,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Francisco Menocal,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Francisco Menocal,M,Nicaragua,NCA,1972,Munich,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Francisco Menocal,M,Nicaragua,NCA,1972,Munich,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Francisco Menocal,M,Nicaragua,NCA,1976,Montreal,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Gustavo Morales,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's Hammer Throw,No medal,Athletics,ATH,False
-Armando Padilla,M,Nicaragua,NCA,1976,Montreal,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Armando Padilla,M,Nicaragua,NCA,1976,Montreal,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Erick Lezcano,M,Nicaragua,NCA,2016,Rio de Janeiro,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Leonel Teller,M,Nicaragua,NCA,1980,Moskva,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
-Jos Valle,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
-Jos Valle,M,Nicaragua,NCA,1972,Munich,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
-Carlos Munguia,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False
-Donald Espinoza,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Donald Espinoza,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,True
-Donald Espinoza,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True
-Donald Espinoza,M,Nicaragua,NCA,1972,Munich,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,True
-Juan Zeledn,M,Nicaragua,NCA,2008,Beijing,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
-Eliuth Romero,M,Nicaragua,NCA,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carlos Balladares,M,Nicaragua,NCA,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Carlos Abaunza,M,Nicaragua,NCA,1976,Montreal,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False,True
+William Villavicencio,M,Nicaragua,NCA,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+William Villavicencio,M,Nicaragua,NCA,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Juan Sandoval,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Juan Sandoval,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Edgar Espinoza,M,Nicaragua,NCA,2012,London,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Erasmo Gmez,M,Nicaragua,NCA,1976,Montreal,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Rodolfo Gmez,M,Nicaragua,NCA,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Ricardo Larios,M,Nicaragua,NCA,1976,Montreal,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Rolando Mendoza,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,True,True
+Rolando Mendoza,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True,True
+Francisco Menocal,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Francisco Menocal,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Francisco Menocal,M,Nicaragua,NCA,1972,Munich,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,False
+Francisco Menocal,M,Nicaragua,NCA,1972,Munich,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Francisco Menocal,M,Nicaragua,NCA,1976,Montreal,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,False
+Gustavo Morales,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's Hammer Throw,No medal,Athletics,ATH,False,True
+Armando Padilla,M,Nicaragua,NCA,1976,Montreal,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Armando Padilla,M,Nicaragua,NCA,1976,Montreal,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Erick Lezcano,M,Nicaragua,NCA,2016,Rio de Janeiro,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Leonel Teller,M,Nicaragua,NCA,1980,Moskva,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+Jos Valle,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True,True
+Jos Valle,M,Nicaragua,NCA,1972,Munich,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True,False
+Carlos Munguia,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False,True
+Donald Espinoza,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,True
+Donald Espinoza,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,True,True
+Donald Espinoza,M,Nicaragua,NCA,1968,Mexico City,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True,True
+Donald Espinoza,M,Nicaragua,NCA,1972,Munich,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,True,False
+Juan Zeledn,M,Nicaragua,NCA,2008,Beijing,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False,True
+Eliuth Romero,M,Nicaragua,NCA,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,False,True

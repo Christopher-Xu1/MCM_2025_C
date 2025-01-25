@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Edgar Adams,M,New York Athletic Club #2-4,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,No medal,Swimming,SWM,False
-David Bratton,M,New York Athletic Club #2-4,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,No medal,Swimming,SWM,False
-David Hesser,M,New York Athletic Club #2-4,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,No medal,Swimming,SWM,False
-George Cleaf,M,New York Athletic Club #2-4,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,No medal,Swimming,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Edgar Adams,M,New York Athletic Club #2-4,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,No medal,Swimming,SWM,False,True
+David Bratton,M,New York Athletic Club #2-4,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,No medal,Swimming,SWM,False,True
+David Hesser,M,New York Athletic Club #2-4,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,No medal,Swimming,SWM,False,True
+George Cleaf,M,New York Athletic Club #2-4,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,No medal,Swimming,SWM,False,True

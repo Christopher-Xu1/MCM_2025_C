@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chan Soon,M,Malaysia,MAS,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Chan Soon,M,Malaysia,MAS,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,Silver,Badminton,BDM,True
-Foo Keong,M,Malaysia,MAS,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Goh Shem,M,Malaysia,MAS,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,False
-Mohamed Hashim,M,Malaysia,MAS,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Koo Keat,M,Malaysia,MAS,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Lee Wei,M,Malaysia,MAS,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Lee Wei,M,Malaysia,MAS,2008,Beijing,Badminton,Badminton Men's Singles,Silver,Badminton,BDM,True
-Lee Wei,M,Malaysia,MAS,2012,London,Badminton,Badminton Men's Singles,Silver,Badminton,BDM,True
-Lee Wei,M,Malaysia,MAS,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,Silver,Badminton,BDM,True
-Ong Hock,M,Malaysia,MAS,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Ong Hock,M,Malaysia,MAS,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Rashid Mohamed,M,Malaysia,MAS,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Rashid Mohamed,M,Malaysia,MAS,1996,Atlanta,Badminton,Badminton Men's Singles,Bronze,Badminton,BDM,True
-Tan Heong,M,Malaysia,MAS,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Tan Kiong,M,Malaysia,MAS,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,False
-Wong Hann,M,Malaysia,MAS,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Wong Hann,M,Malaysia,MAS,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Wong Hann,M,Malaysia,MAS,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Soon Chan,M,Malaysia,MAS,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,False
-Aaron Chia,M,Malaysia,MAS,2020,Tokyo,Badminton,Men's Doubles Team,Bronze,Men's,BDM,True
-Jia Lee,M,Malaysia,MAS,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True
-Yik Soh,M,Malaysia,MAS,2020,Tokyo,Badminton,Men's Doubles Team,Bronze,Men's,BDM,True
-Aaron Chia,M,Malaysia,MAS,2024,Paris,Badminton,Men's Doubles,Bronze,Men's,BDM,True
-Jie Chen,M,Malaysia,MAS,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False
-Jia Lee,M,Malaysia,MAS,2024,Paris,Badminton,Men's Singles,Bronze,Men's,BDM,True
-Yik Soh,M,Malaysia,MAS,2024,Paris,Badminton,Men's Doubles,Bronze,Men's,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chan Soon,M,Malaysia,MAS,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Chan Soon,M,Malaysia,MAS,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,Silver,Badminton,BDM,True,False
+Foo Keong,M,Malaysia,MAS,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Goh Shem,M,Malaysia,MAS,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,False,True
+Mohamed Hashim,M,Malaysia,MAS,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Koo Keat,M,Malaysia,MAS,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Lee Wei,M,Malaysia,MAS,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Lee Wei,M,Malaysia,MAS,2008,Beijing,Badminton,Badminton Men's Singles,Silver,Badminton,BDM,True,False
+Lee Wei,M,Malaysia,MAS,2012,London,Badminton,Badminton Men's Singles,Silver,Badminton,BDM,True,False
+Lee Wei,M,Malaysia,MAS,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,Silver,Badminton,BDM,True,False
+Ong Hock,M,Malaysia,MAS,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Ong Hock,M,Malaysia,MAS,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Rashid Mohamed,M,Malaysia,MAS,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Rashid Mohamed,M,Malaysia,MAS,1996,Atlanta,Badminton,Badminton Men's Singles,Bronze,Badminton,BDM,True,False
+Tan Heong,M,Malaysia,MAS,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Tan Kiong,M,Malaysia,MAS,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,False,True
+Wong Hann,M,Malaysia,MAS,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Wong Hann,M,Malaysia,MAS,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Wong Hann,M,Malaysia,MAS,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Soon Chan,M,Malaysia,MAS,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,False,True
+Aaron Chia,M,Malaysia,MAS,2020,Tokyo,Badminton,Men's Doubles Team,Bronze,Men's,BDM,True,True
+Jia Lee,M,Malaysia,MAS,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True,True
+Yik Soh,M,Malaysia,MAS,2020,Tokyo,Badminton,Men's Doubles Team,Bronze,Men's,BDM,True,True
+Aaron Chia,M,Malaysia,MAS,2024,Paris,Badminton,Men's Doubles,Bronze,Men's,BDM,True,False
+Jie Chen,M,Malaysia,MAS,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False,True
+Jia Lee,M,Malaysia,MAS,2024,Paris,Badminton,Men's Singles,Bronze,Men's,BDM,True,False
+Yik Soh,M,Malaysia,MAS,2024,Paris,Badminton,Men's Doubles,Bronze,Men's,BDM,True,False

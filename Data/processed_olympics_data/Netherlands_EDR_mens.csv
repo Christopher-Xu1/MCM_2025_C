@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Edward Gal,M,Netherlands,NED,2020,Tokyo,Equestrian,Dressage Team,No medal,Dressage,EDR,True
-Edward Gal,M,Netherlands,NED,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Peter Minderhoud,M,Netherlands,NED,2020,Tokyo,Equestrian,Dressage Team,No medal,Dressage,EDR,True
-Peter Minderhoud,M,Netherlands,NED,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Edward Gal,M,Netherlands,NED,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True
-Peter Minderhoud,M,Netherlands,NED,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Peter Minderhoud,M,Netherlands,NED,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Edward Gal,M,Netherlands,NED,2020,Tokyo,Equestrian,Dressage Team,No medal,Dressage,EDR,True,True
+Edward Gal,M,Netherlands,NED,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Peter Minderhoud,M,Netherlands,NED,2020,Tokyo,Equestrian,Dressage Team,No medal,Dressage,EDR,True,True
+Peter Minderhoud,M,Netherlands,NED,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Edward Gal,M,Netherlands,NED,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True,False
+Peter Minderhoud,M,Netherlands,NED,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,False
+Peter Minderhoud,M,Netherlands,NED,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True,False

@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jacinta Bartholomew,F,Grenada,GRN,1984,Los Angeles,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False
-Trish Bartholomew,F,Grenada,GRN,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Neisha Bernard-thomas,F,Grenada,GRN,2008,Beijing,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Neisha Bernard-thomas,F,Grenada,GRN,2012,London,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Sherry Fletcher,F,Grenada,GRN,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Alison George,F,Grenada,GRN,2008,Beijing,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Agnes Griffith,F,Grenada,GRN,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Agnes Griffith,F,Grenada,GRN,1988,Seoul,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Janelle Redhead,F,Grenada,GRN,2012,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Hazel-Ann Regis,F,Grenada,GRN,2000,Sydney,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Hazel-Ann Regis,F,Grenada,GRN,2004,Athina,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Shermaine Ross,F,Grenada,GRN,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Patricia (cornwall-),F,Grenada,GRN,2008,Beijing,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False
-Arlene Mark,F,Grenada,GRN,1988,Seoul,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Meleni Rodney,F,Grenada,GRN,2020,Tokyo,Athletics,Women's 400m,No medal,Women's,ATH,False
-Halle Hazzard,F,Grenada,GRN,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jacinta Bartholomew,F,Grenada,GRN,1984,Los Angeles,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False,True
+Trish Bartholomew,F,Grenada,GRN,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Neisha Bernard-thomas,F,Grenada,GRN,2008,Beijing,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Neisha Bernard-thomas,F,Grenada,GRN,2012,London,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,False
+Sherry Fletcher,F,Grenada,GRN,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Alison George,F,Grenada,GRN,2008,Beijing,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Agnes Griffith,F,Grenada,GRN,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Agnes Griffith,F,Grenada,GRN,1988,Seoul,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Janelle Redhead,F,Grenada,GRN,2012,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Hazel-Ann Regis,F,Grenada,GRN,2000,Sydney,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Hazel-Ann Regis,F,Grenada,GRN,2004,Athina,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,False
+Shermaine Ross,F,Grenada,GRN,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Patricia (cornwall-),F,Grenada,GRN,2008,Beijing,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False,True
+Arlene Mark,F,Grenada,GRN,1988,Seoul,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Meleni Rodney,F,Grenada,GRN,2020,Tokyo,Athletics,Women's 400m,No medal,Women's,ATH,False,True
+Halle Hazzard,F,Grenada,GRN,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False,True

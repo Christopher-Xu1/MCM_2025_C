@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kim Hye-song,F,North Korea,PRK,2012,London,Boxing,Boxing Women's Flyweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kim Hye-song,F,North Korea,PRK,2012,London,Boxing,Boxing Women's Flyweight,No medal,Boxing,BOX,False,True

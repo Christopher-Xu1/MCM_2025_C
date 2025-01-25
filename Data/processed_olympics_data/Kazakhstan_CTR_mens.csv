@@ -1,43 +1,43 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Asan Bazayev,M,Kazakhstan,KAZ,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Asan Bazayev,M,Kazakhstan,KAZ,2012,London,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Ilya Chernyshov,M,Kazakhstan,KAZ,2004,Athina,Cycling,Cycling Men's Madison,No medal,Cycling,CTR,False
-Maksim Iglinsky,M,Kazakhstan,KAZ,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Maksim Iglinsky,M,Kazakhstan,KAZ,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Andrey Kashechkin,M,Kazakhstan,KAZ,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Andrey Kashechkin,M,Kazakhstan,KAZ,2004,Athina,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Andrey Kivilyov,M,Kazakhstan,KAZ,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Andrey Kivilyov,M,Kazakhstan,KAZ,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Aleksey Kolesov,M,Kazakhstan,KAZ,2004,Athina,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,False
-Bakhtiyar Kozhatayev,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Vadim Kravchenko,M,Kazakhstan,KAZ,1996,Atlanta,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Vadim Kravchenko,M,Kazakhstan,KAZ,2000,Sydney,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Sergey Lavrinenko,M,Kazakhstan,KAZ,1996,Atlanta,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Sergey Lavrinenko,M,Kazakhstan,KAZ,2000,Sydney,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Andrey Mizurov,M,Kazakhstan,KAZ,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Andrey Mizurov,M,Kazakhstan,KAZ,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Andrey Mizurov,M,Kazakhstan,KAZ,2008,Beijing,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Aleksandr Shefer,M,Kazakhstan,KAZ,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Aleksandr Shefer,M,Kazakhstan,KAZ,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Andrey Teteryuk,M,Kazakhstan,KAZ,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Andrey Teteryuk,M,Kazakhstan,KAZ,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Andrey Teteryuk,M,Kazakhstan,KAZ,2000,Sydney,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Aleksandr Vinokurov,M,Kazakhstan,KAZ,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Aleksandr Vinokurov,M,Kazakhstan,KAZ,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",Silver,Cycling,CTR,True
-Aleksandr Vinokurov,M,Kazakhstan,KAZ,2000,Sydney,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Aleksandr Vinokurov,M,Kazakhstan,KAZ,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Aleksandr Vinokurov,M,Kazakhstan,KAZ,2004,Athina,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Aleksandr Vinokurov,M,Kazakhstan,KAZ,2012,London,Cycling,"Cycling Men's Road Race, Individual",Gold,Cycling,CTR,True
-Aleksandr Vinokurov,M,Kazakhstan,KAZ,2012,London,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Sergey Yakovlev,M,Kazakhstan,KAZ,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Sergey Yakovlev,M,Kazakhstan,KAZ,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Yury Yuda,M,Kazakhstan,KAZ,2004,Athina,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Yury Yuda,M,Kazakhstan,KAZ,2004,Athina,Cycling,Cycling Men's Madison,No medal,Cycling,CTR,True
-Artyom Zakharov,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Cycling,Cycling Men's Omnium,No medal,Cycling,CTR,True
-Andrey Zeyts,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Andrey Zeyts,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Sergey Ponomaryov,M,Kazakhstan,KAZ,2020,Tokyo,Cycling Track,Men's Sprint,No medal,Men's,CTR,True
-Sergey Ponomaryov,M,Kazakhstan,KAZ,2020,Tokyo,Cycling Track,Men's Keirin,No medal,Men's,CTR,True
-Artyom Zakharov,M,Kazakhstan,KAZ,2020,Tokyo,Cycling Track,Men's Omnium,No medal,Men's,CTR,True
-Andrey Chugay,M,Kazakhstan,KAZ,2024,Paris,Cycling Track,Men's Keirin,No medal,Men's,CTR,True
-Andrey Chugay,M,Kazakhstan,KAZ,2024,Paris,Cycling Track,Men's Sprint,No medal,Men's,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Asan Bazayev,M,Kazakhstan,KAZ,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Asan Bazayev,M,Kazakhstan,KAZ,2012,London,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,True
+Ilya Chernyshov,M,Kazakhstan,KAZ,2004,Athina,Cycling,Cycling Men's Madison,No medal,Cycling,CTR,False,True
+Maksim Iglinsky,M,Kazakhstan,KAZ,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Maksim Iglinsky,M,Kazakhstan,KAZ,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Andrey Kashechkin,M,Kazakhstan,KAZ,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Andrey Kashechkin,M,Kazakhstan,KAZ,2004,Athina,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,True
+Andrey Kivilyov,M,Kazakhstan,KAZ,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Andrey Kivilyov,M,Kazakhstan,KAZ,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Aleksey Kolesov,M,Kazakhstan,KAZ,2004,Athina,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,False,True
+Bakhtiyar Kozhatayev,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Vadim Kravchenko,M,Kazakhstan,KAZ,1996,Atlanta,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Vadim Kravchenko,M,Kazakhstan,KAZ,2000,Sydney,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,False
+Sergey Lavrinenko,M,Kazakhstan,KAZ,1996,Atlanta,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,True
+Sergey Lavrinenko,M,Kazakhstan,KAZ,2000,Sydney,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,False
+Andrey Mizurov,M,Kazakhstan,KAZ,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Andrey Mizurov,M,Kazakhstan,KAZ,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Andrey Mizurov,M,Kazakhstan,KAZ,2008,Beijing,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False
+Aleksandr Shefer,M,Kazakhstan,KAZ,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Aleksandr Shefer,M,Kazakhstan,KAZ,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Andrey Teteryuk,M,Kazakhstan,KAZ,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Andrey Teteryuk,M,Kazakhstan,KAZ,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Andrey Teteryuk,M,Kazakhstan,KAZ,2000,Sydney,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False
+Aleksandr Vinokurov,M,Kazakhstan,KAZ,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Aleksandr Vinokurov,M,Kazakhstan,KAZ,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",Silver,Cycling,CTR,True,False
+Aleksandr Vinokurov,M,Kazakhstan,KAZ,2000,Sydney,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False
+Aleksandr Vinokurov,M,Kazakhstan,KAZ,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Aleksandr Vinokurov,M,Kazakhstan,KAZ,2004,Athina,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False
+Aleksandr Vinokurov,M,Kazakhstan,KAZ,2012,London,Cycling,"Cycling Men's Road Race, Individual",Gold,Cycling,CTR,True,False
+Aleksandr Vinokurov,M,Kazakhstan,KAZ,2012,London,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False
+Sergey Yakovlev,M,Kazakhstan,KAZ,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Sergey Yakovlev,M,Kazakhstan,KAZ,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Yury Yuda,M,Kazakhstan,KAZ,2004,Athina,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Yury Yuda,M,Kazakhstan,KAZ,2004,Athina,Cycling,Cycling Men's Madison,No medal,Cycling,CTR,True,True
+Artyom Zakharov,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Cycling,Cycling Men's Omnium,No medal,Cycling,CTR,True,True
+Andrey Zeyts,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Andrey Zeyts,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,True
+Sergey Ponomaryov,M,Kazakhstan,KAZ,2020,Tokyo,Cycling Track,Men's Sprint,No medal,Men's,CTR,True,True
+Sergey Ponomaryov,M,Kazakhstan,KAZ,2020,Tokyo,Cycling Track,Men's Keirin,No medal,Men's,CTR,True,True
+Artyom Zakharov,M,Kazakhstan,KAZ,2020,Tokyo,Cycling Track,Men's Omnium,No medal,Men's,CTR,True,False
+Andrey Chugay,M,Kazakhstan,KAZ,2024,Paris,Cycling Track,Men's Keirin,No medal,Men's,CTR,True,True
+Andrey Chugay,M,Kazakhstan,KAZ,2024,Paris,Cycling Track,Men's Sprint,No medal,Men's,CTR,True,True

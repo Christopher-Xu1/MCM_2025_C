@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lize Broekx,F,Belgium,BEL,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Lize Broekx,F,Belgium,BEL,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
-Hermien Peters,F,Belgium,BEL,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Hermien Peters,F,Belgium,BEL,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
-Lize Broekx,F,Belgium,BEL,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Lize Broekx,F,Belgium,BEL,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True
-Hermien Peters,F,Belgium,BEL,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Hermien Peters,F,Belgium,BEL,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lize Broekx,F,Belgium,BEL,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Lize Broekx,F,Belgium,BEL,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True
+Hermien Peters,F,Belgium,BEL,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Hermien Peters,F,Belgium,BEL,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True
+Lize Broekx,F,Belgium,BEL,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,False
+Lize Broekx,F,Belgium,BEL,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True,False
+Hermien Peters,F,Belgium,BEL,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,False
+Hermien Peters,F,Belgium,BEL,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True,False

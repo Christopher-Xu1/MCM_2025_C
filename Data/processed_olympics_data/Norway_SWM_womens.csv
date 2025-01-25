@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elin Austevoll,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Elin Austevoll,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Elin Austevoll,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Berendina (-stenersen),F,Norway,NOR,1948,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Susann Bjrnsen,F,Norway,NOR,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Susann Bjrnsen,F,Norway,NOR,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Kathrine (-aldabe),F,Norway,NOR,1984,Los Angeles,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Kathrine (-aldabe),F,Norway,NOR,1984,Los Angeles,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Kathrine (-aldabe),F,Norway,NOR,1984,Los Angeles,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Irene Dalby,F,Norway,NOR,1988,Seoul,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Irene Dalby,F,Norway,NOR,1988,Seoul,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Irene Dalby,F,Norway,NOR,1988,Seoul,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Irene Dalby,F,Norway,NOR,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Irene Dalby,F,Norway,NOR,1992,Barcelona,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Irene Dalby,F,Norway,NOR,1992,Barcelona,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Irene Dalby,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Irene Dalby,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Lene (-holmertz),F,Norway,NOR,1976,Montreal,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Vibeke Johansen,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Vibeke Johansen,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Trine (-lefvre-),F,Norway,NOR,1972,Munich,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Trine (-lefvre-),F,Norway,NOR,1972,Munich,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Grethe (-thor),F,Norway,NOR,1972,Munich,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Terrie Miller,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Sara Nordenstam,F,Norway,NOR,2008,Beijing,Swimming,Swimming Women's 200 metres Breaststroke,Bronze,Swimming,SWM,True
-Sara Nordenstam,F,Norway,NOR,2008,Beijing,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Sara Nordenstam,F,Norway,NOR,2008,Beijing,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Sara Nordenstam,F,Norway,NOR,2012,London,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Sara Nordenstam,F,Norway,NOR,2012,London,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Aagot Norman,F,Norway,NOR,1912,Stockholm,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Ingvild Snildal,F,Norway,NOR,2008,Beijing,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Ingvild Snildal,F,Norway,NOR,2008,Beijing,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Ingvild Snildal,F,Norway,NOR,2012,London,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Ingvild Snildal,F,Norway,NOR,2012,London,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Ingeborg Loeyning,F,Norway,NOR,2020,Tokyo,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,True
-Ingeborg Loeyning,F,Norway,NOR,2020,Tokyo,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elin Austevoll,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Elin Austevoll,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Elin Austevoll,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Berendina (-stenersen),F,Norway,NOR,1948,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Susann Bjrnsen,F,Norway,NOR,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Susann Bjrnsen,F,Norway,NOR,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Kathrine (-aldabe),F,Norway,NOR,1984,Los Angeles,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Kathrine (-aldabe),F,Norway,NOR,1984,Los Angeles,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Kathrine (-aldabe),F,Norway,NOR,1984,Los Angeles,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Irene Dalby,F,Norway,NOR,1988,Seoul,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Irene Dalby,F,Norway,NOR,1988,Seoul,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Irene Dalby,F,Norway,NOR,1988,Seoul,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Irene Dalby,F,Norway,NOR,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Irene Dalby,F,Norway,NOR,1992,Barcelona,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,False
+Irene Dalby,F,Norway,NOR,1992,Barcelona,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,False
+Irene Dalby,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,False
+Irene Dalby,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,False
+Lene (-holmertz),F,Norway,NOR,1976,Montreal,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Vibeke Johansen,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Vibeke Johansen,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Trine (-lefvre-),F,Norway,NOR,1972,Munich,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Trine (-lefvre-),F,Norway,NOR,1972,Munich,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Grethe (-thor),F,Norway,NOR,1972,Munich,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Terrie Miller,F,Norway,NOR,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Sara Nordenstam,F,Norway,NOR,2008,Beijing,Swimming,Swimming Women's 200 metres Breaststroke,Bronze,Swimming,SWM,True,True
+Sara Nordenstam,F,Norway,NOR,2008,Beijing,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Sara Nordenstam,F,Norway,NOR,2008,Beijing,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Sara Nordenstam,F,Norway,NOR,2012,London,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Sara Nordenstam,F,Norway,NOR,2012,London,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,False
+Aagot Norman,F,Norway,NOR,1912,Stockholm,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Ingvild Snildal,F,Norway,NOR,2008,Beijing,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Ingvild Snildal,F,Norway,NOR,2008,Beijing,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Ingvild Snildal,F,Norway,NOR,2012,London,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Ingvild Snildal,F,Norway,NOR,2012,London,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,False
+Ingeborg Loeyning,F,Norway,NOR,2020,Tokyo,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,True,True
+Ingeborg Loeyning,F,Norway,NOR,2020,Tokyo,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,True,True

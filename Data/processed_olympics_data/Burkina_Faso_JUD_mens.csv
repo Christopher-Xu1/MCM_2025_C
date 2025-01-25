@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nonilobal Hien,M,Burkina Faso,BUR,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Salifou Ouiminga,M,Burkina Faso,BUR,2000,Sydney,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Rachid Sidib,M,Burkina Faso,BUR,2016,Rio de Janeiro,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Lucas Diallo,M,Burkina Faso,BUR,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,False
-Carmel Kone,M,Burkina Faso,BUR,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nonilobal Hien,M,Burkina Faso,BUR,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Salifou Ouiminga,M,Burkina Faso,BUR,2000,Sydney,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Rachid Sidib,M,Burkina Faso,BUR,2016,Rio de Janeiro,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Lucas Diallo,M,Burkina Faso,BUR,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,False,True
+Carmel Kone,M,Burkina Faso,BUR,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,False,True

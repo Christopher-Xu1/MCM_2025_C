@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Konstantinos Aslanidis,M,Greece,GRE,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",No medal,Art,ART,True
-Konstantinos Aslanidis,M,Greece,GRE,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",No medal,Art,ART,True
-Konstantinos Dimitriadis,M,Greece,GRE,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,Gold,Art,ART,True
-Konstantinos Dimitriadis,M,Greece,GRE,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,True
-Konstantinos Doxiadis,M,Greece,GRE,1936,Berlin,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",No medal,Art,ART,False
-Patroklos Karantinos,M,Greece,GRE,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",No medal,Art,ART,False
-Dimitrios Kokotsis,M,Greece,GRE,1948,London,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False
-Takis Sakellariou,M,Greece,GRE,1936,Berlin,Art Competitions,"Art Competitions Mixed Literature, Unknown Event",No medal,Art,ART,False
-Kostas Valsamis,M,Greece,GRE,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Konstantinos Aslanidis,M,Greece,GRE,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",No medal,Art,ART,True,True
+Konstantinos Aslanidis,M,Greece,GRE,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",No medal,Art,ART,True,True
+Konstantinos Dimitriadis,M,Greece,GRE,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,Gold,Art,ART,True,True
+Konstantinos Dimitriadis,M,Greece,GRE,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,True,True
+Konstantinos Doxiadis,M,Greece,GRE,1936,Berlin,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",No medal,Art,ART,False,True
+Patroklos Karantinos,M,Greece,GRE,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",No medal,Art,ART,False,True
+Dimitrios Kokotsis,M,Greece,GRE,1948,London,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False,True
+Takis Sakellariou,M,Greece,GRE,1936,Berlin,Art Competitions,"Art Competitions Mixed Literature, Unknown Event",No medal,Art,ART,False,True
+Kostas Valsamis,M,Greece,GRE,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,False,True

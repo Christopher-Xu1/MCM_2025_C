@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Natalya Coyle,F,Ireland,IRL,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Natalya Coyle,F,Ireland,IRL,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Natalya Coyle,F,Ireland,IRL,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Natalya Coyle,F,Ireland,IRL,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,True
+Natalya Coyle,F,Ireland,IRL,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Natalya Coyle,F,Ireland,IRL,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,False

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Amanuel Ghebreigzabhier,M,Eritrea,ERI,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Amanuel Ghebreigzabhier,M,Eritrea,ERI,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Merhawi Kudus,M,Eritrea,ERI,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Biniam Girmay,M,Eritrea,ERI,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Biniam Girmay,M,Eritrea,ERI,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Amanuel Ghebreigzabhier,M,Eritrea,ERI,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Amanuel Ghebreigzabhier,M,Eritrea,ERI,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Merhawi Kudus,M,Eritrea,ERI,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Biniam Girmay,M,Eritrea,ERI,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Biniam Girmay,M,Eritrea,ERI,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True

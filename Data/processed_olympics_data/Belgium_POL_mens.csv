@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alfred Grisar,M,Belgium,BEL,1920,Antwerpen,Polo,Polo Men's Polo,No medal,Polo,POL,False
-Maurice Lysen,M,Belgium,BEL,1920,Antwerpen,Polo,Polo Men's Polo,No medal,Polo,POL,False
-Gaston Nieuwburgh,M,Belgium,BEL,1920,Antwerpen,Polo,Polo Men's Polo,No medal,Polo,POL,False
-Clment Straten,M,Belgium,BEL,1920,Antwerpen,Polo,Polo Men's Polo,No medal,Polo,POL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alfred Grisar,M,Belgium,BEL,1920,Antwerpen,Polo,Polo Men's Polo,No medal,Polo,POL,False,True
+Maurice Lysen,M,Belgium,BEL,1920,Antwerpen,Polo,Polo Men's Polo,No medal,Polo,POL,False,True
+Gaston Nieuwburgh,M,Belgium,BEL,1920,Antwerpen,Polo,Polo Men's Polo,No medal,Polo,POL,False,True
+Clment Straten,M,Belgium,BEL,1920,Antwerpen,Polo,Polo Men's Polo,No medal,Polo,POL,False,True

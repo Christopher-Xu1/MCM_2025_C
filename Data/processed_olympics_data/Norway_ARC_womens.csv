@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Wenche-Lin Hess,F,Norway,NOR,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Wenche-Lin Hess,F,Norway,NOR,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Brit -hoen),F,Norway,NOR,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Wenche-Lin Hess,F,Norway,NOR,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Wenche-Lin Hess,F,Norway,NOR,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Brit -hoen),F,Norway,NOR,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True

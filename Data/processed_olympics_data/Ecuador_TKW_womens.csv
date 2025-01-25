@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lorena Valverde,F,Ecuador,ECU,2008,Beijing,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lorena Valverde,F,Ecuador,ECU,2008,Beijing,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False,True

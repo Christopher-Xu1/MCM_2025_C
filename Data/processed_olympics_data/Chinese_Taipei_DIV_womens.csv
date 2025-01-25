@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chen Ting,F,Chinese Taipei,TPE,2000,Sydney,Diving,Diving Women's Springboard,No medal,Diving,DIV,False
-Hsieh Pei-hua,F,Chinese Taipei,TPE,2000,Sydney,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Tsai Yi-san,F,Chinese Taipei,TPE,2000,Sydney,Diving,Diving Women's Springboard,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chen Ting,F,Chinese Taipei,TPE,2000,Sydney,Diving,Diving Women's Springboard,No medal,Diving,DIV,False,True
+Hsieh Pei-hua,F,Chinese Taipei,TPE,2000,Sydney,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Tsai Yi-san,F,Chinese Taipei,TPE,2000,Sydney,Diving,Diving Women's Springboard,No medal,Diving,DIV,False,True

@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tadej Pogacar,M,Slovenia,SLO,2020,Tokyo,Cycling Road,Men's Road Race,Bronze,Men's,CRD,False
-Jan Polanc,M,Slovenia,SLO,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Primoz Roglic,M,Slovenia,SLO,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Primoz Roglic,M,Slovenia,SLO,2020,Tokyo,Cycling Road,Men's Individual Time Trial,Gold,Men's,CRD,True
-Jan Tratnik,M,Slovenia,SLO,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Domen Novak,M,Slovenia,SLO,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Jan Tratnik,M,Slovenia,SLO,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Jan Tratnik,M,Slovenia,SLO,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Luka Mezgec,M,Slovenia,SLO,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Matej Mohoric,M,Slovenia,SLO,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tadej Pogacar,M,Slovenia,SLO,2020,Tokyo,Cycling Road,Men's Road Race,Bronze,Men's,CRD,False,True
+Jan Polanc,M,Slovenia,SLO,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Primoz Roglic,M,Slovenia,SLO,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Primoz Roglic,M,Slovenia,SLO,2020,Tokyo,Cycling Road,Men's Individual Time Trial,Gold,Men's,CRD,True,True
+Jan Tratnik,M,Slovenia,SLO,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Domen Novak,M,Slovenia,SLO,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Jan Tratnik,M,Slovenia,SLO,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,False
+Jan Tratnik,M,Slovenia,SLO,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,False
+Luka Mezgec,M,Slovenia,SLO,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Matej Mohoric,M,Slovenia,SLO,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True

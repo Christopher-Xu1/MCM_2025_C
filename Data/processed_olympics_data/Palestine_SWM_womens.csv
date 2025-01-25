@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mary Al-atrash,F,Palestine,PLE,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Sabine Hazboun,F,Palestine,PLE,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Samar Nassar,F,Palestine,PLE,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Zakia Nassar,F,Palestine,PLE,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Dania Nour,F,Palestine,PLE,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
-Rose Tarazi,F,Palestine,PLE,2024,Paris,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mary Al-atrash,F,Palestine,PLE,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Sabine Hazboun,F,Palestine,PLE,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Samar Nassar,F,Palestine,PLE,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Zakia Nassar,F,Palestine,PLE,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Dania Nour,F,Palestine,PLE,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True
+Rose Tarazi,F,Palestine,PLE,2024,Paris,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,False,True

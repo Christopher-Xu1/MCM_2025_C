@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Blanka Vas,F,Hungary,HUN,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,True
-Blanka Vas,F,Hungary,HUN,2024,Paris,"Cycling Road, Cycling Mountain Bike",Women's Road Race,No medal,Women's,MTB,True
-Blanka Vas,F,Hungary,HUN,2024,Paris,"Cycling Road, Cycling Mountain Bike",Women's Cross-country,No medal,Women's,MTB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Blanka Vas,F,Hungary,HUN,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,True,True
+Blanka Vas,F,Hungary,HUN,2024,Paris,"Cycling Road, Cycling Mountain Bike",Women's Road Race,No medal,Women's,MTB,True,False
+Blanka Vas,F,Hungary,HUN,2024,Paris,"Cycling Road, Cycling Mountain Bike",Women's Cross-country,No medal,Women's,MTB,True,False

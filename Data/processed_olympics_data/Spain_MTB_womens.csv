@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alba Garcia,F,Spain,ESP,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alba Garcia,F,Spain,ESP,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,False,True

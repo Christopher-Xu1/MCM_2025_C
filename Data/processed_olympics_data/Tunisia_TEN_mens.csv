@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Malek Al-jaziri,M,Tunisia,TUN,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Malek Al-jaziri,M,Tunisia,TUN,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Moez Echargui,M,Tunisia,TUN,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Malek Al-jaziri,M,Tunisia,TUN,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Malek Al-jaziri,M,Tunisia,TUN,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Moez Echargui,M,Tunisia,TUN,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,False,True

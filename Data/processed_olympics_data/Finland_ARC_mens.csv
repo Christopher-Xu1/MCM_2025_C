@@ -1,35 +1,35 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Miika Aulio,M,Finland,FIN,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Ismo Falck,M,Finland,FIN,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Ismo Falck,M,Finland,FIN,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Ismo Falck,M,Finland,FIN,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Ismo Falck,M,Finland,FIN,1992,Barcelona,Archery,Archery Men's Team,Silver,Archery,ARC,True
-Matti Hatava,M,Finland,FIN,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Kauko Laasonen,M,Finland,FIN,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Kysti Laasonen,M,Finland,FIN,1972,Munich,Archery,Archery Men's Individual,Bronze,Archery,ARC,True
-Kysti Laasonen,M,Finland,FIN,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Kysti Laasonen,M,Finland,FIN,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Kysti Laasonen,M,Finland,FIN,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Olavi Laurila,M,Finland,FIN,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Jari Lipponen,M,Finland,FIN,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Jari Lipponen,M,Finland,FIN,1992,Barcelona,Archery,Archery Men's Team,Silver,Archery,ARC,True
-Jari Lipponen,M,Finland,FIN,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Jari Lipponen,M,Finland,FIN,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Jari Lipponen,M,Finland,FIN,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Samuli Piippo,M,Finland,FIN,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Tomi Poikolainen,M,Finland,FIN,1980,Moskva,Archery,Archery Men's Individual,Gold,Archery,ARC,True
-Tomi Poikolainen,M,Finland,FIN,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Tomi Poikolainen,M,Finland,FIN,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Tomi Poikolainen,M,Finland,FIN,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Tomi Poikolainen,M,Finland,FIN,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Tomi Poikolainen,M,Finland,FIN,1992,Barcelona,Archery,Archery Men's Team,Silver,Archery,ARC,True
-Tomi Poikolainen,M,Finland,FIN,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Tomi Poikolainen,M,Finland,FIN,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Jorma Sandelin,M,Finland,FIN,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Markku Syrjl,M,Finland,FIN,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Tommi Tuovila,M,Finland,FIN,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Tommi Tuovila,M,Finland,FIN,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Pentti Vikstrm,M,Finland,FIN,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Pentti Vikstrm,M,Finland,FIN,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Antti Vikstrom,M,Finland,FIN,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,False
-Antti Tekoniemi,M,Finland,FIN,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Miika Aulio,M,Finland,FIN,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Ismo Falck,M,Finland,FIN,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Ismo Falck,M,Finland,FIN,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Ismo Falck,M,Finland,FIN,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Ismo Falck,M,Finland,FIN,1992,Barcelona,Archery,Archery Men's Team,Silver,Archery,ARC,True,False
+Matti Hatava,M,Finland,FIN,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Kauko Laasonen,M,Finland,FIN,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Kysti Laasonen,M,Finland,FIN,1972,Munich,Archery,Archery Men's Individual,Bronze,Archery,ARC,True,True
+Kysti Laasonen,M,Finland,FIN,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Kysti Laasonen,M,Finland,FIN,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Kysti Laasonen,M,Finland,FIN,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Olavi Laurila,M,Finland,FIN,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Jari Lipponen,M,Finland,FIN,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Jari Lipponen,M,Finland,FIN,1992,Barcelona,Archery,Archery Men's Team,Silver,Archery,ARC,True,True
+Jari Lipponen,M,Finland,FIN,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Jari Lipponen,M,Finland,FIN,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Jari Lipponen,M,Finland,FIN,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Samuli Piippo,M,Finland,FIN,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Tomi Poikolainen,M,Finland,FIN,1980,Moskva,Archery,Archery Men's Individual,Gold,Archery,ARC,True,True
+Tomi Poikolainen,M,Finland,FIN,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Tomi Poikolainen,M,Finland,FIN,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Tomi Poikolainen,M,Finland,FIN,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Tomi Poikolainen,M,Finland,FIN,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Tomi Poikolainen,M,Finland,FIN,1992,Barcelona,Archery,Archery Men's Team,Silver,Archery,ARC,True,False
+Tomi Poikolainen,M,Finland,FIN,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Tomi Poikolainen,M,Finland,FIN,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Jorma Sandelin,M,Finland,FIN,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Markku Syrjl,M,Finland,FIN,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Tommi Tuovila,M,Finland,FIN,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Tommi Tuovila,M,Finland,FIN,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Pentti Vikstrm,M,Finland,FIN,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Pentti Vikstrm,M,Finland,FIN,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Antti Vikstrom,M,Finland,FIN,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,False,True
+Antti Tekoniemi,M,Finland,FIN,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,False,True

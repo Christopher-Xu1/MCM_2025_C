@@ -1,36 +1,36 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Johannes Gozal,M,Indonesia,INA,1956,Melbourne,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Johannes Gozal,M,Indonesia,INA,1960,Roma,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Sudirman Hadi,M,Indonesia,INA,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Ethel Hudson,M,Indonesia,INA,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Edy Jakariya,M,Indonesia,INA,2004,Athina,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,False
-Johannes Kardiono,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Afdiharto Lestari,M,Indonesia,INA,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Afdiharto Lestari,M,Indonesia,INA,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Fernando Lumain,M,Indonesia,INA,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-John Muray,M,Indonesia,INA,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-John Muray,M,Indonesia,INA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Anderias Nabunone,M,Indonesia,INA,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Anderias Nabunone,M,Indonesia,INA,1988,Seoul,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Christian Nenepath,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Christian Nenepath,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Christian Nenepath,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-I Okamona,M,Indonesia,INA,1956,Melbourne,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
-Kresno Pambudi,M,Indonesia,INA,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Mohamed Purnomo,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Mohamed Purnomo,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Mohamed Purnomo,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Yanes Raubaba,M,Indonesia,INA,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Yanes Raubaba,M,Indonesia,INA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Maram Sudarmodjo,M,Indonesia,INA,1952,Helsinki,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
-Sukari,M,Indonesia,INA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Erwin Susanto,M,Indonesia,INA,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Erwin Susanto,M,Indonesia,INA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Elieser Wattebosi,M,Indonesia,INA,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Elieser Wattebosi,M,Indonesia,INA,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Suryo Wibowo,M,Indonesia,INA,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Maridjo Wirjodemedjo,M,Indonesia,INA,1956,Melbourne,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
-Ernawan Witarsa,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Mohamed Yusuf,M,Indonesia,INA,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Muhammad Zohri,M,Indonesia,INA,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,True
-Muhammad Zohri,M,Indonesia,INA,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Johannes Gozal,M,Indonesia,INA,1956,Melbourne,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Johannes Gozal,M,Indonesia,INA,1960,Roma,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Sudirman Hadi,M,Indonesia,INA,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Ethel Hudson,M,Indonesia,INA,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Edy Jakariya,M,Indonesia,INA,2004,Athina,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,False,True
+Johannes Kardiono,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Afdiharto Lestari,M,Indonesia,INA,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Afdiharto Lestari,M,Indonesia,INA,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Fernando Lumain,M,Indonesia,INA,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+John Muray,M,Indonesia,INA,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+John Muray,M,Indonesia,INA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Anderias Nabunone,M,Indonesia,INA,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Anderias Nabunone,M,Indonesia,INA,1988,Seoul,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Christian Nenepath,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Christian Nenepath,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Christian Nenepath,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+I Okamona,M,Indonesia,INA,1956,Melbourne,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False,True
+Kresno Pambudi,M,Indonesia,INA,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Mohamed Purnomo,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Mohamed Purnomo,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Mohamed Purnomo,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Yanes Raubaba,M,Indonesia,INA,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Yanes Raubaba,M,Indonesia,INA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Maram Sudarmodjo,M,Indonesia,INA,1952,Helsinki,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False,True
+Sukari,M,Indonesia,INA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Erwin Susanto,M,Indonesia,INA,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Erwin Susanto,M,Indonesia,INA,2000,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Elieser Wattebosi,M,Indonesia,INA,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Elieser Wattebosi,M,Indonesia,INA,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Suryo Wibowo,M,Indonesia,INA,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Maridjo Wirjodemedjo,M,Indonesia,INA,1956,Melbourne,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False,True
+Ernawan Witarsa,M,Indonesia,INA,1984,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Mohamed Yusuf,M,Indonesia,INA,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Muhammad Zohri,M,Indonesia,INA,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,True,True
+Muhammad Zohri,M,Indonesia,INA,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,True,False

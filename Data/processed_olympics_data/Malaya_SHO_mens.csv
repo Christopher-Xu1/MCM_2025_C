@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chan Chye,M,Malaya,MAL,1960,Roma,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Kwee Chong,M,Malaya,MAL,1956,Melbourne,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False
-Liew Sin,M,Malaya,MAL,1956,Melbourne,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False
-Moe Kiat,M,Malaya,MAL,1956,Melbourne,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False
-Ong Eng,M,Malaya,MAL,1960,Roma,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chan Chye,M,Malaya,MAL,1960,Roma,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Kwee Chong,M,Malaya,MAL,1956,Melbourne,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False,True
+Liew Sin,M,Malaya,MAL,1956,Melbourne,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False,True
+Moe Kiat,M,Malaya,MAL,1956,Melbourne,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False,True
+Ong Eng,M,Malaya,MAL,1960,Roma,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False,True

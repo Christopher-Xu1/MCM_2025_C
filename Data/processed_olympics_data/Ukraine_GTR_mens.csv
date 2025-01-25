@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Oleksandr Chernonos,M,Ukraine,UKR,2000,Sydney,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False
-Yuriy Nikitin,M,Ukraine,UKR,2004,Athina,Trampolining,Trampolining Men's Individual,Gold,Trampolining,GTR,True
-Yuriy Nikitin,M,Ukraine,UKR,2008,Beijing,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Yuriy Nikitin,M,Ukraine,UKR,2012,London,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Mykola Prostorov,M,Ukraine,UKR,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Oleksandr Chernonos,M,Ukraine,UKR,2000,Sydney,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False,True
+Yuriy Nikitin,M,Ukraine,UKR,2004,Athina,Trampolining,Trampolining Men's Individual,Gold,Trampolining,GTR,True,True
+Yuriy Nikitin,M,Ukraine,UKR,2008,Beijing,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,False
+Yuriy Nikitin,M,Ukraine,UKR,2012,London,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,False
+Mykola Prostorov,M,Ukraine,UKR,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,False,True

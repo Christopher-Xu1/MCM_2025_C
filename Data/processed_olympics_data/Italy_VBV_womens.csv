@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Greta Cicolari,F,Italy,ITA,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Daniela Gattelli,F,Italy,ITA,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Laura Giombini,F,Italy,ITA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Marta Menegatti,F,Italy,ITA,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Marta Menegatti,F,Italy,ITA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Lucilla Perrotta,F,Italy,ITA,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Annamaria Solazzi,F,Italy,ITA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Consuelo Turetta,F,Italy,ITA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Marta Menegatti,F,Italy,ITA,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,True
-Viktoria Orsi,F,Italy,ITA,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False
-Marta Menegatti,F,Italy,ITA,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,True
-Valentina Gottardi,F,Italy,ITA,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Greta Cicolari,F,Italy,ITA,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Daniela Gattelli,F,Italy,ITA,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Laura Giombini,F,Italy,ITA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Marta Menegatti,F,Italy,ITA,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,True
+Marta Menegatti,F,Italy,ITA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,False
+Lucilla Perrotta,F,Italy,ITA,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Annamaria Solazzi,F,Italy,ITA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Consuelo Turetta,F,Italy,ITA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Marta Menegatti,F,Italy,ITA,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,True,False
+Viktoria Orsi,F,Italy,ITA,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False,True
+Marta Menegatti,F,Italy,ITA,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,True,False
+Valentina Gottardi,F,Italy,ITA,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False,True

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Richard Bennett,M,Circus,WIF,1960,Roma,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Gerald Bird,M,Circus,WIF,1960,Roma,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Richard Bennett,M,Circus,WIF,1960,Roma,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Gerald Bird,M,Circus,WIF,1960,Roma,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True

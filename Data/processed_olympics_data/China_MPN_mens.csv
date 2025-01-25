@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cao Zhongrong,M,China,CHN,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Cao Zhongrong,M,China,CHN,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,Silver,Modern,MPN,True
-Cao Zhongrong,M,China,CHN,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Guo Jianli,M,China,CHN,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Qian Zhenhua,M,China,CHN,2000,Sydney,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Qian Zhenhua,M,China,CHN,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Qian Zhenhua,M,China,CHN,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Wang Guan,M,China,CHN,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Zhang Bin,M,China,CHN,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Zhang Bin,M,China,CHN,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Shuhuan Li,M,China,CHN,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True
-Shuai Luo,M,China,CHN,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True
-Shuhuan Li,M,China,CHN,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True
-Shuai Luo,M,China,CHN,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cao Zhongrong,M,China,CHN,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Cao Zhongrong,M,China,CHN,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,Silver,Modern,MPN,True,False
+Cao Zhongrong,M,China,CHN,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Guo Jianli,M,China,CHN,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Qian Zhenhua,M,China,CHN,2000,Sydney,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Qian Zhenhua,M,China,CHN,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Qian Zhenhua,M,China,CHN,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Wang Guan,M,China,CHN,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Zhang Bin,M,China,CHN,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Zhang Bin,M,China,CHN,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Shuhuan Li,M,China,CHN,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True,True
+Shuai Luo,M,China,CHN,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True,True
+Shuhuan Li,M,China,CHN,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True,False
+Shuai Luo,M,China,CHN,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True,False

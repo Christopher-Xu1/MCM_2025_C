@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jos Figueroa,M,Cuba,CUB,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Yaniel Garca,M,Cuba,CUB,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Lester Ders,M,Cuba,CUB,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False
-Marcos Rojas,M,Cuba,CUB,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jos Figueroa,M,Cuba,CUB,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Yaniel Garca,M,Cuba,CUB,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Lester Ders,M,Cuba,CUB,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False,True
+Marcos Rojas,M,Cuba,CUB,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False,True

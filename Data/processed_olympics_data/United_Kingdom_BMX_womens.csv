@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bethany Shriever,F,United Kingdom,GBR,2020,Tokyo,Cycling BMX Racing,Women,Gold,Women,BMX,True
-Louise Hutt,F,United Kingdom,GBR,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,False
-Bethany Shriever,F,United Kingdom,GBR,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bethany Shriever,F,United Kingdom,GBR,2020,Tokyo,Cycling BMX Racing,Women,Gold,Women,BMX,True,True
+Louise Hutt,F,United Kingdom,GBR,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,False,True
+Bethany Shriever,F,United Kingdom,GBR,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,True,False

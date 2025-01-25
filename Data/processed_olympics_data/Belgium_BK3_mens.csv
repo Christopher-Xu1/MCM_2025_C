@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rafael Bogaerts,M,Belgium,BEL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False
-Nick Celis,M,Belgium,BEL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False
-Thierry Marien,M,Belgium,BEL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False
-Thibaut Vervoort,M,Belgium,BEL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rafael Bogaerts,M,Belgium,BEL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False,True
+Nick Celis,M,Belgium,BEL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False,True
+Thierry Marien,M,Belgium,BEL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False,True
+Thibaut Vervoort,M,Belgium,BEL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False,True

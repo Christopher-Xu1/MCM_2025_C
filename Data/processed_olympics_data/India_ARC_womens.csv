@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dola Banerjee,F,India,IND,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Dola Banerjee,F,India,IND,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Dola Banerjee,F,India,IND,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Dola Banerjee,F,India,IND,2008,Beijing,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Laishram Devi,F,India,IND,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Laishram Devi,F,India,IND,2008,Beijing,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Laishram Devi,F,India,IND,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Laishram Devi,F,India,IND,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Laishram Devi,F,India,IND,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Laishram Devi,F,India,IND,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Deepika Kumari,F,India,IND,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Deepika Kumari,F,India,IND,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Deepika Kumari,F,India,IND,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Deepika Kumari,F,India,IND,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Reena Kumari,F,India,IND,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Reena Kumari,F,India,IND,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Laxmirani Majhi,F,India,IND,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Laxmirani Majhi,F,India,IND,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Sumangala Sharma,F,India,IND,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Sumangala Sharma,F,India,IND,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Chekrovolu Swuro,F,India,IND,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Chekrovolu Swuro,F,India,IND,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Pranitha Vardhineni,F,India,IND,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Pranitha Vardhineni,F,India,IND,2008,Beijing,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Deepika Kumari,F,India,IND,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Deepika Kumari,F,India,IND,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
-Deepika Kumari,F,India,IND,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Deepika Kumari,F,India,IND,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True
-Bhajan Kaur,F,India,IND,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Bhajan Kaur,F,India,IND,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True
-Ankita Bhakat,F,India,IND,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Ankita Bhakat,F,India,IND,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True
-Ankita Bhakat,F,India,IND,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dola Banerjee,F,India,IND,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Dola Banerjee,F,India,IND,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Dola Banerjee,F,India,IND,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Dola Banerjee,F,India,IND,2008,Beijing,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Laishram Devi,F,India,IND,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Laishram Devi,F,India,IND,2008,Beijing,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Laishram Devi,F,India,IND,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Laishram Devi,F,India,IND,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Laishram Devi,F,India,IND,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Laishram Devi,F,India,IND,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Deepika Kumari,F,India,IND,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Deepika Kumari,F,India,IND,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Deepika Kumari,F,India,IND,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Deepika Kumari,F,India,IND,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Reena Kumari,F,India,IND,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Reena Kumari,F,India,IND,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Laxmirani Majhi,F,India,IND,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Laxmirani Majhi,F,India,IND,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Sumangala Sharma,F,India,IND,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Sumangala Sharma,F,India,IND,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Chekrovolu Swuro,F,India,IND,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Chekrovolu Swuro,F,India,IND,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Pranitha Vardhineni,F,India,IND,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Pranitha Vardhineni,F,India,IND,2008,Beijing,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Deepika Kumari,F,India,IND,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,False
+Deepika Kumari,F,India,IND,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,False
+Deepika Kumari,F,India,IND,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,False
+Deepika Kumari,F,India,IND,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True,False
+Bhajan Kaur,F,India,IND,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Bhajan Kaur,F,India,IND,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True,True
+Ankita Bhakat,F,India,IND,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Ankita Bhakat,F,India,IND,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True,True
+Ankita Bhakat,F,India,IND,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True,True

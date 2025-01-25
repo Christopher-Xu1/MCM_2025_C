@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ricardo Pedraza,M,Chile,CHI,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Andres Aguilar,M,Chile,CHI,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,False
-Andres Gallardo,M,Chile,CHI,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ricardo Pedraza,M,Chile,CHI,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Andres Aguilar,M,Chile,CHI,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,False,True
+Andres Gallardo,M,Chile,CHI,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,False,True

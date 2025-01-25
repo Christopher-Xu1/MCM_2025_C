@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Shiv Chawrasia,M,India,IND,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Anirban Lahiri,M,India,IND,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,True
-Anirban Lahiri,M,India,IND,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
-S Mane,M,India,IND,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Shubhankar Sharma,M,India,IND,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Gaganjeet Bhullar,M,India,IND,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Shiv Chawrasia,M,India,IND,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Anirban Lahiri,M,India,IND,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,True,True
+Anirban Lahiri,M,India,IND,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,False
+S Mane,M,India,IND,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Shubhankar Sharma,M,India,IND,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Gaganjeet Bhullar,M,India,IND,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True

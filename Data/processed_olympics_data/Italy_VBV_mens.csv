@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eugenio Amore,M,Italy,ITA,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Andrea Ghiurghi,M,Italy,ITA,1996,Atlanta,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Nicola Grigolo,M,Italy,ITA,1996,Atlanta,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Riccardo Lione,M,Italy,ITA,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Daniele Lupo,M,Italy,ITA,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True
-Paolo Nicolai,M,Italy,ITA,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True
-Maurizio Pimponi,M,Italy,ITA,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Andrea Raffaelli,M,Italy,ITA,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Ignacio Carambula,M,Italy,ITA,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,True
-Daniele Lupo,M,Italy,ITA,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,True
-Paolo Nicolai,M,Italy,ITA,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,True
-Enrico Rossi,M,Italy,ITA,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,False
-Paolo Nicolai,M,Italy,ITA,2024,Paris,Beach Volleyball,Men,No medal,Men,VBV,True
-Samuele Cottafava,M,Italy,ITA,2024,Paris,Beach Volleyball,Men,No medal,Men,VBV,False
-Alex Ranghieri,M,Italy,ITA,2024,Paris,Beach Volleyball,Men,No medal,Men,VBV,False
-Ignacio Carambula,M,Italy,ITA,2024,Paris,Beach Volleyball,Men,No medal,Men,VBV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eugenio Amore,M,Italy,ITA,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Andrea Ghiurghi,M,Italy,ITA,1996,Atlanta,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Nicola Grigolo,M,Italy,ITA,1996,Atlanta,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Riccardo Lione,M,Italy,ITA,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Daniele Lupo,M,Italy,ITA,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True,True
+Paolo Nicolai,M,Italy,ITA,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True,True
+Maurizio Pimponi,M,Italy,ITA,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Andrea Raffaelli,M,Italy,ITA,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Ignacio Carambula,M,Italy,ITA,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,True,True
+Daniele Lupo,M,Italy,ITA,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,True,False
+Paolo Nicolai,M,Italy,ITA,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,True,False
+Enrico Rossi,M,Italy,ITA,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,False,True
+Paolo Nicolai,M,Italy,ITA,2024,Paris,Beach Volleyball,Men,No medal,Men,VBV,True,False
+Samuele Cottafava,M,Italy,ITA,2024,Paris,Beach Volleyball,Men,No medal,Men,VBV,False,True
+Alex Ranghieri,M,Italy,ITA,2024,Paris,Beach Volleyball,Men,No medal,Men,VBV,False,True
+Ignacio Carambula,M,Italy,ITA,2024,Paris,Beach Volleyball,Men,No medal,Men,VBV,True,False

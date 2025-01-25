@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lisa Motte,F,Swaziland,SWZ,2000,Sydney,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False
-Senele Dlamini,F,Swaziland,SWZ,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Daniela Menegon,F,Swaziland,SWZ,1996,Atlanta,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lisa Motte,F,Swaziland,SWZ,2000,Sydney,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Senele Dlamini,F,Swaziland,SWZ,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Daniela Menegon,F,Swaziland,SWZ,1996,Atlanta,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,False,True

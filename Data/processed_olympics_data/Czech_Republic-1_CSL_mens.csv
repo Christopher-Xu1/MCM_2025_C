@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marek Jiras,M,Czech Republic-1,CZE,2000,Sydney,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Bronze,Canoeing,CSL,False
-Tom Mder,M,Czech Republic-1,CZE,2000,Sydney,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Bronze,Canoeing,CSL,False
-Ji Rohan,M,Czech Republic-1,CZE,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False
-Miroslav Imek,M,Czech Republic-1,CZE,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False
-Ondej Tpnek,M,Czech Republic-1,CZE,2004,Athina,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Bronze,Canoeing,CSL,True
-Ondej Tpnek,M,Czech Republic-1,CZE,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
-Jaroslav Volf,M,Czech Republic-1,CZE,2004,Athina,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Bronze,Canoeing,CSL,True
-Jaroslav Volf,M,Czech Republic-1,CZE,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marek Jiras,M,Czech Republic-1,CZE,2000,Sydney,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Bronze,Canoeing,CSL,False,True
+Tom Mder,M,Czech Republic-1,CZE,2000,Sydney,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Bronze,Canoeing,CSL,False,True
+Ji Rohan,M,Czech Republic-1,CZE,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False,True
+Miroslav Imek,M,Czech Republic-1,CZE,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False,True
+Ondej Tpnek,M,Czech Republic-1,CZE,2004,Athina,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Bronze,Canoeing,CSL,True,True
+Ondej Tpnek,M,Czech Republic-1,CZE,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,False
+Jaroslav Volf,M,Czech Republic-1,CZE,2004,Athina,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Bronze,Canoeing,CSL,True,True
+Jaroslav Volf,M,Czech Republic-1,CZE,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,False

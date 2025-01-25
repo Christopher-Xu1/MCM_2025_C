@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Grgory Bourdy,M,France,FRA,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Pierre Deschamps,M,France,FRA,1900,Paris,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Julien Quesne,M,France,FRA,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-M. Wynckl,M,France,FRA,1900,Paris,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Romain Langasque,M,France,FRA,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Antoine Rozner,M,France,FRA,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Victor Perez,M,France,FRA,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Matthieu Pavon,M,France,FRA,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Grgory Bourdy,M,France,FRA,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Pierre Deschamps,M,France,FRA,1900,Paris,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Julien Quesne,M,France,FRA,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+M. Wynckl,M,France,FRA,1900,Paris,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Romain Langasque,M,France,FRA,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Antoine Rozner,M,France,FRA,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Victor Perez,M,France,FRA,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Matthieu Pavon,M,France,FRA,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hary Suharyadi,M,Indonesia,INA,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Hary Suharyadi,M,Indonesia,INA,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Donald Walalangi,M,Indonesia,INA,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Benny Wijaya,M,Indonesia,INA,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Bonit Sugiharto,M,Indonesia,INA,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hary Suharyadi,M,Indonesia,INA,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Hary Suharyadi,M,Indonesia,INA,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Donald Walalangi,M,Indonesia,INA,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Benny Wijaya,M,Indonesia,INA,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Bonit Sugiharto,M,Indonesia,INA,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

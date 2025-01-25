@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Geoffrey Butler,M,Cayman Islands,CAY,2016,Rio de Janeiro,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,False
-Brett Fraser,M,Cayman Islands,CAY,2008,Beijing,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-Brett Fraser,M,Cayman Islands,CAY,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Brett Fraser,M,Cayman Islands,CAY,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Brett Fraser,M,Cayman Islands,CAY,2012,London,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Shaune Fraser,M,Cayman Islands,CAY,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Shaune Fraser,M,Cayman Islands,CAY,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Shaune Fraser,M,Cayman Islands,CAY,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Shaune Fraser,M,Cayman Islands,CAY,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Shaune Fraser,M,Cayman Islands,CAY,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Shaune Fraser,M,Cayman Islands,CAY,2012,London,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Andrew Mackay,M,Cayman Islands,CAY,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Andrew Mackay,M,Cayman Islands,CAY,2004,Athina,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Brett Fraser,M,Cayman Islands,CAY,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True
-Jordan Crooks,M,Cayman Islands,CAY,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
-Jordan Crooks,M,Cayman Islands,CAY,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Geoffrey Butler,M,Cayman Islands,CAY,2016,Rio de Janeiro,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,False,True
+Brett Fraser,M,Cayman Islands,CAY,2008,Beijing,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Brett Fraser,M,Cayman Islands,CAY,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Brett Fraser,M,Cayman Islands,CAY,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Brett Fraser,M,Cayman Islands,CAY,2012,London,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Shaune Fraser,M,Cayman Islands,CAY,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Shaune Fraser,M,Cayman Islands,CAY,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Shaune Fraser,M,Cayman Islands,CAY,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Shaune Fraser,M,Cayman Islands,CAY,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Shaune Fraser,M,Cayman Islands,CAY,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Shaune Fraser,M,Cayman Islands,CAY,2012,London,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Andrew Mackay,M,Cayman Islands,CAY,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Andrew Mackay,M,Cayman Islands,CAY,2004,Athina,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Brett Fraser,M,Cayman Islands,CAY,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True,False
+Jordan Crooks,M,Cayman Islands,CAY,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,True
+Jordan Crooks,M,Cayman Islands,CAY,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True,True

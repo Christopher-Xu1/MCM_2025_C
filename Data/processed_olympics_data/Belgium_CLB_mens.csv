@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Van Hannes,M,Belgium,BEL,2024,Paris,Sport Climbing,Men's Boulder & Lead,No medal,Men's,CLB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Van Hannes,M,Belgium,BEL,2024,Paris,Sport Climbing,Men's Boulder & Lead,No medal,Men's,CLB,False,True

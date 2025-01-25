@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Raimonds Bergmanis,M,Latvia,LAT,1992,Barcelona,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Raimonds Bergmanis,M,Latvia,LAT,1996,Atlanta,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Raimonds Bergmanis,M,Latvia,LAT,2000,Sydney,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Sergejs Lazovskis,M,Latvia,LAT,2000,Sydney,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Krlis Leilands,M,Latvia,LAT,1924,Paris,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-Krlis Leilands,M,Latvia,LAT,1928,Amsterdam,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-Vladimirs Morozovs,M,Latvia,LAT,1996,Atlanta,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Alberts Ozoli,M,Latvia,LAT,1924,Paris,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Artrs Plsnieks,M,Latvia,LAT,2012,London,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-Artrs Plsnieks,M,Latvia,LAT,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-riks Rauska,M,Latvia,LAT,1924,Paris,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Ernests Reihmanis,M,Latvia,LAT,1924,Paris,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Viktors Erbatihs,M,Latvia,LAT,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,True
-Viktors Erbatihs,M,Latvia,LAT,2000,Sydney,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Viktors Erbatihs,M,Latvia,LAT,2004,Athina,Weightlifting,Weightlifting Men's Super-Heavyweight,Silver,Weightlifting,WLF,True
-Viktors Erbatihs,M,Latvia,LAT,2008,Beijing,Weightlifting,Weightlifting Men's Super-Heavyweight,Bronze,Weightlifting,WLF,True
-Ivars Zdanovskis,M,Latvia,LAT,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False
-Aleksandrs Erebkovs,M,Latvia,LAT,1992,Barcelona,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Dainis Zltis,M,Latvia,LAT,1996,Atlanta,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Arturs Plesnieks,M,Latvia,LAT,2020,Tokyo,Weightlifting,Men's 109kg,Bronze,Men's,WLF,False
-Ritvars Suharevs,M,Latvia,LAT,2020,Tokyo,Weightlifting,Men's 81kg,No medal,Men's,WLF,True
-Ritvars Suharevs,M,Latvia,LAT,2024,Paris,Weightlifting,Men's 73kg,No medal,Men's,WLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Raimonds Bergmanis,M,Latvia,LAT,1992,Barcelona,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True,True
+Raimonds Bergmanis,M,Latvia,LAT,1996,Atlanta,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True,False
+Raimonds Bergmanis,M,Latvia,LAT,2000,Sydney,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True,False
+Sergejs Lazovskis,M,Latvia,LAT,2000,Sydney,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Krlis Leilands,M,Latvia,LAT,1924,Paris,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,True
+Krlis Leilands,M,Latvia,LAT,1928,Amsterdam,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,False
+Vladimirs Morozovs,M,Latvia,LAT,1996,Atlanta,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Alberts Ozoli,M,Latvia,LAT,1924,Paris,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Artrs Plsnieks,M,Latvia,LAT,2012,London,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,True
+Artrs Plsnieks,M,Latvia,LAT,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,False
+riks Rauska,M,Latvia,LAT,1924,Paris,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Ernests Reihmanis,M,Latvia,LAT,1924,Paris,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Viktors Erbatihs,M,Latvia,LAT,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,True,True
+Viktors Erbatihs,M,Latvia,LAT,2000,Sydney,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True,False
+Viktors Erbatihs,M,Latvia,LAT,2004,Athina,Weightlifting,Weightlifting Men's Super-Heavyweight,Silver,Weightlifting,WLF,True,False
+Viktors Erbatihs,M,Latvia,LAT,2008,Beijing,Weightlifting,Weightlifting Men's Super-Heavyweight,Bronze,Weightlifting,WLF,True,False
+Ivars Zdanovskis,M,Latvia,LAT,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False,True
+Aleksandrs Erebkovs,M,Latvia,LAT,1992,Barcelona,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Dainis Zltis,M,Latvia,LAT,1996,Atlanta,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Arturs Plesnieks,M,Latvia,LAT,2020,Tokyo,Weightlifting,Men's 109kg,Bronze,Men's,WLF,False,True
+Ritvars Suharevs,M,Latvia,LAT,2020,Tokyo,Weightlifting,Men's 81kg,No medal,Men's,WLF,True,True
+Ritvars Suharevs,M,Latvia,LAT,2024,Paris,Weightlifting,Men's 73kg,No medal,Men's,WLF,True,False

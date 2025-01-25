@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jaroslav Hatla,M,Czech Republic,CZE,2004,Athina,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Jaroslav Hatla,M,Czech Republic,CZE,2008,Beijing,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Miloslav Prihoda,M,Czech Republic,CZE,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,False
-Miroslav Trunda,M,Czech Republic,CZE,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jaroslav Hatla,M,Czech Republic,CZE,2004,Athina,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Jaroslav Hatla,M,Czech Republic,CZE,2008,Beijing,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,False
+Miloslav Prihoda,M,Czech Republic,CZE,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,False,True
+Miroslav Trunda,M,Czech Republic,CZE,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,False,True

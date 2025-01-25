@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Stedroy Braithwaite,M,Antigua And Barbuda,ANT,1992,Barcelona,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False
-Ty Brodie,M,Antigua And Barbuda,ANT,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Carlo Falcone,M,Antigua And Barbuda,ANT,1992,Barcelona,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Eli Fuller,M,Antigua And Barbuda,ANT,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,False
-Karl James,M,Antigua And Barbuda,ANT,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Karl James,M,Antigua And Barbuda,ANT,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Inigo Ross,M,Antigua And Barbuda,ANT,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Tiger Tyson,M,Antigua And Barbuda,ANT,2024,Paris,Sailing,Men's Kite,No medal,Men's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Stedroy Braithwaite,M,Antigua And Barbuda,ANT,1992,Barcelona,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False,True
+Ty Brodie,M,Antigua And Barbuda,ANT,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Carlo Falcone,M,Antigua And Barbuda,ANT,1992,Barcelona,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Eli Fuller,M,Antigua And Barbuda,ANT,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,False,True
+Karl James,M,Antigua And Barbuda,ANT,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,True
+Karl James,M,Antigua And Barbuda,ANT,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Inigo Ross,M,Antigua And Barbuda,ANT,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Tiger Tyson,M,Antigua And Barbuda,ANT,2024,Paris,Sailing,Men's Kite,No medal,Men's,SAL,False,True

@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aguida Amaral,F,Individual Olympic Athletes,IOA,2000,Sydney,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Suzana Iri,F,Individual Olympic Athletes,IOA,1992,Barcelona,Athletics,"Athletics Women's 10,000 metres",No medal,Athletics,ATH,False
-Tamara Maleev,F,Individual Olympic Athletes,IOA,1992,Barcelona,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False
-Elizabeta Pavlovska,F,Individual Olympic Athletes,IOA,1992,Barcelona,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aguida Amaral,F,Individual Olympic Athletes,IOA,2000,Sydney,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Suzana Iri,F,Individual Olympic Athletes,IOA,1992,Barcelona,Athletics,"Athletics Women's 10,000 metres",No medal,Athletics,ATH,False,True
+Tamara Maleev,F,Individual Olympic Athletes,IOA,1992,Barcelona,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False,True
+Elizabeta Pavlovska,F,Individual Olympic Athletes,IOA,1992,Barcelona,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False,True

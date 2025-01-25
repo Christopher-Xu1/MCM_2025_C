@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Giacomo Fantoni,M,Italy,ITA,2020,Tokyo,Cycling BMX Racing,Men,No medal,Men,BMX,False
-Pietro Bertagnoli,M,Italy,ITA,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False
-Martti Sciortino,M,Italy,ITA,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Giacomo Fantoni,M,Italy,ITA,2020,Tokyo,Cycling BMX Racing,Men,No medal,Men,BMX,False,True
+Pietro Bertagnoli,M,Italy,ITA,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False,True
+Martti Sciortino,M,Italy,ITA,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False,True

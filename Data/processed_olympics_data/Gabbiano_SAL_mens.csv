@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Harold Brooke,M,Gabbiano,AUS,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Alan Cain,M,Gabbiano,AUS,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-John Coon,M,Gabbiano,AUS,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Harold Brooke,M,Gabbiano,AUS,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Alan Cain,M,Gabbiano,AUS,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+John Coon,M,Gabbiano,AUS,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

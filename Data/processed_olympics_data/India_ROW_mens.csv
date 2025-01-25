@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dattu Bhokanal,M,India,IND,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Kasam Khan,M,India,IND,2000,Sydney,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False
-Devender Khandwal,M,India,IND,2008,Beijing,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Sandeep Kumar,M,India,IND,2012,London,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Paulose Kunnel,M,India,IND,2004,Athina,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Inderpal Singh,M,India,IND,2000,Sydney,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False
-Manjit Singh,M,India,IND,2008,Beijing,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Manjit Singh,M,India,IND,2012,London,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Sawarn Singh,M,India,IND,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Bajrang Takhar,M,India,IND,2008,Beijing,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Arjun Lal,M,India,IND,2020,Tokyo,Rowing,Lightweight Men's Double Sculls Team,No medal,Lightweight,ROW,False
-Arvind Singh,M,India,IND,2020,Tokyo,Rowing,Lightweight Men's Double Sculls Team,No medal,Lightweight,ROW,False
-Balraj Panwar,M,India,IND,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dattu Bhokanal,M,India,IND,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Kasam Khan,M,India,IND,2000,Sydney,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False,True
+Devender Khandwal,M,India,IND,2008,Beijing,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Sandeep Kumar,M,India,IND,2012,London,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Paulose Kunnel,M,India,IND,2004,Athina,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Inderpal Singh,M,India,IND,2000,Sydney,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False,True
+Manjit Singh,M,India,IND,2008,Beijing,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Manjit Singh,M,India,IND,2012,London,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Sawarn Singh,M,India,IND,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Bajrang Takhar,M,India,IND,2008,Beijing,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Arjun Lal,M,India,IND,2020,Tokyo,Rowing,Lightweight Men's Double Sculls Team,No medal,Lightweight,ROW,False,True
+Arvind Singh,M,India,IND,2020,Tokyo,Rowing,Lightweight Men's Double Sculls Team,No medal,Lightweight,ROW,False,True
+Balraj Panwar,M,India,IND,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,False,True

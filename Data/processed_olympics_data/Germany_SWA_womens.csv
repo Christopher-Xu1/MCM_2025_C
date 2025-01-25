@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Monika Mller,F,Germany,GER,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Monika Mller,F,Germany,GER,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Margit Schreib,F,Germany,GER,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Margit Schreib,F,Germany,GER,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Monika Mller,F,Germany,GER,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Monika Mller,F,Germany,GER,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Margit Schreib,F,Germany,GER,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Margit Schreib,F,Germany,GER,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True

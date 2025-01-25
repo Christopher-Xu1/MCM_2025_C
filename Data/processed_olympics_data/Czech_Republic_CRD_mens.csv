@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Michael Kukrle,M,Czech Republic,CZE,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Michael Kukrle,M,Czech Republic,CZE,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Michal Schlegel,M,Czech Republic,CZE,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Zdenek Stybar,M,Czech Republic,CZE,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Michael Kukrle,M,Czech Republic,CZE,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Michael Kukrle,M,Czech Republic,CZE,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Michal Schlegel,M,Czech Republic,CZE,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Zdenek Stybar,M,Czech Republic,CZE,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True

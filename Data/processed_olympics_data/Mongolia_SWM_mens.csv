@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andryein Tamir,M,Mongolia,MGL,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Andryein Tamir,M,Mongolia,MGL,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Batsaikhanyn Dlgn,M,Mongolia,MGL,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Boldbaataryn Butekh-uils,M,Mongolia,MGL,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Ganaagiin Galbadrakh,M,Mongolia,MGL,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Delgerkhuu Myagmar,M,Mongolia,MGL,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False
-Enkhtamir Batbayar,M,Mongolia,MGL,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andryein Tamir,M,Mongolia,MGL,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Andryein Tamir,M,Mongolia,MGL,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Batsaikhanyn Dlgn,M,Mongolia,MGL,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Boldbaataryn Butekh-uils,M,Mongolia,MGL,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Ganaagiin Galbadrakh,M,Mongolia,MGL,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Delgerkhuu Myagmar,M,Mongolia,MGL,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False,True
+Enkhtamir Batbayar,M,Mongolia,MGL,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True

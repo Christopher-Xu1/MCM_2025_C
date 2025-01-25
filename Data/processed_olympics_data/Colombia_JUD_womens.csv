@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yuri Orjuela,F,Colombia,COL,2008,Beijing,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Yuri Orjuela,F,Colombia,COL,2012,London,Judo,Judo Women's Middleweight,Bronze,Judo,JUD,True
-Yuri Orjuela,F,Colombia,COL,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,Silver,Judo,JUD,True
-Yadinis Rocha,F,Colombia,COL,2012,London,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Yadinis Rocha,F,Colombia,COL,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Lisseth Pallares,F,Colombia,COL,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Luz Alvarez,F,Colombia,COL,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,False
-Erika Lasso,F,Colombia,COL,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yuri Orjuela,F,Colombia,COL,2008,Beijing,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,True
+Yuri Orjuela,F,Colombia,COL,2012,London,Judo,Judo Women's Middleweight,Bronze,Judo,JUD,True,False
+Yuri Orjuela,F,Colombia,COL,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,Silver,Judo,JUD,True,False
+Yadinis Rocha,F,Colombia,COL,2012,London,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,True
+Yadinis Rocha,F,Colombia,COL,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,False
+Lisseth Pallares,F,Colombia,COL,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Luz Alvarez,F,Colombia,COL,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,False,True
+Erika Lasso,F,Colombia,COL,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,False,True

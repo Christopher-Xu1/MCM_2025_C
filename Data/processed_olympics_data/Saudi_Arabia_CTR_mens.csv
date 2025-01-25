@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hassan Al-absi,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Hassan Al-absi,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Medhadi Al-dosari,M,Saudi Arabia,KSA,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Medhadi Al-dosari,M,Saudi Arabia,KSA,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Ali Al-ghazawi,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Saleh Al-qobaissi,M,Saudi Arabia,KSA,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Saleh Al-qobaissi,M,Saudi Arabia,KSA,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Ahmed Al-saleh,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Ali Al-shanqiti,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Ali Al-shanqiti,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Abdullah Al-shaye,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Mohamed Al-takroni,M,Saudi Arabia,KSA,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Mohamed Al-takroni,M,Saudi Arabia,KSA,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Rajab Moqbil,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hassan Al-absi,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Hassan Al-absi,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Medhadi Al-dosari,M,Saudi Arabia,KSA,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Medhadi Al-dosari,M,Saudi Arabia,KSA,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Ali Al-ghazawi,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Saleh Al-qobaissi,M,Saudi Arabia,KSA,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Saleh Al-qobaissi,M,Saudi Arabia,KSA,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Ahmed Al-saleh,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Ali Al-shanqiti,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Ali Al-shanqiti,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Abdullah Al-shaye,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Mohamed Al-takroni,M,Saudi Arabia,KSA,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Mohamed Al-takroni,M,Saudi Arabia,KSA,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Rajab Moqbil,M,Saudi Arabia,KSA,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True

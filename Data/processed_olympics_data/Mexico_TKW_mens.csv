@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vctor Garibay,M,Mexico,MEX,2000,Sydney,Taekwondo,Taekwondo Men's Welterweight,Bronze,Taekwondo,TKW,True
-Vctor Garibay,M,Mexico,MEX,2004,Athina,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,True
-Diego Len,M,Mexico,MEX,2012,London,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Sal Macedo,M,Mexico,MEX,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False
-Idulio Gmez,M,Mexico,MEX,2008,Beijing,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False
-Carlos Valdez,M,Mexico,MEX,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Erick Nuez,M,Mexico,MEX,2012,London,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False
-Guillermo Sandoval,M,Mexico,MEX,2008,Beijing,Taekwondo,Taekwondo Men's Flyweight,Gold,Taekwondo,TKW,False
-scar Blanco,M,Mexico,MEX,2004,Athina,Taekwondo,Taekwondo Men's Flyweight,Silver,Taekwondo,TKW,False
-Carlos Sansores,M,Mexico,MEX,2020,Tokyo,Taekwondo,Men +80kg,No medal,Men,TKW,True
-Carlos Sansores,M,Mexico,MEX,2024,Paris,Taekwondo,Men +80kg,No medal,Men,TKW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vctor Garibay,M,Mexico,MEX,2000,Sydney,Taekwondo,Taekwondo Men's Welterweight,Bronze,Taekwondo,TKW,True,True
+Vctor Garibay,M,Mexico,MEX,2004,Athina,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,True,False
+Diego Len,M,Mexico,MEX,2012,London,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Sal Macedo,M,Mexico,MEX,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False,True
+Idulio Gmez,M,Mexico,MEX,2008,Beijing,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False,True
+Carlos Valdez,M,Mexico,MEX,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Erick Nuez,M,Mexico,MEX,2012,London,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False,True
+Guillermo Sandoval,M,Mexico,MEX,2008,Beijing,Taekwondo,Taekwondo Men's Flyweight,Gold,Taekwondo,TKW,False,True
+scar Blanco,M,Mexico,MEX,2004,Athina,Taekwondo,Taekwondo Men's Flyweight,Silver,Taekwondo,TKW,False,True
+Carlos Sansores,M,Mexico,MEX,2020,Tokyo,Taekwondo,Men +80kg,No medal,Men,TKW,True,True
+Carlos Sansores,M,Mexico,MEX,2024,Paris,Taekwondo,Men +80kg,No medal,Men,TKW,True,False

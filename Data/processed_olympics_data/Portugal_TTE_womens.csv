@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lei Mendes,F,Portugal,POR,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Shao Jieni,F,Portugal,POR,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Fu Yu,F,Portugal,POR,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jieni Shao,F,Portugal,POR,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Fu Yu,F,Portugal,POR,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Fu Yu,F,Portugal,POR,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Jieni Shao,F,Portugal,POR,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lei Mendes,F,Portugal,POR,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Shao Jieni,F,Portugal,POR,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Fu Yu,F,Portugal,POR,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Jieni Shao,F,Portugal,POR,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Fu Yu,F,Portugal,POR,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False
+Fu Yu,F,Portugal,POR,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False
+Jieni Shao,F,Portugal,POR,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False

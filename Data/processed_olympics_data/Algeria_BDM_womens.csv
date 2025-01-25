@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Violette Mammeri,F,Algeria,ALG,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Violette Mammeri,F,Algeria,ALG,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False,True

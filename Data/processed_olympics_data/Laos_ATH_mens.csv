@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Thongdy Amnouayphone,M,Laos,LAO,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Chamleunesouk Ao-oudomphonh,M,Laos,LAO,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Thipsamay Chanthaphone,M,Laos,LAO,1980,Moskva,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False
-Souliyasak Ketkeolatsami,M,Laos,LAO,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Khambieng Khamiar,M,Laos,LAO,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Khambieng Khamiar,M,Laos,LAO,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Panh Khemanith,M,Laos,LAO,1980,Moskva,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Poutavanh Phengthalangsy,M,Laos,LAO,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Vongdeuane Phongsavanh,M,Laos,LAO,1980,Moskva,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Sitthixay Sacpraseuth,M,Laos,LAO,1980,Moskva,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Sitthixay Sacpraseuth,M,Laos,LAO,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Bounhom Siliphone,M,Laos,LAO,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
-Vanxay Sinebandith,M,Laos,LAO,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Kilakone Siphonexay,M,Laos,LAO,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Soutsakhone Somninhom,M,Laos,LAO,1980,Moskva,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Saleumphone Sopraseut,M,Laos,LAO,1992,Barcelona,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False
-Souksavanh Tonsacktheva,M,Laos,LAO,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Sisomphone Vongpharkdy,M,Laos,LAO,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Sisomphone Vongpharkdy,M,Laos,LAO,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Thongdy Amnouayphone,M,Laos,LAO,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Chamleunesouk Ao-oudomphonh,M,Laos,LAO,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Thipsamay Chanthaphone,M,Laos,LAO,1980,Moskva,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False,True
+Souliyasak Ketkeolatsami,M,Laos,LAO,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Khambieng Khamiar,M,Laos,LAO,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Khambieng Khamiar,M,Laos,LAO,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Panh Khemanith,M,Laos,LAO,1980,Moskva,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Poutavanh Phengthalangsy,M,Laos,LAO,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Vongdeuane Phongsavanh,M,Laos,LAO,1980,Moskva,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Sitthixay Sacpraseuth,M,Laos,LAO,1980,Moskva,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Sitthixay Sacpraseuth,M,Laos,LAO,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Bounhom Siliphone,M,Laos,LAO,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False,True
+Vanxay Sinebandith,M,Laos,LAO,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Kilakone Siphonexay,M,Laos,LAO,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Soutsakhone Somninhom,M,Laos,LAO,1980,Moskva,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Saleumphone Sopraseut,M,Laos,LAO,1992,Barcelona,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False,True
+Souksavanh Tonsacktheva,M,Laos,LAO,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Sisomphone Vongpharkdy,M,Laos,LAO,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Sisomphone Vongpharkdy,M,Laos,LAO,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yelena Chalykh,F,Azerbaijan,AZE,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Yelena Chalykh,F,Azerbaijan,AZE,2012,London,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True
-Olqa Panarina-smaylova,F,Azerbaijan,AZE,2016,Rio de Janeiro,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,True
-Olqa Panarina-smaylova,F,Azerbaijan,AZE,2016,Rio de Janeiro,Cycling,Cycling Women's Keirin,No medal,Cycling,CTR,True
-Yelena Pavluxina,F,Azerbaijan,AZE,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yelena Chalykh,F,Azerbaijan,AZE,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Yelena Chalykh,F,Azerbaijan,AZE,2012,London,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True,True
+Olqa Panarina-smaylova,F,Azerbaijan,AZE,2016,Rio de Janeiro,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,True,True
+Olqa Panarina-smaylova,F,Azerbaijan,AZE,2016,Rio de Janeiro,Cycling,Cycling Women's Keirin,No medal,Cycling,CTR,True,True
+Yelena Pavluxina,F,Azerbaijan,AZE,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True

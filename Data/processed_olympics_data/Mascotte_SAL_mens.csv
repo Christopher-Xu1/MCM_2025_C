@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Christoffel Hooijkaas,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed Open,No medal,Sailing,SAL,True
-Christoffel Hooijkaas,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,Silver,Sailing,SAL,True
-Christoffel Hooijkaas,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,No medal,Sailing,SAL,True
-Henricus Smulders,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed Open,No medal,Sailing,SAL,True
-Henricus Smulders,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,Silver,Sailing,SAL,True
-Henricus Smulders,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,No medal,Sailing,SAL,True
-Arie Velden,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed Open,No medal,Sailing,SAL,True
-Arie Velden,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,Silver,Sailing,SAL,True
-Arie Velden,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,No medal,Sailing,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Christoffel Hooijkaas,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed Open,No medal,Sailing,SAL,True,True
+Christoffel Hooijkaas,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,Silver,Sailing,SAL,True,True
+Christoffel Hooijkaas,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,No medal,Sailing,SAL,True,True
+Henricus Smulders,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed Open,No medal,Sailing,SAL,True,True
+Henricus Smulders,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,Silver,Sailing,SAL,True,True
+Henricus Smulders,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,No medal,Sailing,SAL,True,True
+Arie Velden,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed Open,No medal,Sailing,SAL,True,True
+Arie Velden,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,Silver,Sailing,SAL,True,True
+Arie Velden,M,Mascotte,NED,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,No medal,Sailing,SAL,True,True

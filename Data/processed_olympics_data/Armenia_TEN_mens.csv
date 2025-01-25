@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sargis Sargsyan,M,Armenia,ARM,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Sargis Sargsyan,M,Armenia,ARM,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Sargis Sargsyan,M,Armenia,ARM,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sargis Sargsyan,M,Armenia,ARM,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Sargis Sargsyan,M,Armenia,ARM,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Sargis Sargsyan,M,Armenia,ARM,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False

@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Derya Alkan,F,Turkey,TUR,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Bra Katipolu,F,Turkey,TUR,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-lknur Koba,F,Turkey,TUR,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Glah Kocatrk,F,Turkey,TUR,2012,London,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Dilara Lokmanhekim,F,Turkey,TUR,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Kayra Sayt,F,Turkey,TUR,2016,Rio de Janeiro,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Nee Yldz,F,Turkey,TUR,2000,Sydney,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Nee Yldz,F,Turkey,TUR,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Hlya Enyurt,F,Turkey,TUR,1992,Barcelona,Judo,Judo Women's Extra-Lightweight,Bronze,Judo,JUD,True
-Hlya Enyurt,F,Turkey,TUR,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Kayra Sayit,F,Turkey,TUR,2020,Tokyo,Judo,Women +78 kg,No medal,Women,JUD,False
-Gulkader Senturk,F,Turkey,TUR,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Derya Alkan,F,Turkey,TUR,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Bra Katipolu,F,Turkey,TUR,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+lknur Koba,F,Turkey,TUR,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Glah Kocatrk,F,Turkey,TUR,2012,London,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Dilara Lokmanhekim,F,Turkey,TUR,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Kayra Sayt,F,Turkey,TUR,2016,Rio de Janeiro,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Nee Yldz,F,Turkey,TUR,2000,Sydney,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,True
+Nee Yldz,F,Turkey,TUR,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,False
+Hlya Enyurt,F,Turkey,TUR,1992,Barcelona,Judo,Judo Women's Extra-Lightweight,Bronze,Judo,JUD,True,True
+Hlya Enyurt,F,Turkey,TUR,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,False
+Kayra Sayit,F,Turkey,TUR,2020,Tokyo,Judo,Women +78 kg,No medal,Women,JUD,False,True
+Gulkader Senturk,F,Turkey,TUR,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,False,True

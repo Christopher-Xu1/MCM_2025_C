@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Enrique Martnez,M,Mexico,MEX,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Felix Canto,M,Mexico,MEX,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Felix Canto,M,Mexico,MEX,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Santiago Torre,M,Mexico,MEX,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Alejandro Julia,M,Mexico,MEX,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Alejandro Julia,M,Mexico,MEX,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Alejandro Julia,M,Mexico,MEX,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Leonardo Moreno,M,Mexico,MEX,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Leonardo Moreno,M,Mexico,MEX,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Leonardo Moreno,M,Mexico,MEX,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Leonardo Moreno,M,Mexico,MEX,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Marano Alatorre,M,Mexico,MEX,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Marano Alatorre,M,Mexico,MEX,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Francisco Garca,M,Mexico,MEX,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Francisco Garca,M,Mexico,MEX,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Francisco Garca,M,Mexico,MEX,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Agustn Palmer,M,Mexico,MEX,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Agustn Palmer,M,Mexico,MEX,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Oscar Ortz,M,Mexico,MEX,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Oscar Ortz,M,Mexico,MEX,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Miguel Varela,M,Mexico,MEX,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Enrique Martnez,M,Mexico,MEX,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Felix Canto,M,Mexico,MEX,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Felix Canto,M,Mexico,MEX,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Santiago Torre,M,Mexico,MEX,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Alejandro Julia,M,Mexico,MEX,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Alejandro Julia,M,Mexico,MEX,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Alejandro Julia,M,Mexico,MEX,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Leonardo Moreno,M,Mexico,MEX,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Leonardo Moreno,M,Mexico,MEX,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Leonardo Moreno,M,Mexico,MEX,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Leonardo Moreno,M,Mexico,MEX,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Marano Alatorre,M,Mexico,MEX,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Marano Alatorre,M,Mexico,MEX,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Francisco Garca,M,Mexico,MEX,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Francisco Garca,M,Mexico,MEX,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Francisco Garca,M,Mexico,MEX,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Agustn Palmer,M,Mexico,MEX,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Agustn Palmer,M,Mexico,MEX,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Oscar Ortz,M,Mexico,MEX,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Oscar Ortz,M,Mexico,MEX,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Miguel Varela,M,Mexico,MEX,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

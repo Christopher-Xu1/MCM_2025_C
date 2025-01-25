@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nadine (-biffar-),F,Elvis Va,GER,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Team",Gold,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nadine (-biffar-),F,Elvis Va,GER,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Team",Gold,Equestrianism,EVE,False,True

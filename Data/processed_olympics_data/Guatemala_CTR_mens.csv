@@ -1,35 +1,35 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-scar Sandoval,M,Guatemala,GUA,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-scar Sandoval,M,Guatemala,GUA,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Armando Samayoa,M,Guatemala,GUA,1952,Helsinki,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
-Francisco Luna,M,Guatemala,GUA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Francisco Luna,M,Guatemala,GUA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Sergio Franke,M,Guatemala,GUA,1996,Atlanta,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,False
-Julio Illescas,M,Guatemala,GUA,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Jorge Nufio,M,Guatemala,GUA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jorge Nufio,M,Guatemala,GUA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Vctor Reyes,M,Guatemala,GUA,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Vctor Reyes,M,Guatemala,GUA,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Max Buhler,M,Guatemala,GUA,1984,Los Angeles,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Max Buhler,M,Guatemala,GUA,1988,Seoul,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Felipe Cabrera,M,Guatemala,GUA,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Fernando Marroqun,M,Guatemala,GUA,1952,Helsinki,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
-Gustavo Martnez,M,Guatemala,GUA,1952,Helsinki,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Gustavo Martnez,M,Guatemala,GUA,1952,Helsinki,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Juan Montoya,M,Guatemala,GUA,1952,Helsinki,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
-Omar Caldern,M,Guatemala,GUA,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Evaristo Piril,M,Guatemala,GUA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Evaristo Piril,M,Guatemala,GUA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Mrlon Garca,M,Guatemala,GUA,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-scar Mndez,M,Guatemala,GUA,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Manuel Ochoa,M,Guatemala,GUA,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Manuel Ochoa,M,Guatemala,GUA,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Saturnino Cceres,M,Guatemala,GUA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Saturnino Cceres,M,Guatemala,GUA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Carlos Sandoval,M,Guatemala,GUA,1952,Helsinki,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
-Edwin Garca,M,Guatemala,GUA,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Jos Gudiel,M,Guatemala,GUA,2004,Athina,Cycling,Cycling Men's Keirin,No medal,Cycling,CTR,False
-Andrs Torres,M,Guatemala,GUA,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Andrs Torres,M,Guatemala,GUA,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Antn Villatoro,M,Guatemala,GUA,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Antn Villatoro,M,Guatemala,GUA,1996,Atlanta,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+scar Sandoval,M,Guatemala,GUA,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+scar Sandoval,M,Guatemala,GUA,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Armando Samayoa,M,Guatemala,GUA,1952,Helsinki,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True
+Francisco Luna,M,Guatemala,GUA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Francisco Luna,M,Guatemala,GUA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Sergio Franke,M,Guatemala,GUA,1996,Atlanta,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,False,True
+Julio Illescas,M,Guatemala,GUA,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Jorge Nufio,M,Guatemala,GUA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Jorge Nufio,M,Guatemala,GUA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Vctor Reyes,M,Guatemala,GUA,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Vctor Reyes,M,Guatemala,GUA,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Max Buhler,M,Guatemala,GUA,1984,Los Angeles,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Max Buhler,M,Guatemala,GUA,1988,Seoul,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,False
+Felipe Cabrera,M,Guatemala,GUA,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Fernando Marroqun,M,Guatemala,GUA,1952,Helsinki,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True
+Gustavo Martnez,M,Guatemala,GUA,1952,Helsinki,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Gustavo Martnez,M,Guatemala,GUA,1952,Helsinki,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Juan Montoya,M,Guatemala,GUA,1952,Helsinki,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True
+Omar Caldern,M,Guatemala,GUA,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Evaristo Piril,M,Guatemala,GUA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Evaristo Piril,M,Guatemala,GUA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Mrlon Garca,M,Guatemala,GUA,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+scar Mndez,M,Guatemala,GUA,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Manuel Ochoa,M,Guatemala,GUA,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Manuel Ochoa,M,Guatemala,GUA,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Saturnino Cceres,M,Guatemala,GUA,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Saturnino Cceres,M,Guatemala,GUA,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Carlos Sandoval,M,Guatemala,GUA,1952,Helsinki,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True
+Edwin Garca,M,Guatemala,GUA,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Jos Gudiel,M,Guatemala,GUA,2004,Athina,Cycling,Cycling Men's Keirin,No medal,Cycling,CTR,False,True
+Andrs Torres,M,Guatemala,GUA,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Andrs Torres,M,Guatemala,GUA,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Antn Villatoro,M,Guatemala,GUA,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Antn Villatoro,M,Guatemala,GUA,1996,Atlanta,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,True

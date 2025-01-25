@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Gorham,M,Quicksilver-2,GBR,1908,London,Motorboating,Motorboating Mixed B-Class (Under 60 Feet),No medal,Motorboating,PBT,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Gorham,M,Quicksilver-2,GBR,1908,London,Motorboating,Motorboating Mixed B-Class (Under 60 Feet),No medal,Motorboating,PBT,False,True

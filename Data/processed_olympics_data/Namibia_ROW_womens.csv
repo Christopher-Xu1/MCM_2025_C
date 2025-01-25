@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maike Diekmann,F,Namibia,NAM,2020,Tokyo,Rowing,Women's Single Sculls,No medal,Women's,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maike Diekmann,F,Namibia,NAM,2020,Tokyo,Rowing,Women's Single Sculls,No medal,Women's,ROW,False,True

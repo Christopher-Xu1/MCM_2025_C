@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carlos Burga,M,Peru,PER,1972,Munich,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Pedro Arcila,M,Peru,PER,1948,London,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Oscar Ludea,M,Peru,PER,1972,Munich,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Carlomagno Rodriguez,M,Peru,PER,1948,London,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Luis Minami,M,Peru,PER,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Marcelo Mayuri,M,Peru,PER,1968,Mexico City,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Salvador Senz,M,Peru,PER,1948,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Basilio Contreras,M,Peru,PER,1996,Atlanta,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Maria Lucar,M,Peru,PER,2020,Tokyo,Boxing,Men's Heavy (81-91kg),No medal,Men's,BOX,False
-Leodan Pezo,M,Peru,PER,2020,Tokyo,Boxing,Men's Light (57-63kg),No medal,Men's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carlos Burga,M,Peru,PER,1972,Munich,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Pedro Arcila,M,Peru,PER,1948,London,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Oscar Ludea,M,Peru,PER,1972,Munich,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Carlomagno Rodriguez,M,Peru,PER,1948,London,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Luis Minami,M,Peru,PER,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Marcelo Mayuri,M,Peru,PER,1968,Mexico City,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Salvador Senz,M,Peru,PER,1948,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Basilio Contreras,M,Peru,PER,1996,Atlanta,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Maria Lucar,M,Peru,PER,2020,Tokyo,Boxing,Men's Heavy (81-91kg),No medal,Men's,BOX,False,True
+Leodan Pezo,M,Peru,PER,2020,Tokyo,Boxing,Men's Light (57-63kg),No medal,Men's,BOX,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ashleigh Moolman-pasio,F,South Africa,RSA,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,True
-Ashleigh Moolman-pasio,F,South Africa,RSA,2020,Tokyo,Cycling Road,Women's Individual Time Trial,No medal,Women's,CRD,True
-Carla Oberholzer,F,South Africa,RSA,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
-Tiffany Keep,F,South Africa,RSA,2024,Paris,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
-Ashleigh Moolman,F,South Africa,RSA,2024,Paris,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ashleigh Moolman-pasio,F,South Africa,RSA,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,True,True
+Ashleigh Moolman-pasio,F,South Africa,RSA,2020,Tokyo,Cycling Road,Women's Individual Time Trial,No medal,Women's,CRD,True,True
+Carla Oberholzer,F,South Africa,RSA,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True
+Tiffany Keep,F,South Africa,RSA,2024,Paris,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True
+Ashleigh Moolman,F,South Africa,RSA,2024,Paris,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True

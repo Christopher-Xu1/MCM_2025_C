@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aleksandar Uri,M,Bosnia And Herzegovina,BIH,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Singles, 500 metres",No medal,Canoeing,CSL,False
-Samir Karabai,M,Bosnia And Herzegovina,BIH,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Emir Arganovi,M,Bosnia And Herzegovina,BIH,2004,Athina,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aleksandar Uri,M,Bosnia And Herzegovina,BIH,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Singles, 500 metres",No medal,Canoeing,CSL,False,True
+Samir Karabai,M,Bosnia And Herzegovina,BIH,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Emir Arganovi,M,Bosnia And Herzegovina,BIH,2004,Athina,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True

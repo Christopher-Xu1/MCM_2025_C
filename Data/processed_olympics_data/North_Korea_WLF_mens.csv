@@ -1,38 +1,38 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cha Kum-choi,M,North Korea,PRK,2008,Beijing,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Choe Jon-wi,M,North Korea,PRK,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Choe Jong-sop,M,North Korea,PRK,1980,Moskva,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Chon Chol-ho,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Chon Chol-ho,M,North Korea,PRK,1996,Atlanta,Weightlifting,Weightlifting Men's Middleweight,Bronze,Weightlifting,WLF,True
-Chon Chol-ho,M,North Korea,PRK,2000,Sydney,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Gil Nam-su,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Han Gyong-si,M,North Korea,PRK,1976,Montreal,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Han Gyong-si,M,North Korea,PRK,1980,Moskva,Weightlifting,Weightlifting Men's Flyweight,Bronze,Weightlifting,WLF,True
-Ho Bong-chol,M,North Korea,PRK,1980,Moskva,Weightlifting,Weightlifting Men's Flyweight,Silver,Weightlifting,WLF,False
-Im Jae-ho,M,North Korea,PRK,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Im Sang-ho,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Im Yong-su,M,North Korea,PRK,2000,Sydney,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Im Yong-su,M,North Korea,PRK,2004,Athina,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Im Yong-su,M,North Korea,PRK,2008,Beijing,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Kim Chol-jin,M,North Korea,PRK,2008,Beijing,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Kim Kum-sok,M,North Korea,PRK,2012,London,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Kim Myong-hyok,M,North Korea,PRK,2012,London,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Kim Myong-hyok,M,North Korea,PRK,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Kim Myong-nam,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Middleweight,Bronze,Weightlifting,WLF,True
-Kim Myong-nam,M,North Korea,PRK,1996,Atlanta,Weightlifting,Weightlifting Men's Lightweight,Silver,Weightlifting,WLF,True
-Kim Myong-sik,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Kim Un-guk,M,North Korea,PRK,2012,London,Weightlifting,Weightlifting Men's Featherweight,Gold,Weightlifting,WLF,False
-Kim Yong-chol,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Kwon Yong-gwang,M,North Korea,PRK,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Li Gwang-ju,M,North Korea,PRK,1980,Moskva,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Li Jae-son,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Om Jong-guk,M,North Korea,PRK,1976,Montreal,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Om Yun-chol,M,North Korea,PRK,2012,London,Weightlifting,Weightlifting Men's Bantamweight,Gold,Weightlifting,WLF,True
-Om Yun-chol,M,North Korea,PRK,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Bantamweight,Silver,Weightlifting,WLF,True
-Pak Dong-geun,M,North Korea,PRK,1972,Munich,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Pak Ui-myong,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Ri Kyong-sok,M,North Korea,PRK,2008,Beijing,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Ro Hyon-il,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Sin Chol-bom,M,North Korea,PRK,2012,London,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Yang Eui-yong,M,North Korea,PRK,1980,Moskva,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Yun Chol,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cha Kum-choi,M,North Korea,PRK,2008,Beijing,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Choe Jon-wi,M,North Korea,PRK,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Choe Jong-sop,M,North Korea,PRK,1980,Moskva,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Chon Chol-ho,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True,True
+Chon Chol-ho,M,North Korea,PRK,1996,Atlanta,Weightlifting,Weightlifting Men's Middleweight,Bronze,Weightlifting,WLF,True,False
+Chon Chol-ho,M,North Korea,PRK,2000,Sydney,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,False
+Gil Nam-su,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Han Gyong-si,M,North Korea,PRK,1976,Montreal,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,True
+Han Gyong-si,M,North Korea,PRK,1980,Moskva,Weightlifting,Weightlifting Men's Flyweight,Bronze,Weightlifting,WLF,True,False
+Ho Bong-chol,M,North Korea,PRK,1980,Moskva,Weightlifting,Weightlifting Men's Flyweight,Silver,Weightlifting,WLF,False,True
+Im Jae-ho,M,North Korea,PRK,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Im Sang-ho,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Im Yong-su,M,North Korea,PRK,2000,Sydney,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,True
+Im Yong-su,M,North Korea,PRK,2004,Athina,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,False
+Im Yong-su,M,North Korea,PRK,2008,Beijing,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,False
+Kim Chol-jin,M,North Korea,PRK,2008,Beijing,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Kim Kum-sok,M,North Korea,PRK,2012,London,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Kim Myong-hyok,M,North Korea,PRK,2012,London,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,True
+Kim Myong-hyok,M,North Korea,PRK,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Kim Myong-nam,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Middleweight,Bronze,Weightlifting,WLF,True,True
+Kim Myong-nam,M,North Korea,PRK,1996,Atlanta,Weightlifting,Weightlifting Men's Lightweight,Silver,Weightlifting,WLF,True,False
+Kim Myong-sik,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Kim Un-guk,M,North Korea,PRK,2012,London,Weightlifting,Weightlifting Men's Featherweight,Gold,Weightlifting,WLF,False,True
+Kim Yong-chol,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Kwon Yong-gwang,M,North Korea,PRK,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Li Gwang-ju,M,North Korea,PRK,1980,Moskva,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Li Jae-son,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Om Jong-guk,M,North Korea,PRK,1976,Montreal,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Om Yun-chol,M,North Korea,PRK,2012,London,Weightlifting,Weightlifting Men's Bantamweight,Gold,Weightlifting,WLF,True,True
+Om Yun-chol,M,North Korea,PRK,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Bantamweight,Silver,Weightlifting,WLF,True,False
+Pak Dong-geun,M,North Korea,PRK,1972,Munich,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Pak Ui-myong,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Ri Kyong-sok,M,North Korea,PRK,2008,Beijing,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Ro Hyon-il,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Sin Chol-bom,M,North Korea,PRK,2012,London,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Yang Eui-yong,M,North Korea,PRK,1980,Moskva,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Yun Chol,M,North Korea,PRK,1992,Barcelona,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True

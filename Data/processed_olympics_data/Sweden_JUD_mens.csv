@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lars Adolfsson,M,Sweden,SWE,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Lars Adolfsson,M,Sweden,SWE,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Gabriel (castillo-),M,Sweden,SWE,2000,Sydney,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Wolfgang Biedron,M,Sweden,SWE,1980,Moskva,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Anders Dahlin,M,Sweden,SWE,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Anders Dahlin,M,Sweden,SWE,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Michel Grant,M,Sweden,SWE,1980,Moskva,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Michel Grant,M,Sweden,SWE,1984,Los Angeles,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Dan Hggqvist,M,Sweden,SWE,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Dan Hggqvist,M,Sweden,SWE,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Anders Hellqvist,M,Sweden,SWE,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Per Kjellin,M,Sweden,SWE,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Sven Nilsson,M,Sweden,SWE,1980,Moskva,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Marcus Nyman,M,Sweden,SWE,2012,London,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Marcus Nyman,M,Sweden,SWE,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Martin Pacek,M,Sweden,SWE,2016,Rio de Janeiro,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Robin Pacek,M,Sweden,SWE,2016,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Johan Schltz,M,Sweden,SWE,1976,Montreal,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Johan Schltz,M,Sweden,SWE,1976,Montreal,Judo,Judo Men's Open Class,No medal,Judo,JUD,True
-Leif Strm,M,Sweden,SWE,1980,Moskva,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Tommy Tegelgrd,M,Sweden,SWE,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Tommy Macias,M,Sweden,SWE,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,False
-Marcus Nyman,M,Sweden,SWE,2020,Tokyo,Judo,Men -90 kg,No medal,Men,JUD,True
-Robin Pacek,M,Sweden,SWE,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,True
-Marcus Nyman,M,Sweden,SWE,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lars Adolfsson,M,Sweden,SWE,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Lars Adolfsson,M,Sweden,SWE,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Gabriel (castillo-),M,Sweden,SWE,2000,Sydney,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Wolfgang Biedron,M,Sweden,SWE,1980,Moskva,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Anders Dahlin,M,Sweden,SWE,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Anders Dahlin,M,Sweden,SWE,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Michel Grant,M,Sweden,SWE,1980,Moskva,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Michel Grant,M,Sweden,SWE,1984,Los Angeles,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,False
+Dan Hggqvist,M,Sweden,SWE,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,True
+Dan Hggqvist,M,Sweden,SWE,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False
+Anders Hellqvist,M,Sweden,SWE,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Per Kjellin,M,Sweden,SWE,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Sven Nilsson,M,Sweden,SWE,1980,Moskva,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Marcus Nyman,M,Sweden,SWE,2012,London,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,True
+Marcus Nyman,M,Sweden,SWE,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,False
+Martin Pacek,M,Sweden,SWE,2016,Rio de Janeiro,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Robin Pacek,M,Sweden,SWE,2016,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Johan Schltz,M,Sweden,SWE,1976,Montreal,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,True
+Johan Schltz,M,Sweden,SWE,1976,Montreal,Judo,Judo Men's Open Class,No medal,Judo,JUD,True,True
+Leif Strm,M,Sweden,SWE,1980,Moskva,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Tommy Tegelgrd,M,Sweden,SWE,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Tommy Macias,M,Sweden,SWE,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,False,True
+Marcus Nyman,M,Sweden,SWE,2020,Tokyo,Judo,Men -90 kg,No medal,Men,JUD,True,False
+Robin Pacek,M,Sweden,SWE,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,True,False
+Marcus Nyman,M,Sweden,SWE,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,True,False

@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dermot Dunne,M,Ireland,IRL,1960,Roma,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False
-Joseph Feeney,M,Ireland,IRL,1960,Roma,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,True
-Joseph Feeney,M,Ireland,IRL,1964,Tokyo,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,True
-David Harmon,M,Ireland,IRL,1988,Seoul,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False
-Gerald Martina,M,Ireland,IRL,1956,Melbourne,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Gerald Martina,M,Ireland,IRL,1960,Roma,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Sen O'connor,M,Ireland,IRL,1960,Roma,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Sen O'connor,M,Ireland,IRL,1964,Tokyo,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Jack Vard,M,Ireland,IRL,1952,Helsinki,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dermot Dunne,M,Ireland,IRL,1960,Roma,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False,True
+Joseph Feeney,M,Ireland,IRL,1960,Roma,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,True,True
+Joseph Feeney,M,Ireland,IRL,1964,Tokyo,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,True,False
+David Harmon,M,Ireland,IRL,1988,Seoul,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False,True
+Gerald Martina,M,Ireland,IRL,1956,Melbourne,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Gerald Martina,M,Ireland,IRL,1960,Roma,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Sen O'connor,M,Ireland,IRL,1960,Roma,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Sen O'connor,M,Ireland,IRL,1964,Tokyo,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Jack Vard,M,Ireland,IRL,1952,Helsinki,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True

@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-mile Barral,M,Monaco,MON,1924,Paris,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-mile Barral,M,Monaco,MON,1928,Amsterdam,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Grard Battaglia,M,Monaco,MON,1976,Montreal,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Philippe Battaglia,M,Monaco,MON,1988,Seoul,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Jean-Pierre Borro,M,Monaco,MON,1976,Montreal,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Damien Lerale,M,Monaco,MON,2012,London,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False
-Didier Gamerdinger,M,Monaco,MON,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,False
-Claude Rossi,M,Monaco,MON,1976,Montreal,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+mile Barral,M,Monaco,MON,1924,Paris,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,True
+mile Barral,M,Monaco,MON,1928,Amsterdam,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Grard Battaglia,M,Monaco,MON,1976,Montreal,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Philippe Battaglia,M,Monaco,MON,1988,Seoul,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Jean-Pierre Borro,M,Monaco,MON,1976,Montreal,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Damien Lerale,M,Monaco,MON,2012,London,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False,True
+Didier Gamerdinger,M,Monaco,MON,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,False,True
+Claude Rossi,M,Monaco,MON,1976,Montreal,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

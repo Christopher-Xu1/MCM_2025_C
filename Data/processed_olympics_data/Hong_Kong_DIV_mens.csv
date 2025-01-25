@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andrew Kwan,M,Hong Kong,HKG,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Andrew Kwan,M,Hong Kong,HKG,1984,Los Angeles,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Ng Sui,M,Hong Kong,HKG,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Tang Shan,M,Hong Kong,HKG,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Wong Chung,M,Hong Kong,HKG,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Yang Kam,M,Hong Kong,HKG,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Yu Yuet,M,Hong Kong,HKG,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andrew Kwan,M,Hong Kong,HKG,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Andrew Kwan,M,Hong Kong,HKG,1984,Los Angeles,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Ng Sui,M,Hong Kong,HKG,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Tang Shan,M,Hong Kong,HKG,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Wong Chung,M,Hong Kong,HKG,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Yang Kam,M,Hong Kong,HKG,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Yu Yuet,M,Hong Kong,HKG,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True

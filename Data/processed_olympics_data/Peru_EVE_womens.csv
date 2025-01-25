@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mariam Cunningham,F,Peru,PER,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mariam Cunningham,F,Peru,PER,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True

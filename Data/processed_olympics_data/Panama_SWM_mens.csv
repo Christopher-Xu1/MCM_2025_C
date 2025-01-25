@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Diego Granados,M,Panama,PAN,2012,London,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False
-Edgar Echeverra,M,Panama,PAN,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Edgar Echeverra,M,Panama,PAN,2012,London,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Edgar Echeverra,M,Panama,PAN,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Carlos Gonzlez,M,Panama,PAN,1976,Montreal,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Carlos Gonzlez,M,Panama,PAN,1976,Montreal,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Adn Jr.,M,Panama,PAN,1928,Amsterdam,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Adn Jr.,M,Panama,PAN,1928,Amsterdam,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Manuel Gutirrez,M,Panama,PAN,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Manuel Gutirrez,M,Panama,PAN,1984,Los Angeles,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Manuel Gutirrez,M,Panama,PAN,1984,Los Angeles,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Manuel Gutirrez,M,Panama,PAN,1988,Seoul,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Manuel Gutirrez,M,Panama,PAN,1988,Seoul,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Jos Chu,M,Panama,PAN,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Jos Chu,M,Panama,PAN,1996,Atlanta,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Jos Chu,M,Panama,PAN,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Ismael Zuiga,M,Panama,PAN,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Ivn Mesa,M,Panama,PAN,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Ricardo Arguelles,M,Panama,PAN,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Ricardo Arguelles,M,Panama,PAN,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Ricardo Arguelles,M,Panama,PAN,1992,Barcelona,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Gianni Versari,M,Panama,PAN,1976,Montreal,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Gianni Versari,M,Panama,PAN,1976,Montreal,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Tyler Christianson,M,Panama,PAN,2020,Tokyo,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True
-Tyler Christianson,M,Panama,PAN,2020,Tokyo,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,True
-Tyler Christianson,M,Panama,PAN,2024,Paris,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Diego Granados,M,Panama,PAN,2012,London,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False,True
+Edgar Echeverra,M,Panama,PAN,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Edgar Echeverra,M,Panama,PAN,2012,London,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Edgar Echeverra,M,Panama,PAN,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Carlos Gonzlez,M,Panama,PAN,1976,Montreal,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Carlos Gonzlez,M,Panama,PAN,1976,Montreal,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Adn Jr.,M,Panama,PAN,1928,Amsterdam,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Adn Jr.,M,Panama,PAN,1928,Amsterdam,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Manuel Gutirrez,M,Panama,PAN,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Manuel Gutirrez,M,Panama,PAN,1984,Los Angeles,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Manuel Gutirrez,M,Panama,PAN,1984,Los Angeles,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Manuel Gutirrez,M,Panama,PAN,1988,Seoul,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Manuel Gutirrez,M,Panama,PAN,1988,Seoul,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Jos Chu,M,Panama,PAN,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Jos Chu,M,Panama,PAN,1996,Atlanta,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Jos Chu,M,Panama,PAN,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Ismael Zuiga,M,Panama,PAN,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Ivn Mesa,M,Panama,PAN,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Ricardo Arguelles,M,Panama,PAN,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Ricardo Arguelles,M,Panama,PAN,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Ricardo Arguelles,M,Panama,PAN,1992,Barcelona,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Gianni Versari,M,Panama,PAN,1976,Montreal,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Gianni Versari,M,Panama,PAN,1976,Montreal,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Tyler Christianson,M,Panama,PAN,2020,Tokyo,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True,True
+Tyler Christianson,M,Panama,PAN,2020,Tokyo,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,True,True
+Tyler Christianson,M,Panama,PAN,2024,Paris,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True,False

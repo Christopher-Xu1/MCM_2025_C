@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gloria Muoz,F,Puerto Rico,PUR,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Dinorah Enrquez,F,Puerto Rico,PUR,1976,Montreal,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Mitch Escanellas,F,Puerto Rico,PUR,1996,Atlanta,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gloria Muoz,F,Puerto Rico,PUR,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Dinorah Enrquez,F,Puerto Rico,PUR,1976,Montreal,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Mitch Escanellas,F,Puerto Rico,PUR,1996,Atlanta,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,False,True

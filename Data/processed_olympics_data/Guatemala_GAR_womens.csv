@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mara Flores-wurmser,F,Guatemala,GUA,1988,Seoul,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Mara Flores-wurmser,F,Guatemala,GUA,1988,Seoul,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Mara Flores-wurmser,F,Guatemala,GUA,1988,Seoul,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Mara Flores-wurmser,F,Guatemala,GUA,1988,Seoul,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Mara Flores-wurmser,F,Guatemala,GUA,1988,Seoul,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Ana Porras,F,Guatemala,GUA,2012,London,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Ana Porras,F,Guatemala,GUA,2012,London,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Ana Porras,F,Guatemala,GUA,2012,London,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Ana Porras,F,Guatemala,GUA,2012,London,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Ana Porras,F,Guatemala,GUA,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Ana Porras,F,Guatemala,GUA,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Ana Porras,F,Guatemala,GUA,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Ana Porras,F,Guatemala,GUA,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Luisa Daz,F,Guatemala,GUA,1992,Barcelona,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Luisa Daz,F,Guatemala,GUA,1992,Barcelona,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Luisa Daz,F,Guatemala,GUA,1992,Barcelona,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Luisa Daz,F,Guatemala,GUA,1992,Barcelona,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Luisa Daz,F,Guatemala,GUA,1992,Barcelona,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mara Flores-wurmser,F,Guatemala,GUA,1988,Seoul,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Mara Flores-wurmser,F,Guatemala,GUA,1988,Seoul,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Mara Flores-wurmser,F,Guatemala,GUA,1988,Seoul,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Mara Flores-wurmser,F,Guatemala,GUA,1988,Seoul,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Mara Flores-wurmser,F,Guatemala,GUA,1988,Seoul,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Ana Porras,F,Guatemala,GUA,2012,London,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Ana Porras,F,Guatemala,GUA,2012,London,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Ana Porras,F,Guatemala,GUA,2012,London,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Ana Porras,F,Guatemala,GUA,2012,London,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Ana Porras,F,Guatemala,GUA,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,False
+Ana Porras,F,Guatemala,GUA,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,False
+Ana Porras,F,Guatemala,GUA,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,False
+Ana Porras,F,Guatemala,GUA,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,False
+Luisa Daz,F,Guatemala,GUA,1992,Barcelona,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Luisa Daz,F,Guatemala,GUA,1992,Barcelona,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Luisa Daz,F,Guatemala,GUA,1992,Barcelona,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Luisa Daz,F,Guatemala,GUA,1992,Barcelona,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Luisa Daz,F,Guatemala,GUA,1992,Barcelona,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True

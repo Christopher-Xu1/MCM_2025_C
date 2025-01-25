@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aysuluu Tynybekova,F,Kyrgyzstan,KGZ,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Aysuluu Tynybekova,F,Kyrgyzstan,KGZ,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Aiperi Medet,F,Kyrgyzstan,KGZ,2020,Tokyo,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,True
-Aisuluu Tynybekova,F,Kyrgyzstan,KGZ,2020,Tokyo,Wrestling,Women's Freestyle 62kg,Silver,Women's,WRF,True
-Meerim Zhumanazarova,F,Kyrgyzstan,KGZ,2020,Tokyo,Wrestling,Women's Freestyle 68kg,Bronze,Women's,WRF,True
-Meerim Zhumanazarova,F,Kyrgyzstan,KGZ,2024,Paris,Wrestling,Women's Freestyle 68kg,Silver,Women's,WRF,True
-Aisuluu Tynybekova,F,Kyrgyzstan,KGZ,2024,Paris,Wrestling,Women's Freestyle 62kg,Bronze,Women's,WRF,True
-Aiperi Medet,F,Kyrgyzstan,KGZ,2024,Paris,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aysuluu Tynybekova,F,Kyrgyzstan,KGZ,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True,True
+Aysuluu Tynybekova,F,Kyrgyzstan,KGZ,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True,False
+Aiperi Medet,F,Kyrgyzstan,KGZ,2020,Tokyo,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,True,True
+Aisuluu Tynybekova,F,Kyrgyzstan,KGZ,2020,Tokyo,Wrestling,Women's Freestyle 62kg,Silver,Women's,WRF,True,True
+Meerim Zhumanazarova,F,Kyrgyzstan,KGZ,2020,Tokyo,Wrestling,Women's Freestyle 68kg,Bronze,Women's,WRF,True,True
+Meerim Zhumanazarova,F,Kyrgyzstan,KGZ,2024,Paris,Wrestling,Women's Freestyle 68kg,Silver,Women's,WRF,True,False
+Aisuluu Tynybekova,F,Kyrgyzstan,KGZ,2024,Paris,Wrestling,Women's Freestyle 62kg,Bronze,Women's,WRF,True,False
+Aiperi Medet,F,Kyrgyzstan,KGZ,2024,Paris,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,True,False

@@ -1,30 +1,30 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohamed Aboker,M,Somalia,SOM,1972,Munich,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Mohamed Aboker,M,Somalia,SOM,1972,Munich,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Aboukar Adani,M,Somalia,SOM,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Aboukar Adani,M,Somalia,SOM,1996,Atlanta,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Ibrahim Gedi,M,Somalia,SOM,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Ibrahim Gedi,M,Somalia,SOM,2000,Sydney,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Jama Aden,M,Somalia,SOM,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Jama Aden,M,Somalia,SOM,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Jama Aden,M,Somalia,SOM,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Jama Aden,M,Somalia,SOM,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Abdul Ahmed,M,Somalia,SOM,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Abdi Abdi,M,Somalia,SOM,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Abdi Abdi,M,Somalia,SOM,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Abdi Abdi,M,Somalia,SOM,1996,Atlanta,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Ali Hufane,M,Somalia,SOM,1984,Los Angeles,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Abdinasir Ibrahim,M,Somalia,SOM,2008,Beijing,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Abdi Isak,M,Somalia,SOM,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Ahmed Ismail,M,Somalia,SOM,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Ahmed Ismail,M,Somalia,SOM,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Mohiddin Kulmiye,M,Somalia,SOM,1984,Los Angeles,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Mohiddin Kulmiye,M,Somalia,SOM,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Mohamed Mohamed,M,Somalia,SOM,2012,London,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Mohamed Mohamed,M,Somalia,SOM,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Abdulla Hussein,M,Somalia,SOM,2004,Athina,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Ibrahim Omar,M,Somalia,SOM,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Ibrahim Omar,M,Somalia,SOM,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Abdullah Wasughe,M,Somalia,SOM,1972,Munich,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
-Idow Hassan,M,Somalia,SOM,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,True
-Idow Hassan,M,Somalia,SOM,2024,Paris,Athletics,Men's 800m,No medal,Men's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohamed Aboker,M,Somalia,SOM,1972,Munich,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Mohamed Aboker,M,Somalia,SOM,1972,Munich,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Aboukar Adani,M,Somalia,SOM,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Aboukar Adani,M,Somalia,SOM,1996,Atlanta,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,False
+Ibrahim Gedi,M,Somalia,SOM,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Ibrahim Gedi,M,Somalia,SOM,2000,Sydney,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,False
+Jama Aden,M,Somalia,SOM,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Jama Aden,M,Somalia,SOM,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Jama Aden,M,Somalia,SOM,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,False
+Jama Aden,M,Somalia,SOM,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,False
+Abdul Ahmed,M,Somalia,SOM,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Abdi Abdi,M,Somalia,SOM,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Abdi Abdi,M,Somalia,SOM,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Abdi Abdi,M,Somalia,SOM,1996,Atlanta,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,False
+Ali Hufane,M,Somalia,SOM,1984,Los Angeles,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Abdinasir Ibrahim,M,Somalia,SOM,2008,Beijing,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Abdi Isak,M,Somalia,SOM,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Ahmed Ismail,M,Somalia,SOM,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Ahmed Ismail,M,Somalia,SOM,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Mohiddin Kulmiye,M,Somalia,SOM,1984,Los Angeles,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Mohiddin Kulmiye,M,Somalia,SOM,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Mohamed Mohamed,M,Somalia,SOM,2012,London,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Mohamed Mohamed,M,Somalia,SOM,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,False
+Abdulla Hussein,M,Somalia,SOM,2004,Athina,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Ibrahim Omar,M,Somalia,SOM,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Ibrahim Omar,M,Somalia,SOM,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Abdullah Wasughe,M,Somalia,SOM,1972,Munich,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False,True
+Idow Hassan,M,Somalia,SOM,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,True,True
+Idow Hassan,M,Somalia,SOM,2024,Paris,Athletics,Men's 800m,No medal,Men's,ATH,True,False

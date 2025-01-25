@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yekaterina Khomyakova-birlova,F,Russia,RUS,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Aleksandra Shiryayeva,F,Russia,RUS,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Yevgeniya Ukolova,F,Russia,RUS,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Nataliya Uryadova,F,Russia,RUS,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Svetlana Kholomina,F,Russia,ROC,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False
-Nadezda Makroguzova,F,Russia,ROC,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yekaterina Khomyakova-birlova,F,Russia,RUS,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Aleksandra Shiryayeva,F,Russia,RUS,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Yevgeniya Ukolova,F,Russia,RUS,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Nataliya Uryadova,F,Russia,RUS,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Svetlana Kholomina,F,Russia,ROC,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False,True
+Nadezda Makroguzova,F,Russia,ROC,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False,True

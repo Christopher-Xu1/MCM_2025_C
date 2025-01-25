@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Claudio Bincaz,M,Wiking,ARG,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Germn Lynch,M,Wiking,ARG,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Edlef Hossmann,M,Wiking,ARG,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Jorge Linck,M,Wiking,ARG,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Julio Hadler,M,Wiking,ARG,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Claudio Bincaz,M,Wiking,ARG,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Germn Lynch,M,Wiking,ARG,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Edlef Hossmann,M,Wiking,ARG,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Jorge Linck,M,Wiking,ARG,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Julio Hadler,M,Wiking,ARG,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

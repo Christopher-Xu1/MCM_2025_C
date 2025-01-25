@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hamadou Issaka,M,Niger,NIG,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hamadou Issaka,M,Niger,NIG,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True

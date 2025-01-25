@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yukito Aoki,M,Japan,JPN,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,False
-Ayumu Hirano,M,Japan,JPN,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,False
-Yuto Horigome,M,Japan,JPN,2020,Tokyo,Skateboarding,Men's Street,Gold,Men's,SKB,True
-Sora Shirai,M,Japan,JPN,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,True
-Ginwoo Onodera,M,Japan,JPN,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,False
-Yuro Nagahara,M,Japan,JPN,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,False
-Sora Shirai,M,Japan,JPN,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,True
-Yuto Horigome,M,Japan,JPN,2024,Paris,Skateboarding,Men's Street,Gold,Men's,SKB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yukito Aoki,M,Japan,JPN,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,False,True
+Ayumu Hirano,M,Japan,JPN,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,False,True
+Yuto Horigome,M,Japan,JPN,2020,Tokyo,Skateboarding,Men's Street,Gold,Men's,SKB,True,True
+Sora Shirai,M,Japan,JPN,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,True,True
+Ginwoo Onodera,M,Japan,JPN,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,False,True
+Yuro Nagahara,M,Japan,JPN,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,False,True
+Sora Shirai,M,Japan,JPN,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,True,False
+Yuto Horigome,M,Japan,JPN,2024,Paris,Skateboarding,Men's Street,Gold,Men's,SKB,True,False

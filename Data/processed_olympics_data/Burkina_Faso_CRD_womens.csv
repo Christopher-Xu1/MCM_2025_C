@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Awa Bamogo,F,Burkina Faso,BUR,2024,Paris,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Awa Bamogo,F,Burkina Faso,BUR,2024,Paris,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True

@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Otto Christman,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False
-George Ducker,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False
-John Fraser,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False
-John Gourlay,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False
-Alexander Hall,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False
-Albert Henderson,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False
-Albert Johnston,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False
-Robert Lane,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False
-Albert Linton,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False
-Gordon Mcdonald,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False
-Frederick Steep,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False
-Thomas Taylor,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False
-William Twaits,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Otto Christman,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False,True
+George Ducker,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False,True
+John Fraser,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False,True
+John Gourlay,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False,True
+Alexander Hall,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False,True
+Albert Henderson,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False,True
+Albert Johnston,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False,True
+Robert Lane,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False,True
+Albert Linton,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False,True
+Gordon Mcdonald,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False,True
+Frederick Steep,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False,True
+Thomas Taylor,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False,True
+William Twaits,M,Galt Football Club,CAN,1904,St. Louis,Football,Football Men's Football,Gold,Football,FBL,False,True

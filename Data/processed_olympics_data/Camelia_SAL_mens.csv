@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carlos Bleck,M,Camelia,POR,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Frederico Burnay,M,Camelia,POR,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Antnio Herdia,M,Camelia,POR,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Ernesto Mendona,M,Camelia,POR,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carlos Bleck,M,Camelia,POR,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Frederico Burnay,M,Camelia,POR,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Antnio Herdia,M,Camelia,POR,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Ernesto Mendona,M,Camelia,POR,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

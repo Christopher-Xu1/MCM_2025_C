@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alain Ayissi,M,Cameroon,CMR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Alain Ayissi,M,Cameroon,CMR,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Charles Bana,M,Cameroon,CMR,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Jean Djambou,M,Cameroon,CMR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jean Djambou,M,Cameroon,CMR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Joseph Evouna,M,Cameroon,CMR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Joseph Evouna,M,Cameroon,CMR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Joseph Evouna,M,Cameroon,CMR,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Lucas Feutsa,M,Cameroon,CMR,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Toussaint Fouda,M,Cameroon,CMR,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Joseph Kono,M,Cameroon,CMR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Joseph Kono,M,Cameroon,CMR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Joseph Kono,M,Cameroon,CMR,1976,Montreal,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Joseph Kono,M,Cameroon,CMR,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Joseph Kono,M,Cameroon,CMR,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Joseph Kono,M,Cameroon,CMR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Joseph Kono,M,Cameroon,CMR,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Maurice Moutat,M,Cameroon,CMR,1976,Montreal,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Henri Mveh,M,Cameroon,CMR,1976,Montreal,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Dieudonn Ntep,M,Cameroon,CMR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Dieudonn Ntep,M,Cameroon,CMR,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Thomas Nyemeg,M,Cameroon,CMR,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Robert Owona,M,Cameroon,CMR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Robert Owona,M,Cameroon,CMR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Robert Owona,M,Cameroon,CMR,1976,Montreal,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Robert Owona,M,Cameroon,CMR,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Robert Owona,M,Cameroon,CMR,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Thomas Siani,M,Cameroon,CMR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alain Ayissi,M,Cameroon,CMR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Alain Ayissi,M,Cameroon,CMR,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Charles Bana,M,Cameroon,CMR,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Jean Djambou,M,Cameroon,CMR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Jean Djambou,M,Cameroon,CMR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Joseph Evouna,M,Cameroon,CMR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Joseph Evouna,M,Cameroon,CMR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Joseph Evouna,M,Cameroon,CMR,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Lucas Feutsa,M,Cameroon,CMR,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Toussaint Fouda,M,Cameroon,CMR,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Joseph Kono,M,Cameroon,CMR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Joseph Kono,M,Cameroon,CMR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Joseph Kono,M,Cameroon,CMR,1976,Montreal,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Joseph Kono,M,Cameroon,CMR,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Joseph Kono,M,Cameroon,CMR,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Joseph Kono,M,Cameroon,CMR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Joseph Kono,M,Cameroon,CMR,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Maurice Moutat,M,Cameroon,CMR,1976,Montreal,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Henri Mveh,M,Cameroon,CMR,1976,Montreal,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Dieudonn Ntep,M,Cameroon,CMR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Dieudonn Ntep,M,Cameroon,CMR,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Thomas Nyemeg,M,Cameroon,CMR,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Robert Owona,M,Cameroon,CMR,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Robert Owona,M,Cameroon,CMR,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Robert Owona,M,Cameroon,CMR,1976,Montreal,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Robert Owona,M,Cameroon,CMR,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Robert Owona,M,Cameroon,CMR,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Thomas Siani,M,Cameroon,CMR,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True

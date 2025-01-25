@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mikayel Koloyan,M,Armenia,ARM,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Mikayel Koloyan,M,Armenia,ARM,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Dimitri Margaryan,M,Armenia,ARM,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Vahan Mkhitaryan,M,Armenia,ARM,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Artur Barseghyan,M,Armenia,ARM,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True
-Artur Barseghyan,M,Armenia,ARM,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
-Artur Barseghyan,M,Armenia,ARM,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mikayel Koloyan,M,Armenia,ARM,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Mikayel Koloyan,M,Armenia,ARM,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Dimitri Margaryan,M,Armenia,ARM,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Vahan Mkhitaryan,M,Armenia,ARM,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Artur Barseghyan,M,Armenia,ARM,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True,True
+Artur Barseghyan,M,Armenia,ARM,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,True
+Artur Barseghyan,M,Armenia,ARM,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,False

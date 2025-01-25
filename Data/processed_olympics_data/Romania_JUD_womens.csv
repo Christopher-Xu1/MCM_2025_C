@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Corina Cprioriu,F,Romania,ROU,2012,London,Judo,Judo Women's Lightweight,Silver,Judo,JUD,True
-Corina Cprioriu,F,Romania,ROU,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Andreea Chiu,F,Romania,ROU,2012,London,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Andreea Chiu,F,Romania,ROU,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Ioana Dinea-alua,F,Romania,ROU,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Ioana Dinea-alua,F,Romania,ROU,2004,Athina,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Alina (-croitoru),F,Romania,ROU,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Alina (-croitoru),F,Romania,ROU,2008,Beijing,Judo,Judo Women's Extra-Lightweight,Gold,Judo,JUD,True
-Alina (-croitoru),F,Romania,ROU,2012,London,Judo,Judo Women's Extra-Lightweight,Silver,Judo,JUD,True
-Laura (-moricz),F,Romania,ROU,2000,Sydney,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Simona Richter,F,Romania,ROU,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Simona Richter,F,Romania,ROU,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Simona Richter,F,Romania,ROU,2000,Sydney,Judo,Judo Women's Half-Heavyweight,Bronze,Judo,JUD,True
-Elena Ungureanu,F,Romania,ROU,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Andreea Chitu,F,Romania,ROU,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Corina Cprioriu,F,Romania,ROU,2012,London,Judo,Judo Women's Lightweight,Silver,Judo,JUD,True,True
+Corina Cprioriu,F,Romania,ROU,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,False
+Andreea Chiu,F,Romania,ROU,2012,London,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,True
+Andreea Chiu,F,Romania,ROU,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,False
+Ioana Dinea-alua,F,Romania,ROU,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,True
+Ioana Dinea-alua,F,Romania,ROU,2004,Athina,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,False
+Alina (-croitoru),F,Romania,ROU,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,True
+Alina (-croitoru),F,Romania,ROU,2008,Beijing,Judo,Judo Women's Extra-Lightweight,Gold,Judo,JUD,True,False
+Alina (-croitoru),F,Romania,ROU,2012,London,Judo,Judo Women's Extra-Lightweight,Silver,Judo,JUD,True,False
+Laura (-moricz),F,Romania,ROU,2000,Sydney,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Simona Richter,F,Romania,ROU,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,True
+Simona Richter,F,Romania,ROU,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,False
+Simona Richter,F,Romania,ROU,2000,Sydney,Judo,Judo Women's Half-Heavyweight,Bronze,Judo,JUD,True,False
+Elena Ungureanu,F,Romania,ROU,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Andreea Chitu,F,Romania,ROU,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,False,True

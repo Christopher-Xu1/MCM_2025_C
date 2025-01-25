@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Danijel Furtula,M,Montenegro,MNE,2012,London,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
-Danijel Furtula,M,Montenegro,MNE,2016,Rio de Janeiro,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
-Goran Stojiljkovi,M,Montenegro,MNE,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Danijel Furtula,M,Montenegro,MNE,2020,Tokyo,Athletics,Men's Discus Throw,No medal,Men's,ATH,True
-Darko Pesic,M,Montenegro,MNE,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Danijel Furtula,M,Montenegro,MNE,2012,London,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True,True
+Danijel Furtula,M,Montenegro,MNE,2016,Rio de Janeiro,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True,False
+Goran Stojiljkovi,M,Montenegro,MNE,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Danijel Furtula,M,Montenegro,MNE,2020,Tokyo,Athletics,Men's Discus Throw,No medal,Men's,ATH,True,False
+Darko Pesic,M,Montenegro,MNE,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True

@@ -1,50 +1,50 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Paulina (-bentkowska),F,Poland,POL,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Aleksandra Dawidowicz,F,Poland,POL,2008,Beijing,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Aleksandra Dawidowicz,F,Poland,POL,2012,London,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Paula Gorycka,F,Poland,POL,2012,London,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Edyta Jasiska,F,Poland,POL,2016,Rio de Janeiro,Cycling,Cycling Women's Team Pursuit,No medal,Cycling,CTR,False
-Magorzata Jasiska,F,Poland,POL,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Justyna Kaczkowska,F,Poland,POL,2016,Rio de Janeiro,Cycling,Cycling Women's Team Pursuit,No medal,Cycling,CTR,False
-Bogumia Matusiak,F,Poland,POL,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Katarzyna Niewiadoma,F,Poland,POL,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Katarzyna Niewiadoma,F,Poland,POL,2016,Rio de Janeiro,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True
-Katarzyna Pawowska,F,Poland,POL,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Daria Pikulik,F,Poland,POL,2016,Rio de Janeiro,Cycling,Cycling Women's Team Pursuit,No medal,Cycling,CTR,True
-Daria Pikulik,F,Poland,POL,2016,Rio de Janeiro,Cycling,Cycling Women's Omnium,No medal,Cycling,CTR,True
-Anna Plichta,F,Poland,POL,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Anna Plichta,F,Poland,POL,2016,Rio de Janeiro,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True
-Natalia Rutkowska,F,Poland,POL,2016,Rio de Janeiro,Cycling,Cycling Women's Team Pursuit,No medal,Cycling,CTR,False
-Magdalena Sadecka,F,Poland,POL,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Anna Szafraniec,F,Poland,POL,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Maja Woszczowska,F,Poland,POL,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Maja Woszczowska,F,Poland,POL,2008,Beijing,Cycling,"Cycling Women's Mountainbike, Cross-Country",Silver,Cycling,CTR,True
-Maja Woszczowska,F,Poland,POL,2016,Rio de Janeiro,Cycling,"Cycling Women's Mountainbike, Cross-Country",Silver,Cycling,CTR,True
-Magorzata Wojtyra,F,Poland,POL,2012,London,Cycling,Cycling Women's Omnium,No medal,Cycling,CTR,False
-Magorzata Wysocka,F,Poland,POL,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Marlena Karwacka,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Team Sprint Team,No medal,Women's,CTR,True
-Marlena Karwacka,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Sprint,No medal,Women's,CTR,True
-Marlena Karwacka,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Keirin,No medal,Women's,CTR,True
-Urszula Los,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Team Sprint Team,No medal,Women's,CTR,True
-Urszula Los,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Sprint,No medal,Women's,CTR,True
-Urszula Los,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Keirin,No medal,Women's,CTR,True
-Daria Pikulik,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Omnium,No medal,Women's,CTR,True
-Daria Pikulik,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Madison Team,No medal,Women's,CTR,True
-Wiktoria Pikulik,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Omnium,No medal,Women's,CTR,True
-Wiktoria Pikulik,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Madison Team,No medal,Women's,CTR,True
-Nikol Plosaj,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Madison,No medal,Women's,CTR,False
-Daria Pikulik,F,Poland,POL,2024,Paris,Cycling Track,Women's Madison,No medal,Women's,CTR,True
-Daria Pikulik,F,Poland,POL,2024,Paris,Cycling Track,Women's Omnium,Silver,Women's,CTR,True
-Urszula Los,F,Poland,POL,2024,Paris,Cycling Track,Women's Keirin,No medal,Women's,CTR,True
-Urszula Los,F,Poland,POL,2024,Paris,Cycling Track,Women's Sprint,No medal,Women's,CTR,True
-Urszula Los,F,Poland,POL,2024,Paris,Cycling Track,Women's Team Sprint,No medal,Women's,CTR,True
-Marlena Karwacka,F,Poland,POL,2024,Paris,Cycling Track,Women's Keirin,No medal,Women's,CTR,True
-Marlena Karwacka,F,Poland,POL,2024,Paris,Cycling Track,Women's Sprint,No medal,Women's,CTR,True
-Marlena Karwacka,F,Poland,POL,2024,Paris,Cycling Track,Women's Team Sprint,No medal,Women's,CTR,True
-Paulina Petri,F,Poland,POL,2024,Paris,Cycling Track,Women's Team Sprint,No medal,Women's,CTR,False
-Nikola Sibiak,F,Poland,POL,2024,Paris,Cycling Track,Women's Keirin,No medal,Women's,CTR,True
-Nikola Sibiak,F,Poland,POL,2024,Paris,Cycling Track,Women's Sprint,No medal,Women's,CTR,True
-Nikola Sibiak,F,Poland,POL,2024,Paris,Cycling Track,Women's Team Sprint,No medal,Women's,CTR,True
-Patrycja Lorkowska,F,Poland,POL,2024,Paris,Cycling Track,Women's Madison,No medal,Women's,CTR,False
-Wiktoria Pikulik,F,Poland,POL,2024,Paris,Cycling Track,Women's Madison,No medal,Women's,CTR,True
-Wiktoria Pikulik,F,Poland,POL,2024,Paris,Cycling Track,Women's Omnium,No medal,Women's,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Paulina (-bentkowska),F,Poland,POL,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Aleksandra Dawidowicz,F,Poland,POL,2008,Beijing,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,True
+Aleksandra Dawidowicz,F,Poland,POL,2012,London,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,False
+Paula Gorycka,F,Poland,POL,2012,London,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Edyta Jasiska,F,Poland,POL,2016,Rio de Janeiro,Cycling,Cycling Women's Team Pursuit,No medal,Cycling,CTR,False,True
+Magorzata Jasiska,F,Poland,POL,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Justyna Kaczkowska,F,Poland,POL,2016,Rio de Janeiro,Cycling,Cycling Women's Team Pursuit,No medal,Cycling,CTR,False,True
+Bogumia Matusiak,F,Poland,POL,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Katarzyna Niewiadoma,F,Poland,POL,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Katarzyna Niewiadoma,F,Poland,POL,2016,Rio de Janeiro,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True,True
+Katarzyna Pawowska,F,Poland,POL,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Daria Pikulik,F,Poland,POL,2016,Rio de Janeiro,Cycling,Cycling Women's Team Pursuit,No medal,Cycling,CTR,True,True
+Daria Pikulik,F,Poland,POL,2016,Rio de Janeiro,Cycling,Cycling Women's Omnium,No medal,Cycling,CTR,True,True
+Anna Plichta,F,Poland,POL,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Anna Plichta,F,Poland,POL,2016,Rio de Janeiro,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True,True
+Natalia Rutkowska,F,Poland,POL,2016,Rio de Janeiro,Cycling,Cycling Women's Team Pursuit,No medal,Cycling,CTR,False,True
+Magdalena Sadecka,F,Poland,POL,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Anna Szafraniec,F,Poland,POL,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Maja Woszczowska,F,Poland,POL,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,True
+Maja Woszczowska,F,Poland,POL,2008,Beijing,Cycling,"Cycling Women's Mountainbike, Cross-Country",Silver,Cycling,CTR,True,False
+Maja Woszczowska,F,Poland,POL,2016,Rio de Janeiro,Cycling,"Cycling Women's Mountainbike, Cross-Country",Silver,Cycling,CTR,True,False
+Magorzata Wojtyra,F,Poland,POL,2012,London,Cycling,Cycling Women's Omnium,No medal,Cycling,CTR,False,True
+Magorzata Wysocka,F,Poland,POL,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Marlena Karwacka,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Team Sprint Team,No medal,Women's,CTR,True,True
+Marlena Karwacka,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Sprint,No medal,Women's,CTR,True,True
+Marlena Karwacka,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Keirin,No medal,Women's,CTR,True,True
+Urszula Los,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Team Sprint Team,No medal,Women's,CTR,True,True
+Urszula Los,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Sprint,No medal,Women's,CTR,True,True
+Urszula Los,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Keirin,No medal,Women's,CTR,True,True
+Daria Pikulik,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Omnium,No medal,Women's,CTR,True,False
+Daria Pikulik,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Madison Team,No medal,Women's,CTR,True,False
+Wiktoria Pikulik,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Omnium,No medal,Women's,CTR,True,True
+Wiktoria Pikulik,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Madison Team,No medal,Women's,CTR,True,True
+Nikol Plosaj,F,Poland,POL,2020,Tokyo,Cycling Track,Women's Madison,No medal,Women's,CTR,False,True
+Daria Pikulik,F,Poland,POL,2024,Paris,Cycling Track,Women's Madison,No medal,Women's,CTR,True,False
+Daria Pikulik,F,Poland,POL,2024,Paris,Cycling Track,Women's Omnium,Silver,Women's,CTR,True,False
+Urszula Los,F,Poland,POL,2024,Paris,Cycling Track,Women's Keirin,No medal,Women's,CTR,True,False
+Urszula Los,F,Poland,POL,2024,Paris,Cycling Track,Women's Sprint,No medal,Women's,CTR,True,False
+Urszula Los,F,Poland,POL,2024,Paris,Cycling Track,Women's Team Sprint,No medal,Women's,CTR,True,False
+Marlena Karwacka,F,Poland,POL,2024,Paris,Cycling Track,Women's Keirin,No medal,Women's,CTR,True,False
+Marlena Karwacka,F,Poland,POL,2024,Paris,Cycling Track,Women's Sprint,No medal,Women's,CTR,True,False
+Marlena Karwacka,F,Poland,POL,2024,Paris,Cycling Track,Women's Team Sprint,No medal,Women's,CTR,True,False
+Paulina Petri,F,Poland,POL,2024,Paris,Cycling Track,Women's Team Sprint,No medal,Women's,CTR,False,True
+Nikola Sibiak,F,Poland,POL,2024,Paris,Cycling Track,Women's Keirin,No medal,Women's,CTR,True,True
+Nikola Sibiak,F,Poland,POL,2024,Paris,Cycling Track,Women's Sprint,No medal,Women's,CTR,True,True
+Nikola Sibiak,F,Poland,POL,2024,Paris,Cycling Track,Women's Team Sprint,No medal,Women's,CTR,True,True
+Patrycja Lorkowska,F,Poland,POL,2024,Paris,Cycling Track,Women's Madison,No medal,Women's,CTR,False,True
+Wiktoria Pikulik,F,Poland,POL,2024,Paris,Cycling Track,Women's Madison,No medal,Women's,CTR,True,False
+Wiktoria Pikulik,F,Poland,POL,2024,Paris,Cycling Track,Women's Omnium,No medal,Women's,CTR,True,False

@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jean-Paul Gahimbar,M,Burundi,BDI,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Antoine Gakeme,M,Burundi,BDI,2016,Rio de Janeiro,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Tharcisse Gashaka,M,Burundi,BDI,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Arthmon Hatungimana,M,Burundi,BDI,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Arthmon Hatungimana,M,Burundi,BDI,2000,Sydney,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Arthmon Hatungimana,M,Burundi,BDI,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Olivier Irabaruta,M,Burundi,BDI,2012,London,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Olivier Irabaruta,M,Burundi,BDI,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Olivier Irabaruta,M,Burundi,BDI,2016,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Dieudonn Kwizra,M,Burundi,BDI,1996,Atlanta,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Patrick Ndayisenga,M,Burundi,BDI,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Jean-Patrick Nduwimana,M,Burundi,BDI,2000,Sydney,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Jean-Patrick Nduwimana,M,Burundi,BDI,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Pierre-Clestin Nihorimbere,M,Burundi,BDI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Vnuste Niyongabo,M,Burundi,BDI,1996,Atlanta,Athletics,"Athletics Men's 5,000 metres",Gold,Athletics,ATH,True
-Vnuste Niyongabo,M,Burundi,BDI,2000,Sydney,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Abraham Niyonkuru,M,Burundi,BDI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Alos Nizigama,M,Burundi,BDI,1996,Atlanta,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Alos Nizigama,M,Burundi,BDI,2000,Sydney,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Charles Nkazamyampi,M,Burundi,BDI,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Joachim Nshimirimana,M,Burundi,BDI,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Joachim Nshimirimana,M,Burundi,BDI,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Olivier Irabaruta,M,Burundi,BDI,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,True
-Eric Nzikwinkunda,M,Burundi,BDI,2020,Tokyo,Athletics,Men's 800m,No medal,Men's,ATH,False
-Egide Ntakarutimana,M,Burundi,BDI,2024,Paris,Athletics,Men's 5000m,No medal,Men's,ATH,False
-Rodrigue Kwizera,M,Burundi,BDI,2024,Paris,Athletics,"Men's 10,000m",No medal,Men's,ATH,False
-Celestin Ndikumana,M,Burundi,BDI,2024,Paris,Athletics,"Men's 10,000m",No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jean-Paul Gahimbar,M,Burundi,BDI,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Antoine Gakeme,M,Burundi,BDI,2016,Rio de Janeiro,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Tharcisse Gashaka,M,Burundi,BDI,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Arthmon Hatungimana,M,Burundi,BDI,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Arthmon Hatungimana,M,Burundi,BDI,2000,Sydney,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Arthmon Hatungimana,M,Burundi,BDI,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Olivier Irabaruta,M,Burundi,BDI,2012,London,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Olivier Irabaruta,M,Burundi,BDI,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,False
+Olivier Irabaruta,M,Burundi,BDI,2016,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,False
+Dieudonn Kwizra,M,Burundi,BDI,1996,Atlanta,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Patrick Ndayisenga,M,Burundi,BDI,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Jean-Patrick Nduwimana,M,Burundi,BDI,2000,Sydney,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Jean-Patrick Nduwimana,M,Burundi,BDI,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Pierre-Clestin Nihorimbere,M,Burundi,BDI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Vnuste Niyongabo,M,Burundi,BDI,1996,Atlanta,Athletics,"Athletics Men's 5,000 metres",Gold,Athletics,ATH,True,True
+Vnuste Niyongabo,M,Burundi,BDI,2000,Sydney,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,False
+Abraham Niyonkuru,M,Burundi,BDI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Alos Nizigama,M,Burundi,BDI,1996,Atlanta,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Alos Nizigama,M,Burundi,BDI,2000,Sydney,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,False
+Charles Nkazamyampi,M,Burundi,BDI,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Joachim Nshimirimana,M,Burundi,BDI,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Joachim Nshimirimana,M,Burundi,BDI,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Olivier Irabaruta,M,Burundi,BDI,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,True,False
+Eric Nzikwinkunda,M,Burundi,BDI,2020,Tokyo,Athletics,Men's 800m,No medal,Men's,ATH,False,True
+Egide Ntakarutimana,M,Burundi,BDI,2024,Paris,Athletics,Men's 5000m,No medal,Men's,ATH,False,True
+Rodrigue Kwizera,M,Burundi,BDI,2024,Paris,Athletics,"Men's 10,000m",No medal,Men's,ATH,False,True
+Celestin Ndikumana,M,Burundi,BDI,2024,Paris,Athletics,"Men's 10,000m",No medal,Men's,ATH,False,True

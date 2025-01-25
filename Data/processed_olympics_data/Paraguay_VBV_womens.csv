@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sharon Valiente,F,Paraguay,PAR,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False
-Giuliana Poletti,F,Paraguay,PAR,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sharon Valiente,F,Paraguay,PAR,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False,True
+Giuliana Poletti,F,Paraguay,PAR,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False,True

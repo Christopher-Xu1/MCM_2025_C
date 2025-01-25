@@ -1,30 +1,30 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kathleen Baxter,F,Australia,AUS,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Andrea (-barratt),F,Australia,AUS,1984,Los Angeles,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Andrea (-barratt),F,Australia,AUS,1988,Seoul,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Marion (-gray),F,Australia,AUS,1972,Munich,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Michele Ferguson,F,Australia,AUS,1980,Moskva,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Evelyn Halls,F,Australia,AUS,2000,Sydney,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,True
-Evelyn Halls,F,Australia,AUS,2004,Athina,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,True
-Joanna Halls,F,Australia,AUS,2000,Sydney,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Joanna Halls,F,Australia,AUS,2008,Beijing,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Helen (brookes-),F,Australia,AUS,1956,Melbourne,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Janet (-haswell),F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Janet (-haswell),F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
-Lois (-green),F,Australia,AUS,1956,Melbourne,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Christine Mcdougall,F,Australia,AUS,1972,Munich,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Patricia (-smith),F,Australia,AUS,1952,Helsinki,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Denise (-wild),F,Australia,AUS,1956,Melbourne,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Sarah Osvath,F,Australia,AUS,1996,Atlanta,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,False
-Amber Parkinson,F,Australia,AUS,2008,Beijing,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,False
-Catherine (-onslow),F,Australia,AUS,1952,Helsinki,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Jane Redman,F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Jane Redman,F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
-Helen (-ius),F,Australia,AUS,1976,Montreal,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Helen (-ius),F,Australia,AUS,1980,Moskva,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Helen (-ius),F,Australia,AUS,1984,Los Angeles,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Johanna Winter,F,Australia,AUS,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Johanna Winter,F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Johanna Winter,F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
-Ulrike Winter,F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,False
-Walburga Winter,F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kathleen Baxter,F,Australia,AUS,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Andrea (-barratt),F,Australia,AUS,1984,Los Angeles,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Andrea (-barratt),F,Australia,AUS,1988,Seoul,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,False
+Marion (-gray),F,Australia,AUS,1972,Munich,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Michele Ferguson,F,Australia,AUS,1980,Moskva,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Evelyn Halls,F,Australia,AUS,2000,Sydney,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,True,True
+Evelyn Halls,F,Australia,AUS,2004,Athina,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,True,False
+Joanna Halls,F,Australia,AUS,2000,Sydney,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Joanna Halls,F,Australia,AUS,2008,Beijing,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,False
+Helen (brookes-),F,Australia,AUS,1956,Melbourne,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Janet (-haswell),F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Janet (-haswell),F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True,True
+Lois (-green),F,Australia,AUS,1956,Melbourne,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Christine Mcdougall,F,Australia,AUS,1972,Munich,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Patricia (-smith),F,Australia,AUS,1952,Helsinki,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Denise (-wild),F,Australia,AUS,1956,Melbourne,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Sarah Osvath,F,Australia,AUS,1996,Atlanta,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,False,True
+Amber Parkinson,F,Australia,AUS,2008,Beijing,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,False,True
+Catherine (-onslow),F,Australia,AUS,1952,Helsinki,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Jane Redman,F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Jane Redman,F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True,True
+Helen (-ius),F,Australia,AUS,1976,Montreal,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Helen (-ius),F,Australia,AUS,1980,Moskva,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,False
+Helen (-ius),F,Australia,AUS,1984,Los Angeles,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,False
+Johanna Winter,F,Australia,AUS,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Johanna Winter,F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,False
+Johanna Winter,F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True,False
+Ulrike Winter,F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,False,True
+Walburga Winter,F,Australia,AUS,1964,Tokyo,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zaza Nadiradze,M,Georgia,GEO,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zaza Nadiradze,M,Georgia,GEO,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,Canoeing,CSL,False,True

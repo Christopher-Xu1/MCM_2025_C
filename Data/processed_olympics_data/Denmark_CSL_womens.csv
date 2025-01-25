@@ -1,33 +1,33 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Birgitte (-secher),F,Denmark,DEN,1988,Seoul,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Birgitte (-secher),F,Denmark,DEN,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Birthe (-madsen),F,Denmark,DEN,1964,Tokyo,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Birthe (-madsen),F,Denmark,DEN,1964,Tokyo,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Henriette Hansen,F,Denmark,DEN,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Henriette Hansen,F,Denmark,DEN,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True
-Henriette Hansen,F,Denmark,DEN,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Henriette Hansen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True
-Henriette Hansen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Karen Hoff,F,Denmark,DEN,1948,London,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Gold,Canoeing,CSL,False
-Kaja N'dong),F,Denmark,DEN,1960,Roma,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False
-Emma Jrgensen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Silver,Canoeing,CSL,True
-Emma Jrgensen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Jeanette Knudsen,F,Denmark,DEN,1988,Seoul,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Jeanette Knudsen,F,Denmark,DEN,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Jeanette Knudsen,F,Denmark,DEN,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Yvonne (-hansen),F,Denmark,DEN,1988,Seoul,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Yvonne (-hansen),F,Denmark,DEN,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Yvonne (-hansen),F,Denmark,DEN,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Yvonne (-hansen),F,Denmark,DEN,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Kate Olsen,F,Denmark,DEN,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Kate Olsen,F,Denmark,DEN,1976,Montreal,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Helga (-karlshj),F,Denmark,DEN,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
-Tove (nielsen-),F,Denmark,DEN,1956,Melbourne,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Bronze,Canoeing,CSL,False
-Bodil (thirstedt-),F,Denmark,DEN,1952,Helsinki,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False
-Amalie Thomsen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Amalie Thomsen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Ida Villumsen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Ida Villumsen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Anni (werner-hansen),F,Denmark,DEN,1960,Roma,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Anni (werner-hansen),F,Denmark,DEN,1960,Roma,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Anni (werner-hansen),F,Denmark,DEN,1964,Tokyo,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Birgitte (-secher),F,Denmark,DEN,1988,Seoul,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Birgitte (-secher),F,Denmark,DEN,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Birthe (-madsen),F,Denmark,DEN,1964,Tokyo,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Birthe (-madsen),F,Denmark,DEN,1964,Tokyo,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Henriette Hansen,F,Denmark,DEN,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Henriette Hansen,F,Denmark,DEN,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True,False
+Henriette Hansen,F,Denmark,DEN,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Henriette Hansen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True,False
+Henriette Hansen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,False
+Karen Hoff,F,Denmark,DEN,1948,London,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Gold,Canoeing,CSL,False,True
+Kaja N'dong),F,Denmark,DEN,1960,Roma,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False,True
+Emma Jrgensen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Silver,Canoeing,CSL,True,True
+Emma Jrgensen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Jeanette Knudsen,F,Denmark,DEN,1988,Seoul,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Jeanette Knudsen,F,Denmark,DEN,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Jeanette Knudsen,F,Denmark,DEN,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Yvonne (-hansen),F,Denmark,DEN,1988,Seoul,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Yvonne (-hansen),F,Denmark,DEN,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Yvonne (-hansen),F,Denmark,DEN,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Yvonne (-hansen),F,Denmark,DEN,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Kate Olsen,F,Denmark,DEN,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Kate Olsen,F,Denmark,DEN,1976,Montreal,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Helga (-karlshj),F,Denmark,DEN,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True
+Tove (nielsen-),F,Denmark,DEN,1956,Melbourne,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Bronze,Canoeing,CSL,False,True
+Bodil (thirstedt-),F,Denmark,DEN,1952,Helsinki,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False,True
+Amalie Thomsen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Amalie Thomsen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Ida Villumsen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Ida Villumsen,F,Denmark,DEN,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Anni (werner-hansen),F,Denmark,DEN,1960,Roma,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Anni (werner-hansen),F,Denmark,DEN,1960,Roma,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Anni (werner-hansen),F,Denmark,DEN,1964,Tokyo,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False

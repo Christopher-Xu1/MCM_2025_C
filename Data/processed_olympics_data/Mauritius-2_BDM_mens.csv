@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Stephan Beeharry,M,Mauritius-2,MRI,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Stephan Beeharry,M,Mauritius-2,MRI,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True

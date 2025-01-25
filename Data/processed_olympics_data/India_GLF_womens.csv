@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aditi Ashok,F,India,IND,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,True
-Aditi Ashok,F,India,IND,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
-Diksha Dagar,F,India,IND,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
-Aditi Ashok,F,India,IND,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
-Diksha Dagar,F,India,IND,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aditi Ashok,F,India,IND,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,True,True
+Aditi Ashok,F,India,IND,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,False
+Diksha Dagar,F,India,IND,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,True
+Aditi Ashok,F,India,IND,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,False
+Diksha Dagar,F,India,IND,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,False

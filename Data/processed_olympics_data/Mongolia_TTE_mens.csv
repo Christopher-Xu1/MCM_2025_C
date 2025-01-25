@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lkhagvasuren Enkhbat,M,Mongolia,MGL,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lkhagvasuren Enkhbat,M,Mongolia,MGL,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True

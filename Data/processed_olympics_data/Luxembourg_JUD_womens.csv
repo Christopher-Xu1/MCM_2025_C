@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marie Muller,F,Luxembourg,LUX,2008,Beijing,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Marie Muller,F,Luxembourg,LUX,2012,London,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marie Muller,F,Luxembourg,LUX,2008,Beijing,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,True
+Marie Muller,F,Luxembourg,LUX,2012,London,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,False

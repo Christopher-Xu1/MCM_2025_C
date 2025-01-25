@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aranka Binder,F,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",Bronze,Shooting,SHO,False
-Aleksandra Ivoev,F,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,False
-Lidija Mihajlovi,F,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Lidija Mihajlovi,F,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Eszter Poljak,F,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Jasna (brajkovi-),F,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",Silver,Shooting,SHO,True
-Jasna (brajkovi-),F,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aranka Binder,F,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",Bronze,Shooting,SHO,False,True
+Aleksandra Ivoev,F,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,False,True
+Lidija Mihajlovi,F,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Lidija Mihajlovi,F,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Eszter Poljak,F,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Jasna (brajkovi-),F,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",Silver,Shooting,SHO,True,True
+Jasna (brajkovi-),F,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True

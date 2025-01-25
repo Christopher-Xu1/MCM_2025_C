@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Duygu Aynac,F,Turkey,TUR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Aylin Dadelen,F,Turkey,TUR,2004,Athina,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True
-Aylin Dadelen,F,Turkey,TUR,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True
-Assiya Pek,F,Turkey,TUR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False
-Nurdan Karagz,F,Turkey,TUR,2012,London,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Mehtap Kurnaz,F,Turkey,TUR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
-Sibel Zkan,F,Turkey,TUR,2008,Beijing,Weightlifting,Weightlifting Women's Flyweight,Silver,Weightlifting,WLF,False
-Sibel Imek,F,Turkey,TUR,2004,Athina,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Sibel Imek,F,Turkey,TUR,2012,London,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True
-Nurcan Taylan,F,Turkey,TUR,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,Gold,Weightlifting,WLF,True
-Nurcan Taylan,F,Turkey,TUR,2008,Beijing,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True
-Bediha Tunada,F,Turkey,TUR,2012,London,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Nuray Levent,F,Turkey,TUR,2020,Tokyo,Weightlifting,Women's 64kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Duygu Aynac,F,Turkey,TUR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Aylin Dadelen,F,Turkey,TUR,2004,Athina,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True,True
+Aylin Dadelen,F,Turkey,TUR,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True,False
+Assiya Pek,F,Turkey,TUR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False,True
+Nurdan Karagz,F,Turkey,TUR,2012,London,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Mehtap Kurnaz,F,Turkey,TUR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True
+Sibel Zkan,F,Turkey,TUR,2008,Beijing,Weightlifting,Weightlifting Women's Flyweight,Silver,Weightlifting,WLF,False,True
+Sibel Imek,F,Turkey,TUR,2004,Athina,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,True,True
+Sibel Imek,F,Turkey,TUR,2012,London,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True,False
+Nurcan Taylan,F,Turkey,TUR,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,Gold,Weightlifting,WLF,True,True
+Nurcan Taylan,F,Turkey,TUR,2008,Beijing,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True,False
+Bediha Tunada,F,Turkey,TUR,2012,London,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Nuray Levent,F,Turkey,TUR,2020,Tokyo,Weightlifting,Women's 64kg,No medal,Women's,WLF,False,True

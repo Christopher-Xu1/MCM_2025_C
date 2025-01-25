@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ellen Hight,F,Zambia,ZAM,2000,Sydney,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Ellen Hight,F,Zambia,ZAM,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Jade Howard,F,Zambia,ZAM,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Jade Howard,F,Zambia,ZAM,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Jakie Wellman,F,Zambia,ZAM,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Tilka Paljk,F,Zambia,ZAM,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
-Mia Phiri,F,Zambia,ZAM,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ellen Hight,F,Zambia,ZAM,2000,Sydney,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Ellen Hight,F,Zambia,ZAM,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Jade Howard,F,Zambia,ZAM,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Jade Howard,F,Zambia,ZAM,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Jakie Wellman,F,Zambia,ZAM,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Tilka Paljk,F,Zambia,ZAM,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True
+Mia Phiri,F,Zambia,ZAM,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True

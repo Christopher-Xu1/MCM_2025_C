@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chiang Chien-ju,F,Chinese Taipei,TPE,2004,Athina,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False
-Huang Yi-ting,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False
-Yi-ting Huang,F,Chinese Taipei,TPE,2020,Tokyo,Rowing,Women's Single Sculls,No medal,Women's,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chiang Chien-ju,F,Chinese Taipei,TPE,2004,Athina,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False,True
+Huang Yi-ting,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False,True
+Yi-ting Huang,F,Chinese Taipei,TPE,2020,Tokyo,Rowing,Women's Single Sculls,No medal,Women's,ROW,False,True

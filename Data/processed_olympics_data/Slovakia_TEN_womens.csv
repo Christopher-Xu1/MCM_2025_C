@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Karina (-clekov),F,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Karina (-clekov),F,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Karina (-clekov),F,Slovakia,SVK,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Karina (-clekov),F,Slovakia,SVK,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Daniela Hantuchov,F,Slovakia,SVK,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Daniela Hantuchov,F,Slovakia,SVK,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Daniela Hantuchov,F,Slovakia,SVK,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Daniela Hantuchov,F,Slovakia,SVK,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Daniela Hantuchov,F,Slovakia,SVK,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Janette Husrov,F,Slovakia,SVK,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Janette Husrov,F,Slovakia,SVK,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-ubomra Kurhajcov,F,Slovakia,SVK,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Henrieta Nagyov,F,Slovakia,SVK,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Dominika Cibulkov,F,Slovakia,SVK,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Dominika Cibulkov,F,Slovakia,SVK,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Dominika Cibulkov,F,Slovakia,SVK,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Anna Schmiedlov,F,Slovakia,SVK,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Katarna Studenkov,F,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Martina Such,F,Slovakia,SVK,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Radomra Zrubkov,F,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Radomra Zrubkov,F,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Karolina Schmiedlova,F,Slovakia,SVK,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Karina (-clekov),F,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Karina (-clekov),F,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Karina (-clekov),F,Slovakia,SVK,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Karina (-clekov),F,Slovakia,SVK,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Daniela Hantuchov,F,Slovakia,SVK,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Daniela Hantuchov,F,Slovakia,SVK,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Daniela Hantuchov,F,Slovakia,SVK,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Daniela Hantuchov,F,Slovakia,SVK,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Daniela Hantuchov,F,Slovakia,SVK,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Janette Husrov,F,Slovakia,SVK,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Janette Husrov,F,Slovakia,SVK,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+ubomra Kurhajcov,F,Slovakia,SVK,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Henrieta Nagyov,F,Slovakia,SVK,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Dominika Cibulkov,F,Slovakia,SVK,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Dominika Cibulkov,F,Slovakia,SVK,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Dominika Cibulkov,F,Slovakia,SVK,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Anna Schmiedlov,F,Slovakia,SVK,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Katarna Studenkov,F,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Martina Such,F,Slovakia,SVK,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Radomra Zrubkov,F,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Radomra Zrubkov,F,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Karolina Schmiedlova,F,Slovakia,SVK,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,False,True

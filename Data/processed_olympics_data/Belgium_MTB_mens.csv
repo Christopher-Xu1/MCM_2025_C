@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jens Schuermans,M,Belgium,BEL,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,True
-de Pierre,M,Belgium,BEL,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False
-Jens Schuermans,M,Belgium,BEL,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jens Schuermans,M,Belgium,BEL,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,True,True
+de Pierre,M,Belgium,BEL,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False,True
+Jens Schuermans,M,Belgium,BEL,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,True,False

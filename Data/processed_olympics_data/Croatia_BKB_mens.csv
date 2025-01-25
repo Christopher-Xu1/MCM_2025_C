@@ -1,47 +1,47 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vladan Alanovi,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True
-Vladan Alanovi,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Franjo Arapovi,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False
-Luka Babi,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Marko Bani,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Stanko Bara,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Miro Bilan,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Bojan Bogdanovi,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Danko Cvjetianin,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False
-Alan Gregov,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False
-Mario Hezonja,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Arijan Komazec,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True
-Arijan Komazec,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Toni Kuko,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True
-Toni Kuko,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Davor Kus,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Kreimir Lonar,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Davor Marceli,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Veljko Mri,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Damir Mulaomerovi,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Aramis Nagli,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False
-Sandro Nicevi,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Velimir Perasovi,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True
-Velimir Perasovi,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Draen Petrovi,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False
-Darko Planini,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Zoran Planini,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Marko Popovi,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Nikola Prkain,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Dino Raa,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True
-Dino Raa,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Slaven Rimac,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Marin Rozi,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Damjan Rude,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-eljko Aki,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Dario Ari,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Krunoslav Simon,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Rok Stipevi,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-an Tabak,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True
-an Tabak,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Marko Tomas,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Roko-Leni Uki,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Roko-Leni Uki,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Josip Vrankovi,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Stojan Vrankovi,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True
-Stojan Vrankovi,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vladan Alanovi,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True,True
+Vladan Alanovi,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Franjo Arapovi,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False,True
+Luka Babi,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Marko Bani,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Stanko Bara,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Miro Bilan,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Bojan Bogdanovi,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Danko Cvjetianin,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False,True
+Alan Gregov,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False,True
+Mario Hezonja,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Arijan Komazec,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True,True
+Arijan Komazec,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Toni Kuko,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True,True
+Toni Kuko,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Davor Kus,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Kreimir Lonar,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Davor Marceli,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Veljko Mri,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Damir Mulaomerovi,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Aramis Nagli,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False,True
+Sandro Nicevi,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Velimir Perasovi,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True,True
+Velimir Perasovi,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Draen Petrovi,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False,True
+Darko Planini,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Zoran Planini,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Marko Popovi,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Nikola Prkain,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Dino Raa,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True,True
+Dino Raa,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Slaven Rimac,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Marin Rozi,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Damjan Rude,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+eljko Aki,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Dario Ari,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Krunoslav Simon,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Rok Stipevi,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+an Tabak,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True,True
+an Tabak,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Marko Tomas,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Roko-Leni Uki,M,Croatia,CRO,2008,Beijing,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Roko-Leni Uki,M,Croatia,CRO,2016,Rio de Janeiro,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Josip Vrankovi,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Stojan Vrankovi,M,Croatia,CRO,1992,Barcelona,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True,True
+Stojan Vrankovi,M,Croatia,CRO,1996,Atlanta,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fritz Eccard,M,Unknown,UNK,1912,Stockholm,Art Competitions,Art Competitions Mixed Architecture,No medal,Art,ART,False
-A. Laffen,M,Unknown,UNK,1912,Stockholm,Art Competitions,Art Competitions Mixed Architecture,No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fritz Eccard,M,Unknown,UNK,1912,Stockholm,Art Competitions,Art Competitions Mixed Architecture,No medal,Art,ART,False,True
+A. Laffen,M,Unknown,UNK,1912,Stockholm,Art Competitions,Art Competitions Mixed Architecture,No medal,Art,ART,False,True

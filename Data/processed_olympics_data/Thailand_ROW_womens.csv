@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Phuttharaksa Nikree,F,Thailand,THA,2000,Sydney,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Phuttharaksa Nikree,F,Thailand,THA,2004,Athina,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Phuttharaksa Nikree,F,Thailand,THA,2012,London,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Phuttharaksa Nikree,F,Thailand,THA,2016,Rio de Janeiro,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Phuttharaksa Nikree,F,Thailand,THA,2000,Sydney,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,True
+Phuttharaksa Nikree,F,Thailand,THA,2004,Athina,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,False
+Phuttharaksa Nikree,F,Thailand,THA,2012,London,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,False
+Phuttharaksa Nikree,F,Thailand,THA,2016,Rio de Janeiro,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,False

@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hamdan Bayusuf,M,Kenya,KEN,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-David Harvey,M,Kenya,KEN,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-David Harvey,M,Kenya,KEN,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-David Harvey,M,Kenya,KEN,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Jason Dunford,M,Kenya,KEN,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Jason Dunford,M,Kenya,KEN,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Jason Dunford,M,Kenya,KEN,2012,London,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Jin-Woo Kim,M,Kenya,KEN,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Amar Shah,M,Kenya,KEN,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Danilo Rosafio,M,Kenya,KEN,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
-Bwana Mohamed,M,Kenya,KEN,2024,Paris,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hamdan Bayusuf,M,Kenya,KEN,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+David Harvey,M,Kenya,KEN,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+David Harvey,M,Kenya,KEN,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+David Harvey,M,Kenya,KEN,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Jason Dunford,M,Kenya,KEN,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Jason Dunford,M,Kenya,KEN,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Jason Dunford,M,Kenya,KEN,2012,London,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Jin-Woo Kim,M,Kenya,KEN,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Amar Shah,M,Kenya,KEN,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Danilo Rosafio,M,Kenya,KEN,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True
+Bwana Mohamed,M,Kenya,KEN,2024,Paris,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,False,True

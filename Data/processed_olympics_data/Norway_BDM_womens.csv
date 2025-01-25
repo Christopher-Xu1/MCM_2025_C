@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sara Kvrn,F,Norway,NOR,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sara Kvrn,F,Norway,NOR,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pablo Debran,M,Switzerland-2,SUI,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Hans Syz,M,Switzerland-2,SUI,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pablo Debran,M,Switzerland-2,SUI,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Hans Syz,M,Switzerland-2,SUI,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

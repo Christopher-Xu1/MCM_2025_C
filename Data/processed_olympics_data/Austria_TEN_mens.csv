@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alexander Antonitsch,M,Austria,AUT,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Alexander Antonitsch,M,Austria,AUT,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Rolf Kinzl,M,Austria,AUT,1908,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Julian Knowle,M,Austria,AUT,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Oliver Marach,M,Austria,AUT,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Jrgen Melzer,M,Austria,AUT,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Jrgen Melzer,M,Austria,AUT,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Jrgen Melzer,M,Austria,AUT,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Jrgen Melzer,M,Austria,AUT,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Jrgen Melzer,M,Austria,AUT,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Thomas Muster,M,Austria,AUT,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Alexander Peya,M,Austria,AUT,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Alexander Peya,M,Austria,AUT,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Fritz Piepes,M,Austria,AUT,1908,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Fritz Piepes,M,Austria,AUT,1908,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Fritz Piepes,M,Austria,AUT,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Fritz Piepes,M,Austria,AUT,1912,Stockholm,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,True
-Horst Skoff,M,Austria,AUT,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Horst Skoff,M,Austria,AUT,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Horst Skoff,M,Austria,AUT,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Ludwig Salm-hoogstraeten,M,Austria,AUT,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Arthur Zborzil,M,Austria,AUT,1908,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Arthur Zborzil,M,Austria,AUT,1908,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Arthur Zborzil,M,Austria,AUT,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Arthur Zborzil,M,Austria,AUT,1912,Stockholm,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,True
-Oliver Marach,M,Austria,AUT,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
-Philipp Oswald,M,Austria,AUT,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,False
-Sebastian Ofner,M,Austria,AUT,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alexander Antonitsch,M,Austria,AUT,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Alexander Antonitsch,M,Austria,AUT,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Rolf Kinzl,M,Austria,AUT,1908,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Julian Knowle,M,Austria,AUT,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Oliver Marach,M,Austria,AUT,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Jrgen Melzer,M,Austria,AUT,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Jrgen Melzer,M,Austria,AUT,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Jrgen Melzer,M,Austria,AUT,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Jrgen Melzer,M,Austria,AUT,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Jrgen Melzer,M,Austria,AUT,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Thomas Muster,M,Austria,AUT,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Alexander Peya,M,Austria,AUT,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Alexander Peya,M,Austria,AUT,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Fritz Piepes,M,Austria,AUT,1908,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Fritz Piepes,M,Austria,AUT,1908,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Fritz Piepes,M,Austria,AUT,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Fritz Piepes,M,Austria,AUT,1912,Stockholm,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,True,False
+Horst Skoff,M,Austria,AUT,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Horst Skoff,M,Austria,AUT,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Horst Skoff,M,Austria,AUT,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Ludwig Salm-hoogstraeten,M,Austria,AUT,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Arthur Zborzil,M,Austria,AUT,1908,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Arthur Zborzil,M,Austria,AUT,1908,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Arthur Zborzil,M,Austria,AUT,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Arthur Zborzil,M,Austria,AUT,1912,Stockholm,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,True,False
+Oliver Marach,M,Austria,AUT,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True,False
+Philipp Oswald,M,Austria,AUT,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,False,True
+Sebastian Ofner,M,Austria,AUT,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,False,True

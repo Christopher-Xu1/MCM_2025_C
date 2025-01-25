@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sharon Sierra,F,Honduras,HON,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Ana Pineda,F,Honduras,HON,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Ana Pineda,F,Honduras,HON,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Ana Pineda,F,Honduras,HON,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Ana Pineda,F,Honduras,HON,1988,Seoul,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Ana Pineda,F,Honduras,HON,1988,Seoul,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Ana Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Ana Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Ana Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Ana Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Ana Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Ana Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Claudia Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Claudia Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Claudia Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Claudia Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Claudia Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Claudia Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Anastasia Galindo,F,Honduras,HON,2004,Athina,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Isabel (-roldan),F,Honduras,HON,1984,Los Angeles,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Isabel (-roldan),F,Honduras,HON,1984,Los Angeles,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Mara (-krogh),F,Honduras,HON,1984,Los Angeles,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Mara (-krogh),F,Honduras,HON,1984,Los Angeles,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Sara Lizano,F,Honduras,HON,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False
-Pamela Vsquez,F,Honduras,HON,2000,Sydney,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False
-Karen Muchnik,F,Honduras,HON,2012,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Julimar Avila,F,Honduras,HON,2020,Tokyo,Swimming,Women's 200m Butterfly,No medal,Women's,SWM,True
-Julimar Avila,F,Honduras,HON,2024,Paris,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sharon Sierra,F,Honduras,HON,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Ana Pineda,F,Honduras,HON,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Ana Pineda,F,Honduras,HON,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Ana Pineda,F,Honduras,HON,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Ana Pineda,F,Honduras,HON,1988,Seoul,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Ana Pineda,F,Honduras,HON,1988,Seoul,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Ana Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Ana Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Ana Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Ana Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,False
+Ana Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Ana Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Claudia Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Claudia Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Claudia Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Claudia Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Claudia Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Claudia Pineda,F,Honduras,HON,1992,Barcelona,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Anastasia Galindo,F,Honduras,HON,2004,Athina,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Isabel (-roldan),F,Honduras,HON,1984,Los Angeles,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Isabel (-roldan),F,Honduras,HON,1984,Los Angeles,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Mara (-krogh),F,Honduras,HON,1984,Los Angeles,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Mara (-krogh),F,Honduras,HON,1984,Los Angeles,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Sara Lizano,F,Honduras,HON,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Pamela Vsquez,F,Honduras,HON,2000,Sydney,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Karen Muchnik,F,Honduras,HON,2012,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Julimar Avila,F,Honduras,HON,2020,Tokyo,Swimming,Women's 200m Butterfly,No medal,Women's,SWM,True,True
+Julimar Avila,F,Honduras,HON,2024,Paris,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True,False

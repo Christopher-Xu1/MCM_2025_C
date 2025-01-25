@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elsy Blom-wirz,F,Belgium,BEL,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False
-Suzanne Christophe,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False
-Suzanne Daneau,F,Belgium,BEL,1924,Paris,Art Competitions,Art Competitions Mixed Music,No medal,Art,ART,False
-Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Hlne Grard,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Hlne Grard,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Hlne Grard,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Hlne Grard,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Hlne Grard,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Hlne Grard,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Willia Menzel,F,Belgium,BEL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,False
-Elisabeth Muus,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,False
-Suzanne (-stevenson),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Suzanne (-stevenson),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Suzanne (-stevenson),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Suzanne (-stevenson),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Suzanne (-stevenson),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Suzanne (-stevenson),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Suzanne (-stevenson),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Maria Nuffel,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elsy Blom-wirz,F,Belgium,BEL,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False,True
+Suzanne Christophe,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False,True
+Suzanne Daneau,F,Belgium,BEL,1924,Paris,Art Competitions,Art Competitions Mixed Music,No medal,Art,ART,False,True
+Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Nelly (-acket),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Hlne Grard,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Hlne Grard,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Hlne Grard,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Hlne Grard,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Hlne Grard,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Hlne Grard,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Willia Menzel,F,Belgium,BEL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,False,True
+Elisabeth Muus,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,False,True
+Suzanne (-stevenson),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Suzanne (-stevenson),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Suzanne (-stevenson),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Suzanne (-stevenson),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Suzanne (-stevenson),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Suzanne (-stevenson),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Suzanne (-stevenson),F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Maria Nuffel,F,Belgium,BEL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,False,True

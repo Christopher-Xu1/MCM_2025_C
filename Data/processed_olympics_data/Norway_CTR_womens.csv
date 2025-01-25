@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ingunn Bollerud,F,Norway,NOR,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Ingunn Bollerud,F,Norway,NOR,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Ingunn Bollerud,F,Norway,NOR,2000,Sydney,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Lene Byberg,F,Norway,NOR,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Lene Byberg,F,Norway,NOR,2008,Beijing,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Gunn Dahle-flesj,F,Norway,NOR,1996,Atlanta,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Gunn Dahle-flesj,F,Norway,NOR,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",Gold,Cycling,CTR,True
-Gunn Dahle-flesj,F,Norway,NOR,2008,Beijing,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Gunn Dahle-flesj,F,Norway,NOR,2012,London,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Gunn Dahle-flesj,F,Norway,NOR,2016,Rio de Janeiro,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Astrid (-tangen),F,Norway,NOR,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Solrun (-risnes),F,Norway,NOR,2000,Sydney,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Solrun (-risnes),F,Norway,NOR,2000,Sydney,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True
-May (vland-),F,Norway,NOR,1996,Atlanta,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,Cycling,CTR,True
-May (vland-),F,Norway,NOR,1996,Atlanta,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True
-Vita Heine,F,Norway,NOR,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Vita Heine,F,Norway,NOR,2016,Rio de Janeiro,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True
-Ragnhild (haug-),F,Norway,NOR,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Ragnhild (haug-),F,Norway,NOR,2000,Sydney,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Unni (-fjeldstad),F,Norway,NOR,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Unni (-fjeldstad),F,Norway,NOR,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Emilie Moberg,F,Norway,NOR,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Gunhild Rn,F,Norway,NOR,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Nina Sbye,F,Norway,NOR,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Hege (-ekren),F,Norway,NOR,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Linn Torp,F,Norway,NOR,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Anita Vries),F,Norway,NOR,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Anita Vries),F,Norway,NOR,2004,Athina,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True
-Anita Vries),F,Norway,NOR,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Grethe Valvik-valen,F,Norway,NOR,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Grethe Valvik-valen,F,Norway,NOR,2000,Sydney,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Yvonne Stenberg,F,Norway,NOR,2020,Tokyo,Cycling Track,Women's Omnium,No medal,Women's,CTR,False
-Anita Stenberg,F,Norway,NOR,2024,Paris,Cycling Track,Women's Omnium,No medal,Women's,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ingunn Bollerud,F,Norway,NOR,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Ingunn Bollerud,F,Norway,NOR,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False
+Ingunn Bollerud,F,Norway,NOR,2000,Sydney,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False
+Lene Byberg,F,Norway,NOR,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Lene Byberg,F,Norway,NOR,2008,Beijing,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,False
+Gunn Dahle-flesj,F,Norway,NOR,1996,Atlanta,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,True
+Gunn Dahle-flesj,F,Norway,NOR,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",Gold,Cycling,CTR,True,False
+Gunn Dahle-flesj,F,Norway,NOR,2008,Beijing,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,False
+Gunn Dahle-flesj,F,Norway,NOR,2012,London,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,False
+Gunn Dahle-flesj,F,Norway,NOR,2016,Rio de Janeiro,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,False
+Astrid (-tangen),F,Norway,NOR,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Solrun (-risnes),F,Norway,NOR,2000,Sydney,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Solrun (-risnes),F,Norway,NOR,2000,Sydney,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True,True
+May (vland-),F,Norway,NOR,1996,Atlanta,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,Cycling,CTR,True,True
+May (vland-),F,Norway,NOR,1996,Atlanta,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True,True
+Vita Heine,F,Norway,NOR,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Vita Heine,F,Norway,NOR,2016,Rio de Janeiro,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True,True
+Ragnhild (haug-),F,Norway,NOR,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Ragnhild (haug-),F,Norway,NOR,2000,Sydney,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,False
+Unni (-fjeldstad),F,Norway,NOR,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Unni (-fjeldstad),F,Norway,NOR,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False
+Emilie Moberg,F,Norway,NOR,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Gunhild Rn,F,Norway,NOR,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Nina Sbye,F,Norway,NOR,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Hege (-ekren),F,Norway,NOR,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Linn Torp,F,Norway,NOR,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Anita Vries),F,Norway,NOR,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Anita Vries),F,Norway,NOR,2004,Athina,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True,True
+Anita Vries),F,Norway,NOR,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False
+Grethe Valvik-valen,F,Norway,NOR,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Grethe Valvik-valen,F,Norway,NOR,2000,Sydney,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False
+Yvonne Stenberg,F,Norway,NOR,2020,Tokyo,Cycling Track,Women's Omnium,No medal,Women's,CTR,False,True
+Anita Stenberg,F,Norway,NOR,2024,Paris,Cycling Track,Women's Omnium,No medal,Women's,CTR,False,True

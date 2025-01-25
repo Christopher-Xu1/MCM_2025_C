@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Benjamin Arajo,M,Portugal,POR,1928,Amsterdam,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Lus Caldas,M,Portugal,POR,1960,Roma,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False
-Leonel Duarte,M,Portugal,POR,1968,Mexico City,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Leonel Duarte,M,Portugal,POR,1972,Munich,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Leonel Duarte,M,Portugal,POR,1976,Montreal,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Antnio Galantinho,M,Portugal,POR,1968,Mexico City,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False
-Orlando Gonalves,M,Portugal,POR,1960,Roma,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True
-Orlando Gonalves,M,Portugal,POR,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True
-Jos Gregrio,M,Portugal,POR,1960,Roma,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Lus Grilo,M,Portugal,POR,1968,Mexico City,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True
-Lus Grilo,M,Portugal,POR,1972,Munich,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True
-Lus Grilo,M,Portugal,POR,1976,Montreal,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True
-David Maia,M,Portugal,POR,1996,Atlanta,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,False
-Jos Marques,M,Portugal,POR,1988,Seoul,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,False
-Paulo Martins,M,Portugal,POR,1992,Barcelona,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False
-Antnio Morais,M,Portugal,POR,1968,Mexico City,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Hugo Passos,M,Portugal,POR,2004,Athina,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False
-Antnio Pereira,M,Portugal,POR,1912,Stockholm,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Joaquim Vieira,M,Portugal,POR,1976,Montreal,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Joaquim Vital,M,Portugal,POR,1912,Stockholm,Wrestling,"Wrestling Men's Middleweight A, Greco-Roman",No medal,Wrestling,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Benjamin Arajo,M,Portugal,POR,1928,Amsterdam,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Lus Caldas,M,Portugal,POR,1960,Roma,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Leonel Duarte,M,Portugal,POR,1968,Mexico City,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Leonel Duarte,M,Portugal,POR,1972,Munich,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Leonel Duarte,M,Portugal,POR,1976,Montreal,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Antnio Galantinho,M,Portugal,POR,1968,Mexico City,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Orlando Gonalves,M,Portugal,POR,1960,Roma,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Orlando Gonalves,M,Portugal,POR,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True,False
+Jos Gregrio,M,Portugal,POR,1960,Roma,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Lus Grilo,M,Portugal,POR,1968,Mexico City,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Lus Grilo,M,Portugal,POR,1972,Munich,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Lus Grilo,M,Portugal,POR,1976,Montreal,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+David Maia,M,Portugal,POR,1996,Atlanta,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Jos Marques,M,Portugal,POR,1988,Seoul,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Paulo Martins,M,Portugal,POR,1992,Barcelona,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Antnio Morais,M,Portugal,POR,1968,Mexico City,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Hugo Passos,M,Portugal,POR,2004,Athina,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Antnio Pereira,M,Portugal,POR,1912,Stockholm,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Joaquim Vieira,M,Portugal,POR,1976,Montreal,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Joaquim Vital,M,Portugal,POR,1912,Stockholm,Wrestling,"Wrestling Men's Middleweight A, Greco-Roman",No medal,Wrestling,WRF,False,True

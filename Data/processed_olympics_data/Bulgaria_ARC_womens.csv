@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tsvetanka Stoycheva,F,Bulgaria,BUL,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tsvetanka Stoycheva,F,Bulgaria,BUL,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True

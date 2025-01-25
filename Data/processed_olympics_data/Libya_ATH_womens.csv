@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ghada Ali,F,Libya,LBA,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Ruwida El-hubti,F,Libya,LBA,2004,Athina,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Abdusalam Gezah,F,Libya,LBA,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Hadel Aboud,F,Libya,LBA,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ghada Ali,F,Libya,LBA,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Ruwida El-hubti,F,Libya,LBA,2004,Athina,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Abdusalam Gezah,F,Libya,LBA,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Hadel Aboud,F,Libya,LBA,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,False,True

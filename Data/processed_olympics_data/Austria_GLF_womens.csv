@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Christine Wolf,F,Austria,AUT,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,True
-Christine Wolf,F,Austria,AUT,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
-Sarah Schober,F,Austria,AUT,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
-Emma Spitz,F,Austria,AUT,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Christine Wolf,F,Austria,AUT,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,True,True
+Christine Wolf,F,Austria,AUT,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,False
+Sarah Schober,F,Austria,AUT,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True
+Emma Spitz,F,Austria,AUT,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True

@@ -1,31 +1,31 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Shaimaa Abdel-latif-hashad,F,Egypt,EGY,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Shaimaa Abdel-latif-hashad,F,Egypt,EGY,2008,Beijing,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Shaimaa Abdel-latif-hashad,F,Egypt,EGY,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Nourhan Amer,F,Egypt,EGY,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Mona El-hawary,F,Egypt,EGY,2008,Beijing,Shooting,Shooting Women's Skeet,No medal,Shooting,SHO,True
-Mona El-hawary,F,Egypt,EGY,2012,London,Shooting,Shooting Women's Skeet,No medal,Shooting,SHO,True
-Afaf El-hodhod,F,Egypt,EGY,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Afaf El-hodhod,F,Egypt,EGY,2016,Rio de Janeiro,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Hebatallah El-wazan,F,Egypt,EGY,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Yasmine Helmi,F,Egypt,EGY,2000,Sydney,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Dina Hosny,F,Egypt,EGY,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Hadir Mekhimar,F,Egypt,EGY,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Marwa Sultan,F,Egypt,EGY,2000,Sydney,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Radwa Abdel,F,Egypt,EGY,2020,Tokyo,Shooting,10m Air Pistol Women,No medal,10m,SHO,True
-Radwa Abdel,F,Egypt,EGY,2020,Tokyo,Shooting,10m Air Pistol Mixed Team,No medal,10m,SHO,True
-Maggy Ashmawy,F,Egypt,EGY,2020,Tokyo,Shooting,Trap Women,No medal,Trap,SHO,True
-Maggy Ashmawy,F,Egypt,EGY,2020,Tokyo,Shooting,Trap Mixed Team,No medal,Trap,SHO,True
-Hala Elgohari,F,Egypt,EGY,2020,Tokyo,Shooting,10m Air Pistol Women,No medal,10m,SHO,True
-Alzahraa Shaban,F,Egypt,EGY,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,True
-Alzahraa Shaban,F,Egypt,EGY,2020,Tokyo,Shooting,50m Rifle 3 Positions Women,No medal,50m,SHO,True
-Alzahraa Shaban,F,Egypt,EGY,2020,Tokyo,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True
-Remas Khalil,F,Egypt,EGY,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,True
-Remas Khalil,F,Egypt,EGY,2024,Paris,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True
-Hala Elgohari,F,Egypt,EGY,2024,Paris,Shooting,10m Air Pistol Women,No medal,10m,SHO,True
-Amira Aboushokka,F,Egypt,EGY,2024,Paris,Shooting,Skeet Women,No medal,Skeet,SHO,False
-Abbas Mohammed,F,Egypt,EGY,2024,Paris,Shooting,10m Air Pistol Women,No medal,10m,SHO,True
-Abbas Mohammed,F,Egypt,EGY,2024,Paris,Shooting,25m Pistol Women,No medal,25m,SHO,True
-Magdy Elsayed,F,Egypt,EGY,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,True
-Magdy Elsayed,F,Egypt,EGY,2024,Paris,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True
-Maggy Ashmawy,F,Egypt,EGY,2024,Paris,Shooting,Trap Women,No medal,Trap,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Shaimaa Abdel-latif-hashad,F,Egypt,EGY,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Shaimaa Abdel-latif-hashad,F,Egypt,EGY,2008,Beijing,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Shaimaa Abdel-latif-hashad,F,Egypt,EGY,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Nourhan Amer,F,Egypt,EGY,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Mona El-hawary,F,Egypt,EGY,2008,Beijing,Shooting,Shooting Women's Skeet,No medal,Shooting,SHO,True,True
+Mona El-hawary,F,Egypt,EGY,2012,London,Shooting,Shooting Women's Skeet,No medal,Shooting,SHO,True,False
+Afaf El-hodhod,F,Egypt,EGY,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Afaf El-hodhod,F,Egypt,EGY,2016,Rio de Janeiro,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Hebatallah El-wazan,F,Egypt,EGY,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Yasmine Helmi,F,Egypt,EGY,2000,Sydney,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Dina Hosny,F,Egypt,EGY,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Hadir Mekhimar,F,Egypt,EGY,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Marwa Sultan,F,Egypt,EGY,2000,Sydney,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Radwa Abdel,F,Egypt,EGY,2020,Tokyo,Shooting,10m Air Pistol Women,No medal,10m,SHO,True,True
+Radwa Abdel,F,Egypt,EGY,2020,Tokyo,Shooting,10m Air Pistol Mixed Team,No medal,10m,SHO,True,True
+Maggy Ashmawy,F,Egypt,EGY,2020,Tokyo,Shooting,Trap Women,No medal,Trap,SHO,True,True
+Maggy Ashmawy,F,Egypt,EGY,2020,Tokyo,Shooting,Trap Mixed Team,No medal,Trap,SHO,True,True
+Hala Elgohari,F,Egypt,EGY,2020,Tokyo,Shooting,10m Air Pistol Women,No medal,10m,SHO,True,True
+Alzahraa Shaban,F,Egypt,EGY,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,True,True
+Alzahraa Shaban,F,Egypt,EGY,2020,Tokyo,Shooting,50m Rifle 3 Positions Women,No medal,50m,SHO,True,True
+Alzahraa Shaban,F,Egypt,EGY,2020,Tokyo,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True,True
+Remas Khalil,F,Egypt,EGY,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,True,True
+Remas Khalil,F,Egypt,EGY,2024,Paris,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True,True
+Hala Elgohari,F,Egypt,EGY,2024,Paris,Shooting,10m Air Pistol Women,No medal,10m,SHO,True,False
+Amira Aboushokka,F,Egypt,EGY,2024,Paris,Shooting,Skeet Women,No medal,Skeet,SHO,False,True
+Abbas Mohammed,F,Egypt,EGY,2024,Paris,Shooting,10m Air Pistol Women,No medal,10m,SHO,True,True
+Abbas Mohammed,F,Egypt,EGY,2024,Paris,Shooting,25m Pistol Women,No medal,25m,SHO,True,True
+Magdy Elsayed,F,Egypt,EGY,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,True,True
+Magdy Elsayed,F,Egypt,EGY,2024,Paris,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True,True
+Maggy Ashmawy,F,Egypt,EGY,2024,Paris,Shooting,Trap Women,No medal,Trap,SHO,True,False

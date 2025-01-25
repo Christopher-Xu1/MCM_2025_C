@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Galina Dolgushina,F,Kazakhstan,KAZ,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Lada Dzhiyenbalanova,F,Kazakhstan,KAZ,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Lada Dzhiyenbalanova,F,Kazakhstan,KAZ,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Yelena Potapenko,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Lyudmila Shumilova,F,Kazakhstan,KAZ,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Elena Potapenko,F,Kazakhstan,KAZ,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False
-Yelena Potapenko,F,Kazakhstan,KAZ,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Galina Dolgushina,F,Kazakhstan,KAZ,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Lada Dzhiyenbalanova,F,Kazakhstan,KAZ,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,True
+Lada Dzhiyenbalanova,F,Kazakhstan,KAZ,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Yelena Potapenko,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,True
+Lyudmila Shumilova,F,Kazakhstan,KAZ,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Elena Potapenko,F,Kazakhstan,KAZ,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False,True
+Yelena Potapenko,F,Kazakhstan,KAZ,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,False

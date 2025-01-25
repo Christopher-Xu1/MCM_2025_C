@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Catherine Awino,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Linet Moraa,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Sheila Kavugwe,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Celestine Navalayo,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Rachael Adhiambo,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Janet Musindalo,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Philadelphia Olando,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Irene Awino,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Stacy Awour,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Janet Awour,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Camilyne Awour,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Doreen Nziwa,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Camilla Atieno,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Sheila Chajira,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Christabel Lindo,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Sarah Ndunde,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Diana Ochieng,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Janet Okello,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Grace Okulu,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Judith Okumu,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Vivian Okwach,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Sinaida Omondi,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Philadelphia Orlando,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Stella Wafula,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Leah Wambui,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Catherine Awino,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Linet Moraa,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Sheila Kavugwe,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Celestine Navalayo,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Rachael Adhiambo,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Janet Musindalo,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Philadelphia Olando,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Irene Awino,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Stacy Awour,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Janet Awour,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Camilyne Awour,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Doreen Nziwa,F,Kenya,KEN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Camilla Atieno,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Sheila Chajira,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Christabel Lindo,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Sarah Ndunde,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Diana Ochieng,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Janet Okello,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Grace Okulu,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Judith Okumu,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Vivian Okwach,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Sinaida Omondi,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Philadelphia Orlando,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Stella Wafula,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Leah Wambui,F,Kenya,KEN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True

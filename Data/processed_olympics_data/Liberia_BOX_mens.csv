@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Thomas Gbay,M,Liberia,LBR,1988,Seoul,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Thomas Stephens,M,Liberia,LBR,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Samuel Stewart,M,Liberia,LBR,1988,Seoul,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Simeon Stubblefield,M,Liberia,LBR,1988,Seoul,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Thomas Gbay,M,Liberia,LBR,1988,Seoul,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Thomas Stephens,M,Liberia,LBR,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Samuel Stewart,M,Liberia,LBR,1988,Seoul,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Simeon Stubblefield,M,Liberia,LBR,1988,Seoul,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True

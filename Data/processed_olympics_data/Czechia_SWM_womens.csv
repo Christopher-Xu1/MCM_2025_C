@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kristyna Horska,F,Czechia,CZE,2024,Paris,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,True
-Kristyna Horska,F,Czechia,CZE,2024,Paris,Swimming,Women's 200m Breaststroke,No medal,Women's,SWM,True
-Barbora Seemanova,F,Czechia,CZE,2024,Paris,Swimming,Women's 100m Butterfly,No medal,Women's,SWM,True
-Barbora Seemanova,F,Czechia,CZE,2024,Paris,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,True
-Barbora Seemanova,F,Czechia,CZE,2024,Paris,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True
-Barbora Seemanova,F,Czechia,CZE,2024,Paris,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kristyna Horska,F,Czechia,CZE,2024,Paris,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,True,True
+Kristyna Horska,F,Czechia,CZE,2024,Paris,Swimming,Women's 200m Breaststroke,No medal,Women's,SWM,True,True
+Barbora Seemanova,F,Czechia,CZE,2024,Paris,Swimming,Women's 100m Butterfly,No medal,Women's,SWM,True,True
+Barbora Seemanova,F,Czechia,CZE,2024,Paris,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,True,True
+Barbora Seemanova,F,Czechia,CZE,2024,Paris,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True,True
+Barbora Seemanova,F,Czechia,CZE,2024,Paris,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,True,True

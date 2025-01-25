@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jiri Beran,M,Czechia,CZE,2024,Paris,Fencing,Men's Épée Individual,No medal,Men's,FEN,True
-Jiri Beran,M,Czechia,CZE,2024,Paris,Fencing,Men's Épée Team,Bronze,Men's,FEN,True
-Michal Cupr,M,Czechia,CZE,2024,Paris,Fencing,Men's Épée Team,Bronze,Men's,FEN,False
-Alexander Choupenitch,M,Czechia,CZE,2024,Paris,Fencing,Men's Foil Individual,No medal,Men's,FEN,False
-Jakub Jurka,M,Czechia,CZE,2024,Paris,Fencing,Men's Épée Individual,No medal,Men's,FEN,True
-Jakub Jurka,M,Czechia,CZE,2024,Paris,Fencing,Men's Épée Team,Bronze,Men's,FEN,True
-Martin Rubes,M,Czechia,CZE,2024,Paris,Fencing,Men's Épée Individual,No medal,Men's,FEN,True
-Martin Rubes,M,Czechia,CZE,2024,Paris,Fencing,Men's Épée Team,Bronze,Men's,FEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jiri Beran,M,Czechia,CZE,2024,Paris,Fencing,Men's Épée Individual,No medal,Men's,FEN,True,True
+Jiri Beran,M,Czechia,CZE,2024,Paris,Fencing,Men's Épée Team,Bronze,Men's,FEN,True,True
+Michal Cupr,M,Czechia,CZE,2024,Paris,Fencing,Men's Épée Team,Bronze,Men's,FEN,False,True
+Alexander Choupenitch,M,Czechia,CZE,2024,Paris,Fencing,Men's Foil Individual,No medal,Men's,FEN,False,True
+Jakub Jurka,M,Czechia,CZE,2024,Paris,Fencing,Men's Épée Individual,No medal,Men's,FEN,True,True
+Jakub Jurka,M,Czechia,CZE,2024,Paris,Fencing,Men's Épée Team,Bronze,Men's,FEN,True,True
+Martin Rubes,M,Czechia,CZE,2024,Paris,Fencing,Men's Épée Individual,No medal,Men's,FEN,True,True
+Martin Rubes,M,Czechia,CZE,2024,Paris,Fencing,Men's Épée Team,Bronze,Men's,FEN,True,True

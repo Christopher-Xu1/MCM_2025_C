@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Byeongkwang Choe,M,Korea,KOR,2024,Paris,Athletics,Men's 20km Race Walk,No medal,Men's,ATH,False
-Jangwoo Kim,M,Korea,KOR,2024,Paris,Athletics,Men's Triple Jump,No medal,Men's,ATH,False
-Sanghyeok Woo,M,Korea,KOR,2024,Paris,Athletics,Men's High Jump,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Byeongkwang Choe,M,Korea,KOR,2024,Paris,Athletics,Men's 20km Race Walk,No medal,Men's,ATH,False,True
+Jangwoo Kim,M,Korea,KOR,2024,Paris,Athletics,Men's Triple Jump,No medal,Men's,ATH,False,True
+Sanghyeok Woo,M,Korea,KOR,2024,Paris,Athletics,Men's High Jump,No medal,Men's,ATH,False,True

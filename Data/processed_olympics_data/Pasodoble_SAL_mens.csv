@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Emilio Mas,M,Pasodoble,ESP,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Jos Carrin,M,Pasodoble,ESP,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Emilio Mas,M,Pasodoble,ESP,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Jos Carrin,M,Pasodoble,ESP,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True

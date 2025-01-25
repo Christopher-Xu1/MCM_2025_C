@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mara Valencia,F,Ecuador,ECU,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Carmen Quilumba,F,Ecuador,ECU,2000,Sydney,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Carmen Quilumba,F,Ecuador,ECU,2004,Athina,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Carmen Quilumba,F,Ecuador,ECU,2008,Beijing,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Estefania Mendoza,F,Ecuador,ECU,2012,London,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Estefania Mendoza,F,Ecuador,ECU,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Diana Romero,F,Ecuador,ECU,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Glenda Alvarado,F,Ecuador,ECU,2008,Beijing,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Vanessa Chala,F,Ecuador,ECU,2020,Tokyo,Judo,Women -78 kg,No medal,Women,JUD,True
-Estefania Garcia,F,Ecuador,ECU,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,False
-Vanessa Chala,F,Ecuador,ECU,2024,Paris,Judo,Women -78 kg,No medal,Women,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mara Valencia,F,Ecuador,ECU,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Carmen Quilumba,F,Ecuador,ECU,2000,Sydney,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,True
+Carmen Quilumba,F,Ecuador,ECU,2004,Athina,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,False
+Carmen Quilumba,F,Ecuador,ECU,2008,Beijing,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,False
+Estefania Mendoza,F,Ecuador,ECU,2012,London,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,True
+Estefania Mendoza,F,Ecuador,ECU,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False
+Diana Romero,F,Ecuador,ECU,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Glenda Alvarado,F,Ecuador,ECU,2008,Beijing,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Vanessa Chala,F,Ecuador,ECU,2020,Tokyo,Judo,Women -78 kg,No medal,Women,JUD,True,True
+Estefania Garcia,F,Ecuador,ECU,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,False,True
+Vanessa Chala,F,Ecuador,ECU,2024,Paris,Judo,Women -78 kg,No medal,Women,JUD,True,False

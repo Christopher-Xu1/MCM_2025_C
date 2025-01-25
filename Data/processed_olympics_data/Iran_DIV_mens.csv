@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Manucher Fasihi,M,Iran,IRI,1964,Tokyo,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Manucher Fasihi,M,Iran,IRI,1964,Tokyo,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True

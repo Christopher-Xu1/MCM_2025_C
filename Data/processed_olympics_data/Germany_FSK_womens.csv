@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anna (-horn),F,Germany,GER,1908,London,Figure Skating,Figure Skating Mixed Pairs,Gold,Figure,FSK,False
-Elsa (-sander-),F,Germany,GER,1908,London,Figure Skating,Figure Skating Women's Singles,Silver,Figure,FSK,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anna (-horn),F,Germany,GER,1908,London,Figure Skating,Figure Skating Mixed Pairs,Gold,Figure,FSK,False,True
+Elsa (-sander-),F,Germany,GER,1908,London,Figure Skating,Figure Skating Women's Singles,Silver,Figure,FSK,False,True

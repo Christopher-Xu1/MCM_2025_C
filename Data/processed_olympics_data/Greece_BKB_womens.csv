@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aikaterini Deli,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Dimitra Kalentzou,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Tatiana Kavvadia,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Athina Khristoforaki,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Sofia Klingopoulou,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Anastasia Kostaki,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Evanthia Maltsi,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Maria Samoroukova,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Polymnia Sarengou,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Eirini Stakhtiari,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Atalanti Tasouli,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Eleni Vasileiou,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aikaterini Deli,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Dimitra Kalentzou,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Tatiana Kavvadia,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Athina Khristoforaki,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Sofia Klingopoulou,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Anastasia Kostaki,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Evanthia Maltsi,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Maria Samoroukova,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Polymnia Sarengou,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Eirini Stakhtiari,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Atalanti Tasouli,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Eleni Vasileiou,F,Greece,GRE,2004,Athina,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True

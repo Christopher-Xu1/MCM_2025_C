@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gunta -vlasenko),F,Latvia,LAT,1992,Barcelona,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False
-Liene Lutere,F,Latvia,LAT,1996,Atlanta,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False
-Sanita Ozolia,F,Latvia,LAT,1996,Atlanta,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False
-Liene Sastapa,F,Latvia,LAT,1992,Barcelona,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gunta -vlasenko),F,Latvia,LAT,1992,Barcelona,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False,True
+Liene Lutere,F,Latvia,LAT,1996,Atlanta,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False,True
+Sanita Ozolia,F,Latvia,LAT,1996,Atlanta,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False,True
+Liene Sastapa,F,Latvia,LAT,1992,Barcelona,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False,True

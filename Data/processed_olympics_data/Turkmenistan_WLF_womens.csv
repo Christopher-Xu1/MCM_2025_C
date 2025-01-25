@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Glnabat Kadyrowa,F,Turkmenistan,TKM,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Polina Guryeva,F,Turkmenistan,TKM,2020,Tokyo,Weightlifting,Women's 59kg,Silver,Women's,WLF,False
-Kristina Shermetova,F,Turkmenistan,TKM,2020,Tokyo,Weightlifting,Women's 55kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Glnabat Kadyrowa,F,Turkmenistan,TKM,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Polina Guryeva,F,Turkmenistan,TKM,2020,Tokyo,Weightlifting,Women's 59kg,Silver,Women's,WLF,False,True
+Kristina Shermetova,F,Turkmenistan,TKM,2020,Tokyo,Weightlifting,Women's 55kg,No medal,Women's,WLF,False,True

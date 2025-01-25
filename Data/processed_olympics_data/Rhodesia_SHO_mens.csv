@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-William Gulliver,M,Rhodesia,RHO,1960,Roma,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+William Gulliver,M,Rhodesia,RHO,1960,Roma,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False,True

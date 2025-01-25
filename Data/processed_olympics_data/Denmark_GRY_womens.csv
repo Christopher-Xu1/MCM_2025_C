@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Malene Franzen,F,Denmark,DEN,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Malene Franzen,F,Denmark,DEN,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True

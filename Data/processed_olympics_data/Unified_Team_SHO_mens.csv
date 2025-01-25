@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aleksandr Asanov,M,Unified Team,EUN,1992,Barcelona,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-Anatoly Asrabayev,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Running Target, 10 metres",Silver,Shooting,SHO,False
-Aleksandr Cherkasov,M,Unified Team,EUN,1992,Barcelona,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Ivan Derevsky,M,Unified Team,EUN,1992,Barcelona,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-Yury Fedkin,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Air Rifle, 10 metres",Gold,Shooting,SHO,False
-Myroslav Ihnatiuk,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False
-Andrei Inein,M,Unified Team,EUN,1992,Barcelona,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Kirill Ivanov,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Kirill Ivanov,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Boris Kokorev,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Oleksandr Lavrinenko,M,Unified Team,EUN,1992,Barcelona,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-Konstantin Lukashik,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Free Pistol, 50 metres",Gold,Shooting,SHO,False
-Hrachya Petikyan,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",Gold,Shooting,SHO,True
-Hrachya Petikyan,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Sergey Pyzhyanov,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Air Pistol, 10 metres",Silver,Shooting,SHO,True
-Sergey Pyzhyanov,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
-Valeri Timoxin,M,Unified Team,EUN,1992,Barcelona,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Andrey Vasilyev,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Running Target, 10 metres",No medal,Shooting,SHO,False
-Vladimir Vokhmyanin,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",Bronze,Shooting,SHO,False
-Aleksandr Zlydenny,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aleksandr Asanov,M,Unified Team,EUN,1992,Barcelona,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+Anatoly Asrabayev,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Running Target, 10 metres",Silver,Shooting,SHO,False,True
+Aleksandr Cherkasov,M,Unified Team,EUN,1992,Barcelona,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Ivan Derevsky,M,Unified Team,EUN,1992,Barcelona,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+Yury Fedkin,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Air Rifle, 10 metres",Gold,Shooting,SHO,False,True
+Myroslav Ihnatiuk,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False,True
+Andrei Inein,M,Unified Team,EUN,1992,Barcelona,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Kirill Ivanov,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Kirill Ivanov,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Boris Kokorev,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Oleksandr Lavrinenko,M,Unified Team,EUN,1992,Barcelona,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+Konstantin Lukashik,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Free Pistol, 50 metres",Gold,Shooting,SHO,False,True
+Hrachya Petikyan,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",Gold,Shooting,SHO,True,True
+Hrachya Petikyan,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Sergey Pyzhyanov,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Air Pistol, 10 metres",Silver,Shooting,SHO,True,True
+Sergey Pyzhyanov,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True,True
+Valeri Timoxin,M,Unified Team,EUN,1992,Barcelona,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Andrey Vasilyev,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Running Target, 10 metres",No medal,Shooting,SHO,False,True
+Vladimir Vokhmyanin,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",Bronze,Shooting,SHO,False,True
+Aleksandr Zlydenny,M,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True

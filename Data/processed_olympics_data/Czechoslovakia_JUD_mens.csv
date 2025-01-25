@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vladimr Brta,M,Czechoslovakia,TCH,1980,Moskva,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Petr Jkl,M,Czechoslovakia,TCH,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Petr Jkl,M,Czechoslovakia,TCH,1972,Munich,Judo,Judo Men's Open Class,No medal,Judo,JUD,True
-Vladimr Kocman,M,Czechoslovakia,TCH,1980,Moskva,Judo,Judo Men's Heavyweight,Bronze,Judo,JUD,False
-Jaroslav K,M,Czechoslovakia,TCH,1980,Moskva,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Jaroslav Nikodm,M,Czechoslovakia,TCH,1980,Moskva,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Vladimr Novk,M,Czechoslovakia,TCH,1976,Montreal,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Vladimr Novk,M,Czechoslovakia,TCH,1976,Montreal,Judo,Judo Men's Open Class,No medal,Judo,JUD,True
-Pavel Petikov,M,Czechoslovakia,TCH,1980,Moskva,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Pavel Petikov,M,Czechoslovakia,TCH,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Pavel Petikov,M,Czechoslovakia,TCH,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Petr Edivk,M,Czechoslovakia,TCH,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Petr Edivk,M,Czechoslovakia,TCH,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Ji Sosna,M,Czechoslovakia,TCH,1988,Seoul,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Ji Sosna,M,Czechoslovakia,TCH,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Josef Vnsek,M,Czechoslovakia,TCH,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vladimr Brta,M,Czechoslovakia,TCH,1980,Moskva,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Petr Jkl,M,Czechoslovakia,TCH,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,True
+Petr Jkl,M,Czechoslovakia,TCH,1972,Munich,Judo,Judo Men's Open Class,No medal,Judo,JUD,True,True
+Vladimr Kocman,M,Czechoslovakia,TCH,1980,Moskva,Judo,Judo Men's Heavyweight,Bronze,Judo,JUD,False,True
+Jaroslav K,M,Czechoslovakia,TCH,1980,Moskva,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Jaroslav Nikodm,M,Czechoslovakia,TCH,1980,Moskva,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Vladimr Novk,M,Czechoslovakia,TCH,1976,Montreal,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,True
+Vladimr Novk,M,Czechoslovakia,TCH,1976,Montreal,Judo,Judo Men's Open Class,No medal,Judo,JUD,True,True
+Pavel Petikov,M,Czechoslovakia,TCH,1980,Moskva,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Pavel Petikov,M,Czechoslovakia,TCH,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False
+Pavel Petikov,M,Czechoslovakia,TCH,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False
+Petr Edivk,M,Czechoslovakia,TCH,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Petr Edivk,M,Czechoslovakia,TCH,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False
+Ji Sosna,M,Czechoslovakia,TCH,1988,Seoul,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,True
+Ji Sosna,M,Czechoslovakia,TCH,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,False
+Josef Vnsek,M,Czechoslovakia,TCH,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True

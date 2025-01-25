@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bhagawati Chhetri,F,Nepal,NEP,2000,Sydney,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Phool Kyapchhaki,F,Nepal,NEP,2008,Beijing,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Bibhashwori Rai,F,Nepal,NEP,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Sneh Rana,F,Nepal,NEP,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Anita Shrestha,F,Nepal,NEP,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Parvati Thapa,F,Nepal,NEP,1988,Seoul,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Kalpana Pariyar,F,Nepal,NEP,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,False
-Sushmita Nepal,F,Nepal,NEP,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bhagawati Chhetri,F,Nepal,NEP,2000,Sydney,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Phool Kyapchhaki,F,Nepal,NEP,2008,Beijing,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Bibhashwori Rai,F,Nepal,NEP,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Sneh Rana,F,Nepal,NEP,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Anita Shrestha,F,Nepal,NEP,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Parvati Thapa,F,Nepal,NEP,1988,Seoul,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Kalpana Pariyar,F,Nepal,NEP,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,False,True
+Sushmita Nepal,F,Nepal,NEP,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,False,True

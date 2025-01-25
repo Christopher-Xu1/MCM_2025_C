@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kateryna Burmistrova,F,Ukraine,UKR,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Alla Cherkasova,F,Ukraine,UKR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Oksana Herhel,F,Ukraine,UKR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Liudmyla Holovchenko,F,Ukraine,UKR,2004,Athina,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Yuliya (blahinia-),F,Ukraine,UKR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Tetiana Lazareva,F,Ukraine,UKR,2004,Athina,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Tetiana Lazareva,F,Ukraine,UKR,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Iryna (melnyk-),F,Ukraine,UKR,2004,Athina,Wrestling,"Wrestling Women's Flyweight, Freestyle",Gold,Wrestling,WRF,True
-Iryna (melnyk-),F,Ukraine,UKR,2008,Beijing,Wrestling,"Wrestling Women's Flyweight, Freestyle",Bronze,Wrestling,WRF,True
-Iryna (melnyk-),F,Ukraine,UKR,2012,London,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Yuliya Ostapchuk-tkach,F,Ukraine,UKR,2008,Beijing,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Yuliya Ostapchuk-tkach,F,Ukraine,UKR,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Yuliya Ostapchuk-tkach,F,Ukraine,UKR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Svetlana Saenco,F,Ukraine,UKR,2004,Athina,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Nataliya Siniin,F,Ukraine,UKR,2008,Beijing,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Alina (makhynia-),F,Ukraine,UKR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Oksana Vashchuk,F,Ukraine,UKR,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Alla Belinska,F,Ukraine,UKR,2020,Tokyo,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,False
-Alla Cherkasova,F,Ukraine,UKR,2020,Tokyo,Wrestling,Women's Freestyle 68kg,Bronze,Women's,WRF,True
-Tetyana Kit,F,Ukraine,UKR,2020,Tokyo,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,False
-Iryna Koliadenko,F,Ukraine,UKR,2020,Tokyo,Wrestling,Women's Freestyle 62kg,Bronze,Women's,WRF,True
-Oksana Livach,F,Ukraine,UKR,2020,Tokyo,Wrestling,Women's Freestyle 50kg,No medal,Women's,WRF,True
-Oksana Livach,F,Ukraine,UKR,2024,Paris,Wrestling,Women's Freestyle 50kg,No medal,Women's,WRF,True
-Alina Hrushyna,F,Ukraine,UKR,2024,Paris,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,False
-Iryna Koliadenko,F,Ukraine,UKR,2024,Paris,Wrestling,Women's Freestyle 62kg,Silver,Women's,WRF,True
-Tetiana Sova,F,Ukraine,UKR,2024,Paris,Wrestling,Women's Freestyle 68kg,No medal,Women's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kateryna Burmistrova,F,Ukraine,UKR,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Alla Cherkasova,F,Ukraine,UKR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Oksana Herhel,F,Ukraine,UKR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Liudmyla Holovchenko,F,Ukraine,UKR,2004,Athina,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Yuliya (blahinia-),F,Ukraine,UKR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Tetiana Lazareva,F,Ukraine,UKR,2004,Athina,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True,True
+Tetiana Lazareva,F,Ukraine,UKR,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True,False
+Iryna (melnyk-),F,Ukraine,UKR,2004,Athina,Wrestling,"Wrestling Women's Flyweight, Freestyle",Gold,Wrestling,WRF,True,True
+Iryna (melnyk-),F,Ukraine,UKR,2008,Beijing,Wrestling,"Wrestling Women's Flyweight, Freestyle",Bronze,Wrestling,WRF,True,False
+Iryna (melnyk-),F,Ukraine,UKR,2012,London,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Yuliya Ostapchuk-tkach,F,Ukraine,UKR,2008,Beijing,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True,True
+Yuliya Ostapchuk-tkach,F,Ukraine,UKR,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Yuliya Ostapchuk-tkach,F,Ukraine,UKR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Svetlana Saenco,F,Ukraine,UKR,2004,Athina,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Nataliya Siniin,F,Ukraine,UKR,2008,Beijing,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Alina (makhynia-),F,Ukraine,UKR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Oksana Vashchuk,F,Ukraine,UKR,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Alla Belinska,F,Ukraine,UKR,2020,Tokyo,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,False,True
+Alla Cherkasova,F,Ukraine,UKR,2020,Tokyo,Wrestling,Women's Freestyle 68kg,Bronze,Women's,WRF,True,False
+Tetyana Kit,F,Ukraine,UKR,2020,Tokyo,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,False,True
+Iryna Koliadenko,F,Ukraine,UKR,2020,Tokyo,Wrestling,Women's Freestyle 62kg,Bronze,Women's,WRF,True,True
+Oksana Livach,F,Ukraine,UKR,2020,Tokyo,Wrestling,Women's Freestyle 50kg,No medal,Women's,WRF,True,True
+Oksana Livach,F,Ukraine,UKR,2024,Paris,Wrestling,Women's Freestyle 50kg,No medal,Women's,WRF,True,False
+Alina Hrushyna,F,Ukraine,UKR,2024,Paris,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,False,True
+Iryna Koliadenko,F,Ukraine,UKR,2024,Paris,Wrestling,Women's Freestyle 62kg,Silver,Women's,WRF,True,False
+Tetiana Sova,F,Ukraine,UKR,2024,Paris,Wrestling,Women's Freestyle 68kg,No medal,Women's,WRF,False,True

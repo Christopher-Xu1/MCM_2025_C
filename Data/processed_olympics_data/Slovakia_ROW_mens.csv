@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Luk Baba,M,Slovakia,SVK,2004,Athina,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Ondrej Hamblek,M,Slovakia,SVK,1996,Atlanta,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False
-ubo Podstupka,M,Slovakia,SVK,2004,Athina,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Jn Ika,M,Slovakia,SVK,1996,Atlanta,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,True
-Jn Ika,M,Slovakia,SVK,2000,Sydney,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Luk Baba,M,Slovakia,SVK,2004,Athina,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Ondrej Hamblek,M,Slovakia,SVK,1996,Atlanta,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False,True
+ubo Podstupka,M,Slovakia,SVK,2004,Athina,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Jn Ika,M,Slovakia,SVK,1996,Atlanta,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,True,True
+Jn Ika,M,Slovakia,SVK,2000,Sydney,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,False

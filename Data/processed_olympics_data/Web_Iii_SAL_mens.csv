@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-William Berntsen,M,Web Iii,DEN,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-Per Holm,M,Web Iii,DEN,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-Aage Lassen,M,Web Iii,DEN,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+William Berntsen,M,Web Iii,DEN,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+Per Holm,M,Web Iii,DEN,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+Aage Lassen,M,Web Iii,DEN,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True

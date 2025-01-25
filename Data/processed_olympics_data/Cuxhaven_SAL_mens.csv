@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Demir Turgut,M,Cuxhaven,TUR,1936,Berlin,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Demir Turgut,M,Cuxhaven,TUR,1936,Berlin,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True

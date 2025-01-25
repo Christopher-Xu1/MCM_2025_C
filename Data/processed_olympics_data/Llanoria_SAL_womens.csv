@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Emelyn -righter),F,Llanoria,USA,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Emelyn -righter),F,Llanoria,USA,1952,Helsinki,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True

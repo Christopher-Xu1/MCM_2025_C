@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Amelia Brodka,F,Poland,POL,2020,Tokyo,Skateboarding,Women's Park,No medal,Women's,SKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Amelia Brodka,F,Poland,POL,2020,Tokyo,Skateboarding,Women's Park,No medal,Women's,SKB,False,True

@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-rika Miranda,F,Mexico,MEX,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-rika Miranda,F,Mexico,MEX,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Ann Henningsen,F,Mexico,MEX,1968,Mexico City,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Ann Henningsen,F,Mexico,MEX,1968,Mexico City,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Renata S.,F,Mexico,MEX,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Renata S.,F,Mexico,MEX,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Itzel Reza,F,Mexico,MEX,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
-Sandra Gutirrez,F,Mexico,MEX,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Sandra Gutirrez,F,Mexico,MEX,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Angelica Zawadski,F,Mexico,MEX,1968,Mexico City,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False
-Sofia Reinoso,F,Mexico,MEX,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,True
-Sofia Reinoso,F,Mexico,MEX,2024,Paris,Canoe Slalom,Women's Kayak Single,No medal,Women's,CSL,True
-Sofia Reinoso,F,Mexico,MEX,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+rika Miranda,F,Mexico,MEX,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+rika Miranda,F,Mexico,MEX,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Ann Henningsen,F,Mexico,MEX,1968,Mexico City,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Ann Henningsen,F,Mexico,MEX,1968,Mexico City,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Renata S.,F,Mexico,MEX,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Renata S.,F,Mexico,MEX,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Itzel Reza,F,Mexico,MEX,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True
+Sandra Gutirrez,F,Mexico,MEX,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Sandra Gutirrez,F,Mexico,MEX,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Angelica Zawadski,F,Mexico,MEX,1968,Mexico City,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False,True
+Sofia Reinoso,F,Mexico,MEX,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,True,True
+Sofia Reinoso,F,Mexico,MEX,2024,Paris,Canoe Slalom,Women's Kayak Single,No medal,Women's,CSL,True,False
+Sofia Reinoso,F,Mexico,MEX,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True,False

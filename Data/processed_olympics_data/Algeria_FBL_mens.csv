@@ -1,33 +1,33 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ayoub Abdellaoui,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Rachid Atmane,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Mourad Amara,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Salah Assad,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Haris Belkebla,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Lakhdar Belloumi,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Taj Saoula,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Meziane Tahar,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Sofiane Bendebka,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Abdelraouf Benguit,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Mohammed Benkablia,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Mohamed Benkhemassa,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Baghdad Bounedjah,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Farid Chaal,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Oussama Darfalou,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Abdelghani Demmou,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Abderrahmane Derouaz,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Zakaria Draoui,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Ali Fergani,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Houari Ferhani,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Mohamed Ghrib,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Mahmoud Guendouz,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Zakarya Haddouche,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Ryad Keniche,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Mohamed Kheddis,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Saleh Larbes,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Rabah Madjer,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Bouzid Mahiouz,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Djamel Menad,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Chaabane Merzekane,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False
-Oussama Methazem,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Miloud Rebiai,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ayoub Abdellaoui,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Rachid Atmane,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mourad Amara,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Salah Assad,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Haris Belkebla,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Lakhdar Belloumi,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Taj Saoula,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Meziane Tahar,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Sofiane Bendebka,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Abdelraouf Benguit,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mohammed Benkablia,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mohamed Benkhemassa,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Baghdad Bounedjah,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Farid Chaal,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Oussama Darfalou,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Abdelghani Demmou,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Abderrahmane Derouaz,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Zakaria Draoui,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Ali Fergani,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Houari Ferhani,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mohamed Ghrib,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mahmoud Guendouz,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Zakarya Haddouche,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Ryad Keniche,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mohamed Kheddis,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Saleh Larbes,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Rabah Madjer,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Bouzid Mahiouz,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Djamel Menad,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Chaabane Merzekane,M,Algeria,ALG,1980,Moskva,Football,Football Men's Football,No medal,Football,FBL,False,True
+Oussama Methazem,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Miloud Rebiai,M,Algeria,ALG,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True

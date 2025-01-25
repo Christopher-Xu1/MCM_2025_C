@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sharath Achanta,M,India,IND,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Sharath Achanta,M,India,IND,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Sharath Achanta,M,India,IND,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Chetan Baboor,M,India,IND,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Chetan Baboor,M,India,IND,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Chetan Baboor,M,India,IND,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Chetan Baboor,M,India,IND,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Sujay Ghorpade,M,India,IND,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Sujay Ghorpade,M,India,IND,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Sujay Ghorpade,M,India,IND,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Soumyajit Ghosh,M,India,IND,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Soumyajit Ghosh,M,India,IND,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Kamlesh Mehta,M,India,IND,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Kamlesh Mehta,M,India,IND,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Kamlesh Mehta,M,India,IND,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Kamlesh Mehta,M,India,IND,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Raman Subramanyan,M,India,IND,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Kamal Achanta,M,India,IND,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Kamal Achanta,M,India,IND,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,True
-Sathiyan Gnanasekaran,M,India,IND,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False
-Vikash Thakkar,M,India,IND,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,False
-Kamal Achanta,M,India,IND,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Kamal Achanta,M,India,IND,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True
-Harmeet Desai,M,India,IND,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Harmeet Desai,M,India,IND,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sharath Achanta,M,India,IND,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Sharath Achanta,M,India,IND,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Sharath Achanta,M,India,IND,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Chetan Baboor,M,India,IND,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Chetan Baboor,M,India,IND,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Chetan Baboor,M,India,IND,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Chetan Baboor,M,India,IND,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Sujay Ghorpade,M,India,IND,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Sujay Ghorpade,M,India,IND,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Sujay Ghorpade,M,India,IND,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Soumyajit Ghosh,M,India,IND,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Soumyajit Ghosh,M,India,IND,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Kamlesh Mehta,M,India,IND,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Kamlesh Mehta,M,India,IND,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Kamlesh Mehta,M,India,IND,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Kamlesh Mehta,M,India,IND,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Raman Subramanyan,M,India,IND,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Kamal Achanta,M,India,IND,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True,True
+Kamal Achanta,M,India,IND,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,True,True
+Sathiyan Gnanasekaran,M,India,IND,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True
+Vikash Thakkar,M,India,IND,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,False,True
+Kamal Achanta,M,India,IND,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True,False
+Kamal Achanta,M,India,IND,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True,False
+Harmeet Desai,M,India,IND,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True,True
+Harmeet Desai,M,India,IND,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True,True

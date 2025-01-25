@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Demetrios Balourdos,M,"Life Boat Naval Ship ""Spetsai""-1",GRE,1906,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,Rowing,ROW,False
-Demetrios Dais,M,"Life Boat Naval Ship ""Spetsai""-1",GRE,1906,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,Rowing,ROW,False
-Nikolaos Dekavalas,M,"Life Boat Naval Ship ""Spetsai""-1",GRE,1906,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,Rowing,ROW,False
-Nikolaos Karsouvas,M,"Life Boat Naval Ship ""Spetsai""-1",GRE,1906,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,Rowing,ROW,False
-Pavlos Kypraios,M,"Life Boat Naval Ship ""Spetsai""-1",GRE,1906,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,Rowing,ROW,False
-Konstantinos Misonginis,M,"Life Boat Naval Ship ""Spetsai""-1",GRE,1906,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,Rowing,ROW,False
-Spyridon Vessalas,M,"Life Boat Naval Ship ""Spetsai""-1",GRE,1906,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Demetrios Balourdos,M,"Life Boat Naval Ship ""Spetsai""-1",GRE,1906,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,Rowing,ROW,False,True
+Demetrios Dais,M,"Life Boat Naval Ship ""Spetsai""-1",GRE,1906,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,Rowing,ROW,False,True
+Nikolaos Dekavalas,M,"Life Boat Naval Ship ""Spetsai""-1",GRE,1906,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,Rowing,ROW,False,True
+Nikolaos Karsouvas,M,"Life Boat Naval Ship ""Spetsai""-1",GRE,1906,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,Rowing,ROW,False,True
+Pavlos Kypraios,M,"Life Boat Naval Ship ""Spetsai""-1",GRE,1906,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,Rowing,ROW,False,True
+Konstantinos Misonginis,M,"Life Boat Naval Ship ""Spetsai""-1",GRE,1906,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,Rowing,ROW,False,True
+Spyridon Vessalas,M,"Life Boat Naval Ship ""Spetsai""-1",GRE,1906,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,Silver,Rowing,ROW,False,True

@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Brbara Freitas,F,Brazil-1,BRA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,False
-gatha Rippel,F,Brazil-1,BRA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,False
-Adriana Behar,F,Brazil-1,BRA,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,True
-Adriana Behar,F,Brazil-1,BRA,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,True
-Juliana Silva,F,Brazil-1,BRA,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Bronze,Beach,VBV,False
-Larissa Maestrini,F,Brazil-1,BRA,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Bronze,Beach,VBV,False
-Renata Ribeiro,F,Brazil-1,BRA,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Sandra Nascimento,F,Brazil-1,BRA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Gold,Beach,VBV,False
-Shelda Bede,F,Brazil-1,BRA,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,True
-Shelda Bede,F,Brazil-1,BRA,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,True
-Jacqueline Silva,F,Brazil-1,BRA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Gold,Beach,VBV,False
-Talita Rocha,F,Brazil-1,BRA,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Brbara Freitas,F,Brazil-1,BRA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,False,True
+gatha Rippel,F,Brazil-1,BRA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,False,True
+Adriana Behar,F,Brazil-1,BRA,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,True,True
+Adriana Behar,F,Brazil-1,BRA,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,True,False
+Juliana Silva,F,Brazil-1,BRA,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Bronze,Beach,VBV,False,True
+Larissa Maestrini,F,Brazil-1,BRA,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Bronze,Beach,VBV,False,True
+Renata Ribeiro,F,Brazil-1,BRA,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Sandra Nascimento,F,Brazil-1,BRA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Gold,Beach,VBV,False,True
+Shelda Bede,F,Brazil-1,BRA,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,True,True
+Shelda Bede,F,Brazil-1,BRA,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,True,False
+Jacqueline Silva,F,Brazil-1,BRA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Gold,Beach,VBV,False,True
+Talita Rocha,F,Brazil-1,BRA,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True

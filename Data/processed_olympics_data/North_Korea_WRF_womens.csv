@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Choe Un-gyong,F,North Korea,PRK,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Han Kum-ok,F,North Korea,PRK,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Jong Myong-suk,F,North Korea,PRK,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Kim Hyon-gyong,F,North Korea,PRK,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Choe Un-gyong,F,North Korea,PRK,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Han Kum-ok,F,North Korea,PRK,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Jong Myong-suk,F,North Korea,PRK,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Kim Hyon-gyong,F,North Korea,PRK,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True

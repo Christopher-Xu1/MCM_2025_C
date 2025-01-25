@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Charlotte Bonin,F,Italy,ITA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Charlotte Bonin,F,Italy,ITA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Daniela Chmet,F,Italy,ITA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Edith Cigana,F,Italy,ITA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Nadia (-gabba),F,Italy,ITA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Silvia Gemignani,F,Italy,ITA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Silvia Gemignani,F,Italy,ITA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Beatrice Lanza,F,Italy,ITA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Annamaria Mazzetti,F,Italy,ITA,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Annamaria Mazzetti,F,Italy,ITA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Alice Betto,F,Italy,ITA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Alice Betto,F,Italy,ITA,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Angelica Olmo,F,Italy,ITA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Angelica Olmo,F,Italy,ITA,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Verena Steinhauser,F,Italy,ITA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Verena Steinhauser,F,Italy,ITA,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Alice Betto,F,Italy,ITA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Bianca Seregni,F,Italy,ITA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False
-Verena Steinhauser,F,Italy,ITA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Charlotte Bonin,F,Italy,ITA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Charlotte Bonin,F,Italy,ITA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Daniela Chmet,F,Italy,ITA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Edith Cigana,F,Italy,ITA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Nadia (-gabba),F,Italy,ITA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Silvia Gemignani,F,Italy,ITA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Silvia Gemignani,F,Italy,ITA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Beatrice Lanza,F,Italy,ITA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Annamaria Mazzetti,F,Italy,ITA,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Annamaria Mazzetti,F,Italy,ITA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Alice Betto,F,Italy,ITA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,True
+Alice Betto,F,Italy,ITA,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Angelica Olmo,F,Italy,ITA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,True
+Angelica Olmo,F,Italy,ITA,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Verena Steinhauser,F,Italy,ITA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,True
+Verena Steinhauser,F,Italy,ITA,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Alice Betto,F,Italy,ITA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,True,False
+Bianca Seregni,F,Italy,ITA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False,True
+Verena Steinhauser,F,Italy,ITA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,True,False

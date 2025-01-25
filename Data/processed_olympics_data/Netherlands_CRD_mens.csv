@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tom Dumoulin,M,Netherlands,NED,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Tom Dumoulin,M,Netherlands,NED,2020,Tokyo,Cycling Road,Men's Individual Time Trial,Silver,Men's,CRD,True
-Yoeri Havik,M,Netherlands,NED,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Wilco Kelderman,M,Netherlands,NED,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Bauke Mollema,M,Netherlands,NED,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-van Dylan,M,Netherlands,NED,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-van Dylan,M,Netherlands,NED,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Daan Hoole,M,Netherlands,NED,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Daan Hoole,M,Netherlands,NED,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-van Mathieu,M,Netherlands,NED,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tom Dumoulin,M,Netherlands,NED,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Tom Dumoulin,M,Netherlands,NED,2020,Tokyo,Cycling Road,Men's Individual Time Trial,Silver,Men's,CRD,True,True
+Yoeri Havik,M,Netherlands,NED,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Wilco Kelderman,M,Netherlands,NED,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Bauke Mollema,M,Netherlands,NED,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+van Dylan,M,Netherlands,NED,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+van Dylan,M,Netherlands,NED,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,False
+Daan Hoole,M,Netherlands,NED,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Daan Hoole,M,Netherlands,NED,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+van Mathieu,M,Netherlands,NED,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True

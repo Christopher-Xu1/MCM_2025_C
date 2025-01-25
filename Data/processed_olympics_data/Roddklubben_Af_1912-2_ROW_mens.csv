@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-William Bruhn-mller,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Gustaf Brunkman,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Konrad Brunkman,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Nils Dahlbck,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Per Mattson,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Ture Rosvall,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Carl Tamm,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Erik Wachtmeister,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Leo Wilkens,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+William Bruhn-mller,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Gustaf Brunkman,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Konrad Brunkman,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Nils Dahlbck,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Per Mattson,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Ture Rosvall,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Carl Tamm,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Erik Wachtmeister,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Leo Wilkens,M,Roddklubben Af 1912-2,SWE,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Satu (lepplouto-),F,Finland,FIN,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False
-Anni Vuohijoki,F,Finland,FIN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Satu (lepplouto-),F,Finland,FIN,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False,True
+Anni Vuohijoki,F,Finland,FIN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True

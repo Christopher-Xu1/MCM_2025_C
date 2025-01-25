@@ -1,45 +1,45 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Stanka (mugoa-),F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Stanka (mugoa-),F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Slavica Djuki,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Tatjana Dschandschgawa,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Birgit Engl,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Milena (sokolovsk-),F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Ausrele (zhiukien-),F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Laura Fritz,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Gabriele Gebauer,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Karin Hillinger,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Ulrike Huber,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Jadranka Jez,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Kerstin Jnon,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Jasna Kolar-merdan,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Tatjana Logwin,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Ariane Maier,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Edith (-trk),F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Doris Meltzer,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Iris Morhammer,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Iris Morhammer,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Svetlana Mugoa-anti,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Martina Neubauer,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Gudrun Neunteufel,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Stephanie (-subke),F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Nicole (-prokop),F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Ulrike Popp,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Karin Prokop,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Karin Prokop,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Marianna Racz,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Vesna Radovi,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Natalia Rusnatschenko,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Natalia Rusnatschenko,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Silvia Steinbauer,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Barbara Strass,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Barbara Strass,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Maria Sykora,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Rima (sypkuvien-),F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Sorina-Gratiela (lefter-),F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Liliana Topea,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Monika Unger,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Susanne Unger,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Elisabeth Zehetner,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Teresa -neukom),F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Liliana Zurowski,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Stanka (mugoa-),F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,True,True
+Stanka (mugoa-),F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,True,False
+Slavica Djuki,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Tatjana Dschandschgawa,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Birgit Engl,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Milena (sokolovsk-),F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Ausrele (zhiukien-),F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Laura Fritz,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Gabriele Gebauer,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Karin Hillinger,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Ulrike Huber,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Jadranka Jez,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Kerstin Jnon,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Jasna Kolar-merdan,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Tatjana Logwin,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Ariane Maier,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Edith (-trk),F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Doris Meltzer,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Iris Morhammer,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,True,True
+Iris Morhammer,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,True,False
+Svetlana Mugoa-anti,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Martina Neubauer,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Gudrun Neunteufel,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Stephanie (-subke),F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Nicole (-prokop),F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Ulrike Popp,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Karin Prokop,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,True,True
+Karin Prokop,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,True,False
+Marianna Racz,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Vesna Radovi,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Natalia Rusnatschenko,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,True,True
+Natalia Rusnatschenko,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,True,False
+Silvia Steinbauer,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Barbara Strass,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,True,True
+Barbara Strass,F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,True,False
+Maria Sykora,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Rima (sypkuvien-),F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Sorina-Gratiela (lefter-),F,Austria,AUT,2000,Sydney,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Liliana Topea,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Monika Unger,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Susanne Unger,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Elisabeth Zehetner,F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Teresa -neukom),F,Austria,AUT,1984,Los Angeles,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Liliana Zurowski,F,Austria,AUT,1992,Barcelona,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True

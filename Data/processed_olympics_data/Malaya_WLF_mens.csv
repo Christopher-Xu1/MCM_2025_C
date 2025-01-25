@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chan Lum,M,Malaya,MAL,1956,Melbourne,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Chung Weng,M,Malaya,MAL,1960,Roma,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Koh Tong,M,Malaya,MAL,1956,Melbourne,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Kuan Lam,M,Malaya,MAL,1960,Roma,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Tan Bee,M,Malaya,MAL,1956,Melbourne,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chan Lum,M,Malaya,MAL,1956,Melbourne,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Chung Weng,M,Malaya,MAL,1960,Roma,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Koh Tong,M,Malaya,MAL,1956,Melbourne,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Kuan Lam,M,Malaya,MAL,1960,Roma,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Tan Bee,M,Malaya,MAL,1956,Melbourne,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True

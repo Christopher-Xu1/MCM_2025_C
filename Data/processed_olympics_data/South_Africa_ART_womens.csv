@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elizabeth (macadam-),F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False
-Grace Browne,F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-Grace Browne,F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-Grace Browne,F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-Ann Graham,F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False
-Erika Hartig,F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Erika Hartig,F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Monica (-freyburg),F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Monica (-freyburg),F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Monica (-freyburg),F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Monica (-freyburg),F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Monica (-freyburg),F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elizabeth (macadam-),F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False,True
+Grace Browne,F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+Grace Browne,F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+Grace Browne,F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+Ann Graham,F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False,True
+Erika Hartig,F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Erika Hartig,F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Monica (-freyburg),F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Monica (-freyburg),F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Monica (-freyburg),F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Monica (-freyburg),F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Monica (-freyburg),F,South Africa,RSA,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True

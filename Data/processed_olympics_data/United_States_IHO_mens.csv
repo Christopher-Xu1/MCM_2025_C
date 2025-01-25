@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Raymond Bonney,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False
-Anthony Conroy,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False
-Herbert Drury,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False
-James Fitzgerald,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False
-George Geran,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False
-Francis Goheen,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False
-Joseph Mccormick,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False
-Lawrence Mccormick,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False
-Frank Synnott,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False
-Leon Tuck,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False
-Cyril Weidenborner,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Raymond Bonney,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False,True
+Anthony Conroy,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False,True
+Herbert Drury,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False,True
+James Fitzgerald,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False,True
+George Geran,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False,True
+Francis Goheen,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False,True
+Joseph Mccormick,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False,True
+Lawrence Mccormick,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False,True
+Frank Synnott,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False,True
+Leon Tuck,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False,True
+Cyril Weidenborner,M,United States,USA,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver,Ice,IHO,False,True

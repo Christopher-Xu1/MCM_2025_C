@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chen Chiu-tan,F,Chinese Taipei-2,TPE,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
-Chen Jing,F,Chinese Taipei-2,TPE,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Chen Jing,F,Chinese Taipei-2,TPE,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Xu Jing,F,Chinese Taipei-2,TPE,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chen Chiu-tan,F,Chinese Taipei-2,TPE,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True
+Chen Jing,F,Chinese Taipei-2,TPE,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Chen Jing,F,Chinese Taipei-2,TPE,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Xu Jing,F,Chinese Taipei-2,TPE,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True

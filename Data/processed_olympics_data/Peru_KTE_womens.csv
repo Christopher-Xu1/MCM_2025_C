@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vanessa Grande,F,Peru,PER,2020,Tokyo,Karate,Women's Kumite -61kg,No medal,Women's,KTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vanessa Grande,F,Peru,PER,2020,Tokyo,Karate,Women's Kumite -61kg,No medal,Women's,KTE,False,True

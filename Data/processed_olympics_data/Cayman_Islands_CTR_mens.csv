@@ -1,31 +1,31 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nicholas Baker,M,Cayman Islands,CAY,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Stefan Baraud,M,Cayman Islands,CAY,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Stefan Baraud,M,Cayman Islands,CAY,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Stefan Baraud,M,Cayman Islands,CAY,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Dennis Brooks,M,Cayman Islands,CAY,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Don Campbell,M,Cayman Islands,CAY,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Don Campbell,M,Cayman Islands,CAY,1992,Barcelona,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-David Dibben,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-David Dibben,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Alfred Ebanks,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Alfred Ebanks,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Alfred Ebanks,M,Cayman Islands,CAY,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Alfred Ebanks,M,Cayman Islands,CAY,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Craig Merren,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Craig Merren,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Craig Merren,M,Cayman Islands,CAY,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Craig Merren,M,Cayman Islands,CAY,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Perry Merren,M,Cayman Islands,CAY,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Ernest Moodie,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Ernest Moodie,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Ernest Moodie,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Richard Pascal,M,Cayman Islands,CAY,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Richard Pascal,M,Cayman Islands,CAY,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Michele Smith,M,Cayman Islands,CAY,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Michele Smith,M,Cayman Islands,CAY,1988,Seoul,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Michele Smith,M,Cayman Islands,CAY,1988,Seoul,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Michele Smith,M,Cayman Islands,CAY,1988,Seoul,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Michele Smith,M,Cayman Islands,CAY,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Aldyn Wint,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Aldyn Wint,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nicholas Baker,M,Cayman Islands,CAY,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Stefan Baraud,M,Cayman Islands,CAY,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Stefan Baraud,M,Cayman Islands,CAY,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Stefan Baraud,M,Cayman Islands,CAY,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Dennis Brooks,M,Cayman Islands,CAY,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Don Campbell,M,Cayman Islands,CAY,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Don Campbell,M,Cayman Islands,CAY,1992,Barcelona,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+David Dibben,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+David Dibben,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Alfred Ebanks,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Alfred Ebanks,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Alfred Ebanks,M,Cayman Islands,CAY,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Alfred Ebanks,M,Cayman Islands,CAY,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Craig Merren,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Craig Merren,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Craig Merren,M,Cayman Islands,CAY,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Craig Merren,M,Cayman Islands,CAY,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Perry Merren,M,Cayman Islands,CAY,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Ernest Moodie,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Ernest Moodie,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Ernest Moodie,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,True
+Richard Pascal,M,Cayman Islands,CAY,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Richard Pascal,M,Cayman Islands,CAY,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Michele Smith,M,Cayman Islands,CAY,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Michele Smith,M,Cayman Islands,CAY,1988,Seoul,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Michele Smith,M,Cayman Islands,CAY,1988,Seoul,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Michele Smith,M,Cayman Islands,CAY,1988,Seoul,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,True
+Michele Smith,M,Cayman Islands,CAY,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Aldyn Wint,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Aldyn Wint,M,Cayman Islands,CAY,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True

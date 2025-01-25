@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nirmal Lorick,M,Trinidad And Tobago,TTO,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Nigel Paul,M,Trinidad And Tobago,TTO,2016,Rio de Janeiro,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False
-Kurt Sinette,M,Trinidad And Tobago,TTO,1996,Atlanta,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Donald Smith,M,Trinidad And Tobago,TTO,1984,Los Angeles,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Carlos Suarez,M,Trinidad And Tobago,TTO,2012,London,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Solomon Prince,M,Trinidad And Tobago,TTO,2020,Tokyo,Boxing,Men's Middle (69-75kg),No medal,Men's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nirmal Lorick,M,Trinidad And Tobago,TTO,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Nigel Paul,M,Trinidad And Tobago,TTO,2016,Rio de Janeiro,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False,True
+Kurt Sinette,M,Trinidad And Tobago,TTO,1996,Atlanta,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Donald Smith,M,Trinidad And Tobago,TTO,1984,Los Angeles,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Carlos Suarez,M,Trinidad And Tobago,TTO,2012,London,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Solomon Prince,M,Trinidad And Tobago,TTO,2020,Tokyo,Boxing,Men's Middle (69-75kg),No medal,Men's,BOX,False,True

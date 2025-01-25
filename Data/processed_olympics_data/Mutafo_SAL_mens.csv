@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Peter Ahrendt,M,Mutafo,GER,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False
-Wilfried Lorenz,M,Mutafo,GER,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False
-Ulrich Mense,M,Mutafo,GER,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Peter Ahrendt,M,Mutafo,GER,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False,True
+Wilfried Lorenz,M,Mutafo,GER,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False,True
+Ulrich Mense,M,Mutafo,GER,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False,True

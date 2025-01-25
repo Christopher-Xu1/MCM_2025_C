@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ahmed Ali,F,Somalia,SOM,2020,Tokyo,Boxing,Women's Feather (54-57kg),No medal,Women's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ahmed Ali,F,Somalia,SOM,2020,Tokyo,Boxing,Women's Feather (54-57kg),No medal,Women's,BOX,False,True

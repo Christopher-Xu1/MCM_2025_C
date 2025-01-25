@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aminata Camara,F,Mali,MLI,1996,Atlanta,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False
-Kadiatou Camara,F,Mali,MLI,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Kadiatou Camara,F,Mali,MLI,2004,Athina,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Kadiatou Camara,F,Mali,MLI,2008,Beijing,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Djnbou Dant,F,Mali,MLI,2016,Rio de Janeiro,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Fanta Dao,F,Mali,MLI,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Aminata Diarra,F,Mali,MLI,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Aminata Diarra,F,Mali,MLI,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Rahamatou Dram,F,Mali,MLI,2012,London,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False
-Manda Kanout,F,Mali,MLI,1992,Barcelona,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Fatalmoudou Tour,F,Mali,MLI,1980,Moskva,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False
-Oumou Traor,F,Mali,MLI,1996,Atlanta,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,False
-Djenebou Dante,F,Mali,MLI,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aminata Camara,F,Mali,MLI,1996,Atlanta,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False,True
+Kadiatou Camara,F,Mali,MLI,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Kadiatou Camara,F,Mali,MLI,2004,Athina,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Kadiatou Camara,F,Mali,MLI,2008,Beijing,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Djnbou Dant,F,Mali,MLI,2016,Rio de Janeiro,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Fanta Dao,F,Mali,MLI,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Aminata Diarra,F,Mali,MLI,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Aminata Diarra,F,Mali,MLI,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Rahamatou Dram,F,Mali,MLI,2012,London,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False,True
+Manda Kanout,F,Mali,MLI,1992,Barcelona,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Fatalmoudou Tour,F,Mali,MLI,1980,Moskva,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False,True
+Oumou Traor,F,Mali,MLI,1996,Atlanta,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,False,True
+Djenebou Dante,F,Mali,MLI,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,False,True

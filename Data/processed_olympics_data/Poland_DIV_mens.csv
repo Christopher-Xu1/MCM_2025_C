@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Roman Godziski,M,Poland,POL,1980,Moskva,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Jerzy Kowalewski,M,Poland,POL,1960,Roma,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Jerzy Kowalewski,M,Poland,POL,1960,Roma,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Jerzy Kowalewski,M,Poland,POL,1968,Mexico City,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Jerzy Kowalewski,M,Poland,POL,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Grzegorz Kozdraski,M,Poland,POL,1992,Barcelona,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Grzegorz Kozdraski,M,Poland,POL,1992,Barcelona,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Wodzimierz Mejsak,M,Poland,POL,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Jakub Puchow,M,Poland,POL,1968,Mexico City,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Jakub Puchow,M,Poland,POL,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Jakub Puchow,M,Poland,POL,1972,Munich,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Tomasz Rossa,M,Poland,POL,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Robert Lukaszewicz,M,Poland,POL,2024,Paris,Diving,Men's 10m Platform,No medal,Men's,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Roman Godziski,M,Poland,POL,1980,Moskva,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Jerzy Kowalewski,M,Poland,POL,1960,Roma,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Jerzy Kowalewski,M,Poland,POL,1960,Roma,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Jerzy Kowalewski,M,Poland,POL,1968,Mexico City,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Jerzy Kowalewski,M,Poland,POL,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Grzegorz Kozdraski,M,Poland,POL,1992,Barcelona,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Grzegorz Kozdraski,M,Poland,POL,1992,Barcelona,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Wodzimierz Mejsak,M,Poland,POL,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Jakub Puchow,M,Poland,POL,1968,Mexico City,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Jakub Puchow,M,Poland,POL,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Jakub Puchow,M,Poland,POL,1972,Munich,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Tomasz Rossa,M,Poland,POL,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Robert Lukaszewicz,M,Poland,POL,2024,Paris,Diving,Men's 10m Platform,No medal,Men's,DIV,False,True

@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hem Reaksmey,F,Cambodia,CAM,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Hem Reaksmey,F,Cambodia,CAM,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Hem Vitiny,F,Cambodia,CAM,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Hem Vitiny,F,Cambodia,CAM,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Hem Vitiny,F,Cambodia,CAM,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Ket Sivan,F,Cambodia,CAM,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Bunpichmorakat Kheun,F,Cambodia,CAM,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
-Katarina Sakbun,F,Cambodia,CAM,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hem Reaksmey,F,Cambodia,CAM,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Hem Reaksmey,F,Cambodia,CAM,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Hem Vitiny,F,Cambodia,CAM,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Hem Vitiny,F,Cambodia,CAM,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Hem Vitiny,F,Cambodia,CAM,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Ket Sivan,F,Cambodia,CAM,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Bunpichmorakat Kheun,F,Cambodia,CAM,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True
+Katarina Sakbun,F,Cambodia,CAM,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yona Knight-wisdom,M,Jamaica,JAM,2016,Rio de Janeiro,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Yona Knight-wisdom,M,Jamaica,JAM,2020,Tokyo,Diving,Men's 3m Springboard,No medal,Men's,DIV,True
-Yona Knight-wisdom,M,Jamaica,JAM,2024,Paris,Diving,Men's 3m Springboard,No medal,Men's,DIV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yona Knight-wisdom,M,Jamaica,JAM,2016,Rio de Janeiro,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Yona Knight-wisdom,M,Jamaica,JAM,2020,Tokyo,Diving,Men's 3m Springboard,No medal,Men's,DIV,True,False
+Yona Knight-wisdom,M,Jamaica,JAM,2024,Paris,Diving,Men's 3m Springboard,No medal,Men's,DIV,True,False

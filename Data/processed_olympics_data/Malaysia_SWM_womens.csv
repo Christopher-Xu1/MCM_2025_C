@@ -1,38 +1,38 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nurul Su-lin,F,Malaysia,MAS,1988,Seoul,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Nurul Su-lin,F,Malaysia,MAS,1988,Seoul,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Nurul Su-lin,F,Malaysia,MAS,1988,Seoul,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Helen Chow,F,Malaysia,MAS,1984,Los Angeles,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Helen Chow,F,Malaysia,MAS,1984,Los Angeles,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Helen Chow,F,Malaysia,MAS,1984,Los Angeles,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Helen Chow,F,Malaysia,MAS,1984,Los Angeles,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Yu Chua,F,Malaysia,MAS,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Heidi Gan,F,Malaysia,MAS,2012,London,Swimming,Swimming Women's 10 kilometres Open Water,No medal,Swimming,SWM,True
-Heidi Gan,F,Malaysia,MAS,2016,Rio de Janeiro,Swimming,Swimming Women's 10 kilometres Open Water,No medal,Swimming,SWM,True
-Mariana (-cardin),F,Malaysia,MAS,1964,Tokyo,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Khoo Lin,F,Malaysia,MAS,2008,Beijing,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Khoo Lin,F,Malaysia,MAS,2008,Beijing,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Khoo Lin,F,Malaysia,MAS,2012,London,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Leung Lin,F,Malaysia,MAS,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Lew Wey,F,Malaysia,MAS,2008,Beijing,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,False
-Ong Lin,F,Malaysia,MAS,1972,Munich,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Ong Lin,F,Malaysia,MAS,1972,Munich,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Ong Lin,F,Malaysia,MAS,1972,Munich,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Jinq Phee,F,Malaysia,MAS,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Sia Yen,F,Malaysia,MAS,2000,Sydney,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Sia Yen,F,Malaysia,MAS,2000,Sydney,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Siow Ting,F,Malaysia,MAS,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Siow Ting,F,Malaysia,MAS,2000,Sydney,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Siow Ting,F,Malaysia,MAS,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Siow Ting,F,Malaysia,MAS,2004,Athina,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Siow Ting,F,Malaysia,MAS,2004,Athina,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Siow Ting,F,Malaysia,MAS,2008,Beijing,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Siow Ting,F,Malaysia,MAS,2008,Beijing,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Tay Leng,F,Malaysia,MAS,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Chin Tay,F,Malaysia,MAS,1964,Tokyo,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False
-Jovina Tseng,F,Malaysia,MAS,1964,Tokyo,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Jovina Tseng,F,Malaysia,MAS,1964,Tokyo,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Jovina Tseng,F,Malaysia,MAS,1964,Tokyo,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-En Phee,F,Malaysia,MAS,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,True
-En Phee,F,Malaysia,MAS,2020,Tokyo,Swimming,Women's 200m Breaststroke,No medal,Women's,SWM,True
-Rouxin Tan,F,Malaysia,MAS,2024,Paris,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nurul Su-lin,F,Malaysia,MAS,1988,Seoul,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Nurul Su-lin,F,Malaysia,MAS,1988,Seoul,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Nurul Su-lin,F,Malaysia,MAS,1988,Seoul,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Helen Chow,F,Malaysia,MAS,1984,Los Angeles,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Helen Chow,F,Malaysia,MAS,1984,Los Angeles,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Helen Chow,F,Malaysia,MAS,1984,Los Angeles,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Helen Chow,F,Malaysia,MAS,1984,Los Angeles,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Yu Chua,F,Malaysia,MAS,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Heidi Gan,F,Malaysia,MAS,2012,London,Swimming,Swimming Women's 10 kilometres Open Water,No medal,Swimming,SWM,True,True
+Heidi Gan,F,Malaysia,MAS,2016,Rio de Janeiro,Swimming,Swimming Women's 10 kilometres Open Water,No medal,Swimming,SWM,True,False
+Mariana (-cardin),F,Malaysia,MAS,1964,Tokyo,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Khoo Lin,F,Malaysia,MAS,2008,Beijing,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Khoo Lin,F,Malaysia,MAS,2008,Beijing,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Khoo Lin,F,Malaysia,MAS,2012,London,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,False
+Leung Lin,F,Malaysia,MAS,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Lew Wey,F,Malaysia,MAS,2008,Beijing,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,False,True
+Ong Lin,F,Malaysia,MAS,1972,Munich,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Ong Lin,F,Malaysia,MAS,1972,Munich,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Ong Lin,F,Malaysia,MAS,1972,Munich,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Jinq Phee,F,Malaysia,MAS,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Sia Yen,F,Malaysia,MAS,2000,Sydney,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Sia Yen,F,Malaysia,MAS,2000,Sydney,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Siow Ting,F,Malaysia,MAS,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Siow Ting,F,Malaysia,MAS,2000,Sydney,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Siow Ting,F,Malaysia,MAS,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Siow Ting,F,Malaysia,MAS,2004,Athina,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Siow Ting,F,Malaysia,MAS,2004,Athina,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Siow Ting,F,Malaysia,MAS,2008,Beijing,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Siow Ting,F,Malaysia,MAS,2008,Beijing,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Tay Leng,F,Malaysia,MAS,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Chin Tay,F,Malaysia,MAS,1964,Tokyo,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Jovina Tseng,F,Malaysia,MAS,1964,Tokyo,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Jovina Tseng,F,Malaysia,MAS,1964,Tokyo,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Jovina Tseng,F,Malaysia,MAS,1964,Tokyo,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+En Phee,F,Malaysia,MAS,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,True,True
+En Phee,F,Malaysia,MAS,2020,Tokyo,Swimming,Women's 200m Breaststroke,No medal,Women's,SWM,True,True
+Rouxin Tan,F,Malaysia,MAS,2024,Paris,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Adla Hanzlkov,F,Czech Republic,CZE,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Adla Hanzlkov,F,Czech Republic,CZE,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True

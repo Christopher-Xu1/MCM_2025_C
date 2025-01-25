@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Patapol Ngernsrisuk,M,Thailand-1,THA,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Sudket Prapakamol,M,Thailand-1,THA,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Pramote Teerawiwatana,M,Thailand-1,THA,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Sakrapee Thongsari,M,Thailand-1,THA,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Patapol Ngernsrisuk,M,Thailand-1,THA,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Sudket Prapakamol,M,Thailand-1,THA,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Pramote Teerawiwatana,M,Thailand-1,THA,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Sakrapee Thongsari,M,Thailand-1,THA,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True

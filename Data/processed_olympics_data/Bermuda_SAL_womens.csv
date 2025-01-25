@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Paula Lewin,F,Bermuda,BER,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Paula Lewin,F,Bermuda,BER,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Paula Lewin,F,Bermuda,BER,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,True
-Peta Lewin,F,Bermuda,BER,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Christine Patton,F,Bermuda,BER,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Cecilia Wollmann,F,Bermuda,BER,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Sara (-adderly),F,Bermuda,BER,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Adriana Penruddocke,F,Bermuda,BER,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Paula Lewin,F,Bermuda,BER,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Paula Lewin,F,Bermuda,BER,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Paula Lewin,F,Bermuda,BER,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,True,False
+Peta Lewin,F,Bermuda,BER,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Christine Patton,F,Bermuda,BER,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Cecilia Wollmann,F,Bermuda,BER,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Sara (-adderly),F,Bermuda,BER,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Adriana Penruddocke,F,Bermuda,BER,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False,True

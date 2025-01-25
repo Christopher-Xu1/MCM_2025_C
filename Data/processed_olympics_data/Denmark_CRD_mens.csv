@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kasper Asgreen,M,Denmark,DEN,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Kasper Asgreen,M,Denmark,DEN,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Jakob Fuglsang,M,Denmark,DEN,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Valgren Hundahl,M,Denmark,DEN,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Christopher Jensen,M,Denmark,DEN,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Mattias Skjelmose,M,Denmark,DEN,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Mattias Skjelmose,M,Denmark,DEN,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Norsgaard Bjerg,M,Denmark,DEN,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Norsgaard Bjerg,M,Denmark,DEN,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Mads Pedersen,M,Denmark,DEN,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kasper Asgreen,M,Denmark,DEN,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Kasper Asgreen,M,Denmark,DEN,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Jakob Fuglsang,M,Denmark,DEN,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Valgren Hundahl,M,Denmark,DEN,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Christopher Jensen,M,Denmark,DEN,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Mattias Skjelmose,M,Denmark,DEN,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Mattias Skjelmose,M,Denmark,DEN,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Norsgaard Bjerg,M,Denmark,DEN,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Norsgaard Bjerg,M,Denmark,DEN,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Mads Pedersen,M,Denmark,DEN,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True

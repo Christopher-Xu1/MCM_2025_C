@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Karen -jrgensen),F,Denmark,DEN,1936,Berlin,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Inge (gregersen-ettrup),F,Denmark,DEN,1948,London,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Birte (-ekberg),F,Denmark,DEN,1948,London,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Birte (-ekberg),F,Denmark,DEN,1948,London,Diving,Diving Women's Platform,Bronze,Diving,DIV,True
-Anna (-fryland),F,Denmark,DEN,1920,Antwerpen,Diving,Diving Women's Plain High,Gold,Diving,DIV,False
-Mette Gregaard,F,Denmark,DEN,1936,Berlin,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Ingrid (-sabroe),F,Denmark,DEN,1932,Los Angeles,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Ingrid (-sabroe),F,Denmark,DEN,1932,Los Angeles,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Hanna (-jensen),F,Denmark,DEN,1956,Melbourne,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Hanna (-jensen),F,Denmark,DEN,1960,Roma,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Edith (-scheffler),F,Denmark,DEN,1924,Paris,Diving,Diving Women's Plain High,No medal,Diving,DIV,True
-Edith (-scheffler),F,Denmark,DEN,1928,Amsterdam,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Lovise -brandt),F,Denmark,DEN,1920,Antwerpen,Diving,Diving Women's Plain High,No medal,Diving,DIV,False
-Bende Velin,F,Denmark,DEN,1960,Roma,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Kirsten Velin,F,Denmark,DEN,1964,Tokyo,Diving,Diving Women's Platform,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Karen -jrgensen),F,Denmark,DEN,1936,Berlin,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Inge (gregersen-ettrup),F,Denmark,DEN,1948,London,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Birte (-ekberg),F,Denmark,DEN,1948,London,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Birte (-ekberg),F,Denmark,DEN,1948,London,Diving,Diving Women's Platform,Bronze,Diving,DIV,True,True
+Anna (-fryland),F,Denmark,DEN,1920,Antwerpen,Diving,Diving Women's Plain High,Gold,Diving,DIV,False,True
+Mette Gregaard,F,Denmark,DEN,1936,Berlin,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Ingrid (-sabroe),F,Denmark,DEN,1932,Los Angeles,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Ingrid (-sabroe),F,Denmark,DEN,1932,Los Angeles,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Hanna (-jensen),F,Denmark,DEN,1956,Melbourne,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Hanna (-jensen),F,Denmark,DEN,1960,Roma,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Edith (-scheffler),F,Denmark,DEN,1924,Paris,Diving,Diving Women's Plain High,No medal,Diving,DIV,True,True
+Edith (-scheffler),F,Denmark,DEN,1928,Amsterdam,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Lovise -brandt),F,Denmark,DEN,1920,Antwerpen,Diving,Diving Women's Plain High,No medal,Diving,DIV,False,True
+Bende Velin,F,Denmark,DEN,1960,Roma,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Kirsten Velin,F,Denmark,DEN,1964,Tokyo,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True

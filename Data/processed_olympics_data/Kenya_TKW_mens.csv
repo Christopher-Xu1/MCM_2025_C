@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dickson Wanjiku,M,Kenya,KEN,2008,Beijing,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dickson Wanjiku,M,Kenya,KEN,2008,Beijing,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dng Dan,M,South Vietnam,VNM,1968,Mexico City,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,False
-Ho Thu,M,South Vietnam,VNM,1968,Mexico City,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,True
-Ho Thu,M,South Vietnam,VNM,1972,Munich,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,True
-Hng Thi,M,South Vietnam,VNM,1972,Munich,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,False
-V Danh,M,South Vietnam,VNM,1968,Mexico City,Shooting,"Shooting Mixed Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dng Dan,M,South Vietnam,VNM,1968,Mexico City,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,False,True
+Ho Thu,M,South Vietnam,VNM,1968,Mexico City,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,True,True
+Ho Thu,M,South Vietnam,VNM,1972,Munich,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,True,False
+Hng Thi,M,South Vietnam,VNM,1972,Munich,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,False,True
+V Danh,M,South Vietnam,VNM,1968,Mexico City,Shooting,"Shooting Mixed Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False,True

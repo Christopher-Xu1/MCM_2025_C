@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Werner Biel,M,Saar,SAA,1952,Helsinki,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False
-Klaus Hahn,M,Saar,SAA,1952,Helsinki,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False
-Herbert Kesel,M,Saar,SAA,1952,Helsinki,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False
-Joachim Krause-wichmann,M,Saar,SAA,1952,Helsinki,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False
-Hans Krause-wichmann,M,Saar,SAA,1952,Helsinki,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False
-Hanns Peters,M,Saar,SAA,1952,Helsinki,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False
-Gnther Schtt,M,Saar,SAA,1952,Helsinki,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Werner Biel,M,Saar,SAA,1952,Helsinki,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False,True
+Klaus Hahn,M,Saar,SAA,1952,Helsinki,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False,True
+Herbert Kesel,M,Saar,SAA,1952,Helsinki,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False,True
+Joachim Krause-wichmann,M,Saar,SAA,1952,Helsinki,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False,True
+Hans Krause-wichmann,M,Saar,SAA,1952,Helsinki,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False,True
+Hanns Peters,M,Saar,SAA,1952,Helsinki,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False,True
+Gnther Schtt,M,Saar,SAA,1952,Helsinki,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True

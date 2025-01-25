@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Keith (-keith),M,Paka,GBR,1936,Berlin,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-William Welply,M,Paka,GBR,1936,Berlin,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Keith (-keith),M,Paka,GBR,1936,Berlin,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+William Welply,M,Paka,GBR,1936,Berlin,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True

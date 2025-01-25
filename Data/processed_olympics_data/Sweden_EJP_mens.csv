@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rolf-goran Bengtsson,M,Sweden,SWE,2020,Tokyo,Equestrian,Jumping Team,Gold,Jumping,EJP,True
-Peder Fredricson,M,Sweden,SWE,2020,Tokyo,Equestrian,Jumping Team,Gold,Jumping,EJP,True
-Peder Fredricson,M,Sweden,SWE,2020,Tokyo,Equestrian,Jumping Individual,Silver,Jumping,EJP,True
-von Henrik,M,Sweden,SWE,2020,Tokyo,Equestrian,Jumping Team,Gold,Jumping,EJP,True
-von Henrik,M,Sweden,SWE,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Rolf-goran Bengtsson,M,Sweden,SWE,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Rolf-goran Bengtsson,M,Sweden,SWE,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-von Henrik,M,Sweden,SWE,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-von Henrik,M,Sweden,SWE,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Peder Fredricson,M,Sweden,SWE,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Peder Fredricson,M,Sweden,SWE,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rolf-goran Bengtsson,M,Sweden,SWE,2020,Tokyo,Equestrian,Jumping Team,Gold,Jumping,EJP,True,True
+Peder Fredricson,M,Sweden,SWE,2020,Tokyo,Equestrian,Jumping Team,Gold,Jumping,EJP,True,True
+Peder Fredricson,M,Sweden,SWE,2020,Tokyo,Equestrian,Jumping Individual,Silver,Jumping,EJP,True,True
+von Henrik,M,Sweden,SWE,2020,Tokyo,Equestrian,Jumping Team,Gold,Jumping,EJP,True,True
+von Henrik,M,Sweden,SWE,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Rolf-goran Bengtsson,M,Sweden,SWE,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+Rolf-goran Bengtsson,M,Sweden,SWE,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,False
+von Henrik,M,Sweden,SWE,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+von Henrik,M,Sweden,SWE,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,False
+Peder Fredricson,M,Sweden,SWE,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+Peder Fredricson,M,Sweden,SWE,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,False

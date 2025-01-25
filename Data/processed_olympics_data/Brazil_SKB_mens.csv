@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pedro Barros,M,Brazil,BRA,2020,Tokyo,Skateboarding,Men's Park,Silver,Men's,SKB,True
-Gustavo Felipe,M,Brazil,BRA,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,False
-Luiz Francisco,M,Brazil,BRA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,False
-Kelvin Hoefler,M,Brazil,BRA,2020,Tokyo,Skateboarding,Men's Street,Silver,Men's,SKB,True
-Pedro Quintas,M,Brazil,BRA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,False
-Giovanni Vianna,M,Brazil,BRA,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,True
-Augusto Akio,M,Brazil,BRA,2024,Paris,Skateboarding,Men's Park,Bronze,Men's,SKB,False
-Felipe Gustavo,M,Brazil,BRA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,False
-Giovanni Vianna,M,Brazil,BRA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,True
-Kelvin Hoefler,M,Brazil,BRA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,True
-Luigi Cini,M,Brazil,BRA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,False
-Pedro Barros,M,Brazil,BRA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pedro Barros,M,Brazil,BRA,2020,Tokyo,Skateboarding,Men's Park,Silver,Men's,SKB,True,True
+Gustavo Felipe,M,Brazil,BRA,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,False,True
+Luiz Francisco,M,Brazil,BRA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,False,True
+Kelvin Hoefler,M,Brazil,BRA,2020,Tokyo,Skateboarding,Men's Street,Silver,Men's,SKB,True,True
+Pedro Quintas,M,Brazil,BRA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,False,True
+Giovanni Vianna,M,Brazil,BRA,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,True,True
+Augusto Akio,M,Brazil,BRA,2024,Paris,Skateboarding,Men's Park,Bronze,Men's,SKB,False,True
+Felipe Gustavo,M,Brazil,BRA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,False,True
+Giovanni Vianna,M,Brazil,BRA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,True,False
+Kelvin Hoefler,M,Brazil,BRA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,True,False
+Luigi Cini,M,Brazil,BRA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,False,True
+Pedro Barros,M,Brazil,BRA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,True,False

@@ -1,44 +1,44 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Shu Arai,M,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Seiko Iseki,M,Japan,JPN,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Yo Kan,M,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Yo Kan,M,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Seiya Kishikawa,M,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Seiya Kishikawa,M,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Seiya Kishikawa,M,Japan,JPN,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Seiya Kishikawa,M,Japan,JPN,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Koji Matsushita,M,Japan,JPN,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Koji Matsushita,M,Japan,JPN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Koji Matsushita,M,Japan,JPN,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Koji Matsushita,M,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Yoshihito Miyazaki,M,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Jun Mizutani,M,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Jun Mizutani,M,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Jun Mizutani,M,Japan,JPN,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Jun Mizutani,M,Japan,JPN,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Jun Mizutani,M,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,Bronze,Table,TTE,True
-Jun Mizutani,M,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Silver,Table,TTE,True
-Koki Niwa,M,Japan,JPN,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Koki Niwa,M,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Koki Niwa,M,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Silver,Table,TTE,True
-Seiji Ono,M,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Kiyoshi Saito,M,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Hiroshi Shibutani,M,Japan,JPN,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Hiroshi Shibutani,M,Japan,JPN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Toshio Tasaki,M,Japan,JPN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Toshio Tasaki,M,Japan,JPN,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Takehiro Watanabe,M,Japan,JPN,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Maharu Yoshimura,M,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Silver,Table,TTE,False
-Ryo Yuzawa,M,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Tomokazu Harimoto,M,Japan,JPN,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Tomokazu Harimoto,M,Japan,JPN,2020,Tokyo,Table Tennis,Men's Team,Bronze,Men's,TTE,True
-Jun Mizutani,M,Japan,JPN,2020,Tokyo,Table Tennis,Mixed Doubles Team,Gold,Mixed,TTE,True
-Jun Mizutani,M,Japan,JPN,2020,Tokyo,Table Tennis,Men's Team,Bronze,Men's,TTE,True
-Koki Niwa,M,Japan,JPN,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Koki Niwa,M,Japan,JPN,2020,Tokyo,Table Tennis,Men's Team,Bronze,Men's,TTE,True
-Tomokazu Harimoto,M,Japan,JPN,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Tomokazu Harimoto,M,Japan,JPN,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True
-Tomokazu Harimoto,M,Japan,JPN,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True
-Hiroto Shinozuka,M,Japan,JPN,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,False
-Shunsuke Togami,M,Japan,JPN,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Shunsuke Togami,M,Japan,JPN,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Shu Arai,M,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Seiko Iseki,M,Japan,JPN,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Yo Kan,M,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Yo Kan,M,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,True
+Seiya Kishikawa,M,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Seiya Kishikawa,M,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,True
+Seiya Kishikawa,M,Japan,JPN,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Seiya Kishikawa,M,Japan,JPN,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,False
+Koji Matsushita,M,Japan,JPN,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Koji Matsushita,M,Japan,JPN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Koji Matsushita,M,Japan,JPN,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Koji Matsushita,M,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Yoshihito Miyazaki,M,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Jun Mizutani,M,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Jun Mizutani,M,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,True
+Jun Mizutani,M,Japan,JPN,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Jun Mizutani,M,Japan,JPN,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,False
+Jun Mizutani,M,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,Bronze,Table,TTE,True,False
+Jun Mizutani,M,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Silver,Table,TTE,True,False
+Koki Niwa,M,Japan,JPN,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,True
+Koki Niwa,M,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Koki Niwa,M,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Silver,Table,TTE,True,False
+Seiji Ono,M,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Kiyoshi Saito,M,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Hiroshi Shibutani,M,Japan,JPN,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Hiroshi Shibutani,M,Japan,JPN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Toshio Tasaki,M,Japan,JPN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Toshio Tasaki,M,Japan,JPN,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Takehiro Watanabe,M,Japan,JPN,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Maharu Yoshimura,M,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Silver,Table,TTE,False,True
+Ryo Yuzawa,M,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Tomokazu Harimoto,M,Japan,JPN,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True,True
+Tomokazu Harimoto,M,Japan,JPN,2020,Tokyo,Table Tennis,Men's Team,Bronze,Men's,TTE,True,True
+Jun Mizutani,M,Japan,JPN,2020,Tokyo,Table Tennis,Mixed Doubles Team,Gold,Mixed,TTE,True,False
+Jun Mizutani,M,Japan,JPN,2020,Tokyo,Table Tennis,Men's Team,Bronze,Men's,TTE,True,False
+Koki Niwa,M,Japan,JPN,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True,False
+Koki Niwa,M,Japan,JPN,2020,Tokyo,Table Tennis,Men's Team,Bronze,Men's,TTE,True,False
+Tomokazu Harimoto,M,Japan,JPN,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True,False
+Tomokazu Harimoto,M,Japan,JPN,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True,False
+Tomokazu Harimoto,M,Japan,JPN,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True,False
+Hiroto Shinozuka,M,Japan,JPN,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,False,True
+Shunsuke Togami,M,Japan,JPN,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True,True
+Shunsuke Togami,M,Japan,JPN,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True,True

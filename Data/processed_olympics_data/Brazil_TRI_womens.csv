@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carla Moreno,F,Brazil,BRA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Carla Moreno,F,Brazil,BRA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Mariana Ohata,F,Brazil,BRA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Mariana Ohata,F,Brazil,BRA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Mariana Ohata,F,Brazil,BRA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Pmella Oliveira,F,Brazil,BRA,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Pmella Oliveira,F,Brazil,BRA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Sandra Soldan,F,Brazil,BRA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Sandra Soldan,F,Brazil,BRA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Luisa Baptista,F,Brazil,BRA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,False
-Vittoria Lopes,F,Brazil,BRA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Djenyfer Arnold,F,Brazil,BRA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False
-Vittoria Lopes,F,Brazil,BRA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carla Moreno,F,Brazil,BRA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Carla Moreno,F,Brazil,BRA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Mariana Ohata,F,Brazil,BRA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Mariana Ohata,F,Brazil,BRA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Mariana Ohata,F,Brazil,BRA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Pmella Oliveira,F,Brazil,BRA,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Pmella Oliveira,F,Brazil,BRA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Sandra Soldan,F,Brazil,BRA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Sandra Soldan,F,Brazil,BRA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Luisa Baptista,F,Brazil,BRA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,False,True
+Vittoria Lopes,F,Brazil,BRA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,True
+Djenyfer Arnold,F,Brazil,BRA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False,True
+Vittoria Lopes,F,Brazil,BRA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,True,False

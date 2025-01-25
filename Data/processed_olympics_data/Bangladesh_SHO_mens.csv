@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Saiful Alam,M,Bangladesh,BAN,1996,Atlanta,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Abdullah Baki,M,Bangladesh,BAN,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Mohammad Hossain,M,Bangladesh,BAN,2008,Beijing,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Muhammad Khan,M,Bangladesh,BAN,2004,Athina,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Hel Baki,M,Bangladesh,BAN,2020,Tokyo,Shooting,10m Air Rifle Men,No medal,10m,SHO,False
-Islam Robiul,M,Bangladesh,BAN,2024,Paris,Shooting,10m Air Rifle Men,No medal,10m,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Saiful Alam,M,Bangladesh,BAN,1996,Atlanta,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Abdullah Baki,M,Bangladesh,BAN,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Mohammad Hossain,M,Bangladesh,BAN,2008,Beijing,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Muhammad Khan,M,Bangladesh,BAN,2004,Athina,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Hel Baki,M,Bangladesh,BAN,2020,Tokyo,Shooting,10m Air Rifle Men,No medal,10m,SHO,False,True
+Islam Robiul,M,Bangladesh,BAN,2024,Paris,Shooting,10m Air Rifle Men,No medal,10m,SHO,False,True

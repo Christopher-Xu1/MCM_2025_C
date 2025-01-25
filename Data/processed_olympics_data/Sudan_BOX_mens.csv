@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohamed Abakkar,M,Sudan,SUD,1972,Munich,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Sayed Gadir,M,Sudan,SUD,1960,Roma,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True
-Sayed Gadir,M,Sudan,SUD,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Hwad Lumomba,M,Sudan,SUD,1968,Mexico City,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Abdel Salih,M,Sudan,SUD,1968,Mexico City,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True
-Abdel Salih,M,Sudan,SUD,1972,Munich,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Alego Akomi,M,Sudan,SUD,1984,Los Angeles,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Peter Kabeni,M,Sudan,SUD,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Mohamed Faragalla,M,Sudan,SUD,1960,Roma,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Mohamed Hammad,M,Sudan,SUD,1988,Seoul,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False
-Kasamiro Marchlo,M,Sudan,SUD,1972,Munich,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Augustino Marial,M,Sudan,SUD,1984,Los Angeles,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-John Mirona,M,Sudan,SUD,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Timsah Mulwal,M,Sudan,SUD,1972,Munich,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Tobi Obanio,M,Sudan,SUD,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True
-Tobi Obanio,M,Sudan,SUD,1988,Seoul,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Abdullah Suliman,M,Sudan,SUD,1988,Seoul,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Mirgaani Rizgalla,M,Sudan,SUD,1972,Munich,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Mohamed Rizgalla,M,Sudan,SUD,1960,Roma,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Abock Shoak,M,Sudan,SUD,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohamed Abakkar,M,Sudan,SUD,1972,Munich,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Sayed Gadir,M,Sudan,SUD,1960,Roma,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True,True
+Sayed Gadir,M,Sudan,SUD,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,False
+Hwad Lumomba,M,Sudan,SUD,1968,Mexico City,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Abdel Salih,M,Sudan,SUD,1968,Mexico City,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True,True
+Abdel Salih,M,Sudan,SUD,1972,Munich,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,False
+Alego Akomi,M,Sudan,SUD,1984,Los Angeles,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Peter Kabeni,M,Sudan,SUD,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Mohamed Faragalla,M,Sudan,SUD,1960,Roma,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Mohamed Hammad,M,Sudan,SUD,1988,Seoul,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False,True
+Kasamiro Marchlo,M,Sudan,SUD,1972,Munich,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Augustino Marial,M,Sudan,SUD,1984,Los Angeles,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+John Mirona,M,Sudan,SUD,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Timsah Mulwal,M,Sudan,SUD,1972,Munich,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Tobi Obanio,M,Sudan,SUD,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True,True
+Tobi Obanio,M,Sudan,SUD,1988,Seoul,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,False
+Abdullah Suliman,M,Sudan,SUD,1988,Seoul,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Mirgaani Rizgalla,M,Sudan,SUD,1972,Munich,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Mohamed Rizgalla,M,Sudan,SUD,1960,Roma,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Abock Shoak,M,Sudan,SUD,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True

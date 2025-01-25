@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Theodoros Emeraldis,M,Omilos Ereton Peiraios-2,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,False
-N. Papakostas,M,Omilos Ereton Peiraios-2,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,False
-N. Retsinopoulos,M,Omilos Ereton Peiraios-2,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Theodoros Emeraldis,M,Omilos Ereton Peiraios-2,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,False,True
+N. Papakostas,M,Omilos Ereton Peiraios-2,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,False,True
+N. Retsinopoulos,M,Omilos Ereton Peiraios-2,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,False,True

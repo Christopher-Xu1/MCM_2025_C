@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Thomas Coe,M,"Osborne Swimming Club, Manchester",GBR,1900,Paris,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-Robert Crawshaw,M,"Osborne Swimming Club, Manchester",GBR,1900,Paris,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-William Henry,M,"Osborne Swimming Club, Manchester",GBR,1900,Paris,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-John Jarvis,M,"Osborne Swimming Club, Manchester",GBR,1900,Paris,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-Peter Kemp,M,"Osborne Swimming Club, Manchester",GBR,1900,Paris,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-Michael Lindberg,M,"Osborne Swimming Club, Manchester",NZL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-Frederick Stapleton,M,"Osborne Swimming Club, Manchester",GBR,1900,Paris,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Thomas Coe,M,"Osborne Swimming Club, Manchester",GBR,1900,Paris,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+Robert Crawshaw,M,"Osborne Swimming Club, Manchester",GBR,1900,Paris,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+William Henry,M,"Osborne Swimming Club, Manchester",GBR,1900,Paris,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+John Jarvis,M,"Osborne Swimming Club, Manchester",GBR,1900,Paris,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+Peter Kemp,M,"Osborne Swimming Club, Manchester",GBR,1900,Paris,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+Michael Lindberg,M,"Osborne Swimming Club, Manchester",NZL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+Frederick Stapleton,M,"Osborne Swimming Club, Manchester",GBR,1900,Paris,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True

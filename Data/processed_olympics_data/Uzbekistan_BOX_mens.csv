@@ -1,65 +1,65 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mukhammad Abdullayev,M,Uzbekistan,UZB,1996,Atlanta,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Mukhammad Abdullayev,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Light-Welterweight,Gold,Boxing,BOX,True
-Sherzod Abdurahmonov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Murodzhon Akhmadaliyev,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Bantamweight,Bronze,Boxing,BOX,False
-Igor Alborov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Abbos Atayev,M,Uzbekistan,UZB,2008,Beijing,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Abbos Atayev,M,Uzbekistan,UZB,2012,London,Boxing,Boxing Men's Middleweight,Bronze,Boxing,BOX,True
-Nariman Atayev,M,Uzbekistan,UZB,1996,Atlanta,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Ruslan Chagayev,M,Uzbekistan,UZB,1996,Atlanta,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True
-Ruslan Chagayev,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True
-Tolyashboy Doniyorov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True
-Tolyashboy Doniyorov,M,Uzbekistan,UZB,2008,Beijing,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True
-Hasanboy Dusmatov,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Flyweight,Gold,Boxing,BOX,True
-Bakhodir Dzhalolov,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False
-Fazliddin Gaybnazarov,M,Uzbekistan,UZB,2012,London,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Fazliddin Gaybnazarov,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Welterweight,Gold,Boxing,BOX,True
-Shakhram Giyasov,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Welterweight,Silver,Boxing,BOX,False
-Temur Ibragimov,M,Uzbekistan,UZB,1996,Atlanta,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Ulugbek Ibragimov,M,Uzbekistan,UZB,1996,Atlanta,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Utkirbek Khaydarov,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Utkirbek Khaydarov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,Bronze,Boxing,BOX,True
-Bekzod Khidirov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Sherzod Khusanov,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Sherzod Khusanov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Zhasurbek Latipov,M,Uzbekistan,UZB,2012,London,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Dilshod Makhmudov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Dilshod Makhmudov,M,Uzbekistan,UZB,2008,Beijing,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Bektemir Melikuziyev,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Middleweight,Silver,Boxing,BOX,False
-Sergey Mikhaylov,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Light-Heavyweight,Bronze,Boxing,BOX,False
-Alisher Rahimov,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Uktamzhon Rakhmonov,M,Uzbekistan,UZB,2012,London,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Elshod Rasulov,M,Uzbekistan,UZB,2008,Beijing,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Elshod Rasulov,M,Uzbekistan,UZB,2012,London,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Elshod Rasulov,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Rustam Saidov,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Super-Heavyweight,Bronze,Boxing,BOX,True
-Rustam Saidov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,True
-Orzubek Shaimov,M,Uzbekistan,UZB,2012,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Bakhodirdzhon Sultanov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Bantamweight,Bronze,Boxing,BOX,True
-Bakhodirdzhon Sultanov,M,Uzbekistan,UZB,2008,Beijing,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True
-Rafikzhon Sultanov,M,Uzbekistan,UZB,2008,Beijing,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Khurshid Todzhiboyev,M,Uzbekistan,UZB,2008,Beijing,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True
-Khurshid Todzhiboyev,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Rustam Tulaganov,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Heavyweight,Bronze,Boxing,BOX,False
-Karim Tulyaganov,M,Uzbekistan,UZB,1996,Atlanta,Boxing,Boxing Men's Light-Middleweight,Bronze,Boxing,BOX,False
-Tulkunbay Turgunov,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Dilshod Yarbekov,M,Uzbekistan,UZB,1996,Atlanta,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Dilshod Yarbekov,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True
-Dilshod Yuldashev,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Shakhobiddin Zoirov,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Flyweight,Gold,Boxing,BOX,False
-Elnur Abduraimov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Light (57-63kg),No medal,Men's,BOX,False
-Bobo-usmon Baturov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Welter (63-69kg),No medal,Men's,BOX,False
-Bakhodir Jalolov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Super Heavy (+91kg),Gold,Men's,BOX,True
-Fanat Kakhramonov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Middle (69-75kg),No medal,Men's,BOX,False
-Mirazizbek Mirzakhalilov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Feather (52-57kg),No medal,Men's,BOX,False
-Dilshod Ruzmetov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Light Heavy (75-81kg),No medal,Men's,BOX,False
-Sanjar Tursunov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Heavy (81-91kg),No medal,Men's,BOX,False
-Shakhobidin Zoirov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Fly (48-52kg),No medal,Men's,BOX,False
-Hasanboy Dusmatov,M,Uzbekistan,UZB,2024,Paris,Boxing,Men's 51kg,Gold,Men's,BOX,True
-Abdumalik Khalokov,M,Uzbekistan,UZB,2024,Paris,Boxing,Men's 57kg,Gold,Men's,BOX,False
-Ruslan Abdullaev,M,Uzbekistan,UZB,2024,Paris,Boxing,Men's 63.5kg,No medal,Men's,BOX,False
-Asadkhuja Muydinkhujaev,M,Uzbekistan,UZB,2024,Paris,Boxing,Men's 71kg,Gold,Men's,BOX,False
-Turabek Khabibullaev,M,Uzbekistan,UZB,2024,Paris,Boxing,Men's 80kg,No medal,Men's,BOX,False
-Lazizbek Mullojonov,M,Uzbekistan,UZB,2024,Paris,Boxing,Men's 92kg,Gold,Men's,BOX,False
-Bakhodir Jalolov,M,Uzbekistan,UZB,2024,Paris,Boxing,Men's +92kg,Gold,Men's,BOX,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mukhammad Abdullayev,M,Uzbekistan,UZB,1996,Atlanta,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,True
+Mukhammad Abdullayev,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Light-Welterweight,Gold,Boxing,BOX,True,False
+Sherzod Abdurahmonov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Murodzhon Akhmadaliyev,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Bantamweight,Bronze,Boxing,BOX,False,True
+Igor Alborov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Abbos Atayev,M,Uzbekistan,UZB,2008,Beijing,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,True
+Abbos Atayev,M,Uzbekistan,UZB,2012,London,Boxing,Boxing Men's Middleweight,Bronze,Boxing,BOX,True,False
+Nariman Atayev,M,Uzbekistan,UZB,1996,Atlanta,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Ruslan Chagayev,M,Uzbekistan,UZB,1996,Atlanta,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True,True
+Ruslan Chagayev,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True,False
+Tolyashboy Doniyorov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True,True
+Tolyashboy Doniyorov,M,Uzbekistan,UZB,2008,Beijing,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True,False
+Hasanboy Dusmatov,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Flyweight,Gold,Boxing,BOX,True,True
+Bakhodir Dzhalolov,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False,True
+Fazliddin Gaybnazarov,M,Uzbekistan,UZB,2012,London,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,True
+Fazliddin Gaybnazarov,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Welterweight,Gold,Boxing,BOX,True,False
+Shakhram Giyasov,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Welterweight,Silver,Boxing,BOX,False,True
+Temur Ibragimov,M,Uzbekistan,UZB,1996,Atlanta,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Ulugbek Ibragimov,M,Uzbekistan,UZB,1996,Atlanta,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Utkirbek Khaydarov,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,True
+Utkirbek Khaydarov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,Bronze,Boxing,BOX,True,False
+Bekzod Khidirov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Sherzod Khusanov,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,True
+Sherzod Khusanov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,False
+Zhasurbek Latipov,M,Uzbekistan,UZB,2012,London,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Dilshod Makhmudov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,True
+Dilshod Makhmudov,M,Uzbekistan,UZB,2008,Beijing,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,False
+Bektemir Melikuziyev,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Middleweight,Silver,Boxing,BOX,False,True
+Sergey Mikhaylov,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Light-Heavyweight,Bronze,Boxing,BOX,False,True
+Alisher Rahimov,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Uktamzhon Rakhmonov,M,Uzbekistan,UZB,2012,London,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Elshod Rasulov,M,Uzbekistan,UZB,2008,Beijing,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,True
+Elshod Rasulov,M,Uzbekistan,UZB,2012,London,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,False
+Elshod Rasulov,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,False
+Rustam Saidov,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Super-Heavyweight,Bronze,Boxing,BOX,True,True
+Rustam Saidov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,True,False
+Orzubek Shaimov,M,Uzbekistan,UZB,2012,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Bakhodirdzhon Sultanov,M,Uzbekistan,UZB,2004,Athina,Boxing,Boxing Men's Bantamweight,Bronze,Boxing,BOX,True,True
+Bakhodirdzhon Sultanov,M,Uzbekistan,UZB,2008,Beijing,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True,False
+Rafikzhon Sultanov,M,Uzbekistan,UZB,2008,Beijing,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Khurshid Todzhiboyev,M,Uzbekistan,UZB,2008,Beijing,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True,True
+Khurshid Todzhiboyev,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,False
+Rustam Tulaganov,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Heavyweight,Bronze,Boxing,BOX,False,True
+Karim Tulyaganov,M,Uzbekistan,UZB,1996,Atlanta,Boxing,Boxing Men's Light-Middleweight,Bronze,Boxing,BOX,False,True
+Tulkunbay Turgunov,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Dilshod Yarbekov,M,Uzbekistan,UZB,1996,Atlanta,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,True
+Dilshod Yarbekov,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True,False
+Dilshod Yuldashev,M,Uzbekistan,UZB,2000,Sydney,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Shakhobiddin Zoirov,M,Uzbekistan,UZB,2016,Rio de Janeiro,Boxing,Boxing Men's Flyweight,Gold,Boxing,BOX,False,True
+Elnur Abduraimov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Light (57-63kg),No medal,Men's,BOX,False,True
+Bobo-usmon Baturov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Welter (63-69kg),No medal,Men's,BOX,False,True
+Bakhodir Jalolov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Super Heavy (+91kg),Gold,Men's,BOX,True,True
+Fanat Kakhramonov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Middle (69-75kg),No medal,Men's,BOX,False,True
+Mirazizbek Mirzakhalilov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Feather (52-57kg),No medal,Men's,BOX,False,True
+Dilshod Ruzmetov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Light Heavy (75-81kg),No medal,Men's,BOX,False,True
+Sanjar Tursunov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Heavy (81-91kg),No medal,Men's,BOX,False,True
+Shakhobidin Zoirov,M,Uzbekistan,UZB,2020,Tokyo,Boxing,Men's Fly (48-52kg),No medal,Men's,BOX,False,True
+Hasanboy Dusmatov,M,Uzbekistan,UZB,2024,Paris,Boxing,Men's 51kg,Gold,Men's,BOX,True,False
+Abdumalik Khalokov,M,Uzbekistan,UZB,2024,Paris,Boxing,Men's 57kg,Gold,Men's,BOX,False,True
+Ruslan Abdullaev,M,Uzbekistan,UZB,2024,Paris,Boxing,Men's 63.5kg,No medal,Men's,BOX,False,True
+Asadkhuja Muydinkhujaev,M,Uzbekistan,UZB,2024,Paris,Boxing,Men's 71kg,Gold,Men's,BOX,False,True
+Turabek Khabibullaev,M,Uzbekistan,UZB,2024,Paris,Boxing,Men's 80kg,No medal,Men's,BOX,False,True
+Lazizbek Mullojonov,M,Uzbekistan,UZB,2024,Paris,Boxing,Men's 92kg,Gold,Men's,BOX,False,True
+Bakhodir Jalolov,M,Uzbekistan,UZB,2024,Paris,Boxing,Men's +92kg,Gold,Men's,BOX,True,False

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marcos Mantilla,M,Mexico,MEX,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Guillermo Ronquillo,M,Mexico,MEX,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Marcos Madrid,M,Mexico,MEX,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marcos Mantilla,M,Mexico,MEX,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Guillermo Ronquillo,M,Mexico,MEX,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Marcos Madrid,M,Mexico,MEX,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True

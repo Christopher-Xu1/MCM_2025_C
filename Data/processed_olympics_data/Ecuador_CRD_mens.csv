@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Richard Carapaz,M,Ecuador,ECU,2020,Tokyo,Cycling Road,Men's Road Race,Gold,Men's,CRD,False
-Manuel Narvaez,M,Ecuador,ECU,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Jhonatan Narvaez,M,Ecuador,ECU,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Richard Carapaz,M,Ecuador,ECU,2020,Tokyo,Cycling Road,Men's Road Race,Gold,Men's,CRD,False,True
+Manuel Narvaez,M,Ecuador,ECU,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Jhonatan Narvaez,M,Ecuador,ECU,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True

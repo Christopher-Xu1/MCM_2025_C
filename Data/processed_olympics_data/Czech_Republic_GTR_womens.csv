@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zita Frydrychov,F,Czech Republic,CZE,2012,London,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False
-Lenka (honzkov-),F,Czech Republic,CZE,2008,Beijing,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False
-Petra Vachnkov,F,Czech Republic,CZE,2000,Sydney,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zita Frydrychov,F,Czech Republic,CZE,2012,London,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False,True
+Lenka (honzkov-),F,Czech Republic,CZE,2008,Beijing,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False,True
+Petra Vachnkov,F,Czech Republic,CZE,2000,Sydney,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False,True

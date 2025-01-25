@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Outsana Dao,M,Laos,LAO,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-M. Kampanath,M,Laos,LAO,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Souneat Ouphaphone,M,Laos,LAO,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Singkham Phongpratith,M,Laos,LAO,1980,Moskva,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Bounphisith Songkhamphou,M,Laos,LAO,1980,Moskva,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Phetsmone Sonnavanh,M,Laos,LAO,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Bounmy Thephavong,M,Laos,LAO,1988,Seoul,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Khamsavath Vilayphone,M,Laos,LAO,1992,Barcelona,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Takto Homrasmy,M,Laos,LAO,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Outsana Dao,M,Laos,LAO,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+M. Kampanath,M,Laos,LAO,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Souneat Ouphaphone,M,Laos,LAO,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Singkham Phongpratith,M,Laos,LAO,1980,Moskva,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Bounphisith Songkhamphou,M,Laos,LAO,1980,Moskva,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Phetsmone Sonnavanh,M,Laos,LAO,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Bounmy Thephavong,M,Laos,LAO,1988,Seoul,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Khamsavath Vilayphone,M,Laos,LAO,1992,Barcelona,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Takto Homrasmy,M,Laos,LAO,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True

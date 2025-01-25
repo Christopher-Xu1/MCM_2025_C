@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Walter Buckmaster,M,"Blo Polo Club, Rugby",GBR,1900,Paris,Polo,Polo Men's Polo,Silver,Polo,POL,False
-Jean Loos,M,"Blo Polo Club, Rugby",FRA,1900,Paris,Polo,Polo Men's Polo,Silver,Polo,POL,False
-Frederick Freake,M,"Blo Polo Club, Rugby",GBR,1900,Paris,Polo,Polo Men's Polo,Silver,Polo,POL,False
-Walter Mccreery,M,"Blo Polo Club, Rugby",USA,1900,Paris,Polo,Polo Men's Polo,Silver,Polo,POL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Walter Buckmaster,M,"Blo Polo Club, Rugby",GBR,1900,Paris,Polo,Polo Men's Polo,Silver,Polo,POL,False,True
+Jean Loos,M,"Blo Polo Club, Rugby",FRA,1900,Paris,Polo,Polo Men's Polo,Silver,Polo,POL,False,True
+Frederick Freake,M,"Blo Polo Club, Rugby",GBR,1900,Paris,Polo,Polo Men's Polo,Silver,Polo,POL,False,True
+Walter Mccreery,M,"Blo Polo Club, Rugby",USA,1900,Paris,Polo,Polo Men's Polo,Silver,Polo,POL,False,True

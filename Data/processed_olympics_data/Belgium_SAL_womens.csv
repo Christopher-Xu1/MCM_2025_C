@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ingrid (-bultynck),F,Belgium,BEL,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Carolijn Brouwer,F,Belgium,BEL,2008,Beijing,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Min Dezillie,F,Belgium,BEL,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Min Dezillie,F,Belgium,BEL,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Min Dezillie,F,Belgium,BEL,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Sigrid Rondelez,F,Belgium,BEL,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Sigrid Rondelez,F,Belgium,BEL,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Sigrid Rondelez,F,Belgium,BEL,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Christ'l Smet,F,Belgium,BEL,1992,Barcelona,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Evi Acker,F,Belgium,BEL,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Evi Acker,F,Belgium,BEL,2012,London,Sailing,Sailing Women's One Person Dinghy,Bronze,Sailing,SAL,True
-Evi Acker,F,Belgium,BEL,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Anouk Geurts,F,Belgium,BEL,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,True
-Isaura Maenhaut,F,Belgium,BEL,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,True
-Emma Plasschaert,F,Belgium,BEL,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,True
-Anouk Geurts,F,Belgium,BEL,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,True
-Isaura Maenhaut,F,Belgium,BEL,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,True
-Emma Plasschaert,F,Belgium,BEL,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,True
-Eline Verstraelen,F,Belgium,BEL,2024,Paris,Sailing,Mixed Multihull,No medal,Mixed,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ingrid (-bultynck),F,Belgium,BEL,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Carolijn Brouwer,F,Belgium,BEL,2008,Beijing,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Min Dezillie,F,Belgium,BEL,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Min Dezillie,F,Belgium,BEL,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Min Dezillie,F,Belgium,BEL,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Sigrid Rondelez,F,Belgium,BEL,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Sigrid Rondelez,F,Belgium,BEL,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Sigrid Rondelez,F,Belgium,BEL,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Christ'l Smet,F,Belgium,BEL,1992,Barcelona,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Evi Acker,F,Belgium,BEL,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Evi Acker,F,Belgium,BEL,2012,London,Sailing,Sailing Women's One Person Dinghy,Bronze,Sailing,SAL,True,False
+Evi Acker,F,Belgium,BEL,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Anouk Geurts,F,Belgium,BEL,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,True,True
+Isaura Maenhaut,F,Belgium,BEL,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,True,True
+Emma Plasschaert,F,Belgium,BEL,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,True,True
+Anouk Geurts,F,Belgium,BEL,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,True,False
+Isaura Maenhaut,F,Belgium,BEL,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,True,False
+Emma Plasschaert,F,Belgium,BEL,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,True,False
+Eline Verstraelen,F,Belgium,BEL,2024,Paris,Sailing,Mixed Multihull,No medal,Mixed,SAL,False,True

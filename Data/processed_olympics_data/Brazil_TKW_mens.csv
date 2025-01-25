@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Diogo Silva,M,Brazil,BRA,2004,Athina,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,True
-Diogo Silva,M,Brazil,BRA,2012,London,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,True
-Maicon Siqueira,M,Brazil,BRA,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Heavyweight,Bronze,Taekwondo,TKW,False
-Venilton Teixeira,M,Brazil,BRA,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Marcel Ferreira,M,Brazil,BRA,2004,Athina,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Marcio Ferreira,M,Brazil,BRA,2008,Beijing,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Miguel Martins,M,Brazil,BRA,2020,Tokyo,Taekwondo,Men -80kg,No medal,Men,TKW,False
-Edival Pontes,M,Brazil,BRA,2020,Tokyo,Taekwondo,Men -68kg,No medal,Men,TKW,True
-Edival Pontes,M,Brazil,BRA,2024,Paris,Taekwondo,Men -68kg,Bronze,Men,TKW,True
-Marqu Rodrigues,M,Brazil,BRA,2024,Paris,Taekwondo,Men -80kg,No medal,Men,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Diogo Silva,M,Brazil,BRA,2004,Athina,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,True,True
+Diogo Silva,M,Brazil,BRA,2012,London,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,True,False
+Maicon Siqueira,M,Brazil,BRA,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Heavyweight,Bronze,Taekwondo,TKW,False,True
+Venilton Teixeira,M,Brazil,BRA,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Marcel Ferreira,M,Brazil,BRA,2004,Athina,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Marcio Ferreira,M,Brazil,BRA,2008,Beijing,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Miguel Martins,M,Brazil,BRA,2020,Tokyo,Taekwondo,Men -80kg,No medal,Men,TKW,False,True
+Edival Pontes,M,Brazil,BRA,2020,Tokyo,Taekwondo,Men -68kg,No medal,Men,TKW,True,True
+Edival Pontes,M,Brazil,BRA,2024,Paris,Taekwondo,Men -68kg,Bronze,Men,TKW,True,False
+Marqu Rodrigues,M,Brazil,BRA,2024,Paris,Taekwondo,Men -80kg,No medal,Men,TKW,False,True

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-zge Bayrak,F,Turkey,TUR,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Neslihan Yiit,F,Turkey,TUR,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Neslihan Yigit,F,Turkey,TUR,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+zge Bayrak,F,Turkey,TUR,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Neslihan Yiit,F,Turkey,TUR,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Neslihan Yigit,F,Turkey,TUR,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,False,True

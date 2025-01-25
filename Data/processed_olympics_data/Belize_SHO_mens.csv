@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Edward Anderson,M,Belize,BIZ,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Robert Hulse,M,Belize,BIZ,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Owen Phillips,M,Belize,BIZ,1972,Munich,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,True
-Owen Phillips,M,Belize,BIZ,1972,Munich,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Owen Phillips,M,Belize,BIZ,1976,Montreal,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-John Waight,M,Belize,BIZ,1976,Montreal,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Edward Anderson,M,Belize,BIZ,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Robert Hulse,M,Belize,BIZ,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Owen Phillips,M,Belize,BIZ,1972,Munich,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,True,True
+Owen Phillips,M,Belize,BIZ,1972,Munich,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Owen Phillips,M,Belize,BIZ,1976,Montreal,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+John Waight,M,Belize,BIZ,1976,Montreal,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,False,True

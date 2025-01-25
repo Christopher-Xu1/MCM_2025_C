@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fatai Adeyemo,M,Nigeria-2,NGR,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Peter Akinlabi,M,Nigeria-2,NGR,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Oluwayomi Wiekliffe,M,Nigeria-2,NGR,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Atanda Musa,M,Nigeria-2,NGR,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Kazeem Nosiru,M,Nigeria-2,NGR,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Sule Olaleye,M,Nigeria-2,NGR,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fatai Adeyemo,M,Nigeria-2,NGR,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Peter Akinlabi,M,Nigeria-2,NGR,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Oluwayomi Wiekliffe,M,Nigeria-2,NGR,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Atanda Musa,M,Nigeria-2,NGR,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Kazeem Nosiru,M,Nigeria-2,NGR,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Sule Olaleye,M,Nigeria-2,NGR,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True

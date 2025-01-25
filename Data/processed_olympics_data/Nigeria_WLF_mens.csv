@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Olusola Awosina,M,Nigeria,NGR,1988,Seoul,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Ironbar Bassey,M,Nigeria,NGR,1984,Los Angeles,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Patrick Bassey,M,Nigeria,NGR,1984,Los Angeles,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Sampson Cosmas,M,Nigeria,NGR,1980,Moskva,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Felix Ekpo,M,Nigeria,NGR,2008,Beijing,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Felix Ekpo,M,Nigeria,NGR,2012,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Sydney Ikebaku,M,Nigeria,NGR,1980,Moskva,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Lawrence Iquaibom,M,Nigeria,NGR,1984,Los Angeles,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Lawrence Iquaibom,M,Nigeria,NGR,1988,Seoul,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Sunday Mathias,M,Nigeria,NGR,2000,Sydney,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Muyiwa Odusanya,M,Nigeria,NGR,1988,Seoul,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Gilbert Aduche,M,Nigeria,NGR,1988,Seoul,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Gilbert Aduche,M,Nigeria,NGR,1992,Barcelona,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Batholomew Oluoma,M,Nigeria,NGR,1984,Los Angeles,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Mojisola Oluwa,M,Nigeria,NGR,1996,Atlanta,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Oliver Orok,M,Nigeria,NGR,1984,Los Angeles,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False
-Emmanuel Oshomah,M,Nigeria,NGR,1984,Los Angeles,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Benedict Uloko,M,Nigeria,NGR,2008,Beijing,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Olusola Awosina,M,Nigeria,NGR,1988,Seoul,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Ironbar Bassey,M,Nigeria,NGR,1984,Los Angeles,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Patrick Bassey,M,Nigeria,NGR,1984,Los Angeles,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Sampson Cosmas,M,Nigeria,NGR,1980,Moskva,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Felix Ekpo,M,Nigeria,NGR,2008,Beijing,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,True
+Felix Ekpo,M,Nigeria,NGR,2012,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,False
+Sydney Ikebaku,M,Nigeria,NGR,1980,Moskva,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Lawrence Iquaibom,M,Nigeria,NGR,1984,Los Angeles,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,True
+Lawrence Iquaibom,M,Nigeria,NGR,1988,Seoul,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Sunday Mathias,M,Nigeria,NGR,2000,Sydney,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Muyiwa Odusanya,M,Nigeria,NGR,1988,Seoul,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Gilbert Aduche,M,Nigeria,NGR,1988,Seoul,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True,True
+Gilbert Aduche,M,Nigeria,NGR,1992,Barcelona,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True,False
+Batholomew Oluoma,M,Nigeria,NGR,1984,Los Angeles,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Mojisola Oluwa,M,Nigeria,NGR,1996,Atlanta,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Oliver Orok,M,Nigeria,NGR,1984,Los Angeles,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False,True
+Emmanuel Oshomah,M,Nigeria,NGR,1984,Los Angeles,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Benedict Uloko,M,Nigeria,NGR,2008,Beijing,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True

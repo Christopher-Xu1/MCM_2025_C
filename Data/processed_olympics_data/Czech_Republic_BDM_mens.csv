@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Petr Koukal,M,Czech Republic,CZE,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Petr Koukal,M,Czech Republic,CZE,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Petr Koukal,M,Czech Republic,CZE,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Petr Koukal,M,Czech Republic,CZE,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Petr Koukal,M,Czech Republic,CZE,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Petr Koukal,M,Czech Republic,CZE,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False

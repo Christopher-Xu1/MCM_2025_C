@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Brice Ketchanke,M,Cameroon,CMR,2008,Beijing,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Vencelas Tientcheu,M,Cameroon,CMR,2004,Athina,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Alphonse Matam,M,Cameroon,CMR,1992,Barcelona,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Petit Minkoumba,M,Cameroon,CMR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Samson N'dicka-matam,M,Cameroon,CMR,1996,Atlanta,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Thodore Nkwayed,M,Cameroon,CMR,1988,Seoul,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False
-Dieudonn Takou,M,Cameroon,CMR,1988,Seoul,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Frdric Tefot,M,Cameroon,CMR,2012,London,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Brice Ketchanke,M,Cameroon,CMR,2008,Beijing,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Vencelas Tientcheu,M,Cameroon,CMR,2004,Athina,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Alphonse Matam,M,Cameroon,CMR,1992,Barcelona,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Petit Minkoumba,M,Cameroon,CMR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Samson N'dicka-matam,M,Cameroon,CMR,1996,Atlanta,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Thodore Nkwayed,M,Cameroon,CMR,1988,Seoul,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False,True
+Dieudonn Takou,M,Cameroon,CMR,1988,Seoul,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Frdric Tefot,M,Cameroon,CMR,2012,London,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True

@@ -1,44 +1,44 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Augusto Almeida,M,Portugal,POR,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Guilherme Bentes,M,Portugal,POR,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Jos Branco,M,Portugal,POR,1980,Moskva,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Pedro Caravana,M,Portugal,POR,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Pedro Caravana,M,Portugal,POR,2000,Sydney,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Pedro Cristvo,M,Portugal,POR,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Pedro Cristvo,M,Portugal,POR,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Hugo D'assuno,M,Portugal,POR,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Hugo D'assuno,M,Portugal,POR,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Michel Almeida,M,Portugal,POR,1996,Atlanta,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Michel Almeida,M,Portugal,POR,2000,Sydney,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Nuno Delgado,M,Portugal,POR,2000,Sydney,Judo,Judo Men's Half-Middleweight,Bronze,Judo,JUD,True
-Nuno Delgado,M,Portugal,POR,2004,Athina,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Clio Dias,M,Portugal,POR,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Pedro Dias,M,Portugal,POR,2008,Beijing,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Rui Domingues,M,Portugal,POR,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Orlando Ferreira,M,Portugal,POR,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Jorge Fonseca,M,Portugal,POR,2016,Rio de Janeiro,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Jos Gomes,M,Portugal,POR,1976,Montreal,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Rui Ludovino,M,Portugal,POR,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Antnio Matias,M,Portugal,POR,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Fernando Matos,M,Portugal,POR,1964,Tokyo,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Joo Mendona,M,Portugal,POR,1980,Moskva,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Joo Neto,M,Portugal,POR,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Joo Neto,M,Portugal,POR,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Joo Neves,M,Portugal,POR,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Sergiu Oleinic,M,Portugal,POR,2016,Rio de Janeiro,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Joo Pina,M,Portugal,POR,2004,Athina,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Joo Pina,M,Portugal,POR,2008,Beijing,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Joo Pina,M,Portugal,POR,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Antnio Roquete,M,Portugal,POR,1972,Munich,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Antnio Roquete,M,Portugal,POR,1976,Montreal,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Antnio Roquete,M,Portugal,POR,1980,Moskva,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Antnio Roquete,M,Portugal,POR,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Ruimondo Rosa,M,Portugal,POR,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Renato Santos,M,Portugal,POR,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Nuno Saraiva,M,Portugal,POR,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Pedro Soares,M,Portugal,POR,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Pedro Soares,M,Portugal,POR,2000,Sydney,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Anri Egutidze,M,Portugal,POR,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,False
-Jorge Fonseca,M,Portugal,POR,2020,Tokyo,Judo,Men -100 kg,Bronze,Men,JUD,True
-Joao Fernando,M,Portugal,POR,2024,Paris,Judo,Men -81 kg,No medal,Men,JUD,False
-Jorge Fonseca,M,Portugal,POR,2024,Paris,Judo,Men -100 kg,No medal,Men,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Augusto Almeida,M,Portugal,POR,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Guilherme Bentes,M,Portugal,POR,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Jos Branco,M,Portugal,POR,1980,Moskva,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Pedro Caravana,M,Portugal,POR,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Pedro Caravana,M,Portugal,POR,2000,Sydney,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False
+Pedro Cristvo,M,Portugal,POR,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Pedro Cristvo,M,Portugal,POR,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,False
+Hugo D'assuno,M,Portugal,POR,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Hugo D'assuno,M,Portugal,POR,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Michel Almeida,M,Portugal,POR,1996,Atlanta,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,True
+Michel Almeida,M,Portugal,POR,2000,Sydney,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Nuno Delgado,M,Portugal,POR,2000,Sydney,Judo,Judo Men's Half-Middleweight,Bronze,Judo,JUD,True,True
+Nuno Delgado,M,Portugal,POR,2004,Athina,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Clio Dias,M,Portugal,POR,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Pedro Dias,M,Portugal,POR,2008,Beijing,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Rui Domingues,M,Portugal,POR,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Orlando Ferreira,M,Portugal,POR,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Jorge Fonseca,M,Portugal,POR,2016,Rio de Janeiro,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,True
+Jos Gomes,M,Portugal,POR,1976,Montreal,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Rui Ludovino,M,Portugal,POR,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Antnio Matias,M,Portugal,POR,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Fernando Matos,M,Portugal,POR,1964,Tokyo,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Joo Mendona,M,Portugal,POR,1980,Moskva,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Joo Neto,M,Portugal,POR,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Joo Neto,M,Portugal,POR,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Joo Neves,M,Portugal,POR,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Sergiu Oleinic,M,Portugal,POR,2016,Rio de Janeiro,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Joo Pina,M,Portugal,POR,2004,Athina,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,True
+Joo Pina,M,Portugal,POR,2008,Beijing,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Joo Pina,M,Portugal,POR,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Antnio Roquete,M,Portugal,POR,1972,Munich,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Antnio Roquete,M,Portugal,POR,1976,Montreal,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Antnio Roquete,M,Portugal,POR,1980,Moskva,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Antnio Roquete,M,Portugal,POR,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Ruimondo Rosa,M,Portugal,POR,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Renato Santos,M,Portugal,POR,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Nuno Saraiva,M,Portugal,POR,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Pedro Soares,M,Portugal,POR,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,True
+Pedro Soares,M,Portugal,POR,2000,Sydney,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,False
+Anri Egutidze,M,Portugal,POR,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,False,True
+Jorge Fonseca,M,Portugal,POR,2020,Tokyo,Judo,Men -100 kg,Bronze,Men,JUD,True,False
+Joao Fernando,M,Portugal,POR,2024,Paris,Judo,Men -81 kg,No medal,Men,JUD,False,True
+Jorge Fonseca,M,Portugal,POR,2024,Paris,Judo,Men -100 kg,No medal,Men,JUD,True,False

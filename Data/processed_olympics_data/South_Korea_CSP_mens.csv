@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gwanghee Cho,M,South Korea,KOR,2020,Tokyo,Canoe Sprint,Men's Kayak Single 200m,No medal,Men's,CSP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gwanghee Cho,M,South Korea,KOR,2020,Tokyo,Canoe Sprint,Men's Kayak Single 200m,No medal,Men's,CSP,False,True

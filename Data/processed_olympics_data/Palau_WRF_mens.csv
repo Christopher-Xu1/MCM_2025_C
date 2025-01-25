@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elgin Elvais,M,Palau,PLW,2008,Beijing,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-John Jr.,M,Palau,PLW,2004,Athina,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False
-Florian Temengil,M,Palau,PLW,2008,Beijing,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Florian Temengil,M,Palau,PLW,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elgin Elvais,M,Palau,PLW,2008,Beijing,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+John Jr.,M,Palau,PLW,2004,Athina,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Florian Temengil,M,Palau,PLW,2008,Beijing,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Florian Temengil,M,Palau,PLW,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False

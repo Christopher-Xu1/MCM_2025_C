@@ -1,31 +1,31 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aziz Abbas,M,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Salwan Abbood,M,Iraq,IRQ,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False
-Hadi Jabbar,M,Iraq,IRQ,1960,Roma,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-Hadi Jabbar,M,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-Talal Kader,M,Iraq,IRQ,1980,Moskva,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Atallah Abdullah,M,Iraq,IRQ,1992,Barcelona,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Raed Ahmed,M,Iraq,IRQ,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False
-Mohammed Moneim,M,Iraq,IRQ,2004,Athina,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Abdul Aziz,M,Iraq,IRQ,1960,Roma,Weightlifting,Weightlifting Men's Lightweight,Bronze,Weightlifting,WLF,False
-Fajsal Fat'hi,M,Iraq,IRQ,1980,Moskva,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Abdul Gizar,M,Iraq,IRQ,1980,Moskva,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Ali Hussain,M,Iraq,IRQ,1960,Roma,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Mohammed Jowad,M,Iraq,IRQ,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False
-Abdul Juad,M,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False
-Nazar Kadir,M,Iraq,IRQ,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False
-Saleh Khadim,M,Iraq,IRQ,1992,Barcelona,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Riadh Khedher,M,Iraq,IRQ,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Ali Maneer,M,Iraq,IRQ,1980,Moskva,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False
-Zuhair Mansour,M,Iraq,IRQ,1960,Roma,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Zuhair Mansour,M,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Zuhair Mansour,M,Iraq,IRQ,1968,Mexico City,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Mohammed Mohammed,M,Iraq,IRQ,1984,Los Angeles,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Mohammed Mohammed,M,Iraq,IRQ,1980,Moskva,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Mohammed Mohammed,M,Iraq,IRQ,1984,Los Angeles,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Mohammed Nadum,M,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Safaa Al-jumaili,M,Iraq,IRQ,2012,London,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Mahmoud Rashid,M,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Shakir Salman,M,Iraq,IRQ,1960,Roma,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Mahmoud Shakir,M,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Yusur Rubaiawi,M,Iraq,IRQ,2024,Paris,Weightlifting,Men's +102kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aziz Abbas,M,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Salwan Abbood,M,Iraq,IRQ,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False,True
+Hadi Jabbar,M,Iraq,IRQ,1960,Roma,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,True
+Hadi Jabbar,M,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,False
+Talal Kader,M,Iraq,IRQ,1980,Moskva,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Atallah Abdullah,M,Iraq,IRQ,1992,Barcelona,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Raed Ahmed,M,Iraq,IRQ,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False,True
+Mohammed Moneim,M,Iraq,IRQ,2004,Athina,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Abdul Aziz,M,Iraq,IRQ,1960,Roma,Weightlifting,Weightlifting Men's Lightweight,Bronze,Weightlifting,WLF,False,True
+Fajsal Fat'hi,M,Iraq,IRQ,1980,Moskva,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Abdul Gizar,M,Iraq,IRQ,1980,Moskva,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Ali Hussain,M,Iraq,IRQ,1960,Roma,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Mohammed Jowad,M,Iraq,IRQ,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False,True
+Abdul Juad,M,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False,True
+Nazar Kadir,M,Iraq,IRQ,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False,True
+Saleh Khadim,M,Iraq,IRQ,1992,Barcelona,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Riadh Khedher,M,Iraq,IRQ,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Ali Maneer,M,Iraq,IRQ,1980,Moskva,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False,True
+Zuhair Mansour,M,Iraq,IRQ,1960,Roma,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,True
+Zuhair Mansour,M,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,False
+Zuhair Mansour,M,Iraq,IRQ,1968,Mexico City,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Mohammed Mohammed,M,Iraq,IRQ,1984,Los Angeles,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,False
+Mohammed Mohammed,M,Iraq,IRQ,1980,Moskva,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,True
+Mohammed Mohammed,M,Iraq,IRQ,1984,Los Angeles,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,False
+Mohammed Nadum,M,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Safaa Al-jumaili,M,Iraq,IRQ,2012,London,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Mahmoud Rashid,M,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Shakir Salman,M,Iraq,IRQ,1960,Roma,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Mahmoud Shakir,M,Iraq,IRQ,1964,Tokyo,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Yusur Rubaiawi,M,Iraq,IRQ,2024,Paris,Weightlifting,Men's +102kg,No medal,Men's,WLF,False,True

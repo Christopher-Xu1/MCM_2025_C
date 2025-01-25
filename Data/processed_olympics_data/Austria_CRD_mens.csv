@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Patrick Konrad,M,Austria,AUT,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Patrick Konrad,M,Austria,AUT,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Gregor Muehlberger,M,Austria,AUT,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Hermann Pernsteiner,M,Austria,AUT,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Felix Grossschartner,M,Austria,AUT,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Felix Grossschartner,M,Austria,AUT,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Marco Haller,M,Austria,AUT,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Patrick Konrad,M,Austria,AUT,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Patrick Konrad,M,Austria,AUT,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Gregor Muehlberger,M,Austria,AUT,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Hermann Pernsteiner,M,Austria,AUT,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Felix Grossschartner,M,Austria,AUT,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Felix Grossschartner,M,Austria,AUT,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Marco Haller,M,Austria,AUT,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True

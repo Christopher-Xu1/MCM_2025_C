@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carleton Brosius,M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Wilbur Sr.,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-William Jr.,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Arthur Dearborn,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Stephen Fields,M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-John Flanagan,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Sylvester (-grnros),M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Marquis Horr,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Lloyd Kelsey,M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Joseph Kszyczewski,M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Matthew Mcgrath,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-William Penn,M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Joseph Rond,M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Ralph Rose,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Leander Jr.,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Joseph Winston,M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carleton Brosius,M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Wilbur Sr.,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+William Jr.,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Arthur Dearborn,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Stephen Fields,M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+John Flanagan,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Sylvester (-grnros),M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Marquis Horr,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Lloyd Kelsey,M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Joseph Kszyczewski,M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Matthew Mcgrath,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+William Penn,M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Joseph Rond,M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Ralph Rose,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Leander Jr.,M,United States,USA,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Joseph Winston,M,United States,USA,1920,Antwerpen,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True

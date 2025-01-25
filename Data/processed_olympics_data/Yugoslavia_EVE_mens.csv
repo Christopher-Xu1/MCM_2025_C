@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alojz Lah,M,Yugoslavia,YUG,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Alojz Lah,M,Yugoslavia,YUG,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Duan Mavec,M,Yugoslavia,YUG,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Duan Mavec,M,Yugoslavia,YUG,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Stojan Moderc,M,Yugoslavia,YUG,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Stojan Moderc,M,Yugoslavia,YUG,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Vladimir Seunig,M,Yugoslavia,YUG,1924,Paris,Equestrianism,"Equestrianism Men's Dressage, Individual",No medal,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alojz Lah,M,Yugoslavia,YUG,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Alojz Lah,M,Yugoslavia,YUG,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True
+Duan Mavec,M,Yugoslavia,YUG,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Duan Mavec,M,Yugoslavia,YUG,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True
+Stojan Moderc,M,Yugoslavia,YUG,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Stojan Moderc,M,Yugoslavia,YUG,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True
+Vladimir Seunig,M,Yugoslavia,YUG,1924,Paris,Equestrianism,"Equestrianism Men's Dressage, Individual",No medal,Equestrianism,EVE,False,True

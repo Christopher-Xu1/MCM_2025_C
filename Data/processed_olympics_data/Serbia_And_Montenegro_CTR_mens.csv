@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ivan Stevi,M,Serbia And Montenegro,SCG,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ivan Stevi,M,Serbia And Montenegro,SCG,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True

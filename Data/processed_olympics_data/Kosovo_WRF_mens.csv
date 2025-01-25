@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Egzon Shala,M,Kosovo,KOS,2020,Tokyo,Wrestling,Men's Freestyle 125kg,No medal,Men's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Egzon Shala,M,Kosovo,KOS,2020,Tokyo,Wrestling,Men's Freestyle 125kg,No medal,Men's,WRF,False,True

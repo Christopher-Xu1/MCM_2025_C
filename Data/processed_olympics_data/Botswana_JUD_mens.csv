@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gavin Mogopa,M,Botswana,BOT,2016,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gavin Mogopa,M,Botswana,BOT,2016,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True

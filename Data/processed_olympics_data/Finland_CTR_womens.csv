@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mira Kasslin,F,Finland,FIN,1996,Atlanta,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,True
-Mira Kasslin,F,Finland,FIN,2000,Sydney,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,True
-Mira Kasslin,F,Finland,FIN,2000,Sydney,Cycling,Cycling Women's 500 metres Time Trial,No medal,Cycling,CTR,True
-Lotta Lepist,F,Finland,FIN,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Lotta Lepist,F,Finland,FIN,2016,Rio de Janeiro,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True
-Pia Sundstedt,F,Finland,FIN,2000,Sydney,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Pia Sundstedt,F,Finland,FIN,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Pia Sundstedt,F,Finland,FIN,2012,London,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True
-Tea Vikstedt-nyman,F,Finland,FIN,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Tea Vikstedt-nyman,F,Finland,FIN,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Tea Vikstedt-nyman,F,Finland,FIN,1992,Barcelona,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,Cycling,CTR,True
-Tea Vikstedt-nyman,F,Finland,FIN,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Tea Vikstedt-nyman,F,Finland,FIN,1996,Atlanta,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True
-Tea Vikstedt-nyman,F,Finland,FIN,1996,Atlanta,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mira Kasslin,F,Finland,FIN,1996,Atlanta,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,True,True
+Mira Kasslin,F,Finland,FIN,2000,Sydney,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,True,False
+Mira Kasslin,F,Finland,FIN,2000,Sydney,Cycling,Cycling Women's 500 metres Time Trial,No medal,Cycling,CTR,True,False
+Lotta Lepist,F,Finland,FIN,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Lotta Lepist,F,Finland,FIN,2016,Rio de Janeiro,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True,True
+Pia Sundstedt,F,Finland,FIN,2000,Sydney,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Pia Sundstedt,F,Finland,FIN,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False
+Pia Sundstedt,F,Finland,FIN,2012,London,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True,False
+Tea Vikstedt-nyman,F,Finland,FIN,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Tea Vikstedt-nyman,F,Finland,FIN,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False
+Tea Vikstedt-nyman,F,Finland,FIN,1992,Barcelona,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,Cycling,CTR,True,False
+Tea Vikstedt-nyman,F,Finland,FIN,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False
+Tea Vikstedt-nyman,F,Finland,FIN,1996,Atlanta,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True,False
+Tea Vikstedt-nyman,F,Finland,FIN,1996,Atlanta,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True,False

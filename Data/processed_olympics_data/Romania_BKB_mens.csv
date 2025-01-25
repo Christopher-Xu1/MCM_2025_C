@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cornel Clugreanu,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Gheorghe Constantinide,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Grigore Costescu,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Andrei Folbert,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Ladislau Mokos,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Liviu Naghy,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Mihai Nedef,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Cezar Niculescu,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Daniel Niculescu,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Adrian Petroanu,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Vasile Popescu,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Emanoil Rducanu,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cornel Clugreanu,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Gheorghe Constantinide,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Grigore Costescu,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Andrei Folbert,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Ladislau Mokos,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Liviu Naghy,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Mihai Nedef,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Cezar Niculescu,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Daniel Niculescu,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Adrian Petroanu,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Vasile Popescu,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Emanoil Rducanu,M,Romania,ROU,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True

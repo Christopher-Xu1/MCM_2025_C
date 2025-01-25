@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mong Chu,F,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Women's Épée Team,No medal,Women's,FEN,False
-Yan Hsieh,F,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Women's Épée Individual,No medal,Women's,FEN,True
-Yan Hsieh,F,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Women's Épée Team,No medal,Women's,FEN,True
-Vivian Kong,F,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Women's Épée Individual,No medal,Women's,FEN,True
-Vivian Kong,F,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Women's Épée Team,No medal,Women's,FEN,True
-Coco Lin,F,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Women's Épée Individual,No medal,Women's,FEN,True
-Coco Lin,F,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Women's Épée Team,No medal,Women's,FEN,True
-Vivian Kong,F,"Hong Kong, China",HKG,2024,Paris,Fencing,Women's Épée Individual,Gold,Women's,FEN,True
-Daphne Chan,F,"Hong Kong, China",HKG,2024,Paris,Fencing,Women's Foil Individual,No medal,Women's,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mong Chu,F,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Women's Épée Team,No medal,Women's,FEN,False,True
+Yan Hsieh,F,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Women's Épée Individual,No medal,Women's,FEN,True,True
+Yan Hsieh,F,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Women's Épée Team,No medal,Women's,FEN,True,True
+Vivian Kong,F,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Women's Épée Individual,No medal,Women's,FEN,True,True
+Vivian Kong,F,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Women's Épée Team,No medal,Women's,FEN,True,True
+Coco Lin,F,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Women's Épée Individual,No medal,Women's,FEN,True,True
+Coco Lin,F,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Women's Épée Team,No medal,Women's,FEN,True,True
+Vivian Kong,F,"Hong Kong, China",HKG,2024,Paris,Fencing,Women's Épée Individual,Gold,Women's,FEN,True,False
+Daphne Chan,F,"Hong Kong, China",HKG,2024,Paris,Fencing,Women's Foil Individual,No medal,Women's,FEN,False,True

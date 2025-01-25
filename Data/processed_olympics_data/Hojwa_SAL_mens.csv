@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carl-Erik Ohlson,M,Hojwa,SWE,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Bronze,Sailing,SAL,False
-Folke Wassn,M,Hojwa,SWE,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Bronze,Sailing,SAL,False
-Sten Wassn,M,Hojwa,SWE,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carl-Erik Ohlson,M,Hojwa,SWE,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Bronze,Sailing,SAL,False,True
+Folke Wassn,M,Hojwa,SWE,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Bronze,Sailing,SAL,False,True
+Sten Wassn,M,Hojwa,SWE,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Bronze,Sailing,SAL,False,True

@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-James Conroy,M,Ireland,IRL,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-James Conroy,M,Ireland,IRL,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Keith Hanlon,M,Ireland,IRL,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Noel Lynch,M,Ireland,IRL,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Noel Lynch,M,Ireland,IRL,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Joseph Malone,M,Ireland,IRL,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-William Swords,M,Ireland,IRL,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+James Conroy,M,Ireland,IRL,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+James Conroy,M,Ireland,IRL,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Keith Hanlon,M,Ireland,IRL,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Noel Lynch,M,Ireland,IRL,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Noel Lynch,M,Ireland,IRL,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Joseph Malone,M,Ireland,IRL,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+William Swords,M,Ireland,IRL,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True

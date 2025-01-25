@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Edward Botterell,M,Serendipity,CAN,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Joseph Macbrien,M,Serendipity,CAN,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Lynn Watters,M,Serendipity,CAN,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Edward Botterell,M,Serendipity,CAN,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Joseph Macbrien,M,Serendipity,CAN,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Lynn Watters,M,Serendipity,CAN,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

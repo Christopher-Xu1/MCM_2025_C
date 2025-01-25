@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Agustn Shaal,M,Argentina-1,ARG,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Juan Potro,M,Argentina-1,ARG,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Carlos Dumas,M,Argentina-1,ARG,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Gastn Etlis,M,Argentina-1,ARG,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Mximo Mereira,M,Argentina-1,ARG,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Juan Mnaco,M,Argentina-1,ARG,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Guillermo Lennon,M,Argentina-1,ARG,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Eduardo Rodrguez,M,Argentina-1,ARG,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Agustn Shaal,M,Argentina-1,ARG,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Juan Potro,M,Argentina-1,ARG,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Carlos Dumas,M,Argentina-1,ARG,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Gastn Etlis,M,Argentina-1,ARG,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Mximo Mereira,M,Argentina-1,ARG,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Juan Mnaco,M,Argentina-1,ARG,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Guillermo Lennon,M,Argentina-1,ARG,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Eduardo Rodrguez,M,Argentina-1,ARG,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

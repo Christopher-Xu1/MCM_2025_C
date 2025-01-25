@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Karen (-neumann),F,Germany-1,GER,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Karen (-neumann),F,Germany-1,GER,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True

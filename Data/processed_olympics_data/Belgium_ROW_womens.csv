@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Annelies Bredael,F,Belgium,BEL,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,True
-Annelies Bredael,F,Belgium,BEL,1992,Barcelona,Rowing,Rowing Women's Single Sculls,Silver,Rowing,ROW,True
-Annelies Bredael,F,Belgium,BEL,1996,Atlanta,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Rita Defauw,F,Belgium,BEL,1988,Seoul,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False
-Lucia Focque,F,Belgium,BEL,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,False
-Rene Govaert,F,Belgium,BEL,1992,Barcelona,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False
-Ann Haesebrouck,F,Belgium,BEL,1984,Los Angeles,Rowing,Rowing Women's Single Sculls,Bronze,Rowing,ROW,True
-Ann Haesebrouck,F,Belgium,BEL,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,True
-Ann Haesebrouck,F,Belgium,BEL,1992,Barcelona,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,True
-Marie-Anne Vandermoere,F,Belgium,BEL,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Annelies Bredael,F,Belgium,BEL,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,True,True
+Annelies Bredael,F,Belgium,BEL,1992,Barcelona,Rowing,Rowing Women's Single Sculls,Silver,Rowing,ROW,True,False
+Annelies Bredael,F,Belgium,BEL,1996,Atlanta,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,False
+Rita Defauw,F,Belgium,BEL,1988,Seoul,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False,True
+Lucia Focque,F,Belgium,BEL,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,False,True
+Rene Govaert,F,Belgium,BEL,1992,Barcelona,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False,True
+Ann Haesebrouck,F,Belgium,BEL,1984,Los Angeles,Rowing,Rowing Women's Single Sculls,Bronze,Rowing,ROW,True,True
+Ann Haesebrouck,F,Belgium,BEL,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,True,False
+Ann Haesebrouck,F,Belgium,BEL,1992,Barcelona,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,True,False
+Marie-Anne Vandermoere,F,Belgium,BEL,1988,Seoul,Rowing,Rowing Women's Quadruple Sculls,No medal,Rowing,ROW,False,True

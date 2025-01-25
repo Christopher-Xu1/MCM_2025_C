@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nenad Beik,M,Serbia,SRB,2012,London,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True
-Nenad Beik,M,Serbia,SRB,2016,Rio de Janeiro,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True
-Radoje Eri,M,Serbia,SRB,2012,London,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False
-Goran Jagar,M,Serbia,SRB,2008,Beijing,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True
-Goran Jagar,M,Serbia,SRB,2012,London,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,True
-Marko Marjanovi,M,Serbia,SRB,2016,Rio de Janeiro,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False
-Andrija Ljuki,M,Serbia,SRB,2016,Rio de Janeiro,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False
-Nikola Stoji,M,Serbia,SRB,2008,Beijing,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True
-Nikola Stoji,M,Serbia,SRB,2012,London,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True
-Milo Vasi,M,Serbia,SRB,2012,London,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,True
-Milo Vasi,M,Serbia,SRB,2016,Rio de Janeiro,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True
-Miljan Vukovi,M,Serbia,SRB,2012,London,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False
-Martin Mackovic,M,Serbia,SRB,2020,Tokyo,Rowing,Men's Pair Team,No medal,Men's,ROW,True
-Milos Vasic,M,Serbia,SRB,2020,Tokyo,Rowing,Men's Pair Team,No medal,Men's,ROW,False
-Martin Mackovic,M,Serbia,SRB,2024,Paris,Rowing,Men's Double Sculls,No medal,Men's,ROW,True
-Nikolaj Pimenov,M,Serbia,SRB,2024,Paris,Rowing,Men's Double Sculls,No medal,Men's,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nenad Beik,M,Serbia,SRB,2012,London,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True,True
+Nenad Beik,M,Serbia,SRB,2016,Rio de Janeiro,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True,False
+Radoje Eri,M,Serbia,SRB,2012,London,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False,True
+Goran Jagar,M,Serbia,SRB,2008,Beijing,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True,True
+Goran Jagar,M,Serbia,SRB,2012,London,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,True,False
+Marko Marjanovi,M,Serbia,SRB,2016,Rio de Janeiro,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False,True
+Andrija Ljuki,M,Serbia,SRB,2016,Rio de Janeiro,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False,True
+Nikola Stoji,M,Serbia,SRB,2008,Beijing,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True,True
+Nikola Stoji,M,Serbia,SRB,2012,London,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True,False
+Milo Vasi,M,Serbia,SRB,2012,London,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,True,True
+Milo Vasi,M,Serbia,SRB,2016,Rio de Janeiro,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True,False
+Miljan Vukovi,M,Serbia,SRB,2012,London,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False,True
+Martin Mackovic,M,Serbia,SRB,2020,Tokyo,Rowing,Men's Pair Team,No medal,Men's,ROW,True,True
+Milos Vasic,M,Serbia,SRB,2020,Tokyo,Rowing,Men's Pair Team,No medal,Men's,ROW,False,True
+Martin Mackovic,M,Serbia,SRB,2024,Paris,Rowing,Men's Double Sculls,No medal,Men's,ROW,True,False
+Nikolaj Pimenov,M,Serbia,SRB,2024,Paris,Rowing,Men's Double Sculls,No medal,Men's,ROW,False,True

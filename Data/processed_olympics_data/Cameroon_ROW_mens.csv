@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Paul Ndoumb,M,Cameroon,CMR,2008,Beijing,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
-Paul Ndoumb,M,Cameroon,CMR,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Paul Ndoumb,M,Cameroon,CMR,2008,Beijing,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,True
+Paul Ndoumb,M,Cameroon,CMR,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,False

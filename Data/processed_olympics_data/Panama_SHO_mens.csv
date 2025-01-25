@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ricardo Chandeck,M,Panama,PAN,2000,Sydney,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-David Hidalgo,M,Panama,PAN,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-David Hidalgo,M,Panama,PAN,2016,Rio de Janeiro,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ricardo Chandeck,M,Panama,PAN,2000,Sydney,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+David Hidalgo,M,Panama,PAN,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+David Hidalgo,M,Panama,PAN,2016,Rio de Janeiro,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True,True

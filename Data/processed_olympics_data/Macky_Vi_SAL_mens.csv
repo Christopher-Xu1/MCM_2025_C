@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hans-Joachim Kadelbach,M,Macky Vi,GER,1960,Roma,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,Sailing,SAL,False
-Rolf Mulka,M,Macky Vi,GER,1960,Roma,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,Sailing,SAL,False
-Ingo Bredow,M,Macky Vi,GER,1960,Roma,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hans-Joachim Kadelbach,M,Macky Vi,GER,1960,Roma,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,Sailing,SAL,False,True
+Rolf Mulka,M,Macky Vi,GER,1960,Roma,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,Sailing,SAL,False,True
+Ingo Bredow,M,Macky Vi,GER,1960,Roma,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,Sailing,SAL,False,True

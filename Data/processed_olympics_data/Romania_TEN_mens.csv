@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-George Cosac,M,Romania,ROU,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Victor Hnescu,M,Romania,ROU,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Victor Hnescu,M,Romania,ROU,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Victor Hnescu,M,Romania,ROU,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Gheorghe Lupu,M,Romania,ROU,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Gheorghe Lupu,M,Romania,ROU,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Florin Mergea,M,Romania,ROU,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,False
-Nicolae Miu,M,Romania,ROU,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Andrei Pavel,M,Romania,ROU,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Andrei Pavel,M,Romania,ROU,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Andrei Pavel,M,Romania,ROU,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Andrei Pavel,M,Romania,ROU,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Andrei Pavel,M,Romania,ROU,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Andrei Pavel,M,Romania,ROU,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Andrei Pavel,M,Romania,ROU,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Dinu Pescariu,M,Romania,ROU,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Dinu Pescariu,M,Romania,ROU,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Dinu Pescariu,M,Romania,ROU,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Alexandru Roman,M,Romania,ROU,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Alexandru Roman,M,Romania,ROU,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Horia Tecu,M,Romania,ROU,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Horia Tecu,M,Romania,ROU,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Horia Tecu,M,Romania,ROU,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,True
-Gabriel Trifu,M,Romania,ROU,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Adrian Ungur,M,Romania,ROU,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Adrian Ungur,M,Romania,ROU,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+George Cosac,M,Romania,ROU,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Victor Hnescu,M,Romania,ROU,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Victor Hnescu,M,Romania,ROU,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Victor Hnescu,M,Romania,ROU,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Gheorghe Lupu,M,Romania,ROU,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Gheorghe Lupu,M,Romania,ROU,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Florin Mergea,M,Romania,ROU,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,False,True
+Nicolae Miu,M,Romania,ROU,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Andrei Pavel,M,Romania,ROU,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Andrei Pavel,M,Romania,ROU,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Andrei Pavel,M,Romania,ROU,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Andrei Pavel,M,Romania,ROU,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Andrei Pavel,M,Romania,ROU,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Andrei Pavel,M,Romania,ROU,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Andrei Pavel,M,Romania,ROU,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Dinu Pescariu,M,Romania,ROU,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Dinu Pescariu,M,Romania,ROU,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Dinu Pescariu,M,Romania,ROU,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Alexandru Roman,M,Romania,ROU,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Alexandru Roman,M,Romania,ROU,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Horia Tecu,M,Romania,ROU,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Horia Tecu,M,Romania,ROU,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,False
+Horia Tecu,M,Romania,ROU,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,True,False
+Gabriel Trifu,M,Romania,ROU,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Adrian Ungur,M,Romania,ROU,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Adrian Ungur,M,Romania,ROU,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True

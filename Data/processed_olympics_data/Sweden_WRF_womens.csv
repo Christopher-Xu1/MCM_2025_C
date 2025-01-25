@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sara (-dikanda),F,Sweden,SWE,2004,Athina,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Anna (magnusson-),F,Sweden,SWE,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Anna (magnusson-),F,Sweden,SWE,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Anna (magnusson-),F,Sweden,SWE,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Light-Heavyweight, Freestyle",Bronze,Wrestling,WRF,True
-Henna Johansson,F,Sweden,SWE,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Henna Johansson,F,Sweden,SWE,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Ida-Theres Karlsson-nerell,F,Sweden,SWE,2004,Athina,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Ida-Theres Karlsson-nerell,F,Sweden,SWE,2008,Beijing,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Malin Mattsson,F,Sweden,SWE,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Sofia Mattsson,F,Sweden,SWE,2008,Beijing,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Sofia Mattsson,F,Sweden,SWE,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Sofia Mattsson,F,Sweden,SWE,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",Bronze,Wrestling,WRF,True
-Katarina Johansson,F,Sweden,SWE,2020,Tokyo,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,False
-Magdalena Mattsson,F,Sweden,SWE,2020,Tokyo,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,False
-Jonna Malmgren,F,Sweden,SWE,2024,Paris,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,False
-Johanna Lindborg,F,Sweden,SWE,2024,Paris,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sara (-dikanda),F,Sweden,SWE,2004,Athina,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Anna (magnusson-),F,Sweden,SWE,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Anna (magnusson-),F,Sweden,SWE,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Anna (magnusson-),F,Sweden,SWE,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Light-Heavyweight, Freestyle",Bronze,Wrestling,WRF,True,False
+Henna Johansson,F,Sweden,SWE,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True,True
+Henna Johansson,F,Sweden,SWE,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Ida-Theres Karlsson-nerell,F,Sweden,SWE,2004,Athina,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True,True
+Ida-Theres Karlsson-nerell,F,Sweden,SWE,2008,Beijing,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True,False
+Malin Mattsson,F,Sweden,SWE,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Sofia Mattsson,F,Sweden,SWE,2008,Beijing,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Sofia Mattsson,F,Sweden,SWE,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True,False
+Sofia Mattsson,F,Sweden,SWE,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",Bronze,Wrestling,WRF,True,False
+Katarina Johansson,F,Sweden,SWE,2020,Tokyo,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,False,True
+Magdalena Mattsson,F,Sweden,SWE,2020,Tokyo,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,False,True
+Jonna Malmgren,F,Sweden,SWE,2024,Paris,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,False,True
+Johanna Lindborg,F,Sweden,SWE,2024,Paris,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,False,True

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Larysa Moskalenko,F,Unified Team,EUN,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Olena Pakholchyk,F,Unified Team,EUN,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Larysa Moskalenko,F,Unified Team,EUN,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Olena Pakholchyk,F,Unified Team,EUN,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True

@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-James Dwyer,M,"Turnverein Vorwrts, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Theodore Gross,M,"Turnverein Vorwrts, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Jacob Hergenhahn,M,"Turnverein Vorwrts, Chicago",GER,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Henry Koeder,M,"Turnverein Vorwrts, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Henry Kraft,M,"Turnverein Vorwrts, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Rudolf Schrader,M,"Turnverein Vorwrts, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+James Dwyer,M,"Turnverein Vorwrts, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Theodore Gross,M,"Turnverein Vorwrts, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Jacob Hergenhahn,M,"Turnverein Vorwrts, Chicago",GER,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Henry Koeder,M,"Turnverein Vorwrts, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Henry Kraft,M,"Turnverein Vorwrts, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Rudolf Schrader,M,"Turnverein Vorwrts, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True

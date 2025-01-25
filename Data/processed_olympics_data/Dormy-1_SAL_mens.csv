@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Charles Crichton,M,Dormy-1,GBR,1908,London,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
-Gilbert Laws,M,Dormy-1,GBR,1908,London,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
-Thomas Mcmeekin,M,Dormy-1,GBR,1908,London,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Charles Crichton,M,Dormy-1,GBR,1908,London,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True
+Gilbert Laws,M,Dormy-1,GBR,1908,London,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True
+Thomas Mcmeekin,M,Dormy-1,GBR,1908,London,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True

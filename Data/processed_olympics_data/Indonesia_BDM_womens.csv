@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ellen Angelinawaty,F,Indonesia,INA,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Lidya Djaelawijaya,F,Indonesia,INA,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Lindaweni Fanetri,F,Indonesia,INA,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Adrianti Firdasari,F,Indonesia,INA,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Meiliana Jauhari,F,Indonesia,INA,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Sarwendah Sukiran,F,Indonesia,INA,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Nitya Maheswari,F,Indonesia,INA,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Vita Marissa,F,Indonesia,INA,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Mia Tjiptawan-lobman,F,Indonesia,INA,1996,Atlanta,Badminton,Badminton Women's Singles,Silver,Badminton,BDM,False
-Lilyana Natsir,F,Indonesia,INA,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Lilyana Natsir,F,Indonesia,INA,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Jo Novita,F,Indonesia,INA,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Lita Nurlita,F,Indonesia,INA,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Greysia Polii,F,Indonesia,INA,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Greysia Polii,F,Indonesia,INA,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Yuliani Sentoso,F,Indonesia,INA,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Lucia Haditono,F,Indonesia,INA,1992,Barcelona,Badminton,Badminton Women's Singles,Gold,Badminton,BDM,True
-Lucia Haditono,F,Indonesia,INA,1996,Atlanta,Badminton,Badminton Women's Singles,Bronze,Badminton,BDM,True
-Maria Yulianti,F,Indonesia,INA,2008,Beijing,Badminton,Badminton Women's Singles,Bronze,Badminton,BDM,False
-Greysia Polii,F,Indonesia,INA,2020,Tokyo,Badminton,Women's Doubles Team,Gold,Women's,BDM,True
-Oktavianti Md,F,Indonesia,INA,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,False
-Apriyani Rahayu,F,Indonesia,INA,2020,Tokyo,Badminton,Women's Doubles Team,Gold,Women's,BDM,True
-Mariska Tunjung,F,Indonesia,INA,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,True
-Apriyani Rahayu,F,Indonesia,INA,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,True
-Mariska Tunjung,F,Indonesia,INA,2024,Paris,Badminton,Women's Singles,Bronze,Women's,BDM,True
-Haningtyas Mentari,F,Indonesia,INA,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False
-Silva Ramadhanti,F,Indonesia,INA,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ellen Angelinawaty,F,Indonesia,INA,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Lidya Djaelawijaya,F,Indonesia,INA,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Lindaweni Fanetri,F,Indonesia,INA,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Adrianti Firdasari,F,Indonesia,INA,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Meiliana Jauhari,F,Indonesia,INA,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Sarwendah Sukiran,F,Indonesia,INA,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Nitya Maheswari,F,Indonesia,INA,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Vita Marissa,F,Indonesia,INA,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Mia Tjiptawan-lobman,F,Indonesia,INA,1996,Atlanta,Badminton,Badminton Women's Singles,Silver,Badminton,BDM,False,True
+Lilyana Natsir,F,Indonesia,INA,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Lilyana Natsir,F,Indonesia,INA,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Jo Novita,F,Indonesia,INA,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Lita Nurlita,F,Indonesia,INA,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Greysia Polii,F,Indonesia,INA,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Greysia Polii,F,Indonesia,INA,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Yuliani Sentoso,F,Indonesia,INA,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Lucia Haditono,F,Indonesia,INA,1992,Barcelona,Badminton,Badminton Women's Singles,Gold,Badminton,BDM,True,True
+Lucia Haditono,F,Indonesia,INA,1996,Atlanta,Badminton,Badminton Women's Singles,Bronze,Badminton,BDM,True,False
+Maria Yulianti,F,Indonesia,INA,2008,Beijing,Badminton,Badminton Women's Singles,Bronze,Badminton,BDM,False,True
+Greysia Polii,F,Indonesia,INA,2020,Tokyo,Badminton,Women's Doubles Team,Gold,Women's,BDM,True,False
+Oktavianti Md,F,Indonesia,INA,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,False,True
+Apriyani Rahayu,F,Indonesia,INA,2020,Tokyo,Badminton,Women's Doubles Team,Gold,Women's,BDM,True,True
+Mariska Tunjung,F,Indonesia,INA,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,True,True
+Apriyani Rahayu,F,Indonesia,INA,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,True,False
+Mariska Tunjung,F,Indonesia,INA,2024,Paris,Badminton,Women's Singles,Bronze,Women's,BDM,True,False
+Haningtyas Mentari,F,Indonesia,INA,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False,True
+Silva Ramadhanti,F,Indonesia,INA,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,False,True

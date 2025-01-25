@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Camila Granados,F,Peru,PER,2016,Rio de Janeiro,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False
-Alessia Palacios,F,Peru,PER,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,False
-Valeria Palacios,F,Peru,PER,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,False
-Adriana Sanguineti,F,Peru,PER,2024,Paris,Rowing,Women's Single Sculls,No medal,Women's,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Camila Granados,F,Peru,PER,2016,Rio de Janeiro,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False,True
+Alessia Palacios,F,Peru,PER,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,False,True
+Valeria Palacios,F,Peru,PER,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,False,True
+Adriana Sanguineti,F,Peru,PER,2024,Paris,Rowing,Women's Single Sculls,No medal,Women's,ROW,False,True

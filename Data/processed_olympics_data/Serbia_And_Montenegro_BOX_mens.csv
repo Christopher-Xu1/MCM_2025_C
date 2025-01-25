@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Geard Ajetovi,M,Serbia And Montenegro,SCG,2000,Sydney,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Geard Ajetovi,M,Serbia And Montenegro,SCG,2000,Sydney,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True

@@ -1,55 +1,55 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Danijel Bajlo,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False
-Marko Banovi,M,Croatia,CRO,1992,Barcelona,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Marko Banovi,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True
-Igor Boraska,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,True
-Igor Boraska,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,True
-Igor Boraska,M,Croatia,CRO,2004,Athina,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,True
-Zlatko Buina,M,Croatia,CRO,1992,Barcelona,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False
-Kreimir Uljak,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Marko Dragievi,M,Croatia,CRO,2004,Athina,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False
-Aleksandar Fabijani,M,Croatia,CRO,1992,Barcelona,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Igor Franceti,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Tihomir Frankovi,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,True
-Tihomir Frankovi,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,True
-Tihomir Jarnjevi,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False
-Ivan Juki,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False
-Ante Kuurin,M,Croatia,CRO,2008,Beijing,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False
-Damir Martin,M,Croatia,CRO,2012,London,Rowing,Rowing Men's Quadruple Sculls,Silver,Rowing,ROW,True
-Damir Martin,M,Croatia,CRO,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,Silver,Rowing,ROW,True
-Oliver Martinov,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False
-Sead Marui,M,Croatia,CRO,1992,Barcelona,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Sead Marui,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,True
-Petar Milin,M,Croatia,CRO,2004,Athina,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False
-Marko Perinovi,M,Croatia,CRO,1992,Barcelona,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False
-Silvijo Petriko,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Goran Puljko,M,Croatia,CRO,1992,Barcelona,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-David Ain,M,Croatia,CRO,2012,London,Rowing,Rowing Men's Quadruple Sculls,Silver,Rowing,ROW,False
-Ninoslav Saraga,M,Croatia,CRO,1992,Barcelona,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Ninoslav Saraga,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True
-Ninoslav Saraga,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True
-Martin Sinkovi,M,Croatia,CRO,2012,London,Rowing,Rowing Men's Quadruple Sculls,Silver,Rowing,ROW,True
-Martin Sinkovi,M,Croatia,CRO,2016,Rio de Janeiro,Rowing,Rowing Men's Double Sculls,Gold,Rowing,ROW,True
-Valent Sinkovi,M,Croatia,CRO,2012,London,Rowing,Rowing Men's Quadruple Sculls,Silver,Rowing,ROW,True
-Valent Sinkovi,M,Croatia,CRO,2016,Rio de Janeiro,Rowing,Rowing Men's Double Sculls,Gold,Rowing,ROW,True
-Nika Skelin,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,True
-Nika Skelin,M,Croatia,CRO,2004,Athina,Rowing,Rowing Men's Coxless Pairs,Silver,Rowing,ROW,True
-Nika Skelin,M,Croatia,CRO,2008,Beijing,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True
-Sinia Skelin,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,True
-Sinia Skelin,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,True
-Sinia Skelin,M,Croatia,CRO,2004,Athina,Rowing,Rowing Men's Coxless Pairs,Silver,Rowing,ROW,True
-Sinia Skelin,M,Croatia,CRO,2008,Beijing,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True
-Tomislav Smoljanovi,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Hrvoje Teliman,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False
-Mario Veki,M,Croatia,CRO,2008,Beijing,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,True
-Mario Veki,M,Croatia,CRO,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
-Damir Vuii,M,Croatia,CRO,2004,Athina,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False
-Branimir Vujevi,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Damir Martin,M,Croatia,CRO,2020,Tokyo,Rowing,Men's Single Sculls,Bronze,Men's,ROW,True
-Martin Sinkovic,M,Croatia,CRO,2020,Tokyo,Rowing,Men's Pair Team,Gold,Men's,ROW,True
-Valent Sinkovic,M,Croatia,CRO,2020,Tokyo,Rowing,Men's Pair Team,Gold,Men's,ROW,True
-Anton Loncaric,M,Croatia,CRO,2024,Paris,Rowing,Men's Double Sculls,No medal,Men's,ROW,False
-Patrik Loncaric,M,Croatia,CRO,2024,Paris,Rowing,Men's Double Sculls,No medal,Men's,ROW,False
-Martin Sinkovic,M,Croatia,CRO,2024,Paris,Rowing,Men's Pair,Gold,Men's,ROW,True
-Damir Martin,M,Croatia,CRO,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,True
-Valent Sinkovic,M,Croatia,CRO,2024,Paris,Rowing,Men's Pair,Gold,Men's,ROW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Danijel Bajlo,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False,True
+Marko Banovi,M,Croatia,CRO,1992,Barcelona,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Marko Banovi,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True,False
+Igor Boraska,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,True,True
+Igor Boraska,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,True,False
+Igor Boraska,M,Croatia,CRO,2004,Athina,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,True,False
+Zlatko Buina,M,Croatia,CRO,1992,Barcelona,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False,True
+Kreimir Uljak,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Marko Dragievi,M,Croatia,CRO,2004,Athina,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False,True
+Aleksandar Fabijani,M,Croatia,CRO,1992,Barcelona,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Igor Franceti,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Tihomir Frankovi,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,True,True
+Tihomir Frankovi,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,True,False
+Tihomir Jarnjevi,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False,True
+Ivan Juki,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False,True
+Ante Kuurin,M,Croatia,CRO,2008,Beijing,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False,True
+Damir Martin,M,Croatia,CRO,2012,London,Rowing,Rowing Men's Quadruple Sculls,Silver,Rowing,ROW,True,True
+Damir Martin,M,Croatia,CRO,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,Silver,Rowing,ROW,True,False
+Oliver Martinov,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False,True
+Sead Marui,M,Croatia,CRO,1992,Barcelona,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Sead Marui,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,True,False
+Petar Milin,M,Croatia,CRO,2004,Athina,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False,True
+Marko Perinovi,M,Croatia,CRO,1992,Barcelona,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False,True
+Silvijo Petriko,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Goran Puljko,M,Croatia,CRO,1992,Barcelona,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+David Ain,M,Croatia,CRO,2012,London,Rowing,Rowing Men's Quadruple Sculls,Silver,Rowing,ROW,False,True
+Ninoslav Saraga,M,Croatia,CRO,1992,Barcelona,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Ninoslav Saraga,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True,False
+Ninoslav Saraga,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True,False
+Martin Sinkovi,M,Croatia,CRO,2012,London,Rowing,Rowing Men's Quadruple Sculls,Silver,Rowing,ROW,True,True
+Martin Sinkovi,M,Croatia,CRO,2016,Rio de Janeiro,Rowing,Rowing Men's Double Sculls,Gold,Rowing,ROW,True,False
+Valent Sinkovi,M,Croatia,CRO,2012,London,Rowing,Rowing Men's Quadruple Sculls,Silver,Rowing,ROW,True,True
+Valent Sinkovi,M,Croatia,CRO,2016,Rio de Janeiro,Rowing,Rowing Men's Double Sculls,Gold,Rowing,ROW,True,False
+Nika Skelin,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,True,True
+Nika Skelin,M,Croatia,CRO,2004,Athina,Rowing,Rowing Men's Coxless Pairs,Silver,Rowing,ROW,True,False
+Nika Skelin,M,Croatia,CRO,2008,Beijing,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True,False
+Sinia Skelin,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,True,True
+Sinia Skelin,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,True,False
+Sinia Skelin,M,Croatia,CRO,2004,Athina,Rowing,Rowing Men's Coxless Pairs,Silver,Rowing,ROW,True,False
+Sinia Skelin,M,Croatia,CRO,2008,Beijing,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True,False
+Tomislav Smoljanovi,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Hrvoje Teliman,M,Croatia,CRO,1996,Atlanta,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False,True
+Mario Veki,M,Croatia,CRO,2008,Beijing,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,True,True
+Mario Veki,M,Croatia,CRO,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,False
+Damir Vuii,M,Croatia,CRO,2004,Athina,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False,True
+Branimir Vujevi,M,Croatia,CRO,2000,Sydney,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Damir Martin,M,Croatia,CRO,2020,Tokyo,Rowing,Men's Single Sculls,Bronze,Men's,ROW,True,False
+Martin Sinkovic,M,Croatia,CRO,2020,Tokyo,Rowing,Men's Pair Team,Gold,Men's,ROW,True,True
+Valent Sinkovic,M,Croatia,CRO,2020,Tokyo,Rowing,Men's Pair Team,Gold,Men's,ROW,True,True
+Anton Loncaric,M,Croatia,CRO,2024,Paris,Rowing,Men's Double Sculls,No medal,Men's,ROW,False,True
+Patrik Loncaric,M,Croatia,CRO,2024,Paris,Rowing,Men's Double Sculls,No medal,Men's,ROW,False,True
+Martin Sinkovic,M,Croatia,CRO,2024,Paris,Rowing,Men's Pair,Gold,Men's,ROW,True,False
+Damir Martin,M,Croatia,CRO,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,True,False
+Valent Sinkovic,M,Croatia,CRO,2024,Paris,Rowing,Men's Pair,Gold,Men's,ROW,True,False

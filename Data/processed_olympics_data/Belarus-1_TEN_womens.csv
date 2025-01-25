@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Viktoriya Azarenko,F,Belarus-1,BLR,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Tatyana Puchek,F,Belarus-1,BLR,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Viktoriya Azarenko,F,Belarus-1,BLR,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Tatyana Puchek,F,Belarus-1,BLR,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True

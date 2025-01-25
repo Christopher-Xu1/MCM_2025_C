@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mario Mendoza,M,Belize,BIZ,1968,Mexico City,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mario Mendoza,M,Belize,BIZ,1968,Mexico City,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True

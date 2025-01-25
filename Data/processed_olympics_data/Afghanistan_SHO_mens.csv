@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mahdi Yovari,M,Afghanistan,AFG,2020,Tokyo,Shooting,10m Air Rifle Men,No medal,10m,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mahdi Yovari,M,Afghanistan,AFG,2020,Tokyo,Shooting,10m Air Rifle Men,No medal,10m,SHO,False,True

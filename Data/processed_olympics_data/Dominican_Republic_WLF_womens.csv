@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yudelquis Contreras,F,Dominican Republic,DOM,2008,Beijing,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True
-Yudelquis Contreras,F,Dominican Republic,DOM,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True
-Yudelquis Contreras,F,Dominican Republic,DOM,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True
-Beatriz Candelario,F,Dominican Republic,DOM,2012,London,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True
-Beatriz Candelario,F,Dominican Republic,DOM,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True
-Wanda Contreras,F,Dominican Republic,DOM,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True
-Wanda Contreras,F,Dominican Republic,DOM,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True
-Elizabeth Piron,F,Dominican Republic,DOM,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,False
-Estela Saladin,F,Dominican Republic,DOM,2020,Tokyo,Weightlifting,Women's +87kg,No medal,Women's,WLF,False
-Dominga Santana,F,Dominican Republic,DOM,2020,Tokyo,Weightlifting,Women's 87kg,Bronze,Women's,WLF,False
-Beatriz Piron,F,Dominican Republic,DOM,2024,Paris,Weightlifting,Women's 49kg,No medal,Women's,WLF,False
-Crismery Santana,F,Dominican Republic,DOM,2024,Paris,Weightlifting,Women's +81kg,No medal,Women's,WLF,False
-Yudelina Mejia,F,Dominican Republic,DOM,2024,Paris,Weightlifting,Women's 81kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yudelquis Contreras,F,Dominican Republic,DOM,2008,Beijing,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True,True
+Yudelquis Contreras,F,Dominican Republic,DOM,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True,False
+Yudelquis Contreras,F,Dominican Republic,DOM,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True,False
+Beatriz Candelario,F,Dominican Republic,DOM,2012,London,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True,True
+Beatriz Candelario,F,Dominican Republic,DOM,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True,False
+Wanda Contreras,F,Dominican Republic,DOM,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True,True
+Wanda Contreras,F,Dominican Republic,DOM,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True,False
+Elizabeth Piron,F,Dominican Republic,DOM,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,False,True
+Estela Saladin,F,Dominican Republic,DOM,2020,Tokyo,Weightlifting,Women's +87kg,No medal,Women's,WLF,False,True
+Dominga Santana,F,Dominican Republic,DOM,2020,Tokyo,Weightlifting,Women's 87kg,Bronze,Women's,WLF,False,True
+Beatriz Piron,F,Dominican Republic,DOM,2024,Paris,Weightlifting,Women's 49kg,No medal,Women's,WLF,False,True
+Crismery Santana,F,Dominican Republic,DOM,2024,Paris,Weightlifting,Women's +81kg,No medal,Women's,WLF,False,True
+Yudelina Mejia,F,Dominican Republic,DOM,2024,Paris,Weightlifting,Women's 81kg,No medal,Women's,WLF,False,True

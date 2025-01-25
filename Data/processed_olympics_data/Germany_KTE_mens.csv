@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Noah Bitsch,M,Germany,GER,2020,Tokyo,Karate,Men's Kumite -75kg,No medal,Men's,KTE,False
-Jonathan Horne,M,Germany,GER,2020,Tokyo,Karate,Men's Kumite +75kg,No medal,Men's,KTE,False
-Ilja Smorguner,M,Germany,GER,2020,Tokyo,Karate,Men's Kata,No medal,Men's,KTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Noah Bitsch,M,Germany,GER,2020,Tokyo,Karate,Men's Kumite -75kg,No medal,Men's,KTE,False,True
+Jonathan Horne,M,Germany,GER,2020,Tokyo,Karate,Men's Kumite +75kg,No medal,Men's,KTE,False,True
+Ilja Smorguner,M,Germany,GER,2020,Tokyo,Karate,Men's Kata,No medal,Men's,KTE,False,True

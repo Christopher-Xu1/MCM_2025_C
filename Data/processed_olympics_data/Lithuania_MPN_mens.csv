@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Justinas Kinderis,M,Lithuania,LTU,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Justinas Kinderis,M,Lithuania,LTU,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Edvinas Krungolcas,M,Lithuania,LTU,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Edvinas Krungolcas,M,Lithuania,LTU,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,Silver,Modern,MPN,True
-Vladimiras Moialovas,M,Lithuania,LTU,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Vladimiras Moialovas,M,Lithuania,LTU,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Tomas Narkus,M,Lithuania,LTU,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Tomas Narkus,M,Lithuania,LTU,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Gintaras Stakeviius,M,Lithuania,LTU,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Gintaras Stakeviius,M,Lithuania,LTU,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Andrejus Zadneprovskis,M,Lithuania,LTU,1996,Atlanta,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Andrejus Zadneprovskis,M,Lithuania,LTU,2000,Sydney,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Andrejus Zadneprovskis,M,Lithuania,LTU,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,Silver,Modern,MPN,True
-Andrejus Zadneprovskis,M,Lithuania,LTU,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,Bronze,Modern,MPN,True
-Justinas Kinderis,M,Lithuania,LTU,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Justinas Kinderis,M,Lithuania,LTU,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Justinas Kinderis,M,Lithuania,LTU,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Edvinas Krungolcas,M,Lithuania,LTU,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Edvinas Krungolcas,M,Lithuania,LTU,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,Silver,Modern,MPN,True,False
+Vladimiras Moialovas,M,Lithuania,LTU,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Vladimiras Moialovas,M,Lithuania,LTU,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Tomas Narkus,M,Lithuania,LTU,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Tomas Narkus,M,Lithuania,LTU,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Gintaras Stakeviius,M,Lithuania,LTU,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Gintaras Stakeviius,M,Lithuania,LTU,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Andrejus Zadneprovskis,M,Lithuania,LTU,1996,Atlanta,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Andrejus Zadneprovskis,M,Lithuania,LTU,2000,Sydney,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Andrejus Zadneprovskis,M,Lithuania,LTU,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,Silver,Modern,MPN,True,False
+Andrejus Zadneprovskis,M,Lithuania,LTU,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,Bronze,Modern,MPN,True,False
+Justinas Kinderis,M,Lithuania,LTU,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True,False

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Denyse Julien,F,Canada-1,CAN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Denyse Julien,F,Canada-1,CAN,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Denyse Julien,F,Canada-1,CAN,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Anna Rice,F,Canada-1,CAN,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Kara Solmundson,F,Canada-1,CAN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Denyse Julien,F,Canada-1,CAN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Denyse Julien,F,Canada-1,CAN,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Denyse Julien,F,Canada-1,CAN,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Anna Rice,F,Canada-1,CAN,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Kara Solmundson,F,Canada-1,CAN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True

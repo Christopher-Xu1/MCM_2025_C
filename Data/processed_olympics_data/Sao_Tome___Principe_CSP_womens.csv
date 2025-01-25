@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Herminia Teixeira,F,Sao Tome & Principe,STP,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Herminia Teixeira,F,Sao Tome & Principe,STP,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,False,True

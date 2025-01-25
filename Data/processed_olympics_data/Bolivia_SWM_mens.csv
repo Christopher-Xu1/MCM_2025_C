@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alberto Machuca,M,Bolivia,BOL,1936,Berlin,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Luis Gantier,M,Bolivia,BOL,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Luis Gantier,M,Bolivia,BOL,1992,Barcelona,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Luis Gantier,M,Bolivia,BOL,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Miguel Navarro,M,Bolivia,BOL,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-David Pereyra,M,Bolivia,BOL,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Carlos Oliva,M,Bolivia,BOL,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Carlos Oliva,M,Bolivia,BOL,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Jos Moreno,M,Bolivia,BOL,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Andrew Aliaga,M,Bolivia,BOL,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Gabriel Castillo,M,Bolivia,BOL,2020,Tokyo,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,False
-Esteban Nunez,M,Bolivia,BOL,2024,Paris,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alberto Machuca,M,Bolivia,BOL,1936,Berlin,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Luis Gantier,M,Bolivia,BOL,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Luis Gantier,M,Bolivia,BOL,1992,Barcelona,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Luis Gantier,M,Bolivia,BOL,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Miguel Navarro,M,Bolivia,BOL,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+David Pereyra,M,Bolivia,BOL,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Carlos Oliva,M,Bolivia,BOL,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Carlos Oliva,M,Bolivia,BOL,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Jos Moreno,M,Bolivia,BOL,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Andrew Aliaga,M,Bolivia,BOL,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Gabriel Castillo,M,Bolivia,BOL,2020,Tokyo,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,False,True
+Esteban Nunez,M,Bolivia,BOL,2024,Paris,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,False,True

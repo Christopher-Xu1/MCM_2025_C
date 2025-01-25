@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Antonio Felicit,M,Mauritius,MRI,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Jean-Claude Raphal,M,Mauritius,MRI,2000,Sydney,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Remi Feuillet,M,Mauritius,MRI,2020,Tokyo,Judo,Men -90 kg,No medal,Men,JUD,True
-Remi Feuillet,M,Mauritius,MRI,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Antonio Felicit,M,Mauritius,MRI,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Jean-Claude Raphal,M,Mauritius,MRI,2000,Sydney,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Remi Feuillet,M,Mauritius,MRI,2020,Tokyo,Judo,Men -90 kg,No medal,Men,JUD,True,True
+Remi Feuillet,M,Mauritius,MRI,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,True,False

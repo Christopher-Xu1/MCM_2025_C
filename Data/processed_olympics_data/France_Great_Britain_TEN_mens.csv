@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Harold Mahony,M,France/Great Britain,GBR,1900,Paris,Tennis,Tennis Mixed Doubles,Silver,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Harold Mahony,M,France/Great Britain,GBR,1900,Paris,Tennis,Tennis Mixed Doubles,Silver,Tennis,TEN,False,True

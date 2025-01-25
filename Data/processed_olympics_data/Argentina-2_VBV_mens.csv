@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mariano Baracetti,M,Argentina-2,ARG,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Jos Abrantes,M,Argentina-2,ARG,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mariano Baracetti,M,Argentina-2,ARG,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Jos Abrantes,M,Argentina-2,ARG,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True

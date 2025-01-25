@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Thomas Butler,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-James Clarke,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-William Greggan,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-Alexander Kidd,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-Daniel Lowey,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-Patrick Philbin,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-George Smith,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-Thomas Swindlehurst,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Thomas Butler,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+James Clarke,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+William Greggan,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+Alexander Kidd,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+Daniel Lowey,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+Patrick Philbin,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+George Smith,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+Thomas Swindlehurst,M,Liverpool Police Team-2,GBR,1908,London,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True

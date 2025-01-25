@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dina Ellermann,F,Estonia,EST,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dina Ellermann,F,Estonia,EST,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,False,True

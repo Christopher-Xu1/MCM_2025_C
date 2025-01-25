@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Susanne Glesnes,F,Norway-2,NOR,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Susanne Glesnes,F,Norway-2,NOR,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Kathrine (-dahl-andersen),F,Norway-2,NOR,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Kathrine (-dahl-andersen),F,Norway-2,NOR,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Susanne Glesnes,F,Norway-2,NOR,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,True
+Susanne Glesnes,F,Norway-2,NOR,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,False
+Kathrine (-dahl-andersen),F,Norway-2,NOR,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,True
+Kathrine (-dahl-andersen),F,Norway-2,NOR,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,False

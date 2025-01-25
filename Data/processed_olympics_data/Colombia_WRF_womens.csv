@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ana David,F,Colombia,COL,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Carolina Hidalgo,F,Colombia,COL,2012,London,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Carolina Hidalgo,F,Colombia,COL,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Andrea Gutirrez,F,Colombia,COL,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Jackeline Castillo,F,Colombia,COL,2008,Beijing,Wrestling,"Wrestling Women's Lightweight, Freestyle",Bronze,Wrestling,WRF,True
-Jackeline Castillo,F,Colombia,COL,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",Bronze,Wrestling,WRF,True
-Jackeline Castillo,F,Colombia,COL,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Tatiana Renteria,F,Colombia,COL,2024,Paris,Wrestling,Women's Freestyle 76kg,Bronze,Women's,WRF,False
-Camila Cardozo,F,Colombia,COL,2024,Paris,Wrestling,Women's Freestyle 50kg,No medal,Women's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ana David,F,Colombia,COL,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Carolina Hidalgo,F,Colombia,COL,2012,London,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Carolina Hidalgo,F,Colombia,COL,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Andrea Gutirrez,F,Colombia,COL,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Jackeline Castillo,F,Colombia,COL,2008,Beijing,Wrestling,"Wrestling Women's Lightweight, Freestyle",Bronze,Wrestling,WRF,True,True
+Jackeline Castillo,F,Colombia,COL,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",Bronze,Wrestling,WRF,True,False
+Jackeline Castillo,F,Colombia,COL,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True,False
+Tatiana Renteria,F,Colombia,COL,2024,Paris,Wrestling,Women's Freestyle 76kg,Bronze,Women's,WRF,False,True
+Camila Cardozo,F,Colombia,COL,2024,Paris,Wrestling,Women's Freestyle 50kg,No medal,Women's,WRF,False,True

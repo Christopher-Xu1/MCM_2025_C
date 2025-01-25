@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Karl (andersson-),M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Hjalmar Burman,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Seth Howander,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Albin Jansson,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Georg (-brandius),M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Einar Lindqvist,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Carl Lundell,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Hansjacob Mattsson,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Nils Molander,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Carl Sfwenberg,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-John Svensson,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Karl (andersson-),M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Hjalmar Burman,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Seth Howander,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Albin Jansson,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Georg (-brandius),M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Einar Lindqvist,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Carl Lundell,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Hansjacob Mattsson,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Nils Molander,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Carl Sfwenberg,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+John Svensson,M,Sweden,SWE,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True

@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Batskhiin Khayankhyarvaa,M,Mongolia,MGL,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Batskhiin Khayankhyarvaa,M,Mongolia,MGL,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Choijiljavyn Samand,M,Mongolia,MGL,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Choijiljavyn Samand,M,Mongolia,MGL,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Damdinsrengiin Orgodol,M,Mongolia,MGL,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Dashjamtsyn Mnkhbat,M,Mongolia,MGL,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Dashjamtsyn Mnkhbat,M,Mongolia,MGL,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Dashjamtsyn Tmrbaatar,M,Mongolia,MGL,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Dashjamtsyn Tmrbaatar,M,Mongolia,MGL,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Dashnyamyn Tmr-ochir,M,Mongolia,MGL,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Dashnyamyn Tmr-ochir,M,Mongolia,MGL,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Dashnyamyn Tmr-ochir,M,Mongolia,MGL,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Dorjpalamyn Tsolmon,M,Mongolia,MGL,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Jamsrangiin Lzii-orshikh,M,Mongolia,MGL,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jamsrangiin Lzii-orshikh,M,Mongolia,MGL,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Luvsandagvyn Jargalsaikhan,M,Mongolia,MGL,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Luvsandagvyn Jargalsaikhan,M,Mongolia,MGL,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Luvsangiin Buudai,M,Mongolia,MGL,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Luvsangiin Buudai,M,Mongolia,MGL,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Luvsangiin Erkhemjamts,M,Mongolia,MGL,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Luvsangiin Erkhemjamts,M,Mongolia,MGL,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Yanjingiin Baatar,M,Mongolia,MGL,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Yanjingiin Baatar,M,Mongolia,MGL,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Zundui Naran,M,Mongolia,MGL,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Batskhiin Khayankhyarvaa,M,Mongolia,MGL,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Batskhiin Khayankhyarvaa,M,Mongolia,MGL,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Choijiljavyn Samand,M,Mongolia,MGL,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Choijiljavyn Samand,M,Mongolia,MGL,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Damdinsrengiin Orgodol,M,Mongolia,MGL,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Dashjamtsyn Mnkhbat,M,Mongolia,MGL,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Dashjamtsyn Mnkhbat,M,Mongolia,MGL,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Dashjamtsyn Tmrbaatar,M,Mongolia,MGL,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Dashjamtsyn Tmrbaatar,M,Mongolia,MGL,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Dashnyamyn Tmr-ochir,M,Mongolia,MGL,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Dashnyamyn Tmr-ochir,M,Mongolia,MGL,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Dashnyamyn Tmr-ochir,M,Mongolia,MGL,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Dorjpalamyn Tsolmon,M,Mongolia,MGL,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Jamsrangiin Lzii-orshikh,M,Mongolia,MGL,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Jamsrangiin Lzii-orshikh,M,Mongolia,MGL,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Luvsandagvyn Jargalsaikhan,M,Mongolia,MGL,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Luvsandagvyn Jargalsaikhan,M,Mongolia,MGL,1980,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Luvsangiin Buudai,M,Mongolia,MGL,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Luvsangiin Buudai,M,Mongolia,MGL,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Luvsangiin Erkhemjamts,M,Mongolia,MGL,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Luvsangiin Erkhemjamts,M,Mongolia,MGL,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Yanjingiin Baatar,M,Mongolia,MGL,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Yanjingiin Baatar,M,Mongolia,MGL,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Zundui Naran,M,Mongolia,MGL,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True

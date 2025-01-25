@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mario Soto,M,Dominican Republic,DOM,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Mario Soto,M,Dominican Republic,DOM,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Raymundo Martnez,M,Dominican Republic,DOM,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Raymundo Martnez,M,Dominican Republic,DOM,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Ju Lin,M,Dominican Republic,DOM,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Ju Lin,M,Dominican Republic,DOM,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Ju Lin,M,Dominican Republic,DOM,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mario Soto,M,Dominican Republic,DOM,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Mario Soto,M,Dominican Republic,DOM,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Raymundo Martnez,M,Dominican Republic,DOM,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Raymundo Martnez,M,Dominican Republic,DOM,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Ju Lin,M,Dominican Republic,DOM,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Ju Lin,M,Dominican Republic,DOM,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Ju Lin,M,Dominican Republic,DOM,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False

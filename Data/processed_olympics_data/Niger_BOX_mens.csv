@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chibou Amna,M,Niger,NIG,1984,Los Angeles,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Issaka Dabor,M,Niger,NIG,1964,Tokyo,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Issaka Dabor,M,Niger,NIG,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Issaka Dabor,M,Niger,NIG,1972,Munich,Boxing,Boxing Men's Light-Welterweight,Bronze,Boxing,BOX,True
-Dary Dasuda,M,Niger,NIG,1968,Mexico City,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Issoufou Habou,M,Niger,NIG,1972,Munich,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Moustapha Hima,M,Niger,NIG,2012,London,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Harouna Lago,M,Niger,NIG,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Djingarey Mamoudou,M,Niger,NIG,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Badie Ovnteni,M,Niger,NIG,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Mayaki Seydou,M,Niger,NIG,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Moumouni Siuley,M,Niger,NIG,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Boubagar Soumana,M,Niger,NIG,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chibou Amna,M,Niger,NIG,1984,Los Angeles,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Issaka Dabor,M,Niger,NIG,1964,Tokyo,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,True
+Issaka Dabor,M,Niger,NIG,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,False
+Issaka Dabor,M,Niger,NIG,1972,Munich,Boxing,Boxing Men's Light-Welterweight,Bronze,Boxing,BOX,True,False
+Dary Dasuda,M,Niger,NIG,1968,Mexico City,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Issoufou Habou,M,Niger,NIG,1972,Munich,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Moustapha Hima,M,Niger,NIG,2012,London,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Harouna Lago,M,Niger,NIG,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Djingarey Mamoudou,M,Niger,NIG,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Badie Ovnteni,M,Niger,NIG,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Mayaki Seydou,M,Niger,NIG,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Moumouni Siuley,M,Niger,NIG,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Boubagar Soumana,M,Niger,NIG,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True

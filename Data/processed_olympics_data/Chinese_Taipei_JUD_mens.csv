@@ -1,30 +1,30 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chang Chung-huei,M,Chinese Taipei,TPE,1964,Tokyo,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Chang Ping-ho,M,Chinese Taipei,TPE,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Chang Shou-chung,M,Chinese Taipei,TPE,1984,Los Angeles,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Chang Won-ku,M,Chinese Taipei,TPE,1964,Tokyo,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Chau Chin-fu,M,Chinese Taipei,TPE,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Chen Chun-ching,M,Chinese Taipei,TPE,2000,Sydney,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Cheng Chi-hsiang,M,Chinese Taipei,TPE,1972,Munich,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Chiu Heng-an,M,Chinese Taipei,TPE,1988,Seoul,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Huang Chien-lung,M,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Huang Chin-chun,M,Chinese Taipei,TPE,1964,Tokyo,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Huang Yong-chun,M,Chinese Taipei,TPE,1964,Tokyo,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Ju Hsiang-hung,M,Chinese Taipei,TPE,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Juang Jen-wuh,M,Chinese Taipei,TPE,1972,Munich,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Juang Jen-wuh,M,Chinese Taipei,TPE,1972,Munich,Judo,Judo Men's Open Class,No medal,Judo,JUD,True
-Lee Chih-feng,M,Chinese Taipei,TPE,2000,Sydney,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Liao Chun-chiang,M,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Liaw Der-cheng,M,Chinese Taipei,TPE,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Lo Yu-wei,M,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Sheu Tsay-chwan,M,Chinese Taipei,TPE,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Sun Yih-shong,M,Chinese Taipei,TPE,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Tsai Ming-yen,M,Chinese Taipei,TPE,2016,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Tsay Yow-tayn,M,Chinese Taipei,TPE,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Tu Kai-wen,M,Chinese Taipei,TPE,2012,London,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Wang Jong-she,M,Chinese Taipei,TPE,1972,Munich,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Wu Kuo-hui,M,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Wu Po-chen,M,Chinese Taipei,TPE,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Yen Kuo-che,M,Chinese Taipei,TPE,2000,Sydney,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Wei Yang,M,Chinese Taipei,TPE,2020,Tokyo,Judo,Men -60 kg,Silver,Men,JUD,True
-Wei Yang,M,Chinese Taipei,TPE,2024,Paris,Judo,Men -60 kg,No medal,Men,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chang Chung-huei,M,Chinese Taipei,TPE,1964,Tokyo,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Chang Ping-ho,M,Chinese Taipei,TPE,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Chang Shou-chung,M,Chinese Taipei,TPE,1984,Los Angeles,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Chang Won-ku,M,Chinese Taipei,TPE,1964,Tokyo,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Chau Chin-fu,M,Chinese Taipei,TPE,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Chen Chun-ching,M,Chinese Taipei,TPE,2000,Sydney,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Cheng Chi-hsiang,M,Chinese Taipei,TPE,1972,Munich,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Chiu Heng-an,M,Chinese Taipei,TPE,1988,Seoul,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Huang Chien-lung,M,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Huang Chin-chun,M,Chinese Taipei,TPE,1964,Tokyo,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Huang Yong-chun,M,Chinese Taipei,TPE,1964,Tokyo,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Ju Hsiang-hung,M,Chinese Taipei,TPE,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Juang Jen-wuh,M,Chinese Taipei,TPE,1972,Munich,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,True
+Juang Jen-wuh,M,Chinese Taipei,TPE,1972,Munich,Judo,Judo Men's Open Class,No medal,Judo,JUD,True,True
+Lee Chih-feng,M,Chinese Taipei,TPE,2000,Sydney,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Liao Chun-chiang,M,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Liaw Der-cheng,M,Chinese Taipei,TPE,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Lo Yu-wei,M,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Sheu Tsay-chwan,M,Chinese Taipei,TPE,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Sun Yih-shong,M,Chinese Taipei,TPE,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Tsai Ming-yen,M,Chinese Taipei,TPE,2016,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Tsay Yow-tayn,M,Chinese Taipei,TPE,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Tu Kai-wen,M,Chinese Taipei,TPE,2012,London,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Wang Jong-she,M,Chinese Taipei,TPE,1972,Munich,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Wu Kuo-hui,M,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Wu Po-chen,M,Chinese Taipei,TPE,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Yen Kuo-che,M,Chinese Taipei,TPE,2000,Sydney,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Wei Yang,M,Chinese Taipei,TPE,2020,Tokyo,Judo,Men -60 kg,Silver,Men,JUD,True,True
+Wei Yang,M,Chinese Taipei,TPE,2024,Paris,Judo,Men -60 kg,No medal,Men,JUD,True,False

@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aurelien&nbsp; Giraud,M,France,FRA,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,False
-Vincent Matheron,M,France,FRA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,True
-Vincent Milou,M,France,FRA,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,True
-Vincent Matheron,M,France,FRA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,True
-Vincent Milou,M,France,FRA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,True
-Joseph Garbaccio,M,France,FRA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,False
-Aurelien Giraud,M,France,FRA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aurelien&nbsp; Giraud,M,France,FRA,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,False,True
+Vincent Matheron,M,France,FRA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,True,True
+Vincent Milou,M,France,FRA,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,True,True
+Vincent Matheron,M,France,FRA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,True,False
+Vincent Milou,M,France,FRA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,True,False
+Joseph Garbaccio,M,France,FRA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,False,True
+Aurelien Giraud,M,France,FRA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,False,True

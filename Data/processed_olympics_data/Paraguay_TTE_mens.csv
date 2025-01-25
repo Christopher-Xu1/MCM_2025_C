@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marcelo Aguirre,M,Paraguay,PAR,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Marcelo Aguirre,M,Paraguay,PAR,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Marcelo Aguirre,M,Paraguay,PAR,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marcelo Aguirre,M,Paraguay,PAR,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Marcelo Aguirre,M,Paraguay,PAR,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Marcelo Aguirre,M,Paraguay,PAR,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False

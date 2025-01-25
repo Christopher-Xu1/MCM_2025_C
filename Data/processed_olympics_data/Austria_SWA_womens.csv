@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anna-Maria Alexandri,F,Austria,AUT,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Eirini-Marina Alexandri,F,Austria,AUT,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Nadine Brandl,F,Austria,AUT,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Nadine Brandl,F,Austria,AUT,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Eva-Maria Edinger,F,Austria,AUT,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Eva-Maria Edinger,F,Austria,AUT,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Livia Lang,F,Austria,AUT,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Elisabeth Mahn,F,Austria,AUT,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Beatrix Mllner,F,Austria,AUT,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Beatrix Mllner,F,Austria,AUT,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Christine Mllner,F,Austria,AUT,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Christine Mllner,F,Austria,AUT,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Alexandra Worisch,F,Austria,AUT,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Alexandra Worisch,F,Austria,AUT,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Anna-maria Alexandri,F,Austria,AUT,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True
-Eirini Alexandri,F,Austria,AUT,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,False
-Anna-maria Alexandri,F,Austria,AUT,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True
-Eirini-marina Alexandri,F,Austria,AUT,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anna-Maria Alexandri,F,Austria,AUT,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Eirini-Marina Alexandri,F,Austria,AUT,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Nadine Brandl,F,Austria,AUT,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Nadine Brandl,F,Austria,AUT,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Eva-Maria Edinger,F,Austria,AUT,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Eva-Maria Edinger,F,Austria,AUT,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Livia Lang,F,Austria,AUT,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Elisabeth Mahn,F,Austria,AUT,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Beatrix Mllner,F,Austria,AUT,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Beatrix Mllner,F,Austria,AUT,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Christine Mllner,F,Austria,AUT,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Christine Mllner,F,Austria,AUT,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Alexandra Worisch,F,Austria,AUT,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Alexandra Worisch,F,Austria,AUT,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Anna-maria Alexandri,F,Austria,AUT,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True,True
+Eirini Alexandri,F,Austria,AUT,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,False,True
+Anna-maria Alexandri,F,Austria,AUT,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True,False
+Eirini-marina Alexandri,F,Austria,AUT,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,False,True

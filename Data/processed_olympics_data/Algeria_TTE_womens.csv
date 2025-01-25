@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Leila Boucetta,F,Algeria,ALG,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Asma Al-menaifi,F,Algeria,ALG,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Asma Al-menaifi,F,Algeria,ALG,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Souad Al-nechab,F,Algeria,ALG,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
-Lynda Loghraibi,F,Algeria,ALG,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Leila Boucetta,F,Algeria,ALG,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Asma Al-menaifi,F,Algeria,ALG,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Asma Al-menaifi,F,Algeria,ALG,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Souad Al-nechab,F,Algeria,ALG,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True
+Lynda Loghraibi,F,Algeria,ALG,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,False,True

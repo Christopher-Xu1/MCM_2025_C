@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Donatien Bouch,M,L'Aile Vi,FRA,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Carl Sablire,M,L'Aile Vi,FRA,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Andr Derrien,M,L'Aile Vi,FRA,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Andr Lesauvage,M,L'Aile Vi,FRA,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Jean Lesieur,M,L'Aile Vi,FRA,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Donatien Bouch,M,L'Aile Vi,FRA,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Carl Sablire,M,L'Aile Vi,FRA,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Andr Derrien,M,L'Aile Vi,FRA,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Andr Lesauvage,M,L'Aile Vi,FRA,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Jean Lesieur,M,L'Aile Vi,FRA,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True

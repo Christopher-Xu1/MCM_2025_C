@@ -1,35 +1,35 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chang Hsiu-yu,F,Chinese Taipei,TPE,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Chang Hsiu-yu,F,Chinese Taipei,TPE,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Chen Chiu-tan,F,Chinese Taipei,TPE,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Chen Jing,F,Chinese Taipei,TPE,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,Silver,Table,TTE,True
-Chen Jing,F,Chinese Taipei,TPE,2000,Sydney,Table Tennis,Table Tennis Women's Singles,Bronze,Table,TTE,True
-Chen Szu-yu,F,Chinese Taipei,TPE,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Chen Szu-yu,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Chen Szu-yu,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Chen-Tong Fei-ming,F,Chinese Taipei,TPE,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Cheng I-ching,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Cheng I-ching,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Huang I-hua,F,Chinese Taipei,TPE,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Huang I-hua,F,Chinese Taipei,TPE,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Huang I-hua,F,Chinese Taipei,TPE,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Huang I-hua,F,Chinese Taipei,TPE,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Huang I-hua,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Lin Li-ju,F,Chinese Taipei,TPE,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Lin Li-ju,F,Chinese Taipei,TPE,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Lu Yun-feng,F,Chinese Taipei,TPE,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
-Pan Li-chun,F,Chinese Taipei,TPE,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Xu Jing,F,Chinese Taipei,TPE,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Xu Jing,F,Chinese Taipei,TPE,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Yu Chen,F,Chinese Taipei,TPE,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Yu Chen,F,Chinese Taipei,TPE,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Tzu Cheng,F,Chinese Taipei,TPE,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,False
-Ching Cheng,F,Chinese Taipei,TPE,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Ching Cheng,F,Chinese Taipei,TPE,2020,Tokyo,Table Tennis,Mixed Doubles Team,Bronze,Mixed,TTE,True
-Ching Cheng,F,Chinese Taipei,TPE,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True
-I-ching Cheng,F,Chinese Taipei,TPE,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-I-ching Cheng,F,Chinese Taipei,TPE,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Szu-yu Chen,F,Chinese Taipei,TPE,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Szu-yu Chen,F,Chinese Taipei,TPE,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True
-Tung-chuan Chien,F,Chinese Taipei,TPE,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Tung-chuan Chien,F,Chinese Taipei,TPE,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chang Hsiu-yu,F,Chinese Taipei,TPE,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Chang Hsiu-yu,F,Chinese Taipei,TPE,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Chen Chiu-tan,F,Chinese Taipei,TPE,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Chen Jing,F,Chinese Taipei,TPE,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,Silver,Table,TTE,True,True
+Chen Jing,F,Chinese Taipei,TPE,2000,Sydney,Table Tennis,Table Tennis Women's Singles,Bronze,Table,TTE,True,False
+Chen Szu-yu,F,Chinese Taipei,TPE,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Chen Szu-yu,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Chen Szu-yu,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Chen-Tong Fei-ming,F,Chinese Taipei,TPE,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Cheng I-ching,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Cheng I-ching,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Huang I-hua,F,Chinese Taipei,TPE,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Huang I-hua,F,Chinese Taipei,TPE,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Huang I-hua,F,Chinese Taipei,TPE,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Huang I-hua,F,Chinese Taipei,TPE,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Huang I-hua,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Lin Li-ju,F,Chinese Taipei,TPE,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Lin Li-ju,F,Chinese Taipei,TPE,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Lu Yun-feng,F,Chinese Taipei,TPE,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True
+Pan Li-chun,F,Chinese Taipei,TPE,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Xu Jing,F,Chinese Taipei,TPE,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Xu Jing,F,Chinese Taipei,TPE,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Yu Chen,F,Chinese Taipei,TPE,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Yu Chen,F,Chinese Taipei,TPE,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True,True
+Tzu Cheng,F,Chinese Taipei,TPE,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,False,True
+Ching Cheng,F,Chinese Taipei,TPE,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Ching Cheng,F,Chinese Taipei,TPE,2020,Tokyo,Table Tennis,Mixed Doubles Team,Bronze,Mixed,TTE,True,True
+Ching Cheng,F,Chinese Taipei,TPE,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True,True
+I-ching Cheng,F,Chinese Taipei,TPE,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+I-ching Cheng,F,Chinese Taipei,TPE,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True,True
+Szu-yu Chen,F,Chinese Taipei,TPE,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True,True
+Szu-yu Chen,F,Chinese Taipei,TPE,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True,True
+Tung-chuan Chien,F,Chinese Taipei,TPE,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Tung-chuan Chien,F,Chinese Taipei,TPE,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True,True

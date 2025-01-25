@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Franois Coulombe-fortier,M,Canada,CAN,2012,London,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False
-Sbastien Michaud,M,Canada,CAN,2008,Beijing,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,True
-Sbastien Michaud,M,Canada,CAN,2012,London,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Franois Coulombe-fortier,M,Canada,CAN,2012,London,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False,True
+Sbastien Michaud,M,Canada,CAN,2008,Beijing,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,True,True
+Sbastien Michaud,M,Canada,CAN,2012,London,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,True,False

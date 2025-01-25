@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ivet Goranova,F,Bulgaria,BUL,2020,Tokyo,Karate,Women's Kumite -55kg,Gold,Women's,KTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ivet Goranova,F,Bulgaria,BUL,2020,Tokyo,Karate,Women's Kumite -55kg,Gold,Women's,KTE,False,True

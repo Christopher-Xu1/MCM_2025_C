@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Duha,M,"Central Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
-Charles Krause,M,"Central Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
-George Mayer,M,"Central Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
-Robert Maysack,M,"Central Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
-Philip Schuster,M,"Central Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
-Edward Siegler,M,"Central Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Duha,M,"Central Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True
+Charles Krause,M,"Central Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True
+George Mayer,M,"Central Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True
+Robert Maysack,M,"Central Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True
+Philip Schuster,M,"Central Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True
+Edward Siegler,M,"Central Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,False,True

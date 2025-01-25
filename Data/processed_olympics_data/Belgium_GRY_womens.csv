@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Laurence Brihaye,F,Belgium,BEL,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Sarina Roberti,F,Belgium,BEL,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Cindy Stollenberg,F,Belgium,BEL,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True
-Cindy Stollenberg,F,Belgium,BEL,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Laurence Brihaye,F,Belgium,BEL,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Sarina Roberti,F,Belgium,BEL,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Cindy Stollenberg,F,Belgium,BEL,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True,True
+Cindy Stollenberg,F,Belgium,BEL,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True,False

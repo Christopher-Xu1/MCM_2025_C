@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Martinho Araujo,M,Individual Olympic Athletes,IOA,2000,Sydney,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Martinho Araujo,M,Individual Olympic Athletes,IOA,2000,Sydney,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True

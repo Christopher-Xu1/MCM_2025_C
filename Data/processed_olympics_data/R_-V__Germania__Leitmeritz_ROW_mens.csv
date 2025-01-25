@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hugo Cuna,M,"R.-V. Germania, Leitmeritz",AUT,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
-Emil Jand,M,"R.-V. Germania, Leitmeritz",AUT,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
-Georg Krder,M,"R.-V. Germania, Leitmeritz",AUT,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
-Fritz Krombholz,M,"R.-V. Germania, Leitmeritz",AUT,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
-Richard Mayer,M,"R.-V. Germania, Leitmeritz",AUT,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hugo Cuna,M,"R.-V. Germania, Leitmeritz",AUT,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True
+Emil Jand,M,"R.-V. Germania, Leitmeritz",AUT,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True
+Georg Krder,M,"R.-V. Germania, Leitmeritz",AUT,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True
+Fritz Krombholz,M,"R.-V. Germania, Leitmeritz",AUT,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True
+Richard Mayer,M,"R.-V. Germania, Leitmeritz",AUT,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True

@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sabiahmad Ahad,M,Malaysia,MAS,1984,Los Angeles,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False
-Hasli Hasan,M,Malaysia,MAS,2008,Beijing,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False
-Chee Chin,M,Malaysia,MAS,1988,Seoul,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Dennis Filmer,M,Malaysia,MAS,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Goh Yong,M,Malaysia,MAS,1964,Tokyo,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False
-Kaw Ying,M,Malaysia,MAS,1992,Barcelona,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True
-Kaw Ying,M,Malaysia,MAS,1996,Atlanta,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,True
-Kok Woh,M,Malaysia,MAS,1964,Tokyo,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False
-Loh Chee,M,Malaysia,MAS,1964,Tokyo,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False
-Tai Ong,M,Malaysia,MAS,1976,Montreal,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Tang Choi,M,Malaysia,MAS,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Chee Teh,M,Malaysia,MAS,2004,Athina,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False
-Wong Wah,M,Malaysia,MAS,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Wong Wah,M,Malaysia,MAS,1972,Munich,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Guanjie Wong,M,Malaysia,MAS,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Guanjie Wong,M,Malaysia,MAS,2016,Rio de Janeiro,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
-Yap Thong,M,Malaysia,MAS,1964,Tokyo,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False
-Cheng Yeoh,M,Malaysia,MAS,2004,Athina,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False
-Edmund Yong,M,Malaysia,MAS,1976,Montreal,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Johnathan Wong,M,Malaysia,MAS,2024,Paris,Shooting,10m Air Pistol Men,No medal,10m,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sabiahmad Ahad,M,Malaysia,MAS,1984,Los Angeles,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False,True
+Hasli Hasan,M,Malaysia,MAS,2008,Beijing,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False,True
+Chee Chin,M,Malaysia,MAS,1988,Seoul,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Dennis Filmer,M,Malaysia,MAS,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Goh Yong,M,Malaysia,MAS,1964,Tokyo,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False,True
+Kaw Ying,M,Malaysia,MAS,1992,Barcelona,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True,True
+Kaw Ying,M,Malaysia,MAS,1996,Atlanta,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,True,False
+Kok Woh,M,Malaysia,MAS,1964,Tokyo,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False,True
+Loh Chee,M,Malaysia,MAS,1964,Tokyo,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False,True
+Tai Ong,M,Malaysia,MAS,1976,Montreal,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Tang Choi,M,Malaysia,MAS,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Chee Teh,M,Malaysia,MAS,2004,Athina,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False,True
+Wong Wah,M,Malaysia,MAS,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Wong Wah,M,Malaysia,MAS,1972,Munich,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Guanjie Wong,M,Malaysia,MAS,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Guanjie Wong,M,Malaysia,MAS,2016,Rio de Janeiro,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True,True
+Yap Thong,M,Malaysia,MAS,1964,Tokyo,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False,True
+Cheng Yeoh,M,Malaysia,MAS,2004,Athina,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False,True
+Edmund Yong,M,Malaysia,MAS,1976,Montreal,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Johnathan Wong,M,Malaysia,MAS,2024,Paris,Shooting,10m Air Pistol Men,No medal,10m,SHO,False,True

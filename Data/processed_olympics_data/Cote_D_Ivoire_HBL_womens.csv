@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zomou Awa,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Dounbia Bah,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Clementine Bl,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Emilie Djoman,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Alimata Douamba,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Koko Elleingand,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Wandou Guehi,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Brigitte Guigui,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Gouna Irie,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Hortense Konan,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Elisabeth Kouassi,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Mahoula Kramou,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Adjoua N'dri,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Julienne Vodoungbo,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zomou Awa,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Dounbia Bah,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Clementine Bl,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Emilie Djoman,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Alimata Douamba,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Koko Elleingand,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Wandou Guehi,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Brigitte Guigui,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Gouna Irie,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Hortense Konan,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Elisabeth Kouassi,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Mahoula Kramou,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Adjoua N'dri,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Julienne Vodoungbo,F,Cote D'Ivoire,CIV,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True

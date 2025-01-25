@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elizaveta Posadskikh,F,Russia,ROC,2020,Tokyo,Cycling BMX Freestyle,Women's Park,No medal,Women's,BMF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elizaveta Posadskikh,F,Russia,ROC,2020,Tokyo,Cycling BMX Freestyle,Women's Park,No medal,Women's,BMF,False,True

@@ -1,41 +1,41 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ha Jae-min,M,South Korea,KOR,2008,Beijing,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Ha Jae-min,M,South Korea,KOR,2012,London,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Ha Jae-min,M,South Korea,KOR,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Jeong Seong-an,M,South Korea,KOR,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Jeong Seong-an,M,South Korea,KOR,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Jeong Seong-an,M,South Korea,KOR,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Jeong Seong-an,M,South Korea,KOR,2004,Athina,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Jo Jin-seop,M,South Korea,KOR,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Jo Seong-min,M,South Korea,KOR,2012,London,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Kim Chang-ju,M,South Korea,KOR,2016,Rio de Janeiro,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Kim Dae-yeong,M,South Korea,KOR,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Kim Dae-yeong,M,South Korea,KOR,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Kim Dae-yeong,M,South Korea,KOR,2004,Athina,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Kim Gi-han,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Kim Ho-gon,M,South Korea,KOR,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Kim Ho-gon,M,South Korea,KOR,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Kim Ho-gon,M,South Korea,KOR,2004,Athina,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Kim Hyeong-tae,M,South Korea,KOR,2008,Beijing,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Kim Ji-hoon,M,South Korea,KOR,2016,Rio de Janeiro,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Lee Han-im,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,False
-Lee Tae-hun,M,South Korea,KOR,2008,Beijing,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Lee Tae-hun,M,South Korea,KOR,2012,London,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Lee Tae-hun,M,South Korea,KOR,2016,Rio de Janeiro,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-O Jong-yeol,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Ok Deok-pil,M,South Korea,KOR,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Ok Deok-pil,M,South Korea,KOR,2000,Sydney,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Ok Deok-pil,M,South Korea,KOR,2004,Athina,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Park Byeong-gi,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Park Geon-wu,M,South Korea,KOR,2012,London,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Park Gi-cheol,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Park Gil-cheol,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Seo Yong-geun,M,South Korea,KOR,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Sim Gyu-hae,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Sin Gwang-su,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Yun Cheol,M,South Korea,KOR,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Yun Cheol,M,South Korea,KOR,2008,Beijing,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Sungmin Cho,M,South Korea,KOR,2020,Tokyo,Sailing,Men's Two Person Dinghy - 470 Team,No medal,Men's,SAL,False
-Wonwoo Cho,M,South Korea,KOR,2020,Tokyo,Sailing,Men's Windsurfer - RS:X,No medal,Men's,SAL,False
-Jeemin Ha,M,South Korea,KOR,2020,Tokyo,Sailing,Men's One Person Dinghy - Laser,No medal,Men's,SAL,False
-Gunwoo Park,M,South Korea,KOR,2020,Tokyo,Sailing,Men's Two Person Dinghy - 470 Team,No medal,Men's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ha Jae-min,M,South Korea,KOR,2008,Beijing,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,True
+Ha Jae-min,M,South Korea,KOR,2012,London,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,False
+Ha Jae-min,M,South Korea,KOR,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,False
+Jeong Seong-an,M,South Korea,KOR,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Jeong Seong-an,M,South Korea,KOR,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Jeong Seong-an,M,South Korea,KOR,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Jeong Seong-an,M,South Korea,KOR,2004,Athina,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Jo Jin-seop,M,South Korea,KOR,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Jo Seong-min,M,South Korea,KOR,2012,London,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Kim Chang-ju,M,South Korea,KOR,2016,Rio de Janeiro,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Kim Dae-yeong,M,South Korea,KOR,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Kim Dae-yeong,M,South Korea,KOR,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Kim Dae-yeong,M,South Korea,KOR,2004,Athina,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Kim Gi-han,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Kim Ho-gon,M,South Korea,KOR,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,True
+Kim Ho-gon,M,South Korea,KOR,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Kim Ho-gon,M,South Korea,KOR,2004,Athina,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Kim Hyeong-tae,M,South Korea,KOR,2008,Beijing,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Kim Ji-hoon,M,South Korea,KOR,2016,Rio de Janeiro,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Lee Han-im,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,False,True
+Lee Tae-hun,M,South Korea,KOR,2008,Beijing,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,True
+Lee Tae-hun,M,South Korea,KOR,2012,London,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Lee Tae-hun,M,South Korea,KOR,2016,Rio de Janeiro,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+O Jong-yeol,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Ok Deok-pil,M,South Korea,KOR,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,True
+Ok Deok-pil,M,South Korea,KOR,2000,Sydney,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Ok Deok-pil,M,South Korea,KOR,2004,Athina,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Park Byeong-gi,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Park Geon-wu,M,South Korea,KOR,2012,London,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Park Gi-cheol,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Park Gil-cheol,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Seo Yong-geun,M,South Korea,KOR,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Sim Gyu-hae,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Sin Gwang-su,M,South Korea,KOR,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Yun Cheol,M,South Korea,KOR,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Yun Cheol,M,South Korea,KOR,2008,Beijing,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Sungmin Cho,M,South Korea,KOR,2020,Tokyo,Sailing,Men's Two Person Dinghy - 470 Team,No medal,Men's,SAL,False,True
+Wonwoo Cho,M,South Korea,KOR,2020,Tokyo,Sailing,Men's Windsurfer - RS:X,No medal,Men's,SAL,False,True
+Jeemin Ha,M,South Korea,KOR,2020,Tokyo,Sailing,Men's One Person Dinghy - Laser,No medal,Men's,SAL,False,True
+Gunwoo Park,M,South Korea,KOR,2020,Tokyo,Sailing,Men's Two Person Dinghy - 470 Team,No medal,Men's,SAL,False,True

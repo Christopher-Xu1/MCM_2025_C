@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pierre Windt,M,Aruba,ARU,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Miguel Janssen,M,Aruba,ARU,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
-Kimball Reynierse,M,Aruba,ARU,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Richard Rodriguez,M,Aruba,ARU,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pierre Windt,M,Aruba,ARU,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Miguel Janssen,M,Aruba,ARU,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False,True
+Kimball Reynierse,M,Aruba,ARU,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Richard Rodriguez,M,Aruba,ARU,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True

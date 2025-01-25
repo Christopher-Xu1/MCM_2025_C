@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Henri Copponex,M,Ballerina Iv,SUI,1960,Roma,Sailing,Sailing Mixed 5.5 metres,Bronze,Sailing,SAL,False
-Pierre Girard,M,Ballerina Iv,SUI,1960,Roma,Sailing,Sailing Mixed 5.5 metres,Bronze,Sailing,SAL,False
-Manfred Metzger,M,Ballerina Iv,SUI,1960,Roma,Sailing,Sailing Mixed 5.5 metres,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Henri Copponex,M,Ballerina Iv,SUI,1960,Roma,Sailing,Sailing Mixed 5.5 metres,Bronze,Sailing,SAL,False,True
+Pierre Girard,M,Ballerina Iv,SUI,1960,Roma,Sailing,Sailing Mixed 5.5 metres,Bronze,Sailing,SAL,False,True
+Manfred Metzger,M,Ballerina Iv,SUI,1960,Roma,Sailing,Sailing Mixed 5.5 metres,Bronze,Sailing,SAL,False,True

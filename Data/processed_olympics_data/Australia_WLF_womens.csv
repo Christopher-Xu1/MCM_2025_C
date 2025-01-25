@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Natasha Barker,F,Australia,AUS,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Michelle Kettner,F,Australia,AUS,2000,Sydney,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Seen Lee,F,Australia,AUS,2012,London,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
-Deborah (-acason),F,Australia,AUS,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True
-Deborah (-acason),F,Australia,AUS,2008,Beijing,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Amanda Phillips,F,Australia,AUS,2000,Sydney,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
-Tia-Clair Toomey,F,Australia,AUS,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Meagan Warthold,F,Australia,AUS,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Charisma Amoe-tarrant,F,Australia,AUS,2020,Tokyo,Weightlifting,Women's +87kg,No medal,Women's,WLF,False
-Rose Elliott,F,Australia,AUS,2020,Tokyo,Weightlifting,Women's 64kg,No medal,Women's,WLF,False
-Iris Yamasaki,F,Australia,AUS,2020,Tokyo,Weightlifting,Women's 59kg,No medal,Women's,WLF,False
-Eileen Cikamatana,F,Australia,AUS,2024,Paris,Weightlifting,Women's 81kg,No medal,Women's,WLF,False
-Jacqueline Nichele,F,Australia,AUS,2024,Paris,Weightlifting,Women's 71kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Natasha Barker,F,Australia,AUS,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Michelle Kettner,F,Australia,AUS,2000,Sydney,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Seen Lee,F,Australia,AUS,2012,London,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True
+Deborah (-acason),F,Australia,AUS,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True,True
+Deborah (-acason),F,Australia,AUS,2008,Beijing,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True,False
+Amanda Phillips,F,Australia,AUS,2000,Sydney,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True
+Tia-Clair Toomey,F,Australia,AUS,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Meagan Warthold,F,Australia,AUS,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Charisma Amoe-tarrant,F,Australia,AUS,2020,Tokyo,Weightlifting,Women's +87kg,No medal,Women's,WLF,False,True
+Rose Elliott,F,Australia,AUS,2020,Tokyo,Weightlifting,Women's 64kg,No medal,Women's,WLF,False,True
+Iris Yamasaki,F,Australia,AUS,2020,Tokyo,Weightlifting,Women's 59kg,No medal,Women's,WLF,False,True
+Eileen Cikamatana,F,Australia,AUS,2024,Paris,Weightlifting,Women's 81kg,No medal,Women's,WLF,False,True
+Jacqueline Nichele,F,Australia,AUS,2024,Paris,Weightlifting,Women's 71kg,No medal,Women's,WLF,False,True

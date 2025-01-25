@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carlos Lammerhirt,M,Ardilla,ARG,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-Roberto Safoure,M,Ardilla,ARG,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-Enrique Jr.,M,Ardilla,ARG,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carlos Lammerhirt,M,Ardilla,ARG,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+Roberto Safoure,M,Ardilla,ARG,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+Enrique Jr.,M,Ardilla,ARG,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True

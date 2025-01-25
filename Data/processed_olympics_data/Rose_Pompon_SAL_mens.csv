@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Robert Monier,M,Rose Pompon,FRA,1920,Antwerpen,Sailing,Sailing Mixed 6.5 metres,Silver,Sailing,SAL,False
-Philippe Picon,M,Rose Pompon,FRA,1920,Antwerpen,Sailing,Sailing Mixed 6.5 metres,Silver,Sailing,SAL,False
-Albert Weil,M,Rose Pompon,FRA,1920,Antwerpen,Sailing,Sailing Mixed 6.5 metres,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Robert Monier,M,Rose Pompon,FRA,1920,Antwerpen,Sailing,Sailing Mixed 6.5 metres,Silver,Sailing,SAL,False,True
+Philippe Picon,M,Rose Pompon,FRA,1920,Antwerpen,Sailing,Sailing Mixed 6.5 metres,Silver,Sailing,SAL,False,True
+Albert Weil,M,Rose Pompon,FRA,1920,Antwerpen,Sailing,Sailing Mixed 6.5 metres,Silver,Sailing,SAL,False,True

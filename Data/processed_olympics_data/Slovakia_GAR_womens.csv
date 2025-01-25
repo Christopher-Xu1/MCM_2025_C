@@ -1,32 +1,32 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mria Homolov,F,Slovakia,SVK,2012,London,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Mria Homolov,F,Slovakia,SVK,2012,London,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Mria Homolov,F,Slovakia,SVK,2012,London,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Mria Homolov,F,Slovakia,SVK,2012,London,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Klaudia Kinsk,F,Slovakia,SVK,1996,Atlanta,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Klaudia Kinsk,F,Slovakia,SVK,1996,Atlanta,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Klaudia Kinsk,F,Slovakia,SVK,1996,Atlanta,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Klaudia Kinsk,F,Slovakia,SVK,1996,Atlanta,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Klaudia Kinsk,F,Slovakia,SVK,1996,Atlanta,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Ivana Kovov,F,Slovakia,SVK,2008,Beijing,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Ivana Kovov,F,Slovakia,SVK,2008,Beijing,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Ivana Kovov,F,Slovakia,SVK,2008,Beijing,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Barbora Mokoov,F,Slovakia,SVK,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Barbora Mokoov,F,Slovakia,SVK,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Barbora Mokoov,F,Slovakia,SVK,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Barbora Mokoov,F,Slovakia,SVK,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Zuzana Sekerov,F,Slovakia,SVK,2000,Sydney,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Zuzana Sekerov,F,Slovakia,SVK,2000,Sydney,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Zuzana Sekerov,F,Slovakia,SVK,2000,Sydney,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Zuzana Sekerov,F,Slovakia,SVK,2000,Sydney,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Zuzana Sekerov,F,Slovakia,SVK,2000,Sydney,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Zuzana Sekerov,F,Slovakia,SVK,2004,Athina,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Zuzana Sekerov,F,Slovakia,SVK,2004,Athina,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Zuzana Sekerov,F,Slovakia,SVK,2004,Athina,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Zuzana Sekerov,F,Slovakia,SVK,2004,Athina,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Zuzana Sekerov,F,Slovakia,SVK,2004,Athina,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Barbora Mokosova,F,Slovakia,SVK,2020,Tokyo,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True
-Barbora Mokosova,F,Slovakia,SVK,2020,Tokyo,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True
-Barbora Mokosova,F,Slovakia,SVK,2020,Tokyo,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True
-Barbora Mokosova,F,Slovakia,SVK,2020,Tokyo,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True
-Barbora Mokosova,F,Slovakia,SVK,2020,Tokyo,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mria Homolov,F,Slovakia,SVK,2012,London,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Mria Homolov,F,Slovakia,SVK,2012,London,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Mria Homolov,F,Slovakia,SVK,2012,London,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Mria Homolov,F,Slovakia,SVK,2012,London,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Klaudia Kinsk,F,Slovakia,SVK,1996,Atlanta,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Klaudia Kinsk,F,Slovakia,SVK,1996,Atlanta,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Klaudia Kinsk,F,Slovakia,SVK,1996,Atlanta,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Klaudia Kinsk,F,Slovakia,SVK,1996,Atlanta,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Klaudia Kinsk,F,Slovakia,SVK,1996,Atlanta,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Ivana Kovov,F,Slovakia,SVK,2008,Beijing,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Ivana Kovov,F,Slovakia,SVK,2008,Beijing,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Ivana Kovov,F,Slovakia,SVK,2008,Beijing,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Barbora Mokoov,F,Slovakia,SVK,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Barbora Mokoov,F,Slovakia,SVK,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Barbora Mokoov,F,Slovakia,SVK,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Barbora Mokoov,F,Slovakia,SVK,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Zuzana Sekerov,F,Slovakia,SVK,2000,Sydney,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Zuzana Sekerov,F,Slovakia,SVK,2000,Sydney,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Zuzana Sekerov,F,Slovakia,SVK,2000,Sydney,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Zuzana Sekerov,F,Slovakia,SVK,2000,Sydney,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Zuzana Sekerov,F,Slovakia,SVK,2000,Sydney,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Zuzana Sekerov,F,Slovakia,SVK,2004,Athina,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,False
+Zuzana Sekerov,F,Slovakia,SVK,2004,Athina,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,False
+Zuzana Sekerov,F,Slovakia,SVK,2004,Athina,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,False
+Zuzana Sekerov,F,Slovakia,SVK,2004,Athina,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,False
+Zuzana Sekerov,F,Slovakia,SVK,2004,Athina,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,False
+Barbora Mokosova,F,Slovakia,SVK,2020,Tokyo,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True,True
+Barbora Mokosova,F,Slovakia,SVK,2020,Tokyo,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True,True
+Barbora Mokosova,F,Slovakia,SVK,2020,Tokyo,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True,True
+Barbora Mokosova,F,Slovakia,SVK,2020,Tokyo,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True,True
+Barbora Mokosova,F,Slovakia,SVK,2020,Tokyo,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True,True

@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Lloyd,M,Ireland-3,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False
-John Mccann,M,Ireland-3,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False
-Percy O'reilly,M,Ireland-3,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False
-Auston Rotheram,M,Ireland-3,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Lloyd,M,Ireland-3,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False,True
+John Mccann,M,Ireland-3,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False,True
+Percy O'reilly,M,Ireland-3,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False,True
+Auston Rotheram,M,Ireland-3,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False,True

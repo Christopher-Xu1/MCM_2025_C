@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Arcangeline Sonkbou,F,Cameroon,CMR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Madias Ngake,F,Cameroon,CMR,2012,London,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False
-Madeleine Sielanou,F,Cameroon,CMR,2004,Athina,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Gaelle Eyenga,F,Cameroon,CMR,2020,Tokyo,Weightlifting,Women's 76kg,No medal,Women's,WLF,False
-Clementine Meukeugni,F,Cameroon,CMR,2020,Tokyo,Weightlifting,Women's 87kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Arcangeline Sonkbou,F,Cameroon,CMR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Madias Ngake,F,Cameroon,CMR,2012,London,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False,True
+Madeleine Sielanou,F,Cameroon,CMR,2004,Athina,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Gaelle Eyenga,F,Cameroon,CMR,2020,Tokyo,Weightlifting,Women's 76kg,No medal,Women's,WLF,False,True
+Clementine Meukeugni,F,Cameroon,CMR,2020,Tokyo,Weightlifting,Women's 87kg,No medal,Women's,WLF,False,True

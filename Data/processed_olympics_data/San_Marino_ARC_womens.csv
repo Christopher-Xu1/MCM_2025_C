@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Giorgia Cesarini,F,San Marino,SMR,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Giorgia Cesarini,F,San Marino,SMR,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,False,True

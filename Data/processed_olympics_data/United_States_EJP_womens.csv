@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Laura Kraut,F,United States,USA,2020,Tokyo,Equestrian,Jumping Team,Silver,Jumping,EJP,True
-Laura Kraut,F,United States,USA,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Jessica Springsteen,F,United States,USA,2020,Tokyo,Equestrian,Jumping Team,Silver,Jumping,EJP,True
-Jessica Springsteen,F,United States,USA,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Laura Kraut,F,United States,USA,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Laura Kraut,F,United States,USA,2024,Paris,Equestrian,Jumping Team,Silver,Jumping,EJP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Laura Kraut,F,United States,USA,2020,Tokyo,Equestrian,Jumping Team,Silver,Jumping,EJP,True,True
+Laura Kraut,F,United States,USA,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Jessica Springsteen,F,United States,USA,2020,Tokyo,Equestrian,Jumping Team,Silver,Jumping,EJP,True,True
+Jessica Springsteen,F,United States,USA,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Laura Kraut,F,United States,USA,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+Laura Kraut,F,United States,USA,2024,Paris,Equestrian,Jumping Team,Silver,Jumping,EJP,True,False

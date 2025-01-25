@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Luis Cabral,M,Guam,GUM,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Luis Cabral,M,Guam,GUM,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True

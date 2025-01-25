@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ioannis Gounaris,M,Omilos Ereton Smyrnis,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Nikolaos Mardelis,M,Omilos Ereton Smyrnis,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Petros Pavlidis,M,Omilos Ereton Smyrnis,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Nikolaos Petropoulos,M,Omilos Ereton Smyrnis,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Donald Whittall,M,Omilos Ereton Smyrnis,GBR,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ioannis Gounaris,M,Omilos Ereton Smyrnis,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Nikolaos Mardelis,M,Omilos Ereton Smyrnis,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Petros Pavlidis,M,Omilos Ereton Smyrnis,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Nikolaos Petropoulos,M,Omilos Ereton Smyrnis,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Donald Whittall,M,Omilos Ereton Smyrnis,GBR,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True

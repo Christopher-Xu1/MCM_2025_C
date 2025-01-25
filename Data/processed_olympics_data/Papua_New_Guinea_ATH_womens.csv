@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Poloni Avek,F,Papua New Guinea,PNG,1988,Seoul,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True
-Poloni Avek,F,Papua New Guinea,PNG,1988,Seoul,Athletics,"Athletics Women's 3,000 metres",No medal,Athletics,ATH,True
-Elanga Buala,F,Papua New Guinea,PNG,1984,Los Angeles,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Elanga Buala,F,Papua New Guinea,PNG,1984,Los Angeles,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Barbara (-sapea),F,Papua New Guinea,PNG,1984,Los Angeles,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Barbara (-sapea),F,Papua New Guinea,PNG,1984,Los Angeles,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Mae Koime,F,Papua New Guinea,PNG,2004,Athina,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Mae Koime,F,Papua New Guinea,PNG,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Iammogapi Launa,F,Papua New Guinea,PNG,1984,Los Angeles,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True
-Iammogapi Launa,F,Papua New Guinea,PNG,1988,Seoul,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True
-Ann Mooney,F,Papua New Guinea,PNG,2000,Sydney,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Rosemary (-omundsen),F,Papua New Guinea,PNG,1992,Barcelona,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True
-Rosemary (-omundsen),F,Papua New Guinea,PNG,1992,Barcelona,Athletics,"Athletics Women's 3,000 metres",No medal,Athletics,ATH,True
-Rosemary (-omundsen),F,Papua New Guinea,PNG,1992,Barcelona,Athletics,"Athletics Women's 10,000 metres",No medal,Athletics,ATH,True
-Toea Wisil,F,Papua New Guinea,PNG,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Toea Wisil,F,Papua New Guinea,PNG,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Rellie Kaputin,F,Papua New Guinea,PNG,2020,Tokyo,Athletics,Women's Long Jump,No medal,Women's,ATH,False
-Leonie Beu,F,Papua New Guinea,PNG,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Poloni Avek,F,Papua New Guinea,PNG,1988,Seoul,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True,True
+Poloni Avek,F,Papua New Guinea,PNG,1988,Seoul,Athletics,"Athletics Women's 3,000 metres",No medal,Athletics,ATH,True,True
+Elanga Buala,F,Papua New Guinea,PNG,1984,Los Angeles,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Elanga Buala,F,Papua New Guinea,PNG,1984,Los Angeles,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Barbara (-sapea),F,Papua New Guinea,PNG,1984,Los Angeles,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Barbara (-sapea),F,Papua New Guinea,PNG,1984,Los Angeles,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,True
+Mae Koime,F,Papua New Guinea,PNG,2004,Athina,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Mae Koime,F,Papua New Guinea,PNG,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Iammogapi Launa,F,Papua New Guinea,PNG,1984,Los Angeles,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True,True
+Iammogapi Launa,F,Papua New Guinea,PNG,1988,Seoul,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True,False
+Ann Mooney,F,Papua New Guinea,PNG,2000,Sydney,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Rosemary (-omundsen),F,Papua New Guinea,PNG,1992,Barcelona,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True,True
+Rosemary (-omundsen),F,Papua New Guinea,PNG,1992,Barcelona,Athletics,"Athletics Women's 3,000 metres",No medal,Athletics,ATH,True,True
+Rosemary (-omundsen),F,Papua New Guinea,PNG,1992,Barcelona,Athletics,"Athletics Women's 10,000 metres",No medal,Athletics,ATH,True,True
+Toea Wisil,F,Papua New Guinea,PNG,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Toea Wisil,F,Papua New Guinea,PNG,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Rellie Kaputin,F,Papua New Guinea,PNG,2020,Tokyo,Athletics,Women's Long Jump,No medal,Women's,ATH,False,True
+Leonie Beu,F,Papua New Guinea,PNG,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False,True

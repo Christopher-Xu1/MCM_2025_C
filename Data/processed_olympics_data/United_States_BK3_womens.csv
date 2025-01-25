@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Stefanie Dolson,F,United States,USA,2020,Tokyo,3x3 Basketball,Women Team,Gold,Women,BK3,False
-Allisha Gray,F,United States,USA,2020,Tokyo,3x3 Basketball,Women Team,Gold,Women,BK3,False
-Kelsey Plum,F,United States,USA,2020,Tokyo,3x3 Basketball,Women Team,Gold,Women,BK3,False
-Jacquelyn Young,F,United States,USA,2020,Tokyo,3x3 Basketball,Women Team,Gold,Women,BK3,False
-Dearica Hamby,F,United States,USA,2024,Paris,3x3 Basketball,Women,Bronze,Women,BK3,False
-Rhyne Howard,F,United States,USA,2024,Paris,3x3 Basketball,Women,Bronze,Women,BK3,False
-Cierra Burdick,F,United States,USA,2024,Paris,3x3 Basketball,Women,Bronze,Women,BK3,False
-van Hailey,F,United States,USA,2024,Paris,3x3 Basketball,Women,Bronze,Women,BK3,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Stefanie Dolson,F,United States,USA,2020,Tokyo,3x3 Basketball,Women Team,Gold,Women,BK3,False,True
+Allisha Gray,F,United States,USA,2020,Tokyo,3x3 Basketball,Women Team,Gold,Women,BK3,False,True
+Kelsey Plum,F,United States,USA,2020,Tokyo,3x3 Basketball,Women Team,Gold,Women,BK3,False,True
+Jacquelyn Young,F,United States,USA,2020,Tokyo,3x3 Basketball,Women Team,Gold,Women,BK3,False,True
+Dearica Hamby,F,United States,USA,2024,Paris,3x3 Basketball,Women,Bronze,Women,BK3,False,True
+Rhyne Howard,F,United States,USA,2024,Paris,3x3 Basketball,Women,Bronze,Women,BK3,False,True
+Cierra Burdick,F,United States,USA,2024,Paris,3x3 Basketball,Women,Bronze,Women,BK3,False,True
+van Hailey,F,United States,USA,2024,Paris,3x3 Basketball,Women,Bronze,Women,BK3,False,True

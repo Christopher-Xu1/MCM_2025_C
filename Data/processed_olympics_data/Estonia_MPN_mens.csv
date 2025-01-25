@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Imre Tiidemann,M,Estonia,EST,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Imre Tiidemann,M,Estonia,EST,1996,Atlanta,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Imre Tiidemann,M,Estonia,EST,2000,Sydney,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Imre Tiidemann,M,Estonia,EST,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Imre Tiidemann,M,Estonia,EST,1996,Atlanta,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Imre Tiidemann,M,Estonia,EST,2000,Sydney,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False

@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Luis Vsquez,M,Costa Rica,CRC,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Jorge Sanabria,M,Costa Rica,CRC,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Juan Carazo,M,Costa Rica,CRC,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Juan Carazo,M,Costa Rica,CRC,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Luis Vsquez,M,Costa Rica,CRC,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Jorge Sanabria,M,Costa Rica,CRC,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Juan Carazo,M,Costa Rica,CRC,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Juan Carazo,M,Costa Rica,CRC,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False

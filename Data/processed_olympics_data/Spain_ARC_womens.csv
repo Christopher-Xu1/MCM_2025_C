@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Teresa Surez,F,Spain,ESP,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Almudena Vicente,F,Spain,ESP,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Almudena Vicente,F,Spain,ESP,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Iria Garca,F,Spain,ESP,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Asencin Gonzlez,F,Spain,ESP,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Adriana Lzaro,F,Spain,ESP,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Montserrat Moncusi,F,Spain,ESP,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Mara Martnez,F,Spain,ESP,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Mara Estrada,F,Spain,ESP,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-de Ines,F,Spain,ESP,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-de Ines,F,Spain,ESP,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
-Elia Canales,F,Spain,ESP,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Elia Canales,F,Spain,ESP,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Teresa Surez,F,Spain,ESP,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Almudena Vicente,F,Spain,ESP,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Almudena Vicente,F,Spain,ESP,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Iria Garca,F,Spain,ESP,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Asencin Gonzlez,F,Spain,ESP,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Adriana Lzaro,F,Spain,ESP,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Montserrat Moncusi,F,Spain,ESP,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Mara Martnez,F,Spain,ESP,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Mara Estrada,F,Spain,ESP,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+de Ines,F,Spain,ESP,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+de Ines,F,Spain,ESP,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True
+Elia Canales,F,Spain,ESP,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Elia Canales,F,Spain,ESP,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True,True

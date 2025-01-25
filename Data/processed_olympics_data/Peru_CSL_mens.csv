@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eric Centeno,M,Peru,PER,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eric Centeno,M,Peru,PER,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True

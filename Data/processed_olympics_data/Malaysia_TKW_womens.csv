@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Che Chan,F,Malaysia,MAS,2008,Beijing,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False
-Lee Yuen,F,Malaysia,MAS,2000,Sydney,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False
-Shueh Teo,F,Malaysia,MAS,2004,Athina,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,True
-Shueh Teo,F,Malaysia,MAS,2008,Beijing,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Che Chan,F,Malaysia,MAS,2008,Beijing,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False,True
+Lee Yuen,F,Malaysia,MAS,2000,Sydney,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False,True
+Shueh Teo,F,Malaysia,MAS,2004,Athina,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,True,True
+Shueh Teo,F,Malaysia,MAS,2008,Beijing,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True,False

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Teemu Heino,M,Finland,FIN,2004,Athina,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Teemu Heino,M,Finland,FIN,2004,Athina,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False,True

@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dawnette Douglas,F,Bermuda,BER,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Dawnette Douglas,F,Bermuda,BER,1992,Barcelona,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Phyllis Edness,F,Bermuda,BER,1948,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Phyllis Edness,F,Bermuda,BER,1948,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Deborah (-hunter),F,Bermuda,BER,1976,Montreal,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Thelma Jones,F,Bermuda,BER,1952,Helsinki,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Thelma Jones,F,Bermuda,BER,1952,Helsinki,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Arantxa King,F,Bermuda,BER,2008,Beijing,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Arantxa King,F,Bermuda,BER,2012,London,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Phyllis (-sherburne),F,Bermuda,BER,1948,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Phyllis (-sherburne),F,Bermuda,BER,1948,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Phyllis (-sherburne),F,Bermuda,BER,1948,London,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Phyllis (-sherburne),F,Bermuda,BER,1952,Helsinki,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Phyllis (-sherburne),F,Bermuda,BER,1952,Helsinki,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Sonia Smith,F,Bermuda,BER,1984,Los Angeles,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dawnette Douglas,F,Bermuda,BER,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Dawnette Douglas,F,Bermuda,BER,1992,Barcelona,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Phyllis Edness,F,Bermuda,BER,1948,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Phyllis Edness,F,Bermuda,BER,1948,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Deborah (-hunter),F,Bermuda,BER,1976,Montreal,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Thelma Jones,F,Bermuda,BER,1952,Helsinki,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Thelma Jones,F,Bermuda,BER,1952,Helsinki,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,True
+Arantxa King,F,Bermuda,BER,2008,Beijing,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,True
+Arantxa King,F,Bermuda,BER,2012,London,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,False
+Phyllis (-sherburne),F,Bermuda,BER,1948,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Phyllis (-sherburne),F,Bermuda,BER,1948,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Phyllis (-sherburne),F,Bermuda,BER,1948,London,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,True
+Phyllis (-sherburne),F,Bermuda,BER,1952,Helsinki,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Phyllis (-sherburne),F,Bermuda,BER,1952,Helsinki,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,False
+Sonia Smith,F,Bermuda,BER,1984,Los Angeles,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False,True

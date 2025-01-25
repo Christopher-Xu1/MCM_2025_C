@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mizuki Fujii,F,Japan-1,JPN,2012,London,Badminton,Badminton Women's Doubles,Silver,Badminton,BDM,False
-Satomi Igawa,F,Japan-1,JPN,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Reika Kakiiwa,F,Japan-1,JPN,2012,London,Badminton,Badminton Women's Doubles,Silver,Badminton,BDM,False
-Harumi Kohara,F,Japan-1,JPN,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Miyuki Maeda,F,Japan-1,JPN,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Aiko Miyamura,F,Japan-1,JPN,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Akiko Miyamura,F,Japan-1,JPN,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Hisako Mizui,F,Japan-1,JPN,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Hiroko Nagamine,F,Japan-1,JPN,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Chikako Nakayama,F,Japan-1,JPN,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Satoko Suetsuna,F,Japan-1,JPN,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Keiko Yoshitomi,F,Japan-1,JPN,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mizuki Fujii,F,Japan-1,JPN,2012,London,Badminton,Badminton Women's Doubles,Silver,Badminton,BDM,False,True
+Satomi Igawa,F,Japan-1,JPN,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Reika Kakiiwa,F,Japan-1,JPN,2012,London,Badminton,Badminton Women's Doubles,Silver,Badminton,BDM,False,True
+Harumi Kohara,F,Japan-1,JPN,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Miyuki Maeda,F,Japan-1,JPN,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Aiko Miyamura,F,Japan-1,JPN,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Akiko Miyamura,F,Japan-1,JPN,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Hisako Mizui,F,Japan-1,JPN,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Hiroko Nagamine,F,Japan-1,JPN,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Chikako Nakayama,F,Japan-1,JPN,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Satoko Suetsuna,F,Japan-1,JPN,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Keiko Yoshitomi,F,Japan-1,JPN,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True

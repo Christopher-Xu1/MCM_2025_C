@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eleni Artymata,F,Cyprus,CYP,2008,Beijing,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Eleni Artymata,F,Cyprus,CYP,2012,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Eleni Artymata,F,Cyprus,CYP,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Andrea Avraam,F,Cyprus,CYP,1988,Seoul,Athletics,"Athletics Women's 3,000 metres",No medal,Athletics,ATH,True
-Andrea Avraam,F,Cyprus,CYP,1988,Seoul,Athletics,"Athletics Women's 10,000 metres",No medal,Athletics,ATH,True
-Andrea Avraam,F,Cyprus,CYP,1992,Barcelona,Athletics,"Athletics Women's 10,000 metres",No medal,Athletics,ATH,True
-Elli Evangelidou,F,Cyprus,CYP,1992,Barcelona,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,False
-Anna Foitidou,F,Cyprus,CYP,2004,Athina,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,True
-Anna Foitidou,F,Cyprus,CYP,2008,Beijing,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,True
-Marilia Grigoriou,F,Cyprus,CYP,2004,Athina,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Leontia Kallenou,F,Cyprus,CYP,2016,Rio de Janeiro,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False
-Alissa Kallinikou,F,Cyprus,CYP,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Agni Kharalambous,F,Cyprus,CYP,2000,Sydney,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False
-Theodora Kyriakou,F,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Theodora Kyriakou,F,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Maria Lambrou-teloni,F,Cyprus,CYP,1988,Seoul,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False
-Anna Papaioannou,F,Cyprus,CYP,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Anna Papaioannou,F,Cyprus,CYP,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Androula (constantinou-),F,Cyprus,CYP,2004,Athina,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,False
-Eleni (demetriou-),F,Cyprus,CYP,2004,Athina,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,False
-Paraskevi Theodorou,F,Cyprus,CYP,2008,Beijing,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,False
-Alexandra (nasta-),F,Cyprus,CYP,2008,Beijing,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False
-Eleni Artymata,F,Cyprus,CYP,2020,Tokyo,Athletics,Women's 400m,No medal,Women's,ATH,True
-Olivia Fotopoulou,F,Cyprus,CYP,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,True
-Olivia Fotopoulou,F,Cyprus,CYP,2024,Paris,Athletics,Women's 200m,No medal,Women's,ATH,True
-Elena Kulichenko,F,Cyprus,CYP,2024,Paris,Athletics,Women's High Jump,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eleni Artymata,F,Cyprus,CYP,2008,Beijing,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Eleni Artymata,F,Cyprus,CYP,2012,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Eleni Artymata,F,Cyprus,CYP,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Andrea Avraam,F,Cyprus,CYP,1988,Seoul,Athletics,"Athletics Women's 3,000 metres",No medal,Athletics,ATH,True,True
+Andrea Avraam,F,Cyprus,CYP,1988,Seoul,Athletics,"Athletics Women's 10,000 metres",No medal,Athletics,ATH,True,True
+Andrea Avraam,F,Cyprus,CYP,1992,Barcelona,Athletics,"Athletics Women's 10,000 metres",No medal,Athletics,ATH,True,False
+Elli Evangelidou,F,Cyprus,CYP,1992,Barcelona,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,False,True
+Anna Foitidou,F,Cyprus,CYP,2004,Athina,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,True,True
+Anna Foitidou,F,Cyprus,CYP,2008,Beijing,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,True,False
+Marilia Grigoriou,F,Cyprus,CYP,2004,Athina,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Leontia Kallenou,F,Cyprus,CYP,2016,Rio de Janeiro,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False,True
+Alissa Kallinikou,F,Cyprus,CYP,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Agni Kharalambous,F,Cyprus,CYP,2000,Sydney,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False,True
+Theodora Kyriakou,F,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Theodora Kyriakou,F,Cyprus,CYP,1996,Atlanta,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Maria Lambrou-teloni,F,Cyprus,CYP,1988,Seoul,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False,True
+Anna Papaioannou,F,Cyprus,CYP,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Anna Papaioannou,F,Cyprus,CYP,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Androula (constantinou-),F,Cyprus,CYP,2004,Athina,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+Eleni (demetriou-),F,Cyprus,CYP,2004,Athina,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,False,True
+Paraskevi Theodorou,F,Cyprus,CYP,2008,Beijing,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,False,True
+Alexandra (nasta-),F,Cyprus,CYP,2008,Beijing,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False,True
+Eleni Artymata,F,Cyprus,CYP,2020,Tokyo,Athletics,Women's 400m,No medal,Women's,ATH,True,False
+Olivia Fotopoulou,F,Cyprus,CYP,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,True,True
+Olivia Fotopoulou,F,Cyprus,CYP,2024,Paris,Athletics,Women's 200m,No medal,Women's,ATH,True,True
+Elena Kulichenko,F,Cyprus,CYP,2024,Paris,Athletics,Women's High Jump,No medal,Women's,ATH,False,True

@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-L. Fernndez,M,Uruguay,URU,1924,Paris,Art Competitions,Art Competitions Mixed Literature,No medal,Art,ART,False
-Pedro Solari,M,Uruguay,URU,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True
-Pedro Solari,M,Uruguay,URU,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True
-Pedro Solari,M,Uruguay,URU,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True
-Pedro Solari,M,Uruguay,URU,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True
-Pedro Solari,M,Uruguay,URU,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True
-Jos Podest,M,Uruguay,URU,1948,London,Art Competitions,"Art Competitions Mixed Literature, Dramatic Works",No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+L. Fernndez,M,Uruguay,URU,1924,Paris,Art Competitions,Art Competitions Mixed Literature,No medal,Art,ART,False,True
+Pedro Solari,M,Uruguay,URU,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True,True
+Pedro Solari,M,Uruguay,URU,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True,True
+Pedro Solari,M,Uruguay,URU,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True,True
+Pedro Solari,M,Uruguay,URU,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True,True
+Pedro Solari,M,Uruguay,URU,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True,True
+Jos Podest,M,Uruguay,URU,1948,London,Art Competitions,"Art Competitions Mixed Literature, Dramatic Works",No medal,Art,ART,False,True

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Paul Kibikai,M,Gabon,GAB,2016,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Joseph Ndjumbi,M,Gabon,GAB,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Steeve Ndong,M,Gabon,GAB,2000,Sydney,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Paul Kibikai,M,Gabon,GAB,2016,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Joseph Ndjumbi,M,Gabon,GAB,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Steeve Ndong,M,Gabon,GAB,2000,Sydney,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True

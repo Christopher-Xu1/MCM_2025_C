@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Konstantinos Athanasiadis,M,Nautikos Omilos-3,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Georgios Boumboulis,M,Nautikos Omilos-3,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Khristos Liambeis,M,Nautikos Omilos-3,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Khristos Rangos,M,Nautikos Omilos-3,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Menelaos Sakorafos,M,Nautikos Omilos-3,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Konstantinos Athanasiadis,M,Nautikos Omilos-3,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Georgios Boumboulis,M,Nautikos Omilos-3,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Khristos Liambeis,M,Nautikos Omilos-3,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Khristos Rangos,M,Nautikos Omilos-3,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Menelaos Sakorafos,M,Nautikos Omilos-3,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True

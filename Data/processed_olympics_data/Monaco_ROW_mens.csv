@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alexandre Devissi,M,Monaco,MON,1928,Amsterdam,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Charles Gardetto,M,Monaco,MON,1928,Amsterdam,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-mile Gardetto,M,Monaco,MON,1928,Amsterdam,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Louis Giobergia,M,Monaco,MON,1928,Amsterdam,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Pierre Levesy,M,Monaco,MON,1928,Amsterdam,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Mathias Raymond,M,Monaco,MON,2008,Beijing,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
-Mathias Raymond,M,Monaco,MON,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
-Quentin Antognelli,M,Monaco,MON,2020,Tokyo,Rowing,Men's Single Sculls,No medal,Men's,ROW,True
-Quentin Antognelli,M,Monaco,MON,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alexandre Devissi,M,Monaco,MON,1928,Amsterdam,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Charles Gardetto,M,Monaco,MON,1928,Amsterdam,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+mile Gardetto,M,Monaco,MON,1928,Amsterdam,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Louis Giobergia,M,Monaco,MON,1928,Amsterdam,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Pierre Levesy,M,Monaco,MON,1928,Amsterdam,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Mathias Raymond,M,Monaco,MON,2008,Beijing,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,True
+Mathias Raymond,M,Monaco,MON,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,False
+Quentin Antognelli,M,Monaco,MON,2020,Tokyo,Rowing,Men's Single Sculls,No medal,Men's,ROW,True,True
+Quentin Antognelli,M,Monaco,MON,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,True,False

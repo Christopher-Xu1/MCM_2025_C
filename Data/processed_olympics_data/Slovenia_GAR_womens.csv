@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Teja Belak,F,Slovenia,SLO,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,False
-Saa Golob,F,Slovenia,SLO,2012,London,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Saa Golob,F,Slovenia,SLO,2012,London,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Saa Golob,F,Slovenia,SLO,2012,London,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Saa Golob,F,Slovenia,SLO,2012,London,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Mojca Mavri,F,Slovenia,SLO,2000,Sydney,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Mojca Mavri,F,Slovenia,SLO,2000,Sydney,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Mojca Mavri,F,Slovenia,SLO,2000,Sydney,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Mojca Mavri,F,Slovenia,SLO,2000,Sydney,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Mojca Mavri,F,Slovenia,SLO,2000,Sydney,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Adela Sajn,F,Slovenia,SLO,2008,Beijing,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Adela Sajn,F,Slovenia,SLO,2008,Beijing,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Adela Sajn,F,Slovenia,SLO,2008,Beijing,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Lucija Hribar,F,Slovenia,SLO,2024,Paris,Artistic Gymnastics,Women,No medal,Women,GAR,True
-Lucija Hribar,F,Slovenia,SLO,2024,Paris,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True
-Lucija Hribar,F,Slovenia,SLO,2024,Paris,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True
-Lucija Hribar,F,Slovenia,SLO,2024,Paris,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True
-Lucija Hribar,F,Slovenia,SLO,2024,Paris,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True
-Lucija Hribar,F,Slovenia,SLO,2024,Paris,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Teja Belak,F,Slovenia,SLO,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,False,True
+Saa Golob,F,Slovenia,SLO,2012,London,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Saa Golob,F,Slovenia,SLO,2012,London,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Saa Golob,F,Slovenia,SLO,2012,London,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Saa Golob,F,Slovenia,SLO,2012,London,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Mojca Mavri,F,Slovenia,SLO,2000,Sydney,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Mojca Mavri,F,Slovenia,SLO,2000,Sydney,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Mojca Mavri,F,Slovenia,SLO,2000,Sydney,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Mojca Mavri,F,Slovenia,SLO,2000,Sydney,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Mojca Mavri,F,Slovenia,SLO,2000,Sydney,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Adela Sajn,F,Slovenia,SLO,2008,Beijing,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Adela Sajn,F,Slovenia,SLO,2008,Beijing,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Adela Sajn,F,Slovenia,SLO,2008,Beijing,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Lucija Hribar,F,Slovenia,SLO,2024,Paris,Artistic Gymnastics,Women,No medal,Women,GAR,True,True
+Lucija Hribar,F,Slovenia,SLO,2024,Paris,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True,True
+Lucija Hribar,F,Slovenia,SLO,2024,Paris,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True,True
+Lucija Hribar,F,Slovenia,SLO,2024,Paris,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True,True
+Lucija Hribar,F,Slovenia,SLO,2024,Paris,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True,True
+Lucija Hribar,F,Slovenia,SLO,2024,Paris,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True,True

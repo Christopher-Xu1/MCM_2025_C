@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Masoud Azizi,M,Afghanistan,AFG,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Masoud Azizi,M,Afghanistan,AFG,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Masoud Azizi,M,Afghanistan,AFG,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Abdul Ghafoor,M,Afghanistan,AFG,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Abdul Ghafoori,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Mohammad Khan,M,Afghanistan,AFG,1936,Berlin,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Mohammad Khan,M,Afghanistan,AFG,1936,Berlin,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Abdul Rahim,M,Afghanistan,AFG,1936,Berlin,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,False
-Habib Sayed,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Habib Sayed,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Abdul Shekaib,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Abdul Shekaib,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Abdul Wardak,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Abdul Wardak,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,True
-Abdul Wasiqi,M,Afghanistan,AFG,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Abdul Zahiri,M,Afghanistan,AFG,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Ali Zaid,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Ali Zaid,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Mahmood Noor,M,Afghanistan,AFG,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,True
-Mahmood Noor,M,Afghanistan,AFG,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Masoud Azizi,M,Afghanistan,AFG,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Masoud Azizi,M,Afghanistan,AFG,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Masoud Azizi,M,Afghanistan,AFG,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Abdul Ghafoor,M,Afghanistan,AFG,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Abdul Ghafoori,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Mohammad Khan,M,Afghanistan,AFG,1936,Berlin,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Mohammad Khan,M,Afghanistan,AFG,1936,Berlin,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,True
+Abdul Rahim,M,Afghanistan,AFG,1936,Berlin,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,False,True
+Habib Sayed,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Habib Sayed,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Abdul Shekaib,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Abdul Shekaib,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Abdul Wardak,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,True
+Abdul Wardak,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,True,True
+Abdul Wasiqi,M,Afghanistan,AFG,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Abdul Zahiri,M,Afghanistan,AFG,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Ali Zaid,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Ali Zaid,M,Afghanistan,AFG,1960,Roma,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Mahmood Noor,M,Afghanistan,AFG,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,True,True
+Mahmood Noor,M,Afghanistan,AFG,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,True,False

@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lorne Currie,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed Open,Gold,Sailing,SAL,True
-Lorne Currie,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed 0.5-1 Ton,Gold,Sailing,SAL,True
-Lorne Currie,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed 0.5-1 Ton,No medal,Sailing,SAL,True
-John Jr.,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed Open,Gold,Sailing,SAL,True
-John Jr.,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed 0.5-1 Ton,Gold,Sailing,SAL,True
-John Jr.,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed 0.5-1 Ton,No medal,Sailing,SAL,True
-Algernon Maudslay,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed Open,Gold,Sailing,SAL,True
-Algernon Maudslay,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed 0.5-1 Ton,Gold,Sailing,SAL,True
-Algernon Maudslay,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed 0.5-1 Ton,No medal,Sailing,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lorne Currie,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed Open,Gold,Sailing,SAL,True,True
+Lorne Currie,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed 0.5-1 Ton,Gold,Sailing,SAL,True,True
+Lorne Currie,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed 0.5-1 Ton,No medal,Sailing,SAL,True,True
+John Jr.,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed Open,Gold,Sailing,SAL,True,True
+John Jr.,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed 0.5-1 Ton,Gold,Sailing,SAL,True,True
+John Jr.,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed 0.5-1 Ton,No medal,Sailing,SAL,True,True
+Algernon Maudslay,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed Open,Gold,Sailing,SAL,True,True
+Algernon Maudslay,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed 0.5-1 Ton,Gold,Sailing,SAL,True,True
+Algernon Maudslay,M,Scotia,GBR,1900,Paris,Sailing,Sailing Mixed 0.5-1 Ton,No medal,Sailing,SAL,True,True

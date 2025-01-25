@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-LITHE-ING,M,China,CHN,2024,Paris,Breaking,B-Boys,No medal,B-Boys,BKG,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+LITHE-ING,M,China,CHN,2024,Paris,Breaking,B-Boys,No medal,B-Boys,BKG,False,True

@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eriko Hirose,F,Japan,JPN,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Takako Ida,F,Japan,JPN,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Harumi Kohara,F,Japan,JPN,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Ayane Kurihara,F,Japan,JPN,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Misaki Matsutomo,F,Japan,JPN,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,False
-Hisako Mizui,F,Japan,JPN,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Hisako Mizui,F,Japan,JPN,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Yasuko Mizui,F,Japan,JPN,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Yasuko Mizui,F,Japan,JPN,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Kaori Mori,F,Japan,JPN,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Nozomi Okuhara,F,Japan,JPN,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,Bronze,Badminton,BDM,True
-Sayaka Sato,F,Japan,JPN,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Reiko Shiota,F,Japan,JPN,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Ayaka Takahashi,F,Japan,JPN,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,False
-Miho Tanaka,F,Japan,JPN,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Akane Yamaguchi,F,Japan,JPN,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Shizuka Yamamoto,F,Japan,JPN,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Kanako Yonekura,F,Japan,JPN,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Kanako Yonekura,F,Japan,JPN,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Yuki Fukushima,F,Japan,JPN,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,False
-Arisa Higashino,F,Japan,JPN,2020,Tokyo,Badminton,Mixed Doubles Team,Bronze,Mixed,BDM,True
-Sayaka Hirota,F,Japan,JPN,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,False
-Mayu Matsumoto,F,Japan,JPN,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,True
-Wakana Nagahara,F,Japan,JPN,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,True
-Nozomi Okuhara,F,Japan,JPN,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,True
-Akane Yamaguchi,F,Japan,JPN,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,True
-Akane Yamaguchi,F,Japan,JPN,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,True
-Wakana Nagahara,F,Japan,JPN,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,True
-Mayu Matsumoto,F,Japan,JPN,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,True
-Arisa Higashino,F,Japan,JPN,2024,Paris,Badminton,Mixed Doubles,Bronze,Mixed,BDM,True
-Chiharu Shida,F,Japan,JPN,2024,Paris,Badminton,Women's Doubles,Bronze,Women's,BDM,False
-Nami Matsuyama,F,Japan,JPN,2024,Paris,Badminton,Women's Doubles,Bronze,Women's,BDM,False
-Aya Ohori,F,Japan,JPN,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eriko Hirose,F,Japan,JPN,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Takako Ida,F,Japan,JPN,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Harumi Kohara,F,Japan,JPN,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Ayane Kurihara,F,Japan,JPN,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Misaki Matsutomo,F,Japan,JPN,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,False,True
+Hisako Mizui,F,Japan,JPN,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Hisako Mizui,F,Japan,JPN,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Yasuko Mizui,F,Japan,JPN,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Yasuko Mizui,F,Japan,JPN,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Kaori Mori,F,Japan,JPN,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Nozomi Okuhara,F,Japan,JPN,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,Bronze,Badminton,BDM,True,True
+Sayaka Sato,F,Japan,JPN,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Reiko Shiota,F,Japan,JPN,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Ayaka Takahashi,F,Japan,JPN,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,False,True
+Miho Tanaka,F,Japan,JPN,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Akane Yamaguchi,F,Japan,JPN,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Shizuka Yamamoto,F,Japan,JPN,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Kanako Yonekura,F,Japan,JPN,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Kanako Yonekura,F,Japan,JPN,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Yuki Fukushima,F,Japan,JPN,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,False,True
+Arisa Higashino,F,Japan,JPN,2020,Tokyo,Badminton,Mixed Doubles Team,Bronze,Mixed,BDM,True,True
+Sayaka Hirota,F,Japan,JPN,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,False,True
+Mayu Matsumoto,F,Japan,JPN,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,True,True
+Wakana Nagahara,F,Japan,JPN,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,True,True
+Nozomi Okuhara,F,Japan,JPN,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,True,False
+Akane Yamaguchi,F,Japan,JPN,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,True,False
+Akane Yamaguchi,F,Japan,JPN,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,True,False
+Wakana Nagahara,F,Japan,JPN,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,True,False
+Mayu Matsumoto,F,Japan,JPN,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,True,False
+Arisa Higashino,F,Japan,JPN,2024,Paris,Badminton,Mixed Doubles,Bronze,Mixed,BDM,True,False
+Chiharu Shida,F,Japan,JPN,2024,Paris,Badminton,Women's Doubles,Bronze,Women's,BDM,False,True
+Nami Matsuyama,F,Japan,JPN,2024,Paris,Badminton,Women's Doubles,Bronze,Women's,BDM,False,True
+Aya Ohori,F,Japan,JPN,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False,True

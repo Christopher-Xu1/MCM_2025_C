@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jorge Pl,M,Cuba,CUB,1952,Helsinki,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Vicente Llanso,M,Cuba,CUB,1980,Moskva,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False
-Pedro Castaneda,M,Cuba,CUB,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Alberto Alvrez,M,Cuba,CUB,1980,Moskva,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Angel Garrido,M,Cuba,CUB,1980,Moskva,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,True
-Angel Garrido,M,Cuba,CUB,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Jos Torna,M,Cuba,CUB,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jorge Pl,M,Cuba,CUB,1952,Helsinki,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Vicente Llanso,M,Cuba,CUB,1980,Moskva,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False,True
+Pedro Castaneda,M,Cuba,CUB,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Alberto Alvrez,M,Cuba,CUB,1980,Moskva,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Angel Garrido,M,Cuba,CUB,1980,Moskva,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,True,True
+Angel Garrido,M,Cuba,CUB,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Jos Torna,M,Cuba,CUB,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True

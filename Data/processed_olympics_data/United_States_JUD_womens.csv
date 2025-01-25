@@ -1,39 +1,39 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sandra Bacher,F,United States,USA,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Sandra Bacher,F,United States,USA,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Sandra Bacher,F,United States,USA,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Angelica Delgado,F,United States,USA,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Kate Donahoo,F,United States,USA,1992,Barcelona,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Valerie Gotay,F,United States,USA,2008,Beijing,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Kayla Harrison,F,United States,USA,2012,London,Judo,Judo Women's Half-Heavyweight,Gold,Judo,JUD,True
-Kayla Harrison,F,United States,USA,2016,Rio de Janeiro,Judo,Judo Women's Half-Heavyweight,Gold,Judo,JUD,True
-Grace Jividen,F,United States,USA,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Nicole Kubes,F,United States,USA,2004,Athina,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Martilou Malloy,F,United States,USA,2012,London,Judo,Judo Women's Lightweight,Bronze,Judo,JUD,True
-Martilou Malloy,F,United States,USA,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Sayaka Matsumoto,F,United States,USA,2008,Beijing,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Lauren Meece,F,United States,USA,2000,Sydney,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Charlee Minkin,F,United States,USA,2004,Athina,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Liliko Ogasawara,F,United States,USA,1996,Atlanta,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Marisa Pedulla,F,United States,USA,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Jo Quiring,F,United States,USA,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Lynn Roethke,F,United States,USA,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Colleen Rosensteel,F,United States,USA,1992,Barcelona,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Colleen Rosensteel,F,United States,USA,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Colleen Rosensteel,F,United States,USA,2000,Sydney,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Ronda (-browne),F,United States,USA,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Ronda (-browne),F,United States,USA,2008,Beijing,Judo,Judo Women's Middleweight,Bronze,Judo,JUD,True
-Celita Schutz,F,United States,USA,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Celita Schutz,F,United States,USA,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Celita Schutz,F,United States,USA,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Amy Tong,F,United States,USA,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Corinna (broz-),F,United States,USA,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Ellen Wilson,F,United States,USA,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Ellen Wilson,F,United States,USA,2004,Athina,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Hillary (-saba),F,United States,USA,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Hillary (-saba),F,United States,USA,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Nina Cutro-kelly,F,United States,USA,2020,Tokyo,Judo,Women +78 kg,No medal,Women,JUD,False
-Angelica Delgado,F,United States,USA,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,True
-Nefeli Papadakis,F,United States,USA,2020,Tokyo,Judo,Women -78 kg,No medal,Women,JUD,False
-Angelica Delgado,F,United States,USA,2024,Paris,Judo,Women -52 kg,No medal,Women,JUD,True
-Celia Laborde,F,United States,USA,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sandra Bacher,F,United States,USA,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,True
+Sandra Bacher,F,United States,USA,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,False
+Sandra Bacher,F,United States,USA,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Angelica Delgado,F,United States,USA,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,True
+Kate Donahoo,F,United States,USA,1992,Barcelona,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Valerie Gotay,F,United States,USA,2008,Beijing,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Kayla Harrison,F,United States,USA,2012,London,Judo,Judo Women's Half-Heavyweight,Gold,Judo,JUD,True,True
+Kayla Harrison,F,United States,USA,2016,Rio de Janeiro,Judo,Judo Women's Half-Heavyweight,Gold,Judo,JUD,True,False
+Grace Jividen,F,United States,USA,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Nicole Kubes,F,United States,USA,2004,Athina,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Martilou Malloy,F,United States,USA,2012,London,Judo,Judo Women's Lightweight,Bronze,Judo,JUD,True,True
+Martilou Malloy,F,United States,USA,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,False
+Sayaka Matsumoto,F,United States,USA,2008,Beijing,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Lauren Meece,F,United States,USA,2000,Sydney,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Charlee Minkin,F,United States,USA,2004,Athina,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Liliko Ogasawara,F,United States,USA,1996,Atlanta,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Marisa Pedulla,F,United States,USA,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Jo Quiring,F,United States,USA,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Lynn Roethke,F,United States,USA,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Colleen Rosensteel,F,United States,USA,1992,Barcelona,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,True
+Colleen Rosensteel,F,United States,USA,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,False
+Colleen Rosensteel,F,United States,USA,2000,Sydney,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,False
+Ronda (-browne),F,United States,USA,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,True
+Ronda (-browne),F,United States,USA,2008,Beijing,Judo,Judo Women's Middleweight,Bronze,Judo,JUD,True,False
+Celita Schutz,F,United States,USA,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,True
+Celita Schutz,F,United States,USA,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False
+Celita Schutz,F,United States,USA,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Amy Tong,F,United States,USA,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Corinna (broz-),F,United States,USA,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Ellen Wilson,F,United States,USA,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,True
+Ellen Wilson,F,United States,USA,2004,Athina,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,False
+Hillary (-saba),F,United States,USA,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,True
+Hillary (-saba),F,United States,USA,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,False
+Nina Cutro-kelly,F,United States,USA,2020,Tokyo,Judo,Women +78 kg,No medal,Women,JUD,False,True
+Angelica Delgado,F,United States,USA,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,True,False
+Nefeli Papadakis,F,United States,USA,2020,Tokyo,Judo,Women -78 kg,No medal,Women,JUD,False,True
+Angelica Delgado,F,United States,USA,2024,Paris,Judo,Women -52 kg,No medal,Women,JUD,True,False
+Celia Laborde,F,United States,USA,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,False,True

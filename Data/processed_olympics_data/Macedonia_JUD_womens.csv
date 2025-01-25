@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Katerina Nikoloska,F,Macedonia,MKD,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Katerina Nikoloska,F,Macedonia,MKD,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True

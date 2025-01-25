@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Filippa (dengg-),F,Finland,FIN,2000,Sydney,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
-Jennifer Eriksson,F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Jennifer Eriksson,F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Emma Kanerva,F,Finland,FIN,2012,London,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
-Kyra Kyrklund,F,Finland,FIN,1980,Moskva,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Kyra Kyrklund,F,Finland,FIN,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Kyra Kyrklund,F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Kyra Kyrklund,F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Kyra Kyrklund,F,Finland,FIN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Kyra Kyrklund,F,Finland,FIN,1996,Atlanta,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Kyra Kyrklund,F,Finland,FIN,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Mikaela Lindh,F,Finland,FIN,2012,London,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
-Piia Pantsu,F,Finland,FIN,2000,Sydney,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False
-Tiina Raiskio,F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Tiina Raiskio,F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Suvi (brlund-),F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Suvi (brlund-),F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Heidi Svanborg,F,Finland,FIN,2000,Sydney,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
-Veera Manninen,F,Finland,FIN,2024,Paris,Equestrian,Eventing Individual,No medal,Eventing,EVE,False
-Sanna Siltakorpi,F,Finland,FIN,2024,Paris,Equestrian,Eventing Individual,No medal,Eventing,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Filippa (dengg-),F,Finland,FIN,2000,Sydney,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True
+Jennifer Eriksson,F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Jennifer Eriksson,F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True
+Emma Kanerva,F,Finland,FIN,2012,London,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True
+Kyra Kyrklund,F,Finland,FIN,1980,Moskva,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Kyra Kyrklund,F,Finland,FIN,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False
+Kyra Kyrklund,F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False
+Kyra Kyrklund,F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,False
+Kyra Kyrklund,F,Finland,FIN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False
+Kyra Kyrklund,F,Finland,FIN,1996,Atlanta,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False
+Kyra Kyrklund,F,Finland,FIN,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False
+Mikaela Lindh,F,Finland,FIN,2012,London,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True
+Piia Pantsu,F,Finland,FIN,2000,Sydney,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False,True
+Tiina Raiskio,F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Tiina Raiskio,F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True
+Suvi (brlund-),F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Suvi (brlund-),F,Finland,FIN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True
+Heidi Svanborg,F,Finland,FIN,2000,Sydney,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True
+Veera Manninen,F,Finland,FIN,2024,Paris,Equestrian,Eventing Individual,No medal,Eventing,EVE,False,True
+Sanna Siltakorpi,F,Finland,FIN,2024,Paris,Equestrian,Eventing Individual,No medal,Eventing,EVE,False,True

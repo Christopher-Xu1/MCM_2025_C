@@ -1,36 +1,36 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dnil Artiomov,M,Moldova,MDA,2012,London,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Andrei Capitanciuc,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Maxim Cazmirciuc,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Maxim Cazmirciuc,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Maxim Cazmirciuc,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Andrei Cecan,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
-Artur Elezarov,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Artur Elezarov,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-Octavian Guu,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Alexandru Ivlev,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Alexandru Ivlev,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Serghei Mariniuc,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Serghei Mariniuc,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Serghei Mariniuc,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Andrei Mihailov,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-Andrei Mihailov,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-tefan Pinciuc,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
-Sergiu Postic,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Sergiu Postic,M,Moldova,MDA,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Victor Rogut,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Victor Rogut,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Alexei Sancov,M,Moldova,MDA,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Serghei Stolearenco,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Vadim Tatarov,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Vadim Tatarov,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Vadim Tatarov,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Andrei Zaharov,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Andrei Zaharov,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Andrei Zaharov,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Andrei Zaharov,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Andrei Zaharov,M,Moldova,MDA,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Dumitru Zastoico,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Dumitru Zastoico,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Alexei Sancov,M,Moldova,MDA,2020,Tokyo,Swimming,Men's 200m Freestyle,No medal,Men's,SWM,True
-Alexei Sancov,M,Moldova,MDA,2020,Tokyo,Swimming,Men's 200m Butterfly,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dnil Artiomov,M,Moldova,MDA,2012,London,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Andrei Capitanciuc,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Maxim Cazmirciuc,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Maxim Cazmirciuc,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Maxim Cazmirciuc,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Andrei Cecan,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Artur Elezarov,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Artur Elezarov,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Octavian Guu,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Alexandru Ivlev,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Alexandru Ivlev,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Serghei Mariniuc,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Serghei Mariniuc,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Serghei Mariniuc,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,False
+Andrei Mihailov,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Andrei Mihailov,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,False
+tefan Pinciuc,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Sergiu Postic,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Sergiu Postic,M,Moldova,MDA,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Victor Rogut,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Victor Rogut,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,False
+Alexei Sancov,M,Moldova,MDA,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Serghei Stolearenco,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Vadim Tatarov,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Vadim Tatarov,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Vadim Tatarov,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Andrei Zaharov,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Andrei Zaharov,M,Moldova,MDA,1996,Atlanta,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Andrei Zaharov,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Andrei Zaharov,M,Moldova,MDA,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Andrei Zaharov,M,Moldova,MDA,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Dumitru Zastoico,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Dumitru Zastoico,M,Moldova,MDA,2000,Sydney,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Alexei Sancov,M,Moldova,MDA,2020,Tokyo,Swimming,Men's 200m Freestyle,No medal,Men's,SWM,True,False
+Alexei Sancov,M,Moldova,MDA,2020,Tokyo,Swimming,Men's 200m Butterfly,No medal,Men's,SWM,True,False

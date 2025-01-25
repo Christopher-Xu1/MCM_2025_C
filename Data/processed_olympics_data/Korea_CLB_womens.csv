@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chaehyun Seo,F,Korea,KOR,2024,Paris,Sport Climbing,Women's Boulder & Lead,No medal,Women's,CLB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chaehyun Seo,F,Korea,KOR,2024,Paris,Sport Climbing,Women's Boulder & Lead,No medal,Women's,CLB,False,True

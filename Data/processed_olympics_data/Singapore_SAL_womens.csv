@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bei Choo,F,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Griselda Khng,F,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False
-Denise Lim,F,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Lo Yi,F,Singapore,SGP,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Ling Ng,F,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Hui Ong,F,Singapore,SGP,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Li Tan,F,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False
-Tracey Tan,F,Singapore,SGP,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Toh Ying,F,Singapore,SGP,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Yin Yin,F,Singapore,SGP,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Yin Yin,F,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Pei Yong,F,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Min Lim,F,Singapore,SGP,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False
-Cecilia Low,F,Singapore,SGP,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False
-Amanda Ng,F,Singapore,SGP,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bei Choo,F,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Griselda Khng,F,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False,True
+Denise Lim,F,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Lo Yi,F,Singapore,SGP,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Ling Ng,F,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Hui Ong,F,Singapore,SGP,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Li Tan,F,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False,True
+Tracey Tan,F,Singapore,SGP,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Toh Ying,F,Singapore,SGP,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Yin Yin,F,Singapore,SGP,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Yin Yin,F,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Pei Yong,F,Singapore,SGP,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Min Lim,F,Singapore,SGP,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False,True
+Cecilia Low,F,Singapore,SGP,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False,True
+Amanda Ng,F,Singapore,SGP,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False,True

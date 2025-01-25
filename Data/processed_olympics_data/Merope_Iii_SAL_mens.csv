@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nicol Rode,M,Merope Iii,ITA,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,Silver,Sailing,SAL,False
-Carlo Rolandi,M,Merope Iii,ITA,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Agostino Straulino,M,Merope Iii,ITA,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,Silver,Sailing,SAL,True
-Agostino Straulino,M,Merope Iii,ITA,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nicol Rode,M,Merope Iii,ITA,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,Silver,Sailing,SAL,False,True
+Carlo Rolandi,M,Merope Iii,ITA,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Agostino Straulino,M,Merope Iii,ITA,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,Silver,Sailing,SAL,True,True
+Agostino Straulino,M,Merope Iii,ITA,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False

@@ -1,30 +1,30 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Murielle Ahour,F,Cote D'Ivoire,CIV,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Murielle Ahour,F,Cote D'Ivoire,CIV,2012,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Murielle Ahour,F,Cote D'Ivoire,CIV,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Murielle Ahour,F,Cote D'Ivoire,CIV,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Amandine Affou,F,Cote D'Ivoire,CIV,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Amandine Affou,F,Cote D'Ivoire,CIV,2004,Athina,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Amandine Affou,F,Cote D'Ivoire,CIV,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Athouhon Aytotch,F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Athouhon Aytotch,F,Cote D'Ivoire,CIV,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Athouhon Aytotch,F,Cote D'Ivoire,CIV,2000,Sydney,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Athouhon Aytotch,F,Cote D'Ivoire,CIV,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Ziga Foufou,F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Ziga Foufou,F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Marie Gnahor,F,Cote D'Ivoire,CIV,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Alimata Kon,F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Alimata Kon,F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Olga Mutanda,F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Olga Mutanda,F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Lucienne (-bamba-koffi),F,Cote D'Ivoire,CIV,1988,Seoul,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True
-Lucienne (-bamba-koffi),F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True
-Clstine N'drin,F,Cote D'Ivoire,CIV,1976,Montreal,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Clstine N'drin,F,Cote D'Ivoire,CIV,1976,Montreal,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Clstine N'drin,F,Cote D'Ivoire,CIV,1984,Los Angeles,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Clstine N'drin,F,Cote D'Ivoire,CIV,1988,Seoul,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Rosevitha Okou,F,Cote D'Ivoire,CIV,2012,London,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False
-Makaridja Sanganoko,F,Cote D'Ivoire,CIV,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Marie-Jose Lou,F,Cote D'Ivoire,CIV,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Marie-Jose Lou,F,Cote D'Ivoire,CIV,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Marie Womplou,F,Cote D'Ivoire,CIV,1988,Seoul,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Murielle Ahour,F,Cote D'Ivoire,CIV,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Murielle Ahour,F,Cote D'Ivoire,CIV,2012,London,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Murielle Ahour,F,Cote D'Ivoire,CIV,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Murielle Ahour,F,Cote D'Ivoire,CIV,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Amandine Affou,F,Cote D'Ivoire,CIV,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Amandine Affou,F,Cote D'Ivoire,CIV,2004,Athina,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Amandine Affou,F,Cote D'Ivoire,CIV,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Athouhon Aytotch,F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Athouhon Aytotch,F,Cote D'Ivoire,CIV,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Athouhon Aytotch,F,Cote D'Ivoire,CIV,2000,Sydney,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Athouhon Aytotch,F,Cote D'Ivoire,CIV,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Ziga Foufou,F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Ziga Foufou,F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Marie Gnahor,F,Cote D'Ivoire,CIV,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Alimata Kon,F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Alimata Kon,F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Olga Mutanda,F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Olga Mutanda,F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Lucienne (-bamba-koffi),F,Cote D'Ivoire,CIV,1988,Seoul,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True,True
+Lucienne (-bamba-koffi),F,Cote D'Ivoire,CIV,1992,Barcelona,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True,False
+Clstine N'drin,F,Cote D'Ivoire,CIV,1976,Montreal,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Clstine N'drin,F,Cote D'Ivoire,CIV,1976,Montreal,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Clstine N'drin,F,Cote D'Ivoire,CIV,1984,Los Angeles,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,False
+Clstine N'drin,F,Cote D'Ivoire,CIV,1988,Seoul,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,False
+Rosevitha Okou,F,Cote D'Ivoire,CIV,2012,London,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,False,True
+Makaridja Sanganoko,F,Cote D'Ivoire,CIV,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Marie-Jose Lou,F,Cote D'Ivoire,CIV,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Marie-Jose Lou,F,Cote D'Ivoire,CIV,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Marie Womplou,F,Cote D'Ivoire,CIV,1988,Seoul,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,False,True

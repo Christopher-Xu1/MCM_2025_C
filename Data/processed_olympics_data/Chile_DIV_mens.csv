@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gnther Borgs,M,Chile,CHI,1948,London,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Gnther Borgs,M,Chile,CHI,1956,Melbourne,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Gnther Borgs,M,Chile,CHI,1956,Melbourne,Diving,Diving Men's Platform,No medal,Diving,DIV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gnther Borgs,M,Chile,CHI,1948,London,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Gnther Borgs,M,Chile,CHI,1956,Melbourne,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Gnther Borgs,M,Chile,CHI,1956,Melbourne,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False

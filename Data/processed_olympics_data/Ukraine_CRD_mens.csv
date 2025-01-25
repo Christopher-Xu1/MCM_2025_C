@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anatolii Budiak,M,Ukraine,UKR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Anatolii Budiak,M,Ukraine,UKR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anatolii Budiak,M,Ukraine,UKR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Anatolii Budiak,M,Ukraine,UKR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,False

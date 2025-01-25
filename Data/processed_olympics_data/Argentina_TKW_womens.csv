@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carola Rodrguez,F,Argentina,ARG,2012,London,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,False
-Vanina Bern,F,Argentina,ARG,2004,Athina,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,True
-Vanina Bern,F,Argentina,ARG,2008,Beijing,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carola Rodrguez,F,Argentina,ARG,2012,London,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,False,True
+Vanina Bern,F,Argentina,ARG,2004,Athina,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,True,True
+Vanina Bern,F,Argentina,ARG,2008,Beijing,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,True,False

@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vladimir Samsonov,M,Belarus,BLR,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Vladimir Samsonov,M,Belarus,BLR,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Vladimir Samsonov,M,Belarus,BLR,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Vladimir Samsonov,M,Belarus,BLR,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Vladimir Samsonov,M,Belarus,BLR,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Vladimir Samsonov,M,Belarus,BLR,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Vladimir Samsonov,M,Belarus,BLR,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Vladimir Samsonov,M,Belarus,BLR,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Yevgeny Shchetinin,M,Belarus,BLR,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Yevgeny Shchetinin,M,Belarus,BLR,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Yevgeny Shchetinin,M,Belarus,BLR,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vladimir Samsonov,M,Belarus,BLR,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Vladimir Samsonov,M,Belarus,BLR,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Vladimir Samsonov,M,Belarus,BLR,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Vladimir Samsonov,M,Belarus,BLR,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Vladimir Samsonov,M,Belarus,BLR,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Vladimir Samsonov,M,Belarus,BLR,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Vladimir Samsonov,M,Belarus,BLR,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Vladimir Samsonov,M,Belarus,BLR,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Yevgeny Shchetinin,M,Belarus,BLR,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Yevgeny Shchetinin,M,Belarus,BLR,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Yevgeny Shchetinin,M,Belarus,BLR,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False

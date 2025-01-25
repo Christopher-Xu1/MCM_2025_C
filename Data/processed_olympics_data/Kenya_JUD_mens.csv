@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Bogie,M,Kenya,KEN,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-James Kihara,M,Kenya,KEN,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Joseph Momanyi,M,Kenya,KEN,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Tiberius Nyachwaya,M,Kenya,KEN,1988,Seoul,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Donald Obwoge,M,Kenya,KEN,1992,Barcelona,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Michael Oduor,M,Kenya,KEN,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Nelson Ombito,M,Kenya,KEN,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Kiplangat Sang,M,Kenya,KEN,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Bogie,M,Kenya,KEN,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+James Kihara,M,Kenya,KEN,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Joseph Momanyi,M,Kenya,KEN,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Tiberius Nyachwaya,M,Kenya,KEN,1988,Seoul,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Donald Obwoge,M,Kenya,KEN,1992,Barcelona,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Michael Oduor,M,Kenya,KEN,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Nelson Ombito,M,Kenya,KEN,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Kiplangat Sang,M,Kenya,KEN,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True

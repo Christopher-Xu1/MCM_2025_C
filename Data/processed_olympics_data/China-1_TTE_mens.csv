@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chen Longcan,M,China-1,CHN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,Gold,Table,TTE,False
-Chen Qi,M,China-1,CHN,2004,Athina,Table Tennis,Table Tennis Men's Doubles,Gold,Table,TTE,False
-Seiko Iseki,M,China-1,CHN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,Gold,Table,TTE,False
-Kong Linghui,M,China-1,CHN,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,Silver,Table,TTE,False
-Liu Guoliang,M,China-1,CHN,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,Silver,Table,TTE,False
-Lu Lin,M,China-1,CHN,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,Gold,Table,TTE,True
-Lu Lin,M,China-1,CHN,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,Silver,Table,TTE,True
-Ma Lin,M,China-1,CHN,2004,Athina,Table Tennis,Table Tennis Men's Doubles,Gold,Table,TTE,False
-Wang Tao,M,China-1,CHN,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,Gold,Table,TTE,True
-Wang Tao,M,China-1,CHN,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,Silver,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chen Longcan,M,China-1,CHN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,Gold,Table,TTE,False,True
+Chen Qi,M,China-1,CHN,2004,Athina,Table Tennis,Table Tennis Men's Doubles,Gold,Table,TTE,False,True
+Seiko Iseki,M,China-1,CHN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,Gold,Table,TTE,False,True
+Kong Linghui,M,China-1,CHN,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,Silver,Table,TTE,False,True
+Liu Guoliang,M,China-1,CHN,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,Silver,Table,TTE,False,True
+Lu Lin,M,China-1,CHN,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,Gold,Table,TTE,True,True
+Lu Lin,M,China-1,CHN,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,Silver,Table,TTE,True,False
+Ma Lin,M,China-1,CHN,2004,Athina,Table Tennis,Table Tennis Men's Doubles,Gold,Table,TTE,False,True
+Wang Tao,M,China-1,CHN,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,Gold,Table,TTE,True,True
+Wang Tao,M,China-1,CHN,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,Silver,Table,TTE,True,False

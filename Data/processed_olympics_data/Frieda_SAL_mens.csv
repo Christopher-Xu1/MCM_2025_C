@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Frederick Iii,M,Frieda,USA,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Conway Olmsted,M,Frieda,USA,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Joseph Outerbridge,M,Frieda,USA,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-James Thompson,M,Frieda,USA,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Herman Whiton,M,Frieda,USA,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Frederick Iii,M,Frieda,USA,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Conway Olmsted,M,Frieda,USA,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Joseph Outerbridge,M,Frieda,USA,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+James Thompson,M,Frieda,USA,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Herman Whiton,M,Frieda,USA,1928,Amsterdam,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

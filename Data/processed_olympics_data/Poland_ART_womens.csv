@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Grayna Bacewicz,F,Poland,POL,1948,London,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",No medal,Art,ART,False
-Maria (moszczeska-),F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",No medal,Art,ART,False
-Maria (omnicka-),F,Poland,POL,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False
-Helena Bukowska-szlekys,F,Poland,POL,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False
-Krystyna Dbrowska,F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False
-Maria Dunin-piotrowska,F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",No medal,Art,ART,False
-Jadwiga (-wajwdowa),F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False
-Janina (-luarasi),F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",No medal,Art,ART,False
-Janina (seideman-),F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",Silver,Art,ART,True
-Janina (seideman-),F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Bogna Krasnodbska-gardowska,F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False
-Maria Unkiewicz-rogoyska,F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False
-Leoni Nadelman,F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",No medal,Art,ART,True
-Leoni Nadelman,F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Olga -szczekowska),F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,True
-Olga -szczekowska),F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,True
-Olga -szczekowska),F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,True
-Olga -szczekowska),F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,True
-Olga -szczekowska),F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Olga -szczekowska),F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,True
-Marja Obrbska,F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Marja Obrbska,F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Wanda Pleszczyska,F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",No medal,Art,ART,False
-Maria (-gabryel),F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False
-Wanda Telakowska,F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Wanda Telakowska,F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Wanda Telakowska,F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Jadwiga Umiska,F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Grayna Bacewicz,F,Poland,POL,1948,London,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",No medal,Art,ART,False,True
+Maria (moszczeska-),F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",No medal,Art,ART,False,True
+Maria (omnicka-),F,Poland,POL,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False,True
+Helena Bukowska-szlekys,F,Poland,POL,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False,True
+Krystyna Dbrowska,F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False,True
+Maria Dunin-piotrowska,F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",No medal,Art,ART,False,True
+Jadwiga (-wajwdowa),F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False,True
+Janina (-luarasi),F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",No medal,Art,ART,False,True
+Janina (seideman-),F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",Silver,Art,ART,True,True
+Janina (seideman-),F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Bogna Krasnodbska-gardowska,F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False,True
+Maria Unkiewicz-rogoyska,F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False,True
+Leoni Nadelman,F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",No medal,Art,ART,True,True
+Leoni Nadelman,F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,False
+Olga -szczekowska),F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,True,True
+Olga -szczekowska),F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,True,True
+Olga -szczekowska),F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,True,True
+Olga -szczekowska),F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,True,True
+Olga -szczekowska),F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,False
+Olga -szczekowska),F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,True,False
+Marja Obrbska,F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Marja Obrbska,F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Wanda Pleszczyska,F,Poland,POL,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",No medal,Art,ART,False,True
+Maria (-gabryel),F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False,True
+Wanda Telakowska,F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Wanda Telakowska,F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Wanda Telakowska,F,Poland,POL,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Jadwiga Umiska,F,Poland,POL,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False,True

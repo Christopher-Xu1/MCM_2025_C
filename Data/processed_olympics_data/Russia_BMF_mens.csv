@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Irek Rizaev,M,Russia,ROC,2020,Tokyo,Cycling BMX Freestyle,Men's Park,No medal,Men's,BMF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Irek Rizaev,M,Russia,ROC,2020,Tokyo,Cycling BMX Freestyle,Men's Park,No medal,Men's,BMF,False,True

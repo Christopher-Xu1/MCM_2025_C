@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sandra Sanchez,F,Spain,ESP,2020,Tokyo,Karate,Women's Kata,Gold,Women's,KTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sandra Sanchez,F,Spain,ESP,2020,Tokyo,Karate,Women's Kata,Gold,Women's,KTE,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kalvis Kalnins,M,Latvia,LAT,2020,Tokyo,Karate,Men's Kumite -67kg,No medal,Men's,KTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kalvis Kalnins,M,Latvia,LAT,2020,Tokyo,Karate,Men's Kumite -67kg,No medal,Men's,KTE,False,True

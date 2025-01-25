@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Go Seong-hyeon,M,South Korea-2,KOR,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Ha Tae-gwon,M,South Korea-2,KOR,2000,Sydney,Badminton,Badminton Men's Doubles,Bronze,Badminton,BDM,True
-Ha Tae-gwon,M,South Korea-2,KOR,2004,Athina,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,True
-Han Sang-hun,M,South Korea-2,KOR,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Jeong Jae-seong,M,South Korea-2,KOR,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Kim Dong-mun,M,South Korea-2,KOR,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Kim Dong-mun,M,South Korea-2,KOR,2000,Sydney,Badminton,Badminton Men's Doubles,Bronze,Badminton,BDM,True
-Kim Dong-mun,M,South Korea-2,KOR,2004,Athina,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,True
-Kim Gi-jung,M,South Korea-2,KOR,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Kim Sa-rang,M,South Korea-2,KOR,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Kim Yong-hyeon,M,South Korea-2,KOR,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Lee Dong-su,M,South Korea-2,KOR,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Lee Sang-bok,M,South Korea-2,KOR,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Lee Yong-dae,M,South Korea-2,KOR,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Park Ju-bong,M,South Korea-2,KOR,1996,Atlanta,Badminton,Badminton Mixed Doubles,Silver,Badminton,BDM,False
-Son Jin-hwan,M,South Korea-2,KOR,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Yu Yeon-seong,M,South Korea-2,KOR,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Yu Yong-seong,M,South Korea-2,KOR,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Go Seong-hyeon,M,South Korea-2,KOR,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Ha Tae-gwon,M,South Korea-2,KOR,2000,Sydney,Badminton,Badminton Men's Doubles,Bronze,Badminton,BDM,True,True
+Ha Tae-gwon,M,South Korea-2,KOR,2004,Athina,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,True,False
+Han Sang-hun,M,South Korea-2,KOR,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Jeong Jae-seong,M,South Korea-2,KOR,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Kim Dong-mun,M,South Korea-2,KOR,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Kim Dong-mun,M,South Korea-2,KOR,2000,Sydney,Badminton,Badminton Men's Doubles,Bronze,Badminton,BDM,True,False
+Kim Dong-mun,M,South Korea-2,KOR,2004,Athina,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,True,False
+Kim Gi-jung,M,South Korea-2,KOR,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Kim Sa-rang,M,South Korea-2,KOR,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Kim Yong-hyeon,M,South Korea-2,KOR,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Lee Dong-su,M,South Korea-2,KOR,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Lee Sang-bok,M,South Korea-2,KOR,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Lee Yong-dae,M,South Korea-2,KOR,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Park Ju-bong,M,South Korea-2,KOR,1996,Atlanta,Badminton,Badminton Mixed Doubles,Silver,Badminton,BDM,False,True
+Son Jin-hwan,M,South Korea-2,KOR,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Yu Yeon-seong,M,South Korea-2,KOR,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Yu Yong-seong,M,South Korea-2,KOR,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True

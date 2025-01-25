@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gurn Arnardttir,F,Iceland,ISL,1996,Atlanta,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True
-Gurn Arnardttir,F,Iceland,ISL,2000,Sydney,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True
-rey Elsdttir,F,Iceland,ISL,2000,Sydney,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,True
-rey Elsdttir,F,Iceland,ISL,2004,Athina,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,True
-rey Elsdttir,F,Iceland,ISL,2008,Beijing,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,True
-Martha Ernstdttir,F,Iceland,ISL,2000,Sydney,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Vala Flosadttir,F,Iceland,ISL,2000,Sydney,Athletics,Athletics Women's Pole Vault,Bronze,Athletics,ATH,False
-rds Gsladttir,F,Iceland,ISL,1976,Montreal,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True
-rds Gsladttir,F,Iceland,ISL,1984,Los Angeles,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True
-Iris Grnfeldt,F,Iceland,ISL,1984,Los Angeles,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True
-Iris Grnfeldt,F,Iceland,ISL,1988,Seoul,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True
-Lilja Gumundsdttir,F,Iceland,ISL,1976,Montreal,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Lilja Gumundsdttir,F,Iceland,ISL,1976,Montreal,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True
-Helga Halldrsdttir,F,Iceland,ISL,1988,Seoul,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,False
-Anta Hinriksdttir,F,Iceland,ISL,2016,Rio de Janeiro,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False
-sds Hjlmsdttir,F,Iceland,ISL,2008,Beijing,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True
-sds Hjlmsdttir,F,Iceland,ISL,2012,London,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True
-sds Hjlmsdttir,F,Iceland,ISL,2016,Rio de Janeiro,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True
-Lra Sveinsdttir,F,Iceland,ISL,1972,Munich,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False
-Soley Gunnarsdottir,F,Iceland,ISL,2024,Paris,Athletics,Women's Shot Put,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gurn Arnardttir,F,Iceland,ISL,1996,Atlanta,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True,True
+Gurn Arnardttir,F,Iceland,ISL,2000,Sydney,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True,False
+rey Elsdttir,F,Iceland,ISL,2000,Sydney,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,True,True
+rey Elsdttir,F,Iceland,ISL,2004,Athina,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,True,False
+rey Elsdttir,F,Iceland,ISL,2008,Beijing,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,True,False
+Martha Ernstdttir,F,Iceland,ISL,2000,Sydney,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Vala Flosadttir,F,Iceland,ISL,2000,Sydney,Athletics,Athletics Women's Pole Vault,Bronze,Athletics,ATH,False,True
+rds Gsladttir,F,Iceland,ISL,1976,Montreal,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True,True
+rds Gsladttir,F,Iceland,ISL,1984,Los Angeles,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True,False
+Iris Grnfeldt,F,Iceland,ISL,1984,Los Angeles,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True,True
+Iris Grnfeldt,F,Iceland,ISL,1988,Seoul,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True,False
+Lilja Gumundsdttir,F,Iceland,ISL,1976,Montreal,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Lilja Gumundsdttir,F,Iceland,ISL,1976,Montreal,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True,True
+Helga Halldrsdttir,F,Iceland,ISL,1988,Seoul,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+Anta Hinriksdttir,F,Iceland,ISL,2016,Rio de Janeiro,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False,True
+sds Hjlmsdttir,F,Iceland,ISL,2008,Beijing,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True,True
+sds Hjlmsdttir,F,Iceland,ISL,2012,London,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True,False
+sds Hjlmsdttir,F,Iceland,ISL,2016,Rio de Janeiro,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True,False
+Lra Sveinsdttir,F,Iceland,ISL,1972,Munich,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False,True
+Soley Gunnarsdottir,F,Iceland,ISL,2024,Paris,Athletics,Women's Shot Put,No medal,Women's,ATH,False,True

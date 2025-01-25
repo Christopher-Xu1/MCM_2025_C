@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Teeranun Chiangta,M,Thailand,THA,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Bodin Isara,M,Thailand,THA,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Bodin Isara,M,Thailand,THA,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Maneepong Jongjit,M,Thailand,THA,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Kittipon Kittikul,M,Thailand,THA,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Sompol Kookasemkit,M,Thailand,THA,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Tesana Panvisavas,M,Thailand,THA,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Boonsak Ponsana,M,Thailand,THA,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Boonsak Ponsana,M,Thailand,THA,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Boonsak Ponsana,M,Thailand,THA,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Boonsak Ponsana,M,Thailand,THA,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Boonsak Ponsana,M,Thailand,THA,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Sudket Prapakamol,M,Thailand,THA,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Sudket Prapakamol,M,Thailand,THA,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Sudket Prapakamol,M,Thailand,THA,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Siripong Siripool,M,Thailand,THA,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Khunakorn Suthisod,M,Thailand,THA,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Pramote Teerawiwatana,M,Thailand,THA,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Pramote Teerawiwatana,M,Thailand,THA,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Dechapol Puavaranukroh,M,Thailand,THA,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,True
-Kantaphon Wangcharoen,M,Thailand,THA,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,False
-Kunlavut Vitidsarn,M,Thailand,THA,2024,Paris,Badminton,Men's Singles,Silver,Men's,BDM,False
-Supak Jomkoh,M,Thailand,THA,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False
-Kittinupong Kedren,M,Thailand,THA,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False
-Dechapol Puavaranukroh,M,Thailand,THA,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Teeranun Chiangta,M,Thailand,THA,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Bodin Isara,M,Thailand,THA,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Bodin Isara,M,Thailand,THA,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Maneepong Jongjit,M,Thailand,THA,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Kittipon Kittikul,M,Thailand,THA,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Sompol Kookasemkit,M,Thailand,THA,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Tesana Panvisavas,M,Thailand,THA,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Boonsak Ponsana,M,Thailand,THA,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Boonsak Ponsana,M,Thailand,THA,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Boonsak Ponsana,M,Thailand,THA,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Boonsak Ponsana,M,Thailand,THA,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Boonsak Ponsana,M,Thailand,THA,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Sudket Prapakamol,M,Thailand,THA,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Sudket Prapakamol,M,Thailand,THA,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Sudket Prapakamol,M,Thailand,THA,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Siripong Siripool,M,Thailand,THA,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Khunakorn Suthisod,M,Thailand,THA,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Pramote Teerawiwatana,M,Thailand,THA,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Pramote Teerawiwatana,M,Thailand,THA,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Dechapol Puavaranukroh,M,Thailand,THA,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,True,True
+Kantaphon Wangcharoen,M,Thailand,THA,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,False,True
+Kunlavut Vitidsarn,M,Thailand,THA,2024,Paris,Badminton,Men's Singles,Silver,Men's,BDM,False,True
+Supak Jomkoh,M,Thailand,THA,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False,True
+Kittinupong Kedren,M,Thailand,THA,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False,True
+Dechapol Puavaranukroh,M,Thailand,THA,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,True,False

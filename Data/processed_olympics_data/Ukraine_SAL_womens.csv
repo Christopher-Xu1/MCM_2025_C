@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hanna Kalinina,F,Ukraine,UKR,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,Silver,Sailing,SAL,False
-Olha Maslivets,F,Ukraine,UKR,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Olha Maslivets,F,Ukraine,UKR,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Olha Maslivets,F,Ukraine,UKR,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Olha Maslivets,F,Ukraine,UKR,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Svitlana Matevusheva,F,Ukraine,UKR,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,Silver,Sailing,SAL,False
-Olena Pakholchyk,F,Ukraine,UKR,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True
-Olena Pakholchyk,F,Ukraine,UKR,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True
-Ruslana Taran,F,Ukraine,UKR,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True
-Ruslana Taran,F,Ukraine,UKR,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True
-Ruslana Taran,F,Ukraine,UKR,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,Silver,Sailing,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hanna Kalinina,F,Ukraine,UKR,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,Silver,Sailing,SAL,False,True
+Olha Maslivets,F,Ukraine,UKR,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Olha Maslivets,F,Ukraine,UKR,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Olha Maslivets,F,Ukraine,UKR,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Olha Maslivets,F,Ukraine,UKR,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Svitlana Matevusheva,F,Ukraine,UKR,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,Silver,Sailing,SAL,False,True
+Olena Pakholchyk,F,Ukraine,UKR,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True,True
+Olena Pakholchyk,F,Ukraine,UKR,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True,False
+Ruslana Taran,F,Ukraine,UKR,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True,True
+Ruslana Taran,F,Ukraine,UKR,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True,False
+Ruslana Taran,F,Ukraine,UKR,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,Silver,Sailing,SAL,True,False

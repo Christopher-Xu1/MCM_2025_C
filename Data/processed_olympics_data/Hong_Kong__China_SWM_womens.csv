@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Stephanie Au,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,True
-Stephanie Au,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,No medal,Women's,SWM,True
-Mei Cheng,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,No medal,Women's,SWM,True
-Mei Cheng,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,No medal,Women's,SWM,True
-Bernadette Haughey,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True
-Bernadette Haughey,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 100m Freestyle,Silver,Women's,SWM,True
-Bernadette Haughey,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 200m Freestyle,Silver,Women's,SWM,True
-Bernadette Haughey,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,No medal,Women's,SWM,True
-Tinky Ho,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,No medal,Women's,SWM,False
-Lam Tam,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,No medal,Women's,SWM,True
-To Wong,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,No medal,Women's,SWM,False
-Mei Yeung,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,No medal,Women's,SWM,False
-Stephanie Au,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Freestyle Relay,No medal,Women's,SWM,True
-Stephanie Au,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,No medal,Women's,SWM,True
-Stephanie Au,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Relay Only Athlete,No medal,Relay,SWM,True
-Mei Cheng,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Freestyle Relay,No medal,Women's,SWM,True
-Mei Cheng,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Relay Only Athlete,No medal,Relay,SWM,True
-Bernadette Haughey,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 100m Freestyle,Bronze,Women's,SWM,True
-Bernadette Haughey,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 200m Freestyle,Bronze,Women's,SWM,True
-Bernadette Haughey,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,No medal,Women's,SWM,True
-Natalie Kan,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Freestyle Relay,No medal,Women's,SWM,True
-Natalie Kan,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,No medal,Women's,SWM,True
-Natalie Kan,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Relay Only Athlete,No medal,Relay,SWM,True
-Lam Tam,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Freestyle Relay,No medal,Women's,SWM,True
-Lam Tam,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,No medal,Women's,SWM,True
-Lam Tam,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Relay Only Athlete,No medal,Relay,SWM,True
-Cindy Cheung,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,True
-Cindy Cheung,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Stephanie Au,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,True,True
+Stephanie Au,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,No medal,Women's,SWM,True,True
+Mei Cheng,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,No medal,Women's,SWM,True,True
+Mei Cheng,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,No medal,Women's,SWM,True,True
+Bernadette Haughey,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True,True
+Bernadette Haughey,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 100m Freestyle,Silver,Women's,SWM,True,True
+Bernadette Haughey,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 200m Freestyle,Silver,Women's,SWM,True,True
+Bernadette Haughey,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,No medal,Women's,SWM,True,True
+Tinky Ho,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,No medal,Women's,SWM,False,True
+Lam Tam,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,No medal,Women's,SWM,True,True
+To Wong,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,No medal,Women's,SWM,False,True
+Mei Yeung,F,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,No medal,Women's,SWM,False,True
+Stephanie Au,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Freestyle Relay,No medal,Women's,SWM,True,False
+Stephanie Au,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,No medal,Women's,SWM,True,False
+Stephanie Au,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Relay Only Athlete,No medal,Relay,SWM,True,False
+Mei Cheng,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Freestyle Relay,No medal,Women's,SWM,True,False
+Mei Cheng,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Relay Only Athlete,No medal,Relay,SWM,True,False
+Bernadette Haughey,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 100m Freestyle,Bronze,Women's,SWM,True,False
+Bernadette Haughey,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 200m Freestyle,Bronze,Women's,SWM,True,False
+Bernadette Haughey,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,No medal,Women's,SWM,True,False
+Natalie Kan,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Freestyle Relay,No medal,Women's,SWM,True,True
+Natalie Kan,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,No medal,Women's,SWM,True,True
+Natalie Kan,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Relay Only Athlete,No medal,Relay,SWM,True,True
+Lam Tam,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Freestyle Relay,No medal,Women's,SWM,True,False
+Lam Tam,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,No medal,Women's,SWM,True,False
+Lam Tam,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Relay Only Athlete,No medal,Relay,SWM,True,False
+Cindy Cheung,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,True,True
+Cindy Cheung,F,"Hong Kong, China",HKG,2024,Paris,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,True,True

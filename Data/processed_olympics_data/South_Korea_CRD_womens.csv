@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ahreum Na,F,South Korea,KOR,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ahreum Na,F,South Korea,KOR,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True

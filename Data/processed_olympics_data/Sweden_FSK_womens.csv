@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Magda (mauroy-),F,Sweden,SWE,1920,Antwerpen,Figure Skating,Figure Skating Women's Singles,Gold,Figure,FSK,False
-Elna (-bckman),F,Sweden,SWE,1908,London,Figure Skating,Figure Skating Women's Singles,No medal,Figure,FSK,False
-Svea (-kllstrm),F,Sweden,SWE,1920,Antwerpen,Figure Skating,Figure Skating Women's Singles,Silver,Figure,FSK,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Magda (mauroy-),F,Sweden,SWE,1920,Antwerpen,Figure Skating,Figure Skating Women's Singles,Gold,Figure,FSK,False,True
+Elna (-bckman),F,Sweden,SWE,1908,London,Figure Skating,Figure Skating Women's Singles,No medal,Figure,FSK,False,True
+Svea (-kllstrm),F,Sweden,SWE,1920,Antwerpen,Figure Skating,Figure Skating Women's Singles,Silver,Figure,FSK,False,True

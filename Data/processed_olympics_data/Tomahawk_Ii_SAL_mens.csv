@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Herald Howard,M,Tomahawk Ii,CAN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-David Howard,M,Tomahawk Ii,CAN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Donald Tytler,M,Tomahawk Ii,CAN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Herald Howard,M,Tomahawk Ii,CAN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+David Howard,M,Tomahawk Ii,CAN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Donald Tytler,M,Tomahawk Ii,CAN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

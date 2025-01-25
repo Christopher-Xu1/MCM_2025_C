@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Myagmarjargal Munkhbat,F,Mongolia,MGL,2020,Tokyo,Boxing,Women's Middle (69-75kg),No medal,Women's,BOX,False
-Yesugen Oyuntsetseg,F,Mongolia,MGL,2024,Paris,Boxing,Women's 50kg,No medal,Women's,BOX,False
-Enkhjargal Munguntsetseg,F,Mongolia,MGL,2024,Paris,Boxing,Women's 54kg,No medal,Women's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Myagmarjargal Munkhbat,F,Mongolia,MGL,2020,Tokyo,Boxing,Women's Middle (69-75kg),No medal,Women's,BOX,False,True
+Yesugen Oyuntsetseg,F,Mongolia,MGL,2024,Paris,Boxing,Women's 50kg,No medal,Women's,BOX,False,True
+Enkhjargal Munguntsetseg,F,Mongolia,MGL,2024,Paris,Boxing,Women's 54kg,No medal,Women's,BOX,False,True

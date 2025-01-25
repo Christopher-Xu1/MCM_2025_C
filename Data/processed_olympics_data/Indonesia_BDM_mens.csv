@@ -1,40 +1,40 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tontowi Ahmad,M,Indonesia,INA,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Mohammad Ahsan,M,Indonesia,INA,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Mohammad Ahsan,M,Indonesia,INA,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Michael Arbi,M,Indonesia,INA,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Alexander Wiratama,M,Indonesia,INA,1992,Barcelona,Badminton,Badminton Men's Singles,Gold,Badminton,BDM,True
-Alexander Wiratama,M,Indonesia,INA,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Alvent Chandra,M,Indonesia,INA,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Tony Gunawan,M,Indonesia,INA,2000,Sydney,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,False
-Luluk Hadiyanto,M,Indonesia,INA,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Hendrawan,M,Indonesia,INA,2000,Sydney,Badminton,Badminton Men's Singles,Silver,Badminton,BDM,False
-Taufik Hidayat,M,Indonesia,INA,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Taufik Hidayat,M,Indonesia,INA,2004,Athina,Badminton,Badminton Men's Singles,Gold,Badminton,BDM,True
-Taufik Hidayat,M,Indonesia,INA,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Taufik Hidayat,M,Indonesia,INA,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Sony Kuncoro,M,Indonesia,INA,2004,Athina,Badminton,Badminton Men's Singles,Bronze,Badminton,BDM,True
-Sony Kuncoro,M,Indonesia,INA,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Marleve Mainaky,M,Indonesia,INA,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Rexy Mainaky,M,Indonesia,INA,1996,Atlanta,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,False
-Simon Santoso,M,Indonesia,INA,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Bona Septano,M,Indonesia,INA,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Hendra Setiawan,M,Indonesia,INA,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Ricky Subagja,M,Indonesia,INA,1996,Atlanta,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,False
-Tommy Sugiarto,M,Indonesia,INA,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Joko Supriyanto,M,Indonesia,INA,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Hermawan Susanto,M,Indonesia,INA,1992,Barcelona,Badminton,Badminton Men's Singles,Bronze,Badminton,BDM,False
-Candra Wijaya,M,Indonesia,INA,2000,Sydney,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,False
-Ardy Wiranata,M,Indonesia,INA,1992,Barcelona,Badminton,Badminton Men's Singles,Silver,Badminton,BDM,False
-Mohammad Ahsan,M,Indonesia,INA,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True
-Jonatan Christie,M,Indonesia,INA,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True
-Fernaldi Gideon,M,Indonesia,INA,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,False
-Sinisuka Ginting,M,Indonesia,INA,2020,Tokyo,Badminton,Men's Singles,Bronze,Men's,BDM,True
-Praveen Jordan,M,Indonesia,INA,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,False
-Hendra Setiawan,M,Indonesia,INA,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True
-Sanjaya Sukamuljo,M,Indonesia,INA,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,False
-Sinisuka Ginting,M,Indonesia,INA,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True
-Fajar Alfian,M,Indonesia,INA,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False
-Jonatan Christie,M,Indonesia,INA,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True
-Rian Ardianto,M,Indonesia,INA,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False
-Rinov Rivaldy,M,Indonesia,INA,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tontowi Ahmad,M,Indonesia,INA,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Mohammad Ahsan,M,Indonesia,INA,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Mohammad Ahsan,M,Indonesia,INA,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Michael Arbi,M,Indonesia,INA,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Alexander Wiratama,M,Indonesia,INA,1992,Barcelona,Badminton,Badminton Men's Singles,Gold,Badminton,BDM,True,True
+Alexander Wiratama,M,Indonesia,INA,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Alvent Chandra,M,Indonesia,INA,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Tony Gunawan,M,Indonesia,INA,2000,Sydney,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,False,True
+Luluk Hadiyanto,M,Indonesia,INA,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Hendrawan,M,Indonesia,INA,2000,Sydney,Badminton,Badminton Men's Singles,Silver,Badminton,BDM,False,True
+Taufik Hidayat,M,Indonesia,INA,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Taufik Hidayat,M,Indonesia,INA,2004,Athina,Badminton,Badminton Men's Singles,Gold,Badminton,BDM,True,False
+Taufik Hidayat,M,Indonesia,INA,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Taufik Hidayat,M,Indonesia,INA,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Sony Kuncoro,M,Indonesia,INA,2004,Athina,Badminton,Badminton Men's Singles,Bronze,Badminton,BDM,True,True
+Sony Kuncoro,M,Indonesia,INA,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Marleve Mainaky,M,Indonesia,INA,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Rexy Mainaky,M,Indonesia,INA,1996,Atlanta,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,False,True
+Simon Santoso,M,Indonesia,INA,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Bona Septano,M,Indonesia,INA,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Hendra Setiawan,M,Indonesia,INA,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Ricky Subagja,M,Indonesia,INA,1996,Atlanta,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,False,True
+Tommy Sugiarto,M,Indonesia,INA,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Joko Supriyanto,M,Indonesia,INA,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Hermawan Susanto,M,Indonesia,INA,1992,Barcelona,Badminton,Badminton Men's Singles,Bronze,Badminton,BDM,False,True
+Candra Wijaya,M,Indonesia,INA,2000,Sydney,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,False,True
+Ardy Wiranata,M,Indonesia,INA,1992,Barcelona,Badminton,Badminton Men's Singles,Silver,Badminton,BDM,False,True
+Mohammad Ahsan,M,Indonesia,INA,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True,False
+Jonatan Christie,M,Indonesia,INA,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True,True
+Fernaldi Gideon,M,Indonesia,INA,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,False,True
+Sinisuka Ginting,M,Indonesia,INA,2020,Tokyo,Badminton,Men's Singles,Bronze,Men's,BDM,True,True
+Praveen Jordan,M,Indonesia,INA,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,False,True
+Hendra Setiawan,M,Indonesia,INA,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True,False
+Sanjaya Sukamuljo,M,Indonesia,INA,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,False,True
+Sinisuka Ginting,M,Indonesia,INA,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True,False
+Fajar Alfian,M,Indonesia,INA,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False,True
+Jonatan Christie,M,Indonesia,INA,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True,False
+Rian Ardianto,M,Indonesia,INA,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False,True
+Rinov Rivaldy,M,Indonesia,INA,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False,True

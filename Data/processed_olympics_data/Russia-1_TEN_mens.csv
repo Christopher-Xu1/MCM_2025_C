@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marat Safin,M,Russia-1,RUS,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Dmitry Tursunov,M,Russia-1,RUS,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Mikhail Yuzhny,M,Russia-1,RUS,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Mikhail Yuzhny,M,Russia-1,RUS,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marat Safin,M,Russia-1,RUS,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Dmitry Tursunov,M,Russia-1,RUS,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Mikhail Yuzhny,M,Russia-1,RUS,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Mikhail Yuzhny,M,Russia-1,RUS,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False

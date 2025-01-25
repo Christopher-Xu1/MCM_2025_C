@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marcus Becker,M,Germany-1,GER,2004,Athina,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False
-Manfred Berro,M,Germany-1,GER,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False
-Andr Ehrenberg,M,Germany-1,GER,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Bronze,Canoeing,CSL,False
-Stefan Henze,M,Germany-1,GER,2004,Athina,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False
-Michael Senft,M,Germany-1,GER,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Bronze,Canoeing,CSL,False
-Michael Trummer,M,Germany-1,GER,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marcus Becker,M,Germany-1,GER,2004,Athina,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False,True
+Manfred Berro,M,Germany-1,GER,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False,True
+Andr Ehrenberg,M,Germany-1,GER,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Bronze,Canoeing,CSL,False,True
+Stefan Henze,M,Germany-1,GER,2004,Athina,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False,True
+Michael Senft,M,Germany-1,GER,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Bronze,Canoeing,CSL,False,True
+Michael Trummer,M,Germany-1,GER,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False,True

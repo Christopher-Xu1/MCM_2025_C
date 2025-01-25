@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ajah Pritchard-lolo,F,Vanuatu,VAN,2024,Paris,Weightlifting,Women's 81kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ajah Pritchard-lolo,F,Vanuatu,VAN,2024,Paris,Weightlifting,Women's 81kg,No medal,Women's,WLF,False,True

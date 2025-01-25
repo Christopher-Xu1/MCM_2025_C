@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lotte Bruil-jonathans,F,Netherlands,NED,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Lotte Bruil-jonathans,F,Netherlands,NED,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Lotte Bruil-jonathans,F,Netherlands,NED,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Eline Coene,F,Netherlands,NED,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Eline Coene,F,Netherlands,NED,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Eline Coene,F,Netherlands,NED,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Judith Meulendijks,F,Netherlands,NED,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Mia Tjiptawan-lobman,F,Netherlands,NED,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Mia Tjiptawan-lobman,F,Netherlands,NED,2004,Athina,Badminton,Badminton Women's Singles,Silver,Badminton,BDM,True
-Mia Tjiptawan-lobman,F,Netherlands,NED,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Eefje Muskens,F,Netherlands,NED,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Selena Piek,F,Netherlands,NED,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Selena Piek,F,Netherlands,NED,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Henrica Dijk),F,Netherlands,NED,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Henrica Dijk),F,Netherlands,NED,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Henrica Dijk),F,Netherlands,NED,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Henrica Dijk),F,Netherlands,NED,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Henrica Dijk),F,Netherlands,NED,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Agatha Knaap,F,Netherlands,NED,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Nicole Hooren,F,Netherlands,NED,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Jie Yao,F,Netherlands,NED,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Jie Yao,F,Netherlands,NED,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Selena Piek,F,Netherlands,NED,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,True
-Selena Piek,F,Netherlands,NED,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,True
-Cheryl Seinen,F,Netherlands,NED,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,False
-Selena Piek,F,Netherlands,NED,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lotte Bruil-jonathans,F,Netherlands,NED,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Lotte Bruil-jonathans,F,Netherlands,NED,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Lotte Bruil-jonathans,F,Netherlands,NED,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Eline Coene,F,Netherlands,NED,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Eline Coene,F,Netherlands,NED,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Eline Coene,F,Netherlands,NED,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Judith Meulendijks,F,Netherlands,NED,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Mia Tjiptawan-lobman,F,Netherlands,NED,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Mia Tjiptawan-lobman,F,Netherlands,NED,2004,Athina,Badminton,Badminton Women's Singles,Silver,Badminton,BDM,True,False
+Mia Tjiptawan-lobman,F,Netherlands,NED,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Eefje Muskens,F,Netherlands,NED,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Selena Piek,F,Netherlands,NED,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Selena Piek,F,Netherlands,NED,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Henrica Dijk),F,Netherlands,NED,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Henrica Dijk),F,Netherlands,NED,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Henrica Dijk),F,Netherlands,NED,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Henrica Dijk),F,Netherlands,NED,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Henrica Dijk),F,Netherlands,NED,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Agatha Knaap,F,Netherlands,NED,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Nicole Hooren,F,Netherlands,NED,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Jie Yao,F,Netherlands,NED,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Jie Yao,F,Netherlands,NED,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Selena Piek,F,Netherlands,NED,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,True,False
+Selena Piek,F,Netherlands,NED,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,True,False
+Cheryl Seinen,F,Netherlands,NED,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,False,True
+Selena Piek,F,Netherlands,NED,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,True,False

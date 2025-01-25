@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Erik Herseth,M,Eleda,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False
-Sigurd Holter,M,Eleda,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False
-Gunnar Jamvold,M,Eleda,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False
-Peter Jamvold,M,Eleda,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False
-Claus Juell,M,Eleda,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False
-Ingar Nielsen,M,Eleda,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False
-Ole Srensen,M,Eleda,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Erik Herseth,M,Eleda,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False,True
+Sigurd Holter,M,Eleda,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False,True
+Gunnar Jamvold,M,Eleda,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False,True
+Peter Jamvold,M,Eleda,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False,True
+Claus Juell,M,Eleda,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False,True
+Ingar Nielsen,M,Eleda,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False,True
+Ole Srensen,M,Eleda,NOR,1920,Antwerpen,Sailing,Sailing Mixed 10 metres,Gold,Sailing,SAL,False,True

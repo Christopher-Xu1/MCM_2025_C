@@ -1,46 +1,46 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Thu Banh,F,United States,USA,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Thu Banh,F,United States,USA,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Insook (na-),F,United States,USA,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Insook (na-),F,United States,USA,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Insook (na-),F,United States,USA,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jasna -rather),F,United States,USA,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jasna -rather),F,United States,USA,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Amy Feng,F,United States,USA,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Jun (-chang),F,United States,USA,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jun (-chang),F,United States,USA,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jun (-chang),F,United States,USA,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jun (-chang),F,United States,USA,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Diana (-mcdonnell),F,United States,USA,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Diana (-mcdonnell),F,United States,USA,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Diana (-mcdonnell),F,United States,USA,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Diana (-mcdonnell),F,United States,USA,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Ariel Hsing,F,United States,USA,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Ariel Hsing,F,United States,USA,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Yao Huang,F,United States,USA,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Yao Huang,F,United States,USA,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Shui-Ling Hugh-yip,F,United States,USA,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Shui-Ling Hugh-yip,F,United States,USA,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Shui-Ling Hugh-yip,F,United States,USA,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Shui-Ling Hugh-yip,F,United States,USA,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Chen Wang,F,United States,USA,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Chen Wang,F,United States,USA,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Wei Wang,F,United States,USA,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
-Erica Wu,F,United States,USA,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,False
-Yue Wu,F,United States,USA,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Yue Wu,F,United States,USA,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Lily Zhang,F,United States,USA,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Lily Zhang,F,United States,USA,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Lily Zhang,F,United States,USA,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Lily Zhang,F,United States,USA,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Jiaqi Zheng,F,United States,USA,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,False
-Juan Liu,F,United States,USA,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Juan Liu,F,United States,USA,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Huijing Wang,F,United States,USA,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,False
-Lily Zhang,F,United States,USA,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Lily Zhang,F,United States,USA,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Lily Zhang,F,United States,USA,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Lily Zhang,F,United States,USA,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Rachel Sung,F,United States,USA,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,False
-Amy Wang,F,United States,USA,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Amy Wang,F,United States,USA,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Thu Banh,F,United States,USA,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Thu Banh,F,United States,USA,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Insook (na-),F,United States,USA,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Insook (na-),F,United States,USA,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Insook (na-),F,United States,USA,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Jasna -rather),F,United States,USA,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Jasna -rather),F,United States,USA,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Amy Feng,F,United States,USA,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Jun (-chang),F,United States,USA,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Jun (-chang),F,United States,USA,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Jun (-chang),F,United States,USA,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Jun (-chang),F,United States,USA,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Diana (-mcdonnell),F,United States,USA,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Diana (-mcdonnell),F,United States,USA,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Diana (-mcdonnell),F,United States,USA,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Diana (-mcdonnell),F,United States,USA,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Ariel Hsing,F,United States,USA,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Ariel Hsing,F,United States,USA,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Yao Huang,F,United States,USA,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Yao Huang,F,United States,USA,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Shui-Ling Hugh-yip,F,United States,USA,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Shui-Ling Hugh-yip,F,United States,USA,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Shui-Ling Hugh-yip,F,United States,USA,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Shui-Ling Hugh-yip,F,United States,USA,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Chen Wang,F,United States,USA,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Chen Wang,F,United States,USA,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Wei Wang,F,United States,USA,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True
+Erica Wu,F,United States,USA,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,False,True
+Yue Wu,F,United States,USA,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Yue Wu,F,United States,USA,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Lily Zhang,F,United States,USA,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Lily Zhang,F,United States,USA,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Lily Zhang,F,United States,USA,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Lily Zhang,F,United States,USA,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Jiaqi Zheng,F,United States,USA,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,False,True
+Juan Liu,F,United States,USA,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Juan Liu,F,United States,USA,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True,True
+Huijing Wang,F,United States,USA,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,False,True
+Lily Zhang,F,United States,USA,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False
+Lily Zhang,F,United States,USA,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True,False
+Lily Zhang,F,United States,USA,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False
+Lily Zhang,F,United States,USA,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True,False
+Rachel Sung,F,United States,USA,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,False,True
+Amy Wang,F,United States,USA,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Amy Wang,F,United States,USA,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True,True

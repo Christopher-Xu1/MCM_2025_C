@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-William Northam,M,Barrenjoey,AUS,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,Gold,Sailing,SAL,False
-Peter O'donnell,M,Barrenjoey,AUS,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,Gold,Sailing,SAL,False
-James Sargeant,M,Barrenjoey,AUS,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+William Northam,M,Barrenjoey,AUS,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,Gold,Sailing,SAL,False,True
+Peter O'donnell,M,Barrenjoey,AUS,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,Gold,Sailing,SAL,False,True
+James Sargeant,M,Barrenjoey,AUS,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,Gold,Sailing,SAL,False,True

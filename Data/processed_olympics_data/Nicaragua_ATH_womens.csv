@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jessica Aguilera,F,Nicaragua,NCA,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Russel Trejos,F,Nicaragua,NCA,1972,Munich,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Russel Trejos,F,Nicaragua,NCA,1972,Munich,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Maritza Amador,F,Nicaragua,NCA,2000,Sydney,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Xiomara Toruo,F,Nicaragua,NCA,1980,Moskva,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Marta Portoblanco,F,Nicaragua,NCA,1996,Atlanta,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,False
-Olivia Carmona,F,Nicaragua,NCA,2004,Athina,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False
-Ingrid Narvaez,F,Nicaragua,NCA,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Maria Carmona,F,Nicaragua,NCA,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jessica Aguilera,F,Nicaragua,NCA,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Russel Trejos,F,Nicaragua,NCA,1972,Munich,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Russel Trejos,F,Nicaragua,NCA,1972,Munich,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Maritza Amador,F,Nicaragua,NCA,2000,Sydney,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Xiomara Toruo,F,Nicaragua,NCA,1980,Moskva,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Marta Portoblanco,F,Nicaragua,NCA,1996,Atlanta,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,False,True
+Olivia Carmona,F,Nicaragua,NCA,2004,Athina,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False,True
+Ingrid Narvaez,F,Nicaragua,NCA,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Maria Carmona,F,Nicaragua,NCA,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False,True

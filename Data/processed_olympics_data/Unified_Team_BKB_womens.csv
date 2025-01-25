@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yelena Baranova,F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False
-Elen Bunatyants-shakirova,F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False
-Irina Gerlits,F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False
-Yelena Khudashova,F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False
-Irina Minkh,F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False
-Yelena (ksenzhik-),F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False
-Irina (sviridenko-),F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False
-Maryna (kopcha-),F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False
-Yelena Tornikidu,F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False
-Svetlana (-belova),F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False
-Nataliya Zasulskaya,F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False
-Olena (-marenchikova),F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yelena Baranova,F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False,True
+Elen Bunatyants-shakirova,F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False,True
+Irina Gerlits,F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False,True
+Yelena Khudashova,F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False,True
+Irina Minkh,F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False,True
+Yelena (ksenzhik-),F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False,True
+Irina (sviridenko-),F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False,True
+Maryna (kopcha-),F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False,True
+Yelena Tornikidu,F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False,True
+Svetlana (-belova),F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False,True
+Nataliya Zasulskaya,F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False,True
+Olena (-marenchikova),F,Unified Team,EUN,1992,Barcelona,Basketball,Basketball Women's Basketball,Gold,Basketball,BKB,False,True

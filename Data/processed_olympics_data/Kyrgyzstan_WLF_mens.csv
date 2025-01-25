@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bakhyt Akhmetov,M,Kyrgyzstan,KGZ,2000,Sydney,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Izzat Artykov,M,Kyrgyzstan,KGZ,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Ulanbek Moldodosov,M,Kyrgyzstan,KGZ,2004,Athina,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Ulanbek Moldodosov,M,Kyrgyzstan,KGZ,2008,Beijing,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Bekzat Osmonaliyev,M,Kyrgyzstan,KGZ,2012,London,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Mital Sharipov,M,Kyrgyzstan,KGZ,2000,Sydney,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Bekdoolot Rasulbekov,M,Kyrgyzstan,KGZ,2020,Tokyo,Weightlifting,Men's 96kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bakhyt Akhmetov,M,Kyrgyzstan,KGZ,2000,Sydney,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Izzat Artykov,M,Kyrgyzstan,KGZ,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Ulanbek Moldodosov,M,Kyrgyzstan,KGZ,2004,Athina,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True,True
+Ulanbek Moldodosov,M,Kyrgyzstan,KGZ,2008,Beijing,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True,False
+Bekzat Osmonaliyev,M,Kyrgyzstan,KGZ,2012,London,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Mital Sharipov,M,Kyrgyzstan,KGZ,2000,Sydney,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Bekdoolot Rasulbekov,M,Kyrgyzstan,KGZ,2020,Tokyo,Weightlifting,Men's 96kg,No medal,Men's,WLF,False,True

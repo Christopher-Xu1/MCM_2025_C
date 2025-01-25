@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rikkoi Brathwaite,M,"Virgin Islands, B",IVB,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
-McMASTER Kyron,M,"Virgin Islands, B",IVB,2024,Paris,Athletics,Men's 400m Hurdles,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rikkoi Brathwaite,M,"Virgin Islands, B",IVB,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True
+McMASTER Kyron,M,"Virgin Islands, B",IVB,2024,Paris,Athletics,Men's 400m Hurdles,No medal,Men's,ATH,False,True

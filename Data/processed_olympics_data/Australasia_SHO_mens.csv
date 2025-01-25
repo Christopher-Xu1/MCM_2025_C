@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-William Hill,M,Australasia,ANZ,1908,London,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 and 100 yards",No medal,Shooting,SHO,True
-William Hill,M,Australasia,ANZ,1908,London,Shooting,"Shooting Men's Small-Bore Rifle, Disappearing Target, 25 yards",No medal,Shooting,SHO,True
-William Hill,M,Australasia,ANZ,1908,London,Shooting,"Shooting Men's Small-Bore Rifle, Moving Target, 25 yards",No medal,Shooting,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+William Hill,M,Australasia,ANZ,1908,London,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 and 100 yards",No medal,Shooting,SHO,True,True
+William Hill,M,Australasia,ANZ,1908,London,Shooting,"Shooting Men's Small-Bore Rifle, Disappearing Target, 25 yards",No medal,Shooting,SHO,True,True
+William Hill,M,Australasia,ANZ,1908,London,Shooting,"Shooting Men's Small-Bore Rifle, Moving Target, 25 yards",No medal,Shooting,SHO,True,True

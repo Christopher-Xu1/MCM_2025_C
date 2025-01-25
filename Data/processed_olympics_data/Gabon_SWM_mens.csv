@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mal Ambonguilat,M,Gabon,GAB,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Adam Girard,M,Gabon,GAB,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False
-Adam Mpali,M,Gabon,GAB,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mal Ambonguilat,M,Gabon,GAB,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Adam Girard,M,Gabon,GAB,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False,True
+Adam Mpali,M,Gabon,GAB,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False,True

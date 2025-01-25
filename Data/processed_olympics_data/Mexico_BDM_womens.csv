@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Deyanira Chias,F,Mexico,MEX,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Victoria Enrquez,F,Mexico,MEX,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Haramara Gaitan,F,Mexico,MEX,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Deyanira Chias,F,Mexico,MEX,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Victoria Enrquez,F,Mexico,MEX,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Haramara Gaitan,F,Mexico,MEX,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,False,True

@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Timothe Vergiat,M,France,FRA,2024,Paris,3x3 Basketball,Men,Silver,Men,BK3,False
-Franck Seguela,M,France,FRA,2024,Paris,3x3 Basketball,Men,Silver,Men,BK3,False
-Lucas Dussoulier,M,France,FRA,2024,Paris,3x3 Basketball,Men,Silver,Men,BK3,False
-Jules Rambaut,M,France,FRA,2024,Paris,3x3 Basketball,Men,Silver,Men,BK3,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Timothe Vergiat,M,France,FRA,2024,Paris,3x3 Basketball,Men,Silver,Men,BK3,False,True
+Franck Seguela,M,France,FRA,2024,Paris,3x3 Basketball,Men,Silver,Men,BK3,False,True
+Lucas Dussoulier,M,France,FRA,2024,Paris,3x3 Basketball,Men,Silver,Men,BK3,False,True
+Jules Rambaut,M,France,FRA,2024,Paris,3x3 Basketball,Men,Silver,Men,BK3,False,True

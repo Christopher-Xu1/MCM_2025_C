@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tam Nguyen,F,Vietnam,VIE,2020,Tokyo,Boxing,Women's Fly (48-51kg),No medal,Women's,BOX,False
-Anh Vo,F,Vietnam,VIE,2024,Paris,Boxing,Women's 54kg,No medal,Women's,BOX,False
-Linh Ha,F,Vietnam,VIE,2024,Paris,Boxing,Women's 60kg,No medal,Women's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tam Nguyen,F,Vietnam,VIE,2020,Tokyo,Boxing,Women's Fly (48-51kg),No medal,Women's,BOX,False,True
+Anh Vo,F,Vietnam,VIE,2024,Paris,Boxing,Women's 54kg,No medal,Women's,BOX,False,True
+Linh Ha,F,Vietnam,VIE,2024,Paris,Boxing,Women's 60kg,No medal,Women's,BOX,False,True

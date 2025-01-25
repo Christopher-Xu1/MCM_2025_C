@@ -1,24 +1,24 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Monica Rahanitraniriana,F,Madagascar,MAD,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Albertine Rahliarisoa,F,Madagascar,MAD,1980,Moskva,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Albertine Rahliarisoa,F,Madagascar,MAD,1980,Moskva,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True
-Hanitriniaina Rakotondrab,F,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Hanitriniaina Rakotondrab,F,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Hanitriniaina Rakotondrab,F,Madagascar,MAD,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Hanitriniaina Rakotondrab,F,Madagascar,MAD,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Lalanirina Rakotozafy,F,Madagascar,MAD,2000,Sydney,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Lalanirina Rakotozafy,F,Madagascar,MAD,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Lalanirina Rakotozafy,F,Madagascar,MAD,2004,Athina,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Lantoniaina Ramalalanirina,F,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Nicole (-valrie),F,Madagascar,MAD,1992,Barcelona,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Nicole (-valrie),F,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Nicole (-valrie),F,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Nirinaharifidy Ramilijaona,F,Madagascar,MAD,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Clarisse Rasoarizay,F,Madagascar,MAD,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Ony Ratsimbazafy,F,Madagascar,MAD,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Lalao Ravaoniriana,F,Madagascar,MAD,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Lalao Ravaoniriana,F,Madagascar,MAD,1992,Barcelona,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Lalao Ravaoniriana,F,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Marie Saholinirina,F,Madagascar,MAD,2012,London,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True
-Marie Saholinirina,F,Madagascar,MAD,2016,Rio de Janeiro,Athletics,"Athletics Women's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
-Sidonie Fiadanantsoa,F,Madagascar,MAD,2024,Paris,Athletics,Women's 100m Hurdles,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Monica Rahanitraniriana,F,Madagascar,MAD,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Albertine Rahliarisoa,F,Madagascar,MAD,1980,Moskva,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Albertine Rahliarisoa,F,Madagascar,MAD,1980,Moskva,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True,True
+Hanitriniaina Rakotondrab,F,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Hanitriniaina Rakotondrab,F,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Hanitriniaina Rakotondrab,F,Madagascar,MAD,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Hanitriniaina Rakotondrab,F,Madagascar,MAD,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Lalanirina Rakotozafy,F,Madagascar,MAD,2000,Sydney,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,True
+Lalanirina Rakotozafy,F,Madagascar,MAD,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Lalanirina Rakotozafy,F,Madagascar,MAD,2004,Athina,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,False
+Lantoniaina Ramalalanirina,F,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Nicole (-valrie),F,Madagascar,MAD,1992,Barcelona,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,True
+Nicole (-valrie),F,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,False
+Nicole (-valrie),F,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Nirinaharifidy Ramilijaona,F,Madagascar,MAD,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Clarisse Rasoarizay,F,Madagascar,MAD,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Ony Ratsimbazafy,F,Madagascar,MAD,2000,Sydney,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Lalao Ravaoniriana,F,Madagascar,MAD,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Lalao Ravaoniriana,F,Madagascar,MAD,1992,Barcelona,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Lalao Ravaoniriana,F,Madagascar,MAD,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Marie Saholinirina,F,Madagascar,MAD,2012,London,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True,True
+Marie Saholinirina,F,Madagascar,MAD,2016,Rio de Janeiro,Athletics,"Athletics Women's 3,000 metres Steeplechase",No medal,Athletics,ATH,True,False
+Sidonie Fiadanantsoa,F,Madagascar,MAD,2024,Paris,Athletics,Women's 100m Hurdles,No medal,Women's,ATH,False,True

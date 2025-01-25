@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Antonio Carattino,M,Galatea Ii,ITA,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Giuseppe Carattino,M,Galatea Ii,ITA,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Carlo Spirito,M,Galatea Ii,ITA,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Antonio Carattino,M,Galatea Ii,ITA,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Giuseppe Carattino,M,Galatea Ii,ITA,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Carlo Spirito,M,Galatea Ii,ITA,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

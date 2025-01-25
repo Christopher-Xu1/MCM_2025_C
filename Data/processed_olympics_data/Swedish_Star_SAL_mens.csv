@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gunnar Asther,M,Swedish Star,SWE,1932,Los Angeles,Sailing,Sailing Mixed Two Person Keelboat,Bronze,Sailing,SAL,False
-Daniel Sundn-cullberg,M,Swedish Star,SWE,1932,Los Angeles,Sailing,Sailing Mixed Two Person Keelboat,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gunnar Asther,M,Swedish Star,SWE,1932,Los Angeles,Sailing,Sailing Mixed Two Person Keelboat,Bronze,Sailing,SAL,False,True
+Daniel Sundn-cullberg,M,Swedish Star,SWE,1932,Los Angeles,Sailing,Sailing Mixed Two Person Keelboat,Bronze,Sailing,SAL,False,True

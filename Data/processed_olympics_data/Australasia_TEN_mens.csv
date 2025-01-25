@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anthony Wilding,M,Australasia,ANZ,1912,Stockholm,Tennis,"Tennis Men's Singles, Covered Courts",Bronze,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anthony Wilding,M,Australasia,ANZ,1912,Stockholm,Tennis,"Tennis Men's Singles, Covered Courts",Bronze,Tennis,TEN,False,True

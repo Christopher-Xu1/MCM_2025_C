@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Heffernan Ho,M,"Hong Kong, China",HKG,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Heffernan Ho,M,"Hong Kong, China",HKG,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,False,True

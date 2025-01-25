@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vasile Belous,M,Moldova,MDA,2012,London,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Vaeceslav Gojan,M,Moldova,MDA,2008,Beijing,Boxing,Boxing Men's Bantamweight,Bronze,Boxing,BOX,False
-Vitalie Gruac,M,Moldova,MDA,2000,Sydney,Boxing,Boxing Men's Welterweight,Bronze,Boxing,BOX,True
-Vitalie Gruac,M,Moldova,MDA,2004,Athina,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Vitalie Gruac,M,Moldova,MDA,2008,Beijing,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Igor Samoilenco,M,Moldova,MDA,1996,Atlanta,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True
-Igor Samoilenco,M,Moldova,MDA,2004,Athina,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True
-Octavian Icu,M,Moldova,MDA,1996,Atlanta,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vasile Belous,M,Moldova,MDA,2012,London,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Vaeceslav Gojan,M,Moldova,MDA,2008,Beijing,Boxing,Boxing Men's Bantamweight,Bronze,Boxing,BOX,False,True
+Vitalie Gruac,M,Moldova,MDA,2000,Sydney,Boxing,Boxing Men's Welterweight,Bronze,Boxing,BOX,True,True
+Vitalie Gruac,M,Moldova,MDA,2004,Athina,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,False
+Vitalie Gruac,M,Moldova,MDA,2008,Beijing,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,False
+Igor Samoilenco,M,Moldova,MDA,1996,Atlanta,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True,True
+Igor Samoilenco,M,Moldova,MDA,2004,Athina,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True,False
+Octavian Icu,M,Moldova,MDA,1996,Atlanta,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True

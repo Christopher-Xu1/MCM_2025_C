@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elina Nordn,F,Sweden,SWE,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Elina Nordn,F,Sweden,SWE,2012,London,Triathlon,Triathlon Women's Olympic Distance,Silver,Triathlon,TRI,True
-Elina Nordn,F,Sweden,SWE,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Tilda Mansson,F,Sweden,SWE,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elina Nordn,F,Sweden,SWE,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Elina Nordn,F,Sweden,SWE,2012,London,Triathlon,Triathlon Women's Olympic Distance,Silver,Triathlon,TRI,True,False
+Elina Nordn,F,Sweden,SWE,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Tilda Mansson,F,Sweden,SWE,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False,True

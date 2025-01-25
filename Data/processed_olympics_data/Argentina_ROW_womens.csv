@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mara Abalo,F,Argentina,ARG,2012,London,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False
-Dolores Amaya,F,Argentina,ARG,1996,Atlanta,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False
-Mara Palazzolo,F,Argentina,ARG,2008,Beijing,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Mara Palazzolo,F,Argentina,ARG,2012,London,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,True
-Lorena Corengia,F,Argentina,ARG,1996,Atlanta,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False
-Mara Garisoain,F,Argentina,ARG,1996,Atlanta,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,True
-Mara Garisoain,F,Argentina,ARG,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Milka Kraljev,F,Argentina,ARG,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Milka Kraljev,F,Argentina,ARG,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Paola Lpez,F,Argentina,ARG,2000,Sydney,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False
-Anala Marn,F,Argentina,ARG,2004,Athina,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False
-Luca Palermo,F,Argentina,ARG,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Luca Palermo,F,Argentina,ARG,2012,London,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Luca Palermo,F,Argentina,ARG,2016,Rio de Janeiro,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Marisa Peguri,F,Argentina,ARG,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Julieta Ramrez,F,Argentina,ARG,1996,Atlanta,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False
-Mara Rohner,F,Argentina,ARG,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Elina Urbano,F,Argentina,ARG,1996,Atlanta,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False
-Milka Kraljev,F,Argentina,ARG,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,True
-Maricel Silvestro,F,Argentina,ARG,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,False
-Sonia Baluzzo,F,Argentina,ARG,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,False
-Evelyn Silvestro,F,Argentina,ARG,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mara Abalo,F,Argentina,ARG,2012,London,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False,True
+Dolores Amaya,F,Argentina,ARG,1996,Atlanta,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False,True
+Mara Palazzolo,F,Argentina,ARG,2008,Beijing,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,True
+Mara Palazzolo,F,Argentina,ARG,2012,London,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,True,False
+Lorena Corengia,F,Argentina,ARG,1996,Atlanta,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False,True
+Mara Garisoain,F,Argentina,ARG,1996,Atlanta,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,True,True
+Mara Garisoain,F,Argentina,ARG,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Milka Kraljev,F,Argentina,ARG,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Milka Kraljev,F,Argentina,ARG,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Paola Lpez,F,Argentina,ARG,2000,Sydney,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False,True
+Anala Marn,F,Argentina,ARG,2004,Athina,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False,True
+Luca Palermo,F,Argentina,ARG,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Luca Palermo,F,Argentina,ARG,2012,London,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,False
+Luca Palermo,F,Argentina,ARG,2016,Rio de Janeiro,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,False
+Marisa Peguri,F,Argentina,ARG,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Julieta Ramrez,F,Argentina,ARG,1996,Atlanta,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False,True
+Mara Rohner,F,Argentina,ARG,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Elina Urbano,F,Argentina,ARG,1996,Atlanta,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False,True
+Milka Kraljev,F,Argentina,ARG,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,True,False
+Maricel Silvestro,F,Argentina,ARG,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,False,True
+Sonia Baluzzo,F,Argentina,ARG,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,False,True
+Evelyn Silvestro,F,Argentina,ARG,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,False,True

@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carl-Olof Nyln,M,Sweden-3,SWE,1912,Stockholm,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Carl-Olof Nyln,M,Sweden-3,SWE,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Carl-Olof Nyln,M,Sweden-3,SWE,1912,Stockholm,Tennis,"Tennis Men's Doubles, Covered Courts",No medal,Tennis,TEN,True
-Carl Setterwall,M,Sweden-3,SWE,1912,Stockholm,Tennis,"Tennis Mixed Doubles, Covered Courts",Bronze,Tennis,TEN,False
-Charles Wennergren,M,Sweden-3,SWE,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Charles Wennergren,M,Sweden-3,SWE,1912,Stockholm,Tennis,"Tennis Men's Doubles, Covered Courts",No medal,Tennis,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carl-Olof Nyln,M,Sweden-3,SWE,1912,Stockholm,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Carl-Olof Nyln,M,Sweden-3,SWE,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Carl-Olof Nyln,M,Sweden-3,SWE,1912,Stockholm,Tennis,"Tennis Men's Doubles, Covered Courts",No medal,Tennis,TEN,True,True
+Carl Setterwall,M,Sweden-3,SWE,1912,Stockholm,Tennis,"Tennis Mixed Doubles, Covered Courts",Bronze,Tennis,TEN,False,True
+Charles Wennergren,M,Sweden-3,SWE,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Charles Wennergren,M,Sweden-3,SWE,1912,Stockholm,Tennis,"Tennis Men's Doubles, Covered Courts",No medal,Tennis,TEN,True,True

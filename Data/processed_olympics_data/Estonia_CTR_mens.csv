@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andrus Aug,M,Estonia,EST,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Lauri Aus,M,Estonia,EST,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Lauri Aus,M,Estonia,EST,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Lauri Aus,M,Estonia,EST,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Lauri Aus,M,Estonia,EST,2000,Sydney,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Tanel Kangert,M,Estonia,EST,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Tanel Kangert,M,Estonia,EST,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jaan Kirsipuu,M,Estonia,EST,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jaan Kirsipuu,M,Estonia,EST,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jaan Kirsipuu,M,Estonia,EST,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Raido Kodanipork,M,Estonia,EST,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Raido Kodanipork,M,Estonia,EST,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Sigvard Kukk,M,Estonia,EST,2004,Athina,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Andres Lauk,M,Estonia,EST,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Alges Maasikmets,M,Estonia,EST,1996,Atlanta,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Innar Mndoja,M,Estonia,EST,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Rene Mandri,M,Estonia,EST,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Daniel Novikov,M,Estonia,EST,2008,Beijing,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,False
-Erki Ptsep,M,Estonia,EST,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Erki Ptsep,M,Estonia,EST,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Lauri Resik,M,Estonia,EST,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Rein Taarame,M,Estonia,EST,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Rein Taarame,M,Estonia,EST,2008,Beijing,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Rein Taarame,M,Estonia,EST,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Janek Tombak,M,Estonia,EST,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Janek Tombak,M,Estonia,EST,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andrus Aug,M,Estonia,EST,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Lauri Aus,M,Estonia,EST,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Lauri Aus,M,Estonia,EST,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Lauri Aus,M,Estonia,EST,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Lauri Aus,M,Estonia,EST,2000,Sydney,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False
+Tanel Kangert,M,Estonia,EST,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Tanel Kangert,M,Estonia,EST,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Jaan Kirsipuu,M,Estonia,EST,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Jaan Kirsipuu,M,Estonia,EST,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Jaan Kirsipuu,M,Estonia,EST,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Raido Kodanipork,M,Estonia,EST,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Raido Kodanipork,M,Estonia,EST,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Sigvard Kukk,M,Estonia,EST,2004,Athina,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Andres Lauk,M,Estonia,EST,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Alges Maasikmets,M,Estonia,EST,1996,Atlanta,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Innar Mndoja,M,Estonia,EST,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Rene Mandri,M,Estonia,EST,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Daniel Novikov,M,Estonia,EST,2008,Beijing,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,False,True
+Erki Ptsep,M,Estonia,EST,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Erki Ptsep,M,Estonia,EST,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Lauri Resik,M,Estonia,EST,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Rein Taarame,M,Estonia,EST,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Rein Taarame,M,Estonia,EST,2008,Beijing,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,True
+Rein Taarame,M,Estonia,EST,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Janek Tombak,M,Estonia,EST,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Janek Tombak,M,Estonia,EST,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False

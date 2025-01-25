@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kim Sun-woo,F,South Korea,KOR,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Yang Su-jin,F,South Korea,KOR,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Yun Cho-rong,F,South Korea,KOR,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Sehee Kim,F,South Korea,KOR,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False
-Sunwoo Kim,F,South Korea,KOR,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kim Sun-woo,F,South Korea,KOR,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Yang Su-jin,F,South Korea,KOR,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Yun Cho-rong,F,South Korea,KOR,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Sehee Kim,F,South Korea,KOR,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False,True
+Sunwoo Kim,F,South Korea,KOR,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False,True

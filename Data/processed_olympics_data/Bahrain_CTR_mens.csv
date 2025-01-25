@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jamal Al-doseri,M,Bahrain,BRN,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jamal Al-doseri,M,Bahrain,BRN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Mamdooh Al-doseri,M,Bahrain,BRN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Saber Hasan,M,Bahrain,BRN,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Saber Hasan,M,Bahrain,BRN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Jameel Kadhem,M,Bahrain,BRN,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jameel Kadhem,M,Bahrain,BRN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jamal Al-doseri,M,Bahrain,BRN,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Jamal Al-doseri,M,Bahrain,BRN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Mamdooh Al-doseri,M,Bahrain,BRN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Saber Hasan,M,Bahrain,BRN,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Saber Hasan,M,Bahrain,BRN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Jameel Kadhem,M,Bahrain,BRN,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Jameel Kadhem,M,Bahrain,BRN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True

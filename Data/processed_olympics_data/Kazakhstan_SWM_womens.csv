@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marina Mulyayeva,F,Kazakhstan,KAZ,2000,Sydney,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Marina Mulyayeva,F,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Marina Mulyayeva,F,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Anastasiya Prilepa,F,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Yuliya Risik,F,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False
-Yekaterina Rudenko,F,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Yekaterina Rudenko,F,Kazakhstan,KAZ,2012,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Yekaterina Rudenko,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Yekaterina Sadovnik,F,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Yelena Skalinskaya,F,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Yelena Skalinskaya,F,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Yevgeniya Yermakova,F,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Yevgeniya Yermakova,F,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Diana Nazarova,F,Kazakhstan,KAZ,2020,Tokyo,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,False
-Xeniya Ignatova,F,Kazakhstan,KAZ,2024,Paris,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marina Mulyayeva,F,Kazakhstan,KAZ,2000,Sydney,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Marina Mulyayeva,F,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Marina Mulyayeva,F,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Anastasiya Prilepa,F,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Yuliya Risik,F,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Yekaterina Rudenko,F,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Yekaterina Rudenko,F,Kazakhstan,KAZ,2012,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Yekaterina Rudenko,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Yekaterina Sadovnik,F,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Yelena Skalinskaya,F,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Yelena Skalinskaya,F,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Yevgeniya Yermakova,F,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Yevgeniya Yermakova,F,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Diana Nazarova,F,Kazakhstan,KAZ,2020,Tokyo,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,False,True
+Xeniya Ignatova,F,Kazakhstan,KAZ,2024,Paris,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,False,True

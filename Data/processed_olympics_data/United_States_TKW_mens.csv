@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Terrence Jennings,M,United States,USA,2012,London,Taekwondo,Taekwondo Men's Featherweight,Bronze,Taekwondo,TKW,False
-Stephen Lambdin,M,United States,USA,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False
-Mark Lopez,M,United States,USA,2008,Beijing,Taekwondo,Taekwondo Men's Featherweight,Silver,Taekwondo,TKW,False
-Steven Lopez,M,United States,USA,2000,Sydney,Taekwondo,Taekwondo Men's Featherweight,Gold,Taekwondo,TKW,True
-Steven Lopez,M,United States,USA,2004,Athina,Taekwondo,Taekwondo Men's Welterweight,Gold,Taekwondo,TKW,True
-Steven Lopez,M,United States,USA,2008,Beijing,Taekwondo,Taekwondo Men's Welterweight,Bronze,Taekwondo,TKW,True
-Steven Lopez,M,United States,USA,2012,London,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,True
-Steven Lopez,M,United States,USA,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,True
-Juan Moreno,M,United States,USA,2000,Sydney,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Jonathan Healy,M,United States,USA,2024,Paris,Taekwondo,Men +80kg,No medal,Men,TKW,False
-Cj Nickolas,M,United States,USA,2024,Paris,Taekwondo,Men -80kg,No medal,Men,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Terrence Jennings,M,United States,USA,2012,London,Taekwondo,Taekwondo Men's Featherweight,Bronze,Taekwondo,TKW,False,True
+Stephen Lambdin,M,United States,USA,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False,True
+Mark Lopez,M,United States,USA,2008,Beijing,Taekwondo,Taekwondo Men's Featherweight,Silver,Taekwondo,TKW,False,True
+Steven Lopez,M,United States,USA,2000,Sydney,Taekwondo,Taekwondo Men's Featherweight,Gold,Taekwondo,TKW,True,True
+Steven Lopez,M,United States,USA,2004,Athina,Taekwondo,Taekwondo Men's Welterweight,Gold,Taekwondo,TKW,True,False
+Steven Lopez,M,United States,USA,2008,Beijing,Taekwondo,Taekwondo Men's Welterweight,Bronze,Taekwondo,TKW,True,False
+Steven Lopez,M,United States,USA,2012,London,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,True,False
+Steven Lopez,M,United States,USA,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,True,False
+Juan Moreno,M,United States,USA,2000,Sydney,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Jonathan Healy,M,United States,USA,2024,Paris,Taekwondo,Men +80kg,No medal,Men,TKW,False,True
+Cj Nickolas,M,United States,USA,2024,Paris,Taekwondo,Men -80kg,No medal,Men,TKW,False,True

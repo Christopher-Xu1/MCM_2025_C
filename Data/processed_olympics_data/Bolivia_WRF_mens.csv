@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Leonardo Camacho,M,Bolivia,BOL,1984,Los Angeles,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Leonardo Camacho,M,Bolivia,BOL,1984,Los Angeles,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True

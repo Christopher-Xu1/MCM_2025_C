@@ -1,50 +1,50 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Violet Barasa,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Violet Barasa,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Edna Chepngeno,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Margaret Indakala,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Philister Kitur,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Leonidas Kamende,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Maria Kochwa,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Jacqueline Makokha,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Dorcas Ndasaba,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Dorcas Ndasaba,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Gladys Nasikanda,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Gladys Nasikanda,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Nancy Nyongesa,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Roselidah Obunaga,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Roselidah Obunaga,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Judith Serenge,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Judith Serenge,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Abigael Tarus,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Janet Wanja,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Doris Wanjala-wefwafwa,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Catherine Wanjiru,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Nancy Waswa,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Emily Wesutila,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Mercy Wesutila,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Emmaculate Chemtai,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Ekaru Emaniman,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Pamela Jepkirui,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Chebet Kaei,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True
-Leonida Kasaya,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True
-Chepchumba Kiprono,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True
-Khayesi Kundu,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True
-Joy Lusenaka,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Mercy Moim,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Edith Mukuvilani,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True
-Noel Murambi,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Wacu Wairimu,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Masitsa Simiyu,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False
-Khayesi Kundu,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,True
-Trizah Atuka,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False
-Adhiambo Owino,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False
-Chepchumba Kiprono,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,True
-Edith Mukuvilani,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,True
-Leonida Kasaya,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,True
-Nekesa Misoki,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False
-Kemene Mutinda,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False
-Juliana Namutira,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False
-Chebet Kaei,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,True
-Nanjala Barasa,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False
-Adhiambo Oluoch,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Violet Barasa,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Violet Barasa,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,False
+Edna Chepngeno,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Margaret Indakala,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Philister Kitur,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Leonidas Kamende,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Maria Kochwa,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Jacqueline Makokha,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Dorcas Ndasaba,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Dorcas Ndasaba,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,False
+Gladys Nasikanda,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Gladys Nasikanda,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,False
+Nancy Nyongesa,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Roselidah Obunaga,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Roselidah Obunaga,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,False
+Judith Serenge,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Judith Serenge,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,False
+Abigael Tarus,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Janet Wanja,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Doris Wanjala-wefwafwa,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Catherine Wanjiru,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Nancy Waswa,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Emily Wesutila,F,Kenya,KEN,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Mercy Wesutila,F,Kenya,KEN,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Emmaculate Chemtai,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Ekaru Emaniman,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Pamela Jepkirui,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Chebet Kaei,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True,True
+Leonida Kasaya,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True,True
+Chepchumba Kiprono,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True,True
+Khayesi Kundu,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True,True
+Joy Lusenaka,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Mercy Moim,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Edith Mukuvilani,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True,True
+Noel Murambi,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Wacu Wairimu,F,Kenya,KEN,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Masitsa Simiyu,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False,True
+Khayesi Kundu,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,True,False
+Trizah Atuka,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False,True
+Adhiambo Owino,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False,True
+Chepchumba Kiprono,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,True,False
+Edith Mukuvilani,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,True,False
+Leonida Kasaya,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,True,False
+Nekesa Misoki,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False,True
+Kemene Mutinda,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False,True
+Juliana Namutira,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False,True
+Chebet Kaei,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,True,False
+Nanjala Barasa,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False,True
+Adhiambo Oluoch,F,Kenya,KEN,2024,Paris,Volleyball,Women,No medal,Women,VVO,False,True

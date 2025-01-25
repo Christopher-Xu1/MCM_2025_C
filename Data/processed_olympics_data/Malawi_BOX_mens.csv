@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Peter Ayesu,M,Malawi,MAW,1984,Los Angeles,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True
-Peter Ayesu,M,Malawi,MAW,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True
-Phillimon Ayesu,M,Malawi,MAW,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Tatu Chionga,M,Malawi,MAW,1972,Munich,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Ali Faki,M,Malawi,MAW,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Fletcher Kapito,M,Malawi,MAW,1984,Los Angeles,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Solomon Kondowe,M,Malawi,MAW,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Shekie Kongo,M,Malawi,MAW,1972,Munich,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-M'tendere Makalamba,M,Malawi,MAW,1988,Seoul,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Evance Malenga,M,Malawi,MAW,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-John Mkangala,M,Malawi,MAW,1988,Seoul,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Lyton Mphande,M,Malawi,MAW,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Helman Palije,M,Malawi,MAW,1988,Seoul,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Boston Simbeye,M,Malawi,MAW,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Drake Thadzi,M,Malawi,MAW,1984,Los Angeles,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Jungle Thangata,M,Malawi,MAW,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Peter Ayesu,M,Malawi,MAW,1984,Los Angeles,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True,True
+Peter Ayesu,M,Malawi,MAW,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True,False
+Phillimon Ayesu,M,Malawi,MAW,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Tatu Chionga,M,Malawi,MAW,1972,Munich,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Ali Faki,M,Malawi,MAW,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Fletcher Kapito,M,Malawi,MAW,1984,Los Angeles,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Solomon Kondowe,M,Malawi,MAW,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Shekie Kongo,M,Malawi,MAW,1972,Munich,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+M'tendere Makalamba,M,Malawi,MAW,1988,Seoul,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Evance Malenga,M,Malawi,MAW,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+John Mkangala,M,Malawi,MAW,1988,Seoul,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Lyton Mphande,M,Malawi,MAW,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Helman Palije,M,Malawi,MAW,1988,Seoul,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Boston Simbeye,M,Malawi,MAW,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Drake Thadzi,M,Malawi,MAW,1984,Los Angeles,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Jungle Thangata,M,Malawi,MAW,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True

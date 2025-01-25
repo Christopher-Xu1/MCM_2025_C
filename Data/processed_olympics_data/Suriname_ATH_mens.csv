@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tommy Asinga,M,Suriname,SUR,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Tommy Asinga,M,Suriname,SUR,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Tommy Asinga,M,Suriname,SUR,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Roy Bottse,M,Suriname,SUR,1976,Montreal,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Siegfried Cruden,M,Suriname,SUR,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Siegfried Cruden,M,Suriname,SUR,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Guillermo Dongo,M,Suriname,SUR,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Eduard Monsels,M,Suriname,SUR,1968,Mexico City,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Samuel Monsels,M,Suriname,SUR,1972,Munich,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Samuel Monsels,M,Suriname,SUR,1972,Munich,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Samuel Monsels,M,Suriname,SUR,1976,Montreal,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Samuel Monsels,M,Suriname,SUR,1976,Montreal,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Tito Rodrigues,M,Suriname,SUR,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Cornelis Sibe,M,Suriname,SUR,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Jurgen Themen,M,Suriname,SUR,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Jurgen Themen,M,Suriname,SUR,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Jurgen Themen,M,Suriname,SUR,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Jalen Lisse,M,Suriname,SUR,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tommy Asinga,M,Suriname,SUR,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Tommy Asinga,M,Suriname,SUR,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Tommy Asinga,M,Suriname,SUR,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Roy Bottse,M,Suriname,SUR,1976,Montreal,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Siegfried Cruden,M,Suriname,SUR,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Siegfried Cruden,M,Suriname,SUR,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Guillermo Dongo,M,Suriname,SUR,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Eduard Monsels,M,Suriname,SUR,1968,Mexico City,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Samuel Monsels,M,Suriname,SUR,1972,Munich,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Samuel Monsels,M,Suriname,SUR,1972,Munich,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Samuel Monsels,M,Suriname,SUR,1976,Montreal,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Samuel Monsels,M,Suriname,SUR,1976,Montreal,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Tito Rodrigues,M,Suriname,SUR,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Cornelis Sibe,M,Suriname,SUR,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Jurgen Themen,M,Suriname,SUR,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Jurgen Themen,M,Suriname,SUR,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Jurgen Themen,M,Suriname,SUR,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Jalen Lisse,M,Suriname,SUR,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True

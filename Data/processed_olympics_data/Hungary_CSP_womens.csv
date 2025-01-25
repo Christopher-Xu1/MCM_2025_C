@@ -1,31 +1,31 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Virag Balla,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Virag Balla,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True
-Dora Bodonyi,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,Bronze,Women's,CSP,True
-Dora Bodonyi,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Gold,Women's,CSP,True
-Tamara Csipes,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,Silver,Women's,CSP,True
-Tamara Csipes,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
-Tamara Csipes,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Gold,Women's,CSP,True
-Anna Karasz,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True
-Anna Karasz,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Gold,Women's,CSP,True
-Danuta Kozak,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Danuta Kozak,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,Bronze,Women's,CSP,True
-Danuta Kozak,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Gold,Women's,CSP,True
-Dora Lucz,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,False
-Erika Medveczky,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,False
-Kincso Takacs,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Kincso Takacs,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True
-Tamara Csipes,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,Silver,Women's,CSP,True
-Tamara Csipes,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,Silver,Women's,CSP,True
-Tamara Csipes,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Bronze,Women's,CSP,True
-Sara Fojt,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,Bronze,Women's,CSP,True
-Sara Fojt,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Bronze,Women's,CSP,True
-Dora Gazso,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Dora Gazso,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,Silver,Women's,CSP,True
-Dora Gazso,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Bronze,Women's,CSP,True
-Anna Kiss,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Anna Kiss,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,True
-Bianka Nagy,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,False
-Noemi Pupp,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,Bronze,Women's,CSP,True
-Noemi Pupp,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Bronze,Women's,CSP,True
-Kincso Takacs,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Virag Balla,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Virag Balla,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True,True
+Dora Bodonyi,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,Bronze,Women's,CSP,True,True
+Dora Bodonyi,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Gold,Women's,CSP,True,True
+Tamara Csipes,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,Silver,Women's,CSP,True,True
+Tamara Csipes,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True
+Tamara Csipes,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Gold,Women's,CSP,True,True
+Anna Karasz,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True,True
+Anna Karasz,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Gold,Women's,CSP,True,True
+Danuta Kozak,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Danuta Kozak,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,Bronze,Women's,CSP,True,True
+Danuta Kozak,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Gold,Women's,CSP,True,True
+Dora Lucz,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,False,True
+Erika Medveczky,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,False,True
+Kincso Takacs,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Kincso Takacs,F,Hungary,HUN,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True,True
+Tamara Csipes,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,Silver,Women's,CSP,True,False
+Tamara Csipes,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,Silver,Women's,CSP,True,False
+Tamara Csipes,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Bronze,Women's,CSP,True,False
+Sara Fojt,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,Bronze,Women's,CSP,True,True
+Sara Fojt,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Bronze,Women's,CSP,True,True
+Dora Gazso,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Dora Gazso,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,Silver,Women's,CSP,True,True
+Dora Gazso,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Bronze,Women's,CSP,True,True
+Anna Kiss,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Anna Kiss,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,True,True
+Bianka Nagy,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,False,True
+Noemi Pupp,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,Bronze,Women's,CSP,True,True
+Noemi Pupp,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Bronze,Women's,CSP,True,True
+Kincso Takacs,F,Hungary,HUN,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,False

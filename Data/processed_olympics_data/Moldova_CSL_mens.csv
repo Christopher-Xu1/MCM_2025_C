@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nicolae Juravschi,M,Moldova,MDA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",Silver,Canoeing,CSL,True
-Nicolae Juravschi,M,Moldova,MDA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,Canoeing,CSL,True
-Andrei Placinta,M,Moldova,MDA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Singles, 500 metres",No medal,Canoeing,CSL,False
-Victor Reneischi,M,Moldova,MDA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",Silver,Canoeing,CSL,True
-Victor Reneischi,M,Moldova,MDA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,Canoeing,CSL,True
-Vadim Salcutan,M,Moldova,MDA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",No medal,Canoeing,CSL,False
-Oleg Tarnovschi,M,Moldova,MDA,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,Canoeing,CSL,False
-Serghei Tarnovschi,M,Moldova,MDA,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nicolae Juravschi,M,Moldova,MDA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",Silver,Canoeing,CSL,True,True
+Nicolae Juravschi,M,Moldova,MDA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,Canoeing,CSL,True,True
+Andrei Placinta,M,Moldova,MDA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Singles, 500 metres",No medal,Canoeing,CSL,False,True
+Victor Reneischi,M,Moldova,MDA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",Silver,Canoeing,CSL,True,True
+Victor Reneischi,M,Moldova,MDA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,Canoeing,CSL,True,True
+Vadim Salcutan,M,Moldova,MDA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",No medal,Canoeing,CSL,False,True
+Oleg Tarnovschi,M,Moldova,MDA,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,Canoeing,CSL,False,True
+Serghei Tarnovschi,M,Moldova,MDA,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",No medal,Canoeing,CSL,False,True

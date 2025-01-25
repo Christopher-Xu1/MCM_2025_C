@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marcela Mari,F,Croatia,CRO,2016,Rio de Janeiro,Diving,Diving Women's Springboard,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marcela Mari,F,Croatia,CRO,2016,Rio de Janeiro,Diving,Diving Women's Springboard,No medal,Diving,DIV,False,True

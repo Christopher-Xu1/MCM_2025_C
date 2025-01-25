@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Charley Hull,F,United Kingdom,GBR,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,True
-Catriona (lambert-),F,United Kingdom,GBR,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False
-Jodi Ewart,F,United Kingdom,GBR,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
-Mel Reid,F,United Kingdom,GBR,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
-Georgia Hall,F,United Kingdom,GBR,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
-Charley Hull,F,United Kingdom,GBR,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Charley Hull,F,United Kingdom,GBR,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,True,True
+Catriona (lambert-),F,United Kingdom,GBR,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False,True
+Jodi Ewart,F,United Kingdom,GBR,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True
+Mel Reid,F,United Kingdom,GBR,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True
+Georgia Hall,F,United Kingdom,GBR,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True
+Charley Hull,F,United Kingdom,GBR,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,False

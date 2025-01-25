@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Katana Prokeov,F,Slovakia,SVK,2004,Athina,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Katana Prokeov,F,Slovakia,SVK,2004,Athina,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False,True

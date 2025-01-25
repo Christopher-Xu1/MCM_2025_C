@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-David Bratton,M,New York Athletic Club-1,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-Leo Goodwin,M,New York Athletic Club-1,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-Louis Handley,M,New York Athletic Club-1,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-David Hesser,M,New York Athletic Club-1,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-Joseph Sr.,M,New York Athletic Club-1,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-James Steen,M,New York Athletic Club-1,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-George Cleaf,M,New York Athletic Club-1,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+David Bratton,M,New York Athletic Club-1,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+Leo Goodwin,M,New York Athletic Club-1,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+Louis Handley,M,New York Athletic Club-1,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+David Hesser,M,New York Athletic Club-1,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+Joseph Sr.,M,New York Athletic Club-1,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+James Steen,M,New York Athletic Club-1,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+George Cleaf,M,New York Athletic Club-1,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True

@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Magdalena Moshi,F,Tanzania,TAN,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Magdalena Moshi,F,Tanzania,TAN,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Magdalena Moshi,F,Tanzania,TAN,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Sophia Latiff,F,Tanzania,TAN,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Magdalena Moshi,F,Tanzania,TAN,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Magdalena Moshi,F,Tanzania,TAN,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Magdalena Moshi,F,Tanzania,TAN,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Sophia Latiff,F,Tanzania,TAN,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True

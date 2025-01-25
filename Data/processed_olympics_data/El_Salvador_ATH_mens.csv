@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jos Astacio,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Jos Astacio,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Rubn Bentez,M,El Salvador,ESA,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Luis Campos,M,El Salvador,ESA,1984,Los Angeles,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False
-Roberto Braa,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False
-Efran Cordero,M,El Salvador,ESA,1968,Mexico City,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
-Ricardo Flores,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,False
-Alfredo Borges,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Alfredo Borges,M,El Salvador,ESA,1968,Mexico City,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Takeshi Salazar,M,El Salvador,ESA,2004,Athina,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Carlos Zablah,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's Hammer Throw,No medal,Athletics,ATH,False
-Emerson Hernndez,M,El Salvador,ESA,2012,London,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,False
-Angelo Iannuzzelli,M,El Salvador,ESA,1992,Barcelona,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,False
-Mauricio Zacaras,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,True
-Mauricio Zacaras,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
-Lus Menjivar,M,El Salvador,ESA,2016,Rio de Janeiro,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,False
-Ren Escobar,M,El Salvador,ESA,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Santiago Mellado,M,El Salvador,ESA,1988,Seoul,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,False
-Salvador Vsquez,M,El Salvador,ESA,2008,Beijing,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,False
-Herbert Rodrguez,M,El Salvador,ESA,1992,Barcelona,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,False
-Aldo Bove,M,El Salvador,ESA,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Aldo Bove,M,El Salvador,ESA,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Rafael Cisneros,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Edgardo Rodas,M,El Salvador,ESA,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Andres Salazar,M,El Salvador,ESA,2020,Tokyo,Athletics,Men's 200m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jos Astacio,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Jos Astacio,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Rubn Bentez,M,El Salvador,ESA,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Luis Campos,M,El Salvador,ESA,1984,Los Angeles,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False,True
+Roberto Braa,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False,True
+Efran Cordero,M,El Salvador,ESA,1968,Mexico City,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False,True
+Ricardo Flores,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,False,True
+Alfredo Borges,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Alfredo Borges,M,El Salvador,ESA,1968,Mexico City,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Takeshi Salazar,M,El Salvador,ESA,2004,Athina,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Carlos Zablah,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's Hammer Throw,No medal,Athletics,ATH,False,True
+Emerson Hernndez,M,El Salvador,ESA,2012,London,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,False,True
+Angelo Iannuzzelli,M,El Salvador,ESA,1992,Barcelona,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,False,True
+Mauricio Zacaras,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,True,True
+Mauricio Zacaras,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True,True
+Lus Menjivar,M,El Salvador,ESA,2016,Rio de Janeiro,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,False,True
+Ren Escobar,M,El Salvador,ESA,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Santiago Mellado,M,El Salvador,ESA,1988,Seoul,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,False,True
+Salvador Vsquez,M,El Salvador,ESA,2008,Beijing,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,False,True
+Herbert Rodrguez,M,El Salvador,ESA,1992,Barcelona,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,False,True
+Aldo Bove,M,El Salvador,ESA,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Aldo Bove,M,El Salvador,ESA,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Rafael Cisneros,M,El Salvador,ESA,1968,Mexico City,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Edgardo Rodas,M,El Salvador,ESA,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Andres Salazar,M,El Salvador,ESA,2020,Tokyo,Athletics,Men's 200m,No medal,Men's,ATH,False,True

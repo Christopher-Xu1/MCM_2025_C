@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Iuliia Kaplina,F,Russia,ROC,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,False
-Viktoriia Meshkova,F,Russia,ROC,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Iuliia Kaplina,F,Russia,ROC,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,False,True
+Viktoriia Meshkova,F,Russia,ROC,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,False,True

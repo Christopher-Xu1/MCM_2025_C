@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Teresa Borrell,F,New Zealand,NZL,2000,Sydney,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,False
-Tania Corrigan,F,New Zealand,NZL,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Tania Corrigan,F,New Zealand,NZL,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Jocelyne (-wakeling),F,New Zealand,NZL,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Natalie Rooney,F,New Zealand,NZL,2016,Rio de Janeiro,Shooting,Shooting Women's Trap,Silver,Shooting,SHO,True
-Nadine Stanton,F,New Zealand,NZL,2004,Athina,Shooting,Shooting Women's Double Trap,No medal,Shooting,SHO,True
-Nadine Stanton,F,New Zealand,NZL,2008,Beijing,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True
-Chloe Tipple,F,New Zealand,NZL,2016,Rio de Janeiro,Shooting,Shooting Women's Skeet,No medal,Shooting,SHO,True
-Natalie Rooney,F,New Zealand,NZL,2020,Tokyo,Shooting,Trap Women,No medal,Trap,SHO,True
-Chloe Tipple,F,New Zealand,NZL,2020,Tokyo,Shooting,Skeet Women,No medal,Skeet,SHO,True
-Chloe Tipple,F,New Zealand,NZL,2024,Paris,Shooting,Skeet Women,No medal,Skeet,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Teresa Borrell,F,New Zealand,NZL,2000,Sydney,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,False,True
+Tania Corrigan,F,New Zealand,NZL,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Tania Corrigan,F,New Zealand,NZL,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Jocelyne (-wakeling),F,New Zealand,NZL,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Natalie Rooney,F,New Zealand,NZL,2016,Rio de Janeiro,Shooting,Shooting Women's Trap,Silver,Shooting,SHO,True,True
+Nadine Stanton,F,New Zealand,NZL,2004,Athina,Shooting,Shooting Women's Double Trap,No medal,Shooting,SHO,True,True
+Nadine Stanton,F,New Zealand,NZL,2008,Beijing,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True,False
+Chloe Tipple,F,New Zealand,NZL,2016,Rio de Janeiro,Shooting,Shooting Women's Skeet,No medal,Shooting,SHO,True,True
+Natalie Rooney,F,New Zealand,NZL,2020,Tokyo,Shooting,Trap Women,No medal,Trap,SHO,True,False
+Chloe Tipple,F,New Zealand,NZL,2020,Tokyo,Shooting,Skeet Women,No medal,Skeet,SHO,True,False
+Chloe Tipple,F,New Zealand,NZL,2024,Paris,Shooting,Skeet Women,No medal,Skeet,SHO,True,False

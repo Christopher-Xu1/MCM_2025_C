@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aleksandr Bryukhankov,M,Russia,RUS,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Aleksandr Bryukhankov,M,Russia,RUS,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Aleksandr Bryukhankov,M,Russia,RUS,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Dmitry Polyansky,M,Russia,RUS,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Dmitry Polyansky,M,Russia,RUS,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Dmitry Polyansky,M,Russia,RUS,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Igor Polyansky,M,Russia,RUS,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Igor Sysoyev,M,Russia,RUS,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Igor Sysoyev,M,Russia,RUS,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Ivan Vasilyev,M,Russia,RUS,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Dmitry Polyanskiy,M,Russia,ROC,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Dmitry Polyanskiy,M,Russia,ROC,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Igor Polyanskiy,M,Russia,ROC,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Igor Polyanskiy,M,Russia,ROC,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aleksandr Bryukhankov,M,Russia,RUS,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Aleksandr Bryukhankov,M,Russia,RUS,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Aleksandr Bryukhankov,M,Russia,RUS,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Dmitry Polyansky,M,Russia,RUS,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Dmitry Polyansky,M,Russia,RUS,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Dmitry Polyansky,M,Russia,RUS,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Igor Polyansky,M,Russia,RUS,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Igor Sysoyev,M,Russia,RUS,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Igor Sysoyev,M,Russia,RUS,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Ivan Vasilyev,M,Russia,RUS,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Dmitry Polyanskiy,M,Russia,ROC,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Dmitry Polyanskiy,M,Russia,ROC,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Igor Polyanskiy,M,Russia,ROC,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Igor Polyanskiy,M,Russia,ROC,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True

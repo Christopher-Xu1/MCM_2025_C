@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andr-Frdric Firmenich,M,Ylliam Ii,SUI,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Charles Firmenich,M,Ylliam Ii,SUI,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Georges Firmenich,M,Ylliam Ii,SUI,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Alexandre Gelbert,M,Ylliam Ii,SUI,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Louis Noverraz,M,Ylliam Ii,SUI,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andr-Frdric Firmenich,M,Ylliam Ii,SUI,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Charles Firmenich,M,Ylliam Ii,SUI,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Georges Firmenich,M,Ylliam Ii,SUI,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Alexandre Gelbert,M,Ylliam Ii,SUI,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Louis Noverraz,M,Ylliam Ii,SUI,1936,Berlin,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

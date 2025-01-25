@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dmytro Andriyev,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Ihor Horbach,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Vadym Kebalo,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Vitaliy Khalchaytskiy,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-V'iacheslav Kostanda,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Andriy Kovalenko,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Oleksandr Potulnytskiy,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Vadym Rozhdestvenskiy,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Vadym Skuratov,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Anatoliy Solodun,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Dmitry Stratan,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Oleh Volodymyrov,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Oleksiy Yehorov,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dmytro Andriyev,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Ihor Horbach,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Vadym Kebalo,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Vitaliy Khalchaytskiy,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+V'iacheslav Kostanda,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Andriy Kovalenko,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Oleksandr Potulnytskiy,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Vadym Rozhdestvenskiy,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Vadym Skuratov,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Anatoliy Solodun,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Dmitry Stratan,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Oleh Volodymyrov,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Oleksiy Yehorov,M,Ukraine,UKR,1996,Atlanta,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True

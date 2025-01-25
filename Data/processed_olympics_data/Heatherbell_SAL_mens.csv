@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Max Alfthan,M,Heatherbell,FIN,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Bronze,Sailing,SAL,False
-Knut Hartvall,M,Heatherbell,FIN,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Bronze,Sailing,SAL,False
-Viking Hulldn,M,Heatherbell,FIN,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Bronze,Sailing,SAL,False
-Sigurd Jusln,M,Heatherbell,FIN,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Bronze,Sailing,SAL,False
-Ernst Krogius,M,Heatherbell,FIN,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Bronze,Sailing,SAL,False
-Eino Sandelin,M,Heatherbell,FIN,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Bronze,Sailing,SAL,False
-Johan Siln,M,Heatherbell,FIN,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Max Alfthan,M,Heatherbell,FIN,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Bronze,Sailing,SAL,False,True
+Knut Hartvall,M,Heatherbell,FIN,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Bronze,Sailing,SAL,False,True
+Viking Hulldn,M,Heatherbell,FIN,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Bronze,Sailing,SAL,False,True
+Sigurd Jusln,M,Heatherbell,FIN,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Bronze,Sailing,SAL,False,True
+Ernst Krogius,M,Heatherbell,FIN,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Bronze,Sailing,SAL,False,True
+Eino Sandelin,M,Heatherbell,FIN,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Bronze,Sailing,SAL,False,True
+Johan Siln,M,Heatherbell,FIN,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Bronze,Sailing,SAL,False,True

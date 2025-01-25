@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jacinto Benjamin,M,Dominican Republic,DOM,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Guillermo Gonzlez,M,Dominican Republic,DOM,2000,Sydney,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,False
-Jhonny Urea,M,Dominican Republic,DOM,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Nicholas Alfaro,M,Dominican Republic,DOM,2012,London,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
-Josue Dominguez,M,Dominican Republic,DOM,2020,Tokyo,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,True
-Josue Dominguez,M,Dominican Republic,DOM,2020,Tokyo,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True
-Javier Nunez,M,Dominican Republic,DOM,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jacinto Benjamin,M,Dominican Republic,DOM,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Guillermo Gonzlez,M,Dominican Republic,DOM,2000,Sydney,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,False,True
+Jhonny Urea,M,Dominican Republic,DOM,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Nicholas Alfaro,M,Dominican Republic,DOM,2012,London,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Josue Dominguez,M,Dominican Republic,DOM,2020,Tokyo,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,True,True
+Josue Dominguez,M,Dominican Republic,DOM,2020,Tokyo,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True,True
+Javier Nunez,M,Dominican Republic,DOM,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True

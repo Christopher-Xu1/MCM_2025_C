@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Geoffrey Mandy,M,South Africa,RSA,1948,London,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Craig Vaughan,M,South Africa,RSA,1992,Barcelona,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Willem Welgemoed,M,South Africa,RSA,1952,Helsinki,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Geoffrey Mandy,M,South Africa,RSA,1948,London,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Craig Vaughan,M,South Africa,RSA,1992,Barcelona,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Willem Welgemoed,M,South Africa,RSA,1952,Helsinki,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True

@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Roman Anoshkin,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
-Roman Anoshkin,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Double 1000m Team,No medal,Men's,CSP,True
-Roman Anoshkin,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,True
-Vladislav Chebotar,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True
-Vladislav Chebotar,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,True
-Oleg Gusev,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Single 200m,No medal,Men's,CSP,False
-Artem Kuzakhmetov,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,False
-Evgenii Lukantsov,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Single 200m,No medal,Men's,CSP,False
-Viktor Melantev,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True
-Viktor Melantev,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,True
-Aleksandr Sergeev,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,False
-Maxim Spesivtsev,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
-Maxim Spesivtsev,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Double 1000m Team,No medal,Men's,CSP,True
-Maxim Spesivtsev,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,True
-Uladzislau Kravets,M,Russia,AIN,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,False
-Alexey Korovashkov,M,Russia,AIN,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,False
-Zakhar Petrov,M,Russia,AIN,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True
-Zakhar Petrov,M,Russia,AIN,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Roman Anoshkin,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True,True
+Roman Anoshkin,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Double 1000m Team,No medal,Men's,CSP,True,True
+Roman Anoshkin,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,True,True
+Vladislav Chebotar,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True,True
+Vladislav Chebotar,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,True,True
+Oleg Gusev,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Single 200m,No medal,Men's,CSP,False,True
+Artem Kuzakhmetov,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,False,True
+Evgenii Lukantsov,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Single 200m,No medal,Men's,CSP,False,True
+Viktor Melantev,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True,True
+Viktor Melantev,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,True,True
+Aleksandr Sergeev,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,False,True
+Maxim Spesivtsev,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True,True
+Maxim Spesivtsev,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Double 1000m Team,No medal,Men's,CSP,True,True
+Maxim Spesivtsev,M,Russia,ROC,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,True,True
+Uladzislau Kravets,M,Russia,AIN,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,False,True
+Alexey Korovashkov,M,Russia,AIN,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,False,True
+Zakhar Petrov,M,Russia,AIN,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True,True
+Zakhar Petrov,M,Russia,AIN,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,True,True

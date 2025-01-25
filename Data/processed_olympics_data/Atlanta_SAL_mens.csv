@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Halvor (olsen-),M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Rasmus (olsen-),M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Lauritz Christiansen,M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Halvor (-kolbeinsvik),M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Henrik (austevold-),M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Jan (austevold-),M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Kristian (austevold-),M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Ole (austevold-),M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Hans Stoermann-nss,M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Halvor (olsen-),M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Rasmus (olsen-),M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Lauritz Christiansen,M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Halvor (-kolbeinsvik),M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Henrik (austevold-),M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Jan (austevold-),M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Kristian (austevold-),M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Ole (austevold-),M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Hans Stoermann-nss,M,Atlanta,NOR,1920,Antwerpen,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True

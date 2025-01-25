@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Shinobu Asagoe,F,Japan-2,JPN,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Ai Sugiyama,F,Japan-2,JPN,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Shinobu Asagoe,F,Japan-2,JPN,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Ai Sugiyama,F,Japan-2,JPN,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True

@@ -1,42 +1,42 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Astrid Hnschen,F,Germany,GER,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Astrid Hnschen,F,Germany,GER,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Anja Hitzler,F,Germany,GER,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Anja Hitzler,F,Germany,GER,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Anja Hitzler,F,Germany,GER,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Barbara Mensing,F,Germany,GER,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Barbara Mensing,F,Germany,GER,1996,Atlanta,Archery,Archery Women's Team,Silver,Archery,ARC,True
-Barbara Mensing,F,Germany,GER,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Barbara Mensing,F,Germany,GER,2000,Sydney,Archery,Archery Women's Team,Bronze,Archery,ARC,True
-Wiebke Nulle,F,Germany,GER,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Wiebke Nulle,F,Germany,GER,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Cornelia (-griem),F,Germany,GER,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Cornelia (-griem),F,Germany,GER,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Cornelia (-griem),F,Germany,GER,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Cornelia (-griem),F,Germany,GER,1996,Atlanta,Archery,Archery Women's Team,Silver,Archery,ARC,True
-Cornelia (-griem),F,Germany,GER,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Cornelia (-griem),F,Germany,GER,2000,Sydney,Archery,Archery Women's Team,Bronze,Archery,ARC,True
-Cornelia (-griem),F,Germany,GER,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Cornelia (-griem),F,Germany,GER,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Elena Richter,F,Germany,GER,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Lisa Unruh,F,Germany,GER,2016,Rio de Janeiro,Archery,Archery Women's Individual,Silver,Archery,ARC,True
-Marion (-kuruc),F,Germany,GER,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Marion (-kuruc),F,Germany,GER,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Sandra Wagner-sachse,F,Germany,GER,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Sandra Wagner-sachse,F,Germany,GER,1996,Atlanta,Archery,Archery Women's Team,Silver,Archery,ARC,True
-Sandra Wagner-sachse,F,Germany,GER,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Sandra Wagner-sachse,F,Germany,GER,2000,Sydney,Archery,Archery Women's Team,Bronze,Archery,ARC,True
-Michelle Kroppen,F,Germany,GER,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Michelle Kroppen,F,Germany,GER,2020,Tokyo,Archery,Women's Team,Bronze,Women's,ARC,True
-Michelle Kroppen,F,Germany,GER,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
-Charline Schwarz,F,Germany,GER,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Charline Schwarz,F,Germany,GER,2020,Tokyo,Archery,Women's Team,Bronze,Women's,ARC,True
-Lisa Unruh,F,Germany,GER,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Lisa Unruh,F,Germany,GER,2020,Tokyo,Archery,Women's Team,Bronze,Women's,ARC,True
-Katharina Bauer,F,Germany,GER,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Katharina Bauer,F,Germany,GER,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True
-Michelle Kroppen,F,Germany,GER,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Michelle Kroppen,F,Germany,GER,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True
-Michelle Kroppen,F,Germany,GER,2024,Paris,Archery,Mixed Team,Silver,Mixed,ARC,True
-Charline Schwarz,F,Germany,GER,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Charline Schwarz,F,Germany,GER,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Astrid Hnschen,F,Germany,GER,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Astrid Hnschen,F,Germany,GER,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Anja Hitzler,F,Germany,GER,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Anja Hitzler,F,Germany,GER,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Anja Hitzler,F,Germany,GER,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Barbara Mensing,F,Germany,GER,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Barbara Mensing,F,Germany,GER,1996,Atlanta,Archery,Archery Women's Team,Silver,Archery,ARC,True,True
+Barbara Mensing,F,Germany,GER,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Barbara Mensing,F,Germany,GER,2000,Sydney,Archery,Archery Women's Team,Bronze,Archery,ARC,True,False
+Wiebke Nulle,F,Germany,GER,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Wiebke Nulle,F,Germany,GER,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Cornelia (-griem),F,Germany,GER,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Cornelia (-griem),F,Germany,GER,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Cornelia (-griem),F,Germany,GER,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Cornelia (-griem),F,Germany,GER,1996,Atlanta,Archery,Archery Women's Team,Silver,Archery,ARC,True,False
+Cornelia (-griem),F,Germany,GER,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Cornelia (-griem),F,Germany,GER,2000,Sydney,Archery,Archery Women's Team,Bronze,Archery,ARC,True,False
+Cornelia (-griem),F,Germany,GER,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Cornelia (-griem),F,Germany,GER,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Elena Richter,F,Germany,GER,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Lisa Unruh,F,Germany,GER,2016,Rio de Janeiro,Archery,Archery Women's Individual,Silver,Archery,ARC,True,True
+Marion (-kuruc),F,Germany,GER,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Marion (-kuruc),F,Germany,GER,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Sandra Wagner-sachse,F,Germany,GER,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Sandra Wagner-sachse,F,Germany,GER,1996,Atlanta,Archery,Archery Women's Team,Silver,Archery,ARC,True,True
+Sandra Wagner-sachse,F,Germany,GER,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Sandra Wagner-sachse,F,Germany,GER,2000,Sydney,Archery,Archery Women's Team,Bronze,Archery,ARC,True,False
+Michelle Kroppen,F,Germany,GER,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Michelle Kroppen,F,Germany,GER,2020,Tokyo,Archery,Women's Team,Bronze,Women's,ARC,True,True
+Michelle Kroppen,F,Germany,GER,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True
+Charline Schwarz,F,Germany,GER,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Charline Schwarz,F,Germany,GER,2020,Tokyo,Archery,Women's Team,Bronze,Women's,ARC,True,True
+Lisa Unruh,F,Germany,GER,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,False
+Lisa Unruh,F,Germany,GER,2020,Tokyo,Archery,Women's Team,Bronze,Women's,ARC,True,False
+Katharina Bauer,F,Germany,GER,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Katharina Bauer,F,Germany,GER,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True,True
+Michelle Kroppen,F,Germany,GER,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,False
+Michelle Kroppen,F,Germany,GER,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True,False
+Michelle Kroppen,F,Germany,GER,2024,Paris,Archery,Mixed Team,Silver,Mixed,ARC,True,False
+Charline Schwarz,F,Germany,GER,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,False
+Charline Schwarz,F,Germany,GER,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True,False

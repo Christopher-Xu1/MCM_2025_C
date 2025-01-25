@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yoshua Shing,M,Vanuatu,VAN,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Yoshua Shing,M,Vanuatu,VAN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Yoshua Shing,M,Vanuatu,VAN,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yoshua Shing,M,Vanuatu,VAN,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Yoshua Shing,M,Vanuatu,VAN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Yoshua Shing,M,Vanuatu,VAN,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True,False

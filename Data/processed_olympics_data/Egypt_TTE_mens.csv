@@ -1,30 +1,30 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ahmed Saleh,M,Egypt,EGY,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Ahmed Saleh,M,Egypt,EGY,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Khalid Assar,M,Egypt,EGY,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Omar Assar,M,Egypt,EGY,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Omar Assar,M,Egypt,EGY,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Omar Assar,M,Egypt,EGY,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Sherif El-saket,M,Egypt,EGY,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Ashraf Halim,M,Egypt,EGY,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Ashraf Halim,M,Egypt,EGY,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Ashraf Halim,M,Egypt,EGY,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Ashraf Halim,M,Egypt,EGY,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-El-Sayed Lashin,M,Egypt,EGY,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-El-Sayed Lashin,M,Egypt,EGY,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-El-Sayed Lashin,M,Egypt,EGY,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-El-Sayed Lashin,M,Egypt,EGY,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-El-Sayed Lashin,M,Egypt,EGY,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True
-Adel Ibrahim,M,Egypt,EGY,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Khalid Assar,M,Egypt,EGY,2020,Tokyo,Table Tennis,Men's Team,No medal,Men's,TTE,True
-Omar Assar,M,Egypt,EGY,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Omar Assar,M,Egypt,EGY,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,True
-Omar Assar,M,Egypt,EGY,2020,Tokyo,Table Tennis,Men's Team,No medal,Men's,TTE,True
-Ahmed Saleh,M,Egypt,EGY,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Ahmed Saleh,M,Egypt,EGY,2020,Tokyo,Table Tennis,Men's Team,No medal,Men's,TTE,True
-Youssef Abdel-aziz,M,Egypt,EGY,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,False
-Omar Assar,M,Egypt,EGY,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Omar Assar,M,Egypt,EGY,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True
-Mohamed El-beiali,M,Egypt,EGY,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Mohamed El-beiali,M,Egypt,EGY,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True
-Khalid Assar,M,Egypt,EGY,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ahmed Saleh,M,Egypt,EGY,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Ahmed Saleh,M,Egypt,EGY,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,False
+Khalid Assar,M,Egypt,EGY,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Omar Assar,M,Egypt,EGY,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Omar Assar,M,Egypt,EGY,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,True
+Omar Assar,M,Egypt,EGY,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Sherif El-saket,M,Egypt,EGY,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Ashraf Halim,M,Egypt,EGY,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Ashraf Halim,M,Egypt,EGY,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Ashraf Halim,M,Egypt,EGY,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Ashraf Halim,M,Egypt,EGY,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+El-Sayed Lashin,M,Egypt,EGY,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+El-Sayed Lashin,M,Egypt,EGY,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+El-Sayed Lashin,M,Egypt,EGY,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+El-Sayed Lashin,M,Egypt,EGY,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+El-Sayed Lashin,M,Egypt,EGY,2012,London,Table Tennis,Table Tennis Men's Team,No medal,Table,TTE,True,False
+Adel Ibrahim,M,Egypt,EGY,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Khalid Assar,M,Egypt,EGY,2020,Tokyo,Table Tennis,Men's Team,No medal,Men's,TTE,True,False
+Omar Assar,M,Egypt,EGY,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True,False
+Omar Assar,M,Egypt,EGY,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,True,False
+Omar Assar,M,Egypt,EGY,2020,Tokyo,Table Tennis,Men's Team,No medal,Men's,TTE,True,False
+Ahmed Saleh,M,Egypt,EGY,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True,False
+Ahmed Saleh,M,Egypt,EGY,2020,Tokyo,Table Tennis,Men's Team,No medal,Men's,TTE,True,False
+Youssef Abdel-aziz,M,Egypt,EGY,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,False,True
+Omar Assar,M,Egypt,EGY,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True,False
+Omar Assar,M,Egypt,EGY,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True,False
+Mohamed El-beiali,M,Egypt,EGY,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True,True
+Mohamed El-beiali,M,Egypt,EGY,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True,True
+Khalid Assar,M,Egypt,EGY,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True,False

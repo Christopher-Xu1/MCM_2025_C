@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mouhamedou Diop,M,Senegal,SEN,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Mouhamedou Diop,M,Senegal,SEN,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Mouhamedou Diop,M,Senegal,SEN,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Mouhamedou Diop,M,Senegal,SEN,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Mouhamedou Diop,M,Senegal,SEN,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Mouhamedou Diop,M,Senegal,SEN,1992,Barcelona,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Malick Fall,M,Senegal,SEN,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Malick Fall,M,Senegal,SEN,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Malick Fall,M,Senegal,SEN,2004,Athina,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Malick Fall,M,Senegal,SEN,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Malick Fall,M,Senegal,SEN,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Malick Fall,M,Senegal,SEN,2012,London,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Bruno N'diaye,M,Senegal,SEN,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Bruno N'diaye,M,Senegal,SEN,1988,Seoul,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Bruno N'diaye,M,Senegal,SEN,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Bruno N'diaye,M,Senegal,SEN,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Bruno N'diaye,M,Senegal,SEN,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Abdoul Niane,M,Senegal,SEN,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Steven Aimable,M,Senegal,SEN,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False
-Matthieu Seye,M,Senegal,SEN,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mouhamedou Diop,M,Senegal,SEN,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Mouhamedou Diop,M,Senegal,SEN,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Mouhamedou Diop,M,Senegal,SEN,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Mouhamedou Diop,M,Senegal,SEN,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Mouhamedou Diop,M,Senegal,SEN,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Mouhamedou Diop,M,Senegal,SEN,1992,Barcelona,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Malick Fall,M,Senegal,SEN,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Malick Fall,M,Senegal,SEN,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Malick Fall,M,Senegal,SEN,2004,Athina,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Malick Fall,M,Senegal,SEN,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Malick Fall,M,Senegal,SEN,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Malick Fall,M,Senegal,SEN,2012,London,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Bruno N'diaye,M,Senegal,SEN,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Bruno N'diaye,M,Senegal,SEN,1988,Seoul,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Bruno N'diaye,M,Senegal,SEN,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Bruno N'diaye,M,Senegal,SEN,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Bruno N'diaye,M,Senegal,SEN,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Abdoul Niane,M,Senegal,SEN,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Steven Aimable,M,Senegal,SEN,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False,True
+Matthieu Seye,M,Senegal,SEN,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True

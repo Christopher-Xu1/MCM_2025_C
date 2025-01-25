@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andrique Allisop,M,Seychelles,SEY,2012,London,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Andrique Allisop,M,Seychelles,SEY,2016,Rio de Janeiro,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Basil Boniface,M,Seychelles,SEY,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Rival (-payet),M,Seychelles,SEY,1992,Barcelona,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True
-Rival (-payet),M,Seychelles,SEY,1996,Atlanta,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True
-Kitson Julie,M,Seychelles,SEY,2004,Athina,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Jean-Claude Labonte,M,Seychelles,SEY,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Ralph Labrosse,M,Seychelles,SEY,1984,Los Angeles,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Gerry Legras,M,Seychelles,SEY,1996,Atlanta,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Michael Pillay,M,Seychelles,SEY,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Roland Raforme,M,Seychelles,SEY,1992,Barcelona,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Roland Raforme,M,Seychelles,SEY,1996,Atlanta,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Ramy Zialor,M,Seychelles,SEY,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True
-Ramy Zialor,M,Seychelles,SEY,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andrique Allisop,M,Seychelles,SEY,2012,London,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,True
+Andrique Allisop,M,Seychelles,SEY,2016,Rio de Janeiro,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,False
+Basil Boniface,M,Seychelles,SEY,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Rival (-payet),M,Seychelles,SEY,1992,Barcelona,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True,True
+Rival (-payet),M,Seychelles,SEY,1996,Atlanta,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True,False
+Kitson Julie,M,Seychelles,SEY,2004,Athina,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Jean-Claude Labonte,M,Seychelles,SEY,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Ralph Labrosse,M,Seychelles,SEY,1984,Los Angeles,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Gerry Legras,M,Seychelles,SEY,1996,Atlanta,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Michael Pillay,M,Seychelles,SEY,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Roland Raforme,M,Seychelles,SEY,1992,Barcelona,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,True
+Roland Raforme,M,Seychelles,SEY,1996,Atlanta,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,False
+Ramy Zialor,M,Seychelles,SEY,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True,True
+Ramy Zialor,M,Seychelles,SEY,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,False

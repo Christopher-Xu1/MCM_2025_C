@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Silvana Lima,F,Brazil,BRA,2020,Tokyo,Surfing,Women,No medal,Women,SRF,False
-Tatiana Weston-webb,F,Brazil,BRA,2020,Tokyo,Surfing,Women,No medal,Women,SRF,True
-Luana Silva,F,Brazil,BRA,2024,Paris,Surfing,Women,No medal,Women,SRF,False
-Taina Hinckel,F,Brazil,BRA,2024,Paris,Surfing,Women,No medal,Women,SRF,False
-Tatiana Weston-webb,F,Brazil,BRA,2024,Paris,Surfing,Women,Silver,Women,SRF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Silvana Lima,F,Brazil,BRA,2020,Tokyo,Surfing,Women,No medal,Women,SRF,False,True
+Tatiana Weston-webb,F,Brazil,BRA,2020,Tokyo,Surfing,Women,No medal,Women,SRF,True,True
+Luana Silva,F,Brazil,BRA,2024,Paris,Surfing,Women,No medal,Women,SRF,False,True
+Taina Hinckel,F,Brazil,BRA,2024,Paris,Surfing,Women,No medal,Women,SRF,False,True
+Tatiana Weston-webb,F,Brazil,BRA,2024,Paris,Surfing,Women,Silver,Women,SRF,True,False

@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gordon Balfour,M,Argonaut Rowing Club,CAN,1908,London,Rowing,Rowing Men's Coxless Fours,Bronze,Rowing,ROW,False
-Becher Gale,M,Argonaut Rowing Club,CAN,1908,London,Rowing,Rowing Men's Coxless Fours,Bronze,Rowing,ROW,False
-Norway Jackes,M,Argonaut Rowing Club,CAN,1908,London,Rowing,Rowing Men's Coxless Pairs,Bronze,Rowing,ROW,False
-Charles Riddy,M,Argonaut Rowing Club,CAN,1908,London,Rowing,Rowing Men's Coxless Fours,Bronze,Rowing,ROW,False
-Geoffrey Taylor,M,Argonaut Rowing Club,CAN,1908,London,Rowing,Rowing Men's Coxless Fours,Bronze,Rowing,ROW,False
-Frederick Toms,M,Argonaut Rowing Club,CAN,1908,London,Rowing,Rowing Men's Coxless Pairs,Bronze,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gordon Balfour,M,Argonaut Rowing Club,CAN,1908,London,Rowing,Rowing Men's Coxless Fours,Bronze,Rowing,ROW,False,True
+Becher Gale,M,Argonaut Rowing Club,CAN,1908,London,Rowing,Rowing Men's Coxless Fours,Bronze,Rowing,ROW,False,True
+Norway Jackes,M,Argonaut Rowing Club,CAN,1908,London,Rowing,Rowing Men's Coxless Pairs,Bronze,Rowing,ROW,False,True
+Charles Riddy,M,Argonaut Rowing Club,CAN,1908,London,Rowing,Rowing Men's Coxless Fours,Bronze,Rowing,ROW,False,True
+Geoffrey Taylor,M,Argonaut Rowing Club,CAN,1908,London,Rowing,Rowing Men's Coxless Fours,Bronze,Rowing,ROW,False,True
+Frederick Toms,M,Argonaut Rowing Club,CAN,1908,London,Rowing,Rowing Men's Coxless Pairs,Bronze,Rowing,ROW,False,True

@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anja Crevar,F,Serbia,SRB,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Anja Crevar,F,Serbia,SRB,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Naa Higl,F,Serbia,SRB,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Naa Higl,F,Serbia,SRB,2008,Beijing,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Naa Higl,F,Serbia,SRB,2012,London,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Miroslava Najdanovski,F,Serbia,SRB,2008,Beijing,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Miroslava Najdanovski,F,Serbia,SRB,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Miroslava Najdanovski,F,Serbia,SRB,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Milica Ostoji,F,Serbia,SRB,2008,Beijing,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False
-Katarina Simonovi,F,Serbia,SRB,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Katarina Simonovi,F,Serbia,SRB,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Marica Strameter,F,Serbia,SRB,2008,Beijing,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Anja Crevar,F,Serbia,SRB,2020,Tokyo,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,True
-Anja Crevar,F,Serbia,SRB,2020,Tokyo,Swimming,Women's 400m Individual Medley,No medal,Women's,SWM,True
-Anja Crevar,F,Serbia,SRB,2024,Paris,Swimming,Women's 200m Butterfly,No medal,Women's,SWM,True
-Anja Crevar,F,Serbia,SRB,2024,Paris,Swimming,Women's 400m Individual Medley,No medal,Women's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anja Crevar,F,Serbia,SRB,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Anja Crevar,F,Serbia,SRB,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Naa Higl,F,Serbia,SRB,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Naa Higl,F,Serbia,SRB,2008,Beijing,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Naa Higl,F,Serbia,SRB,2012,London,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Miroslava Najdanovski,F,Serbia,SRB,2008,Beijing,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Miroslava Najdanovski,F,Serbia,SRB,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Miroslava Najdanovski,F,Serbia,SRB,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Milica Ostoji,F,Serbia,SRB,2008,Beijing,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Katarina Simonovi,F,Serbia,SRB,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Katarina Simonovi,F,Serbia,SRB,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Marica Strameter,F,Serbia,SRB,2008,Beijing,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Anja Crevar,F,Serbia,SRB,2020,Tokyo,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,True,False
+Anja Crevar,F,Serbia,SRB,2020,Tokyo,Swimming,Women's 400m Individual Medley,No medal,Women's,SWM,True,False
+Anja Crevar,F,Serbia,SRB,2024,Paris,Swimming,Women's 200m Butterfly,No medal,Women's,SWM,True,False
+Anja Crevar,F,Serbia,SRB,2024,Paris,Swimming,Women's 400m Individual Medley,No medal,Women's,SWM,True,False

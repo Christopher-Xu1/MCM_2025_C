@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bai Hui-yun,F,Chinese Taipei-1,TPE,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
-Tsui Hsiu-li,F,Chinese Taipei-1,TPE,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
-Xu Jing,F,Chinese Taipei-1,TPE,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
-Yu Feng-yun,F,Chinese Taipei-1,TPE,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bai Hui-yun,F,Chinese Taipei-1,TPE,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True
+Tsui Hsiu-li,F,Chinese Taipei-1,TPE,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True
+Xu Jing,F,Chinese Taipei-1,TPE,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True
+Yu Feng-yun,F,Chinese Taipei-1,TPE,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True

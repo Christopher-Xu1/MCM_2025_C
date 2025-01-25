@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Angel Hernandez,M,Colombia,COL,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,True
-Angel Hernandez,M,Colombia,COL,2024,Paris,Trampoline Gymnastics,Men,No medal,Men,GTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Angel Hernandez,M,Colombia,COL,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,True,True
+Angel Hernandez,M,Colombia,COL,2024,Paris,Trampoline Gymnastics,Men,No medal,Men,GTR,True,False

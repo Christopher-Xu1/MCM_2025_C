@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anne Cairns,F,Samoa,SAM,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True
-Anne Cairns,F,Samoa,SAM,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Samalulu Clifton,F,Samoa,SAM,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anne Cairns,F,Samoa,SAM,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True,True
+Anne Cairns,F,Samoa,SAM,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Samalulu Clifton,F,Samoa,SAM,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,False,True

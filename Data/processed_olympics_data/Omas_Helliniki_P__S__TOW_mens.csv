@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Konstantinos Lazaros,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-Spyridon Lazaros,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-Georgios Papakhristou,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-Georgios Psakhos,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-Vasilios Psakhos,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-Panagiotis Trivoulidis,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-Antonios Tsitas,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-Spyridon Vellas,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Konstantinos Lazaros,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+Spyridon Lazaros,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+Georgios Papakhristou,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+Georgios Psakhos,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+Vasilios Psakhos,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+Panagiotis Trivoulidis,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+Antonios Tsitas,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+Spyridon Vellas,M,Omas Helliniki P. S.,GRE,1906,Athina,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True

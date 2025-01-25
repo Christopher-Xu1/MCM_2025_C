@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Oi Chan,F,Hong Kong,HKG,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Chau Wah,F,Hong Kong,HKG,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Wai Koon,F,Hong Kong,HKG,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Wai Koon,F,Hong Kong,HKG,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Wai Koon,F,Hong Kong,HKG,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Wai Koon,F,Hong Kong,HKG,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Li Mui,F,Hong Kong,HKG,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Ling Ting,F,Hong Kong,HKG,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Ling Ting,F,Hong Kong,HKG,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Ling Ting,F,Hong Kong,HKG,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Poon Yan,F,Hong Kong,HKG,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Poon Yan,F,Hong Kong,HKG,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Tse Suet,F,Hong Kong,HKG,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Tse Suet,F,Hong Kong,HKG,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Wang Chen,F,Hong Kong,HKG,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Wang Chen,F,Hong Kong,HKG,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Wong Fan,F,Hong Kong,HKG,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Yip Yin,F,Hong Kong,HKG,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Yip Yin,F,Hong Kong,HKG,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Yip Yin,F,Hong Kong,HKG,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Oi Chan,F,Hong Kong,HKG,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Chau Wah,F,Hong Kong,HKG,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Wai Koon,F,Hong Kong,HKG,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Wai Koon,F,Hong Kong,HKG,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Wai Koon,F,Hong Kong,HKG,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Wai Koon,F,Hong Kong,HKG,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Li Mui,F,Hong Kong,HKG,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Ling Ting,F,Hong Kong,HKG,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Ling Ting,F,Hong Kong,HKG,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Ling Ting,F,Hong Kong,HKG,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Poon Yan,F,Hong Kong,HKG,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Poon Yan,F,Hong Kong,HKG,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Tse Suet,F,Hong Kong,HKG,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Tse Suet,F,Hong Kong,HKG,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Wang Chen,F,Hong Kong,HKG,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Wang Chen,F,Hong Kong,HKG,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Wong Fan,F,Hong Kong,HKG,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Yip Yin,F,Hong Kong,HKG,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Yip Yin,F,Hong Kong,HKG,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Yip Yin,F,Hong Kong,HKG,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False

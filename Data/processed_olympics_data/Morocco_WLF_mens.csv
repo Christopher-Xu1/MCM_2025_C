@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mustapha Adnane,M,Morocco,MAR,1960,Roma,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Mustapha Adnane,M,Morocco,MAR,1964,Tokyo,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Abdel Kamel,M,Morocco,MAR,1960,Roma,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Moustafa Buihamghet,M,Morocco,MAR,1996,Atlanta,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Khalid El-aabidi,M,Morocco,MAR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Mohamed Meziane,M,Morocco,MAR,1992,Barcelona,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Mohamed Miloud,M,Morocco,MAR,1960,Roma,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Abderrahim Tazi,M,Morocco,MAR,1960,Roma,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Abderrahim Tazi,M,Morocco,MAR,1964,Tokyo,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Yacine Al-zouaki,M,Morocco,MAR,2004,Athina,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Abderrahim Moum,M,Morocco,MAR,2020,Tokyo,Weightlifting,Men's 73kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mustapha Adnane,M,Morocco,MAR,1960,Roma,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,True
+Mustapha Adnane,M,Morocco,MAR,1964,Tokyo,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True,False
+Abdel Kamel,M,Morocco,MAR,1960,Roma,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Moustafa Buihamghet,M,Morocco,MAR,1996,Atlanta,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Khalid El-aabidi,M,Morocco,MAR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Mohamed Meziane,M,Morocco,MAR,1992,Barcelona,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Mohamed Miloud,M,Morocco,MAR,1960,Roma,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Abderrahim Tazi,M,Morocco,MAR,1960,Roma,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,True
+Abderrahim Tazi,M,Morocco,MAR,1964,Tokyo,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,False
+Yacine Al-zouaki,M,Morocco,MAR,2004,Athina,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Abderrahim Moum,M,Morocco,MAR,2020,Tokyo,Weightlifting,Men's 73kg,No medal,Men's,WLF,False,True

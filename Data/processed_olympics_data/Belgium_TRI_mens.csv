@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Peter Croes,M,Belgium,BEL,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Simon Cuyper,M,Belgium,BEL,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Jelle Geens,M,Belgium,BEL,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Marten Riel,M,Belgium,BEL,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Axel Zeebroek,M,Belgium,BEL,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Jelle Geens,M,Belgium,BEL,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-van Marten,M,Belgium,BEL,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-van Marten,M,Belgium,BEL,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Jelle Geens,M,Belgium,BEL,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Marten Van,M,Belgium,BEL,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Peter Croes,M,Belgium,BEL,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Simon Cuyper,M,Belgium,BEL,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Jelle Geens,M,Belgium,BEL,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Marten Riel,M,Belgium,BEL,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Axel Zeebroek,M,Belgium,BEL,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Jelle Geens,M,Belgium,BEL,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,False
+van Marten,M,Belgium,BEL,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+van Marten,M,Belgium,BEL,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Jelle Geens,M,Belgium,BEL,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True,False
+Marten Van,M,Belgium,BEL,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True

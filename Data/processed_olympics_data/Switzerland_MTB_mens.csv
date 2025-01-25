@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Filippo Colombo,M,Switzerland,SUI,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False
-Mathias Flueckiger,M,Switzerland,SUI,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,Silver,Men's,MTB,True
-Nino Schurter,M,Switzerland,SUI,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,True
-Mathias Flueckiger,M,Switzerland,SUI,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,True
-Nino Schurter,M,Switzerland,SUI,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Filippo Colombo,M,Switzerland,SUI,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False,True
+Mathias Flueckiger,M,Switzerland,SUI,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,Silver,Men's,MTB,True,True
+Nino Schurter,M,Switzerland,SUI,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,True,True
+Mathias Flueckiger,M,Switzerland,SUI,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,True,False
+Nino Schurter,M,Switzerland,SUI,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,True,False

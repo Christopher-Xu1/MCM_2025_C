@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lau Fei,F,Hong Kong-1,HKG,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
-Lin Ling,F,Hong Kong-1,HKG,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lau Fei,F,Hong Kong-1,HKG,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True
+Lin Ling,F,Hong Kong-1,HKG,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True

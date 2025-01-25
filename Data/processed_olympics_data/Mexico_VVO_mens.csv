@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tomas Armendariz,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Carlos Aguirre,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Jorge Gonzlez,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Antonio Barbet,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Carlos Barron,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Jol Vazquez,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Samuel Arvizu,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Juan Guterrez,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Francisco Suaste,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Carlos Arias,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Eduardo Jimnez,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Jess Loya,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Jos Flores,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Jos Rebollar,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Nestor Hernndez,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Csar Brambila,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Jess Gonzlez,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Jorge Jazo,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Jess Hernndez,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Pedro Hernndez,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Leopoldo Reyna,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Gonzalo Cruz,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Eduardo Sixtos,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Daniel Osorio,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tomas Armendariz,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Carlos Aguirre,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Jorge Gonzlez,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Antonio Barbet,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Carlos Barron,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Jol Vazquez,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Samuel Arvizu,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Juan Guterrez,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Francisco Suaste,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Carlos Arias,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Eduardo Jimnez,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Jess Loya,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Jos Flores,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Jos Rebollar,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Nestor Hernndez,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Csar Brambila,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Jess Gonzlez,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Jorge Jazo,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Jess Hernndez,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Pedro Hernndez,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Leopoldo Reyna,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Gonzalo Cruz,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Eduardo Sixtos,M,Mexico,MEX,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Daniel Osorio,M,Mexico,MEX,2016,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True

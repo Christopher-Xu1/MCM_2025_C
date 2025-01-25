@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yasen Borisov,M,Bulgaria,BUL,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Yasen Borisov,M,Bulgaria,BUL,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Ivan Ivanov,M,Bulgaria,BUL,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Ivan Ivanov,M,Bulgaria,BUL,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Mikhail Popov,M,Bulgaria,BUL,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Mikhail Popov,M,Bulgaria,BUL,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Svetoslav Stoyanov,M,Bulgaria,BUL,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Svetoslav Stoyanov,M,Bulgaria,BUL,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Theodoros Velkos,M,Bulgaria,BUL,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Theodoros Velkos,M,Bulgaria,BUL,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yasen Borisov,M,Bulgaria,BUL,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Yasen Borisov,M,Bulgaria,BUL,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Ivan Ivanov,M,Bulgaria,BUL,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Ivan Ivanov,M,Bulgaria,BUL,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Mikhail Popov,M,Bulgaria,BUL,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Mikhail Popov,M,Bulgaria,BUL,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Svetoslav Stoyanov,M,Bulgaria,BUL,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Svetoslav Stoyanov,M,Bulgaria,BUL,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Theodoros Velkos,M,Bulgaria,BUL,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Theodoros Velkos,M,Bulgaria,BUL,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sally Yee,F,Fiji,FIJ,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Sally Yee,F,Fiji,FIJ,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sally Yee,F,Fiji,FIJ,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Sally Yee,F,Fiji,FIJ,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False

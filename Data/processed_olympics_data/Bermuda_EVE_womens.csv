@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carol Blackman,F,Bermuda,BER,1988,Seoul,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False
-Nicola (-parnell),F,Bermuda,BER,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False
-Suzanne Dunkley,F,Bermuda,BER,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Suzanne Dunkley,F,Bermuda,BER,1996,Atlanta,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Jillian Terciera,F,Bermuda,BER,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Jillian Terciera,F,Bermuda,BER,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Mary Tumbridge,F,Bermuda,BER,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Mary Tumbridge,F,Bermuda,BER,2000,Sydney,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carol Blackman,F,Bermuda,BER,1988,Seoul,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False,True
+Nicola (-parnell),F,Bermuda,BER,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False,True
+Suzanne Dunkley,F,Bermuda,BER,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Suzanne Dunkley,F,Bermuda,BER,1996,Atlanta,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False
+Jillian Terciera,F,Bermuda,BER,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Jillian Terciera,F,Bermuda,BER,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,False
+Mary Tumbridge,F,Bermuda,BER,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Mary Tumbridge,F,Bermuda,BER,2000,Sydney,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,False

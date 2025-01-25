@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ilia Karpenkov,M,Russia,ROC,2020,Tokyo,3x3 Basketball,Men Team,Silver,Men,BK3,False
-Kirill Pisklov,M,Russia,ROC,2020,Tokyo,3x3 Basketball,Men Team,Silver,Men,BK3,False
-Stanislav Sharov,M,Russia,ROC,2020,Tokyo,3x3 Basketball,Men Team,Silver,Men,BK3,False
-Alexander Zuev,M,Russia,ROC,2020,Tokyo,3x3 Basketball,Men Team,Silver,Men,BK3,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ilia Karpenkov,M,Russia,ROC,2020,Tokyo,3x3 Basketball,Men Team,Silver,Men,BK3,False,True
+Kirill Pisklov,M,Russia,ROC,2020,Tokyo,3x3 Basketball,Men Team,Silver,Men,BK3,False,True
+Stanislav Sharov,M,Russia,ROC,2020,Tokyo,3x3 Basketball,Men Team,Silver,Men,BK3,False,True
+Alexander Zuev,M,Russia,ROC,2020,Tokyo,3x3 Basketball,Men Team,Silver,Men,BK3,False,True

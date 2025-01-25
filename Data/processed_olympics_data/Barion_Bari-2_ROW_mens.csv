@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Emilio Cesarana,M,Barion/Bari-2,ITA,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Silver,Rowing,ROW,False
-Francesco Civera,M,Barion/Bari-2,ITA,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Silver,Rowing,ROW,False
-Luigi Diana,M,Barion/Bari-2,ITA,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Silver,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Emilio Cesarana,M,Barion/Bari-2,ITA,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Silver,Rowing,ROW,False,True
+Francesco Civera,M,Barion/Bari-2,ITA,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Silver,Rowing,ROW,False,True
+Luigi Diana,M,Barion/Bari-2,ITA,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Silver,Rowing,ROW,False,True

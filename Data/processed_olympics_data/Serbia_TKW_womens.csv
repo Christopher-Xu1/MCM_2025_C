@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tijana Bogdanovi,F,Serbia,SRB,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Flyweight,Silver,Taekwondo,TKW,False
-Dragana Gladovi,F,Serbia,SRB,2012,London,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,False
-Milica Mandi,F,Serbia,SRB,2012,London,Taekwondo,Taekwondo Women's Heavyweight,Gold,Taekwondo,TKW,True
-Milica Mandi,F,Serbia,SRB,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,True
-Tijana Bogdanovic,F,Serbia,SRB,2020,Tokyo,Taekwondo,Women -49kg,Bronze,Women,TKW,False
-Milica Mandic,F,Serbia,SRB,2020,Tokyo,Taekwondo,Women +67kg,Gold,Women,TKW,False
-Aleksandra Perisic,F,Serbia,SRB,2024,Paris,Taekwondo,Women -67kg,Silver,Women,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tijana Bogdanovi,F,Serbia,SRB,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Flyweight,Silver,Taekwondo,TKW,False,True
+Dragana Gladovi,F,Serbia,SRB,2012,London,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,False,True
+Milica Mandi,F,Serbia,SRB,2012,London,Taekwondo,Taekwondo Women's Heavyweight,Gold,Taekwondo,TKW,True,True
+Milica Mandi,F,Serbia,SRB,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,True,False
+Tijana Bogdanovic,F,Serbia,SRB,2020,Tokyo,Taekwondo,Women -49kg,Bronze,Women,TKW,False,True
+Milica Mandic,F,Serbia,SRB,2020,Tokyo,Taekwondo,Women +67kg,Gold,Women,TKW,False,True
+Aleksandra Perisic,F,Serbia,SRB,2024,Paris,Taekwondo,Women -67kg,Silver,Women,TKW,False,True

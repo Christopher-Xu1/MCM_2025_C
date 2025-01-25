@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Akiko Furu,F,Japan,JPN,2000,Sydney,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False
-Haruka Hirota,F,Japan,JPN,2004,Athina,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,True
-Haruka Hirota,F,Japan,JPN,2008,Beijing,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,True
-Ayano Kishi,F,Japan,JPN,2012,London,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False
-Rana Nakano,F,Japan,JPN,2016,Rio de Janeiro,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False
-Hikaru Mori,F,Japan,JPN,2020,Tokyo,Trampoline Gymnastics,Women,No medal,Women,GTR,True
-Megu Uyama,F,Japan,JPN,2020,Tokyo,Trampoline Gymnastics,Women,No medal,Women,GTR,False
-Hikaru Mori,F,Japan,JPN,2024,Paris,Trampoline Gymnastics,Women,No medal,Women,GTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Akiko Furu,F,Japan,JPN,2000,Sydney,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False,True
+Haruka Hirota,F,Japan,JPN,2004,Athina,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,True,True
+Haruka Hirota,F,Japan,JPN,2008,Beijing,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,True,False
+Ayano Kishi,F,Japan,JPN,2012,London,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False,True
+Rana Nakano,F,Japan,JPN,2016,Rio de Janeiro,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False,True
+Hikaru Mori,F,Japan,JPN,2020,Tokyo,Trampoline Gymnastics,Women,No medal,Women,GTR,True,True
+Megu Uyama,F,Japan,JPN,2020,Tokyo,Trampoline Gymnastics,Women,No medal,Women,GTR,False,True
+Hikaru Mori,F,Japan,JPN,2024,Paris,Trampoline Gymnastics,Women,No medal,Women,GTR,True,False

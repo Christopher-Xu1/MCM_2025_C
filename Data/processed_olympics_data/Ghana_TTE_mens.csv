@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Winifred Addy,M,Ghana,GHA,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Isaac Opoku,M,Ghana,GHA,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Isaac Opoku,M,Ghana,GHA,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Winifred Addy,M,Ghana,GHA,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Isaac Opoku,M,Ghana,GHA,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Isaac Opoku,M,Ghana,GHA,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True

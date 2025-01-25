@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fatmeh-Nazli Makou,F,Iran,IRI,1964,Tokyo,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False
-Juliette (-guevrekian),F,Iran,IRI,1964,Tokyo,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True
-Juliette (-guevrekian),F,Iran,IRI,1964,Tokyo,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True
-Leyla Rajabi,F,Iran,IRI,2012,London,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True
-Leyla Rajabi,F,Iran,IRI,2016,Rio de Janeiro,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True
-Simin Safamehr,F,Iran,IRI,1964,Tokyo,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Simin Safamehr,F,Iran,IRI,1964,Tokyo,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Fasihi Farzaneh,F,Iran,IRI,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fatmeh-Nazli Makou,F,Iran,IRI,1964,Tokyo,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False,True
+Juliette (-guevrekian),F,Iran,IRI,1964,Tokyo,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True,True
+Juliette (-guevrekian),F,Iran,IRI,1964,Tokyo,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True,True
+Leyla Rajabi,F,Iran,IRI,2012,London,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True,True
+Leyla Rajabi,F,Iran,IRI,2016,Rio de Janeiro,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,True,False
+Simin Safamehr,F,Iran,IRI,1964,Tokyo,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Simin Safamehr,F,Iran,IRI,1964,Tokyo,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,True
+Fasihi Farzaneh,F,Iran,IRI,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,False,True

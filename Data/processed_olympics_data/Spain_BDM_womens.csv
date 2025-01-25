@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carolina Marn,F,Spain,ESP,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Carolina Marn,F,Spain,ESP,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,Gold,Badminton,BDM,True
-Yoana Barbero,F,Spain,ESP,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Esther Barranco,F,Spain,ESP,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Clara Azurmendi,F,Spain,ESP,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,False
-Carolina Marin,F,Spain,ESP,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carolina Marn,F,Spain,ESP,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Carolina Marn,F,Spain,ESP,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,Gold,Badminton,BDM,True,False
+Yoana Barbero,F,Spain,ESP,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Esther Barranco,F,Spain,ESP,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Clara Azurmendi,F,Spain,ESP,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,False,True
+Carolina Marin,F,Spain,ESP,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False,True

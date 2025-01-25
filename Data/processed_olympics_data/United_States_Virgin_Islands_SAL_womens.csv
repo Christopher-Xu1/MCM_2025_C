@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lisa Neuburger,F,United States Virgin Islands,ISV,1992,Barcelona,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Lisa Neuburger,F,United States Virgin Islands,ISV,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Mayumi Roller,F,United States Virgin Islands,ISV,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lisa Neuburger,F,United States Virgin Islands,ISV,1992,Barcelona,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Lisa Neuburger,F,United States Virgin Islands,ISV,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Mayumi Roller,F,United States Virgin Islands,ISV,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True

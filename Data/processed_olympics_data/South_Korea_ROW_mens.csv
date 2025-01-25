@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-An Jong-deuk,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Cheon Seong-tae,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Choi Sin-il,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Gang Man-gu,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Go Gwang-seon,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Ha Jin-sik,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Ham Jeong-uk,M,South Korea,KOR,2004,Athina,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Hong Jae-ho,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False
-Hyeon Seong-in,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Im Gyeong-seok,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Im Jae-man,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Jang Kang-eun,M,South Korea,KOR,2008,Beijing,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Jeong Bu-yeong,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Jeong Gwang-su,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Jeong In-gyo,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Jeong Jae-won,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Ji Deok-han,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Kim Dong-yong,M,South Korea,KOR,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
-Kim Dong-yong,M,South Korea,KOR,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
-Kim Gap-sik,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Kim Gyu-san,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Kim Heon-jong,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Kim Hong-kyun,M,South Korea,KOR,2008,Beijing,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Lee Ho,M,South Korea,KOR,1996,Atlanta,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False
-Lee Hong-geun,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Lee Hyeong-gi,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False
-Lee In-su,M,South Korea,KOR,1996,Atlanta,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,True
-Lee In-su,M,South Korea,KOR,2000,Sydney,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
-Lee Sang-u,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Lee Tae-hwa,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Park Seong-nae,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Park Sin-yeong,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Yang Gwang-jae,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Yoo Hyeok-geun,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Yun Nam-ho,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False
-Yun Yong-ho,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+An Jong-deuk,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Cheon Seong-tae,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Choi Sin-il,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Gang Man-gu,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Go Gwang-seon,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Ha Jin-sik,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Ham Jeong-uk,M,South Korea,KOR,2004,Athina,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Hong Jae-ho,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False,True
+Hyeon Seong-in,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Im Gyeong-seok,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Im Jae-man,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Jang Kang-eun,M,South Korea,KOR,2008,Beijing,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Jeong Bu-yeong,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Jeong Gwang-su,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Jeong In-gyo,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Jeong Jae-won,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Ji Deok-han,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Kim Dong-yong,M,South Korea,KOR,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,True
+Kim Dong-yong,M,South Korea,KOR,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,False
+Kim Gap-sik,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Kim Gyu-san,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Kim Heon-jong,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Kim Hong-kyun,M,South Korea,KOR,2008,Beijing,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Lee Ho,M,South Korea,KOR,1996,Atlanta,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False,True
+Lee Hong-geun,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Lee Hyeong-gi,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False,True
+Lee In-su,M,South Korea,KOR,1996,Atlanta,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,True,True
+Lee In-su,M,South Korea,KOR,2000,Sydney,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,False
+Lee Sang-u,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Lee Tae-hwa,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Park Seong-nae,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Park Sin-yeong,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Yang Gwang-jae,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Yoo Hyeok-geun,M,South Korea,KOR,1964,Tokyo,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Yun Nam-ho,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False,True
+Yun Yong-ho,M,South Korea,KOR,1988,Seoul,Rowing,Rowing Men's Coxless Fours,No medal,Rowing,ROW,False,True

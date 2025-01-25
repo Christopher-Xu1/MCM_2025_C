@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Silke Abicht,F,East Germany,GDR,1988,Seoul,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Brita Baldus,F,East Germany,GDR,1988,Seoul,Diving,Diving Women's Springboard,No medal,Diving,DIV,False
-Heidi Becker-ramlow,F,East Germany,GDR,1972,Munich,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Heidi Becker-ramlow,F,East Germany,GDR,1976,Montreal,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Heidi Becker-ramlow,F,East Germany,GDR,1976,Montreal,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Sylvia Fiedler,F,East Germany,GDR,1968,Mexico City,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Sylvia Fiedler,F,East Germany,GDR,1972,Munich,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Ingrid Gulbin-engel-krmer,F,East Germany,GDR,1968,Mexico City,Diving,Diving Women's Springboard,No medal,Diving,DIV,False
-Karin (-hrtig),F,East Germany,GDR,1976,Montreal,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Karin (-hrtig),F,East Germany,GDR,1976,Montreal,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Karin (-hrtig),F,East Germany,GDR,1980,Moskva,Diving,Diving Women's Springboard,Bronze,Diving,DIV,True
-Marina (-hhne),F,East Germany,GDR,1972,Munich,Diving,Diving Women's Springboard,Bronze,Diving,DIV,True
-Marina (-hhne),F,East Germany,GDR,1972,Munich,Diving,Diving Women's Platform,Bronze,Diving,DIV,True
-Martina -flle),F,East Germany,GDR,1980,Moskva,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Martina -flle),F,East Germany,GDR,1980,Moskva,Diving,Diving Women's Platform,Gold,Diving,DIV,True
-Christa (-kinast),F,East Germany,GDR,1972,Munich,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Christa (-kinast),F,East Germany,GDR,1976,Montreal,Diving,Diving Women's Springboard,Silver,Diving,DIV,True
-Kerstin Krause,F,East Germany,GDR,1976,Montreal,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Kerstin Krause,F,East Germany,GDR,1980,Moskva,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Martina (-littmann),F,East Germany,GDR,1980,Moskva,Diving,Diving Women's Springboard,Silver,Diving,DIV,False
-Claudia Reiche,F,East Germany,GDR,1968,Mexico City,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Ramona Wenzel,F,East Germany,GDR,1980,Moskva,Diving,Diving Women's Platform,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Silke Abicht,F,East Germany,GDR,1988,Seoul,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Brita Baldus,F,East Germany,GDR,1988,Seoul,Diving,Diving Women's Springboard,No medal,Diving,DIV,False,True
+Heidi Becker-ramlow,F,East Germany,GDR,1972,Munich,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Heidi Becker-ramlow,F,East Germany,GDR,1976,Montreal,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Heidi Becker-ramlow,F,East Germany,GDR,1976,Montreal,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Sylvia Fiedler,F,East Germany,GDR,1968,Mexico City,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Sylvia Fiedler,F,East Germany,GDR,1972,Munich,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Ingrid Gulbin-engel-krmer,F,East Germany,GDR,1968,Mexico City,Diving,Diving Women's Springboard,No medal,Diving,DIV,False,True
+Karin (-hrtig),F,East Germany,GDR,1976,Montreal,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Karin (-hrtig),F,East Germany,GDR,1976,Montreal,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Karin (-hrtig),F,East Germany,GDR,1980,Moskva,Diving,Diving Women's Springboard,Bronze,Diving,DIV,True,False
+Marina (-hhne),F,East Germany,GDR,1972,Munich,Diving,Diving Women's Springboard,Bronze,Diving,DIV,True,True
+Marina (-hhne),F,East Germany,GDR,1972,Munich,Diving,Diving Women's Platform,Bronze,Diving,DIV,True,True
+Martina -flle),F,East Germany,GDR,1980,Moskva,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Martina -flle),F,East Germany,GDR,1980,Moskva,Diving,Diving Women's Platform,Gold,Diving,DIV,True,True
+Christa (-kinast),F,East Germany,GDR,1972,Munich,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Christa (-kinast),F,East Germany,GDR,1976,Montreal,Diving,Diving Women's Springboard,Silver,Diving,DIV,True,False
+Kerstin Krause,F,East Germany,GDR,1976,Montreal,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Kerstin Krause,F,East Germany,GDR,1980,Moskva,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Martina (-littmann),F,East Germany,GDR,1980,Moskva,Diving,Diving Women's Springboard,Silver,Diving,DIV,False,True
+Claudia Reiche,F,East Germany,GDR,1968,Mexico City,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Ramona Wenzel,F,East Germany,GDR,1980,Moskva,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True

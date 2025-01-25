@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eric Brown,M,American Samoa,ASA,1992,Barcelona,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Eric Brown,M,American Samoa,ASA,1996,Atlanta,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Lopesi Faagu,M,American Samoa,ASA,1988,Seoul,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Tanumafili Jungblut,M,American Samoa,ASA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Eleei Lalio,M,American Samoa,ASA,2004,Athina,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False
-Alesana Sione,M,American Samoa,ASA,2000,Sydney,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Tauama Timoti,M,American Samoa,ASA,1988,Seoul,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False
-Malietoa Jungblut,M,American Samoa,ASA,2020,Tokyo,Weightlifting,Men's 109kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eric Brown,M,American Samoa,ASA,1992,Barcelona,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,True
+Eric Brown,M,American Samoa,ASA,1996,Atlanta,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,False
+Lopesi Faagu,M,American Samoa,ASA,1988,Seoul,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Tanumafili Jungblut,M,American Samoa,ASA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Eleei Lalio,M,American Samoa,ASA,2004,Athina,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False,True
+Alesana Sione,M,American Samoa,ASA,2000,Sydney,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Tauama Timoti,M,American Samoa,ASA,1988,Seoul,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False,True
+Malietoa Jungblut,M,American Samoa,ASA,2020,Tokyo,Weightlifting,Men's 109kg,No medal,Men's,WLF,False,True

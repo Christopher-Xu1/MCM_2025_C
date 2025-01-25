@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ivan Federico,M,Italy,ITA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,False
-Alessandro Mazzara,M,Italy,ITA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,True
-Alessandro Mazzara,M,Italy,ITA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,True
-Alex Sorgente,M,Italy,ITA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ivan Federico,M,Italy,ITA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,False,True
+Alessandro Mazzara,M,Italy,ITA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,True,True
+Alessandro Mazzara,M,Italy,ITA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,True,False
+Alex Sorgente,M,Italy,ITA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,False,True

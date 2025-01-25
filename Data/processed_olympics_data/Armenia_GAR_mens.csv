@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Artur Davtyan,M,Armenia,ARM,2012,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Artur Davtyan,M,Armenia,ARM,2012,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Artur Davtyan,M,Armenia,ARM,2012,London,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Artur Davtyan,M,Armenia,ARM,2012,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Artur Davtyan,M,Armenia,ARM,2012,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Artur Davtyan,M,Armenia,ARM,2012,London,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Artur Davtyan,M,Armenia,ARM,2012,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Artur Davtyan,M,Armenia,ARM,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Harutyun Merdinyan,M,Armenia,ARM,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,False
-Norayr Sargsyan,M,Armenia,ARM,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Norayr Sargsyan,M,Armenia,ARM,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Norayr Sargsyan,M,Armenia,ARM,1996,Atlanta,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Norayr Sargsyan,M,Armenia,ARM,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Norayr Sargsyan,M,Armenia,ARM,1996,Atlanta,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Norayr Sargsyan,M,Armenia,ARM,1996,Atlanta,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Norayr Sargsyan,M,Armenia,ARM,1996,Atlanta,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Artur Davtyan,M,Armenia,ARM,2020,Tokyo,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True
-Artur Davtyan,M,Armenia,ARM,2020,Tokyo,Artistic Gymnastics,Men's Vault,Bronze,Men's,GAR,True
-Artur Davtyan,M,Armenia,ARM,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True
-Artur Davtyan,M,Armenia,ARM,2024,Paris,Artistic Gymnastics,Men's Vault,Silver,Men's,GAR,True
-Vahagn Davtyan,M,Armenia,ARM,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True
-Vahagn Davtyan,M,Armenia,ARM,2024,Paris,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Artur Davtyan,M,Armenia,ARM,2012,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Artur Davtyan,M,Armenia,ARM,2012,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Artur Davtyan,M,Armenia,ARM,2012,London,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+Artur Davtyan,M,Armenia,ARM,2012,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Artur Davtyan,M,Armenia,ARM,2012,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Artur Davtyan,M,Armenia,ARM,2012,London,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Artur Davtyan,M,Armenia,ARM,2012,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Artur Davtyan,M,Armenia,ARM,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,False
+Harutyun Merdinyan,M,Armenia,ARM,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,False,True
+Norayr Sargsyan,M,Armenia,ARM,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Norayr Sargsyan,M,Armenia,ARM,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Norayr Sargsyan,M,Armenia,ARM,1996,Atlanta,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+Norayr Sargsyan,M,Armenia,ARM,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Norayr Sargsyan,M,Armenia,ARM,1996,Atlanta,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Norayr Sargsyan,M,Armenia,ARM,1996,Atlanta,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Norayr Sargsyan,M,Armenia,ARM,1996,Atlanta,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Artur Davtyan,M,Armenia,ARM,2020,Tokyo,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True,False
+Artur Davtyan,M,Armenia,ARM,2020,Tokyo,Artistic Gymnastics,Men's Vault,Bronze,Men's,GAR,True,False
+Artur Davtyan,M,Armenia,ARM,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True,False
+Artur Davtyan,M,Armenia,ARM,2024,Paris,Artistic Gymnastics,Men's Vault,Silver,Men's,GAR,True,False
+Vahagn Davtyan,M,Armenia,ARM,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True,True
+Vahagn Davtyan,M,Armenia,ARM,2024,Paris,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True,True

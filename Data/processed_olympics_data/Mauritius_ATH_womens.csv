@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aurelie Alcindor,F,Mauritius,MRI,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Christine Bchard,F,Mauritius,MRI,1984,Los Angeles,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,False
-Caroline Fournier,F,Mauritius,MRI,2000,Sydney,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,False
-Maryse (-pyndiah),F,Mauritius,MRI,1988,Seoul,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Marie Lascar,F,Mauritius,MRI,2008,Beijing,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Marie Lascar,F,Mauritius,MRI,2012,London,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Marie Raffin,F,Mauritius,MRI,2004,Athina,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,False
-Sheila Seebaluck,F,Mauritius,MRI,1988,Seoul,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False
-Marie Perrier,F,Mauritius,MRI,2024,Paris,Athletics,Women's Marathon,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aurelie Alcindor,F,Mauritius,MRI,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Christine Bchard,F,Mauritius,MRI,1984,Los Angeles,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,False,True
+Caroline Fournier,F,Mauritius,MRI,2000,Sydney,Athletics,Athletics Women's Hammer Throw,No medal,Athletics,ATH,False,True
+Maryse (-pyndiah),F,Mauritius,MRI,1988,Seoul,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Marie Lascar,F,Mauritius,MRI,2008,Beijing,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Marie Lascar,F,Mauritius,MRI,2012,London,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,False
+Marie Raffin,F,Mauritius,MRI,2004,Athina,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,False,True
+Sheila Seebaluck,F,Mauritius,MRI,1988,Seoul,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False,True
+Marie Perrier,F,Mauritius,MRI,2024,Paris,Athletics,Women's Marathon,No medal,Women's,ATH,False,True

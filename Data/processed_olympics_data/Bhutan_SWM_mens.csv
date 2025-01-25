@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sangay Tenzin,M,Bhutan,BHU,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
-Sangay Tenzin,M,Bhutan,BHU,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sangay Tenzin,M,Bhutan,BHU,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,True
+Sangay Tenzin,M,Bhutan,BHU,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,False

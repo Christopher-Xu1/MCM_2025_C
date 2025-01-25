@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jefri Hakeem,M,Brunei,BRU,1996,Atlanta,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,True
-Jefri Hakeem,M,Brunei,BRU,2000,Sydney,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jefri Hakeem,M,Brunei,BRU,1996,Atlanta,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,True,True
+Jefri Hakeem,M,Brunei,BRU,2000,Sydney,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,True,False

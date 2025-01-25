@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Luisa Peters,F,Cook Islands,COK,2012,London,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Luisa Peters,F,Cook Islands,COK,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Luisa Peters,F,Cook Islands,COK,2012,London,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True,True
+Luisa Peters,F,Cook Islands,COK,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True,False

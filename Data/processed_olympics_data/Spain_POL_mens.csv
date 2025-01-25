@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-lvaro Alonso-martnez,M,Spain,ESP,1920,Antwerpen,Polo,Polo Men's Polo,Silver,Polo,POL,True
-lvaro Alonso-martnez,M,Spain,ESP,1924,Paris,Polo,Polo Men's Polo,No medal,Polo,POL,True
-Jos Alonso-martnez,M,Spain,ESP,1920,Antwerpen,Polo,Polo Men's Polo,Silver,Polo,POL,False
-Luis Alonso-martnez,M,Spain,ESP,1924,Paris,Polo,Polo Men's Polo,No medal,Polo,POL,False
-Rafael Salabert,M,Spain,ESP,1924,Paris,Polo,Polo Men's Polo,No medal,Polo,POL,False
-Hernando Osorio,M,Spain,ESP,1920,Antwerpen,Polo,Polo Men's Polo,Silver,Polo,POL,True
-Hernando Osorio,M,Spain,ESP,1924,Paris,Polo,Polo Men's Polo,No medal,Polo,POL,True
-Jacobo Osorio,M,Spain,ESP,1920,Antwerpen,Polo,Polo Men's Polo,Silver,Polo,POL,False
-Leopoldo Puente,M,Spain,ESP,1920,Antwerpen,Polo,Polo Men's Polo,Silver,Polo,POL,True
-Leopoldo Puente,M,Spain,ESP,1924,Paris,Polo,Polo Men's Polo,No medal,Polo,POL,True
-Justo Gandara,M,Spain,ESP,1924,Paris,Polo,Polo Men's Polo,No medal,Polo,POL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+lvaro Alonso-martnez,M,Spain,ESP,1920,Antwerpen,Polo,Polo Men's Polo,Silver,Polo,POL,True,True
+lvaro Alonso-martnez,M,Spain,ESP,1924,Paris,Polo,Polo Men's Polo,No medal,Polo,POL,True,False
+Jos Alonso-martnez,M,Spain,ESP,1920,Antwerpen,Polo,Polo Men's Polo,Silver,Polo,POL,False,True
+Luis Alonso-martnez,M,Spain,ESP,1924,Paris,Polo,Polo Men's Polo,No medal,Polo,POL,False,True
+Rafael Salabert,M,Spain,ESP,1924,Paris,Polo,Polo Men's Polo,No medal,Polo,POL,False,True
+Hernando Osorio,M,Spain,ESP,1920,Antwerpen,Polo,Polo Men's Polo,Silver,Polo,POL,True,True
+Hernando Osorio,M,Spain,ESP,1924,Paris,Polo,Polo Men's Polo,No medal,Polo,POL,True,False
+Jacobo Osorio,M,Spain,ESP,1920,Antwerpen,Polo,Polo Men's Polo,Silver,Polo,POL,False,True
+Leopoldo Puente,M,Spain,ESP,1920,Antwerpen,Polo,Polo Men's Polo,Silver,Polo,POL,True,True
+Leopoldo Puente,M,Spain,ESP,1924,Paris,Polo,Polo Men's Polo,No medal,Polo,POL,True,False
+Justo Gandara,M,Spain,ESP,1924,Paris,Polo,Polo Men's Polo,No medal,Polo,POL,False,True

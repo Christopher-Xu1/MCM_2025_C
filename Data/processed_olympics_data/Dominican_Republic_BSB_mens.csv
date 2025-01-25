@@ -1,45 +1,45 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fabio Aquino,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Roberto Garca,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Manuel Guzmn,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Benjamin Heredia,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Rafaelito Daz,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Flix Nova,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Teodoro Novas,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Elias Olivos,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Alexis Pea,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Fausto Pichardo,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Tefilo Dilone,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Silvestre Popoteur,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Juan Fernndez,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Jos Santana,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Roque Solano,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Flix Tejada,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Eugenio Cuevas,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Cipriano Ventura,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Jos Veras,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Juan Vias,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False
-Dario Alvarez,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Gabriel Arias,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Jairo Asencio,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Roldani Baldwin,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Jose Bautista,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Emilio Bonifacio,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Melky Cabrera,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Luis Castillo,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Jose Diaz,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Juan Francisco,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Junior Garcia,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Jeison Guzman,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Jhan Marinez,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Erick Mejia,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Cristopher Mercedes,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Johan Mieses,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Gustavo Nunez,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Yefri Perez,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Denyi Reyes,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Julio Rodriguez,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Ramon Rosso,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Angel Sanchez,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Raul Valdes,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
-Charlie Valerio,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fabio Aquino,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Roberto Garca,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Manuel Guzmn,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Benjamin Heredia,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Rafaelito Daz,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Flix Nova,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Teodoro Novas,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Elias Olivos,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Alexis Pea,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Fausto Pichardo,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Tefilo Dilone,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Silvestre Popoteur,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Juan Fernndez,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Jos Santana,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Roque Solano,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Flix Tejada,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Eugenio Cuevas,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Cipriano Ventura,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Jos Veras,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Juan Vias,M,Dominican Republic,DOM,1992,Barcelona,Baseball,Baseball Men's Baseball,No medal,Baseball,BSB,False,True
+Dario Alvarez,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Gabriel Arias,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Jairo Asencio,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Roldani Baldwin,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Jose Bautista,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Emilio Bonifacio,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Melky Cabrera,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Luis Castillo,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Jose Diaz,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Juan Francisco,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Junior Garcia,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Jeison Guzman,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Jhan Marinez,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Erick Mejia,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Cristopher Mercedes,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Johan Mieses,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Gustavo Nunez,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Yefri Perez,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Denyi Reyes,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Julio Rodriguez,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Ramon Rosso,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Angel Sanchez,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Raul Valdes,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True
+Charlie Valerio,M,Dominican Republic,DOM,2020,Tokyo,Baseball/Softball,Baseball Team,Bronze,Baseball,BSB,False,True

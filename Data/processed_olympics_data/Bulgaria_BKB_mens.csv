@@ -1,50 +1,50 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Atanas Atanasov,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Atanas Atanasov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Stanislav Boyadzhiev,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Boycho Branzov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Mincho Dimov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Khristo Donchev,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Khristo Doychinov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Stefan Filipov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Iliya Georgiev,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Konstantin Georgiev,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Emanuil Gyaurov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Nikolay Ilov,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Nikolay Ilov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Georgi Kanev,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Georgi Kanev,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Gencho Khristov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Georgi Khristov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Ivaylo Kirov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Anton Kuzov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Petko Lazarov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Vasil Manchenko,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Vasil Manchenko,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Emil Mikhaylov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Iliya Mirchev,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Iliya Mirchev,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Neycho Neychev,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Ivan Nikolov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Pando Pandov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Georgi Panov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Georgi Panov,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Georgi Panov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Lyubomir Panov,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Lyubomir Panov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Veselin Penkov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Viktor Radev,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Viktor Radev,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Slavey Raychev,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Dimitar Sakhanikov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Vladimir Savov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Vladimir Savov,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Kiril Semov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Petar Shishkov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Tsvetko Slavov,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Tsvetko Slavov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Valentin Spasov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Stefan Stoykov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Konstantin Totev,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Konstantin Totev,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Khristo Tsvetkov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Atanas Atanasov,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Atanas Atanasov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Stanislav Boyadzhiev,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Boycho Branzov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Mincho Dimov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Khristo Donchev,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Khristo Doychinov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Stefan Filipov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Iliya Georgiev,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Konstantin Georgiev,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Emanuil Gyaurov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Nikolay Ilov,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Nikolay Ilov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Georgi Kanev,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Georgi Kanev,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Gencho Khristov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Georgi Khristov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Ivaylo Kirov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Anton Kuzov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Petko Lazarov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Vasil Manchenko,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Vasil Manchenko,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Emil Mikhaylov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Iliya Mirchev,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Iliya Mirchev,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Neycho Neychev,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Ivan Nikolov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Pando Pandov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Georgi Panov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Georgi Panov,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Georgi Panov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Lyubomir Panov,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Lyubomir Panov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Veselin Penkov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Viktor Radev,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Viktor Radev,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Slavey Raychev,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Dimitar Sakhanikov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Vladimir Savov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Vladimir Savov,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Kiril Semov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Petar Shishkov,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Tsvetko Slavov,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Tsvetko Slavov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Valentin Spasov,M,Bulgaria,BUL,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Stefan Stoykov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Konstantin Totev,M,Bulgaria,BUL,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Konstantin Totev,M,Bulgaria,BUL,1956,Melbourne,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Khristo Tsvetkov,M,Bulgaria,BUL,1960,Roma,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True

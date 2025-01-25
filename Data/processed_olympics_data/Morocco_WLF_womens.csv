@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Samira Ouass,F,Morocco,MAR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Samira Ouass,F,Morocco,MAR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False,True

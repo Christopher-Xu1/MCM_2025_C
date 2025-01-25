@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andrea Hlavkov,F,Czech Republic-1,CZE,2012,London,Tennis,Tennis Women's Doubles,Silver,Tennis,TEN,False
-Lucie Hradeck,F,Czech Republic-1,CZE,2012,London,Tennis,Tennis Women's Doubles,Silver,Tennis,TEN,False
-Petra Kvitov,F,Czech Republic-1,CZE,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Lucie Afov,F,Czech Republic-1,CZE,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Lucie Afov,F,Czech Republic-1,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,True
-Barbora (-zhlavov),F,Czech Republic-1,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andrea Hlavkov,F,Czech Republic-1,CZE,2012,London,Tennis,Tennis Women's Doubles,Silver,Tennis,TEN,False,True
+Lucie Hradeck,F,Czech Republic-1,CZE,2012,London,Tennis,Tennis Women's Doubles,Silver,Tennis,TEN,False,True
+Petra Kvitov,F,Czech Republic-1,CZE,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Lucie Afov,F,Czech Republic-1,CZE,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Lucie Afov,F,Czech Republic-1,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,True,False
+Barbora (-zhlavov),F,Czech Republic-1,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,False,True

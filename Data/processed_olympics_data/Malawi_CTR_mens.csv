@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dyton Chimwaza,M,Malawi,MAW,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Dyton Chimwaza,M,Malawi,MAW,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Dyton Chimwaza,M,Malawi,MAW,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Dyton Chimwaza,M,Malawi,MAW,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Daniel Kaswanga,M,Malawi,MAW,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Daniel Kaswanga,M,Malawi,MAW,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Daniel Kaswanga,M,Malawi,MAW,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Raphael Kazembe,M,Malawi,MAW,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Grimon Langson,M,Malawi,MAW,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-George Nayeja,M,Malawi,MAW,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-George Nayeja,M,Malawi,MAW,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-George Nayeja,M,Malawi,MAW,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-George Nayeja,M,Malawi,MAW,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Amadu Yusufu,M,Malawi,MAW,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Amadu Yusufu,M,Malawi,MAW,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Amadu Yusufu,M,Malawi,MAW,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Amadu Yusufu,M,Malawi,MAW,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dyton Chimwaza,M,Malawi,MAW,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Dyton Chimwaza,M,Malawi,MAW,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Dyton Chimwaza,M,Malawi,MAW,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Dyton Chimwaza,M,Malawi,MAW,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Daniel Kaswanga,M,Malawi,MAW,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Daniel Kaswanga,M,Malawi,MAW,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Daniel Kaswanga,M,Malawi,MAW,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Raphael Kazembe,M,Malawi,MAW,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Grimon Langson,M,Malawi,MAW,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+George Nayeja,M,Malawi,MAW,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+George Nayeja,M,Malawi,MAW,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+George Nayeja,M,Malawi,MAW,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+George Nayeja,M,Malawi,MAW,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Amadu Yusufu,M,Malawi,MAW,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Amadu Yusufu,M,Malawi,MAW,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Amadu Yusufu,M,Malawi,MAW,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Amadu Yusufu,M,Malawi,MAW,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False

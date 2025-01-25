@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Michel Buzzi,M,Pousse-Moi Pas Vii,SUI,1964,Tokyo,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Jean-Pierre Renevier,M,Pousse-Moi Pas Vii,SUI,1964,Tokyo,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Michel Buzzi,M,Pousse-Moi Pas Vii,SUI,1964,Tokyo,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Jean-Pierre Renevier,M,Pousse-Moi Pas Vii,SUI,1964,Tokyo,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True

@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chan Ming,M,Malaysia-1,MAS,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Cheah Kit,M,Malaysia-1,MAS,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Cheah Kit,M,Malaysia-1,MAS,1996,Atlanta,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,True
-Cheah Kit,M,Malaysia-1,MAS,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Chew Eng,M,Malaysia-1,MAS,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Koo Keat,M,Malaysia-1,MAS,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Soo Kiang,M,Malaysia-1,MAS,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Tan Heong,M,Malaysia-1,MAS,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Yap Hock,M,Malaysia-1,MAS,1996,Atlanta,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,True
-Yap Hock,M,Malaysia-1,MAS,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chan Ming,M,Malaysia-1,MAS,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Cheah Kit,M,Malaysia-1,MAS,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Cheah Kit,M,Malaysia-1,MAS,1996,Atlanta,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,True,False
+Cheah Kit,M,Malaysia-1,MAS,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Chew Eng,M,Malaysia-1,MAS,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Koo Keat,M,Malaysia-1,MAS,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Soo Kiang,M,Malaysia-1,MAS,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Tan Heong,M,Malaysia-1,MAS,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Yap Hock,M,Malaysia-1,MAS,1996,Atlanta,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,True,True
+Yap Hock,M,Malaysia-1,MAS,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False

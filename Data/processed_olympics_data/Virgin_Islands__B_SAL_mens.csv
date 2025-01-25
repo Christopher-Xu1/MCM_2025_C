@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Thad Lettsome,M,"Virgin Islands, B",IVB,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Thad Lettsome,M,"Virgin Islands, B",IVB,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,False,True

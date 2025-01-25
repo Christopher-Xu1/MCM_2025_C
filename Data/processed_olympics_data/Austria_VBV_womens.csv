@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Doris (-robl),F,Austria,AUT,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Doris (-robl),F,Austria,AUT,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Stefanie Schwaiger,F,Austria,AUT,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Stefanie Schwaiger,F,Austria,AUT,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Doris (-robl),F,Austria,AUT,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,True
+Doris (-robl),F,Austria,AUT,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,False
+Stefanie Schwaiger,F,Austria,AUT,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,True
+Stefanie Schwaiger,F,Austria,AUT,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,False

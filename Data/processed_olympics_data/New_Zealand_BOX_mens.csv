@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Thomas Arbuthnott,M,New Zealand,NZL,1936,Berlin,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Kevin Barry,M,New Zealand,NZL,1984,Los Angeles,Boxing,Boxing Men's Light-Heavyweight,Silver,Boxing,BOX,False
-Alfred Cleverley,M,New Zealand,NZL,1928,Amsterdam,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Robert Colley,M,New Zealand,NZL,1976,Montreal,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Garth Silva,M,New Zealand,NZL,1996,Atlanta,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Thomas Donovan,M,New Zealand,NZL,1956,Melbourne,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Thomas Donovan,M,New Zealand,NZL,1964,Tokyo,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Sililo Manuele,M,New Zealand,NZL,1992,Barcelona,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Graham Finlay,M,New Zealand,NZL,1956,Melbourne,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Norman Fisher,M,New Zealand,NZL,1936,Berlin,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Clarence Gordon,M,New Zealand,NZL,1936,Berlin,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Colin Goslin,M,New Zealand,NZL,1948,London,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-David Jackson,M,New Zealand,NZL,1976,Montreal,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Michael Kenny,M,New Zealand,NZL,1984,Los Angeles,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Albert Lowe,M,New Zealand,NZL,1932,Los Angeles,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Brian Maunsell,M,New Zealand,NZL,1964,Tokyo,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Edward Morgan,M,New Zealand,NZL,1928,Amsterdam,Boxing,Boxing Men's Welterweight,Gold,Boxing,BOX,False
-Soulan (rikihana-),M,New Zealand,NZL,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Robert Purdie,M,New Zealand,NZL,1932,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Charles Purdy,M,New Zealand,NZL,1924,Paris,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Jeffrey Rackley,M,New Zealand,NZL,1972,Munich,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Patrick Ryan,M,New Zealand,NZL,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Thomas Shailer,M,New Zealand,NZL,1992,Barcelona,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Angus Shelford,M,New Zealand,NZL,2000,Sydney,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False
-Harold Thomas,M,New Zealand,NZL,1932,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-"Mafaufau ""tua""",M,New Zealand,NZL,1992,Barcelona,Boxing,Boxing Men's Heavyweight,Bronze,Boxing,BOX,False
-David Nyika,M,New Zealand,NZL,2020,Tokyo,Boxing,Men's Heavy (81-91kg),Bronze,Men's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Thomas Arbuthnott,M,New Zealand,NZL,1936,Berlin,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Kevin Barry,M,New Zealand,NZL,1984,Los Angeles,Boxing,Boxing Men's Light-Heavyweight,Silver,Boxing,BOX,False,True
+Alfred Cleverley,M,New Zealand,NZL,1928,Amsterdam,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Robert Colley,M,New Zealand,NZL,1976,Montreal,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Garth Silva,M,New Zealand,NZL,1996,Atlanta,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Thomas Donovan,M,New Zealand,NZL,1956,Melbourne,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,True
+Thomas Donovan,M,New Zealand,NZL,1964,Tokyo,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,False
+Sililo Manuele,M,New Zealand,NZL,1992,Barcelona,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Graham Finlay,M,New Zealand,NZL,1956,Melbourne,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Norman Fisher,M,New Zealand,NZL,1936,Berlin,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Clarence Gordon,M,New Zealand,NZL,1936,Berlin,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Colin Goslin,M,New Zealand,NZL,1948,London,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+David Jackson,M,New Zealand,NZL,1976,Montreal,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Michael Kenny,M,New Zealand,NZL,1984,Los Angeles,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Albert Lowe,M,New Zealand,NZL,1932,Los Angeles,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Brian Maunsell,M,New Zealand,NZL,1964,Tokyo,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Edward Morgan,M,New Zealand,NZL,1928,Amsterdam,Boxing,Boxing Men's Welterweight,Gold,Boxing,BOX,False,True
+Soulan (rikihana-),M,New Zealand,NZL,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Robert Purdie,M,New Zealand,NZL,1932,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Charles Purdy,M,New Zealand,NZL,1924,Paris,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Jeffrey Rackley,M,New Zealand,NZL,1972,Munich,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Patrick Ryan,M,New Zealand,NZL,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Thomas Shailer,M,New Zealand,NZL,1992,Barcelona,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Angus Shelford,M,New Zealand,NZL,2000,Sydney,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False,True
+Harold Thomas,M,New Zealand,NZL,1932,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+"Mafaufau ""tua""",M,New Zealand,NZL,1992,Barcelona,Boxing,Boxing Men's Heavyweight,Bronze,Boxing,BOX,False,True
+David Nyika,M,New Zealand,NZL,2020,Tokyo,Boxing,Men's Heavy (81-91kg),Bronze,Men's,BOX,False,True

@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Esteban Chaves,M,Colombia,COL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Andres Higuita,M,Colombia,COL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Nairo Quintana,M,Colombia,COL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Rigoberto Uran,M,Colombia,COL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Rigoberto Uran,M,Colombia,COL,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Dani Martinez,M,Colombia,COL,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Santi Buitrago,M,Colombia,COL,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Esteban Chaves,M,Colombia,COL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Andres Higuita,M,Colombia,COL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Nairo Quintana,M,Colombia,COL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Rigoberto Uran,M,Colombia,COL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Rigoberto Uran,M,Colombia,COL,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Dani Martinez,M,Colombia,COL,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Santi Buitrago,M,Colombia,COL,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True

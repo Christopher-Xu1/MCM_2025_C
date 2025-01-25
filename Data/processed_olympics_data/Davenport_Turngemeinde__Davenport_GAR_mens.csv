@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bernard Berg,M,"Davenport Turngemeinde, Davenport",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Leander Keim,M,"Davenport Turngemeinde, Davenport",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Otto Niemand,M,"Davenport Turngemeinde, Davenport",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Phillip Sonntag,M,"Davenport Turngemeinde, Davenport",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Reinhard Wagner,M,"Davenport Turngemeinde, Davenport",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Harry Warnken,M,"Davenport Turngemeinde, Davenport",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bernard Berg,M,"Davenport Turngemeinde, Davenport",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Leander Keim,M,"Davenport Turngemeinde, Davenport",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Otto Niemand,M,"Davenport Turngemeinde, Davenport",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Phillip Sonntag,M,"Davenport Turngemeinde, Davenport",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Reinhard Wagner,M,"Davenport Turngemeinde, Davenport",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Harry Warnken,M,"Davenport Turngemeinde, Davenport",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True

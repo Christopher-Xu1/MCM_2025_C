@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hong Tai-kwai,F,Chinese Taipei,TPE,1964,Tokyo,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Hong Tai-kwai,F,Chinese Taipei,TPE,1964,Tokyo,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Hong Tai-kwai,F,Chinese Taipei,TPE,1964,Tokyo,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Hong Tai-kwai,F,Chinese Taipei,TPE,1964,Tokyo,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Hong Tai-kwai,F,Chinese Taipei,TPE,1964,Tokyo,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Hong Tai-kwai,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Hong Tai-kwai,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Hong Tai-kwai,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Hong Tai-kwai,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Hong Tai-kwai,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Yu Mai-lee,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Yu Mai-lee,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Yu Mai-lee,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Yu Mai-lee,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Yu Mai-lee,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Hua-tien Ting,F,Chinese Taipei,TPE,2020,Tokyo,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True
-Hua-tien Ting,F,Chinese Taipei,TPE,2020,Tokyo,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True
-Hua-tien Ting,F,Chinese Taipei,TPE,2024,Paris,Artistic Gymnastics,Women,No medal,Women,GAR,True
-Hua-tien Ting,F,Chinese Taipei,TPE,2024,Paris,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hong Tai-kwai,F,Chinese Taipei,TPE,1964,Tokyo,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Hong Tai-kwai,F,Chinese Taipei,TPE,1964,Tokyo,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Hong Tai-kwai,F,Chinese Taipei,TPE,1964,Tokyo,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Hong Tai-kwai,F,Chinese Taipei,TPE,1964,Tokyo,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Hong Tai-kwai,F,Chinese Taipei,TPE,1964,Tokyo,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Hong Tai-kwai,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,False
+Hong Tai-kwai,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,False
+Hong Tai-kwai,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,False
+Hong Tai-kwai,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,False
+Hong Tai-kwai,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,False
+Yu Mai-lee,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Yu Mai-lee,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Yu Mai-lee,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Yu Mai-lee,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Yu Mai-lee,F,Chinese Taipei,TPE,1968,Mexico City,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Hua-tien Ting,F,Chinese Taipei,TPE,2020,Tokyo,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True,True
+Hua-tien Ting,F,Chinese Taipei,TPE,2020,Tokyo,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True,True
+Hua-tien Ting,F,Chinese Taipei,TPE,2024,Paris,Artistic Gymnastics,Women,No medal,Women,GAR,True,False
+Hua-tien Ting,F,Chinese Taipei,TPE,2024,Paris,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True,False

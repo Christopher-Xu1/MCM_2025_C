@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Richard Bentley,M,Guam,GUM,1992,Barcelona,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
-PhilAm Fernandez,M,Guam,GUM,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Joshua Ilustre,M,Guam,GUM,2016,Rio de Janeiro,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Derek Mandell,M,Guam,GUM,2008,Beijing,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Derek Mandell,M,Guam,GUM,2012,London,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Frederick Schumann,M,Guam,GUM,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Ricardo Taitano,M,Guam,GUM,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-James Walker,M,Guam,GUM,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Neil Weare,M,Guam,GUM,2004,Athina,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-David Wilson,M,Guam,GUM,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
-Joseph Green,M,Guam,GUM,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Richard Bentley,M,Guam,GUM,1992,Barcelona,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+PhilAm Fernandez,M,Guam,GUM,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Joshua Ilustre,M,Guam,GUM,2016,Rio de Janeiro,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Derek Mandell,M,Guam,GUM,2008,Beijing,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Derek Mandell,M,Guam,GUM,2012,London,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Frederick Schumann,M,Guam,GUM,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Ricardo Taitano,M,Guam,GUM,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+James Walker,M,Guam,GUM,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Neil Weare,M,Guam,GUM,2004,Athina,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+David Wilson,M,Guam,GUM,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False,True
+Joseph Green,M,Guam,GUM,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True

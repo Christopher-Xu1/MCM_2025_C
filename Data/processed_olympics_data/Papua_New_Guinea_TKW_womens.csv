@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Samantha Kassman,F,Papua New Guinea,PNG,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False
-Theresa Tona,F,Papua New Guinea,PNG,2008,Beijing,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,True
-Theresa Tona,F,Papua New Guinea,PNG,2012,London,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Samantha Kassman,F,Papua New Guinea,PNG,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False,True
+Theresa Tona,F,Papua New Guinea,PNG,2008,Beijing,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,True,True
+Theresa Tona,F,Papua New Guinea,PNG,2012,London,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,True,False

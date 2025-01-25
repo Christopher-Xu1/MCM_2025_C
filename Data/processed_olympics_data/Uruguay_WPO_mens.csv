@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ramn Caside,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Alberto Trucco,M,Uruguay,URU,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Juan Prez,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Jos Porca,M,Uruguay,URU,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Ral Nilson,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Julio Costemalle,M,Uruguay,URU,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Julio Costemalle,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Francisco Serantes,M,Uruguay,URU,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Leonel Priz,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Hugo Rodrguez,M,Uruguay,URU,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Maximino Rodrguez,M,Uruguay,URU,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Juan Lpez,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Osvaldo Fernndez,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Enrique Kliche,M,Uruguay,URU,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Enrique Kliche,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ramn Caside,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Alberto Trucco,M,Uruguay,URU,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Juan Prez,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Jos Porca,M,Uruguay,URU,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Ral Nilson,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Julio Costemalle,M,Uruguay,URU,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,True
+Julio Costemalle,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,False
+Francisco Serantes,M,Uruguay,URU,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Leonel Priz,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Hugo Rodrguez,M,Uruguay,URU,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Maximino Rodrguez,M,Uruguay,URU,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Juan Lpez,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Osvaldo Fernndez,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Enrique Kliche,M,Uruguay,URU,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,True
+Enrique Kliche,M,Uruguay,URU,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,False

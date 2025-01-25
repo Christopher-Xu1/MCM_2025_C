@@ -1,40 +1,40 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Viktor Andreyev,M,Unified Team,EUN,1992,Barcelona,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,False
-Iurie Bacatov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,False
-Vasily Ivanov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Vasily Ivanov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
-Pavlo Khnykin,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
-Pavlo Khnykin,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Pavlo Khnykin,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
-Aleksey Kudryavtsev,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Aleksey Kudryavtsev,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
-Vladislav Kulikov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Vladislav Kulikov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
-Dmitry Lepikov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False
-Serghei Mariniuc,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Serghei Mariniuc,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Yury Mukhin,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False
-Denis Pankratov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False
-Aleksandr Popov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,Gold,Swimming,SWM,True
-Aleksandr Popov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,Gold,Swimming,SWM,True
-Aleksandr Popov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
-Aleksandr Popov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
-Gennady Prigoda,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Gennady Prigoda,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Gennady Prigoda,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
-Vladimir Pyshnenko,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Vladimir Pyshnenko,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
-Vladimir Pyshnenko,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
-Vladimir Pyshnenko,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
-Yevgeny Sadovy,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,Gold,Swimming,SWM,True
-Yevgeny Sadovy,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 400 metres Freestyle,Gold,Swimming,SWM,True
-Yevgeny Sadovy,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
-Aleksandr Savitsky,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Aleksandr Savitsky,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Vladimir Selkov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Vladimir Selkov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 200 metres Backstroke,Silver,Swimming,SWM,True
-Vladimir Selkov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
-Veniamin Tayanovich,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
-Veniamin Tayanovich,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
-Dmitry Volkov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Dmitry Volkov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Viktor Andreyev,M,Unified Team,EUN,1992,Barcelona,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,False,True
+Iurie Bacatov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,False,True
+Vasily Ivanov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Vasily Ivanov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True,True
+Pavlo Khnykin,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True,True
+Pavlo Khnykin,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Pavlo Khnykin,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True,True
+Aleksey Kudryavtsev,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Aleksey Kudryavtsev,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True,True
+Vladislav Kulikov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Vladislav Kulikov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True,True
+Dmitry Lepikov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False,True
+Serghei Mariniuc,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Serghei Mariniuc,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Yury Mukhin,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False,True
+Denis Pankratov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False,True
+Aleksandr Popov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,Gold,Swimming,SWM,True,True
+Aleksandr Popov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,Gold,Swimming,SWM,True,True
+Aleksandr Popov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True,True
+Aleksandr Popov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True,True
+Gennady Prigoda,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Gennady Prigoda,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Gennady Prigoda,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True,True
+Vladimir Pyshnenko,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Vladimir Pyshnenko,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True,True
+Vladimir Pyshnenko,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True,True
+Vladimir Pyshnenko,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True,True
+Yevgeny Sadovy,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,Gold,Swimming,SWM,True,True
+Yevgeny Sadovy,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 400 metres Freestyle,Gold,Swimming,SWM,True,True
+Yevgeny Sadovy,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True,True
+Aleksandr Savitsky,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Aleksandr Savitsky,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Vladimir Selkov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Vladimir Selkov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 200 metres Backstroke,Silver,Swimming,SWM,True,True
+Vladimir Selkov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True,True
+Veniamin Tayanovich,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True,True
+Veniamin Tayanovich,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True,True
+Dmitry Volkov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Dmitry Volkov,M,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True,True

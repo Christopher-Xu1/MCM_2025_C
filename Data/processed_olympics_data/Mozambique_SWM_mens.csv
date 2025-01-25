@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chakyl Camal,M,Mozambique,MOZ,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Chakyl Camal,M,Mozambique,MOZ,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Domingos Chivavele,M,Mozambique,MOZ,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Joaquim Cruz,M,Mozambique,MOZ,1980,Moskva,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Joaquim Cruz,M,Mozambique,MOZ,1984,Los Angeles,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Joaquim Cruz,M,Mozambique,MOZ,1984,Los Angeles,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Sergio Fafitine,M,Mozambique,MOZ,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Sergio Fafitine,M,Mozambique,MOZ,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Sergio Fafitine,M,Mozambique,MOZ,1988,Seoul,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Sergio Fafitine,M,Mozambique,MOZ,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Raimundo Franisse,M,Mozambique,MOZ,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Raimundo Franisse,M,Mozambique,MOZ,1980,Moskva,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Leandro Jorge,M,Mozambique,MOZ,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Ntewane Machel,M,Mozambique,MOZ,1980,Moskva,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
-Edgar Martins,M,Mozambique,MOZ,1980,Moskva,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Leonel Matonse,M,Mozambique,MOZ,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Ilidio Matusse,M,Mozambique,MOZ,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Igor Mogne,M,Mozambique,MOZ,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Jos Mossiane,M,Mozambique,MOZ,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Rogerio Silva,M,Mozambique,MOZ,1980,Moskva,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Igor Mogne,M,Mozambique,MOZ,2020,Tokyo,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,True
-Matthew Lawrence,M,Mozambique,MOZ,2024,Paris,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chakyl Camal,M,Mozambique,MOZ,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Chakyl Camal,M,Mozambique,MOZ,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Domingos Chivavele,M,Mozambique,MOZ,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Joaquim Cruz,M,Mozambique,MOZ,1980,Moskva,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Joaquim Cruz,M,Mozambique,MOZ,1984,Los Angeles,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Joaquim Cruz,M,Mozambique,MOZ,1984,Los Angeles,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Sergio Fafitine,M,Mozambique,MOZ,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Sergio Fafitine,M,Mozambique,MOZ,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Sergio Fafitine,M,Mozambique,MOZ,1988,Seoul,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Sergio Fafitine,M,Mozambique,MOZ,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Raimundo Franisse,M,Mozambique,MOZ,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Raimundo Franisse,M,Mozambique,MOZ,1980,Moskva,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Leandro Jorge,M,Mozambique,MOZ,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Ntewane Machel,M,Mozambique,MOZ,1980,Moskva,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Edgar Martins,M,Mozambique,MOZ,1980,Moskva,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Leonel Matonse,M,Mozambique,MOZ,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Ilidio Matusse,M,Mozambique,MOZ,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Igor Mogne,M,Mozambique,MOZ,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Jos Mossiane,M,Mozambique,MOZ,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Rogerio Silva,M,Mozambique,MOZ,1980,Moskva,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Igor Mogne,M,Mozambique,MOZ,2020,Tokyo,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,True,False
+Matthew Lawrence,M,Mozambique,MOZ,2024,Paris,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,False,True

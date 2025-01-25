@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Simon Aspelin,M,Sweden-2,SWE,2008,Beijing,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,False
-Karl Enqvist,M,Sweden-2,SWE,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Torsten Grnfors,M,Sweden-2,SWE,1912,Stockholm,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Torsten Grnfors,M,Sweden-2,SWE,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Karl Johansson,M,Sweden-2,SWE,2008,Beijing,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,False
-Johan Kempe,M,Sweden-2,SWE,1912,Stockholm,Tennis,"Tennis Mixed Doubles, Covered Courts",No medal,Tennis,TEN,True
-Johan Kempe,M,Sweden-2,SWE,1912,Stockholm,Tennis,"Tennis Men's Doubles, Covered Courts",Silver,Tennis,TEN,True
-Fritz Lindqvist,M,Sweden-2,SWE,1920,Antwerpen,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,False
-Jarl Malmstrm,M,Sweden-2,SWE,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Frans Mller,M,Sweden-2,SWE,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Henning Mller,M,Sweden-2,SWE,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,False
-Carl Setterwall,M,Sweden-2,SWE,1912,Stockholm,Tennis,"Tennis Men's Doubles, Covered Courts",Silver,Tennis,TEN,False
-Robin Sderling,M,Sweden-2,SWE,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Carl Braun,M,Sweden-2,SWE,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Simon Aspelin,M,Sweden-2,SWE,2008,Beijing,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,False,True
+Karl Enqvist,M,Sweden-2,SWE,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Torsten Grnfors,M,Sweden-2,SWE,1912,Stockholm,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Torsten Grnfors,M,Sweden-2,SWE,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Karl Johansson,M,Sweden-2,SWE,2008,Beijing,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,False,True
+Johan Kempe,M,Sweden-2,SWE,1912,Stockholm,Tennis,"Tennis Mixed Doubles, Covered Courts",No medal,Tennis,TEN,True,True
+Johan Kempe,M,Sweden-2,SWE,1912,Stockholm,Tennis,"Tennis Men's Doubles, Covered Courts",Silver,Tennis,TEN,True,True
+Fritz Lindqvist,M,Sweden-2,SWE,1920,Antwerpen,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,False,True
+Jarl Malmstrm,M,Sweden-2,SWE,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Frans Mller,M,Sweden-2,SWE,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Henning Mller,M,Sweden-2,SWE,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,False,True
+Carl Setterwall,M,Sweden-2,SWE,1912,Stockholm,Tennis,"Tennis Men's Doubles, Covered Courts",Silver,Tennis,TEN,False,True
+Robin Sderling,M,Sweden-2,SWE,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Carl Braun,M,Sweden-2,SWE,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

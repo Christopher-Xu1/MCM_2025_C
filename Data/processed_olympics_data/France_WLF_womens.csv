@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Virginie Lachaume,F,France,FRA,2004,Athina,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False
-Galle Nayo-ketchanke,F,France,FRA,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False
-Mlanie Nol-bardis,F,France,FRA,2008,Beijing,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True
-Mlanie Nol-bardis,F,France,FRA,2012,London,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True
-Sabrina Richard,F,France,FRA,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Anais Michel,F,France,FRA,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,False
-Gaelle Nayo,F,France,FRA,2020,Tokyo,Weightlifting,Women's 87kg,No medal,Women's,WLF,False
-Meiriama Tchakounte,F,France,FRA,2020,Tokyo,Weightlifting,Women's 59kg,No medal,Women's,WLF,False
-Marie Fegue,F,France,FRA,2024,Paris,Weightlifting,Women's 71kg,No medal,Women's,WLF,False
-Dora Tchakounte,F,France,FRA,2024,Paris,Weightlifting,Women's 59kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Virginie Lachaume,F,France,FRA,2004,Athina,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False,True
+Galle Nayo-ketchanke,F,France,FRA,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False,True
+Mlanie Nol-bardis,F,France,FRA,2008,Beijing,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True,True
+Mlanie Nol-bardis,F,France,FRA,2012,London,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True,False
+Sabrina Richard,F,France,FRA,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Anais Michel,F,France,FRA,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,False,True
+Gaelle Nayo,F,France,FRA,2020,Tokyo,Weightlifting,Women's 87kg,No medal,Women's,WLF,False,True
+Meiriama Tchakounte,F,France,FRA,2020,Tokyo,Weightlifting,Women's 59kg,No medal,Women's,WLF,False,True
+Marie Fegue,F,France,FRA,2024,Paris,Weightlifting,Women's 71kg,No medal,Women's,WLF,False,True
+Dora Tchakounte,F,France,FRA,2024,Paris,Weightlifting,Women's 59kg,No medal,Women's,WLF,False,True

@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Talita Baqlah,F,Jordan,JOR,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Talita Baqlah,F,Jordan,JOR,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Mira Ghniem,F,Jordan,JOR,1996,Atlanta,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,False
-Hana Majaj,F,Jordan,JOR,2000,Sydney,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,False
-Samar Nassar,F,Jordan,JOR,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Razan Taha,F,Jordan,JOR,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Talita Baqlah,F,Jordan,JOR,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True
-Karin Belbeisi,F,Jordan,JOR,2024,Paris,Swimming,Women's 400m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Talita Baqlah,F,Jordan,JOR,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Talita Baqlah,F,Jordan,JOR,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Mira Ghniem,F,Jordan,JOR,1996,Atlanta,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,False,True
+Hana Majaj,F,Jordan,JOR,2000,Sydney,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,False,True
+Samar Nassar,F,Jordan,JOR,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Razan Taha,F,Jordan,JOR,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Talita Baqlah,F,Jordan,JOR,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True,False
+Karin Belbeisi,F,Jordan,JOR,2024,Paris,Swimming,Women's 400m Freestyle,No medal,Women's,SWM,False,True

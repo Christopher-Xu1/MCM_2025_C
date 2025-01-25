@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chen Chiung-yi,F,Chinese Taipei,TPE,2000,Sydney,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Fang Fen-fang,F,Chinese Taipei,TPE,2000,Sydney,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,False
-Hsiao Mei-yu,F,Chinese Taipei,TPE,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Hsiao Mei-yu,F,Chinese Taipei,TPE,2012,London,Cycling,Cycling Women's Omnium,No medal,Cycling,CTR,True
-Hsiao Mei-yu,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Cycling,Cycling Women's Omnium,No medal,Cycling,CTR,True
-Huang Ting-ying,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Yang Hsiu-chen,F,Chinese Taipei,TPE,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Yang Hsiu-chen,F,Chinese Taipei,TPE,1988,Seoul,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chen Chiung-yi,F,Chinese Taipei,TPE,2000,Sydney,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Fang Fen-fang,F,Chinese Taipei,TPE,2000,Sydney,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,False,True
+Hsiao Mei-yu,F,Chinese Taipei,TPE,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Hsiao Mei-yu,F,Chinese Taipei,TPE,2012,London,Cycling,Cycling Women's Omnium,No medal,Cycling,CTR,True,True
+Hsiao Mei-yu,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Cycling,Cycling Women's Omnium,No medal,Cycling,CTR,True,False
+Huang Ting-ying,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Yang Hsiu-chen,F,Chinese Taipei,TPE,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Yang Hsiu-chen,F,Chinese Taipei,TPE,1988,Seoul,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,True,True

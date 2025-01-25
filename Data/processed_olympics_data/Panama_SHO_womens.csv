@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jennieli Schuverer,F,Panama,PAN,1996,Atlanta,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jennieli Schuverer,F,Panama,PAN,1996,Atlanta,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True

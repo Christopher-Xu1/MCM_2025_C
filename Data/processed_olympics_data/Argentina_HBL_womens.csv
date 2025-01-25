@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mara Belotti,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Valeria Bianchi,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Roco Campigli,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Marisol Carrat,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Victoria Crivelli,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Macarena Gandulfo,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Luca Haro,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Xoana Iacoi,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Elke Karsten,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Valentina Kogan,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Antonela Mena,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Luciana Mendoza,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Manuela Pizzo,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Luciana Salvad,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Macarena Sans,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mara Belotti,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Valeria Bianchi,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Roco Campigli,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Marisol Carrat,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Victoria Crivelli,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Macarena Gandulfo,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Luca Haro,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Xoana Iacoi,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Elke Karsten,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Valentina Kogan,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Antonela Mena,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Luciana Mendoza,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Manuela Pizzo,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Luciana Salvad,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Macarena Sans,F,Argentina,ARG,2016,Rio de Janeiro,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True

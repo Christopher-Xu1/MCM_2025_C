@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Franois Brandt,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Pairs,Gold,Rowing,ROW,True
-Franois Brandt,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,True
-Hermanus Brockmann,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Pairs,Gold,Rowing,ROW,True
-Hermanus Brockmann,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,True
-Hermanus Brockmann,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,True
-Coenraad Hiebendaal,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,False
-Roelof Klein,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Pairs,Gold,Rowing,ROW,True
-Roelof Klein,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,True
-Ruurd Leegstra,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Gerhard Lotsij,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,False
-Paulus Lotsij,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,False
-Walter Thijssen,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Walter Middelberg,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Hendrik Offerhaus,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Johannes Terwogt,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,False
-Henricus Tromp),M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Johannes Dijk,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Franois Brandt,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Pairs,Gold,Rowing,ROW,True,True
+Franois Brandt,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,True,True
+Hermanus Brockmann,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Pairs,Gold,Rowing,ROW,True,True
+Hermanus Brockmann,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,True,True
+Hermanus Brockmann,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,True,True
+Coenraad Hiebendaal,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,False,True
+Roelof Klein,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Pairs,Gold,Rowing,ROW,True,True
+Roelof Klein,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,True,True
+Ruurd Leegstra,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Gerhard Lotsij,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,False,True
+Paulus Lotsij,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,False,True
+Walter Thijssen,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Walter Middelberg,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Hendrik Offerhaus,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Johannes Terwogt,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,False,True
+Henricus Tromp),M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Johannes Dijk,M,Minerva Amsterdam,NED,1900,Paris,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True

@@ -1,46 +1,46 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Per Ankre,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Hein Bk,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Pl Bye,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Pl Cappelen,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Carl Graff-wang,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Inge Hansen,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Torstein Hansen,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Trond Hverven,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Ulf Magnussen,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Jan Kseter,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Sten Osther,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Jon Reinertsen,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Geir Rse,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Per Sderstrm,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Harald Tyrdal,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Finn Urdal,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Magnus Abelvik,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False
-Torbjoern Bergerud,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False
-Kristian Bjoernsen,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,True
-Magnus Fredriksen,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False
-Magnus Gullerud,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,True
-Kevin Gulliksen,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False
-Magnus Joendal,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False
-Bjarte Myrhol,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False
-Petter Oeverby,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,True
-Christian O'sullivan,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False
-Simen Pettersen,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False
-Harald Reinkind,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,True
-Kristian Saeveraas,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False
-Sander Sagosen,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,True
-Robin Toennesen,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False
-Kristian Bjoernsen,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,True
-Hein Barthold,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False
-Ulstad Lyse,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False
-Sittru Bergerud,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False
-Petter Oeverby,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,True
-Harald Reinkind,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,True
-Schjoelberg Groendahl,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False
-Skinstad Saeveraas,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False
-Magnus Gullerud,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,True
-Sander Sagosen,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,True
-Eck Aga,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False
-Christoffersen Blonz,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False
-Ask Setterblom,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False
-Christian Osullivan,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Per Ankre,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Hein Bk,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Pl Bye,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Pl Cappelen,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Carl Graff-wang,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Inge Hansen,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Torstein Hansen,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Trond Hverven,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Ulf Magnussen,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Jan Kseter,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Sten Osther,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Jon Reinertsen,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Geir Rse,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Per Sderstrm,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Harald Tyrdal,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Finn Urdal,M,Norway,NOR,1972,Munich,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Magnus Abelvik,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False,True
+Torbjoern Bergerud,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False,True
+Kristian Bjoernsen,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,True,True
+Magnus Fredriksen,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False,True
+Magnus Gullerud,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,True,True
+Kevin Gulliksen,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False,True
+Magnus Joendal,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False,True
+Bjarte Myrhol,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False,True
+Petter Oeverby,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,True,True
+Christian O'sullivan,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False,True
+Simen Pettersen,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False,True
+Harald Reinkind,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,True,True
+Kristian Saeveraas,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False,True
+Sander Sagosen,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,True,True
+Robin Toennesen,M,Norway,NOR,2020,Tokyo,Handball,Men Team,No medal,Men,HBL,False,True
+Kristian Bjoernsen,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,True,False
+Hein Barthold,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False,True
+Ulstad Lyse,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False,True
+Sittru Bergerud,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False,True
+Petter Oeverby,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,True,False
+Harald Reinkind,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,True,False
+Schjoelberg Groendahl,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False,True
+Skinstad Saeveraas,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False,True
+Magnus Gullerud,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,True,False
+Sander Sagosen,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,True,False
+Eck Aga,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False,True
+Christoffersen Blonz,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False,True
+Ask Setterblom,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False,True
+Christian Osullivan,M,Norway,NOR,2024,Paris,Handball,Men,No medal,Men,HBL,False,True

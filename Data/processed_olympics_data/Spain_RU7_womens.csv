@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marina Bragado,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Mara Gonzlez,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-ngela Moruno,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Iera Fernndez,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Amaia Araa,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Berta Alonso,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Patricia Jareo,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Elisabet Garca,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Paula Lpez,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Brbara Vegu,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Ana Lpez,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Mara Garca,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marina Bragado,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Mara Gonzlez,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+ngela Moruno,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Iera Fernndez,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Amaia Araa,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Berta Alonso,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Patricia Jareo,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Elisabet Garca,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Paula Lpez,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Brbara Vegu,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Ana Lpez,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Mara Garca,F,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True

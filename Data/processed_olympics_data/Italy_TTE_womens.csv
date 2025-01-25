@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alessia Arisi,F,Italy,ITA,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Alessia Arisi,F,Italy,ITA,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Alessia Arisi,F,Italy,ITA,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Flyura Bulatova-abbate,F,Italy,ITA,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Laura Negrisoli,F,Italy,ITA,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Laura Negrisoli,F,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Nikoleta Stefanova,F,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Nikoleta Stefanova,F,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Nikoleta Stefanova,F,Italy,ITA,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Wenling Monfardini,F,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Wenling Monfardini,F,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Wenling Monfardini,F,Italy,ITA,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Wenling Monfardini,F,Italy,ITA,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Debora Vivarelli,F,Italy,ITA,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Giorgia Piccolin,F,Italy,ITA,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,False
-Debora Vivarelli,F,Italy,ITA,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alessia Arisi,F,Italy,ITA,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Alessia Arisi,F,Italy,ITA,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Alessia Arisi,F,Italy,ITA,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Flyura Bulatova-abbate,F,Italy,ITA,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Laura Negrisoli,F,Italy,ITA,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Laura Negrisoli,F,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Nikoleta Stefanova,F,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Nikoleta Stefanova,F,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Nikoleta Stefanova,F,Italy,ITA,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Wenling Monfardini,F,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Wenling Monfardini,F,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Wenling Monfardini,F,Italy,ITA,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Wenling Monfardini,F,Italy,ITA,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Debora Vivarelli,F,Italy,ITA,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Giorgia Piccolin,F,Italy,ITA,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,False,True
+Debora Vivarelli,F,Italy,ITA,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False

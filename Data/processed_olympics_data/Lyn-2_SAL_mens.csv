@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jens Salvesen,M,Lyn-2,NOR,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False
-Fin Schiander,M,Lyn-2,NOR,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False
-Lauritz Schmidt,M,Lyn-2,NOR,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False
-Nils Thomas,M,Lyn-2,NOR,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False
-Ralph Tschudi,M,Lyn-2,NOR,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jens Salvesen,M,Lyn-2,NOR,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False,True
+Fin Schiander,M,Lyn-2,NOR,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False,True
+Lauritz Schmidt,M,Lyn-2,NOR,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False,True
+Nils Thomas,M,Lyn-2,NOR,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False,True
+Ralph Tschudi,M,Lyn-2,NOR,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False,True

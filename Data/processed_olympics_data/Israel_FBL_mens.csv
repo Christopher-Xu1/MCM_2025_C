@@ -1,52 +1,52 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chaim Bar,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Shraga Bar,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Menachem Bello,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Alon Ben-dor,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-George Borba,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Avraham Cohen,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Gideon Damti,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Itzhak Druker,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Itzhak Englander,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Yehoshua Faygenbaum,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Joshoua Gal,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-David Karako,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Nachman Kastro,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Abraham Lev,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Elimeleh Leventhal,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Chaim Levin,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Oded Machnes,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Shmuel Malika-aharon,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Meir Nimni,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Yaron Oz,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Itzhak Peretz,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Zvi Rosen,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Shmuel Rosenthal,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Moshe Shani,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Itzhak Shum,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Yeshayahu Shwager,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Giora Spiegel,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Mordechai Spiegler,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Rachamin Talbi,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Rifaat Turk,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Itzhak Vissoker,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Reuben Young,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False
-Adi Yona,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Roy Sasoon,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Niv Eliasi,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Elad Madmon,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Ayanaw Ferede,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Omri Gandelman,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Noam Ben,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Or Israelov,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Sean Goldberg,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Ilay Feingold,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Ethane Azoulay,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Omer Nir,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Roy Revivo,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Ido Shahar,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Liel Abada,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Dor Turgeman,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Oscar Gloukh,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Stav Lemkin,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Osher Davida,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chaim Bar,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Shraga Bar,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Menachem Bello,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Alon Ben-dor,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+George Borba,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Avraham Cohen,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Gideon Damti,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Itzhak Druker,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Itzhak Englander,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Yehoshua Faygenbaum,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Joshoua Gal,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+David Karako,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Nachman Kastro,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Abraham Lev,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Elimeleh Leventhal,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Chaim Levin,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Oded Machnes,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Shmuel Malika-aharon,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Meir Nimni,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Yaron Oz,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Itzhak Peretz,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Zvi Rosen,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Shmuel Rosenthal,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Moshe Shani,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Itzhak Shum,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Yeshayahu Shwager,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Giora Spiegel,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mordechai Spiegler,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Rachamin Talbi,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Rifaat Turk,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Itzhak Vissoker,M,Israel,ISR,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Reuben Young,M,Israel,ISR,1968,Mexico City,Football,Football Men's Football,No medal,Football,FBL,False,True
+Adi Yona,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Roy Sasoon,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Niv Eliasi,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Elad Madmon,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Ayanaw Ferede,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Omri Gandelman,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Noam Ben,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Or Israelov,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Sean Goldberg,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Ilay Feingold,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Ethane Azoulay,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Omer Nir,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Roy Revivo,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Ido Shahar,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Liel Abada,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Dor Turgeman,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Oscar Gloukh,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Stav Lemkin,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Osher Davida,M,Israel,ISR,2024,Paris,Football,Men,No medal,Men,FBL,False,True

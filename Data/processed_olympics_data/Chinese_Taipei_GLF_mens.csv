@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lin Wen-tang,M,Chinese Taipei,TPE,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Cheng-Tsung Pan,M,Chinese Taipei,TPE,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-T Pan,M,Chinese Taipei,TPE,2020,Tokyo,Golf,Men's Individual Stroke Play,Bronze,Men's,GLF,False
-C.t Pan,M,Chinese Taipei,TPE,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Kevin Yu,M,Chinese Taipei,TPE,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lin Wen-tang,M,Chinese Taipei,TPE,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Cheng-Tsung Pan,M,Chinese Taipei,TPE,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+T Pan,M,Chinese Taipei,TPE,2020,Tokyo,Golf,Men's Individual Stroke Play,Bronze,Men's,GLF,False,True
+C.t Pan,M,Chinese Taipei,TPE,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Kevin Yu,M,Chinese Taipei,TPE,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-de David,M,Cabo Verde,CPV,2024,Paris,Boxing,Men's 51kg,Bronze,Men's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+de David,M,Cabo Verde,CPV,2024,Paris,Boxing,Men's 51kg,Bronze,Men's,BOX,False,True

@@ -1,42 +1,42 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eldad Amir,M,Israel,ISR,1984,Los Angeles,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True
-Eldad Amir,M,Israel,ISR,1988,Seoul,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True
-Eldad Amir,M,Israel,ISR,1992,Barcelona,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True
-Yehuda Atedji,M,Israel,ISR,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Shai Bachar,M,Israel,ISR,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Shimshon Brokman,M,Israel,ISR,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False
-Eitan Fridlander,M,Israel,ISR,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False
-Gal Fridman,M,Israel,ISR,1996,Atlanta,Sailing,Sailing Men's Windsurfer,Bronze,Sailing,SAL,True
-Gal Fridman,M,Israel,ISR,2004,Athina,Sailing,Sailing Men's Windsurfer,Gold,Sailing,SAL,True
-Dan Froyliche,M,Israel,ISR,2016,Rio de Janeiro,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Udi Gal,M,Israel,ISR,2004,Athina,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Udi Gal,M,Israel,ISR,2008,Beijing,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Amit Inbar,M,Israel,ISR,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Amit Inbar,M,Israel,ISR,2000,Sydney,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Gideon Kliger,M,Israel,ISR,2004,Athina,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Gideon Kliger,M,Israel,ISR,2008,Beijing,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Gideon Kliger,M,Israel,ISR,2012,London,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Eyal Levine,M,Israel,ISR,2016,Rio de Janeiro,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Yehuda Mayan,M,Israel,ISR,1976,Montreal,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Yair Michaeli,M,Israel,ISR,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Itzhak Nir,M,Israel,ISR,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Elad Ronen,M,Israel,ISR,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Eran Sela,M,Israel,ISR,2012,London,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Yoel Sela,M,Israel,ISR,1976,Montreal,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True
-Yoel Sela,M,Israel,ISR,1984,Los Angeles,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True
-Yoel Sela,M,Israel,ISR,1988,Seoul,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True
-Yoel Sela,M,Israel,ISR,1992,Barcelona,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True
-Erez Shemesh,M,Israel,ISR,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Nir Shental,M,Israel,ISR,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Ran Shental,M,Israel,ISR,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Dan-Noam Torten,M,Israel,ISR,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Ram-Jacob Torten,M,Israel,ISR,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Shahar Zubari,M,Israel,ISR,2008,Beijing,Sailing,Sailing Men's Windsurfer,Bronze,Sailing,SAL,True
-Shahar Zubari,M,Israel,ISR,2012,London,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Shahar Zubari,M,Israel,ISR,2016,Rio de Janeiro,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Eli Zuckerman,M,Israel,ISR,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Yoav Cohen,M,Israel,ISR,2020,Tokyo,Sailing,Men's Windsurfer - RS:X,No medal,Men's,SAL,False
-Nitai Hasson,M,Israel,ISR,2024,Paris,Sailing,Mixed Dinghy,No medal,Mixed,SAL,False
-Tom Reuveny,M,Israel,ISR,2024,Paris,Sailing,Men's Windsurfing,Gold,Men's,SAL,False
-Dor Zarka,M,Israel,ISR,2024,Paris,Sailing,Men's Kite,No medal,Men's,SAL,False
-Omer Vered,M,Israel,ISR,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eldad Amir,M,Israel,ISR,1984,Los Angeles,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True,True
+Eldad Amir,M,Israel,ISR,1988,Seoul,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True,False
+Eldad Amir,M,Israel,ISR,1992,Barcelona,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True,False
+Yehuda Atedji,M,Israel,ISR,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Shai Bachar,M,Israel,ISR,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Shimshon Brokman,M,Israel,ISR,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False,True
+Eitan Fridlander,M,Israel,ISR,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False,True
+Gal Fridman,M,Israel,ISR,1996,Atlanta,Sailing,Sailing Men's Windsurfer,Bronze,Sailing,SAL,True,True
+Gal Fridman,M,Israel,ISR,2004,Athina,Sailing,Sailing Men's Windsurfer,Gold,Sailing,SAL,True,False
+Dan Froyliche,M,Israel,ISR,2016,Rio de Janeiro,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Udi Gal,M,Israel,ISR,2004,Athina,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Udi Gal,M,Israel,ISR,2008,Beijing,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Amit Inbar,M,Israel,ISR,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,True
+Amit Inbar,M,Israel,ISR,2000,Sydney,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Gideon Kliger,M,Israel,ISR,2004,Athina,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Gideon Kliger,M,Israel,ISR,2008,Beijing,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Gideon Kliger,M,Israel,ISR,2012,London,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Eyal Levine,M,Israel,ISR,2016,Rio de Janeiro,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Yehuda Mayan,M,Israel,ISR,1976,Montreal,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Yair Michaeli,M,Israel,ISR,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Itzhak Nir,M,Israel,ISR,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Elad Ronen,M,Israel,ISR,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Eran Sela,M,Israel,ISR,2012,London,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Yoel Sela,M,Israel,ISR,1976,Montreal,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True,True
+Yoel Sela,M,Israel,ISR,1984,Los Angeles,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True,False
+Yoel Sela,M,Israel,ISR,1988,Seoul,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True,False
+Yoel Sela,M,Israel,ISR,1992,Barcelona,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True,False
+Erez Shemesh,M,Israel,ISR,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Nir Shental,M,Israel,ISR,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Ran Shental,M,Israel,ISR,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Dan-Noam Torten,M,Israel,ISR,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Ram-Jacob Torten,M,Israel,ISR,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Shahar Zubari,M,Israel,ISR,2008,Beijing,Sailing,Sailing Men's Windsurfer,Bronze,Sailing,SAL,True,True
+Shahar Zubari,M,Israel,ISR,2012,London,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Shahar Zubari,M,Israel,ISR,2016,Rio de Janeiro,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Eli Zuckerman,M,Israel,ISR,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Yoav Cohen,M,Israel,ISR,2020,Tokyo,Sailing,Men's Windsurfer - RS:X,No medal,Men's,SAL,False,True
+Nitai Hasson,M,Israel,ISR,2024,Paris,Sailing,Mixed Dinghy,No medal,Mixed,SAL,False,True
+Tom Reuveny,M,Israel,ISR,2024,Paris,Sailing,Men's Windsurfing,Gold,Men's,SAL,False,True
+Dor Zarka,M,Israel,ISR,2024,Paris,Sailing,Men's Kite,No medal,Men's,SAL,False,True
+Omer Vered,M,Israel,ISR,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,False,True

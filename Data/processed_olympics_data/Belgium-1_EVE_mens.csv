@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Georges Chaudoir,M,Belgium-1,BEL,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Paul Lambert,M,Belgium-1,BEL,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Georges Nagelmackers,M,Belgium-1,BEL,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,Gold,Equestrianism,EVE,False
-Orban,M,Belgium-1,BEL,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Georges Pauwels,M,Belgium-1,BEL,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Adrien Sinay,M,Belgium-1,BEL,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Etienne Haar,M,Belgium-1,BEL,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Georges Chaudoir,M,Belgium-1,BEL,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Paul Lambert,M,Belgium-1,BEL,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Georges Nagelmackers,M,Belgium-1,BEL,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,Gold,Equestrianism,EVE,False,True
+Orban,M,Belgium-1,BEL,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Georges Pauwels,M,Belgium-1,BEL,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Adrien Sinay,M,Belgium-1,BEL,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Etienne Haar,M,Belgium-1,BEL,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True

@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yuta Ikeda,M,Japan,JPN,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Shingo Katayama,M,Japan,JPN,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Rikuya Hoshino,M,Japan,JPN,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Hideki Matsuyama,M,Japan,JPN,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
-Hideki Matsuyama,M,Japan,JPN,2024,Paris,Golf,Men's Individual Stroke Play,Bronze,Men's,GLF,True
-Keita Nakajima,M,Japan,JPN,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yuta Ikeda,M,Japan,JPN,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Shingo Katayama,M,Japan,JPN,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Rikuya Hoshino,M,Japan,JPN,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Hideki Matsuyama,M,Japan,JPN,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,True
+Hideki Matsuyama,M,Japan,JPN,2024,Paris,Golf,Men's Individual Stroke Play,Bronze,Men's,GLF,True,False
+Keita Nakajima,M,Japan,JPN,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True

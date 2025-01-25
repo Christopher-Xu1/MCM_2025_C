@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lennox Adams,M,Saint Vincent And The Grenadines,VIN,1988,Seoul,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False
-Orde Ballantyne,M,Saint Vincent And The Grenadines,VIN,1988,Seoul,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,False
-Pamenos Ballantyne,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Pamenos Ballantyne,M,Saint Vincent And The Grenadines,VIN,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Kahlil Cato,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Eswort Coombs,M,Saint Vincent And The Grenadines,VIN,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Eswort Coombs,M,Saint Vincent And The Grenadines,VIN,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Eswort Coombs,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Eswort Coombs,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Eswort Coombs,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Thomas Dickson,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Andr Franois,M,Saint Vincent And The Grenadines,VIN,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
-Andy Grant,M,Saint Vincent And The Grenadines,VIN,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Jared Lewis,M,Saint Vincent And The Grenadines,VIN,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Eversley Linley,M,Saint Vincent And The Grenadines,VIN,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Eversley Linley,M,Saint Vincent And The Grenadines,VIN,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Eversley Linley,M,Saint Vincent And The Grenadines,VIN,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Eversley Linley,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Joel Mascoll,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Joel Mascoll,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Lenford O'garro,M,Saint Vincent And The Grenadines,VIN,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Erasto Sampson,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Erasto Sampson,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Brandon Valentine-parris,M,Saint Vincent And The Grenadines,VIN,2016,Rio de Janeiro,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Courtney Williams,M,Saint Vincent And The Grenadines,VIN,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Michael Williams,M,Saint Vincent And The Grenadines,VIN,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Michael Williams,M,Saint Vincent And The Grenadines,VIN,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lennox Adams,M,Saint Vincent And The Grenadines,VIN,1988,Seoul,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False,True
+Orde Ballantyne,M,Saint Vincent And The Grenadines,VIN,1988,Seoul,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,False,True
+Pamenos Ballantyne,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Pamenos Ballantyne,M,Saint Vincent And The Grenadines,VIN,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Kahlil Cato,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Eswort Coombs,M,Saint Vincent And The Grenadines,VIN,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Eswort Coombs,M,Saint Vincent And The Grenadines,VIN,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Eswort Coombs,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,False
+Eswort Coombs,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Eswort Coombs,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,False
+Thomas Dickson,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Andr Franois,M,Saint Vincent And The Grenadines,VIN,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False,True
+Andy Grant,M,Saint Vincent And The Grenadines,VIN,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Jared Lewis,M,Saint Vincent And The Grenadines,VIN,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Eversley Linley,M,Saint Vincent And The Grenadines,VIN,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Eversley Linley,M,Saint Vincent And The Grenadines,VIN,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Eversley Linley,M,Saint Vincent And The Grenadines,VIN,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,False
+Eversley Linley,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,False
+Joel Mascoll,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Joel Mascoll,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Lenford O'garro,M,Saint Vincent And The Grenadines,VIN,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Erasto Sampson,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Erasto Sampson,M,Saint Vincent And The Grenadines,VIN,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Brandon Valentine-parris,M,Saint Vincent And The Grenadines,VIN,2016,Rio de Janeiro,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Courtney Williams,M,Saint Vincent And The Grenadines,VIN,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Michael Williams,M,Saint Vincent And The Grenadines,VIN,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Michael Williams,M,Saint Vincent And The Grenadines,VIN,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,False

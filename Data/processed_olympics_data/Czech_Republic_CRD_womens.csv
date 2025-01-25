@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tereza Neumanova,F,Czech Republic,CZE,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tereza Neumanova,F,Czech Republic,CZE,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True

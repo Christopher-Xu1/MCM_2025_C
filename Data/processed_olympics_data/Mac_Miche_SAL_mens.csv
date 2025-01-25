@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Amde Thub,M,Mac Miche,FRA,1912,Stockholm,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
-Gaston Thub,M,Mac Miche,FRA,1912,Stockholm,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
-Jacques Thub,M,Mac Miche,FRA,1912,Stockholm,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Amde Thub,M,Mac Miche,FRA,1912,Stockholm,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True
+Gaston Thub,M,Mac Miche,FRA,1912,Stockholm,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True
+Jacques Thub,M,Mac Miche,FRA,1912,Stockholm,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True

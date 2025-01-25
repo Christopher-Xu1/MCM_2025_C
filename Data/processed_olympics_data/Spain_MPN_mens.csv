@@ -1,32 +1,32 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Manuel Prada,M,Spain,ESP,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Eduardo Babi,M,Spain,ESP,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Eduardo Babi,M,Spain,ESP,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Jess Moyer,M,Spain,ESP,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jess Moyer,M,Spain,ESP,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Leopoldo Moyer,M,Spain,ESP,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Leopoldo Moyer,M,Spain,ESP,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Leopoldo Moyer,M,Spain,ESP,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Leopoldo Moyer,M,Spain,ESP,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Federico Fernndez,M,Spain,ESP,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Federico Fernndez,M,Spain,ESP,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Federico Fernndez,M,Spain,ESP,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Federico Fernndez,M,Spain,ESP,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Fernando Castejon,M,Spain,ESP,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Carles Martn,M,Spain,ESP,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Carles Martn,M,Spain,ESP,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Jaime Snchez,M,Spain,ESP,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Manuel Uso,M,Spain,ESP,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Manuel Uso,M,Spain,ESP,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Alberto Lpez,M,Spain,ESP,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Eduardo Molina,M,Spain,ESP,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Eduardo Molina,M,Spain,ESP,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Jorge Molina,M,Spain,ESP,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jorge Molina,M,Spain,ESP,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Jorge Molina,M,Spain,ESP,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jorge Molina,M,Spain,ESP,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Jos Cavaller,M,Spain,ESP,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Jos Serrano,M,Spain,ESP,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jos Serrano,M,Spain,ESP,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Joaqun Villalba,M,Spain,ESP,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Aleix Heredia,M,Spain,ESP,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Manuel Prada,M,Spain,ESP,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Eduardo Babi,M,Spain,ESP,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Eduardo Babi,M,Spain,ESP,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Jess Moyer,M,Spain,ESP,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Jess Moyer,M,Spain,ESP,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Leopoldo Moyer,M,Spain,ESP,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Leopoldo Moyer,M,Spain,ESP,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Leopoldo Moyer,M,Spain,ESP,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Leopoldo Moyer,M,Spain,ESP,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Federico Fernndez,M,Spain,ESP,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Federico Fernndez,M,Spain,ESP,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Federico Fernndez,M,Spain,ESP,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Federico Fernndez,M,Spain,ESP,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Fernando Castejon,M,Spain,ESP,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Carles Martn,M,Spain,ESP,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Carles Martn,M,Spain,ESP,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Jaime Snchez,M,Spain,ESP,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Manuel Uso,M,Spain,ESP,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Manuel Uso,M,Spain,ESP,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Alberto Lpez,M,Spain,ESP,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Eduardo Molina,M,Spain,ESP,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Eduardo Molina,M,Spain,ESP,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Jorge Molina,M,Spain,ESP,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Jorge Molina,M,Spain,ESP,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Jorge Molina,M,Spain,ESP,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Jorge Molina,M,Spain,ESP,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Jos Cavaller,M,Spain,ESP,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Jos Serrano,M,Spain,ESP,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Jos Serrano,M,Spain,ESP,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Joaqun Villalba,M,Spain,ESP,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Aleix Heredia,M,Spain,ESP,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False,True

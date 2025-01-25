@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tania Macas,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True
-Tania Macas,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Team",No medal,Fencing,FEN,True
-Sonia Arredondo,F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,False
-Linda Bjar,F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,False
-Albertina Oliva,F,Mexico,MEX,1948,London,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Rosa Moral,F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Rosa Moral,F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
-Eugenia (-beckhoff),F,Mexico,MEX,1932,Los Angeles,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-rsula Garate,F,Mexico,MEX,2012,London,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True
-rsula Garate,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True
-rsula Garate,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Team",No medal,Fencing,FEN,True
-Anglica Delgado,F,Mexico,MEX,2008,Beijing,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,False
-Fabiana Lpez,F,Mexico,MEX,1988,Seoul,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Lourdes Rodrguez,F,Mexico,MEX,1984,Los Angeles,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Mara Dueas,F,Mexico,MEX,1948,London,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Nataly Silva,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Lourdes Reyna,F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Lourdes Reyna,F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
-Mara Gifennig),F,Mexico,MEX,1956,Melbourne,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Mara Gifennig),F,Mexico,MEX,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Mara Gifennig),F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Individual",Silver,Fencing,FEN,True
-Mara Gifennig),F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
-Emma Velsquez,F,Mexico,MEX,1948,London,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Alejandra Eligio,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,False
-Julieta Ames,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True
-Julieta Ames,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Team",No medal,Fencing,FEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tania Macas,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True,True
+Tania Macas,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Team",No medal,Fencing,FEN,True,True
+Sonia Arredondo,F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,False,True
+Linda Bjar,F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,False,True
+Albertina Oliva,F,Mexico,MEX,1948,London,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Rosa Moral,F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Rosa Moral,F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True,True
+Eugenia (-beckhoff),F,Mexico,MEX,1932,Los Angeles,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+rsula Garate,F,Mexico,MEX,2012,London,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True,True
+rsula Garate,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True,False
+rsula Garate,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Team",No medal,Fencing,FEN,True,False
+Anglica Delgado,F,Mexico,MEX,2008,Beijing,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,False,True
+Fabiana Lpez,F,Mexico,MEX,1988,Seoul,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Lourdes Rodrguez,F,Mexico,MEX,1984,Los Angeles,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Mara Dueas,F,Mexico,MEX,1948,London,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Nataly Silva,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Lourdes Reyna,F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Lourdes Reyna,F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True,True
+Mara Gifennig),F,Mexico,MEX,1956,Melbourne,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Mara Gifennig),F,Mexico,MEX,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,False
+Mara Gifennig),F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Individual",Silver,Fencing,FEN,True,False
+Mara Gifennig),F,Mexico,MEX,1968,Mexico City,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True,False
+Emma Velsquez,F,Mexico,MEX,1948,London,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Alejandra Eligio,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,False,True
+Julieta Ames,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True,True
+Julieta Ames,F,Mexico,MEX,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Team",No medal,Fencing,FEN,True,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vladislav Ursu,M,Republic Of Moldova,MDA,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vladislav Ursu,M,Republic Of Moldova,MDA,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True

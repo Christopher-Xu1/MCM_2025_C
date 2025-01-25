@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Reynaldo Castro,M,Dominican Republic,DOM,1980,Moskva,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Reynaldo Castro,M,Dominican Republic,DOM,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Csar Henderson,M,Dominican Republic,DOM,1984,Los Angeles,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Fernando Henderson,M,Dominican Republic,DOM,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Csar Jimenez,M,Dominican Republic,DOM,1980,Moskva,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Jonathan Ruvalcaba,M,Dominican Republic,DOM,2020,Tokyo,Diving,Men's 3m Springboard,No medal,Men's,DIV,True
-Frandiel Gomez,M,Dominican Republic,DOM,2024,Paris,Diving,Men's 3m Springboard,No medal,Men's,DIV,False
-Jonathan Ruvalcaba,M,Dominican Republic,DOM,2024,Paris,Diving,Men's 3m Springboard,No medal,Men's,DIV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Reynaldo Castro,M,Dominican Republic,DOM,1980,Moskva,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Reynaldo Castro,M,Dominican Republic,DOM,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Csar Henderson,M,Dominican Republic,DOM,1984,Los Angeles,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Fernando Henderson,M,Dominican Republic,DOM,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Csar Jimenez,M,Dominican Republic,DOM,1980,Moskva,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Jonathan Ruvalcaba,M,Dominican Republic,DOM,2020,Tokyo,Diving,Men's 3m Springboard,No medal,Men's,DIV,True,True
+Frandiel Gomez,M,Dominican Republic,DOM,2024,Paris,Diving,Men's 3m Springboard,No medal,Men's,DIV,False,True
+Jonathan Ruvalcaba,M,Dominican Republic,DOM,2024,Paris,Diving,Men's 3m Springboard,No medal,Men's,DIV,True,False

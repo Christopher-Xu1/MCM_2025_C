@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zsolt-Georg Bhm,M,West Germany-1,FRG,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Jrgen Rebel,M,West Germany-1,FRG,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zsolt-Georg Bhm,M,West Germany-1,FRG,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Jrgen Rebel,M,West Germany-1,FRG,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True

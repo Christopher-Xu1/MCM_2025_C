@@ -1,52 +1,52 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cai Yingquan,M,China,CHN,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Cheng Changsong,M,China,CHN,2012,London,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,False
-Fan Yang,M,China,CHN,2016,Rio de Janeiro,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
-Feng Yong,M,China,CHN,2008,Beijing,Cycling,Cycling Men's Keirin,No medal,Cycling,CTR,True
-Feng Yong,M,China,CHN,2008,Beijing,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True
-Guo Longchen,M,China,CHN,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Han Shuxiang,M,China,CHN,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Ji Jianhua,M,China,CHN,2008,Beijing,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Li Wenhao,M,China,CHN,2008,Beijing,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,False
-Li Wenkai,M,China,CHN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Li Wenkai,M,China,CHN,1992,Barcelona,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Liu Fu,M,China,CHN,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Liu Hao,M,China,CHN,2016,Rio de Janeiro,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
-Liu Hong,M,China,CHN,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Liu Hong,M,China,CHN,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Qin Chenlu,M,China,CHN,2016,Rio de Janeiro,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
-Shen Pingan,M,China,CHN,2016,Rio de Janeiro,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
-Tang Xuezhong,M,China,CHN,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Tang Xuezhong,M,China,CHN,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Tang Xuezhong,M,China,CHN,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Tang Xuezhong,M,China,CHN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Tong Weisong,M,China,CHN,2012,London,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Wang Shusen,M,China,CHN,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Wang Shusen,M,China,CHN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Wang Wanqiang,M,China,CHN,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Wang Zhen,M,China,CHN,2016,Rio de Janeiro,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Howard Wing,M,China,CHN,1936,Berlin,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Howard Wing,M,China,CHN,1948,London,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Wu Weipei,M,China,CHN,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Xu Chao,M,China,CHN,2016,Rio de Janeiro,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,False
-Zeng Bo,M,China,CHN,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Zhang Lei,M,China,CHN,2008,Beijing,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Zhang Lei,M,China,CHN,2008,Beijing,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True
-Zhang Lei,M,China,CHN,2012,London,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True
-Zhang Liang,M,China,CHN,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Zhang Miao,M,China,CHN,2012,London,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Zhang Miao,M,China,CHN,2012,London,Cycling,Cycling Men's Keirin,No medal,Cycling,CTR,True
-Zhang Miao,M,China,CHN,2012,London,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True
-Zhu Yongbiao,M,China,CHN,2004,Athina,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Zhu Zhengjun,M,China,CHN,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Zhu Zhengjun,M,China,CHN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Chao Xu,M,China,CHN,2020,Tokyo,Cycling Track,Men's Sprint,No medal,Men's,CTR,True
-Chao Xu,M,China,CHN,2020,Tokyo,Cycling Track,Men's Keirin,No medal,Men's,CTR,True
-Yu Zhou,M,China,CHN,2024,Paris,Cycling Track,Men's Keirin,No medal,Men's,CTR,True
-Yu Zhou,M,China,CHN,2024,Paris,Cycling Track,Men's Sprint,No medal,Men's,CTR,True
-Yu Zhou,M,China,CHN,2024,Paris,Cycling Track,Men's Team Sprint,No medal,Men's,CTR,True
-Shuai Guo,M,China,CHN,2024,Paris,Cycling Track,Men's Team Sprint,No medal,Men's,CTR,False
-Qi Liu,M,China,CHN,2024,Paris,Cycling Track,Men's Keirin,No medal,Men's,CTR,True
-Qi Liu,M,China,CHN,2024,Paris,Cycling Track,Men's Sprint,No medal,Men's,CTR,True
-Qi Liu,M,China,CHN,2024,Paris,Cycling Track,Men's Team Sprint,No medal,Men's,CTR,True
-Zhiwei Li,M,China,CHN,2024,Paris,Cycling Track,Men's Team Sprint,No medal,Men's,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cai Yingquan,M,China,CHN,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Cheng Changsong,M,China,CHN,2012,London,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,False,True
+Fan Yang,M,China,CHN,2016,Rio de Janeiro,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True
+Feng Yong,M,China,CHN,2008,Beijing,Cycling,Cycling Men's Keirin,No medal,Cycling,CTR,True,True
+Feng Yong,M,China,CHN,2008,Beijing,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True,True
+Guo Longchen,M,China,CHN,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Han Shuxiang,M,China,CHN,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Ji Jianhua,M,China,CHN,2008,Beijing,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Li Wenhao,M,China,CHN,2008,Beijing,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,False,True
+Li Wenkai,M,China,CHN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Li Wenkai,M,China,CHN,1992,Barcelona,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,True
+Liu Fu,M,China,CHN,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Liu Hao,M,China,CHN,2016,Rio de Janeiro,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True
+Liu Hong,M,China,CHN,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Liu Hong,M,China,CHN,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Qin Chenlu,M,China,CHN,2016,Rio de Janeiro,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True
+Shen Pingan,M,China,CHN,2016,Rio de Janeiro,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True
+Tang Xuezhong,M,China,CHN,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Tang Xuezhong,M,China,CHN,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Tang Xuezhong,M,China,CHN,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Tang Xuezhong,M,China,CHN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Tong Weisong,M,China,CHN,2012,London,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Wang Shusen,M,China,CHN,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Wang Shusen,M,China,CHN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Wang Wanqiang,M,China,CHN,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Wang Zhen,M,China,CHN,2016,Rio de Janeiro,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Howard Wing,M,China,CHN,1936,Berlin,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Howard Wing,M,China,CHN,1948,London,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,False
+Wu Weipei,M,China,CHN,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Xu Chao,M,China,CHN,2016,Rio de Janeiro,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,False,True
+Zeng Bo,M,China,CHN,1984,Los Angeles,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Zhang Lei,M,China,CHN,2008,Beijing,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Zhang Lei,M,China,CHN,2008,Beijing,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True,True
+Zhang Lei,M,China,CHN,2012,London,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True,False
+Zhang Liang,M,China,CHN,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Zhang Miao,M,China,CHN,2012,London,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Zhang Miao,M,China,CHN,2012,London,Cycling,Cycling Men's Keirin,No medal,Cycling,CTR,True,True
+Zhang Miao,M,China,CHN,2012,London,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True,True
+Zhu Yongbiao,M,China,CHN,2004,Athina,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Zhu Zhengjun,M,China,CHN,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Zhu Zhengjun,M,China,CHN,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Chao Xu,M,China,CHN,2020,Tokyo,Cycling Track,Men's Sprint,No medal,Men's,CTR,True,True
+Chao Xu,M,China,CHN,2020,Tokyo,Cycling Track,Men's Keirin,No medal,Men's,CTR,True,True
+Yu Zhou,M,China,CHN,2024,Paris,Cycling Track,Men's Keirin,No medal,Men's,CTR,True,True
+Yu Zhou,M,China,CHN,2024,Paris,Cycling Track,Men's Sprint,No medal,Men's,CTR,True,True
+Yu Zhou,M,China,CHN,2024,Paris,Cycling Track,Men's Team Sprint,No medal,Men's,CTR,True,True
+Shuai Guo,M,China,CHN,2024,Paris,Cycling Track,Men's Team Sprint,No medal,Men's,CTR,False,True
+Qi Liu,M,China,CHN,2024,Paris,Cycling Track,Men's Keirin,No medal,Men's,CTR,True,True
+Qi Liu,M,China,CHN,2024,Paris,Cycling Track,Men's Sprint,No medal,Men's,CTR,True,True
+Qi Liu,M,China,CHN,2024,Paris,Cycling Track,Men's Team Sprint,No medal,Men's,CTR,True,True
+Zhiwei Li,M,China,CHN,2024,Paris,Cycling Track,Men's Team Sprint,No medal,Men's,CTR,False,True

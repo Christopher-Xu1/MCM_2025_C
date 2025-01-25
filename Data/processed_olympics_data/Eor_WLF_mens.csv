@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ramiro Mora,M,Eor,EOR,2024,Paris,Weightlifting,Men's 102kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ramiro Mora,M,Eor,EOR,2024,Paris,Weightlifting,Men's 102kg,No medal,Men's,WLF,False,True

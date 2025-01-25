@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Katalin Bcsics,F,Hungary,HUN,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Krisztina Bcsics,F,Hungary,HUN,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Sra Cholnoky,F,Hungary,HUN,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Dina Detre,F,Hungary,HUN,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Dina Detre,F,Hungary,HUN,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Mria Rdi,F,Hungary,HUN,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Luca Gdorfalvi,F,Hungary,HUN,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Lvia Gyrbir,F,Hungary,HUN,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Enik Nmeth,F,Hungary,HUN,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Anna Payr,F,Hungary,HUN,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Mrta Weres,F,Hungary,HUN,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Sara Cholnoky,F,Hungary,HUN,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False
-Maria Erdi,F,Hungary,HUN,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,True
-Maria Erdi,F,Hungary,HUN,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Katalin Bcsics,F,Hungary,HUN,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Krisztina Bcsics,F,Hungary,HUN,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Sra Cholnoky,F,Hungary,HUN,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Dina Detre,F,Hungary,HUN,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Dina Detre,F,Hungary,HUN,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Mria Rdi,F,Hungary,HUN,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Luca Gdorfalvi,F,Hungary,HUN,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Lvia Gyrbir,F,Hungary,HUN,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Enik Nmeth,F,Hungary,HUN,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Anna Payr,F,Hungary,HUN,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Mrta Weres,F,Hungary,HUN,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Sara Cholnoky,F,Hungary,HUN,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False,True
+Maria Erdi,F,Hungary,HUN,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,True,True
+Maria Erdi,F,Hungary,HUN,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,True,False

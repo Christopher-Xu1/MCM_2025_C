@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abdulsalam Al-gadabi,M,Yemen,YEM,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Mohamed Saad,M,Yemen,YEM,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Mokhtar Al-yamani,M,Yemen,YEM,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
-Mokhtar Al-yamani,M,Yemen,YEM,2020,Tokyo,Swimming,Men's 200m Freestyle,No medal,Men's,SWM,True
-Abdullah Nasser,M,Yemen,YEM,2024,Paris,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abdulsalam Al-gadabi,M,Yemen,YEM,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Mohamed Saad,M,Yemen,YEM,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Mokhtar Al-yamani,M,Yemen,YEM,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,True
+Mokhtar Al-yamani,M,Yemen,YEM,2020,Tokyo,Swimming,Men's 200m Freestyle,No medal,Men's,SWM,True,True
+Abdullah Nasser,M,Yemen,YEM,2024,Paris,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False,True

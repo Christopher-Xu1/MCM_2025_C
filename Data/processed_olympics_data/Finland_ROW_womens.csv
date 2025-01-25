@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Laila Finska-bezerra,F,Finland,FIN,1996,Atlanta,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False
-Minna Nieminen,F,Finland,FIN,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,Silver,Rowing,ROW,False
-Sanna Stn,F,Finland,FIN,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,Silver,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Laila Finska-bezerra,F,Finland,FIN,1996,Atlanta,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False,True
+Minna Nieminen,F,Finland,FIN,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,Silver,Rowing,ROW,False,True
+Sanna Stn,F,Finland,FIN,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,Silver,Rowing,ROW,False,True

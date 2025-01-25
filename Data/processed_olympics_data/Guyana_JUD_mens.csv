@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ral Lall,M,Guyana,GUY,2012,London,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ral Lall,M,Guyana,GUY,2012,London,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True

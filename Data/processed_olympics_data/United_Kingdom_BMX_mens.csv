@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kye Whyte,M,United Kingdom,GBR,2020,Tokyo,Cycling BMX Racing,Men,Silver,Men,BMX,True
-Ross Cullen,M,United Kingdom,GBR,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False
-Kye Whyte,M,United Kingdom,GBR,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kye Whyte,M,United Kingdom,GBR,2020,Tokyo,Cycling BMX Racing,Men,Silver,Men,BMX,True,True
+Ross Cullen,M,United Kingdom,GBR,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False,True
+Kye Whyte,M,United Kingdom,GBR,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,True,False

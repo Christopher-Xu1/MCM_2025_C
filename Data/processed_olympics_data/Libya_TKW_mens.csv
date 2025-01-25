@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nizar Naeeli,M,Libya,LBA,2000,Sydney,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False
-Yousef Shriha,M,Libya,LBA,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Salem Tlish,M,Libya,LBA,2004,Athina,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nizar Naeeli,M,Libya,LBA,2000,Sydney,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False,True
+Yousef Shriha,M,Libya,LBA,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Salem Tlish,M,Libya,LBA,2004,Athina,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True

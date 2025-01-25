@@ -1,40 +1,40 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alioune Camara,M,Senegal,SEN,1972,Munich,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Adama Diatta,M,Senegal,SEN,2008,Beijing,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True
-Adama Diatta,M,Senegal,SEN,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True
-Talla Diaw,M,Senegal,SEN,1984,Los Angeles,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Flix Didhiou,M,Senegal,SEN,1996,Atlanta,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Amadou Diop,M,Senegal,SEN,1980,Moskva,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Amadou Diop,M,Senegal,SEN,1984,Los Angeles,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Ibrahima Diop,M,Senegal,SEN,1972,Munich,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Ibrahima Diop,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,True
-Ibrahima Diop,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Alioune Diouf,M,Senegal,SEN,1992,Barcelona,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Alioune Diouf,M,Senegal,SEN,1992,Barcelona,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Alioune Diouf,M,Senegal,SEN,1996,Atlanta,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Alioune Diouf,M,Senegal,SEN,2000,Sydney,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Djib'ril' Diouf,M,Senegal,SEN,1988,Seoul,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False
-Moustapha Guye,M,Senegal,SEN,1988,Seoul,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Moustapha Guye,M,Senegal,SEN,1988,Seoul,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Arona Man,M,Senegal,SEN,1972,Munich,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Arona Man,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,True
-Arona Man,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Robert N'diaye,M,Senegal,SEN,1972,Munich,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Robert N'diaye,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Robert N'diaye,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Malal Ndiaye,M,Senegal,SEN,2012,London,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Oumar N'gom,M,Senegal,SEN,1988,Seoul,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,True
-Oumar N'gom,M,Senegal,SEN,1988,Seoul,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Mamadou Sakho,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Mamadou Sakho,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Mamadou Sakho,M,Senegal,SEN,1980,Moskva,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Mamadou Sakho,M,Senegal,SEN,1984,Los Angeles,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Ambroise Sarr,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Ambroise Sarr,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Ambroise Sarr,M,Senegal,SEN,1980,Moskva,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Ambroise Sarr,M,Senegal,SEN,1984,Los Angeles,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Ambroise Sarr,M,Senegal,SEN,1988,Seoul,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Matar Sne,M,Senegal,SEN,2004,Athina,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Bounama Tour,M,Senegal,SEN,1992,Barcelona,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False
-Mor Wade,M,Senegal,SEN,1992,Barcelona,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Adama Diatta,M,Senegal,SEN,2020,Tokyo,Wrestling,Men's Freestyle 65kg,No medal,Men's,WRF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alioune Camara,M,Senegal,SEN,1972,Munich,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Adama Diatta,M,Senegal,SEN,2008,Beijing,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True,True
+Adama Diatta,M,Senegal,SEN,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True,False
+Talla Diaw,M,Senegal,SEN,1984,Los Angeles,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Flix Didhiou,M,Senegal,SEN,1996,Atlanta,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Amadou Diop,M,Senegal,SEN,1980,Moskva,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Amadou Diop,M,Senegal,SEN,1984,Los Angeles,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Ibrahima Diop,M,Senegal,SEN,1972,Munich,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True,True
+Ibrahima Diop,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Ibrahima Diop,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Alioune Diouf,M,Senegal,SEN,1992,Barcelona,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Alioune Diouf,M,Senegal,SEN,1992,Barcelona,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Alioune Diouf,M,Senegal,SEN,1996,Atlanta,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Alioune Diouf,M,Senegal,SEN,2000,Sydney,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Djib'ril' Diouf,M,Senegal,SEN,1988,Seoul,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False,True
+Moustapha Guye,M,Senegal,SEN,1988,Seoul,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Moustapha Guye,M,Senegal,SEN,1988,Seoul,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Arona Man,M,Senegal,SEN,1972,Munich,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True,True
+Arona Man,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Arona Man,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True,False
+Robert N'diaye,M,Senegal,SEN,1972,Munich,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Robert N'diaye,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Robert N'diaye,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Malal Ndiaye,M,Senegal,SEN,2012,London,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Oumar N'gom,M,Senegal,SEN,1988,Seoul,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Oumar N'gom,M,Senegal,SEN,1988,Seoul,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True,True
+Mamadou Sakho,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Mamadou Sakho,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Mamadou Sakho,M,Senegal,SEN,1980,Moskva,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Mamadou Sakho,M,Senegal,SEN,1984,Los Angeles,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Ambroise Sarr,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Ambroise Sarr,M,Senegal,SEN,1976,Montreal,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Ambroise Sarr,M,Senegal,SEN,1980,Moskva,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Ambroise Sarr,M,Senegal,SEN,1984,Los Angeles,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Ambroise Sarr,M,Senegal,SEN,1988,Seoul,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Matar Sne,M,Senegal,SEN,2004,Athina,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Bounama Tour,M,Senegal,SEN,1992,Barcelona,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Mor Wade,M,Senegal,SEN,1992,Barcelona,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Adama Diatta,M,Senegal,SEN,2020,Tokyo,Wrestling,Men's Freestyle 65kg,No medal,Men's,WRF,True,False

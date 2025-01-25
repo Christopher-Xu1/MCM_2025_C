@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kaarlo Eini,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Pentti Elo,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Erkki Heikkil,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Veijo-Lassi Holopainen,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Keijo Kuusela,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Risto Lamppu,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Reino Lindroos,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Esko Salminen,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Toivo Salminen,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Esko Silvennoinen,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Tauno Timoska,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kaarlo Eini,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Pentti Elo,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Erkki Heikkil,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Veijo-Lassi Holopainen,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Keijo Kuusela,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Risto Lamppu,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Reino Lindroos,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Esko Salminen,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Toivo Salminen,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Esko Silvennoinen,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Tauno Timoska,M,Finland,FIN,1952,Helsinki,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True

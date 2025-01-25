@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Flyura Bulatova-abbate,F,Russia,URS,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Flyura Bulatova-abbate,F,Russia,URS,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Mariya (zelenova-),F,Russia,RUS,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Svetlana Ganina,F,Russia,RUS,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Irina Kotikhina,F,Russia,RUS,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Olena Kovtun,F,Russia,URS,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Olena Kovtun,F,Russia,URS,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Oksana Kushch-fadeyeva,F,Russia,RUS,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Oksana Kushch-fadeyeva,F,Russia,RUS,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Oksana Kushch-fadeyeva,F,Russia,RUS,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Oksana Kushch-fadeyeva,F,Russia,RUS,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Galina Melnik,F,Russia,RUS,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Galina Melnik,F,Russia,RUS,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Polina Mikhaylova,F,Russia,RUS,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Yana Noskova,F,Russia,RUS,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Irina Palina,F,Russia,RUS,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Irina Palina,F,Russia,RUS,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Irina Palina,F,Russia,RUS,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Valentina Popovov,F,Russia,URS,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Anna Tikhomirova,F,Russia,RUS,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Elena Timina,F,Russia,RUS,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Elena Timina,F,Russia,RUS,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Polina Mikhailova,F,Russia,ROC,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,False
-Yana Noskova,F,Russia,ROC,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Flyura Bulatova-abbate,F,Russia,URS,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Flyura Bulatova-abbate,F,Russia,URS,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Mariya (zelenova-),F,Russia,RUS,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Svetlana Ganina,F,Russia,RUS,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Irina Kotikhina,F,Russia,RUS,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Olena Kovtun,F,Russia,URS,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Olena Kovtun,F,Russia,URS,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Oksana Kushch-fadeyeva,F,Russia,RUS,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Oksana Kushch-fadeyeva,F,Russia,RUS,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Oksana Kushch-fadeyeva,F,Russia,RUS,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Oksana Kushch-fadeyeva,F,Russia,RUS,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Galina Melnik,F,Russia,RUS,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Galina Melnik,F,Russia,RUS,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Polina Mikhaylova,F,Russia,RUS,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Yana Noskova,F,Russia,RUS,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Irina Palina,F,Russia,RUS,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Irina Palina,F,Russia,RUS,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Irina Palina,F,Russia,RUS,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Valentina Popovov,F,Russia,URS,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Anna Tikhomirova,F,Russia,RUS,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Elena Timina,F,Russia,RUS,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Elena Timina,F,Russia,RUS,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Polina Mikhailova,F,Russia,ROC,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,False,True
+Yana Noskova,F,Russia,ROC,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False

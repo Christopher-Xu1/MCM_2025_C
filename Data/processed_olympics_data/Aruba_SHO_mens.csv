@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Philip Elhage,M,Aruba,ARU,2020,Tokyo,Shooting,10m Air Pistol Men,No medal,10m,SHO,False
-Phili Elhage,M,Aruba,ARU,2024,Paris,Shooting,10m Air Pistol Men,No medal,10m,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Philip Elhage,M,Aruba,ARU,2020,Tokyo,Shooting,10m Air Pistol Men,No medal,10m,SHO,False,True
+Phili Elhage,M,Aruba,ARU,2024,Paris,Shooting,10m Air Pistol Men,No medal,10m,SHO,False,True

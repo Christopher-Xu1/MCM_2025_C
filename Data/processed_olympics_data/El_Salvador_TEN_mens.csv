@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rafael Gonzlez,M,El Salvador,ESA,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rafael Gonzlez,M,El Salvador,ESA,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True

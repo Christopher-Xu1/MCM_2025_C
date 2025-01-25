@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hber Mussio,M,Uruguay,URU,1988,Seoul,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Horacio Mari,M,Uruguay,URU,1988,Seoul,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Adolfo Carrau,M,Uruguay,URU,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Luis Moreno,M,Uruguay,URU,1988,Seoul,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Luis Moreno,M,Uruguay,URU,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Pablo Abella,M,Uruguay,URU,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Enrique Galione,M,Uruguay,URU,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Ricardo Belhot,M,Uruguay,URU,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Ricardo Belhot,M,Uruguay,URU,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Alejandro Nava,M,Uruguay,URU,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Alejandro Nava,M,Uruguay,URU,1988,Seoul,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Alejandro Costa,M,Uruguay,URU,2004,Athina,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Alejandro Costa,M,Uruguay,URU,2008,Beijing,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Alejandro Costa,M,Uruguay,URU,2012,London,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Alejandro Costa,M,Uruguay,URU,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Heavyweight Dinghy,No medal,Sailing,SAL,True
-Andrs Isola,M,Uruguay,URU,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Bernd Barenberg,M,Uruguay,URU,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Bernd Barenberg,M,Uruguay,URU,1988,Seoul,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Eugenio Santurio,M,Uruguay,URU,1952,Helsinki,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Nicols Parodi,M,Uruguay,URU,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Angel Castilla,M,Uruguay,URU,2004,Athina,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Flix Castellanos,M,Uruguay,URU,1948,London,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Fernando Moreira,M,Uruguay,URU,1968,Mexico City,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Pablo Defazio,M,Uruguay,URU,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,False
-Fernando Diz,M,Uruguay,URU,2024,Paris,Sailing,Men's Skiff,No medal,Men's,SAL,False
-Hernan Umpierre,M,Uruguay,URU,2024,Paris,Sailing,Men's Skiff,No medal,Men's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hber Mussio,M,Uruguay,URU,1988,Seoul,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Horacio Mari,M,Uruguay,URU,1988,Seoul,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Adolfo Carrau,M,Uruguay,URU,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Luis Moreno,M,Uruguay,URU,1988,Seoul,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,True
+Luis Moreno,M,Uruguay,URU,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Pablo Abella,M,Uruguay,URU,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Enrique Galione,M,Uruguay,URU,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Ricardo Belhot,M,Uruguay,URU,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,True
+Ricardo Belhot,M,Uruguay,URU,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Alejandro Nava,M,Uruguay,URU,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,True
+Alejandro Nava,M,Uruguay,URU,1988,Seoul,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Alejandro Costa,M,Uruguay,URU,2004,Athina,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,True
+Alejandro Costa,M,Uruguay,URU,2008,Beijing,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,False
+Alejandro Costa,M,Uruguay,URU,2012,London,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,False
+Alejandro Costa,M,Uruguay,URU,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Heavyweight Dinghy,No medal,Sailing,SAL,True,False
+Andrs Isola,M,Uruguay,URU,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Bernd Barenberg,M,Uruguay,URU,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,True
+Bernd Barenberg,M,Uruguay,URU,1988,Seoul,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Eugenio Santurio,M,Uruguay,URU,1952,Helsinki,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Nicols Parodi,M,Uruguay,URU,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Angel Castilla,M,Uruguay,URU,2004,Athina,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Flix Castellanos,M,Uruguay,URU,1948,London,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Fernando Moreira,M,Uruguay,URU,1968,Mexico City,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Pablo Defazio,M,Uruguay,URU,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,False,True
+Fernando Diz,M,Uruguay,URU,2024,Paris,Sailing,Men's Skiff,No medal,Men's,SAL,False,True
+Hernan Umpierre,M,Uruguay,URU,2024,Paris,Sailing,Men's Skiff,No medal,Men's,SAL,False,True

@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gwynne Evans,M,Missouri Athletic Club-3,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False
-Augustus Goessling,M,Missouri Athletic Club-3,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False
-Edward Meyers,M,Missouri Athletic Club-3,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False
-William Orthwein,M,Missouri Athletic Club-3,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False
-Amedee Jr.,M,Missouri Athletic Club-3,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False
-Francis Schreiner,M,Missouri Athletic Club-3,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False
-Manfred Toeppen,M,Missouri Athletic Club-3,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gwynne Evans,M,Missouri Athletic Club-3,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False,True
+Augustus Goessling,M,Missouri Athletic Club-3,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False,True
+Edward Meyers,M,Missouri Athletic Club-3,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False,True
+William Orthwein,M,Missouri Athletic Club-3,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False,True
+Amedee Jr.,M,Missouri Athletic Club-3,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False,True
+Francis Schreiner,M,Missouri Athletic Club-3,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False,True
+Manfred Toeppen,M,Missouri Athletic Club-3,USA,1904,St. Louis,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False,True

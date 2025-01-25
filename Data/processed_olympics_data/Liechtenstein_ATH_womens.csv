@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yvonne Hasler,F,Liechtenstein,LIE,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Manuela (-lippuner),F,Liechtenstein,LIE,1984,Los Angeles,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True
-Manuela (-lippuner),F,Liechtenstein,LIE,1988,Seoul,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Manuela (-lippuner),F,Liechtenstein,LIE,1992,Barcelona,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True
-Manuela (-lippuner),F,Liechtenstein,LIE,1996,Atlanta,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True
-Helen Ritter,F,Liechtenstein,LIE,1976,Montreal,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Helen Ritter,F,Liechtenstein,LIE,1976,Montreal,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Helen Ritter,F,Liechtenstein,LIE,1984,Los Angeles,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True
-Maria Ritter,F,Liechtenstein,LIE,1976,Montreal,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yvonne Hasler,F,Liechtenstein,LIE,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Manuela (-lippuner),F,Liechtenstein,LIE,1984,Los Angeles,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True,True
+Manuela (-lippuner),F,Liechtenstein,LIE,1988,Seoul,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,False
+Manuela (-lippuner),F,Liechtenstein,LIE,1992,Barcelona,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True,False
+Manuela (-lippuner),F,Liechtenstein,LIE,1996,Atlanta,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True,False
+Helen Ritter,F,Liechtenstein,LIE,1976,Montreal,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Helen Ritter,F,Liechtenstein,LIE,1976,Montreal,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Helen Ritter,F,Liechtenstein,LIE,1984,Los Angeles,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True,False
+Maria Ritter,F,Liechtenstein,LIE,1976,Montreal,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False,True

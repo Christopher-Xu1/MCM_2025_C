@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Patimat Abakarova,F,Azerbaijan,AZE,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Flyweight,Bronze,Taekwondo,TKW,False
-Frid Zizova,F,Azerbaijan,AZE,2012,London,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,True
-Frid Zizova,F,Azerbaijan,AZE,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,True
-Farida Azizova,F,Azerbaijan,AZE,2020,Tokyo,Taekwondo,Women -67kg,No medal,Women,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Patimat Abakarova,F,Azerbaijan,AZE,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Flyweight,Bronze,Taekwondo,TKW,False,True
+Frid Zizova,F,Azerbaijan,AZE,2012,London,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,True,True
+Frid Zizova,F,Azerbaijan,AZE,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,True,False
+Farida Azizova,F,Azerbaijan,AZE,2020,Tokyo,Taekwondo,Women -67kg,No medal,Women,TKW,False,True

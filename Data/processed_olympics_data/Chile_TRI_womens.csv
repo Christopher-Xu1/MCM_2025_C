@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Brbara Daz,F,Chile,CHI,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Brbara Daz,F,Chile,CHI,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Brbara Daz,F,Chile,CHI,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Barbara Riveros,F,Chile,CHI,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Brbara Daz,F,Chile,CHI,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Brbara Daz,F,Chile,CHI,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Brbara Daz,F,Chile,CHI,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Barbara Riveros,F,Chile,CHI,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,False,True

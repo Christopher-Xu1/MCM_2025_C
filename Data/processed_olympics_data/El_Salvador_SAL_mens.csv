@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mario Aguilar,M,El Salvador,ESA,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Enrique Pacas,M,El Salvador,ESA,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False
-Manuel Palomo,M,El Salvador,ESA,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Carlos Ruz,M,El Salvador,ESA,1968,Mexico City,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Jose Arathoon,M,El Salvador,ESA,2020,Tokyo,Sailing,Men's One Person Dinghy - Laser,No medal,Men's,SAL,True
-Jose Arathoon,M,El Salvador,ESA,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mario Aguilar,M,El Salvador,ESA,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Enrique Pacas,M,El Salvador,ESA,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False,True
+Manuel Palomo,M,El Salvador,ESA,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Carlos Ruz,M,El Salvador,ESA,1968,Mexico City,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Jose Arathoon,M,El Salvador,ESA,2020,Tokyo,Sailing,Men's One Person Dinghy - Laser,No medal,Men's,SAL,True,True
+Jose Arathoon,M,El Salvador,ESA,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,True,False

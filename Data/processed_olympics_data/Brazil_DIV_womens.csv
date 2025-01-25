@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ingrid Oliveira,F,Brazil,BRA,2016,Rio de Janeiro,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Ingrid Oliveira,F,Brazil,BRA,2016,Rio de Janeiro,Diving,Diving Women's Synchronized Platform,No medal,Diving,DIV,True
-Silvana Neitzke,F,Brazil,BRA,1992,Barcelona,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Giovanna Pedroso,F,Brazil,BRA,2016,Rio de Janeiro,Diving,Diving Women's Synchronized Platform,No medal,Diving,DIV,False
-Mary Proena,F,Brazil,BRA,1956,Melbourne,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Angela Ribeiro,F,Brazil,BRA,1984,Los Angeles,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Angela Ribeiro,F,Brazil,BRA,1984,Los Angeles,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Angela Ribeiro,F,Brazil,BRA,1988,Seoul,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Tammy Takagi,F,Brazil,BRA,2016,Rio de Janeiro,Diving,Diving Women's Synchronized Springboard,No medal,Diving,DIV,False
-Juliana Veloso,F,Brazil,BRA,2000,Sydney,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Juliana Veloso,F,Brazil,BRA,2000,Sydney,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Juliana Veloso,F,Brazil,BRA,2004,Athina,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Juliana Veloso,F,Brazil,BRA,2004,Athina,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Juliana Veloso,F,Brazil,BRA,2008,Beijing,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Juliana Veloso,F,Brazil,BRA,2012,London,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Juliana Veloso,F,Brazil,BRA,2016,Rio de Janeiro,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Juliana Veloso,F,Brazil,BRA,2016,Rio de Janeiro,Diving,Diving Women's Synchronized Springboard,No medal,Diving,DIV,True
-Luana Lira,F,Brazil,BRA,2020,Tokyo,Diving,Women's 3m Springboard,No medal,Women's,DIV,False
-Ingrid Oliveira,F,Brazil,BRA,2020,Tokyo,Diving,Women's 10m Platform,No medal,Women's,DIV,True
-Ingrid Oliveira,F,Brazil,BRA,2024,Paris,Diving,Women's 10m Platform,No medal,Women's,DIV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ingrid Oliveira,F,Brazil,BRA,2016,Rio de Janeiro,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Ingrid Oliveira,F,Brazil,BRA,2016,Rio de Janeiro,Diving,Diving Women's Synchronized Platform,No medal,Diving,DIV,True,True
+Silvana Neitzke,F,Brazil,BRA,1992,Barcelona,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Giovanna Pedroso,F,Brazil,BRA,2016,Rio de Janeiro,Diving,Diving Women's Synchronized Platform,No medal,Diving,DIV,False,True
+Mary Proena,F,Brazil,BRA,1956,Melbourne,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Angela Ribeiro,F,Brazil,BRA,1984,Los Angeles,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Angela Ribeiro,F,Brazil,BRA,1984,Los Angeles,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Angela Ribeiro,F,Brazil,BRA,1988,Seoul,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Tammy Takagi,F,Brazil,BRA,2016,Rio de Janeiro,Diving,Diving Women's Synchronized Springboard,No medal,Diving,DIV,False,True
+Juliana Veloso,F,Brazil,BRA,2000,Sydney,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Juliana Veloso,F,Brazil,BRA,2000,Sydney,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Juliana Veloso,F,Brazil,BRA,2004,Athina,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Juliana Veloso,F,Brazil,BRA,2004,Athina,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Juliana Veloso,F,Brazil,BRA,2008,Beijing,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Juliana Veloso,F,Brazil,BRA,2012,London,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Juliana Veloso,F,Brazil,BRA,2016,Rio de Janeiro,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Juliana Veloso,F,Brazil,BRA,2016,Rio de Janeiro,Diving,Diving Women's Synchronized Springboard,No medal,Diving,DIV,True,False
+Luana Lira,F,Brazil,BRA,2020,Tokyo,Diving,Women's 3m Springboard,No medal,Women's,DIV,False,True
+Ingrid Oliveira,F,Brazil,BRA,2020,Tokyo,Diving,Women's 10m Platform,No medal,Women's,DIV,True,False
+Ingrid Oliveira,F,Brazil,BRA,2024,Paris,Diving,Women's 10m Platform,No medal,Women's,DIV,True,False

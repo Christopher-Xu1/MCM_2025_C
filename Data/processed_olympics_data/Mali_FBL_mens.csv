@@ -1,36 +1,36 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sdonoud Abouta,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Cheick Bathily,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Mamadi Berthe,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Hadj Coulibaly,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Drissa Diakit,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Boucader Diallo,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Mamadou Diallo,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Mintou Doucoure,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Jimmy Kb,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Boubacar Kon,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Tenema N'diaye,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Rafan Sidibe,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Mohamed Gillan,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Adama Tamboura,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Abdou Traor,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Dramane Traor,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Salam Jiddou,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Ahmed Diomande,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Boubacar Traore,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Brahima Diarra,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Cheickna Doumbia,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Coli Saco,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Demba Diallo,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Fode Doucoure,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Hamidou Diallo,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Ibrahima Cisse,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Issouf Sissokho,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Lassine Diarra,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Mamadou Tounkara,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Moussa Diakite,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Oumar Coulibaly,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Thiemoko Diarra,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Wilson Samake,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Lassine Soumaoro,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
-Mohamed Cisset,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sdonoud Abouta,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Cheick Bathily,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mamadi Berthe,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Hadj Coulibaly,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Drissa Diakit,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Boucader Diallo,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mamadou Diallo,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mintou Doucoure,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Jimmy Kb,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Boubacar Kon,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Tenema N'diaye,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Rafan Sidibe,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mohamed Gillan,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Adama Tamboura,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Abdou Traor,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Dramane Traor,M,Mali,MLI,2004,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Salam Jiddou,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Ahmed Diomande,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Boubacar Traore,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Brahima Diarra,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Cheickna Doumbia,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Coli Saco,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Demba Diallo,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Fode Doucoure,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Hamidou Diallo,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Ibrahima Cisse,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Issouf Sissokho,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Lassine Diarra,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Mamadou Tounkara,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Moussa Diakite,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Oumar Coulibaly,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Thiemoko Diarra,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Wilson Samake,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Lassine Soumaoro,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Mohamed Cisset,M,Mali,MLI,2024,Paris,Football,Men,No medal,Men,FBL,False,True

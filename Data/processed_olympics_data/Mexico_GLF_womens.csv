@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alejandra Gmez,F,Mexico,MEX,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False
-Mara Butron,F,Mexico,MEX,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False
-Maria Fassi,F,Mexico,MEX,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
-Gaby Lopez,F,Mexico,MEX,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
-Gaby Lopez,F,Mexico,MEX,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
-Maria Fassi,F,Mexico,MEX,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alejandra Gmez,F,Mexico,MEX,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False,True
+Mara Butron,F,Mexico,MEX,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False,True
+Maria Fassi,F,Mexico,MEX,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,True
+Gaby Lopez,F,Mexico,MEX,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,True
+Gaby Lopez,F,Mexico,MEX,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,False
+Maria Fassi,F,Mexico,MEX,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,False

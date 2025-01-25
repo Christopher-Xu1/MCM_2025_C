@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nazim Alidjanov,M,Moldova,MDA,1996,Atlanta,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False
-Ruslan Boditeanu,M,Moldova,MDA,2000,Sydney,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Ruslan Boditeanu,M,Moldova,MDA,2004,Athina,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,True
-Nicolai Ceban,M,Moldova,MDA,2008,Beijing,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Nicolai Ceban,M,Moldova,MDA,2012,London,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Nicolai Ceban,M,Moldova,MDA,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Octavian Cuciuc,M,Moldova,MDA,2000,Sydney,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Ion Diaconu,M,Moldova,MDA,2000,Sydney,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False
-Igor Grabovetchi,M,Moldova,MDA,1996,Atlanta,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False
-Gusman Jabrailov,M,Moldova,MDA,1996,Atlanta,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Sergei Mureico,M,Moldova,MDA,1996,Atlanta,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",Bronze,Wrestling,WRF,False
-Evgheni Nedealco,M,Moldova,MDA,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Victor Peicov,M,Moldova,MDA,1996,Atlanta,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False
-Vitalie Railean,M,Moldova,MDA,1996,Atlanta,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Vitalie Railean,M,Moldova,MDA,2000,Sydney,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True
-Ghenadie Tulbea,M,Moldova,MDA,2004,Athina,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Victor Ciobanu,M,Moldova,MDA,2020,Tokyo,Wrestling,Men's Greco-Roman 60kg,No medal,Men's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nazim Alidjanov,M,Moldova,MDA,1996,Atlanta,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False,True
+Ruslan Boditeanu,M,Moldova,MDA,2000,Sydney,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True,True
+Ruslan Boditeanu,M,Moldova,MDA,2004,Athina,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,True,False
+Nicolai Ceban,M,Moldova,MDA,2008,Beijing,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Nicolai Ceban,M,Moldova,MDA,2012,London,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Nicolai Ceban,M,Moldova,MDA,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Octavian Cuciuc,M,Moldova,MDA,2000,Sydney,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Ion Diaconu,M,Moldova,MDA,2000,Sydney,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False,True
+Igor Grabovetchi,M,Moldova,MDA,1996,Atlanta,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Gusman Jabrailov,M,Moldova,MDA,1996,Atlanta,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Sergei Mureico,M,Moldova,MDA,1996,Atlanta,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",Bronze,Wrestling,WRF,False,True
+Evgheni Nedealco,M,Moldova,MDA,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Victor Peicov,M,Moldova,MDA,1996,Atlanta,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False,True
+Vitalie Railean,M,Moldova,MDA,1996,Atlanta,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Vitalie Railean,M,Moldova,MDA,2000,Sydney,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True,False
+Ghenadie Tulbea,M,Moldova,MDA,2004,Athina,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Victor Ciobanu,M,Moldova,MDA,2020,Tokyo,Wrestling,Men's Greco-Roman 60kg,No medal,Men's,WRF,False,True

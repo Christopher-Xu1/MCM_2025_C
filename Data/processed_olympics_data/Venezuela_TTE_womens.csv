@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gremlis Garca,F,Venezuela,VEN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Luisana Prez,F,Venezuela,VEN,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Luisana Prez,F,Venezuela,VEN,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Elizabeth Popper,F,Venezuela,VEN,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Fabiola Portillo,F,Venezuela,VEN,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Fabiola Portillo,F,Venezuela,VEN,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Fabiola Portillo,F,Venezuela,VEN,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Fabiola Portillo,F,Venezuela,VEN,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Fabiola Portillo,F,Venezuela,VEN,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Fabiola Portillo,F,Venezuela,VEN,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Fabiola Portillo,F,Venezuela,VEN,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gremlis Garca,F,Venezuela,VEN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Luisana Prez,F,Venezuela,VEN,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Luisana Prez,F,Venezuela,VEN,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Elizabeth Popper,F,Venezuela,VEN,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Fabiola Portillo,F,Venezuela,VEN,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Fabiola Portillo,F,Venezuela,VEN,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Fabiola Portillo,F,Venezuela,VEN,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Fabiola Portillo,F,Venezuela,VEN,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Fabiola Portillo,F,Venezuela,VEN,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Fabiola Portillo,F,Venezuela,VEN,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Fabiola Portillo,F,Venezuela,VEN,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False

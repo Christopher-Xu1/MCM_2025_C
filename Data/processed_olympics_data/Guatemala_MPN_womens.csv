@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Isabel Leu,F,Guatemala,GUA,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Mara Sanz-agero,F,Guatemala,GUA,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Rita Luna,F,Guatemala,GUA,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Sophia Hernandez,F,Guatemala,GUA,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Isabel Leu,F,Guatemala,GUA,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Mara Sanz-agero,F,Guatemala,GUA,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Rita Luna,F,Guatemala,GUA,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Sophia Hernandez,F,Guatemala,GUA,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False,True

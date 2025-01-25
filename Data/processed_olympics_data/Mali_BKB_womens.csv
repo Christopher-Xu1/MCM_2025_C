@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fatoumata Bagayoko,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Nagnouma Coulibaly,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Mariatou Diarra,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Djene Diawara,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Diana Gandega,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Kadiatou Kanoute,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Hamchtou Maga-ba,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Aminata Sininta,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Djnbou Sissoko,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Meiya Tireira,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Kadiatou Tour,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Nassira Traor,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fatoumata Bagayoko,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Nagnouma Coulibaly,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Mariatou Diarra,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Djene Diawara,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Diana Gandega,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Kadiatou Kanoute,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Hamchtou Maga-ba,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Aminata Sininta,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Djnbou Sissoko,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Meiya Tireira,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Kadiatou Tour,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Nassira Traor,F,Mali,MLI,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True

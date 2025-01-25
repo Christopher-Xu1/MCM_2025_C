@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ivn Garcs,M,Ecuador,ECU,1984,Los Angeles,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Ivn Garcs,M,Ecuador,ECU,1984,Los Angeles,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Vicente Alvarado,M,Ecuador,ECU,2012,London,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False
-Andrs Arroyo,M,Ecuador,ECU,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Csar Solari,M,Ecuador,ECU,1968,Mexico City,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Marco Tern,M,Ecuador,ECU,1968,Mexico City,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True
-Marco Tern,M,Ecuador,ECU,1976,Montreal,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True
-Roberto Montano,M,Ecuador,ECU,2024,Paris,Wrestling,Men's Greco-Roman 67kg,No medal,Men's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ivn Garcs,M,Ecuador,ECU,1984,Los Angeles,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Ivn Garcs,M,Ecuador,ECU,1984,Los Angeles,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Vicente Alvarado,M,Ecuador,ECU,2012,London,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Andrs Arroyo,M,Ecuador,ECU,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Csar Solari,M,Ecuador,ECU,1968,Mexico City,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Marco Tern,M,Ecuador,ECU,1968,Mexico City,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True,True
+Marco Tern,M,Ecuador,ECU,1976,Montreal,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True,False
+Roberto Montano,M,Ecuador,ECU,2024,Paris,Wrestling,Men's Greco-Roman 67kg,No medal,Men's,WRF,False,True

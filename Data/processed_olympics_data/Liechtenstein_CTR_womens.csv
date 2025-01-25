@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yvonne Elkuch,F,Liechtenstein,LIE,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Yvonne Elkuch,F,Liechtenstein,LIE,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yvonne Elkuch,F,Liechtenstein,LIE,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Yvonne Elkuch,F,Liechtenstein,LIE,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False

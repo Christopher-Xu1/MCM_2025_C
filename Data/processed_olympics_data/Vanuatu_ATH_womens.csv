@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Janice Alatoa,F,Vanuatu,VAN,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Olivette (-bice),F,Vanuatu,VAN,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Olivette (-bice),F,Vanuatu,VAN,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Andrea (-tari),F,Vanuatu,VAN,1992,Barcelona,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False
-Mary-Estelle (-mahuk),F,Vanuatu,VAN,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Mary-Estelle (-mahuk),F,Vanuatu,VAN,1992,Barcelona,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True
-Mary-Estelle (-mahuk),F,Vanuatu,VAN,1996,Atlanta,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True
-Mary-Estelle (-mahuk),F,Vanuatu,VAN,2000,Sydney,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True
-Elis Lapenmal,F,Vanuatu,VAN,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Katura Marae,F,Vanuatu,VAN,2004,Athina,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Chloe David,F,Vanuatu,VAN,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Janice Alatoa,F,Vanuatu,VAN,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Olivette (-bice),F,Vanuatu,VAN,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Olivette (-bice),F,Vanuatu,VAN,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Andrea (-tari),F,Vanuatu,VAN,1992,Barcelona,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False,True
+Mary-Estelle (-mahuk),F,Vanuatu,VAN,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Mary-Estelle (-mahuk),F,Vanuatu,VAN,1992,Barcelona,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True,True
+Mary-Estelle (-mahuk),F,Vanuatu,VAN,1996,Atlanta,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True,False
+Mary-Estelle (-mahuk),F,Vanuatu,VAN,2000,Sydney,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True,False
+Elis Lapenmal,F,Vanuatu,VAN,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Katura Marae,F,Vanuatu,VAN,2004,Athina,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Chloe David,F,Vanuatu,VAN,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False,True

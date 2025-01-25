@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Helvijs Babris,M,Latvia,LAT,2020,Tokyo,Cycling BMX Racing,Men,No medal,Men,BMX,False
-Kristens Krigers,M,Latvia,LAT,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Helvijs Babris,M,Latvia,LAT,2020,Tokyo,Cycling BMX Racing,Men,No medal,Men,BMX,False,True
+Kristens Krigers,M,Latvia,LAT,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False,True

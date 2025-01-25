@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pedro Cisneros,M,Hatuey,CUB,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Enrique Rafecas,M,Hatuey,CUB,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Antonio Saavedra,M,Hatuey,CUB,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pedro Cisneros,M,Hatuey,CUB,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Enrique Rafecas,M,Hatuey,CUB,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Antonio Saavedra,M,Hatuey,CUB,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

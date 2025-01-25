@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Areti Athanasopoulou,F,Greece,GRE,2000,Sydney,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True
-Areti Athanasopoulou,F,Greece,GRE,2004,Athina,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True
-Kyriaki Kouvari,F,Greece,GRE,2008,Beijing,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False
-Elisavet Mystakidou,F,Greece,GRE,2004,Athina,Taekwondo,Taekwondo Women's Welterweight,Silver,Taekwondo,TKW,True
-Elisavet Mystakidou,F,Greece,GRE,2008,Beijing,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,True
-Fani Tzeli,F,Greece,GRE,2020,Tokyo,Taekwondo,Women -57kg,No medal,Women,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Areti Athanasopoulou,F,Greece,GRE,2000,Sydney,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True,True
+Areti Athanasopoulou,F,Greece,GRE,2004,Athina,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True,False
+Kyriaki Kouvari,F,Greece,GRE,2008,Beijing,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False,True
+Elisavet Mystakidou,F,Greece,GRE,2004,Athina,Taekwondo,Taekwondo Women's Welterweight,Silver,Taekwondo,TKW,True,True
+Elisavet Mystakidou,F,Greece,GRE,2008,Beijing,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,True,False
+Fani Tzeli,F,Greece,GRE,2020,Tokyo,Taekwondo,Women -57kg,No medal,Women,TKW,False,True

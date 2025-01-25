@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ryan Fox,M,New Zealand,NZL,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,True
-Jin-Myung Lee,M,New Zealand,NZL,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Ryan Fox,M,New Zealand,NZL,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
-Ryan Fox,M,New Zealand,NZL,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
-Daniel Hillier,M,New Zealand,NZL,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ryan Fox,M,New Zealand,NZL,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,True,True
+Jin-Myung Lee,M,New Zealand,NZL,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Ryan Fox,M,New Zealand,NZL,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,False
+Ryan Fox,M,New Zealand,NZL,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,False
+Daniel Hillier,M,New Zealand,NZL,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True

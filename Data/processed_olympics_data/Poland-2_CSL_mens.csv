@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jerzy Je,M,Poland-2,POL,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False
-Wojciech Kudlik,M,Poland-2,POL,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False
-Sawomir Mordarski,M,Poland-2,POL,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
-Sawomir Mordarski,M,Poland-2,POL,2000,Sydney,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
-Andrzej Wjs,M,Poland-2,POL,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
-Andrzej Wjs,M,Poland-2,POL,2000,Sydney,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jerzy Je,M,Poland-2,POL,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False,True
+Wojciech Kudlik,M,Poland-2,POL,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False,True
+Sawomir Mordarski,M,Poland-2,POL,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,True
+Sawomir Mordarski,M,Poland-2,POL,2000,Sydney,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,False
+Andrzej Wjs,M,Poland-2,POL,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,True
+Andrzej Wjs,M,Poland-2,POL,2000,Sydney,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,False

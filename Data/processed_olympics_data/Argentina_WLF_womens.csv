@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nora Kppel,F,Argentina,ARG,2000,Sydney,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True
-Nora Kppel,F,Argentina,ARG,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True
-Joana Palacios,F,Argentina,ARG,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nora Kppel,F,Argentina,ARG,2000,Sydney,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True,True
+Nora Kppel,F,Argentina,ARG,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True,False
+Joana Palacios,F,Argentina,ARG,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True

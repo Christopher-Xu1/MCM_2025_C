@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yevgeny Vakker,M,Kyrgyzstan,KGZ,1996,Atlanta,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Yevgeny Vakker,M,Kyrgyzstan,KGZ,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Yevgeny Vakker,M,Kyrgyzstan,KGZ,2000,Sydney,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Yevgeny Vakker,M,Kyrgyzstan,KGZ,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Yevgeny Vakker,M,Kyrgyzstan,KGZ,2004,Athina,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yevgeny Vakker,M,Kyrgyzstan,KGZ,1996,Atlanta,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,True
+Yevgeny Vakker,M,Kyrgyzstan,KGZ,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Yevgeny Vakker,M,Kyrgyzstan,KGZ,2000,Sydney,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False
+Yevgeny Vakker,M,Kyrgyzstan,KGZ,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Yevgeny Vakker,M,Kyrgyzstan,KGZ,2004,Athina,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False

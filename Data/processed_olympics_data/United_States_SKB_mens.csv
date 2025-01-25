@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jagger Eaton,M,United States,USA,2020,Tokyo,Skateboarding,Men's Street,Bronze,Men's,SKB,True
-Nyjah Huston,M,United States,USA,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,True
-Jake Ilardi,M,United States,USA,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,False
-Cory Juneau,M,United States,USA,2020,Tokyo,Skateboarding,Men's Park,Bronze,Men's,SKB,False
-Heimana Reynolds,M,United States,USA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,False
-Zion Wright,M,United States,USA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,False
-Chris Joslin,M,United States,USA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,False
-Gavin Bottger,M,United States,USA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,False
-Tate Carew,M,United States,USA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,False
-Jagger Eaton,M,United States,USA,2024,Paris,Skateboarding,Men's Street,Silver,Men's,SKB,True
-Nyjah Huston,M,United States,USA,2024,Paris,Skateboarding,Men's Street,Bronze,Men's,SKB,True
-Tom Schaar,M,United States,USA,2024,Paris,Skateboarding,Men's Park,Silver,Men's,SKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jagger Eaton,M,United States,USA,2020,Tokyo,Skateboarding,Men's Street,Bronze,Men's,SKB,True,True
+Nyjah Huston,M,United States,USA,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,True,True
+Jake Ilardi,M,United States,USA,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,False,True
+Cory Juneau,M,United States,USA,2020,Tokyo,Skateboarding,Men's Park,Bronze,Men's,SKB,False,True
+Heimana Reynolds,M,United States,USA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,False,True
+Zion Wright,M,United States,USA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,False,True
+Chris Joslin,M,United States,USA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,False,True
+Gavin Bottger,M,United States,USA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,False,True
+Tate Carew,M,United States,USA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,False,True
+Jagger Eaton,M,United States,USA,2024,Paris,Skateboarding,Men's Street,Silver,Men's,SKB,True,False
+Nyjah Huston,M,United States,USA,2024,Paris,Skateboarding,Men's Street,Bronze,Men's,SKB,True,False
+Tom Schaar,M,United States,USA,2024,Paris,Skateboarding,Men's Park,Silver,Men's,SKB,False,True

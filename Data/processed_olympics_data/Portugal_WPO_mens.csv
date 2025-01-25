@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Francisco Alves,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Eduardo Barbeiro,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Rodrigo Junior,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-scar Cabral,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Jos Correia,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Mximo Couto,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Joo Vale,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Fernando Madeira,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Armando Almeida,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Francisco Alves,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Eduardo Barbeiro,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Rodrigo Junior,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+scar Cabral,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Jos Correia,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Mximo Couto,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Joo Vale,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Fernando Madeira,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Armando Almeida,M,Portugal,POR,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True

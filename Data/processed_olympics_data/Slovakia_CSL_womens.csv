@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gabriela (zamikov-),F,Slovakia,SVK,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Jana Duktov,F,Slovakia,SVK,2012,London,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Jana Duktov,F,Slovakia,SVK,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Marcela Erbanov,F,Slovakia,SVK,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Marcela Erbanov,F,Slovakia,SVK,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Elena Kalisk,F,Slovakia,SVK,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Elena Kalisk,F,Slovakia,SVK,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Elena Kalisk,F,Slovakia,SVK,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, Slalom",Gold,Canoeing,CSL,True
-Elena Kalisk,F,Slovakia,SVK,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, Slalom",Gold,Canoeing,CSL,True
-Ivana Kmeov,F,Slovakia,SVK,2008,Beijing,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Ivana Kmeov,F,Slovakia,SVK,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True
-Ivana Kmeov,F,Slovakia,SVK,2012,London,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Martina Kohlov,F,Slovakia,SVK,2008,Beijing,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Martina Kohlov,F,Slovakia,SVK,2012,London,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Martina Kohlov,F,Slovakia,SVK,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True
-Martina Kohlov,F,Slovakia,SVK,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Gabriela Stacherov,F,Slovakia,SVK,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Gabriela Stacherov,F,Slovakia,SVK,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Eliska Mintalova,F,Slovakia,SVK,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,True
-Monika Skachova,F,Slovakia,SVK,2020,Tokyo,Canoe Slalom,Women's Canoe,No medal,Women's,CSL,False
-Zuzana Pankova,F,Slovakia,SVK,2024,Paris,Canoe Slalom,Women's Canoe Single,No medal,Women's,CSL,True
-Zuzana Pankova,F,Slovakia,SVK,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True
-Eliska Mintalova,F,Slovakia,SVK,2024,Paris,Canoe Slalom,Women's Kayak Single,No medal,Women's,CSL,True
-Eliska Mintalova,F,Slovakia,SVK,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gabriela (zamikov-),F,Slovakia,SVK,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Jana Duktov,F,Slovakia,SVK,2012,London,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Jana Duktov,F,Slovakia,SVK,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False
+Marcela Erbanov,F,Slovakia,SVK,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Marcela Erbanov,F,Slovakia,SVK,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Elena Kalisk,F,Slovakia,SVK,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Elena Kalisk,F,Slovakia,SVK,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False
+Elena Kalisk,F,Slovakia,SVK,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, Slalom",Gold,Canoeing,CSL,True,False
+Elena Kalisk,F,Slovakia,SVK,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, Slalom",Gold,Canoeing,CSL,True,False
+Ivana Kmeov,F,Slovakia,SVK,2008,Beijing,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Ivana Kmeov,F,Slovakia,SVK,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True,False
+Ivana Kmeov,F,Slovakia,SVK,2012,London,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Martina Kohlov,F,Slovakia,SVK,2008,Beijing,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Martina Kohlov,F,Slovakia,SVK,2012,London,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Martina Kohlov,F,Slovakia,SVK,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True,False
+Martina Kohlov,F,Slovakia,SVK,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Gabriela Stacherov,F,Slovakia,SVK,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Gabriela Stacherov,F,Slovakia,SVK,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False
+Eliska Mintalova,F,Slovakia,SVK,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,True,True
+Monika Skachova,F,Slovakia,SVK,2020,Tokyo,Canoe Slalom,Women's Canoe,No medal,Women's,CSL,False,True
+Zuzana Pankova,F,Slovakia,SVK,2024,Paris,Canoe Slalom,Women's Canoe Single,No medal,Women's,CSL,True,True
+Zuzana Pankova,F,Slovakia,SVK,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True,True
+Eliska Mintalova,F,Slovakia,SVK,2024,Paris,Canoe Slalom,Women's Kayak Single,No medal,Women's,CSL,True,False
+Eliska Mintalova,F,Slovakia,SVK,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True,False

@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hannes Fuchs,M,Austria,AUT,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Hannes Fuchs,M,Austria,AUT,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Hannes Fuchs,M,Austria,AUT,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Jrgen Koch,M,Austria,AUT,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Jrgen Koch,M,Austria,AUT,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Michael Lahnsteiner,M,Austria,AUT,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-David Obernosterer,M,Austria,AUT,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Luka Wraber,M,Austria,AUT,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,False
-Valentine Filimon,M,Austria,AUT,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hannes Fuchs,M,Austria,AUT,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Hannes Fuchs,M,Austria,AUT,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Hannes Fuchs,M,Austria,AUT,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Jrgen Koch,M,Austria,AUT,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Jrgen Koch,M,Austria,AUT,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Michael Lahnsteiner,M,Austria,AUT,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+David Obernosterer,M,Austria,AUT,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Luka Wraber,M,Austria,AUT,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,False,True
+Valentine Filimon,M,Austria,AUT,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False,True

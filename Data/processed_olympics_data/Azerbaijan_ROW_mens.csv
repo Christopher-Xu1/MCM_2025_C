@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aleksandr Aleksandrov,M,Azerbaijan,AZE,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
-Aleksandr Aleksandrov,M,Azerbaijan,AZE,2016,Rio de Janeiro,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,True
-Boris Yotov,M,Azerbaijan,AZE,2016,Rio de Janeiro,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aleksandr Aleksandrov,M,Azerbaijan,AZE,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,True
+Aleksandr Aleksandrov,M,Azerbaijan,AZE,2016,Rio de Janeiro,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,True,False
+Boris Yotov,M,Azerbaijan,AZE,2016,Rio de Janeiro,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False,True

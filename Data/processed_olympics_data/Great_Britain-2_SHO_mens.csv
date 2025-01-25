@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Butt,M,Great Britain-2,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Bronze,Shooting,SHO,False
-Harold Creasey,M,Great Britain-2,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Bronze,Shooting,SHO,False
-Richard Hutton,M,Great Britain-2,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Bronze,Shooting,SHO,False
-William Morris,M,Great Britain-2,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Bronze,Shooting,SHO,False
-Gerald Skinner,M,Great Britain-2,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Bronze,Shooting,SHO,False
-George Whitaker,M,Great Britain-2,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Bronze,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Butt,M,Great Britain-2,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Bronze,Shooting,SHO,False,True
+Harold Creasey,M,Great Britain-2,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Bronze,Shooting,SHO,False,True
+Richard Hutton,M,Great Britain-2,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Bronze,Shooting,SHO,False,True
+William Morris,M,Great Britain-2,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Bronze,Shooting,SHO,False,True
+Gerald Skinner,M,Great Britain-2,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Bronze,Shooting,SHO,False,True
+George Whitaker,M,Great Britain-2,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Bronze,Shooting,SHO,False,True

@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gilad Bloom,M,Israel,ISR,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Gilad Bloom,M,Israel,ISR,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Gilad Bloom,M,Israel,ISR,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Jonathan Erlich,M,Israel,ISR,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Jonathan Erlich,M,Israel,ISR,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Jonathan Erlich,M,Israel,ISR,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Amos Mansdorf,M,Israel,ISR,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Amos Mansdorf,M,Israel,ISR,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Shahar Perkiss,M,Israel,ISR,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Andy Ram,M,Israel,ISR,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Andy Ram,M,Israel,ISR,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Andy Ram,M,Israel,ISR,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-David Sela,M,Israel,ISR,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gilad Bloom,M,Israel,ISR,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Gilad Bloom,M,Israel,ISR,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Gilad Bloom,M,Israel,ISR,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Jonathan Erlich,M,Israel,ISR,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Jonathan Erlich,M,Israel,ISR,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Jonathan Erlich,M,Israel,ISR,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Amos Mansdorf,M,Israel,ISR,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Amos Mansdorf,M,Israel,ISR,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Shahar Perkiss,M,Israel,ISR,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Andy Ram,M,Israel,ISR,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Andy Ram,M,Israel,ISR,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Andy Ram,M,Israel,ISR,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+David Sela,M,Israel,ISR,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True

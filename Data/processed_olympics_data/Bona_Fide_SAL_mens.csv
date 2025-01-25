@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Edward Hore,M,Bona Fide,GBR,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,Gold,Sailing,SAL,False
-Harry Jefferson,M,Bona Fide,GBR,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,Gold,Sailing,SAL,False
-J. Taylor,M,Bona Fide,GBR,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Edward Hore,M,Bona Fide,GBR,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,Gold,Sailing,SAL,False,True
+Harry Jefferson,M,Bona Fide,GBR,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,Gold,Sailing,SAL,False,True
+J. Taylor,M,Bona Fide,GBR,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,Gold,Sailing,SAL,False,True

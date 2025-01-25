@@ -1,72 +1,72 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-rn Arnarson,M,Iceland,ISL,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-rn Arnarson,M,Iceland,ISL,2000,Sydney,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-rn Arnarson,M,Iceland,ISL,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-rn Arnarson,M,Iceland,ISL,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-rn Arnarson,M,Iceland,ISL,2008,Beijing,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-rni Rnason,M,Iceland,ISL,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-rni Rnason,M,Iceland,ISL,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Evar Evarsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Evar Evarsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-Evar Evarsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Finnur Gararsson,M,Iceland,ISL,1972,Munich,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Finnur Gararsson,M,Iceland,ISL,1972,Munich,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Gudmunur Gslason,M,Iceland,ISL,1960,Roma,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Gudmunur Gslason,M,Iceland,ISL,1964,Tokyo,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Gudmunur Gslason,M,Iceland,ISL,1964,Tokyo,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Gudmunur Gslason,M,Iceland,ISL,1968,Mexico City,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Gudmunur Gslason,M,Iceland,ISL,1968,Mexico City,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Gudmunur Gslason,M,Iceland,ISL,1968,Mexico City,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Gudmunur Gslason,M,Iceland,ISL,1968,Mexico City,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Gudmunur Gslason,M,Iceland,ISL,1972,Munich,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Gudmunur Gslason,M,Iceland,ISL,1972,Munich,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Ari Gumundsson,M,Iceland,ISL,1948,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Ari Gumundsson,M,Iceland,ISL,1948,London,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Fririk Gumundsson,M,Iceland,ISL,1972,Munich,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Fririk Gumundsson,M,Iceland,ISL,1972,Munich,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Gujn Gumundsson,M,Iceland,ISL,1972,Munich,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Gujn Gumundsson,M,Iceland,ISL,1972,Munich,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Hjalti Gumundsson,M,Iceland,ISL,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Ragnar Gumundsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Ragnar Gumundsson,M,Iceland,ISL,1988,Seoul,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Tryggvi Helgason,M,Iceland,ISL,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Tryggvi Helgason,M,Iceland,ISL,1984,Los Angeles,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Gumundur Inglfsson,M,Iceland,ISL,1948,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Ingi Jnsson,M,Iceland,ISL,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Ingi Jnsson,M,Iceland,ISL,1984,Los Angeles,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Ingi Jnsson,M,Iceland,ISL,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Leiknir Jnsson,M,Iceland,ISL,1968,Mexico City,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Leiknir Jnsson,M,Iceland,ISL,1968,Mexico City,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Sigurur Jnsson,M,Iceland,ISL,1948,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Sigurur Jnsson,M,Iceland,ISL,1948,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Logi Kristjnsson,M,Iceland,ISL,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Anton Mckee,M,Iceland,ISL,2012,London,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Anton Mckee,M,Iceland,ISL,2012,London,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Anton Mckee,M,Iceland,ISL,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Anton Mckee,M,Iceland,ISL,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Magns Lafsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Magns Lafsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Magns Lafsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Sigurur Lafsson,M,Iceland,ISL,1976,Montreal,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Sigurur Lafsson,M,Iceland,ISL,1976,Montreal,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Sigurur Lafsson,M,Iceland,ISL,1976,Montreal,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Sigurur Lafsson,M,Iceland,ISL,1976,Montreal,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Arnr Ragnarsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Arnr Ragnarsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Hjrtur Reynisson,M,Iceland,ISL,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Hjrtur Reynisson,M,Iceland,ISL,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Rkarur Rkarsson,M,Iceland,ISL,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Rkarur Rkarsson,M,Iceland,ISL,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-rni Sigursson,M,Iceland,ISL,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-rni Sigursson,M,Iceland,ISL,1984,Los Angeles,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Atli Steinarsson,M,Iceland,ISL,1948,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Jakob Sveinsson,M,Iceland,ISL,2000,Sydney,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Jakob Sveinsson,M,Iceland,ISL,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Jakob Sveinsson,M,Iceland,ISL,2004,Athina,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Jakob Sveinsson,M,Iceland,ISL,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Jakob Sveinsson,M,Iceland,ISL,2008,Beijing,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Jakob Sveinsson,M,Iceland,ISL,2012,London,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Jakob Sveinsson,M,Iceland,ISL,2012,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-McKEE Anton,M,Iceland,ISL,2020,Tokyo,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True
-McKEE Anton,M,Iceland,ISL,2024,Paris,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,True
-McKEE Anton,M,Iceland,ISL,2024,Paris,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+rn Arnarson,M,Iceland,ISL,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+rn Arnarson,M,Iceland,ISL,2000,Sydney,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+rn Arnarson,M,Iceland,ISL,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+rn Arnarson,M,Iceland,ISL,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+rn Arnarson,M,Iceland,ISL,2008,Beijing,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+rni Rnason,M,Iceland,ISL,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+rni Rnason,M,Iceland,ISL,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Evar Evarsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Evar Evarsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Evar Evarsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Finnur Gararsson,M,Iceland,ISL,1972,Munich,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Finnur Gararsson,M,Iceland,ISL,1972,Munich,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Gudmunur Gslason,M,Iceland,ISL,1960,Roma,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Gudmunur Gslason,M,Iceland,ISL,1964,Tokyo,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Gudmunur Gslason,M,Iceland,ISL,1964,Tokyo,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,False
+Gudmunur Gslason,M,Iceland,ISL,1968,Mexico City,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Gudmunur Gslason,M,Iceland,ISL,1968,Mexico City,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Gudmunur Gslason,M,Iceland,ISL,1968,Mexico City,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Gudmunur Gslason,M,Iceland,ISL,1968,Mexico City,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,False
+Gudmunur Gslason,M,Iceland,ISL,1972,Munich,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Gudmunur Gslason,M,Iceland,ISL,1972,Munich,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,False
+Ari Gumundsson,M,Iceland,ISL,1948,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Ari Gumundsson,M,Iceland,ISL,1948,London,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Fririk Gumundsson,M,Iceland,ISL,1972,Munich,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Fririk Gumundsson,M,Iceland,ISL,1972,Munich,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Gujn Gumundsson,M,Iceland,ISL,1972,Munich,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Gujn Gumundsson,M,Iceland,ISL,1972,Munich,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Hjalti Gumundsson,M,Iceland,ISL,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Ragnar Gumundsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Ragnar Gumundsson,M,Iceland,ISL,1988,Seoul,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Tryggvi Helgason,M,Iceland,ISL,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Tryggvi Helgason,M,Iceland,ISL,1984,Los Angeles,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Gumundur Inglfsson,M,Iceland,ISL,1948,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Ingi Jnsson,M,Iceland,ISL,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Ingi Jnsson,M,Iceland,ISL,1984,Los Angeles,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Ingi Jnsson,M,Iceland,ISL,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Leiknir Jnsson,M,Iceland,ISL,1968,Mexico City,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Leiknir Jnsson,M,Iceland,ISL,1968,Mexico City,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Sigurur Jnsson,M,Iceland,ISL,1948,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Sigurur Jnsson,M,Iceland,ISL,1948,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Logi Kristjnsson,M,Iceland,ISL,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Anton Mckee,M,Iceland,ISL,2012,London,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Anton Mckee,M,Iceland,ISL,2012,London,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Anton Mckee,M,Iceland,ISL,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Anton Mckee,M,Iceland,ISL,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Magns Lafsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Magns Lafsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Magns Lafsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Sigurur Lafsson,M,Iceland,ISL,1976,Montreal,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Sigurur Lafsson,M,Iceland,ISL,1976,Montreal,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Sigurur Lafsson,M,Iceland,ISL,1976,Montreal,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Sigurur Lafsson,M,Iceland,ISL,1976,Montreal,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Arnr Ragnarsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Arnr Ragnarsson,M,Iceland,ISL,1988,Seoul,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Hjrtur Reynisson,M,Iceland,ISL,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Hjrtur Reynisson,M,Iceland,ISL,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Rkarur Rkarsson,M,Iceland,ISL,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Rkarur Rkarsson,M,Iceland,ISL,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+rni Sigursson,M,Iceland,ISL,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+rni Sigursson,M,Iceland,ISL,1984,Los Angeles,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Atli Steinarsson,M,Iceland,ISL,1948,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Jakob Sveinsson,M,Iceland,ISL,2000,Sydney,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Jakob Sveinsson,M,Iceland,ISL,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Jakob Sveinsson,M,Iceland,ISL,2004,Athina,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Jakob Sveinsson,M,Iceland,ISL,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Jakob Sveinsson,M,Iceland,ISL,2008,Beijing,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Jakob Sveinsson,M,Iceland,ISL,2012,London,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Jakob Sveinsson,M,Iceland,ISL,2012,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+McKEE Anton,M,Iceland,ISL,2020,Tokyo,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True,True
+McKEE Anton,M,Iceland,ISL,2024,Paris,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,True,False
+McKEE Anton,M,Iceland,ISL,2024,Paris,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True,False

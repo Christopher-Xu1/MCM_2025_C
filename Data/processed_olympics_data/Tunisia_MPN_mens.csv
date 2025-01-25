@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Habib Azzabi,M,Tunisia,TUN,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Habib Azzabi,M,Tunisia,TUN,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Lakdar Bouzid,M,Tunisia,TUN,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Lakdar Bouzid,M,Tunisia,TUN,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Ahmed Ennachi,M,Tunisia,TUN,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Ahmed Ennachi,M,Tunisia,TUN,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Habib Azzabi,M,Tunisia,TUN,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Habib Azzabi,M,Tunisia,TUN,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Lakdar Bouzid,M,Tunisia,TUN,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Lakdar Bouzid,M,Tunisia,TUN,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Ahmed Ennachi,M,Tunisia,TUN,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Ahmed Ennachi,M,Tunisia,TUN,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True

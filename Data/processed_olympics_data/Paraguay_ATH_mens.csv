@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Derlis Snchez,M,Paraguay,PAR,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Edgar Duran,M,Paraguay,PAR,1996,Atlanta,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,False
-Eusebio Asuncin,M,Paraguay,PAR,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Nicols Chaparro,M,Paraguay,PAR,1984,Los Angeles,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Nicols Chaparro,M,Paraguay,PAR,1984,Los Angeles,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True
-Oscar Diesel,M,Paraguay,PAR,1984,Los Angeles,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Oscar Diesel,M,Paraguay,PAR,1984,Los Angeles,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True
-Claudio Escauriza,M,Paraguay,PAR,1984,Los Angeles,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,False
-Vctor Riveros,M,Paraguay,PAR,2008,Beijing,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,False
-Diego Ferreira,M,Paraguay,PAR,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Francisco Figueredo,M,Paraguay,PAR,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Angel Guerreros,M,Paraguay,PAR,1972,Munich,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Ramn Arellano,M,Paraguay,PAR,1988,Seoul,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
-Ramn Arellano,M,Paraguay,PAR,1992,Barcelona,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
-Ramn Arellano,M,Paraguay,PAR,1996,Atlanta,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
-Nery Roln,M,Paraguay,PAR,1992,Barcelona,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,True
-Nery Roln,M,Paraguay,PAR,2000,Sydney,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,True
-Ramn Lpez,M,Paraguay,PAR,1984,Los Angeles,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Ramn Lpez,M,Paraguay,PAR,1984,Los Angeles,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Ramn Lpez,M,Paraguay,PAR,1984,Los Angeles,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
-Ramn Lpez,M,Paraguay,PAR,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Ramn Lpez,M,Paraguay,PAR,1988,Seoul,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
-Porfirio Acosta,M,Paraguay,PAR,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Francisco Soto,M,Paraguay,PAR,1972,Munich,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Augusto Netepczuk,M,Paraguay,PAR,2012,London,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Derlys Ayala,M,Paraguay,PAR,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False
-Cesar Almiron,M,Paraguay,PAR,2024,Paris,Athletics,Men's 200m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Derlis Snchez,M,Paraguay,PAR,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Edgar Duran,M,Paraguay,PAR,1996,Atlanta,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,False,True
+Eusebio Asuncin,M,Paraguay,PAR,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Nicols Chaparro,M,Paraguay,PAR,1984,Los Angeles,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,True
+Nicols Chaparro,M,Paraguay,PAR,1984,Los Angeles,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True,True
+Oscar Diesel,M,Paraguay,PAR,1984,Los Angeles,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,True
+Oscar Diesel,M,Paraguay,PAR,1984,Los Angeles,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True,True
+Claudio Escauriza,M,Paraguay,PAR,1984,Los Angeles,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,False,True
+Vctor Riveros,M,Paraguay,PAR,2008,Beijing,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,False,True
+Diego Ferreira,M,Paraguay,PAR,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Francisco Figueredo,M,Paraguay,PAR,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Angel Guerreros,M,Paraguay,PAR,1972,Munich,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Ramn Arellano,M,Paraguay,PAR,1988,Seoul,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True,True
+Ramn Arellano,M,Paraguay,PAR,1992,Barcelona,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True,False
+Ramn Arellano,M,Paraguay,PAR,1996,Atlanta,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True,False
+Nery Roln,M,Paraguay,PAR,1992,Barcelona,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,True,True
+Nery Roln,M,Paraguay,PAR,2000,Sydney,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,True,False
+Ramn Lpez,M,Paraguay,PAR,1984,Los Angeles,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Ramn Lpez,M,Paraguay,PAR,1984,Los Angeles,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Ramn Lpez,M,Paraguay,PAR,1984,Los Angeles,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True,True
+Ramn Lpez,M,Paraguay,PAR,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,False
+Ramn Lpez,M,Paraguay,PAR,1988,Seoul,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True,False
+Porfirio Acosta,M,Paraguay,PAR,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Francisco Soto,M,Paraguay,PAR,1972,Munich,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Augusto Netepczuk,M,Paraguay,PAR,2012,London,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Derlys Ayala,M,Paraguay,PAR,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False,True
+Cesar Almiron,M,Paraguay,PAR,2024,Paris,Athletics,Men's 200m,No medal,Men's,ATH,False,True

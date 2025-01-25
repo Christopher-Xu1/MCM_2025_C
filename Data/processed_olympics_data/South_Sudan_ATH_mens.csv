@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Santino Kenyi,M,South Sudan,SSD,2016,Rio de Janeiro,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Guor Miaker),M,South Sudan,SSD,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Abraham Guem,M,South Sudan,SSD,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,True
-Abraham Guem,M,South Sudan,SSD,2024,Paris,Athletics,Men's 800m,No medal,Men's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Santino Kenyi,M,South Sudan,SSD,2016,Rio de Janeiro,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Guor Miaker),M,South Sudan,SSD,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Abraham Guem,M,South Sudan,SSD,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,True,True
+Abraham Guem,M,South Sudan,SSD,2024,Paris,Athletics,Men's 800m,No medal,Men's,ATH,True,False

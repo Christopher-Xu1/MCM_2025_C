@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Olga Klimko,F,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Olga Klimko,F,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Inna (syrota-),F,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Inna (syrota-),F,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Irina Zuykova,F,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Irina Zuykova,F,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Olga Klimko,F,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Olga Klimko,F,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True
+Inna (syrota-),F,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Inna (syrota-),F,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True
+Irina Zuykova,F,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Irina Zuykova,F,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True

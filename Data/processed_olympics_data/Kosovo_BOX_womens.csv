@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Donjeta Sadiku,F,Kosovo,KOS,2020,Tokyo,Boxing,Women's Light (57-60kg),No medal,Women's,BOX,True
-Donjeta Sadiku,F,Kosovo,KOS,2024,Paris,Boxing,Women's 60kg,No medal,Women's,BOX,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Donjeta Sadiku,F,Kosovo,KOS,2020,Tokyo,Boxing,Women's Light (57-60kg),No medal,Women's,BOX,True,True
+Donjeta Sadiku,F,Kosovo,KOS,2024,Paris,Boxing,Women's 60kg,No medal,Women's,BOX,True,False

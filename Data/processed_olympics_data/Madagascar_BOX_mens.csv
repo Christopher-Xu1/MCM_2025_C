@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Celestin Augustin,M,Madagascar,MAD,2000,Sydney,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Jean-Luc Bezoky,M,Madagascar,MAD,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Lalaina Rabenarivo,M,Madagascar,MAD,2004,Athina,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Sylvain Rajefiarison,M,Madagascar,MAD,1980,Moskva,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Heritovo Rakotomanga,M,Madagascar,MAD,1992,Barcelona,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Milson Randrianasolo,M,Madagascar,MAD,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Paul Rasamimanana,M,Madagascar,MAD,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Paul Rasamimanana,M,Madagascar,MAD,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Anicet Rasoanaivo,M,Madagascar,MAD,1992,Barcelona,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True
-Anicet Rasoanaivo,M,Madagascar,MAD,1996,Atlanta,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True
-Anicet Sambo,M,Madagascar,MAD,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Jean Razanadrakoto,M,Madagascar,MAD,2008,Beijing,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Celestin Augustin,M,Madagascar,MAD,2000,Sydney,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Jean-Luc Bezoky,M,Madagascar,MAD,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Lalaina Rabenarivo,M,Madagascar,MAD,2004,Athina,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Sylvain Rajefiarison,M,Madagascar,MAD,1980,Moskva,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Heritovo Rakotomanga,M,Madagascar,MAD,1992,Barcelona,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Milson Randrianasolo,M,Madagascar,MAD,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Paul Rasamimanana,M,Madagascar,MAD,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,True
+Paul Rasamimanana,M,Madagascar,MAD,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,False
+Anicet Rasoanaivo,M,Madagascar,MAD,1992,Barcelona,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True,True
+Anicet Rasoanaivo,M,Madagascar,MAD,1996,Atlanta,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True,False
+Anicet Sambo,M,Madagascar,MAD,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Jean Razanadrakoto,M,Madagascar,MAD,2008,Beijing,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True

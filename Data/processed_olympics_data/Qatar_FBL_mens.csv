@@ -1,32 +1,32 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ibrahim Ahmad,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Abdullah Al-abdullah,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Mubarak Al-ali,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Mohamed Al-ammari,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Hamad Al-attiya,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Mubarak Al-khater,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Fahad Al-kuwari,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Zamel Al-kuwari,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Faraj Al-mass,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Issa Al-mohamedi,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Mohamed Al-mohannadi,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Adel Al-mulla,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Abdul Al-obaidly,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Ali Al-sadah,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Mohamed Al-sowaidi,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Khaled Al-waheebi,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Mansoor Bakheet,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Waleed Ibrahim,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Abdul Jalouf,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Juma Johar,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Younis Lari,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Waleed Maayof,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Youssef Mahmoud,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Adel Malalla,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Salem Mehaizaa,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Mubarak Nooralla,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Ahmed Saleh,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Khaled Al-mohamedi,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Mahmoud Souf,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Rashid Suwaid,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Sultan Jamaan,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ibrahim Ahmad,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Abdullah Al-abdullah,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mubarak Al-ali,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mohamed Al-ammari,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Hamad Al-attiya,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mubarak Al-khater,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Fahad Al-kuwari,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Zamel Al-kuwari,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Faraj Al-mass,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Issa Al-mohamedi,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mohamed Al-mohannadi,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Adel Al-mulla,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Abdul Al-obaidly,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Ali Al-sadah,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mohamed Al-sowaidi,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Khaled Al-waheebi,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mansoor Bakheet,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Waleed Ibrahim,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Abdul Jalouf,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Juma Johar,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Younis Lari,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Waleed Maayof,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Youssef Mahmoud,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Adel Malalla,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Salem Mehaizaa,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mubarak Nooralla,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Ahmed Saleh,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Khaled Al-mohamedi,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mahmoud Souf,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Rashid Suwaid,M,Qatar,QAT,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Sultan Jamaan,M,Qatar,QAT,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True

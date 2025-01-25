@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bertrand Chanu,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Geoffroy D'andign,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Jacques D'arlincourt,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Ferdinand Lariboisire,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Jean Neuflize,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,Bronze,Equestrianism,EVE,False
-Adrien Noailles,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Paul Saint-lger,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Charles-Eugne Veauce,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Jacques Waru,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Louis Graville,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Louis Gallice,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-James Hennessy,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Jacques Caze,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
-Lon Thome,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,Silver,Equestrianism,EVE,False
-Philippe Vernes,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bertrand Chanu,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Geoffroy D'andign,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Jacques D'arlincourt,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Ferdinand Lariboisire,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Jean Neuflize,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,Bronze,Equestrianism,EVE,False,True
+Adrien Noailles,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Paul Saint-lger,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Charles-Eugne Veauce,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Jacques Waru,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Louis Graville,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Louis Gallice,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+James Hennessy,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Jacques Caze,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True
+Lon Thome,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,Silver,Equestrianism,EVE,False,True
+Philippe Vernes,M,France-1,FRA,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rta (-bdien-),F,Lithuania,LTU,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Rta (-bdien-),F,Lithuania,LTU,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Rta (-bdien-),F,Lithuania,LTU,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Rta (-bdien-),F,Lithuania,LTU,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jolanta (-danileviit),F,Lithuania,LTU,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rta (-bdien-),F,Lithuania,LTU,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Rta (-bdien-),F,Lithuania,LTU,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Rta (-bdien-),F,Lithuania,LTU,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Rta (-bdien-),F,Lithuania,LTU,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Jolanta (-danileviit),F,Lithuania,LTU,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True

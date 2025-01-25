@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elmira Karapetyan,F,Armenia,ARM,2020,Tokyo,Shooting,10m Air Pistol Women,No medal,10m,SHO,True
-Elmira Karapetyan,F,Armenia,ARM,2024,Paris,Shooting,10m Air Pistol Women,No medal,10m,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elmira Karapetyan,F,Armenia,ARM,2020,Tokyo,Shooting,10m Air Pistol Women,No medal,10m,SHO,True,True
+Elmira Karapetyan,F,Armenia,ARM,2024,Paris,Shooting,10m Air Pistol Women,No medal,10m,SHO,True,False

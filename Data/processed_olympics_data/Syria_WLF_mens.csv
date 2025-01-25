@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Salem Ajjoub,M,Syria,SYR,1980,Moskva,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Salem Ajjoub,M,Syria,SYR,1984,Los Angeles,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Abdalla Al-sebaei,M,Syria,SYR,1996,Atlanta,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Man Asaad,M,Syria,SYR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Mohamed Fayad,M,Syria,SYR,1988,Seoul,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Ahed Joughili,M,Syria,SYR,2008,Beijing,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-Ahed Joughili,M,Syria,SYR,2012,London,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-Imade Kadro,M,Syria,SYR,1980,Moskva,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Faouaz Nadirin,M,Syria,SYR,1980,Moskva,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Talal Najjar,M,Syria,SYR,1980,Moskva,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Abuaihuda Ozon,M,Syria,SYR,1984,Los Angeles,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False
-Man Asaad,M,Syria,SYR,2020,Tokyo,Weightlifting,Men's +109kg,Bronze,Men's,WLF,True
-Man Asaad,M,Syria,SYR,2024,Paris,Weightlifting,Men's +102kg,No medal,Men's,WLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Salem Ajjoub,M,Syria,SYR,1980,Moskva,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True,True
+Salem Ajjoub,M,Syria,SYR,1984,Los Angeles,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,False
+Abdalla Al-sebaei,M,Syria,SYR,1996,Atlanta,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Man Asaad,M,Syria,SYR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,True,True
+Mohamed Fayad,M,Syria,SYR,1988,Seoul,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Ahed Joughili,M,Syria,SYR,2008,Beijing,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,True
+Ahed Joughili,M,Syria,SYR,2012,London,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,False
+Imade Kadro,M,Syria,SYR,1980,Moskva,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Faouaz Nadirin,M,Syria,SYR,1980,Moskva,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Talal Najjar,M,Syria,SYR,1980,Moskva,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Abuaihuda Ozon,M,Syria,SYR,1984,Los Angeles,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False,True
+Man Asaad,M,Syria,SYR,2020,Tokyo,Weightlifting,Men's +109kg,Bronze,Men's,WLF,True,False
+Man Asaad,M,Syria,SYR,2024,Paris,Weightlifting,Men's +102kg,No medal,Men's,WLF,True,False

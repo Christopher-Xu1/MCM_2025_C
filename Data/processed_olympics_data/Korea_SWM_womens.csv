@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yeonkyung Hur,F,Korea,KOR,2024,Paris,Swimming,Relay Only Athlete,No medal,Relay,SWM,True
-Yeonkyung Hur,F,Korea,KOR,2024,Paris,Swimming,Mixed 4 x 100m Medley Relay,No medal,Mixed,SWM,True
-Seoyeong Kim,F,Korea,KOR,2024,Paris,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,False
-Eunji Lee,F,Korea,KOR,2024,Paris,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,True
-Eunji Lee,F,Korea,KOR,2024,Paris,Swimming,Mixed 4 x 100m Medley Relay,No medal,Mixed,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yeonkyung Hur,F,Korea,KOR,2024,Paris,Swimming,Relay Only Athlete,No medal,Relay,SWM,True,True
+Yeonkyung Hur,F,Korea,KOR,2024,Paris,Swimming,Mixed 4 x 100m Medley Relay,No medal,Mixed,SWM,True,True
+Seoyeong Kim,F,Korea,KOR,2024,Paris,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,False,True
+Eunji Lee,F,Korea,KOR,2024,Paris,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,True,True
+Eunji Lee,F,Korea,KOR,2024,Paris,Swimming,Mixed 4 x 100m Medley Relay,No medal,Mixed,SWM,True,True

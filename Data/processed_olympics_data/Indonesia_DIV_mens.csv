@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohamed Nasrullah,M,Indonesia,INA,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohamed Nasrullah,M,Indonesia,INA,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True

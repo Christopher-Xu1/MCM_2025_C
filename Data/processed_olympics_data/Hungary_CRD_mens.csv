@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Attila Valter,M,Hungary,HUN,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Attila Valter,M,Hungary,HUN,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Attila Valter,M,Hungary,HUN,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Attila Valter,M,Hungary,HUN,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Attila Valter,M,Hungary,HUN,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,False
+Attila Valter,M,Hungary,HUN,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,False

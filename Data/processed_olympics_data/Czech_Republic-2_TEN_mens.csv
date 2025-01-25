@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tom Berdych,M,Czech Republic-2,CZE,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Martin Damm,M,Czech Republic-2,CZE,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Ji Novk,M,Czech Republic-2,CZE,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Pavel Vizner,M,Czech Republic-2,CZE,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tom Berdych,M,Czech Republic-2,CZE,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Martin Damm,M,Czech Republic-2,CZE,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Ji Novk,M,Czech Republic-2,CZE,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Pavel Vizner,M,Czech Republic-2,CZE,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mosi Alli,F,Tanzania,TAN,1980,Moskva,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Mosi Alli,F,Tanzania,TAN,1980,Moskva,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Marcellina Emmanuel,F,Tanzania,TAN,1980,Moskva,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,False
-Restituta Kemi,F,Tanzania,TAN,1996,Atlanta,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Restituta Kemi,F,Tanzania,TAN,2000,Sydney,Athletics,"Athletics Women's 10,000 metres",No medal,Athletics,ATH,True
-Restituta Kemi,F,Tanzania,TAN,2004,Athina,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,True
-Nzaeli Kyomo,F,Tanzania,TAN,1980,Moskva,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Nzaeli Kyomo,F,Tanzania,TAN,1980,Moskva,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Nzaeli Kyomo,F,Tanzania,TAN,1984,Los Angeles,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Nzaeli Kyomo,F,Tanzania,TAN,1984,Los Angeles,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Banuelia (-katesigwa),F,Tanzania,TAN,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Zakia Mohamed,F,Tanzania,TAN,2008,Beijing,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,True
-Zakia Mohamed,F,Tanzania,TAN,2012,London,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,True
-Mwinga (-sote),F,Tanzania,TAN,1980,Moskva,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Mwinga (-sote),F,Tanzania,TAN,1980,Moskva,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True
-Mwinga (-sote),F,Tanzania,TAN,1984,Los Angeles,Athletics,"Athletics Women's 3,000 metres",No medal,Athletics,ATH,True
-Lilian Nyiti,F,Tanzania,TAN,1980,Moskva,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False
-Sara Ramadhani,F,Tanzania,TAN,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Failuna Matanga,F,Tanzania,TAN,2020,Tokyo,Athletics,Women's Marathon,No medal,Women's,ATH,False
-Magdalena Shauri,F,Tanzania,TAN,2024,Paris,Athletics,Women's Marathon,No medal,Women's,ATH,False
-Jackline Sakilu,F,Tanzania,TAN,2024,Paris,Athletics,Women's Marathon,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mosi Alli,F,Tanzania,TAN,1980,Moskva,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Mosi Alli,F,Tanzania,TAN,1980,Moskva,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Marcellina Emmanuel,F,Tanzania,TAN,1980,Moskva,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,False,True
+Restituta Kemi,F,Tanzania,TAN,1996,Atlanta,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Restituta Kemi,F,Tanzania,TAN,2000,Sydney,Athletics,"Athletics Women's 10,000 metres",No medal,Athletics,ATH,True,False
+Restituta Kemi,F,Tanzania,TAN,2004,Athina,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,True,False
+Nzaeli Kyomo,F,Tanzania,TAN,1980,Moskva,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Nzaeli Kyomo,F,Tanzania,TAN,1980,Moskva,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Nzaeli Kyomo,F,Tanzania,TAN,1984,Los Angeles,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Nzaeli Kyomo,F,Tanzania,TAN,1984,Los Angeles,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Banuelia (-katesigwa),F,Tanzania,TAN,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Zakia Mohamed,F,Tanzania,TAN,2008,Beijing,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,True,True
+Zakia Mohamed,F,Tanzania,TAN,2012,London,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,True,False
+Mwinga (-sote),F,Tanzania,TAN,1980,Moskva,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Mwinga (-sote),F,Tanzania,TAN,1980,Moskva,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True,True
+Mwinga (-sote),F,Tanzania,TAN,1984,Los Angeles,Athletics,"Athletics Women's 3,000 metres",No medal,Athletics,ATH,True,False
+Lilian Nyiti,F,Tanzania,TAN,1980,Moskva,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False,True
+Sara Ramadhani,F,Tanzania,TAN,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Failuna Matanga,F,Tanzania,TAN,2020,Tokyo,Athletics,Women's Marathon,No medal,Women's,ATH,False,True
+Magdalena Shauri,F,Tanzania,TAN,2024,Paris,Athletics,Women's Marathon,No medal,Women's,ATH,False,True
+Jackline Sakilu,F,Tanzania,TAN,2024,Paris,Athletics,Women's Marathon,No medal,Women's,ATH,False,True

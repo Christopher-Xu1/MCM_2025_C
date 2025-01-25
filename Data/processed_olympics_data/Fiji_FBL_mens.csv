@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Filipe Baravilala,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Nickel Chand,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Jale Dreloa,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Setareki Hughes,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Anish Khem,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Roy Krishna,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Samuela Nabenia,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Praneel Naidu,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Ratu Nakalevu,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Alvin Singh,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Simione Tamanisau,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Tony Tuivuna,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Osea Turagabeci,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Iosefo Verevou,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Saula Waqa,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
-Ratu Waranaivalu,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Filipe Baravilala,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Nickel Chand,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Jale Dreloa,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Setareki Hughes,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Anish Khem,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Roy Krishna,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Samuela Nabenia,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Praneel Naidu,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Ratu Nakalevu,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Alvin Singh,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Simione Tamanisau,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Tony Tuivuna,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Osea Turagabeci,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Iosefo Verevou,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Saula Waqa,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True
+Ratu Waranaivalu,M,Fiji,FIJ,2016,Rio de Janeiro,Football,Football Men's Football,No medal,Football,FBL,False,True

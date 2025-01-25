@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Savitree Amitrapai,F,Thailand,THA,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Porntip Buranaprasertsuk,F,Thailand,THA,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Sathinee Chankrachangwong,F,Thailand,THA,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Somharuthai Charoensiri,F,Thailand,THA,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Somharuthai Charoensiri,F,Thailand,THA,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Sujitra Ekmongkolpaisarn,F,Thailand,THA,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Sujitra Ekmongkolpaisarn,F,Thailand,THA,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Ratchanok Intanon,F,Thailand,THA,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Ratchanok Intanon,F,Thailand,THA,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Ladawan Mulasartsatorn,F,Thailand,THA,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Pornsawan Plungwech,F,Thailand,THA,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Pornsawan Plungwech,F,Thailand,THA,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Salakjit Ponsana,F,Thailand,THA,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Salakjit Ponsana,F,Thailand,THA,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Piyathip Sansaniyakulvilai,F,Thailand,THA,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Puttita Supajirakul,F,Thailand,THA,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Sapsiree Taerattanachai,F,Thailand,THA,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Saralee Thungthongkam,F,Thailand,THA,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Saralee Thungthongkam,F,Thailand,THA,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Saralee Thungthongkam,F,Thailand,THA,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Saralee Thungthongkam,F,Thailand,THA,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Saralee Thungthongkam,F,Thailand,THA,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Saralee Thungthongkam,F,Thailand,THA,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Ratchanok Intanon,F,Thailand,THA,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,True
-Jongkolphan Kititharakul,F,Thailand,THA,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,True
-Busanan Ongbamrungphan,F,Thailand,THA,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,False
-Rawinda Prajongjai,F,Thailand,THA,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,True
-Sapsiree Taerattanachai,F,Thailand,THA,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,True
-Supanida Katethong,F,Thailand,THA,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False
-Jongkolphan Kititharakul,F,Thailand,THA,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,True
-Rawinda Prajongjai,F,Thailand,THA,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,True
-Sapsiree Taerattanachai,F,Thailand,THA,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,True
-Ratchanok Intanon,F,Thailand,THA,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Savitree Amitrapai,F,Thailand,THA,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Porntip Buranaprasertsuk,F,Thailand,THA,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Sathinee Chankrachangwong,F,Thailand,THA,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Somharuthai Charoensiri,F,Thailand,THA,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Somharuthai Charoensiri,F,Thailand,THA,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Sujitra Ekmongkolpaisarn,F,Thailand,THA,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Sujitra Ekmongkolpaisarn,F,Thailand,THA,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Ratchanok Intanon,F,Thailand,THA,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Ratchanok Intanon,F,Thailand,THA,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Ladawan Mulasartsatorn,F,Thailand,THA,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Pornsawan Plungwech,F,Thailand,THA,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Pornsawan Plungwech,F,Thailand,THA,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Salakjit Ponsana,F,Thailand,THA,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Salakjit Ponsana,F,Thailand,THA,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Piyathip Sansaniyakulvilai,F,Thailand,THA,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Puttita Supajirakul,F,Thailand,THA,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Sapsiree Taerattanachai,F,Thailand,THA,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Saralee Thungthongkam,F,Thailand,THA,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Saralee Thungthongkam,F,Thailand,THA,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Saralee Thungthongkam,F,Thailand,THA,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Saralee Thungthongkam,F,Thailand,THA,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Saralee Thungthongkam,F,Thailand,THA,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Saralee Thungthongkam,F,Thailand,THA,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Ratchanok Intanon,F,Thailand,THA,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,True,False
+Jongkolphan Kititharakul,F,Thailand,THA,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,True,True
+Busanan Ongbamrungphan,F,Thailand,THA,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,False,True
+Rawinda Prajongjai,F,Thailand,THA,2020,Tokyo,Badminton,Women's Doubles Team,No medal,Women's,BDM,True,True
+Sapsiree Taerattanachai,F,Thailand,THA,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,True,False
+Supanida Katethong,F,Thailand,THA,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False,True
+Jongkolphan Kititharakul,F,Thailand,THA,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,True,False
+Rawinda Prajongjai,F,Thailand,THA,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,True,False
+Sapsiree Taerattanachai,F,Thailand,THA,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,True,False
+Ratchanok Intanon,F,Thailand,THA,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,True,False

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Feryal Abdelaziz,F,Egypt,EGY,2020,Tokyo,Karate,Women's Kumite +61kg,Gold,Women's,KTE,False
-Giana Lotfy,F,Egypt,EGY,2020,Tokyo,Karate,Women's Kumite -61kg,Bronze,Women's,KTE,False
-Radwa Sayed,F,Egypt,EGY,2020,Tokyo,Karate,Women's Kumite -55kg,No medal,Women's,KTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Feryal Abdelaziz,F,Egypt,EGY,2020,Tokyo,Karate,Women's Kumite +61kg,Gold,Women's,KTE,False,True
+Giana Lotfy,F,Egypt,EGY,2020,Tokyo,Karate,Women's Kumite -61kg,Bronze,Women's,KTE,False,True
+Radwa Sayed,F,Egypt,EGY,2020,Tokyo,Karate,Women's Kumite -55kg,No medal,Women's,KTE,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Atanas Nikolovski,M,Macedonia,MKD,2008,Beijing,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Lazar Popovski,M,Macedonia,MKD,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Lazar Popovski,M,Macedonia,MKD,2000,Sydney,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Lazar Popovski,M,Macedonia,MKD,2004,Athina,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Nenad Trpovski,M,Macedonia,MKD,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Atanas Nikolovski,M,Macedonia,MKD,2008,Beijing,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Lazar Popovski,M,Macedonia,MKD,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Lazar Popovski,M,Macedonia,MKD,2000,Sydney,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False
+Lazar Popovski,M,Macedonia,MKD,2004,Athina,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False
+Nenad Trpovski,M,Macedonia,MKD,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,False,True

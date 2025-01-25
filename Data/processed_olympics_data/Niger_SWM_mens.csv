@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohamed Alhassan,M,Niger,NIG,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Karim Bare,M,Niger,NIG,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Ibrahim Maliki,M,Niger,NIG,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Albarchir Mouctar,M,Niger,NIG,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Alassane Seydou,M,Niger,NIG,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False
-Marouane Mamane,M,Niger,NIG,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohamed Alhassan,M,Niger,NIG,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Karim Bare,M,Niger,NIG,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Ibrahim Maliki,M,Niger,NIG,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Albarchir Mouctar,M,Niger,NIG,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Alassane Seydou,M,Niger,NIG,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False,True
+Marouane Mamane,M,Niger,NIG,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False,True

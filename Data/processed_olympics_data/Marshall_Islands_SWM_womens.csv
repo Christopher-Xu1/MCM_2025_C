@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Colleen Furgeson,F,Marshall Islands,MHL,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Ann-Marie Hepler,F,Marshall Islands,MHL,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Julianne Kirchner,F,Marshall Islands,MHL,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Colleen Furgeson,F,Marshall Islands,MHL,2020,Tokyo,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,True
-Kayla Hepler,F,Marshall Islands,MHL,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Colleen Furgeson,F,Marshall Islands,MHL,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Ann-Marie Hepler,F,Marshall Islands,MHL,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Julianne Kirchner,F,Marshall Islands,MHL,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Colleen Furgeson,F,Marshall Islands,MHL,2020,Tokyo,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,True,False
+Kayla Hepler,F,Marshall Islands,MHL,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True

@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Monika Felizeter,F,Austria,AUT,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Maria Leibetseder,F,Austria,AUT,1976,Montreal,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False
-Magdalena Lobnig,F,Austria,AUT,2016,Rio de Janeiro,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Ingeborg Niedermayer,F,Austria,AUT,1984,Los Angeles,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False
-Karola Schustereder,F,Austria,AUT,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Renate (sika-),F,Austria,AUT,1976,Montreal,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False
-Vera Sommerbauer,F,Austria,AUT,1984,Los Angeles,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False
-Astrid (-tiefenbacher),F,Austria,AUT,1984,Los Angeles,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False
-Louisa Altenhuber,F,Austria,AUT,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,True
-Valentina Cavallar,F,Austria,AUT,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,False
-Magdalena Lobnig,F,Austria,AUT,2020,Tokyo,Rowing,Women's Single Sculls,Bronze,Women's,ROW,True
-Magdalena Lobnig,F,Austria,AUT,2024,Paris,Rowing,Women's Single Sculls,No medal,Women's,ROW,True
-Louisa Altenhuber,F,Austria,AUT,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,True
-Lara Tiefenthaler,F,Austria,AUT,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Monika Felizeter,F,Austria,AUT,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Maria Leibetseder,F,Austria,AUT,1976,Montreal,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False,True
+Magdalena Lobnig,F,Austria,AUT,2016,Rio de Janeiro,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,True
+Ingeborg Niedermayer,F,Austria,AUT,1984,Los Angeles,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False,True
+Karola Schustereder,F,Austria,AUT,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Renate (sika-),F,Austria,AUT,1976,Montreal,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False,True
+Vera Sommerbauer,F,Austria,AUT,1984,Los Angeles,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False,True
+Astrid (-tiefenbacher),F,Austria,AUT,1984,Los Angeles,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False,True
+Louisa Altenhuber,F,Austria,AUT,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,True,True
+Valentina Cavallar,F,Austria,AUT,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,False,True
+Magdalena Lobnig,F,Austria,AUT,2020,Tokyo,Rowing,Women's Single Sculls,Bronze,Women's,ROW,True,False
+Magdalena Lobnig,F,Austria,AUT,2024,Paris,Rowing,Women's Single Sculls,No medal,Women's,ROW,True,False
+Louisa Altenhuber,F,Austria,AUT,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,True,False
+Lara Tiefenthaler,F,Austria,AUT,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,False,True

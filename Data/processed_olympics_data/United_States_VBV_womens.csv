@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kelly Claes,F,United States,USA,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False
-Alix Klineman,F,United States,USA,2020,Tokyo,Beach Volleyball,Women Team,Gold,Women,VBV,False
-April Ross,F,United States,USA,2020,Tokyo,Beach Volleyball,Women Team,Gold,Women,VBV,False
-Sarah Sponcil,F,United States,USA,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False
-Kelly Cheng,F,United States,USA,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False
-Sara Hughes,F,United States,USA,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False
-Taryn Kloth,F,United States,USA,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False
-Kristen Nuss,F,United States,USA,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kelly Claes,F,United States,USA,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False,True
+Alix Klineman,F,United States,USA,2020,Tokyo,Beach Volleyball,Women Team,Gold,Women,VBV,False,True
+April Ross,F,United States,USA,2020,Tokyo,Beach Volleyball,Women Team,Gold,Women,VBV,False,True
+Sarah Sponcil,F,United States,USA,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False,True
+Kelly Cheng,F,United States,USA,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False,True
+Sara Hughes,F,United States,USA,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False,True
+Taryn Kloth,F,United States,USA,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False,True
+Kristen Nuss,F,United States,USA,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False,True

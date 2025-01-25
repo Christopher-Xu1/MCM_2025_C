@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zeke Chan,M,Brunei Darussalam,BRU,2024,Paris,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zeke Chan,M,Brunei Darussalam,BRU,2024,Paris,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,False,True

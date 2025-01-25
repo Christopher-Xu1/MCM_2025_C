@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Annabel Ali,F,Cameroon,CMR,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Annabel Ali,F,Cameroon,CMR,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Annabel Ali,F,Cameroon,CMR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Joseph Tiako,F,Cameroon,CMR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Rebecca Muambo,F,Cameroon,CMR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Emilienne Essombe,F,Cameroon,CMR,2020,Tokyo,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Annabel Ali,F,Cameroon,CMR,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Annabel Ali,F,Cameroon,CMR,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Annabel Ali,F,Cameroon,CMR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Joseph Tiako,F,Cameroon,CMR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Rebecca Muambo,F,Cameroon,CMR,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Emilienne Essombe,F,Cameroon,CMR,2020,Tokyo,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,False,True

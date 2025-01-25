@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lesley Carstens,F,South Africa,RSA,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False
-Michele Eray,F,South Africa,RSA,2008,Beijing,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Michele Eray,F,South Africa,RSA,2008,Beijing,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Bridgitte Hartley,F,South Africa,RSA,2008,Beijing,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Bridgitte Hartley,F,South Africa,RSA,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Bronze,Canoeing,CSL,True
-Bridgitte Hartley,F,South Africa,RSA,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True
-Bridgitte Hartley,F,South Africa,RSA,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Jennifer Hodson,F,South Africa,RSA,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Jennifer Hodson,F,South Africa,RSA,2008,Beijing,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Carol Joyce,F,South Africa,RSA,2008,Beijing,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
-Tiffany Kruger,F,South Africa,RSA,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,False
-Nicola Mocke,F,South Africa,RSA,2008,Beijing,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
-Ruth Nortje,F,South Africa,RSA,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Ruth Nortje,F,South Africa,RSA,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Geraldine Simpson,F,South Africa,RSA,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Geraldine Simpson,F,South Africa,RSA,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lesley Carstens,F,South Africa,RSA,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False,True
+Michele Eray,F,South Africa,RSA,2008,Beijing,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Michele Eray,F,South Africa,RSA,2008,Beijing,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Bridgitte Hartley,F,South Africa,RSA,2008,Beijing,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Bridgitte Hartley,F,South Africa,RSA,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Bronze,Canoeing,CSL,True,False
+Bridgitte Hartley,F,South Africa,RSA,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True,False
+Bridgitte Hartley,F,South Africa,RSA,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Jennifer Hodson,F,South Africa,RSA,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Jennifer Hodson,F,South Africa,RSA,2008,Beijing,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Carol Joyce,F,South Africa,RSA,2008,Beijing,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True
+Tiffany Kruger,F,South Africa,RSA,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,False,True
+Nicola Mocke,F,South Africa,RSA,2008,Beijing,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True
+Ruth Nortje,F,South Africa,RSA,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Ruth Nortje,F,South Africa,RSA,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Geraldine Simpson,F,South Africa,RSA,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Geraldine Simpson,F,South Africa,RSA,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True

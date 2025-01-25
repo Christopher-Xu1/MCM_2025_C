@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ricardo Fernandes,M,Portugal,POR,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Ricardo Fernandes,M,Portugal,POR,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Pedro Martins,M,Portugal,POR,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Pedro Martins,M,Portugal,POR,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Fernando Silva,M,Portugal,POR,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Fernando Silva,M,Portugal,POR,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Marco Vasconcelos,M,Portugal,POR,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Marco Vasconcelos,M,Portugal,POR,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Marco Vasconcelos,M,Portugal,POR,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ricardo Fernandes,M,Portugal,POR,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Ricardo Fernandes,M,Portugal,POR,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Pedro Martins,M,Portugal,POR,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Pedro Martins,M,Portugal,POR,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Fernando Silva,M,Portugal,POR,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Fernando Silva,M,Portugal,POR,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Marco Vasconcelos,M,Portugal,POR,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Marco Vasconcelos,M,Portugal,POR,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Marco Vasconcelos,M,Portugal,POR,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False

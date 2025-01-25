@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ana Gallay,F,Argentina,ARG,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Ana Gallay,F,Argentina,ARG,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Georgina Klug,F,Argentina,ARG,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Mara Zonta,F,Argentina,ARG,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Ana Gallay,F,Argentina,ARG,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,True
-Fernanda Pereyra,F,Argentina,ARG,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ana Gallay,F,Argentina,ARG,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,True
+Ana Gallay,F,Argentina,ARG,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,False
+Georgina Klug,F,Argentina,ARG,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Mara Zonta,F,Argentina,ARG,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Ana Gallay,F,Argentina,ARG,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,True,False
+Fernanda Pereyra,F,Argentina,ARG,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False,True

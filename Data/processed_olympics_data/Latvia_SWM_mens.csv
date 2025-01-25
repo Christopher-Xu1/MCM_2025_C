@@ -1,24 +1,24 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Guntars Deimans,M,Latvia,LAT,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Guntars Deimans,M,Latvia,LAT,2004,Athina,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Andrejs Dda,M,Latvia,LAT,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Andrejs Dda,M,Latvia,LAT,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Andrejs Dda,M,Latvia,LAT,2008,Beijing,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Artrs Jakovevs,M,Latvia,LAT,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Artrs Jakovevs,M,Latvia,LAT,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Artrs Jakovevs,M,Latvia,LAT,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Valrijs Kalmikovs,M,Latvia,LAT,1996,Atlanta,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Valrijs Kalmikovs,M,Latvia,LAT,1996,Atlanta,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Valrijs Kalmikovs,M,Latvia,LAT,1996,Atlanta,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Valrijs Kalmikovs,M,Latvia,LAT,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Valrijs Kalmikovs,M,Latvia,LAT,2000,Sydney,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Valrijs Kalmikovs,M,Latvia,LAT,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Uvis Kalni,M,Latvia,LAT,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Uvis Kalni,M,Latvia,LAT,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Romns Miloslavskis,M,Latvia,LAT,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Romns Miloslavskis,M,Latvia,LAT,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Romns Miloslavskis,M,Latvia,LAT,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Romns Miloslavskis,M,Latvia,LAT,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Pvels Murns,M,Latvia,LAT,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Daniils Bobrovs,M,Latvia,LAT,2020,Tokyo,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True
-Daniils Bobrovs,M,Latvia,LAT,2024,Paris,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Guntars Deimans,M,Latvia,LAT,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Guntars Deimans,M,Latvia,LAT,2004,Athina,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Andrejs Dda,M,Latvia,LAT,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Andrejs Dda,M,Latvia,LAT,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Andrejs Dda,M,Latvia,LAT,2008,Beijing,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Artrs Jakovevs,M,Latvia,LAT,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Artrs Jakovevs,M,Latvia,LAT,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Artrs Jakovevs,M,Latvia,LAT,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Valrijs Kalmikovs,M,Latvia,LAT,1996,Atlanta,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Valrijs Kalmikovs,M,Latvia,LAT,1996,Atlanta,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Valrijs Kalmikovs,M,Latvia,LAT,1996,Atlanta,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Valrijs Kalmikovs,M,Latvia,LAT,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Valrijs Kalmikovs,M,Latvia,LAT,2000,Sydney,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Valrijs Kalmikovs,M,Latvia,LAT,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Uvis Kalni,M,Latvia,LAT,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Uvis Kalni,M,Latvia,LAT,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Romns Miloslavskis,M,Latvia,LAT,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Romns Miloslavskis,M,Latvia,LAT,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Romns Miloslavskis,M,Latvia,LAT,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Romns Miloslavskis,M,Latvia,LAT,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Pvels Murns,M,Latvia,LAT,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Daniils Bobrovs,M,Latvia,LAT,2020,Tokyo,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True,True
+Daniils Bobrovs,M,Latvia,LAT,2024,Paris,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True,False

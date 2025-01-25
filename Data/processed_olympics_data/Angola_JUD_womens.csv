@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Antnia Fatima,F,Angola,ANG,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Antnia Fatima,F,Angola,ANG,2012,London,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Antnia Fatima,F,Angola,ANG,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Diassonema Mucungui,F,Angola,ANG,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Antnia Fatima,F,Angola,ANG,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,True
+Antnia Fatima,F,Angola,ANG,2012,London,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Antnia Fatima,F,Angola,ANG,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Diassonema Mucungui,F,Angola,ANG,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,False,True

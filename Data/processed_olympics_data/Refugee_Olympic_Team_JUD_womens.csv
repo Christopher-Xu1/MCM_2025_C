@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sanda Aldass,F,Refugee Olympic Team,EOR,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,True
-Sanda Aldass,F,Refugee Olympic Team,EOR,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
-Muna Dahouk,F,Refugee Olympic Team,EOR,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,True
-Muna Dahouk,F,Refugee Olympic Team,EOR,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
-Nigara Shaheen,F,Refugee Olympic Team,EOR,2020,Tokyo,Judo,Women -70 kg,No medal,Women,JUD,True
-Nigara Shaheen,F,Refugee Olympic Team,EOR,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sanda Aldass,F,Refugee Olympic Team,EOR,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,True,True
+Sanda Aldass,F,Refugee Olympic Team,EOR,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Muna Dahouk,F,Refugee Olympic Team,EOR,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,True,True
+Muna Dahouk,F,Refugee Olympic Team,EOR,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Nigara Shaheen,F,Refugee Olympic Team,EOR,2020,Tokyo,Judo,Women -70 kg,No medal,Women,JUD,True,True
+Nigara Shaheen,F,Refugee Olympic Team,EOR,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,True

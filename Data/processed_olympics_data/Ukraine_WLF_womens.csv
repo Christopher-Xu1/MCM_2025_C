@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nataliya Davydova,F,Ukraine,UKR,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,Bronze,Weightlifting,WLF,False
-Iryna Dekha,F,Ukraine,UKR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True
-Yuliya Dovhal,F,Ukraine,UKR,2008,Beijing,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Veronika Ivasiuk,F,Ukraine,UKR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Yuliya Kalina,F,Ukraine,UKR,2012,London,Weightlifting,Weightlifting Women's Lightweight,Bronze,Weightlifting,WLF,False
-Olha Korobka,F,Ukraine,UKR,2004,Athina,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Olha Korobka,F,Ukraine,UKR,2008,Beijing,Weightlifting,Weightlifting Women's Super-Heavyweight,Silver,Weightlifting,WLF,True
-Anastasiya Lysenko,F,Ukraine,UKR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Vanda Maslovska,F,Ukraine,UKR,2004,Athina,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Nadiya Myronyuk,F,Ukraine,UKR,2008,Beijing,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False
-Yuliya Paratova,F,Ukraine,UKR,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True
-Yuliya Paratova,F,Ukraine,UKR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True
-Vita Rudenok,F,Ukraine,UKR,2000,Sydney,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Viktoriya Shaimardanova,F,Ukraine,UKR,2004,Athina,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Nataliya Skakun,F,Ukraine,UKR,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True
-Nataliya Skakun,F,Ukraine,UKR,2004,Athina,Weightlifting,Weightlifting Women's Middleweight,Gold,Weightlifting,WLF,True
-Iryna Dekha,F,Ukraine,UKR,2020,Tokyo,Weightlifting,Women's 76kg,No medal,Women's,WLF,True
-Kamila Konotop,F,Ukraine,UKR,2020,Tokyo,Weightlifting,Women's 55kg,No medal,Women's,WLF,True
-Kamila Konotop,F,Ukraine,UKR,2024,Paris,Weightlifting,Women's 59kg,No medal,Women's,WLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nataliya Davydova,F,Ukraine,UKR,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,Bronze,Weightlifting,WLF,False,True
+Iryna Dekha,F,Ukraine,UKR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True,True
+Yuliya Dovhal,F,Ukraine,UKR,2008,Beijing,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Veronika Ivasiuk,F,Ukraine,UKR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Yuliya Kalina,F,Ukraine,UKR,2012,London,Weightlifting,Weightlifting Women's Lightweight,Bronze,Weightlifting,WLF,False,True
+Olha Korobka,F,Ukraine,UKR,2004,Athina,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True,True
+Olha Korobka,F,Ukraine,UKR,2008,Beijing,Weightlifting,Weightlifting Women's Super-Heavyweight,Silver,Weightlifting,WLF,True,False
+Anastasiya Lysenko,F,Ukraine,UKR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Vanda Maslovska,F,Ukraine,UKR,2004,Athina,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Nadiya Myronyuk,F,Ukraine,UKR,2008,Beijing,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False,True
+Yuliya Paratova,F,Ukraine,UKR,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True,True
+Yuliya Paratova,F,Ukraine,UKR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True,False
+Vita Rudenok,F,Ukraine,UKR,2000,Sydney,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Viktoriya Shaimardanova,F,Ukraine,UKR,2004,Athina,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Nataliya Skakun,F,Ukraine,UKR,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True,True
+Nataliya Skakun,F,Ukraine,UKR,2004,Athina,Weightlifting,Weightlifting Women's Middleweight,Gold,Weightlifting,WLF,True,False
+Iryna Dekha,F,Ukraine,UKR,2020,Tokyo,Weightlifting,Women's 76kg,No medal,Women's,WLF,True,False
+Kamila Konotop,F,Ukraine,UKR,2020,Tokyo,Weightlifting,Women's 55kg,No medal,Women's,WLF,True,True
+Kamila Konotop,F,Ukraine,UKR,2024,Paris,Weightlifting,Women's 59kg,No medal,Women's,WLF,True,False

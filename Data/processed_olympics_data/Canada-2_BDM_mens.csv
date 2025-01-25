@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mike Beres,M,Canada-2,CAN,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Michael Bitten,M,Canada-2,CAN,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-J. Blanshard,M,Canada-2,CAN,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-James Dawson,M,Canada-2,CAN,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Bryan Moody,M,Canada-2,CAN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Iain Sydie,M,Canada-2,CAN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Darryl Yung,M,Canada-2,CAN,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mike Beres,M,Canada-2,CAN,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Michael Bitten,M,Canada-2,CAN,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+J. Blanshard,M,Canada-2,CAN,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+James Dawson,M,Canada-2,CAN,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Bryan Moody,M,Canada-2,CAN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Iain Sydie,M,Canada-2,CAN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Darryl Yung,M,Canada-2,CAN,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True

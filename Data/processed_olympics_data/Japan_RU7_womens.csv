@@ -1,40 +1,40 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yuka Kanematsu,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Mifuyu Koide,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True
-Ano Kuwai,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Kana Mitsugi,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Chiharu Nakamura,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True
-Yume Okuroda,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Ayaka Suzuki,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Aya Takeuchi,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Noriko Taniguchi,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Makiko Tomita,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Marie Yamaguchi,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Mio Yamanaka,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True
-Chisato Yokoo,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Raichel Bativakalolo,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Wakaba Hara,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Yume Hirano,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Haruka Hirotsu,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Marin Kajiki,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Mifuyu Koide,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Riho Kurogi,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Hana Nagata,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Mei Otani,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Mayu Shimizu,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Miyu Shirako,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Honoka Tsutsumi,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Mio Yamanaka,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Rinka Matsuda,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Yukino Tsujisaki,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Arisa Nishi,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Hanako Utsumi,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Sakura Mizutani,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Chiaki Saegusa,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Emii Tanaka,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Yume Hirano,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Wakaba Hara,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Honoka Tsutsumi,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Marin Kajiki,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Mei Ohtani,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Chiharu Nakamura,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yuka Kanematsu,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Mifuyu Koide,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True,True
+Ano Kuwai,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Kana Mitsugi,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Chiharu Nakamura,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True,True
+Yume Okuroda,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Ayaka Suzuki,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Aya Takeuchi,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Noriko Taniguchi,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Makiko Tomita,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Marie Yamaguchi,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Mio Yamanaka,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True,True
+Chisato Yokoo,F,Japan,JPN,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Raichel Bativakalolo,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Wakaba Hara,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Yume Hirano,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Haruka Hirotsu,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Marin Kajiki,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Mifuyu Koide,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,False
+Riho Kurogi,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Hana Nagata,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Mei Otani,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Mayu Shimizu,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Miyu Shirako,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Honoka Tsutsumi,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Mio Yamanaka,F,Japan,JPN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,False
+Rinka Matsuda,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Yukino Tsujisaki,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Arisa Nishi,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Hanako Utsumi,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Sakura Mizutani,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Chiaki Saegusa,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Emii Tanaka,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Yume Hirano,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Wakaba Hara,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Honoka Tsutsumi,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Marin Kajiki,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Mei Ohtani,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Chiharu Nakamura,F,Japan,JPN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False

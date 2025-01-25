@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Berkay Ogretir,M,Türkiye,TUR,2024,Paris,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,False
-Kuzey Tuncelli,M,Türkiye,TUR,2024,Paris,"Marathon Swimming, Swimming",Men's 10km,No medal,Men's,SWM,True
-Kuzey Tuncelli,M,Türkiye,TUR,2024,Paris,"Marathon Swimming, Swimming",Men's 1500m Freestyle,No medal,Men's,SWM,True
-Kuzey Tuncelli,M,Türkiye,TUR,2024,Paris,"Marathon Swimming, Swimming",Men's 800m Freestyle,No medal,Men's,SWM,True
-Batur Albayrak,M,Türkiye,TUR,2024,Paris,"Marathon Swimming, Swimming",Men's 10km,No medal,Men's,SWM,True
-Batur Albayrak,M,Türkiye,TUR,2024,Paris,"Marathon Swimming, Swimming",Men's 1500m Freestyle,No medal,Men's,SWM,True
-Berke Saka,M,Türkiye,TUR,2024,Paris,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,True
-Berke Saka,M,Türkiye,TUR,2024,Paris,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Berkay Ogretir,M,Türkiye,TUR,2024,Paris,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,False,True
+Kuzey Tuncelli,M,Türkiye,TUR,2024,Paris,"Marathon Swimming, Swimming",Men's 10km,No medal,Men's,SWM,True,True
+Kuzey Tuncelli,M,Türkiye,TUR,2024,Paris,"Marathon Swimming, Swimming",Men's 1500m Freestyle,No medal,Men's,SWM,True,True
+Kuzey Tuncelli,M,Türkiye,TUR,2024,Paris,"Marathon Swimming, Swimming",Men's 800m Freestyle,No medal,Men's,SWM,True,True
+Batur Albayrak,M,Türkiye,TUR,2024,Paris,"Marathon Swimming, Swimming",Men's 10km,No medal,Men's,SWM,True,True
+Batur Albayrak,M,Türkiye,TUR,2024,Paris,"Marathon Swimming, Swimming",Men's 1500m Freestyle,No medal,Men's,SWM,True,True
+Berke Saka,M,Türkiye,TUR,2024,Paris,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,True,True
+Berke Saka,M,Türkiye,TUR,2024,Paris,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,True,True

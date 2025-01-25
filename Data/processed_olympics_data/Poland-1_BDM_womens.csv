@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Boena (-siemieniec),F,Poland-1,POL,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Wioletta (-sosnowska),F,Poland-1,POL,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Boena (-siemieniec),F,Poland-1,POL,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Wioletta (-sosnowska),F,Poland-1,POL,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True

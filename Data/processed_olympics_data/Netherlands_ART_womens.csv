@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maria Ansingh,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False
-Matti Bschmann,F,Netherlands,NED,1936,Berlin,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,False
-Agnes Canta,F,Netherlands,NED,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False
-Hendrika Verster-bolderheij,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False
-Cornelia Gallas,F,Netherlands,NED,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False
-Marian Gobius,F,Netherlands,NED,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Marian Gobius,F,Netherlands,NED,1936,Berlin,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Engelina Hameetman-schlette,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False
-Agathe Beaufort,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Literature, Epic Works",No medal,Art,ART,False
-Gerharda Rueb,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False
-Hendrika Pek,F,Netherlands,NED,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Hendrika Pek,F,Netherlands,NED,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Margo Scharten-antink,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Literature, Epic Works",Bronze,Art,ART,False
-Jacoba Surie,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False
-Henritte Vaillant,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False
-Bernardina Hasselt,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maria Ansingh,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False,True
+Matti Bschmann,F,Netherlands,NED,1936,Berlin,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,False,True
+Agnes Canta,F,Netherlands,NED,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False,True
+Hendrika Verster-bolderheij,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False,True
+Cornelia Gallas,F,Netherlands,NED,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False,True
+Marian Gobius,F,Netherlands,NED,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Marian Gobius,F,Netherlands,NED,1936,Berlin,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,False
+Engelina Hameetman-schlette,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False,True
+Agathe Beaufort,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Literature, Epic Works",No medal,Art,ART,False,True
+Gerharda Rueb,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False,True
+Hendrika Pek,F,Netherlands,NED,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Hendrika Pek,F,Netherlands,NED,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Margo Scharten-antink,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Literature, Epic Works",Bronze,Art,ART,False,True
+Jacoba Surie,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False,True
+Henritte Vaillant,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",No medal,Art,ART,False,True
+Bernardina Hasselt,F,Netherlands,NED,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,False,True

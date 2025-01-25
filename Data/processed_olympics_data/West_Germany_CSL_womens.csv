@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Renate Breuer,F,West Germany,FRG,1968,Mexico City,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Silver,Canoeing,CSL,True
-Renate Breuer,F,West Germany,FRG,1972,Munich,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Ulrike Deppe,F,West Germany,FRG,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Ruth Domgrgen,F,West Germany,FRG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
-Roswitha Esser,F,West Germany,FRG,1968,Mexico City,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",Gold,Canoeing,CSL,True
-Roswitha Esser,F,West Germany,FRG,1972,Munich,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Gisela Grothaus,F,West Germany,FRG,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, Slalom",Silver,Canoeing,CSL,False
-Josefa Idem-guerrini,F,West Germany,FRG,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",Bronze,Canoeing,CSL,True
-Josefa Idem-guerrini,F,West Germany,FRG,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Josefa Idem-guerrini,F,West Germany,FRG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Josefa Idem-guerrini,F,West Germany,FRG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Barbara -conrad),F,West Germany,FRG,1976,Montreal,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Barbara -conrad),F,West Germany,FRG,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Silver,Canoeing,CSL,True
-Barbara -conrad),F,West Germany,FRG,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",Bronze,Canoeing,CSL,True
-Barbara -conrad),F,West Germany,FRG,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Andrea (-vonhausen),F,West Germany,FRG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Andrea (-vonhausen),F,West Germany,FRG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Claudia Sterheld,F,West Germany,FRG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Claudia Sterheld,F,West Germany,FRG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Irene (rozema-),F,West Germany,FRG,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Irene (rozema-),F,West Germany,FRG,1976,Montreal,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Regina (eichin-),F,West Germany,FRG,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
-Judith Skolnik,F,West Germany,FRG,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
-Adelheid (-hfle),F,West Germany,FRG,1976,Montreal,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False
-Magdalena Wunderlich,F,West Germany,FRG,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, Slalom",Bronze,Canoeing,CSL,False
-Annemarie Zimmermann,F,West Germany,FRG,1968,Mexico City,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",Gold,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Renate Breuer,F,West Germany,FRG,1968,Mexico City,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Silver,Canoeing,CSL,True,True
+Renate Breuer,F,West Germany,FRG,1972,Munich,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Ulrike Deppe,F,West Germany,FRG,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Ruth Domgrgen,F,West Germany,FRG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True
+Roswitha Esser,F,West Germany,FRG,1968,Mexico City,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",Gold,Canoeing,CSL,True,True
+Roswitha Esser,F,West Germany,FRG,1972,Munich,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Gisela Grothaus,F,West Germany,FRG,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, Slalom",Silver,Canoeing,CSL,False,True
+Josefa Idem-guerrini,F,West Germany,FRG,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",Bronze,Canoeing,CSL,True,True
+Josefa Idem-guerrini,F,West Germany,FRG,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Josefa Idem-guerrini,F,West Germany,FRG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Josefa Idem-guerrini,F,West Germany,FRG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,False
+Barbara -conrad),F,West Germany,FRG,1976,Montreal,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Barbara -conrad),F,West Germany,FRG,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Silver,Canoeing,CSL,True,False
+Barbara -conrad),F,West Germany,FRG,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",Bronze,Canoeing,CSL,True,False
+Barbara -conrad),F,West Germany,FRG,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,False
+Andrea (-vonhausen),F,West Germany,FRG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Andrea (-vonhausen),F,West Germany,FRG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Claudia Sterheld,F,West Germany,FRG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Claudia Sterheld,F,West Germany,FRG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Irene (rozema-),F,West Germany,FRG,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Irene (rozema-),F,West Germany,FRG,1976,Montreal,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Regina (eichin-),F,West Germany,FRG,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True
+Judith Skolnik,F,West Germany,FRG,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True
+Adelheid (-hfle),F,West Germany,FRG,1976,Montreal,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False,True
+Magdalena Wunderlich,F,West Germany,FRG,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, Slalom",Bronze,Canoeing,CSL,False,True
+Annemarie Zimmermann,F,West Germany,FRG,1968,Mexico City,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",Gold,Canoeing,CSL,False,True

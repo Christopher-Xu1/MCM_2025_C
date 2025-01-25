@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alen Pajenk,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False
-Dejan Vincic,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False
-Gregor Ropret,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False
-Jan Kozamernik,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False
-Jani Kovacic,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False
-Klemen Cebulj,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False
-Nik Mujanovic,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False
-Rok Mozic,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False
-Saso Stalekar,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False
-Tine Urnaut,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False
-Toncek Stern,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False
-Uros Planinsic,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False
-Ziga Stern,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alen Pajenk,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False,True
+Dejan Vincic,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False,True
+Gregor Ropret,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False,True
+Jan Kozamernik,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False,True
+Jani Kovacic,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False,True
+Klemen Cebulj,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False,True
+Nik Mujanovic,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False,True
+Rok Mozic,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False,True
+Saso Stalekar,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False,True
+Tine Urnaut,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False,True
+Toncek Stern,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False,True
+Uros Planinsic,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False,True
+Ziga Stern,M,Slovenia,SLO,2024,Paris,Volleyball,Men,No medal,Men,VVO,False,True

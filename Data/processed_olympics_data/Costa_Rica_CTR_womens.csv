@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Karen Ziga,F,Costa Rica,CRC,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Milagro Mena,F,Costa Rica,CRC,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Karen Ziga,F,Costa Rica,CRC,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Milagro Mena,F,Costa Rica,CRC,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True

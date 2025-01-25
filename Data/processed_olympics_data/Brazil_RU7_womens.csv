@@ -1,41 +1,41 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Amanda Arajo,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Tais Balconi,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Luiza Campos,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True
-Isadora Cerullo,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True
-Paula Ishibashi,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Raquel Kochhann,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True
-Beatriz Mhlbauer,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Mariana Ramalho,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Edna Santini,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Juliana Santos,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Jlia Sard,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Haline Scatrut,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Cludia Teles,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Luiza Campos,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Isadora Cerullo,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Eshyllen Coimbra,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-da Thalia,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-da Thalita,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-dos Leila,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Marina Fioravanti,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Aline Furtado,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Raquel Kochhann,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Haline Leme,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Mariana Nicolau,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Bianca Silva,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Rafaela Zanellato,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Bianca Silva,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Gabriela Lima,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Gisele Gomes,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Isadora Lopes,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-dos Leila,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Luiza Campos,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Marcelle Souza,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Mariana Nicolau,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Marina Fioravanti,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Milena Silva,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Raquel Kochhann,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Thalia Costa,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-da Thalita,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Yasmim Soares,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Amanda Arajo,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Tais Balconi,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Luiza Campos,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True,True
+Isadora Cerullo,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True,True
+Paula Ishibashi,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Raquel Kochhann,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True,True
+Beatriz Mhlbauer,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Mariana Ramalho,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Edna Santini,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Juliana Santos,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Jlia Sard,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Haline Scatrut,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Cludia Teles,F,Brazil,BRA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Luiza Campos,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,False
+Isadora Cerullo,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,False
+Eshyllen Coimbra,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+da Thalia,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+da Thalita,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+dos Leila,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Marina Fioravanti,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Aline Furtado,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Raquel Kochhann,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,False
+Haline Leme,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Mariana Nicolau,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Bianca Silva,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Rafaela Zanellato,F,Brazil,BRA,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Bianca Silva,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Gabriela Lima,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Gisele Gomes,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Isadora Lopes,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+dos Leila,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Luiza Campos,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Marcelle Souza,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Mariana Nicolau,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Marina Fioravanti,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Milena Silva,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Raquel Kochhann,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Thalia Costa,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+da Thalita,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Yasmim Soares,F,Brazil,BRA,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True

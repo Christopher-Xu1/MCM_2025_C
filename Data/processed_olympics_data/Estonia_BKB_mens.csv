@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Erich Altosaar,M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Artur Amon,M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Aleksander Illi,M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Vladimir Krk,M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Robert Keres,M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Evald Mahl,M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Aleksander (margevi-),M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Heino (veiber-),M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Erich Altosaar,M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Artur Amon,M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Aleksander Illi,M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Vladimir Krk,M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Robert Keres,M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Evald Mahl,M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Aleksander (margevi-),M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Heino (veiber-),M,Estonia,EST,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True

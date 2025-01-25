@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Akil Gjakova,M,Kosovo,KOS,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,True
-Akil Gjakova,M,Kosovo,KOS,2024,Paris,Judo,Men -73 kg,No medal,Men,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Akil Gjakova,M,Kosovo,KOS,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,True,True
+Akil Gjakova,M,Kosovo,KOS,2024,Paris,Judo,Men -73 kg,No medal,Men,JUD,True,False

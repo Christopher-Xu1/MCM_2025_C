@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bruno Bianchi,M,Ausonia,ITA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Giuseppe Canessa,M,Ausonia,ITA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Luigi Manincor,M,Ausonia,ITA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bruno Bianchi,M,Ausonia,ITA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Giuseppe Canessa,M,Ausonia,ITA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Luigi Manincor,M,Ausonia,ITA,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

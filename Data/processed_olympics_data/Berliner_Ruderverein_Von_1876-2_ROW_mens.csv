@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Friedrich Bartholomae,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Willi Bartholomae,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Max Brske,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Bruno Dehn,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Otto Liebing,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Hans Matthiae,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Rudolf Reichelt,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Kurt Runge,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
-Max Vetter,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Friedrich Bartholomae,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Willi Bartholomae,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Max Brske,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Bruno Dehn,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Otto Liebing,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Hans Matthiae,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Rudolf Reichelt,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Kurt Runge,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True
+Max Vetter,M,Berliner Ruderverein Von 1876-2,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,Bronze,Rowing,ROW,False,True

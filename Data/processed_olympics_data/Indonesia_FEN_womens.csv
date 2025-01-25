@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Silvia Koeswandi,F,Indonesia,INA,1988,Seoul,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Sioe Pau,F,Indonesia,INA,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Diah Permatasari,F,Indonesia,INA,2012,London,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,False
-Elisabeth (undapp),F,Indonesia,INA,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Silvia Koeswandi,F,Indonesia,INA,1988,Seoul,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Sioe Pau,F,Indonesia,INA,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Diah Permatasari,F,Indonesia,INA,2012,London,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,False,True
+Elisabeth (undapp),F,Indonesia,INA,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hans Hitz,M,West Germany-3,FRG,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False
-Theodor Nsing,M,West Germany-3,FRG,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hans Hitz,M,West Germany-3,FRG,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False,True
+Theodor Nsing,M,West Germany-3,FRG,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False,True

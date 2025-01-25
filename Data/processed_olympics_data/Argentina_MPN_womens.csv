@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Iryna (-zapata),F,Argentina,ARG,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Iryna (-zapata),F,Argentina,ARG,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True

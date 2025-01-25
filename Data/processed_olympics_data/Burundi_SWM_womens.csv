@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Larissa Inangorore,F,Burundi,BDI,2004,Athina,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Elsie Uwamahoro,F,Burundi,BDI,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Elsie Uwamahoro,F,Burundi,BDI,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Elsie Uwamahoro,F,Burundi,BDI,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Odrina Kaze,F,Burundi,BDI,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
-Eliora Irishura,F,Burundi,BDI,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Larissa Inangorore,F,Burundi,BDI,2004,Athina,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Elsie Uwamahoro,F,Burundi,BDI,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Elsie Uwamahoro,F,Burundi,BDI,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Elsie Uwamahoro,F,Burundi,BDI,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Odrina Kaze,F,Burundi,BDI,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True
+Eliora Irishura,F,Burundi,BDI,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True

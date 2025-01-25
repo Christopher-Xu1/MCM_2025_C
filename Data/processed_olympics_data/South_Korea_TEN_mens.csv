@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jang Ui-jong,M,South Korea,KOR,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Jang Ui-jong,M,South Korea,KOR,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Kim Bong-su,M,South Korea,KOR,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Kim Bong-su,M,South Korea,KOR,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Kim Chi-wan,M,South Korea,KOR,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Lee Hyeong-taek,M,South Korea,KOR,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Lee Hyeong-taek,M,South Korea,KOR,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Lee Hyeong-taek,M,South Korea,KOR,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Lee Hyeong-taek,M,South Korea,KOR,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Lee Hyeong-taek,M,South Korea,KOR,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Song Dong-uk,M,South Korea,KOR,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Yu Jin-seon,M,South Korea,KOR,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Yu Jin-seon,M,South Korea,KOR,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Yun Yong-il,M,South Korea,KOR,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Yun Yong-il,M,South Korea,KOR,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Soonwoo Kwon,M,South Korea,KOR,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jang Ui-jong,M,South Korea,KOR,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Jang Ui-jong,M,South Korea,KOR,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Kim Bong-su,M,South Korea,KOR,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Kim Bong-su,M,South Korea,KOR,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Kim Chi-wan,M,South Korea,KOR,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Lee Hyeong-taek,M,South Korea,KOR,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Lee Hyeong-taek,M,South Korea,KOR,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Lee Hyeong-taek,M,South Korea,KOR,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Lee Hyeong-taek,M,South Korea,KOR,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Lee Hyeong-taek,M,South Korea,KOR,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Song Dong-uk,M,South Korea,KOR,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Yu Jin-seon,M,South Korea,KOR,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Yu Jin-seon,M,South Korea,KOR,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Yun Yong-il,M,South Korea,KOR,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Yun Yong-il,M,South Korea,KOR,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Soonwoo Kwon,M,South Korea,KOR,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,False,True

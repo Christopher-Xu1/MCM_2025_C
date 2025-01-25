@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cyril Andresen,M,Tip,DEN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False
-Ole Berntsen,M,Tip,DEN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False
-Christian Radum,M,Tip,DEN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cyril Andresen,M,Tip,DEN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False,True
+Ole Berntsen,M,Tip,DEN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False,True
+Christian Radum,M,Tip,DEN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rory Sabbatini,M,Slovakia,SVK,2020,Tokyo,Golf,Men's Individual Stroke Play,Silver,Men's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rory Sabbatini,M,Slovakia,SVK,2020,Tokyo,Golf,Men's Individual Stroke Play,Silver,Men's,GLF,False,True

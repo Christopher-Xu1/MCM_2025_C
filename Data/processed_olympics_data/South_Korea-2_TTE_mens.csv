@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-An Jae-hyeong,M,South Korea-2,KOR,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,Bronze,Table,TTE,False
-Kim Taek-su,M,South Korea-2,KOR,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,Bronze,Table,TTE,False
-Lee Cheol-seung,M,South Korea-2,KOR,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,Bronze,Table,TTE,True
-Lee Cheol-seung,M,South Korea-2,KOR,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Lee Cheol-seung,M,South Korea-2,KOR,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Yu Nam-gyu,M,South Korea-2,KOR,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,Bronze,Table,TTE,True
-Yu Nam-gyu,M,South Korea-2,KOR,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,Bronze,Table,TTE,True
-Yu Nam-gyu,M,South Korea-2,KOR,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,Bronze,Table,TTE,True
-Yu Seung-min,M,South Korea-2,KOR,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Yu Seung-min,M,South Korea-2,KOR,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+An Jae-hyeong,M,South Korea-2,KOR,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,Bronze,Table,TTE,False,True
+Kim Taek-su,M,South Korea-2,KOR,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,Bronze,Table,TTE,False,True
+Lee Cheol-seung,M,South Korea-2,KOR,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,Bronze,Table,TTE,True,True
+Lee Cheol-seung,M,South Korea-2,KOR,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Lee Cheol-seung,M,South Korea-2,KOR,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Yu Nam-gyu,M,South Korea-2,KOR,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,Bronze,Table,TTE,True,True
+Yu Nam-gyu,M,South Korea-2,KOR,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,Bronze,Table,TTE,True,False
+Yu Nam-gyu,M,South Korea-2,KOR,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,Bronze,Table,TTE,True,False
+Yu Seung-min,M,South Korea-2,KOR,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Yu Seung-min,M,South Korea-2,KOR,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False

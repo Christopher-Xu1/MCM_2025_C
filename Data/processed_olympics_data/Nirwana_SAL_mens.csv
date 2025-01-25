@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Wolfgang Elsner,M,Nirwana,GER,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Andreas Howaldt,M,Nirwana,GER,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Hans Kadelbach,M,Nirwana,GER,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Paul-Heinrich Lange,M,Nirwana,GER,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Erich Mirbach,M,Nirwana,GER,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Wolfgang Elsner,M,Nirwana,GER,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Andreas Howaldt,M,Nirwana,GER,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Hans Kadelbach,M,Nirwana,GER,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Paul-Heinrich Lange,M,Nirwana,GER,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Erich Mirbach,M,Nirwana,GER,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

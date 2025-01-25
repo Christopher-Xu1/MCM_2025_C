@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mme. Desprs,F,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",No medal,Croquet,CQT,True
-Mme. Desprs,F,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",No medal,Croquet,CQT,True
-Jeanne (hantjens-),F,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",No medal,Croquet,CQT,True
-Jeanne (hantjens-),F,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",No medal,Croquet,CQT,True
-Marie Ohier,F,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",No medal,Croquet,CQT,True
-Marie Ohier,F,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",No medal,Croquet,CQT,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mme. Desprs,F,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",No medal,Croquet,CQT,True,True
+Mme. Desprs,F,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",No medal,Croquet,CQT,True,True
+Jeanne (hantjens-),F,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",No medal,Croquet,CQT,True,True
+Jeanne (hantjens-),F,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",No medal,Croquet,CQT,True,True
+Marie Ohier,F,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",No medal,Croquet,CQT,True,True
+Marie Ohier,F,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",No medal,Croquet,CQT,True,True

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gnther Benecke,M,Dinah V,GER,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Hans Ravenborg,M,Dinah V,GER,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Peter Rebien,M,Dinah V,GER,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gnther Benecke,M,Dinah V,GER,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Hans Ravenborg,M,Dinah V,GER,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Peter Rebien,M,Dinah V,GER,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

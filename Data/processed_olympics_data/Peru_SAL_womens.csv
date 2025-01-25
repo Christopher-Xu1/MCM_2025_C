@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Paloma Gutirrez,F,Peru,PER,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Paloma Gutirrez,F,Peru,PER,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Paloma Gutirrez,F,Peru,PER,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Belen Bazo,F,Peru,PER,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,True
-Isabel Schmidt,F,Peru,PER,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,False
-Diana Tudela,F,Peru,PER,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False
-van Pia,F,Peru,PER,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False
-Florencia Chiarella,F,Peru,PER,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False
-Belen Bazo,F,Peru,PER,2024,Paris,Sailing,Women's Windsurfing,No medal,Women's,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Paloma Gutirrez,F,Peru,PER,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Paloma Gutirrez,F,Peru,PER,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Paloma Gutirrez,F,Peru,PER,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Belen Bazo,F,Peru,PER,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,True,True
+Isabel Schmidt,F,Peru,PER,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,False,True
+Diana Tudela,F,Peru,PER,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False,True
+van Pia,F,Peru,PER,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False,True
+Florencia Chiarella,F,Peru,PER,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False,True
+Belen Bazo,F,Peru,PER,2024,Paris,Sailing,Women's Windsurfing,No medal,Women's,SAL,True,False

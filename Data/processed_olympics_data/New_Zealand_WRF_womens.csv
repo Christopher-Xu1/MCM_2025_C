@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tuahine Ford,F,New Zealand,NZL,2024,Paris,Wrestling,Women's Freestyle 68kg,No medal,Women's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tuahine Ford,F,New Zealand,NZL,2024,Paris,Wrestling,Women's Freestyle 68kg,No medal,Women's,WRF,False,True

@@ -1,60 +1,60 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Paola Bologna,F,Italy,ITA,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Maria Camerin,F,Italy,ITA,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Sandra Cecchini,F,Italy,ITA,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Sandra Cecchini,F,Italy,ITA,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Sandra Cecchini,F,Italy,ITA,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Sara Errani,F,Italy,ITA,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Sara Errani,F,Italy,ITA,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Sara Errani,F,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Sara Errani,F,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Silvia Farina-elia,F,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Silvia Farina-elia,F,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Silvia Farina-elia,F,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Silvia Farina-elia,F,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Silvia Farina-elia,F,Italy,ITA,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Rosetta (-prouse),F,Italy,ITA,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Rosetta (-prouse),F,Italy,ITA,1920,Antwerpen,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Rosetta (-prouse),F,Italy,ITA,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Rosetta (-prouse),F,Italy,ITA,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Tathiana Garbin,F,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Tathiana Garbin,F,Italy,ITA,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Laura Garrone,F,Italy,ITA,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Laura Golarsa,F,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Rita Grande,F,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Rita Grande,F,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Rita Grande,F,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Karin Knapp,F,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Flavia Pennetta,F,Italy,ITA,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Flavia Pennetta,F,Italy,ITA,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Giulia Perelli,F,Italy,ITA,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Giulia Perelli,F,Italy,ITA,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Giulia Perelli,F,Italy,ITA,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Katia Piccolini,F,Italy,ITA,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Raffaella Reggi-concato,F,Italy,ITA,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Raffaella Reggi-concato,F,Italy,ITA,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Raffaella Reggi-concato,F,Italy,ITA,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Raffaella Reggi-concato,F,Italy,ITA,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Mara Santangelo,F,Italy,ITA,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Francesca Schiavone,F,Italy,ITA,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Francesca Schiavone,F,Italy,ITA,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Francesca Schiavone,F,Italy,ITA,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Adriana Serra-zanetti,F,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Roberta Vinci,F,Italy,ITA,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Roberta Vinci,F,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Roberta Vinci,F,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Roberta Vinci,F,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Sara Errani,F,Italy,ITA,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
-Sara Errani,F,Italy,ITA,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
-Camila Giorgi,F,Italy,ITA,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False
-Jasmine Paolini,F,Italy,ITA,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
-Jasmine Paolini,F,Italy,ITA,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
-Lucia Bronzetti,F,Italy,ITA,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Lucia Bronzetti,F,Italy,ITA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
-Sara Errani,F,Italy,ITA,2024,Paris,Tennis,Women's Doubles,Gold,Women's,TEN,True
-Sara Errani,F,Italy,ITA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
-Sara Errani,F,Italy,ITA,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True
-Elisabetta Cocciaretto,F,Italy,ITA,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Elisabetta Cocciaretto,F,Italy,ITA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
-Jasmine Paolini,F,Italy,ITA,2024,Paris,Tennis,Women's Doubles,Gold,Women's,TEN,True
-Jasmine Paolini,F,Italy,ITA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Paola Bologna,F,Italy,ITA,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Maria Camerin,F,Italy,ITA,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Sandra Cecchini,F,Italy,ITA,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Sandra Cecchini,F,Italy,ITA,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Sandra Cecchini,F,Italy,ITA,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Sara Errani,F,Italy,ITA,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Sara Errani,F,Italy,ITA,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Sara Errani,F,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Sara Errani,F,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Silvia Farina-elia,F,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Silvia Farina-elia,F,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Silvia Farina-elia,F,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Silvia Farina-elia,F,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Silvia Farina-elia,F,Italy,ITA,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Rosetta (-prouse),F,Italy,ITA,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Rosetta (-prouse),F,Italy,ITA,1920,Antwerpen,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Rosetta (-prouse),F,Italy,ITA,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Rosetta (-prouse),F,Italy,ITA,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Tathiana Garbin,F,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Tathiana Garbin,F,Italy,ITA,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Laura Garrone,F,Italy,ITA,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Laura Golarsa,F,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Rita Grande,F,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Rita Grande,F,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Rita Grande,F,Italy,ITA,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Karin Knapp,F,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Flavia Pennetta,F,Italy,ITA,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Flavia Pennetta,F,Italy,ITA,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Giulia Perelli,F,Italy,ITA,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Giulia Perelli,F,Italy,ITA,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Giulia Perelli,F,Italy,ITA,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Katia Piccolini,F,Italy,ITA,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Raffaella Reggi-concato,F,Italy,ITA,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Raffaella Reggi-concato,F,Italy,ITA,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Raffaella Reggi-concato,F,Italy,ITA,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Raffaella Reggi-concato,F,Italy,ITA,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Mara Santangelo,F,Italy,ITA,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Francesca Schiavone,F,Italy,ITA,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Francesca Schiavone,F,Italy,ITA,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Francesca Schiavone,F,Italy,ITA,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Adriana Serra-zanetti,F,Italy,ITA,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Roberta Vinci,F,Italy,ITA,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Roberta Vinci,F,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Roberta Vinci,F,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,False
+Roberta Vinci,F,Italy,ITA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Sara Errani,F,Italy,ITA,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True,False
+Sara Errani,F,Italy,ITA,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,False
+Camila Giorgi,F,Italy,ITA,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False,True
+Jasmine Paolini,F,Italy,ITA,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Jasmine Paolini,F,Italy,ITA,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,True
+Lucia Bronzetti,F,Italy,ITA,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,True
+Lucia Bronzetti,F,Italy,ITA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Sara Errani,F,Italy,ITA,2024,Paris,Tennis,Women's Doubles,Gold,Women's,TEN,True,False
+Sara Errani,F,Italy,ITA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True,False
+Sara Errani,F,Italy,ITA,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True,False
+Elisabetta Cocciaretto,F,Italy,ITA,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,True
+Elisabetta Cocciaretto,F,Italy,ITA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Jasmine Paolini,F,Italy,ITA,2024,Paris,Tennis,Women's Doubles,Gold,Women's,TEN,True,False
+Jasmine Paolini,F,Italy,ITA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True,False

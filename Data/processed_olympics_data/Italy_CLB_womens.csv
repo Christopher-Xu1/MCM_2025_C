@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Laura Rogora,F,Italy,ITA,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,True
-Beatrice Colli,F,Italy,ITA,2024,Paris,Sport Climbing,Women's Speed,No medal,Women's,CLB,False
-Laura Rogora,F,Italy,ITA,2024,Paris,Sport Climbing,Women's Boulder & Lead,No medal,Women's,CLB,True
-Camilla Moroni,F,Italy,ITA,2024,Paris,Sport Climbing,Women's Boulder & Lead,No medal,Women's,CLB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Laura Rogora,F,Italy,ITA,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,True,True
+Beatrice Colli,F,Italy,ITA,2024,Paris,Sport Climbing,Women's Speed,No medal,Women's,CLB,False,True
+Laura Rogora,F,Italy,ITA,2024,Paris,Sport Climbing,Women's Boulder & Lead,No medal,Women's,CLB,True,False
+Camilla Moroni,F,Italy,ITA,2024,Paris,Sport Climbing,Women's Boulder & Lead,No medal,Women's,CLB,False,True

@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Benjamin Bright,M,New Zealand,NZL,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Hamish Carter,M,New Zealand,NZL,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Hamish Carter,M,New Zealand,NZL,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,Gold,Triathlon,TRI,True
-Bevan Docherty,M,New Zealand,NZL,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,Silver,Triathlon,TRI,True
-Bevan Docherty,M,New Zealand,NZL,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,Bronze,Triathlon,TRI,True
-Bevan Docherty,M,New Zealand,NZL,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Tony Dodds,M,New Zealand,NZL,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Kris Gemmell,M,New Zealand,NZL,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Kris Gemmell,M,New Zealand,NZL,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Shane Reed,M,New Zealand,NZL,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Nathan Richmond,M,New Zealand,NZL,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Ryan Sissons,M,New Zealand,NZL,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Ryan Sissons,M,New Zealand,NZL,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Craig Watson,M,New Zealand,NZL,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Tayler Reid,M,New Zealand,NZL,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Tayler Reid,M,New Zealand,NZL,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Hayden Wilde,M,New Zealand,NZL,2020,Tokyo,Triathlon,Men's Individual,Bronze,Men's,TRI,True
-Hayden Wilde,M,New Zealand,NZL,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-McCULLOUGH Dylan,M,New Zealand,NZL,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
-Hayden Wilde,M,New Zealand,NZL,2024,Paris,Triathlon,Men's Individual,Silver,Men's,TRI,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Benjamin Bright,M,New Zealand,NZL,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Hamish Carter,M,New Zealand,NZL,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Hamish Carter,M,New Zealand,NZL,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,Gold,Triathlon,TRI,True,False
+Bevan Docherty,M,New Zealand,NZL,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,Silver,Triathlon,TRI,True,True
+Bevan Docherty,M,New Zealand,NZL,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,Bronze,Triathlon,TRI,True,False
+Bevan Docherty,M,New Zealand,NZL,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Tony Dodds,M,New Zealand,NZL,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Kris Gemmell,M,New Zealand,NZL,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Kris Gemmell,M,New Zealand,NZL,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Shane Reed,M,New Zealand,NZL,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Nathan Richmond,M,New Zealand,NZL,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Ryan Sissons,M,New Zealand,NZL,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Ryan Sissons,M,New Zealand,NZL,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Craig Watson,M,New Zealand,NZL,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Tayler Reid,M,New Zealand,NZL,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Tayler Reid,M,New Zealand,NZL,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Hayden Wilde,M,New Zealand,NZL,2020,Tokyo,Triathlon,Men's Individual,Bronze,Men's,TRI,True,True
+Hayden Wilde,M,New Zealand,NZL,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+McCULLOUGH Dylan,M,New Zealand,NZL,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True
+Hayden Wilde,M,New Zealand,NZL,2024,Paris,Triathlon,Men's Individual,Silver,Men's,TRI,True,False

@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hwang He-suk,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False
-Jang Ok-rim,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False
-Jong Ok-jin,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False
-Kang Ok-sun,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False
-Kim Myong-suk,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False
-Kim Su-dae,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False
-Kim Yeun-ja,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False
-Kim Zung-bok,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False
-Paek Myong-suk,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False
-Ri Chun-ok,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False
-Ryom Chun-ja,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hwang He-suk,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False,True
+Jang Ok-rim,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False,True
+Jong Ok-jin,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False,True
+Kang Ok-sun,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False,True
+Kim Myong-suk,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False,True
+Kim Su-dae,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False,True
+Kim Yeun-ja,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False,True
+Kim Zung-bok,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False,True
+Paek Myong-suk,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False,True
+Ri Chun-ok,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False,True
+Ryom Chun-ja,F,North Korea,PRK,1972,Munich,Volleyball,Volleyball Women's Volleyball,Bronze,Volleyball,VVO,False,True

@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Riau Agatha,M,Indonesia,INA,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Riau Agatha,M,Indonesia,INA,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Lockoneco,M,Indonesia,INA,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Safruddin Mawi,M,Indonesia,INA,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Donald Pandiangan,M,Indonesia,INA,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Donald Pandiangan,M,Indonesia,INA,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Hendra Purnama,M,Indonesia,INA,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Hendra Purnama,M,Indonesia,INA,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Suradi Rukimin,M,Indonesia,INA,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Hendra Setijawan,M,Indonesia,INA,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Muhammad Wijaya,M,Indonesia,INA,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Muhammad Wijaya,M,Indonesia,INA,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Arif Dwi,M,Indonesia,INA,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True
-Arif Dwi,M,Indonesia,INA,2020,Tokyo,Archery,Men's Team,No medal,Men's,ARC,True
-Alviyanto Prastyadi,M,Indonesia,INA,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True
-Alviyanto Prastyadi,M,Indonesia,INA,2020,Tokyo,Archery,Men's Team,No medal,Men's,ARC,True
-Ega Salsabilla,M,Indonesia,INA,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True
-Ega Salsabilla,M,Indonesia,INA,2020,Tokyo,Archery,Men's Team,No medal,Men's,ARC,True
-Ega Salsabilla,M,Indonesia,INA,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
-Arif Pangestu,M,Indonesia,INA,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True
-Arif Pangestu,M,Indonesia,INA,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Riau Agatha,M,Indonesia,INA,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Riau Agatha,M,Indonesia,INA,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Lockoneco,M,Indonesia,INA,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Safruddin Mawi,M,Indonesia,INA,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Donald Pandiangan,M,Indonesia,INA,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Donald Pandiangan,M,Indonesia,INA,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Hendra Purnama,M,Indonesia,INA,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Hendra Purnama,M,Indonesia,INA,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Suradi Rukimin,M,Indonesia,INA,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Hendra Setijawan,M,Indonesia,INA,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Muhammad Wijaya,M,Indonesia,INA,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Muhammad Wijaya,M,Indonesia,INA,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Arif Dwi,M,Indonesia,INA,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True,True
+Arif Dwi,M,Indonesia,INA,2020,Tokyo,Archery,Men's Team,No medal,Men's,ARC,True,True
+Alviyanto Prastyadi,M,Indonesia,INA,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True,True
+Alviyanto Prastyadi,M,Indonesia,INA,2020,Tokyo,Archery,Men's Team,No medal,Men's,ARC,True,True
+Ega Salsabilla,M,Indonesia,INA,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True,True
+Ega Salsabilla,M,Indonesia,INA,2020,Tokyo,Archery,Men's Team,No medal,Men's,ARC,True,True
+Ega Salsabilla,M,Indonesia,INA,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True
+Arif Pangestu,M,Indonesia,INA,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True,True
+Arif Pangestu,M,Indonesia,INA,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True,True

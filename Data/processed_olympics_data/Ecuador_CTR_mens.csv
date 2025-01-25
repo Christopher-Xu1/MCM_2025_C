@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Paulo Caicedo,M,Ecuador,ECU,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Alfredo Vintimilla,M,Ecuador,ECU,2016,Rio de Janeiro,Cycling,Cycling Men's BMX,No medal,Cycling,CTR,False
-Hctor Huaca,M,Ecuador,ECU,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Esteban Espinoza,M,Ecuador,ECU,1980,Moskva,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Esteban Espinoza,M,Ecuador,ECU,1980,Moskva,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Emilio Buchely,M,Ecuador,ECU,2008,Beijing,Cycling,Cycling Men's BMX,No medal,Cycling,CTR,True
-Emilio Buchely,M,Ecuador,ECU,2012,London,Cycling,Cycling Men's BMX,No medal,Cycling,CTR,True
-Bayron Cruz,M,Ecuador,ECU,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Bayron Cruz,M,Ecuador,ECU,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jhon Jarrn,M,Ecuador,ECU,1980,Moskva,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Jhon Jarrn,M,Ecuador,ECU,1980,Moskva,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-No Medina,M,Ecuador,ECU,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-No Medina,M,Ecuador,ECU,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Edwin Mena,M,Ecuador,ECU,1980,Moskva,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
-Victor Morales,M,Ecuador,ECU,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Victor Morales,M,Ecuador,ECU,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Juan Palacios,M,Ecuador,ECU,1980,Moskva,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
-Nelson Seelig,M,Ecuador,ECU,1988,Seoul,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Nelson Seelig,M,Ecuador,ECU,1988,Seoul,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Nelson Seelig,M,Ecuador,ECU,1992,Barcelona,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Arnulfo Gonzlez,M,Ecuador,ECU,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Arnulfo Gonzlez,M,Ecuador,ECU,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Hiplito Gonzlez,M,Ecuador,ECU,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Hiplito Gonzlez,M,Ecuador,ECU,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Pedro Rosero,M,Ecuador,ECU,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Juan Garca,M,Ecuador,ECU,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Paulo Caicedo,M,Ecuador,ECU,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Alfredo Vintimilla,M,Ecuador,ECU,2016,Rio de Janeiro,Cycling,Cycling Men's BMX,No medal,Cycling,CTR,False,True
+Hctor Huaca,M,Ecuador,ECU,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Esteban Espinoza,M,Ecuador,ECU,1980,Moskva,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Esteban Espinoza,M,Ecuador,ECU,1980,Moskva,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Emilio Buchely,M,Ecuador,ECU,2008,Beijing,Cycling,Cycling Men's BMX,No medal,Cycling,CTR,True,True
+Emilio Buchely,M,Ecuador,ECU,2012,London,Cycling,Cycling Men's BMX,No medal,Cycling,CTR,True,False
+Bayron Cruz,M,Ecuador,ECU,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Bayron Cruz,M,Ecuador,ECU,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Jhon Jarrn,M,Ecuador,ECU,1980,Moskva,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Jhon Jarrn,M,Ecuador,ECU,1980,Moskva,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+No Medina,M,Ecuador,ECU,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+No Medina,M,Ecuador,ECU,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Edwin Mena,M,Ecuador,ECU,1980,Moskva,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True
+Victor Morales,M,Ecuador,ECU,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Victor Morales,M,Ecuador,ECU,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Juan Palacios,M,Ecuador,ECU,1980,Moskva,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True
+Nelson Seelig,M,Ecuador,ECU,1988,Seoul,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Nelson Seelig,M,Ecuador,ECU,1988,Seoul,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Nelson Seelig,M,Ecuador,ECU,1992,Barcelona,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,False
+Arnulfo Gonzlez,M,Ecuador,ECU,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Arnulfo Gonzlez,M,Ecuador,ECU,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Hiplito Gonzlez,M,Ecuador,ECU,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Hiplito Gonzlez,M,Ecuador,ECU,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Pedro Rosero,M,Ecuador,ECU,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Juan Garca,M,Ecuador,ECU,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True

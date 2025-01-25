@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mario Aquilina,M,Malta,MLT,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Mario Aquilina,M,Malta,MLT,2004,Athina,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Peter Bonello,M,Malta,MLT,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Alfred Borda,M,Malta,MLT,1960,Roma,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Jean-Paul Soler,M,Malta,MLT,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,True
-Jean-Paul Soler,M,Malta,MLT,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-John Tabone,M,Malta,MLT,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Andrew Wilson,M,Malta,MLT,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mario Aquilina,M,Malta,MLT,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,True
+Mario Aquilina,M,Malta,MLT,2004,Athina,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Peter Bonello,M,Malta,MLT,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Alfred Borda,M,Malta,MLT,1960,Roma,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Jean-Paul Soler,M,Malta,MLT,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,True,True
+Jean-Paul Soler,M,Malta,MLT,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+John Tabone,M,Malta,MLT,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Andrew Wilson,M,Malta,MLT,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True

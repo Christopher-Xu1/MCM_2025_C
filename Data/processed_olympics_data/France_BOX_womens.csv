@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Estelle Mossely,F,France,FRA,2016,Rio de Janeiro,Boxing,Boxing Women's Lightweight,Gold,Boxing,BOX,True
-Sarah Ourahmoune,F,France,FRA,2016,Rio de Janeiro,Boxing,Boxing Women's Flyweight,Silver,Boxing,BOX,False
-Maiva Hamadouche,F,France,FRA,2020,Tokyo,Boxing,Women's Light (57-60kg),No medal,Women's,BOX,False
-Wassila Lkhadiri,F,France,FRA,2024,Paris,Boxing,Women's 50kg,No medal,Women's,BOX,False
-Amina Zidani,F,France,FRA,2024,Paris,Boxing,Women's 57kg,No medal,Women's,BOX,False
-Estelle Mossely,F,France,FRA,2024,Paris,Boxing,Women's 60kg,No medal,Women's,BOX,True
-Davina Michel,F,France,FRA,2024,Paris,Boxing,Women's 75kg,No medal,Women's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Estelle Mossely,F,France,FRA,2016,Rio de Janeiro,Boxing,Boxing Women's Lightweight,Gold,Boxing,BOX,True,True
+Sarah Ourahmoune,F,France,FRA,2016,Rio de Janeiro,Boxing,Boxing Women's Flyweight,Silver,Boxing,BOX,False,True
+Maiva Hamadouche,F,France,FRA,2020,Tokyo,Boxing,Women's Light (57-60kg),No medal,Women's,BOX,False,True
+Wassila Lkhadiri,F,France,FRA,2024,Paris,Boxing,Women's 50kg,No medal,Women's,BOX,False,True
+Amina Zidani,F,France,FRA,2024,Paris,Boxing,Women's 57kg,No medal,Women's,BOX,False,True
+Estelle Mossely,F,France,FRA,2024,Paris,Boxing,Women's 60kg,No medal,Women's,BOX,True,False
+Davina Michel,F,France,FRA,2024,Paris,Boxing,Women's 75kg,No medal,Women's,BOX,False,True

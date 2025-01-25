@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rui Bragana,M,Portugal,POR,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Pedro Pvoa,M,Portugal,POR,2008,Beijing,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Rui Braganca,M,Portugal,POR,2020,Tokyo,Taekwondo,Men -58kg,No medal,Men,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rui Bragana,M,Portugal,POR,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Pedro Pvoa,M,Portugal,POR,2008,Beijing,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Rui Braganca,M,Portugal,POR,2020,Tokyo,Taekwondo,Men -58kg,No medal,Men,TKW,False,True

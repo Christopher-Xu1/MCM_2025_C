@@ -1,32 +1,32 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Josu Garca,M,Spain,ESP,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Juan Javier,M,Spain,ESP,1992,Barcelona,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Lorenzo Esteban,M,Spain,ESP,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False
-Jos Puig,M,Spain,ESP,1988,Seoul,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True
-Jos Puig,M,Spain,ESP,1992,Barcelona,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True
-Jos Talavera,M,Spain,ESP,1960,Roma,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Cecilio Snchez,M,Spain,ESP,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Fernando Artaza,M,Spain,ESP,1984,Los Angeles,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Fernando Artaza,M,Spain,ESP,1988,Seoul,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Fernando Artaza,M,Spain,ESP,1992,Barcelona,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Jos Ocaa,M,Spain,ESP,1988,Seoul,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True
-Jos Ocaa,M,Spain,ESP,1992,Barcelona,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Santiago Ocaa,M,Spain,ESP,2004,Athina,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Andrs Prez,M,Spain,ESP,2012,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Andrs Prez,M,Spain,ESP,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Francisco Ngel,M,Spain,ESP,1972,Munich,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Francisco Ngel,M,Spain,ESP,1976,Montreal,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Dionisio Berrio,M,Spain,ESP,1984,Los Angeles,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Dionisio Berrio,M,Spain,ESP,1988,Seoul,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Jos Batista,M,Spain,ESP,2008,Beijing,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Jess Lafuente,M,Spain,ESP,1960,Roma,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Julio Marcos,M,Spain,ESP,1984,Los Angeles,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-David Lpez,M,Spain,ESP,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Jon Anguinaga,M,Spain,ESP,2000,Sydney,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Joaqun Montero,M,Spain,ESP,1984,Los Angeles,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Joaqun Montero,M,Spain,ESP,1988,Seoul,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Jos Alberca,M,Spain,ESP,1988,Seoul,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Jos Alberca,M,Spain,ESP,1992,Barcelona,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Eduardo Mata,M,Spain,ESP,2020,Tokyo,Weightlifting,Men's 81kg,No medal,Men's,WLF,False
-Marcos Ruiz,M,Spain,ESP,2020,Tokyo,Weightlifting,Men's +109kg,No medal,Men's,WLF,False
-David Sanchez,M,Spain,ESP,2020,Tokyo,Weightlifting,Men's 73kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Josu Garca,M,Spain,ESP,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Juan Javier,M,Spain,ESP,1992,Barcelona,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Lorenzo Esteban,M,Spain,ESP,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False,True
+Jos Puig,M,Spain,ESP,1988,Seoul,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True,True
+Jos Puig,M,Spain,ESP,1992,Barcelona,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True,False
+Jos Talavera,M,Spain,ESP,1960,Roma,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Cecilio Snchez,M,Spain,ESP,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Fernando Artaza,M,Spain,ESP,1984,Los Angeles,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,True
+Fernando Artaza,M,Spain,ESP,1988,Seoul,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Fernando Artaza,M,Spain,ESP,1992,Barcelona,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Jos Ocaa,M,Spain,ESP,1988,Seoul,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True,True
+Jos Ocaa,M,Spain,ESP,1992,Barcelona,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,False
+Santiago Ocaa,M,Spain,ESP,2004,Athina,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Andrs Prez,M,Spain,ESP,2012,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,True
+Andrs Prez,M,Spain,ESP,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,False
+Francisco Ngel,M,Spain,ESP,1972,Munich,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,True
+Francisco Ngel,M,Spain,ESP,1976,Montreal,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Dionisio Berrio,M,Spain,ESP,1984,Los Angeles,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,True
+Dionisio Berrio,M,Spain,ESP,1988,Seoul,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,False
+Jos Batista,M,Spain,ESP,2008,Beijing,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Jess Lafuente,M,Spain,ESP,1960,Roma,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Julio Marcos,M,Spain,ESP,1984,Los Angeles,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+David Lpez,M,Spain,ESP,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Jon Anguinaga,M,Spain,ESP,2000,Sydney,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Joaqun Montero,M,Spain,ESP,1984,Los Angeles,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,True
+Joaqun Montero,M,Spain,ESP,1988,Seoul,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,False
+Jos Alberca,M,Spain,ESP,1988,Seoul,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,True
+Jos Alberca,M,Spain,ESP,1992,Barcelona,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,False
+Eduardo Mata,M,Spain,ESP,2020,Tokyo,Weightlifting,Men's 81kg,No medal,Men's,WLF,False,True
+Marcos Ruiz,M,Spain,ESP,2020,Tokyo,Weightlifting,Men's +109kg,No medal,Men's,WLF,False,True
+David Sanchez,M,Spain,ESP,2020,Tokyo,Weightlifting,Men's 73kg,No medal,Men's,WLF,False,True

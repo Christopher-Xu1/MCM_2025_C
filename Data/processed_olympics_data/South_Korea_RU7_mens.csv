@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Heung Chang,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Deok Choi,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Jin Coquillard,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Kyu Han,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Jeongmin Jang,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Seongmin Jang,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Sik Jeong,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Min Kim,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Hyunsoo Kim,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Uk Kim,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Jinkyu Lee,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Seongbae Lee,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Wanyong Park,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Heung Chang,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Deok Choi,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Jin Coquillard,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Kyu Han,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Jeongmin Jang,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Seongmin Jang,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Sik Jeong,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Min Kim,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Hyunsoo Kim,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Uk Kim,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Jinkyu Lee,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Seongbae Lee,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Wanyong Park,M,South Korea,KOR,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True

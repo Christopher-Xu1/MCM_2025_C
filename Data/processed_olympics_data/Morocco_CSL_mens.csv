@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nizar Samlal,M,Morocco,MAR,2000,Sydney,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Mathis Soudi,M,Morocco,MAR,2020,Tokyo,Canoe Slalom,Men's Kayak,No medal,Men's,CSL,True
-Mathis Soudi,M,Morocco,MAR,2024,Paris,Canoe Slalom,Men's Kayak Single,No medal,Men's,CSL,True
-Mathis Soudi,M,Morocco,MAR,2024,Paris,Canoe Slalom,Men's Kayak Cross,No medal,Men's,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nizar Samlal,M,Morocco,MAR,2000,Sydney,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Mathis Soudi,M,Morocco,MAR,2020,Tokyo,Canoe Slalom,Men's Kayak,No medal,Men's,CSL,True,True
+Mathis Soudi,M,Morocco,MAR,2024,Paris,Canoe Slalom,Men's Kayak Single,No medal,Men's,CSL,True,False
+Mathis Soudi,M,Morocco,MAR,2024,Paris,Canoe Slalom,Men's Kayak Cross,No medal,Men's,CSL,True,False

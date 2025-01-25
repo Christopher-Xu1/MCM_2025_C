@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tural Abbasov,M,Azerbaijan,AZE,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Serqey Dyakov,M,Azerbaijan,AZE,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Boris Kirillov,M,Azerbaijan,AZE,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,False
-Yevgeni Lazuka,M,Azerbaijan,AZE,2012,London,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Emin Quliyev,M,Azerbaijan,AZE,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Emin Quliyev,M,Azerbaijan,AZE,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Maksym Shemberev,M,Azerbaijan,AZE,2020,Tokyo,Swimming,Men's 400m Individual Medley,No medal,Men's,SWM,False
-Ramil Valizada,M,Azerbaijan,AZE,2024,Paris,Swimming,Men's 200m Butterfly,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tural Abbasov,M,Azerbaijan,AZE,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Serqey Dyakov,M,Azerbaijan,AZE,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Boris Kirillov,M,Azerbaijan,AZE,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,False,True
+Yevgeni Lazuka,M,Azerbaijan,AZE,2012,London,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Emin Quliyev,M,Azerbaijan,AZE,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Emin Quliyev,M,Azerbaijan,AZE,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Maksym Shemberev,M,Azerbaijan,AZE,2020,Tokyo,Swimming,Men's 400m Individual Medley,No medal,Men's,SWM,False,True
+Ramil Valizada,M,Azerbaijan,AZE,2024,Paris,Swimming,Men's 200m Butterfly,No medal,Men's,SWM,False,True

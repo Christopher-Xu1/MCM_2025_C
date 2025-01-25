@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sandra Castillo,F,Mexico,MEX,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Sandra Castillo,F,Mexico,MEX,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Marcela Prez-maldonado,F,Mexico,MEX,2004,Athina,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Marcela Prez-maldonado,F,Mexico,MEX,2004,Athina,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Margarita G.,F,Mexico,MEX,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Margarita G.,F,Mexico,MEX,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Elisa (fernndez-),F,Mexico,MEX,1972,Munich,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Elisa (fernndez-),F,Mexico,MEX,1972,Munich,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Bernadette Cavallo,F,Mexico,MEX,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Bernadette Cavallo,F,Mexico,MEX,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sandra Castillo,F,Mexico,MEX,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Sandra Castillo,F,Mexico,MEX,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Marcela Prez-maldonado,F,Mexico,MEX,2004,Athina,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Marcela Prez-maldonado,F,Mexico,MEX,2004,Athina,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Margarita G.,F,Mexico,MEX,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Margarita G.,F,Mexico,MEX,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True
+Elisa (fernndez-),F,Mexico,MEX,1972,Munich,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Elisa (fernndez-),F,Mexico,MEX,1972,Munich,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Bernadette Cavallo,F,Mexico,MEX,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Bernadette Cavallo,F,Mexico,MEX,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False

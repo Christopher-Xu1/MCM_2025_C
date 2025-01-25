@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Caroline Marks,F,United States,USA,2020,Tokyo,Surfing,Women,No medal,Women,SRF,True
-Carissa Moore,F,United States,USA,2020,Tokyo,Surfing,Women,Gold,Women,SRF,True
-Caroline Marks,F,United States,USA,2024,Paris,Surfing,Women,Gold,Women,SRF,True
-Caitlin Simmers,F,United States,USA,2024,Paris,Surfing,Women,No medal,Women,SRF,False
-Carissa Moore,F,United States,USA,2024,Paris,Surfing,Women,No medal,Women,SRF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Caroline Marks,F,United States,USA,2020,Tokyo,Surfing,Women,No medal,Women,SRF,True,True
+Carissa Moore,F,United States,USA,2020,Tokyo,Surfing,Women,Gold,Women,SRF,True,True
+Caroline Marks,F,United States,USA,2024,Paris,Surfing,Women,Gold,Women,SRF,True,False
+Caitlin Simmers,F,United States,USA,2024,Paris,Surfing,Women,No medal,Women,SRF,False,True
+Carissa Moore,F,United States,USA,2024,Paris,Surfing,Women,No medal,Women,SRF,True,False

@@ -1,24 +1,24 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hela Al-ayari,F,Tunisia,TUN,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Houda Daya,F,Tunisia,TUN,2004,Athina,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Raoudha Chaari,F,Tunisia,TUN,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Nihel Rouhou,F,Tunisia,TUN,2008,Beijing,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Nihel Rouhou,F,Tunisia,TUN,2012,London,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Nihel Rouhou,F,Tunisia,TUN,2016,Rio de Janeiro,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Saida Al-dhahri,F,Tunisia,TUN,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Saida Al-dhahri,F,Tunisia,TUN,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Nesria Al-jelassi,F,Tunisia,TUN,2008,Beijing,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Hana Mareghni,F,Tunisia,TUN,2012,London,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Chahnez Al-m'barki,F,Tunisia,TUN,2008,Beijing,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Houda Miled,F,Tunisia,TUN,2008,Beijing,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Houda Miled,F,Tunisia,TUN,2012,London,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Houda Miled,F,Tunisia,TUN,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Hayet Rouini,F,Tunisia,TUN,2000,Sydney,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Hajer Tbessi,F,Tunisia,TUN,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Nesria Traki,F,Tunisia,TUN,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Insaf Al-yahyaoui,F,Tunisia,TUN,2004,Athina,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Nihel Cheikh,F,Tunisia,TUN,2020,Tokyo,Judo,Women +78 kg,No medal,Women,JUD,False
-Ghofran Khelifi,F,Tunisia,TUN,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,False
-Nihel Landolsi,F,Tunisia,TUN,2020,Tokyo,Judo,Women -70 kg,No medal,Women,JUD,False
-Sarra Mzougui,F,Tunisia,TUN,2024,Paris,Judo,Women +78 kg,No medal,Women,JUD,False
-Oumaima Bedioui,F,Tunisia,TUN,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hela Al-ayari,F,Tunisia,TUN,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Houda Daya,F,Tunisia,TUN,2004,Athina,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Raoudha Chaari,F,Tunisia,TUN,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Nihel Rouhou,F,Tunisia,TUN,2008,Beijing,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,True
+Nihel Rouhou,F,Tunisia,TUN,2012,London,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,False
+Nihel Rouhou,F,Tunisia,TUN,2016,Rio de Janeiro,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,False
+Saida Al-dhahri,F,Tunisia,TUN,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,True
+Saida Al-dhahri,F,Tunisia,TUN,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False
+Nesria Al-jelassi,F,Tunisia,TUN,2008,Beijing,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Hana Mareghni,F,Tunisia,TUN,2012,London,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Chahnez Al-m'barki,F,Tunisia,TUN,2008,Beijing,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Houda Miled,F,Tunisia,TUN,2008,Beijing,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,True
+Houda Miled,F,Tunisia,TUN,2012,London,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Houda Miled,F,Tunisia,TUN,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Hayet Rouini,F,Tunisia,TUN,2000,Sydney,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Hajer Tbessi,F,Tunisia,TUN,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Nesria Traki,F,Tunisia,TUN,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Insaf Al-yahyaoui,F,Tunisia,TUN,2004,Athina,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Nihel Cheikh,F,Tunisia,TUN,2020,Tokyo,Judo,Women +78 kg,No medal,Women,JUD,False,True
+Ghofran Khelifi,F,Tunisia,TUN,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,False,True
+Nihel Landolsi,F,Tunisia,TUN,2020,Tokyo,Judo,Women -70 kg,No medal,Women,JUD,False,True
+Sarra Mzougui,F,Tunisia,TUN,2024,Paris,Judo,Women +78 kg,No medal,Women,JUD,False,True
+Oumaima Bedioui,F,Tunisia,TUN,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,False,True

@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Svenja Bazlen,F,Germany,GER,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Anja Dittmer,F,Germany,GER,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Anja Dittmer,F,Germany,GER,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Anja Dittmer,F,Germany,GER,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Anja Dittmer,F,Germany,GER,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Joelle Franzmann,F,Germany,GER,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Joelle Franzmann,F,Germany,GER,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Anne Haug,F,Germany,GER,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Anne Haug,F,Germany,GER,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Laura Lindemann,F,Germany,GER,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Ricarda Lisk,F,Germany,GER,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Christiane Pilz,F,Germany,GER,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Anabel Knoll,F,Germany,GER,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Anabel Knoll,F,Germany,GER,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Laura Lindemann,F,Germany,GER,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Laura Lindemann,F,Germany,GER,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Laura Lindemann,F,Germany,GER,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Nina Eim,F,Germany,GER,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False
-Lisa Tertsch,F,Germany,GER,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Svenja Bazlen,F,Germany,GER,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Anja Dittmer,F,Germany,GER,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Anja Dittmer,F,Germany,GER,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Anja Dittmer,F,Germany,GER,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Anja Dittmer,F,Germany,GER,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Joelle Franzmann,F,Germany,GER,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Joelle Franzmann,F,Germany,GER,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Anne Haug,F,Germany,GER,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Anne Haug,F,Germany,GER,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Laura Lindemann,F,Germany,GER,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Ricarda Lisk,F,Germany,GER,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Christiane Pilz,F,Germany,GER,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Anabel Knoll,F,Germany,GER,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,True
+Anabel Knoll,F,Germany,GER,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Laura Lindemann,F,Germany,GER,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,False
+Laura Lindemann,F,Germany,GER,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,False
+Laura Lindemann,F,Germany,GER,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,True,False
+Nina Eim,F,Germany,GER,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False,True
+Lisa Tertsch,F,Germany,GER,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False,True

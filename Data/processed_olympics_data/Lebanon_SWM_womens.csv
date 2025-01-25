@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Katya Bachrouche,F,Lebanon,LIB,2012,London,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,False
-Gabriella Al-doueihy,F,Lebanon,LIB,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
-Rola El-haress,F,Lebanon,LIB,2000,Sydney,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Ghazal Al-jobeili,F,Lebanon,LIB,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Nancy Khalaf,F,Lebanon,LIB,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Nancy Khalaf,F,Lebanon,LIB,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Ani Mugrditchian,F,Lebanon,LIB,1972,Munich,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Nibal Yamout,F,Lebanon,LIB,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Gabriella Doueihy,F,Lebanon,LBN,2020,Tokyo,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,False
-Lynn El,F,Lebanon,LBN,2024,Paris,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Katya Bachrouche,F,Lebanon,LIB,2012,London,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,False,True
+Gabriella Al-doueihy,F,Lebanon,LIB,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False,True
+Rola El-haress,F,Lebanon,LIB,2000,Sydney,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Ghazal Al-jobeili,F,Lebanon,LIB,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Nancy Khalaf,F,Lebanon,LIB,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Nancy Khalaf,F,Lebanon,LIB,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Ani Mugrditchian,F,Lebanon,LIB,1972,Munich,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Nibal Yamout,F,Lebanon,LIB,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Gabriella Doueihy,F,Lebanon,LBN,2020,Tokyo,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,False,True
+Lynn El,F,Lebanon,LBN,2024,Paris,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False,True

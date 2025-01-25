@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Seulki Kang,F,Central African Republic,CAF,2012,London,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Seulki Kang,F,Central African Republic,CAF,2012,London,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,False,True

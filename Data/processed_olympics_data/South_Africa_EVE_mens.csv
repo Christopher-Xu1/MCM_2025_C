@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Peter Gotz,M,South Africa,RSA,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False
-Alexander Peternell,M,South Africa,RSA,2012,London,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-David Rissik,M,South Africa,RSA,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False
-Alexander Peternell,M,South Africa,RSA,2024,Paris,Equestrian,Eventing Individual,No medal,Eventing,EVE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Peter Gotz,M,South Africa,RSA,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False,True
+Alexander Peternell,M,South Africa,RSA,2012,London,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+David Rissik,M,South Africa,RSA,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False,True
+Alexander Peternell,M,South Africa,RSA,2024,Paris,Equestrian,Eventing Individual,No medal,Eventing,EVE,True,False

@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alireza Sarlak,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Freestyle 57kg,No medal,Men's,WRF,False
-Hossein Zare,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Freestyle 125kg,Silver,Men's,WRF,False
-Amirali Azarpira,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Freestyle 97kg,Bronze,Men's,WRF,False
-Hassan Yazdanicharati,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Freestyle 86kg,Silver,Men's,WRF,False
-Rahman Amouzadkhalili,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Freestyle 65kg,Silver,Men's,WRF,False
-Yones Emamichoghaei,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Freestyle 74kg,No medal,Men's,WRF,False
-Alireza Mohmadipiani,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Greco-Roman 87kg,Silver,Men's,WRF,False
-Amin Kaviyaninejad,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Greco-Roman 77kg,No medal,Men's,WRF,False
-Amin Mirzazadeh,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Greco-Roman 130kg,Bronze,Men's,WRF,False
-Mehdi Mohsen,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Greco-Roman 60kg,No medal,Men's,WRF,False
-Mohammadhadi Saravi,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Greco-Roman 97kg,Gold,Men's,WRF,False
-Saeid Esmaeili,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Greco-Roman 67kg,Gold,Men's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alireza Sarlak,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Freestyle 57kg,No medal,Men's,WRF,False,True
+Hossein Zare,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Freestyle 125kg,Silver,Men's,WRF,False,True
+Amirali Azarpira,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Freestyle 97kg,Bronze,Men's,WRF,False,True
+Hassan Yazdanicharati,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Freestyle 86kg,Silver,Men's,WRF,False,True
+Rahman Amouzadkhalili,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Freestyle 65kg,Silver,Men's,WRF,False,True
+Yones Emamichoghaei,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Freestyle 74kg,No medal,Men's,WRF,False,True
+Alireza Mohmadipiani,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Greco-Roman 87kg,Silver,Men's,WRF,False,True
+Amin Kaviyaninejad,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Greco-Roman 77kg,No medal,Men's,WRF,False,True
+Amin Mirzazadeh,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Greco-Roman 130kg,Bronze,Men's,WRF,False,True
+Mehdi Mohsen,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Greco-Roman 60kg,No medal,Men's,WRF,False,True
+Mohammadhadi Saravi,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Greco-Roman 97kg,Gold,Men's,WRF,False,True
+Saeid Esmaeili,M,Ir Iran,IRI,2024,Paris,Wrestling,Men's Greco-Roman 67kg,Gold,Men's,WRF,False,True

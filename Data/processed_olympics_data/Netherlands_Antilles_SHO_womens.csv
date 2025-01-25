@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jeanne Lopes,F,Netherlands Antilles,AHO,1988,Seoul,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jeanne Lopes,F,Netherlands Antilles,AHO,1988,Seoul,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True

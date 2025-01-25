@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jorge Said,M,Chile,CHI,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Jorge Said,M,Chile,CHI,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Jorge Said,M,Chile,CHI,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Jorge Said,M,Chile,CHI,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Augusto Marengo,M,Chile,CHI,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Augusto Marengo,M,Chile,CHI,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Augusto Marengo,M,Chile,CHI,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Augusto Marengo,M,Chile,CHI,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Augusto Marengo,M,Chile,CHI,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Augusto Marengo,M,Chile,CHI,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Marcos Nez,M,Chile,CHI,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Marcos Nez,M,Chile,CHI,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Marcos Nez,M,Chile,CHI,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Marcos Nez,M,Chile,CHI,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Juan Vilca,M,Chile,CHI,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Juan Vilca,M,Chile,CHI,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Alejandro Feres,M,Chile,CHI,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Juan Gonzlez,M,Chile,CHI,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Nicolas Burgos,M,Chile,CHI,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jorge Said,M,Chile,CHI,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Jorge Said,M,Chile,CHI,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Jorge Said,M,Chile,CHI,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Jorge Said,M,Chile,CHI,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Augusto Marengo,M,Chile,CHI,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Augusto Marengo,M,Chile,CHI,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Augusto Marengo,M,Chile,CHI,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Augusto Marengo,M,Chile,CHI,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Augusto Marengo,M,Chile,CHI,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Augusto Marengo,M,Chile,CHI,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Marcos Nez,M,Chile,CHI,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Marcos Nez,M,Chile,CHI,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Marcos Nez,M,Chile,CHI,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Marcos Nez,M,Chile,CHI,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Juan Vilca,M,Chile,CHI,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Juan Vilca,M,Chile,CHI,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Alejandro Feres,M,Chile,CHI,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Juan Gonzlez,M,Chile,CHI,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Nicolas Burgos,M,Chile,CHI,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True

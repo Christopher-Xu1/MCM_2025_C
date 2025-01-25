@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yaroslav Tkach,M,Ukraine,UKR,2024,Paris,Sport Climbing,Men's Speed,No medal,Men's,CLB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yaroslav Tkach,M,Ukraine,UKR,2024,Paris,Sport Climbing,Men's Speed,No medal,Men's,CLB,False,True

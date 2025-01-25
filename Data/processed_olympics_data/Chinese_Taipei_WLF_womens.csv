@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chen Han-tung,F,Chinese Taipei,TPE,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Chen Wei-ling,F,Chinese Taipei,TPE,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True
-Chen Wei-ling,F,Chinese Taipei,TPE,2008,Beijing,Weightlifting,Weightlifting Women's Flyweight,Bronze,Weightlifting,WLF,True
-Chen Wei-ling,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True
-Hsu Shu-ching,F,Chinese Taipei,TPE,2012,London,Weightlifting,Weightlifting Women's Featherweight,Silver,Weightlifting,WLF,True
-Hsu Shu-ching,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Featherweight,Gold,Weightlifting,WLF,True
-Huang Shih-chun,F,Chinese Taipei,TPE,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True
-Huang Shih-chun,F,Chinese Taipei,TPE,2012,London,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Kuo Hsing-chun,F,Chinese Taipei,TPE,2012,London,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True
-Kuo Hsing-chun,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,Bronze,Weightlifting,WLF,True
-Kuo Yi-hang,F,Chinese Taipei,TPE,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,Bronze,Weightlifting,WLF,False
-Li Feng-ying,F,Chinese Taipei,TPE,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,Silver,Weightlifting,WLF,False
-Lu Ying-chi,F,Chinese Taipei,TPE,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,Bronze,Weightlifting,WLF,False
-Wen-huei Chen,F,Chinese Taipei,TPE,2020,Tokyo,Weightlifting,Women's 64kg,Bronze,Women's,WLF,True
-Nien-hsin Chiang,F,Chinese Taipei,TPE,2020,Tokyo,Weightlifting,Women's 55kg,No medal,Women's,WLF,False
-Wan-ling Fang,F,Chinese Taipei,TPE,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,True
-Hsing-chun Kuo,F,Chinese Taipei,TPE,2020,Tokyo,Weightlifting,Women's 59kg,Gold,Women's,WLF,True
-Hsing-chun Kuo,F,Chinese Taipei,TPE,2024,Paris,Weightlifting,Women's 59kg,Bronze,Women's,WLF,True
-Wen-huei Chen,F,Chinese Taipei,TPE,2024,Paris,Weightlifting,Women's 71kg,No medal,Women's,WLF,True
-Wan-ling Fang,F,Chinese Taipei,TPE,2024,Paris,Weightlifting,Women's 49kg,No medal,Women's,WLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chen Han-tung,F,Chinese Taipei,TPE,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Chen Wei-ling,F,Chinese Taipei,TPE,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True,True
+Chen Wei-ling,F,Chinese Taipei,TPE,2008,Beijing,Weightlifting,Weightlifting Women's Flyweight,Bronze,Weightlifting,WLF,True,False
+Chen Wei-ling,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True,False
+Hsu Shu-ching,F,Chinese Taipei,TPE,2012,London,Weightlifting,Weightlifting Women's Featherweight,Silver,Weightlifting,WLF,True,True
+Hsu Shu-ching,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Featherweight,Gold,Weightlifting,WLF,True,False
+Huang Shih-chun,F,Chinese Taipei,TPE,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True,True
+Huang Shih-chun,F,Chinese Taipei,TPE,2012,London,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,True,False
+Kuo Hsing-chun,F,Chinese Taipei,TPE,2012,London,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True,True
+Kuo Hsing-chun,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,Bronze,Weightlifting,WLF,True,False
+Kuo Yi-hang,F,Chinese Taipei,TPE,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,Bronze,Weightlifting,WLF,False,True
+Li Feng-ying,F,Chinese Taipei,TPE,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,Silver,Weightlifting,WLF,False,True
+Lu Ying-chi,F,Chinese Taipei,TPE,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,Bronze,Weightlifting,WLF,False,True
+Wen-huei Chen,F,Chinese Taipei,TPE,2020,Tokyo,Weightlifting,Women's 64kg,Bronze,Women's,WLF,True,True
+Nien-hsin Chiang,F,Chinese Taipei,TPE,2020,Tokyo,Weightlifting,Women's 55kg,No medal,Women's,WLF,False,True
+Wan-ling Fang,F,Chinese Taipei,TPE,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,True,True
+Hsing-chun Kuo,F,Chinese Taipei,TPE,2020,Tokyo,Weightlifting,Women's 59kg,Gold,Women's,WLF,True,True
+Hsing-chun Kuo,F,Chinese Taipei,TPE,2024,Paris,Weightlifting,Women's 59kg,Bronze,Women's,WLF,True,False
+Wen-huei Chen,F,Chinese Taipei,TPE,2024,Paris,Weightlifting,Women's 71kg,No medal,Women's,WLF,True,False
+Wan-ling Fang,F,Chinese Taipei,TPE,2024,Paris,Weightlifting,Women's 49kg,No medal,Women's,WLF,True,False

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Muhammad Akram,M,Pakistan,PAK,2000,Sydney,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Hazrat Islam,M,Pakistan,PAK,2000,Sydney,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Zahid Pirzada,M,Pakistan,PAK,2000,Sydney,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Muhammad Akram,M,Pakistan,PAK,2000,Sydney,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Hazrat Islam,M,Pakistan,PAK,2000,Sydney,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Zahid Pirzada,M,Pakistan,PAK,2000,Sydney,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,False,True

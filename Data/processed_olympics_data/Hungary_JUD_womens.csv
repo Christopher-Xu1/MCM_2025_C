@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bernadett Baczk,F,Hungary,HUN,2008,Beijing,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-va Csernoviczki,F,Hungary,HUN,2008,Beijing,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-va Csernoviczki,F,Hungary,HUN,2012,London,Judo,Judo Women's Extra-Lightweight,Bronze,Judo,JUD,True
-va Csernoviczki,F,Hungary,HUN,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Eszter Csizmadia,F,Hungary,HUN,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-va Grnitz,F,Hungary,HUN,1992,Barcelona,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-va Grnitz,F,Hungary,HUN,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Abigl Jo,F,Hungary,HUN,2012,London,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Abigl Jo,F,Hungary,HUN,2016,Rio de Janeiro,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Hedvig Karakas,F,Hungary,HUN,2012,London,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Hedvig Karakas,F,Hungary,HUN,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Anita Kirly,F,Hungary,HUN,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Anett Mszros,F,Hungary,HUN,2008,Beijing,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Anett Mszros,F,Hungary,HUN,2012,London,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Zsuzsa Nagy,F,Hungary,HUN,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Katalin Parragh,F,Hungary,HUN,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Mria (-kelly),F,Hungary,HUN,1992,Barcelona,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Mria (-kelly),F,Hungary,HUN,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Eva Csernoviczki,F,Hungary,HUN,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,False
-Hedvig Karakas,F,Hungary,HUN,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,True
-Szofi Ozbas,F,Hungary,HUN,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,True
-Reka Pupp,F,Hungary,HUN,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,True
-Szabina Gercsak,F,Hungary,HUN,2024,Paris,Judo,Women -70 kg,No medal,Women,JUD,True
-Szabina Gercsak,F,Hungary,HUN,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Szofi Ozbas,F,Hungary,HUN,2024,Paris,Judo,Women -63 kg,No medal,Women,JUD,True
-Szofi Ozbas,F,Hungary,HUN,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Reka Pupp,F,Hungary,HUN,2024,Paris,Judo,Women -52 kg,No medal,Women,JUD,True
-Reka Pupp,F,Hungary,HUN,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bernadett Baczk,F,Hungary,HUN,2008,Beijing,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+va Csernoviczki,F,Hungary,HUN,2008,Beijing,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,True
+va Csernoviczki,F,Hungary,HUN,2012,London,Judo,Judo Women's Extra-Lightweight,Bronze,Judo,JUD,True,False
+va Csernoviczki,F,Hungary,HUN,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,False
+Eszter Csizmadia,F,Hungary,HUN,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+va Grnitz,F,Hungary,HUN,1992,Barcelona,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,True
+va Grnitz,F,Hungary,HUN,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,False
+Abigl Jo,F,Hungary,HUN,2012,London,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,True
+Abigl Jo,F,Hungary,HUN,2016,Rio de Janeiro,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,False
+Hedvig Karakas,F,Hungary,HUN,2012,London,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,True
+Hedvig Karakas,F,Hungary,HUN,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,False
+Anita Kirly,F,Hungary,HUN,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Anett Mszros,F,Hungary,HUN,2008,Beijing,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,True
+Anett Mszros,F,Hungary,HUN,2012,London,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Zsuzsa Nagy,F,Hungary,HUN,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Katalin Parragh,F,Hungary,HUN,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Mria (-kelly),F,Hungary,HUN,1992,Barcelona,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,True
+Mria (-kelly),F,Hungary,HUN,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,False
+Eva Csernoviczki,F,Hungary,HUN,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,False,True
+Hedvig Karakas,F,Hungary,HUN,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,True,False
+Szofi Ozbas,F,Hungary,HUN,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,True,True
+Reka Pupp,F,Hungary,HUN,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,True,True
+Szabina Gercsak,F,Hungary,HUN,2024,Paris,Judo,Women -70 kg,No medal,Women,JUD,True,True
+Szabina Gercsak,F,Hungary,HUN,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Szofi Ozbas,F,Hungary,HUN,2024,Paris,Judo,Women -63 kg,No medal,Women,JUD,True,False
+Szofi Ozbas,F,Hungary,HUN,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,False
+Reka Pupp,F,Hungary,HUN,2024,Paris,Judo,Women -52 kg,No medal,Women,JUD,True,False
+Reka Pupp,F,Hungary,HUN,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,False

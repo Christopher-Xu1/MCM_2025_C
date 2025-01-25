@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Haji Ally,M,Tanzania,TAN,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Flevitus Bitegeko,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Juma Bugingo,M,Tanzania,TAN,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Omari Golaya,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Rajabu Hussen,M,Tanzania,TAN,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Makoye Isangula,M,Tanzania,TAN,1992,Barcelona,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-William Isangura,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True
-William Isangura,M,Tanzania,TAN,1984,Los Angeles,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,True
-Geraldi Issaick,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Selemani Kidunda,M,Tanzania,TAN,2012,London,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Habibu Kinyogoli,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Samson Laizer,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-William Lyimo,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Isaack Mabushi,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Joseph Marwa,M,Tanzania,TAN,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Joseph Marwa,M,Tanzania,TAN,1992,Barcelona,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True
-Rashi Matumla,M,Tanzania,TAN,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Rashi Matumla,M,Tanzania,TAN,1992,Barcelona,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Rashi Matumla,M,Tanzania,TAN,1996,Atlanta,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Neva Mkadala,M,Tanzania,TAN,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Mbaraka Mkanga,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Emmanuel Mlundwa,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Lucas Msomba,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-David Mwaba,M,Tanzania,TAN,1984,Los Angeles,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Robert Mwakosya,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Benjamin Mwangata,M,Tanzania,TAN,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True
-Benjamin Mwangata,M,Tanzania,TAN,1992,Barcelona,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True
-Paulo Mwaselle,M,Tanzania,TAN,1992,Barcelona,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Hassan Mzonge,M,Tanzania,TAN,1996,Atlanta,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Michael Nassoro,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Michael Nassoro,M,Tanzania,TAN,1984,Los Angeles,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Leonidas Njunwa,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Bakari Seleman,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Titus Simba,M,Tanzania,TAN,1968,Mexico City,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Titus Simba,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Saidi Tambwe,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Haji Ally,M,Tanzania,TAN,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Flevitus Bitegeko,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Juma Bugingo,M,Tanzania,TAN,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Omari Golaya,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Rajabu Hussen,M,Tanzania,TAN,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Makoye Isangula,M,Tanzania,TAN,1992,Barcelona,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+William Isangura,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True,True
+William Isangura,M,Tanzania,TAN,1984,Los Angeles,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,True,False
+Geraldi Issaick,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Selemani Kidunda,M,Tanzania,TAN,2012,London,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Habibu Kinyogoli,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Samson Laizer,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+William Lyimo,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Isaack Mabushi,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Joseph Marwa,M,Tanzania,TAN,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,True
+Joseph Marwa,M,Tanzania,TAN,1992,Barcelona,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True,False
+Rashi Matumla,M,Tanzania,TAN,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,True
+Rashi Matumla,M,Tanzania,TAN,1992,Barcelona,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,False
+Rashi Matumla,M,Tanzania,TAN,1996,Atlanta,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,False
+Neva Mkadala,M,Tanzania,TAN,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Mbaraka Mkanga,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Emmanuel Mlundwa,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Lucas Msomba,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+David Mwaba,M,Tanzania,TAN,1984,Los Angeles,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Robert Mwakosya,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Benjamin Mwangata,M,Tanzania,TAN,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True,True
+Benjamin Mwangata,M,Tanzania,TAN,1992,Barcelona,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True,False
+Paulo Mwaselle,M,Tanzania,TAN,1992,Barcelona,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Hassan Mzonge,M,Tanzania,TAN,1996,Atlanta,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Michael Nassoro,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,True
+Michael Nassoro,M,Tanzania,TAN,1984,Los Angeles,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,False
+Leonidas Njunwa,M,Tanzania,TAN,1980,Moskva,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Bakari Seleman,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Titus Simba,M,Tanzania,TAN,1968,Mexico City,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,True
+Titus Simba,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,False
+Saidi Tambwe,M,Tanzania,TAN,1972,Munich,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True

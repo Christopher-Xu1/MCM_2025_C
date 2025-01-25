@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Wajdi Bouallgue,M,Tunisia,TUN,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Wajdi Bouallgue,M,Tunisia,TUN,2004,Athina,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Wajdi Bouallgue,M,Tunisia,TUN,2004,Athina,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Wajdi Bouallgue,M,Tunisia,TUN,2004,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Wajdi Bouallgue,M,Tunisia,TUN,2004,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Wajdi Bouallgue,M,Tunisia,TUN,2004,Athina,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Wajdi Bouallgue,M,Tunisia,TUN,2004,Athina,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Wajdi Bouallgue,M,Tunisia,TUN,2012,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Wajdi Bouallgue,M,Tunisia,TUN,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Wajdi Bouallgue,M,Tunisia,TUN,2004,Athina,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Wajdi Bouallgue,M,Tunisia,TUN,2004,Athina,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+Wajdi Bouallgue,M,Tunisia,TUN,2004,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Wajdi Bouallgue,M,Tunisia,TUN,2004,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Wajdi Bouallgue,M,Tunisia,TUN,2004,Athina,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Wajdi Bouallgue,M,Tunisia,TUN,2004,Athina,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Wajdi Bouallgue,M,Tunisia,TUN,2012,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,False

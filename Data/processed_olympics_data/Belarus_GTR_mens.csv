@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vladislav Goncharov,M,Belarus,BLR,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,Gold,Trampolining,GTR,False
-Nikolay Kazak,M,Belarus,BLR,2004,Athina,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Nikolay Kazak,M,Belarus,BLR,2008,Beijing,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Vyacheslav Model,M,Belarus,BLR,2012,London,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False
-Dmitry Polyarush,M,Belarus,BLR,2000,Sydney,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Dmitry Polyarush,M,Belarus,BLR,2004,Athina,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Uladzislau Hancharou,M,Belarus,BLR,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,False
-Ivan Litvinovich,M,Belarus,BLR,2020,Tokyo,Trampoline Gymnastics,Men,Gold,Men,GTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vladislav Goncharov,M,Belarus,BLR,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,Gold,Trampolining,GTR,False,True
+Nikolay Kazak,M,Belarus,BLR,2004,Athina,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,True
+Nikolay Kazak,M,Belarus,BLR,2008,Beijing,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,False
+Vyacheslav Model,M,Belarus,BLR,2012,London,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False,True
+Dmitry Polyarush,M,Belarus,BLR,2000,Sydney,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,True
+Dmitry Polyarush,M,Belarus,BLR,2004,Athina,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,False
+Uladzislau Hancharou,M,Belarus,BLR,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,False,True
+Ivan Litvinovich,M,Belarus,BLR,2020,Tokyo,Trampoline Gymnastics,Men,Gold,Men,GTR,False,True

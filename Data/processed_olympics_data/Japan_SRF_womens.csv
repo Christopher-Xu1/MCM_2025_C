@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mahina Maeda,F,Japan,JPN,2020,Tokyo,Surfing,Women,No medal,Women,SRF,False
-Amuro Tsuzuki,F,Japan,JPN,2020,Tokyo,Surfing,Women,Bronze,Women,SRF,False
-Shino Matsuda,F,Japan,JPN,2024,Paris,Surfing,Women,No medal,Women,SRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mahina Maeda,F,Japan,JPN,2020,Tokyo,Surfing,Women,No medal,Women,SRF,False,True
+Amuro Tsuzuki,F,Japan,JPN,2020,Tokyo,Surfing,Women,Bronze,Women,SRF,False,True
+Shino Matsuda,F,Japan,JPN,2024,Paris,Surfing,Women,No medal,Women,SRF,False,True

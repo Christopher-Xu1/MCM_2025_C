@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-L. Silva,M,Brazil,BRA,1924,Paris,Art Competitions,Art Competitions Mixed Literature,No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+L. Silva,M,Brazil,BRA,1924,Paris,Art Competitions,Art Competitions Mixed Literature,No medal,Art,ART,False,True

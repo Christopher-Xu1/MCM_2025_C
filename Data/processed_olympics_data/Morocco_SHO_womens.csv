@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yasmina Al-mesfioui,F,Morocco,MAR,2012,London,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,False
-Ibtissam Marirhi,F,Morocco,MAR,2020,Tokyo,Shooting,Skeet Women,No medal,Skeet,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yasmina Al-mesfioui,F,Morocco,MAR,2012,London,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,False,True
+Ibtissam Marirhi,F,Morocco,MAR,2020,Tokyo,Shooting,Skeet Women,No medal,Skeet,SHO,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bryan Zambrano,M,Ecuador,ECU,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bryan Zambrano,M,Ecuador,ECU,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True

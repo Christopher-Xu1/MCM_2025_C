@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Daniel Gracik,M,Czechia,CZE,2024,Paris,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,True
-Daniel Gracik,M,Czechia,CZE,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
-Miroslav Knedla,M,Czechia,CZE,2024,Paris,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Daniel Gracik,M,Czechia,CZE,2024,Paris,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,True,True
+Daniel Gracik,M,Czechia,CZE,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,True
+Miroslav Knedla,M,Czechia,CZE,2024,Paris,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,False,True

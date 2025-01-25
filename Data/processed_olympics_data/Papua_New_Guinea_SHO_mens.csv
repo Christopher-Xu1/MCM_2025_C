@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Joseph Chan,M,Papua New Guinea,PNG,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Trevan Clough,M,Papua New Guinea,PNG,1976,Montreal,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True
-Trevan Clough,M,Papua New Guinea,PNG,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Joseph Chan,M,Papua New Guinea,PNG,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Trevan Clough,M,Papua New Guinea,PNG,1976,Montreal,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True,True
+Trevan Clough,M,Papua New Guinea,PNG,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True,False

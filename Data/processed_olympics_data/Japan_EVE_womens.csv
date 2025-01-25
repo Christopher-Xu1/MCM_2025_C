@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kikuko (basugi-),F,Japan,JPN,1964,Tokyo,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Kikuko (basugi-),F,Japan,JPN,1964,Tokyo,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Kikuko (basugi-),F,Japan,JPN,1972,Munich,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Kikuko (basugi-),F,Japan,JPN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Yuko Kitai,F,Japan,JPN,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Yuko Kitai,F,Japan,JPN,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Yuko Kitai,F,Japan,JPN,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Akane Kuroki,F,Japan,JPN,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Akane Kuroki,F,Japan,JPN,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Naoko Sakurai,F,Japan,JPN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
-Reiko Takeda,F,Japan,JPN,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Reiko Takeda,F,Japan,JPN,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Reiko Takeda,F,Japan,JPN,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Yuka Watanabe,F,Japan,JPN,2004,Athina,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Yuka Watanabe,F,Japan,JPN,2004,Athina,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Mieko Yagi,F,Japan,JPN,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kikuko (basugi-),F,Japan,JPN,1964,Tokyo,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Kikuko (basugi-),F,Japan,JPN,1964,Tokyo,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True
+Kikuko (basugi-),F,Japan,JPN,1972,Munich,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False
+Kikuko (basugi-),F,Japan,JPN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False
+Yuko Kitai,F,Japan,JPN,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Yuko Kitai,F,Japan,JPN,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False
+Yuko Kitai,F,Japan,JPN,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,False
+Akane Kuroki,F,Japan,JPN,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Akane Kuroki,F,Japan,JPN,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True
+Naoko Sakurai,F,Japan,JPN,1988,Seoul,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True
+Reiko Takeda,F,Japan,JPN,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Reiko Takeda,F,Japan,JPN,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,False
+Reiko Takeda,F,Japan,JPN,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,False
+Yuka Watanabe,F,Japan,JPN,2004,Athina,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Yuka Watanabe,F,Japan,JPN,2004,Athina,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Mieko Yagi,F,Japan,JPN,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True

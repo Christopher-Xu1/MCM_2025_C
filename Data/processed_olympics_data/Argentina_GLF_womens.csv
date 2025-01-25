@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Magdalena Simmermacher,F,Argentina,ARG,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Magdalena Simmermacher,F,Argentina,ARG,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True

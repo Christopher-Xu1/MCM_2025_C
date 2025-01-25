@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Juan Zazueta,M,Mexico,MEX,1936,Berlin,Polo,Polo Men's Polo,Bronze,Polo,POL,False
-Julio Lujn,M,Mexico,MEX,1936,Berlin,Polo,Polo Men's Polo,Bronze,Polo,POL,False
-Antonio Castillo,M,Mexico,MEX,1936,Berlin,Polo,Polo Men's Polo,Bronze,Polo,POL,False
-Alberto Sesma,M,Mexico,MEX,1936,Berlin,Polo,Polo Men's Polo,Bronze,Polo,POL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Juan Zazueta,M,Mexico,MEX,1936,Berlin,Polo,Polo Men's Polo,Bronze,Polo,POL,False,True
+Julio Lujn,M,Mexico,MEX,1936,Berlin,Polo,Polo Men's Polo,Bronze,Polo,POL,False,True
+Antonio Castillo,M,Mexico,MEX,1936,Berlin,Polo,Polo Men's Polo,Bronze,Polo,POL,False,True
+Alberto Sesma,M,Mexico,MEX,1936,Berlin,Polo,Polo Men's Polo,Bronze,Polo,POL,False,True

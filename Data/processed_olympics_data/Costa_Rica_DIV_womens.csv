@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Daphne Hernndez,F,Costa Rica,CRC,1996,Atlanta,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Daphne Hernndez,F,Costa Rica,CRC,1996,Atlanta,Diving,Diving Women's Platform,No medal,Diving,DIV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Daphne Hernndez,F,Costa Rica,CRC,1996,Atlanta,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Daphne Hernndez,F,Costa Rica,CRC,1996,Atlanta,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True

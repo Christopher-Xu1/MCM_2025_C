@@ -1,36 +1,36 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yael Arad,F,Israel,ISR,1992,Barcelona,Judo,Judo Women's Half-Middleweight,Silver,Judo,JUD,True
-Yael Arad,F,Israel,ISR,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Orit Bar-on,F,Israel,ISR,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Linda Bolder,F,Israel,ISR,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Gili Cohen,F,Israel,ISR,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Michal Feinblat,F,Israel,ISR,2004,Athina,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Yarden Gerbi,F,Israel,ISR,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,Bronze,Judo,JUD,False
-Shira Rishony,F,Israel,ISR,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Alice Schlesinger,F,Israel,ISR,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Alice Schlesinger,F,Israel,ISR,2012,London,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Gili Cohen,F,Israel,ISR,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,True
-Raz Hershko,F,Israel,ISR,2020,Tokyo,Judo,Women +78 kg,No medal,Women,JUD,True
-Raz Hershko,F,Israel,ISR,2020,Tokyo,Judo,Mixed Team,Bronze,Mixed,JUD,True
-Inbar Lanir,F,Israel,ISR,2020,Tokyo,Judo,Women -78 kg,No medal,Women,JUD,True
-Inbar Lanir,F,Israel,ISR,2020,Tokyo,Judo,Mixed Team,Bronze,Mixed,JUD,True
-Timna Nelson,F,Israel,ISR,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,True
-Timna Nelson,F,Israel,ISR,2020,Tokyo,Judo,Mixed Team,Bronze,Mixed,JUD,True
-Shira Rishony,F,Israel,ISR,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,True
-Shira Rishony,F,Israel,ISR,2020,Tokyo,Judo,Mixed Team,Bronze,Mixed,JUD,True
-Gili Sharir,F,Israel,ISR,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,True
-Gili Sharir,F,Israel,ISR,2020,Tokyo,Judo,Mixed Team,Bronze,Mixed,JUD,True
-Shira Rishony,F,Israel,ISR,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,True
-Shira Rishony,F,Israel,ISR,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Gefen Primo,F,Israel,ISR,2024,Paris,Judo,Women -52 kg,No medal,Women,JUD,True
-Gefen Primo,F,Israel,ISR,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Timna Nelson,F,Israel,ISR,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,True
-Timna Nelson,F,Israel,ISR,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Gili Sharir,F,Israel,ISR,2024,Paris,Judo,Women -63 kg,No medal,Women,JUD,True
-Gili Sharir,F,Israel,ISR,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Maya Goshen,F,Israel,ISR,2024,Paris,Judo,Women -70 kg,No medal,Women,JUD,True
-Maya Goshen,F,Israel,ISR,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Inbar Lanir,F,Israel,ISR,2024,Paris,Judo,Women -78 kg,Silver,Women,JUD,True
-Inbar Lanir,F,Israel,ISR,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Raz Hershko,F,Israel,ISR,2024,Paris,Judo,Women +78 kg,Silver,Women,JUD,True
-Raz Hershko,F,Israel,ISR,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yael Arad,F,Israel,ISR,1992,Barcelona,Judo,Judo Women's Half-Middleweight,Silver,Judo,JUD,True,True
+Yael Arad,F,Israel,ISR,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False
+Orit Bar-on,F,Israel,ISR,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Linda Bolder,F,Israel,ISR,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Gili Cohen,F,Israel,ISR,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,True
+Michal Feinblat,F,Israel,ISR,2004,Athina,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Yarden Gerbi,F,Israel,ISR,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,Bronze,Judo,JUD,False,True
+Shira Rishony,F,Israel,ISR,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,True
+Alice Schlesinger,F,Israel,ISR,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,True
+Alice Schlesinger,F,Israel,ISR,2012,London,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False
+Gili Cohen,F,Israel,ISR,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,True,False
+Raz Hershko,F,Israel,ISR,2020,Tokyo,Judo,Women +78 kg,No medal,Women,JUD,True,True
+Raz Hershko,F,Israel,ISR,2020,Tokyo,Judo,Mixed Team,Bronze,Mixed,JUD,True,True
+Inbar Lanir,F,Israel,ISR,2020,Tokyo,Judo,Women -78 kg,No medal,Women,JUD,True,True
+Inbar Lanir,F,Israel,ISR,2020,Tokyo,Judo,Mixed Team,Bronze,Mixed,JUD,True,True
+Timna Nelson,F,Israel,ISR,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,True,True
+Timna Nelson,F,Israel,ISR,2020,Tokyo,Judo,Mixed Team,Bronze,Mixed,JUD,True,True
+Shira Rishony,F,Israel,ISR,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,True,False
+Shira Rishony,F,Israel,ISR,2020,Tokyo,Judo,Mixed Team,Bronze,Mixed,JUD,True,False
+Gili Sharir,F,Israel,ISR,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,True,True
+Gili Sharir,F,Israel,ISR,2020,Tokyo,Judo,Mixed Team,Bronze,Mixed,JUD,True,True
+Shira Rishony,F,Israel,ISR,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,True,False
+Shira Rishony,F,Israel,ISR,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,False
+Gefen Primo,F,Israel,ISR,2024,Paris,Judo,Women -52 kg,No medal,Women,JUD,True,True
+Gefen Primo,F,Israel,ISR,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Timna Nelson,F,Israel,ISR,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,True,False
+Timna Nelson,F,Israel,ISR,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,False
+Gili Sharir,F,Israel,ISR,2024,Paris,Judo,Women -63 kg,No medal,Women,JUD,True,False
+Gili Sharir,F,Israel,ISR,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,False
+Maya Goshen,F,Israel,ISR,2024,Paris,Judo,Women -70 kg,No medal,Women,JUD,True,True
+Maya Goshen,F,Israel,ISR,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Inbar Lanir,F,Israel,ISR,2024,Paris,Judo,Women -78 kg,Silver,Women,JUD,True,False
+Inbar Lanir,F,Israel,ISR,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,False
+Raz Hershko,F,Israel,ISR,2024,Paris,Judo,Women +78 kg,Silver,Women,JUD,True,False
+Raz Hershko,F,Israel,ISR,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,False

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chiara Costa,F,Senegal,SEN,2020,Tokyo,Shooting,Skeet Women,No medal,Skeet,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chiara Costa,F,Senegal,SEN,2020,Tokyo,Shooting,Skeet Women,No medal,Skeet,SHO,False,True

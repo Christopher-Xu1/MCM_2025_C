@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-James Palmer,M,Canada,CAN,2020,Tokyo,Cycling BMX Racing,Men,No medal,Men,BMX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+James Palmer,M,Canada,CAN,2020,Tokyo,Cycling BMX Racing,Men,No medal,Men,BMX,False,True

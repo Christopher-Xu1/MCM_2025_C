@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abdul Faisal,M,Indonesia,INA,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,False
-John Gunawan,M,Indonesia,INA,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Robert Lucas,M,Indonesia,INA,1968,Mexico City,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-I Sulaksana,M,Indonesia,INA,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-I Sulaksana,M,Indonesia,INA,2000,Sydney,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-I Sulaksana,M,Indonesia,INA,2004,Athina,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-I Sulaksana,M,Indonesia,INA,2008,Beijing,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Eddy (suprapto),M,Indonesia,INA,1988,Seoul,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Tan Sian,M,Indonesia,INA,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abdul Faisal,M,Indonesia,INA,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,False,True
+John Gunawan,M,Indonesia,INA,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Robert Lucas,M,Indonesia,INA,1968,Mexico City,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+I Sulaksana,M,Indonesia,INA,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,True
+I Sulaksana,M,Indonesia,INA,2000,Sydney,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+I Sulaksana,M,Indonesia,INA,2004,Athina,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+I Sulaksana,M,Indonesia,INA,2008,Beijing,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Eddy (suprapto),M,Indonesia,INA,1988,Seoul,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Tan Sian,M,Indonesia,INA,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True

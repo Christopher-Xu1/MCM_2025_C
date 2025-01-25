@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jeffrey Whaley,M,Canada,CAN,2024,Paris,Cycling BMX Freestyle,Men's Park,No medal,Men's,BMF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jeffrey Whaley,M,Canada,CAN,2024,Paris,Cycling BMX Freestyle,Men's Park,No medal,Men's,BMF,False,True

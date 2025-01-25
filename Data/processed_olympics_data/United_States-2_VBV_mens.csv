@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dain Blanton,M,United States-2,USA,2004,Athina,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Phillip Dalhausser,M,United States-2,USA,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Michael Dodd,M,United States-2,USA,1996,Atlanta,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Silver,Beach,VBV,False
-Jacob Gibb,M,United States-2,USA,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True
-Jacob Gibb,M,United States-2,USA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True
-Robert Jr.,M,United States-2,USA,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Jeff Nygaard,M,United States-2,USA,2004,Athina,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Casey Patterson,M,United States-2,USA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Todd Rogers,M,United States-2,USA,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Sean Rosenthal,M,United States-2,USA,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Michael Whitmarsh,M,United States-2,USA,1996,Atlanta,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Silver,Beach,VBV,False
-Kevin Wong,M,United States-2,USA,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dain Blanton,M,United States-2,USA,2004,Athina,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Phillip Dalhausser,M,United States-2,USA,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Michael Dodd,M,United States-2,USA,1996,Atlanta,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Silver,Beach,VBV,False,True
+Jacob Gibb,M,United States-2,USA,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True,True
+Jacob Gibb,M,United States-2,USA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True,False
+Robert Jr.,M,United States-2,USA,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Jeff Nygaard,M,United States-2,USA,2004,Athina,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Casey Patterson,M,United States-2,USA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Todd Rogers,M,United States-2,USA,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Sean Rosenthal,M,United States-2,USA,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Michael Whitmarsh,M,United States-2,USA,1996,Atlanta,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Silver,Beach,VBV,False,True
+Kevin Wong,M,United States-2,USA,2000,Sydney,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True

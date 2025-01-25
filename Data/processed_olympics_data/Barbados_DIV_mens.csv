@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Christopher Honey,M,Barbados,BAR,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Christopher Honey,M,Barbados,BAR,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True

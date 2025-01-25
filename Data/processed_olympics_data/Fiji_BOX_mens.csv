@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hector Hatch,M,Fiji,FIJ,1956,Melbourne,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Winston Hill,M,Fiji,FIJ,2016,Rio de Janeiro,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Isimeli Lesivakarua,M,Fiji,FIJ,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Thomas Schuster,M,Fiji,FIJ,1956,Melbourne,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Apete Temo,M,Fiji,FIJ,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hector Hatch,M,Fiji,FIJ,1956,Melbourne,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Winston Hill,M,Fiji,FIJ,2016,Rio de Janeiro,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Isimeli Lesivakarua,M,Fiji,FIJ,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Thomas Schuster,M,Fiji,FIJ,1956,Melbourne,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Apete Temo,M,Fiji,FIJ,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True

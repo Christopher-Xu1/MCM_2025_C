@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kyra Condie,F,United States,USA,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,False
-Brooke Raboutou,F,United States,USA,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,True
-Natalia Grossman,F,United States,USA,2024,Paris,Sport Climbing,Women's Boulder & Lead,No medal,Women's,CLB,False
-Emma Hunt,F,United States,USA,2024,Paris,Sport Climbing,Women's Speed,No medal,Women's,CLB,False
-Piper Kelly,F,United States,USA,2024,Paris,Sport Climbing,Women's Speed,No medal,Women's,CLB,False
-Brooke Raboutou,F,United States,USA,2024,Paris,Sport Climbing,Women's Boulder & Lead,Silver,Women's,CLB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kyra Condie,F,United States,USA,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,False,True
+Brooke Raboutou,F,United States,USA,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,True,True
+Natalia Grossman,F,United States,USA,2024,Paris,Sport Climbing,Women's Boulder & Lead,No medal,Women's,CLB,False,True
+Emma Hunt,F,United States,USA,2024,Paris,Sport Climbing,Women's Speed,No medal,Women's,CLB,False,True
+Piper Kelly,F,United States,USA,2024,Paris,Sport Climbing,Women's Speed,No medal,Women's,CLB,False,True
+Brooke Raboutou,F,United States,USA,2024,Paris,Sport Climbing,Women's Boulder & Lead,Silver,Women's,CLB,True,False

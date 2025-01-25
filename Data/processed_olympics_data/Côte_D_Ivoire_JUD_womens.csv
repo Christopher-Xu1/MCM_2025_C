@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abzetta Dabonne,F,Côte D'Ivoire,CIV,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abzetta Dabonne,F,Côte D'Ivoire,CIV,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,False,True

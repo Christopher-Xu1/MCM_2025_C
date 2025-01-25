@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chen Zihe,F,China-1,CHN,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,Silver,Table,TTE,False
-Deng Yaping,F,China-1,CHN,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,Gold,Table,TTE,False
-Jun (-chang),F,China-1,CHN,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,Silver,Table,TTE,False
-Li Ju,F,China-1,CHN,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,Gold,Table,TTE,False
-Qiao Hong,F,China-1,CHN,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,Gold,Table,TTE,False
-Wang Nan,F,China-1,CHN,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,Gold,Table,TTE,True
-Wang Nan,F,China-1,CHN,2004,Athina,Table Tennis,Table Tennis Women's Doubles,Gold,Table,TTE,True
-Zhang Yining,F,China-1,CHN,2004,Athina,Table Tennis,Table Tennis Women's Doubles,Gold,Table,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chen Zihe,F,China-1,CHN,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,Silver,Table,TTE,False,True
+Deng Yaping,F,China-1,CHN,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,Gold,Table,TTE,False,True
+Jun (-chang),F,China-1,CHN,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,Silver,Table,TTE,False,True
+Li Ju,F,China-1,CHN,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,Gold,Table,TTE,False,True
+Qiao Hong,F,China-1,CHN,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,Gold,Table,TTE,False,True
+Wang Nan,F,China-1,CHN,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,Gold,Table,TTE,True,True
+Wang Nan,F,China-1,CHN,2004,Athina,Table Tennis,Table Tennis Women's Doubles,Gold,Table,TTE,True,False
+Zhang Yining,F,China-1,CHN,2004,Athina,Table Tennis,Table Tennis Women's Doubles,Gold,Table,TTE,False,True

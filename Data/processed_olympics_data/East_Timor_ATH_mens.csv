@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-de Felisberto,M,East Timor,TLS,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+de Felisberto,M,East Timor,TLS,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,False,True

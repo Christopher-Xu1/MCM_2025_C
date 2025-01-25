@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chloe Dygert,F,United States,USA,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,True
-Chloe Dygert,F,United States,USA,2020,Tokyo,Cycling Road,Women's Individual Time Trial,No medal,Women's,CRD,True
-Amber Neben,F,United States,USA,2020,Tokyo,Cycling Road,Women's Individual Time Trial,No medal,Women's,CRD,False
-Coryn Rivera,F,United States,USA,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
-Leah Thomas,F,United States,USA,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
-Ruth Winder,F,United States,USA,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chloe Dygert,F,United States,USA,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,True,True
+Chloe Dygert,F,United States,USA,2020,Tokyo,Cycling Road,Women's Individual Time Trial,No medal,Women's,CRD,True,True
+Amber Neben,F,United States,USA,2020,Tokyo,Cycling Road,Women's Individual Time Trial,No medal,Women's,CRD,False,True
+Coryn Rivera,F,United States,USA,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True
+Leah Thomas,F,United States,USA,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True
+Ruth Winder,F,United States,USA,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True

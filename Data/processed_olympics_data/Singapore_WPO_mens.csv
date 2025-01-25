@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lionel Chee,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Gan Teck,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Ting Lim,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Lim Pan,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Oh Hock,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Tan Bock,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Thio Hock,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Alexander Wolters,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Wiebe Wolters,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Oon Yeo,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lionel Chee,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Gan Teck,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Ting Lim,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Lim Pan,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Oh Hock,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Tan Bock,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Thio Hock,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Alexander Wolters,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Wiebe Wolters,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Oon Yeo,M,Singapore,SGP,1956,Melbourne,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True

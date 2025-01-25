@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nina Bergsvik,F,Norway,NOR,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
-Hege Brannsten,F,Norway,NOR,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Hege Brannsten,F,Norway,NOR,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Mira Falch-),F,Norway,NOR,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False
-Wenche -kvven),F,Norway,NOR,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
-Kari Ofstad,F,Norway,NOR,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Kari Ofstad,F,Norway,NOR,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Ingeborg Rasmussen,F,Norway,NOR,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Ingeborg Rasmussen,F,Norway,NOR,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Ingeborg Rasmussen,F,Norway,NOR,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Ingeborg Rasmussen,F,Norway,NOR,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Tone (-ritsland),F,Norway,NOR,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
-Anne Wahl,F,Norway,NOR,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Anne Wahl,F,Norway,NOR,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nina Bergsvik,F,Norway,NOR,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True
+Hege Brannsten,F,Norway,NOR,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Hege Brannsten,F,Norway,NOR,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Mira Falch-),F,Norway,NOR,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False,True
+Wenche -kvven),F,Norway,NOR,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True
+Kari Ofstad,F,Norway,NOR,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Kari Ofstad,F,Norway,NOR,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Ingeborg Rasmussen,F,Norway,NOR,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Ingeborg Rasmussen,F,Norway,NOR,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Ingeborg Rasmussen,F,Norway,NOR,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Ingeborg Rasmussen,F,Norway,NOR,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,False
+Tone (-ritsland),F,Norway,NOR,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True
+Anne Wahl,F,Norway,NOR,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Anne Wahl,F,Norway,NOR,1984,Los Angeles,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True

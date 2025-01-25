@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marjolijn Both,F,Netherlands,NED,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Marjolijn Both,F,Netherlands,NED,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Catharina Eijken,F,Netherlands,NED,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Catharina Eijken,F,Netherlands,NED,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Maria Engelen,F,Netherlands,NED,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Maria Engelen,F,Netherlands,NED,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Marjolein Philipsen,F,Netherlands,NED,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False
-Frouke Beek,F,Netherlands,NED,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False
-Bianca Velden,F,Netherlands,NED,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Bianca Velden,F,Netherlands,NED,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Sonja Velden,F,Netherlands,NED,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Sonja Velden,F,Netherlands,NED,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Tamara Zwart,F,Netherlands,NED,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Tamara Zwart,F,Netherlands,NED,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-de Bregje,F,Netherlands,NED,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True
-de Noortje,F,Netherlands,NED,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True
-de Noortje,F,Netherlands,NED,2024,Paris,Artistic Swimming,Duet,Bronze,Duet,SWA,True
-de Bregje,F,Netherlands,NED,2024,Paris,Artistic Swimming,Duet,Bronze,Duet,SWA,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marjolijn Both,F,Netherlands,NED,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Marjolijn Both,F,Netherlands,NED,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Catharina Eijken,F,Netherlands,NED,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Catharina Eijken,F,Netherlands,NED,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Maria Engelen,F,Netherlands,NED,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Maria Engelen,F,Netherlands,NED,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Marjolein Philipsen,F,Netherlands,NED,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False,True
+Frouke Beek,F,Netherlands,NED,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False,True
+Bianca Velden,F,Netherlands,NED,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Bianca Velden,F,Netherlands,NED,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Sonja Velden,F,Netherlands,NED,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Sonja Velden,F,Netherlands,NED,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Tamara Zwart,F,Netherlands,NED,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Tamara Zwart,F,Netherlands,NED,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+de Bregje,F,Netherlands,NED,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True,True
+de Noortje,F,Netherlands,NED,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True,True
+de Noortje,F,Netherlands,NED,2024,Paris,Artistic Swimming,Duet,Bronze,Duet,SWA,True,False
+de Bregje,F,Netherlands,NED,2024,Paris,Artistic Swimming,Duet,Bronze,Duet,SWA,True,False

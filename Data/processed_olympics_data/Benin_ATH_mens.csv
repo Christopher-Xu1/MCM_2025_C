@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eric Agueh,M,Benin,BEN,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Eric Agueh,M,Benin,BEN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Pascal Aho,M,Benin,BEN,1980,Moskva,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Pascal Aho,M,Benin,BEN,1980,Moskva,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Souhalia Alamou,M,Benin,BEN,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Issa Alassane-oussni,M,Benin,BEN,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Issa Alassane-oussni,M,Benin,BEN,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Issa Alassane-oussni,M,Benin,BEN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Issa Alassane-oussni,M,Benin,BEN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Amadou Alimi,M,Benin,BEN,1980,Moskva,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Adam Assimi,M,Benin,BEN,1980,Moskva,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Henri Dagba,M,Benin,BEN,1980,Moskva,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False
-Pascal Dangbo,M,Benin,BEN,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Pascal Dangbo,M,Benin,BEN,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Pascal Dangbo,M,Benin,BEN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Pascal Dangbo,M,Benin,BEN,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Inoussa Dangou,M,Benin,BEN,1980,Moskva,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,False
-Jos Brice,M,Benin,BEN,1988,Seoul,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,False
-Damien Degboe,M,Benin,BEN,1980,Moskva,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Arcadius Fanou,M,Benin,BEN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Mathieu Fousseni,M,Benin,BEN,2008,Beijing,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Mathieu Fousseni,M,Benin,BEN,2012,London,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Lopold Hounkanrin,M,Benin,BEN,1980,Moskva,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Thophile Hounou,M,Benin,BEN,1980,Moskva,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,False
-Ibrahima Idrissou,M,Benin,BEN,1972,Munich,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Didier Kiki,M,Benin,BEN,2016,Rio de Janeiro,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Patrice Mahoulikponto,M,Benin,BEN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Fortune Ogouchi,M,Benin,BEN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Idrissou Tamimou,M,Benin,BEN,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Idrissou Tamimou,M,Benin,BEN,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Dossou Vignissy,M,Benin,BEN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Didier Kiki,M,Benin,BEN,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,True
-Didier Kiki,M,Benin,BEN,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eric Agueh,M,Benin,BEN,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Eric Agueh,M,Benin,BEN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Pascal Aho,M,Benin,BEN,1980,Moskva,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Pascal Aho,M,Benin,BEN,1980,Moskva,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Souhalia Alamou,M,Benin,BEN,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Issa Alassane-oussni,M,Benin,BEN,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Issa Alassane-oussni,M,Benin,BEN,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Issa Alassane-oussni,M,Benin,BEN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Issa Alassane-oussni,M,Benin,BEN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Amadou Alimi,M,Benin,BEN,1980,Moskva,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Adam Assimi,M,Benin,BEN,1980,Moskva,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Henri Dagba,M,Benin,BEN,1980,Moskva,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False,True
+Pascal Dangbo,M,Benin,BEN,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Pascal Dangbo,M,Benin,BEN,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Pascal Dangbo,M,Benin,BEN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Pascal Dangbo,M,Benin,BEN,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Inoussa Dangou,M,Benin,BEN,1980,Moskva,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,False,True
+Jos Brice,M,Benin,BEN,1988,Seoul,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,False,True
+Damien Degboe,M,Benin,BEN,1980,Moskva,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Arcadius Fanou,M,Benin,BEN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Mathieu Fousseni,M,Benin,BEN,2008,Beijing,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Mathieu Fousseni,M,Benin,BEN,2012,London,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,False
+Lopold Hounkanrin,M,Benin,BEN,1980,Moskva,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Thophile Hounou,M,Benin,BEN,1980,Moskva,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,False,True
+Ibrahima Idrissou,M,Benin,BEN,1972,Munich,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Didier Kiki,M,Benin,BEN,2016,Rio de Janeiro,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Patrice Mahoulikponto,M,Benin,BEN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Fortune Ogouchi,M,Benin,BEN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Idrissou Tamimou,M,Benin,BEN,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Idrissou Tamimou,M,Benin,BEN,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Dossou Vignissy,M,Benin,BEN,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Didier Kiki,M,Benin,BEN,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,True,False
+Didier Kiki,M,Benin,BEN,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,True,False

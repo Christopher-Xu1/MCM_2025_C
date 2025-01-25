@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Oluwayomi Wiekliffe,M,Nigeria-1,NGR,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Monday Merotohun,M,Nigeria-1,NGR,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Atanda Musa,M,Nigeria-1,NGR,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Titus Omotara,M,Nigeria-1,NGR,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Segun Toriola,M,Nigeria-1,NGR,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Segun Toriola,M,Nigeria-1,NGR,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Oluwayomi Wiekliffe,M,Nigeria-1,NGR,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Monday Merotohun,M,Nigeria-1,NGR,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Atanda Musa,M,Nigeria-1,NGR,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Titus Omotara,M,Nigeria-1,NGR,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Segun Toriola,M,Nigeria-1,NGR,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Segun Toriola,M,Nigeria-1,NGR,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False

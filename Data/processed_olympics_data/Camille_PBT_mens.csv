@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ernest Thubron,M,Camille,FRA,1908,London,Motorboating,Motorboating Mixed A-Class (Open),Gold,Motorboating,PBT,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ernest Thubron,M,Camille,FRA,1908,London,Motorboating,Motorboating Mixed A-Class (Open),Gold,Motorboating,PBT,False,True

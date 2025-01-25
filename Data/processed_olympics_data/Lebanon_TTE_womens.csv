@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Larissa Chouaib,F,Lebanon,LIB,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Tvin Moumjoghlian,F,Lebanon,LIB,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Mariana Sahakian,F,Lebanon,LIB,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Mariana Sahakian,F,Lebanon,LBN,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Larissa Chouaib,F,Lebanon,LIB,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Tvin Moumjoghlian,F,Lebanon,LIB,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Mariana Sahakian,F,Lebanon,LIB,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Mariana Sahakian,F,Lebanon,LBN,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False

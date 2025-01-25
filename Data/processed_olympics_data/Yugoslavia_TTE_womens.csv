@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jasna -rather),F,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jasna -rather),F,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,Bronze,Table,TTE,True
-Gordana Perkuin,F,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Gordana Perkuin,F,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,Bronze,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jasna -rather),F,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Jasna -rather),F,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,Bronze,Table,TTE,True,True
+Gordana Perkuin,F,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Gordana Perkuin,F,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,Bronze,Table,TTE,True,True

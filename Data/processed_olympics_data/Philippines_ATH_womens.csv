@@ -1,42 +1,42 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nenita Adan,F,Philippines,PHI,1988,Seoul,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,False
-Amelita (-saberon),F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Amelita (-saberon),F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Amelita (-saberon),F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Visitacin Ribagorda,F,Philippines,PHI,1960,Roma,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False
-Loretta Barcenas,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Lerma Bulauitan-gabito,F,Philippines,PHI,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Lerma Bulauitan-gabito,F,Philippines,PHI,2004,Athina,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Manolita Dopeno,F,Philippines,PHI,1956,Melbourne,Athletics,Athletics Women's 80 metres Hurdles,No medal,Athletics,ATH,False
-Agrippina Cruz,F,Philippines,PHI,1984,Los Angeles,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True
-Agrippina Cruz,F,Philippines,PHI,1988,Seoul,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Josephine Via,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True
-Josephine Via,F,Philippines,PHI,1968,Mexico City,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True
-Josephine Via,F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True
-Lydia Mercado,F,Philippines,PHI,1984,Los Angeles,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Lydia Mercado,F,Philippines,PHI,1984,Los Angeles,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Lydia Mercado,F,Philippines,PHI,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Lolita Lagrosas,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True
-Lolita Lagrosas,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Lolita Lagrosas,F,Philippines,PHI,1968,Mexico City,Athletics,Athletics Women's Pentathlon,No medal,Athletics,ATH,True
-Aida Mantawel,F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Aida Mantawel,F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Aida Plares,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Elma (-posadas),F,Philippines,PHI,1984,Los Angeles,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Elma (-posadas),F,Philippines,PHI,1996,Atlanta,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Nelly Restar,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Lucila (-tolentino),F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Lucila (-tolentino),F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Francisca Sanopal,F,Philippines,PHI,1956,Melbourne,Athletics,Athletics Women's 80 metres Hurdles,No medal,Athletics,ATH,False
-Mona Sulaiman,F,Philippines,PHI,1960,Roma,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Mona Sulaiman,F,Philippines,PHI,1960,Roma,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Mona Sulaiman,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Mona Sulaiman,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Mona Sulaiman,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Mary Tabal,F,Philippines,PHI,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Carmen Torres,F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Marestella Torres,F,Philippines,PHI,2008,Beijing,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Marestella Torres,F,Philippines,PHI,2012,London,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Marestella Torres,F,Philippines,PHI,2016,Rio de Janeiro,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Marie Knott,F,Philippines,PHI,2020,Tokyo,Athletics,Women's 200m,No medal,Women's,ATH,False
-Lauren Hoffman,F,Philippines,PHI,2024,Paris,Athletics,Women's 400m Hurdles,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nenita Adan,F,Philippines,PHI,1988,Seoul,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+Amelita (-saberon),F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Amelita (-saberon),F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Amelita (-saberon),F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Visitacin Ribagorda,F,Philippines,PHI,1960,Roma,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False,True
+Loretta Barcenas,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Lerma Bulauitan-gabito,F,Philippines,PHI,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Lerma Bulauitan-gabito,F,Philippines,PHI,2004,Athina,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,False
+Manolita Dopeno,F,Philippines,PHI,1956,Melbourne,Athletics,Athletics Women's 80 metres Hurdles,No medal,Athletics,ATH,False,True
+Agrippina Cruz,F,Philippines,PHI,1984,Los Angeles,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True,True
+Agrippina Cruz,F,Philippines,PHI,1988,Seoul,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,False
+Josephine Via,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True,True
+Josephine Via,F,Philippines,PHI,1968,Mexico City,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True,False
+Josephine Via,F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True,False
+Lydia Mercado,F,Philippines,PHI,1984,Los Angeles,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Lydia Mercado,F,Philippines,PHI,1984,Los Angeles,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Lydia Mercado,F,Philippines,PHI,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Lolita Lagrosas,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True,True
+Lolita Lagrosas,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,True
+Lolita Lagrosas,F,Philippines,PHI,1968,Mexico City,Athletics,Athletics Women's Pentathlon,No medal,Athletics,ATH,True,False
+Aida Mantawel,F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Aida Mantawel,F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Aida Plares,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Elma (-posadas),F,Philippines,PHI,1984,Los Angeles,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,True
+Elma (-posadas),F,Philippines,PHI,1996,Atlanta,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,False
+Nelly Restar,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Lucila (-tolentino),F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,True
+Lucila (-tolentino),F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Francisca Sanopal,F,Philippines,PHI,1956,Melbourne,Athletics,Athletics Women's 80 metres Hurdles,No medal,Athletics,ATH,False,True
+Mona Sulaiman,F,Philippines,PHI,1960,Roma,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Mona Sulaiman,F,Philippines,PHI,1960,Roma,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Mona Sulaiman,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Mona Sulaiman,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Mona Sulaiman,F,Philippines,PHI,1964,Tokyo,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Mary Tabal,F,Philippines,PHI,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Carmen Torres,F,Philippines,PHI,1972,Munich,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Marestella Torres,F,Philippines,PHI,2008,Beijing,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,True
+Marestella Torres,F,Philippines,PHI,2012,London,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,False
+Marestella Torres,F,Philippines,PHI,2016,Rio de Janeiro,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,False
+Marie Knott,F,Philippines,PHI,2020,Tokyo,Athletics,Women's 200m,No medal,Women's,ATH,False,True
+Lauren Hoffman,F,Philippines,PHI,2024,Paris,Athletics,Women's 400m Hurdles,No medal,Women's,ATH,False,True

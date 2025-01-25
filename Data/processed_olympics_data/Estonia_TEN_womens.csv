@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maret Ani,F,Estonia,EST,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Maret Ani,F,Estonia,EST,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Maret Ani,F,Estonia,EST,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Kaia Kanepi,F,Estonia,EST,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Kaia Kanepi,F,Estonia,EST,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Kaia Kanepi,F,Estonia,EST,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Kaia Kanepi,F,Estonia,EST,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Anett Kontaveit,F,Estonia,EST,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maret Ani,F,Estonia,EST,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Maret Ani,F,Estonia,EST,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Maret Ani,F,Estonia,EST,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Kaia Kanepi,F,Estonia,EST,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Kaia Kanepi,F,Estonia,EST,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Kaia Kanepi,F,Estonia,EST,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Kaia Kanepi,F,Estonia,EST,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Anett Kontaveit,F,Estonia,EST,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False,True

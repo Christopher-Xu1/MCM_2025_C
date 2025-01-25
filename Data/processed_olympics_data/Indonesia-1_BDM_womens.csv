@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aadjijatmiko H.,F,Indonesia-1,INA,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Aadjijatmiko H.,F,Indonesia-1,INA,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Lilyana Natsir,F,Indonesia-1,INA,2008,Beijing,Badminton,Badminton Mixed Doubles,Silver,Badminton,BDM,True
-Lilyana Natsir,F,Indonesia-1,INA,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,Gold,Badminton,BDM,True
-Lili Tampi,F,Indonesia-1,INA,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Lili Tampi,F,Indonesia-1,INA,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Eti (-gunawan),F,Indonesia-1,INA,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Minarti Timur,F,Indonesia-1,INA,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Minarti Timur,F,Indonesia-1,INA,2000,Sydney,Badminton,Badminton Mixed Doubles,Silver,Badminton,BDM,True
-Cynthia Tuwankotta,F,Indonesia-1,INA,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Eny Widiowati,F,Indonesia-1,INA,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aadjijatmiko H.,F,Indonesia-1,INA,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Aadjijatmiko H.,F,Indonesia-1,INA,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Lilyana Natsir,F,Indonesia-1,INA,2008,Beijing,Badminton,Badminton Mixed Doubles,Silver,Badminton,BDM,True,True
+Lilyana Natsir,F,Indonesia-1,INA,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,Gold,Badminton,BDM,True,False
+Lili Tampi,F,Indonesia-1,INA,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Lili Tampi,F,Indonesia-1,INA,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Eti (-gunawan),F,Indonesia-1,INA,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Minarti Timur,F,Indonesia-1,INA,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Minarti Timur,F,Indonesia-1,INA,2000,Sydney,Badminton,Badminton Mixed Doubles,Silver,Badminton,BDM,True,False
+Cynthia Tuwankotta,F,Indonesia-1,INA,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Eny Widiowati,F,Indonesia-1,INA,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True

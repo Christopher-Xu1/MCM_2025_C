@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maurice Carton,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Chantriaux,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Paul Cocuet,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Jules Demar,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Albert Dorlia,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Guilbert,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Lucien Martinet,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Maxime Waleff,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maurice Carton,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Chantriaux,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Paul Cocuet,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Jules Demar,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Albert Dorlia,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Guilbert,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Lucien Martinet,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Maxime Waleff,M,Societ Nautique De La Marne,FRA,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True

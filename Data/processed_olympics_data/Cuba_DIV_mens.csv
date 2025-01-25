@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jess Martnez,M,Cuba,CUB,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Jeinkler Manso,M,Cuba,CUB,2008,Beijing,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Jeinkler Manso,M,Cuba,CUB,2012,London,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Jeinkler Manso,M,Cuba,CUB,2012,London,Diving,Diving Men's Synchronized Platform,No medal,Diving,DIV,True
-Jorge Garca,M,Cuba,CUB,2004,Athina,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Jorge Garca,M,Cuba,CUB,2004,Athina,Diving,Diving Men's Synchronized Springboard,No medal,Diving,DIV,True
-Jorge Garca,M,Cuba,CUB,2008,Beijing,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Jos Castillo,M,Cuba,CUB,1948,London,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Erick Lvarez,M,Cuba,CUB,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Erick Lvarez,M,Cuba,CUB,2004,Athina,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Erick Lvarez,M,Cuba,CUB,2004,Athina,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Erick Lvarez,M,Cuba,CUB,2004,Athina,Diving,Diving Men's Synchronized Springboard,No medal,Diving,DIV,True
-Erick Lvarez,M,Cuba,CUB,2008,Beijing,Diving,Diving Men's Synchronized Platform,No medal,Diving,DIV,True
-Jos Oliva,M,Cuba,CUB,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Jos Oliva,M,Cuba,CUB,2004,Athina,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Jos Oliva,M,Cuba,CUB,2008,Beijing,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Jos Oliva,M,Cuba,CUB,2008,Beijing,Diving,Diving Men's Synchronized Platform,No medal,Diving,DIV,True
-Jos Oliva,M,Cuba,CUB,2012,London,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Jos Oliva,M,Cuba,CUB,2012,London,Diving,Diving Men's Synchronized Platform,No medal,Diving,DIV,True
-Alberto Yera,M,Cuba,CUB,1968,Mexico City,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Alberto Yera,M,Cuba,CUB,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Jos Carratala,M,Cuba,CUB,1968,Mexico City,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Jos Carratala,M,Cuba,CUB,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Jorge Carballo,M,Cuba,CUB,2008,Beijing,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Rolando Pedreguera,M,Cuba,CUB,1980,Moskva,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Yoendris Salazar,M,Cuba,CUB,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jess Martnez,M,Cuba,CUB,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Jeinkler Manso,M,Cuba,CUB,2008,Beijing,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Jeinkler Manso,M,Cuba,CUB,2012,London,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Jeinkler Manso,M,Cuba,CUB,2012,London,Diving,Diving Men's Synchronized Platform,No medal,Diving,DIV,True,False
+Jorge Garca,M,Cuba,CUB,2004,Athina,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Jorge Garca,M,Cuba,CUB,2004,Athina,Diving,Diving Men's Synchronized Springboard,No medal,Diving,DIV,True,True
+Jorge Garca,M,Cuba,CUB,2008,Beijing,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Jos Castillo,M,Cuba,CUB,1948,London,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Erick Lvarez,M,Cuba,CUB,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Erick Lvarez,M,Cuba,CUB,2004,Athina,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Erick Lvarez,M,Cuba,CUB,2004,Athina,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Erick Lvarez,M,Cuba,CUB,2004,Athina,Diving,Diving Men's Synchronized Springboard,No medal,Diving,DIV,True,False
+Erick Lvarez,M,Cuba,CUB,2008,Beijing,Diving,Diving Men's Synchronized Platform,No medal,Diving,DIV,True,False
+Jos Oliva,M,Cuba,CUB,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Jos Oliva,M,Cuba,CUB,2004,Athina,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Jos Oliva,M,Cuba,CUB,2008,Beijing,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Jos Oliva,M,Cuba,CUB,2008,Beijing,Diving,Diving Men's Synchronized Platform,No medal,Diving,DIV,True,False
+Jos Oliva,M,Cuba,CUB,2012,London,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Jos Oliva,M,Cuba,CUB,2012,London,Diving,Diving Men's Synchronized Platform,No medal,Diving,DIV,True,False
+Alberto Yera,M,Cuba,CUB,1968,Mexico City,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Alberto Yera,M,Cuba,CUB,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Jos Carratala,M,Cuba,CUB,1968,Mexico City,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Jos Carratala,M,Cuba,CUB,1968,Mexico City,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Jorge Carballo,M,Cuba,CUB,2008,Beijing,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Rolando Pedreguera,M,Cuba,CUB,1980,Moskva,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Yoendris Salazar,M,Cuba,CUB,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True

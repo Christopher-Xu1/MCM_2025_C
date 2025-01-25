@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kokona Hiraki,F,Japan,JPN,2020,Tokyo,Skateboarding,Women's Park,Silver,Women's,SKB,False
-Funa Nakayama,F,Japan,JPN,2020,Tokyo,Skateboarding,Women's Street,Bronze,Women's,SKB,True
-Aori Nishimura,F,Japan,JPN,2020,Tokyo,Skateboarding,Women's Street,No medal,Women's,SKB,False
-Momiji Nishiya,F,Japan,JPN,2020,Tokyo,Skateboarding,Women's Street,Gold,Women's,SKB,False
-Misugu Okamoto,F,Japan,JPN,2020,Tokyo,Skateboarding,Women's Park,No medal,Women's,SKB,False
-Sakura Yosozumi,F,Japan,JPN,2020,Tokyo,Skateboarding,Women's Park,Gold,Women's,SKB,True
-Coco Yoshizawa,F,Japan,JPN,2024,Paris,Skateboarding,Women's Street,Gold,Women's,SKB,False
-Hinano Kusaki,F,Japan,JPN,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,False
-Liz Akama,F,Japan,JPN,2024,Paris,Skateboarding,Women's Street,Silver,Women's,SKB,False
-Cocona Hiraki,F,Japan,JPN,2024,Paris,Skateboarding,Women's Park,Silver,Women's,SKB,False
-Sakura Yosozumi,F,Japan,JPN,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,True
-Funa Nakayama,F,Japan,JPN,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kokona Hiraki,F,Japan,JPN,2020,Tokyo,Skateboarding,Women's Park,Silver,Women's,SKB,False,True
+Funa Nakayama,F,Japan,JPN,2020,Tokyo,Skateboarding,Women's Street,Bronze,Women's,SKB,True,True
+Aori Nishimura,F,Japan,JPN,2020,Tokyo,Skateboarding,Women's Street,No medal,Women's,SKB,False,True
+Momiji Nishiya,F,Japan,JPN,2020,Tokyo,Skateboarding,Women's Street,Gold,Women's,SKB,False,True
+Misugu Okamoto,F,Japan,JPN,2020,Tokyo,Skateboarding,Women's Park,No medal,Women's,SKB,False,True
+Sakura Yosozumi,F,Japan,JPN,2020,Tokyo,Skateboarding,Women's Park,Gold,Women's,SKB,True,True
+Coco Yoshizawa,F,Japan,JPN,2024,Paris,Skateboarding,Women's Street,Gold,Women's,SKB,False,True
+Hinano Kusaki,F,Japan,JPN,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,False,True
+Liz Akama,F,Japan,JPN,2024,Paris,Skateboarding,Women's Street,Silver,Women's,SKB,False,True
+Cocona Hiraki,F,Japan,JPN,2024,Paris,Skateboarding,Women's Park,Silver,Women's,SKB,False,True
+Sakura Yosozumi,F,Japan,JPN,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,True,False
+Funa Nakayama,F,Japan,JPN,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,True,False

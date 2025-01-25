@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Damir Fejzi,M,Serbia,SRB,2012,London,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False
-Lev Korneev,M,Serbia,SRB,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,False
-Stefan Takov,M,Serbia,SRB,2024,Paris,Taekwondo,Men -80kg,No medal,Men,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Damir Fejzi,M,Serbia,SRB,2012,London,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False,True
+Lev Korneev,M,Serbia,SRB,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,False,True
+Stefan Takov,M,Serbia,SRB,2024,Paris,Taekwondo,Men -80kg,No medal,Men,TKW,False,True

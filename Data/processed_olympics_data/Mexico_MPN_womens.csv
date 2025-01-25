@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Karla Rodrguez,F,Mexico,MEX,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Tamara Arroyos,F,Mexico,MEX,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Tamara Arroyos,F,Mexico,MEX,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Mariana Arceo,F,Mexico,MEX,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
-Mayan Oliver,F,Mexico,MEX,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
-Mayan Oliver,F,Mexico,MEX,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
-Mariana Arceo,F,Mexico,MEX,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Karla Rodrguez,F,Mexico,MEX,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Tamara Arroyos,F,Mexico,MEX,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,True
+Tamara Arroyos,F,Mexico,MEX,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Mariana Arceo,F,Mexico,MEX,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,True
+Mayan Oliver,F,Mexico,MEX,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,True
+Mayan Oliver,F,Mexico,MEX,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,False
+Mariana Arceo,F,Mexico,MEX,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,False

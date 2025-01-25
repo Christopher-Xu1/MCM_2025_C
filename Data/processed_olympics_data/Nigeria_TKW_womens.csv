@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Princess Dudu,F,Nigeria,NGR,2004,Athina,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False
-Oluchi Anyanacho,F,Nigeria,NGR,2020,Tokyo,Taekwondo,Women -67kg,No medal,Women,TKW,True
-Oluchi Anyanacho,F,Nigeria,NGR,2024,Paris,Taekwondo,Women -67kg,No medal,Women,TKW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Princess Dudu,F,Nigeria,NGR,2004,Athina,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False,True
+Oluchi Anyanacho,F,Nigeria,NGR,2020,Tokyo,Taekwondo,Women -67kg,No medal,Women,TKW,True,True
+Oluchi Anyanacho,F,Nigeria,NGR,2024,Paris,Taekwondo,Women -67kg,No medal,Women,TKW,True,False

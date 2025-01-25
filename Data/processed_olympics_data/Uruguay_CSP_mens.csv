@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Valentin Otero,M,Uruguay,URU,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Valentin Otero,M,Uruguay,URU,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,False,True

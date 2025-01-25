@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marie Kuiters,F,South Africa,RSA,1960,Roma,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Marie Kuiters,F,South Africa,RSA,1960,Roma,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Marie Kuiters,F,South Africa,RSA,1960,Roma,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Marie Kuiters,F,South Africa,RSA,1960,Roma,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Marie Kuiters,F,South Africa,RSA,1960,Roma,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Zandr Labuschagne,F,South Africa,RSA,2004,Athina,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Zandr Labuschagne,F,South Africa,RSA,2004,Athina,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Zandr Labuschagne,F,South Africa,RSA,2004,Athina,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Zandr Labuschagne,F,South Africa,RSA,2004,Athina,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Zandr Labuschagne,F,South Africa,RSA,2004,Athina,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Naveen Daries,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True
-Naveen Daries,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True
-Naveen Daries,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True
-Naveen Daries,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True
-Naveen Daries,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True
-Caitlin Rooskrantz,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True
-Caitlin Rooskrantz,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True
-Caitlin Rooskrantz,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True
-Caitlin Rooskrantz,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True
-Caitlin Rooskrantz,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True
-Caitlin Rooskrantz,F,South Africa,RSA,2024,Paris,Artistic Gymnastics,Women,No medal,Women,GAR,True
-Caitlin Rooskrantz,F,South Africa,RSA,2024,Paris,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True
-Caitlin Rooskrantz,F,South Africa,RSA,2024,Paris,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True
-Caitlin Rooskrantz,F,South Africa,RSA,2024,Paris,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True
-Caitlin Rooskrantz,F,South Africa,RSA,2024,Paris,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True
-Caitlin Rooskrantz,F,South Africa,RSA,2024,Paris,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marie Kuiters,F,South Africa,RSA,1960,Roma,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Marie Kuiters,F,South Africa,RSA,1960,Roma,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Marie Kuiters,F,South Africa,RSA,1960,Roma,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Marie Kuiters,F,South Africa,RSA,1960,Roma,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Marie Kuiters,F,South Africa,RSA,1960,Roma,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Zandr Labuschagne,F,South Africa,RSA,2004,Athina,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Zandr Labuschagne,F,South Africa,RSA,2004,Athina,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Zandr Labuschagne,F,South Africa,RSA,2004,Athina,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Zandr Labuschagne,F,South Africa,RSA,2004,Athina,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Zandr Labuschagne,F,South Africa,RSA,2004,Athina,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Naveen Daries,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True,True
+Naveen Daries,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True,True
+Naveen Daries,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True,True
+Naveen Daries,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True,True
+Naveen Daries,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True,True
+Caitlin Rooskrantz,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True,True
+Caitlin Rooskrantz,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True,True
+Caitlin Rooskrantz,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True,True
+Caitlin Rooskrantz,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True,True
+Caitlin Rooskrantz,F,South Africa,RSA,2020,Tokyo,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True,True
+Caitlin Rooskrantz,F,South Africa,RSA,2024,Paris,Artistic Gymnastics,Women,No medal,Women,GAR,True,False
+Caitlin Rooskrantz,F,South Africa,RSA,2024,Paris,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True,False
+Caitlin Rooskrantz,F,South Africa,RSA,2024,Paris,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True,False
+Caitlin Rooskrantz,F,South Africa,RSA,2024,Paris,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True,False
+Caitlin Rooskrantz,F,South Africa,RSA,2024,Paris,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True,False
+Caitlin Rooskrantz,F,South Africa,RSA,2024,Paris,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True,False

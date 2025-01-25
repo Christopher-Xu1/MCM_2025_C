@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tina Graudina,F,Latvia,LAT,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,True
-Anastasija Kravcenoka,F,Latvia,LAT,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False
-Tina Graudina,F,Latvia,LAT,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,True
-Anastasija Samoilova,F,Latvia,LAT,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tina Graudina,F,Latvia,LAT,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,True,True
+Anastasija Kravcenoka,F,Latvia,LAT,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False,True
+Tina Graudina,F,Latvia,LAT,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,True,False
+Anastasija Samoilova,F,Latvia,LAT,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,False,True

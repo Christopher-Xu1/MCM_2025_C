@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-sgeir Bjarnrsson,M,Iceland,ISL,1948,London,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+sgeir Bjarnrsson,M,Iceland,ISL,1948,London,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False,True

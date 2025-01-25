@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nguyn Nht,M,Vietnam,VIE,2012,London,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False
-V An,M,Vietnam,VIE,2016,Rio de Janeiro,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nguyn Nht,M,Vietnam,VIE,2012,London,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False,True
+V An,M,Vietnam,VIE,2016,Rio de Janeiro,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dafne Navarro,F,Mexico,MEX,2020,Tokyo,Trampoline Gymnastics,Women,No medal,Women,GTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dafne Navarro,F,Mexico,MEX,2020,Tokyo,Trampoline Gymnastics,Women,No medal,Women,GTR,False,True

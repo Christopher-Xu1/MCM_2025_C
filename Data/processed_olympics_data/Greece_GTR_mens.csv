@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mikhail Pelivanidis,M,Greece,GRE,2004,Athina,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mikhail Pelivanidis,M,Greece,GRE,2004,Athina,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-de Roldeney,M,Sao Tome & Principe,STP,2024,Paris,Judo,Men -73 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+de Roldeney,M,Sao Tome & Principe,STP,2024,Paris,Judo,Men -73 kg,No medal,Men,JUD,False,True

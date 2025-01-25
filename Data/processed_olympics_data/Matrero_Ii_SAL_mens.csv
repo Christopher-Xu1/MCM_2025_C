@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Luis Barreyro,M,Matrero Ii,ARG,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Hiplito Elizalde,M,Matrero Ii,ARG,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Rafael Iglesias,M,Matrero Ii,ARG,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Mario Sauze,M,Matrero Ii,ARG,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Guillermo Grondona,M,Matrero Ii,ARG,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Rufino Newton,M,Matrero Ii,ARG,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Luis Barreyro,M,Matrero Ii,ARG,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Hiplito Elizalde,M,Matrero Ii,ARG,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Rafael Iglesias,M,Matrero Ii,ARG,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Mario Sauze,M,Matrero Ii,ARG,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Guillermo Grondona,M,Matrero Ii,ARG,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Rufino Newton,M,Matrero Ii,ARG,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True

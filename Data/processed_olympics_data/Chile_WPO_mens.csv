@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Luis Gabiola,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Pedro Gabiola,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Isaac Schejter,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-A. Vargas,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-O. Jara,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Alejandro Jaque,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Teodoro Jaque,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Svante Strmsten,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Luis Gabiola,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Pedro Gabiola,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Isaac Schejter,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+A. Vargas,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+O. Jara,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Alejandro Jaque,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Teodoro Jaque,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Svante Strmsten,M,Chile,CHI,1948,London,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True

@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dipika (-appleton),F,Sri Lanka,SRI,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Dipika (-appleton),F,Sri Lanka,SRI,1988,Seoul,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Dipika (-appleton),F,Sri Lanka,SRI,1988,Seoul,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Menaka Silva,F,Sri Lanka,SRI,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Kimiko Raheem,F,Sri Lanka,SRI,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Mayumi Raheem,F,Sri Lanka,SRI,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Theekshana Ratnasekera,F,Sri Lanka,SRI,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Reshika Udugampola,F,Sri Lanka,SRI,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Aniqah Gaffoor,F,Sri Lanka,SRI,2020,Tokyo,Swimming,Women's 100m Butterfly,No medal,Women's,SWM,False
-Ganga Senavirathne,F,Sri Lanka,SRI,2024,Paris,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dipika (-appleton),F,Sri Lanka,SRI,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Dipika (-appleton),F,Sri Lanka,SRI,1988,Seoul,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Dipika (-appleton),F,Sri Lanka,SRI,1988,Seoul,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Menaka Silva,F,Sri Lanka,SRI,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Kimiko Raheem,F,Sri Lanka,SRI,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Mayumi Raheem,F,Sri Lanka,SRI,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Theekshana Ratnasekera,F,Sri Lanka,SRI,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Reshika Udugampola,F,Sri Lanka,SRI,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Aniqah Gaffoor,F,Sri Lanka,SRI,2020,Tokyo,Swimming,Women's 100m Butterfly,No medal,Women's,SWM,False,True
+Ganga Senavirathne,F,Sri Lanka,SRI,2024,Paris,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,False,True

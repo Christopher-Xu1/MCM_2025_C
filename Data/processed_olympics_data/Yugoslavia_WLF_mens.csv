@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Leopold Hereni,M,Yugoslavia,YUG,1972,Munich,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Duan Mirkovi,M,Yugoslavia,YUG,1980,Moskva,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Joe Urankar,M,Yugoslavia,YUG,1972,Munich,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Vladimir Zrni,M,Yugoslavia,YUG,1980,Moskva,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Leopold Hereni,M,Yugoslavia,YUG,1972,Munich,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Duan Mirkovi,M,Yugoslavia,YUG,1980,Moskva,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Joe Urankar,M,Yugoslavia,YUG,1972,Munich,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Vladimir Zrni,M,Yugoslavia,YUG,1980,Moskva,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True

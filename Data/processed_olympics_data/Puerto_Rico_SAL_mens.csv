@@ -1,42 +1,42 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Osvaldo Alcaide,M,Puerto Rico,PUR,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,False
-Matthew Anderson,M,Puerto Rico,PUR,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Jos Bentez,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False
-Miguel Casellas,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False
-Pedro Hernndez,M,Puerto Rico,PUR,2000,Sydney,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Manuel Dalmau,M,Puerto Rico,PUR,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Richard Darmanin,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Enrique Daz,M,Puerto Rico,PUR,1984,Los Angeles,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-James Fairbank,M,Puerto Rico,PUR,1968,Mexico City,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,True
-James Fairbank,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Enrique Surez,M,Puerto Rico,PUR,1988,Seoul,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True
-Enrique Surez,M,Puerto Rico,PUR,1992,Barcelona,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True
-Enrique Surez,M,Puerto Rico,PUR,2000,Sydney,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True
-Enrique Surez,M,Puerto Rico,PUR,2004,Athina,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True
-Hovey Jr.,M,Puerto Rico,PUR,1968,Mexico City,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,True
-Hovey Jr.,M,Puerto Rico,PUR,1972,Munich,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Hovey Jr.,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Lee Gentil,M,Puerto Rico,PUR,1968,Mexico City,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,True
-Lee Gentil,M,Puerto Rico,PUR,1972,Munich,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Lee Gentil,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Jorge Hernndez,M,Puerto Rico,PUR,2004,Athina,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-John Hoyt,M,Puerto Rico,PUR,1968,Mexico City,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-John Hoyt,M,Puerto Rico,PUR,1972,Munich,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-John Hoyt,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Manuel Mndez,M,Puerto Rico,PUR,1996,Atlanta,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False
-Oscar Blasini,M,Puerto Rico,PUR,1988,Seoul,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True
-Oscar Blasini,M,Puerto Rico,PUR,1992,Barcelona,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True
-Gerard Pignolet,M,Puerto Rico,PUR,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Ronald Ramos,M,Puerto Rico,PUR,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Jos Reyes,M,Puerto Rico,PUR,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Jos Rodrguez,M,Puerto Rico,PUR,1992,Barcelona,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False
-Christopher Stater,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Radams Valle,M,Puerto Rico,PUR,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Juan Jr.,M,Puerto Rico,PUR,1984,Los Angeles,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Juan Sr.,M,Puerto Rico,PUR,1964,Tokyo,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Juan Sr.,M,Puerto Rico,PUR,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True
-Juan Sr.,M,Puerto Rico,PUR,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True
-Juan Sr.,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Eric Tulla,M,Puerto Rico,PUR,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Enrique Figueroa,M,Puerto Rico,PUR,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,False
-Luis Fernandez,M,Puerto Rico,PUR,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Osvaldo Alcaide,M,Puerto Rico,PUR,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,False,True
+Matthew Anderson,M,Puerto Rico,PUR,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Jos Bentez,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False,True
+Miguel Casellas,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False,True
+Pedro Hernndez,M,Puerto Rico,PUR,2000,Sydney,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Manuel Dalmau,M,Puerto Rico,PUR,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Richard Darmanin,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Enrique Daz,M,Puerto Rico,PUR,1984,Los Angeles,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+James Fairbank,M,Puerto Rico,PUR,1968,Mexico City,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,True,True
+James Fairbank,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Enrique Surez,M,Puerto Rico,PUR,1988,Seoul,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True,True
+Enrique Surez,M,Puerto Rico,PUR,1992,Barcelona,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True,False
+Enrique Surez,M,Puerto Rico,PUR,2000,Sydney,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True,False
+Enrique Surez,M,Puerto Rico,PUR,2004,Athina,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True,False
+Hovey Jr.,M,Puerto Rico,PUR,1968,Mexico City,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,True,True
+Hovey Jr.,M,Puerto Rico,PUR,1972,Munich,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Hovey Jr.,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Lee Gentil,M,Puerto Rico,PUR,1968,Mexico City,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,True,True
+Lee Gentil,M,Puerto Rico,PUR,1972,Munich,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Lee Gentil,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Jorge Hernndez,M,Puerto Rico,PUR,2004,Athina,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+John Hoyt,M,Puerto Rico,PUR,1968,Mexico City,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,True
+John Hoyt,M,Puerto Rico,PUR,1972,Munich,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+John Hoyt,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Manuel Mndez,M,Puerto Rico,PUR,1996,Atlanta,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False,True
+Oscar Blasini,M,Puerto Rico,PUR,1988,Seoul,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True,True
+Oscar Blasini,M,Puerto Rico,PUR,1992,Barcelona,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True,False
+Gerard Pignolet,M,Puerto Rico,PUR,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Ronald Ramos,M,Puerto Rico,PUR,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Jos Reyes,M,Puerto Rico,PUR,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Jos Rodrguez,M,Puerto Rico,PUR,1992,Barcelona,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False,True
+Christopher Stater,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Radams Valle,M,Puerto Rico,PUR,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Juan Jr.,M,Puerto Rico,PUR,1984,Los Angeles,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Juan Sr.,M,Puerto Rico,PUR,1964,Tokyo,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,True
+Juan Sr.,M,Puerto Rico,PUR,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True,False
+Juan Sr.,M,Puerto Rico,PUR,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,True,False
+Juan Sr.,M,Puerto Rico,PUR,1976,Montreal,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Eric Tulla,M,Puerto Rico,PUR,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Enrique Figueroa,M,Puerto Rico,PUR,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,False,True
+Luis Fernandez,M,Puerto Rico,PUR,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,False,True

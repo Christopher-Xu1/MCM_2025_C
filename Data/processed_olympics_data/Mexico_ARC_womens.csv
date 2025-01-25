@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mariana Martnez,F,Mexico,MEX,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Mariana Martnez,F,Mexico,MEX,2012,London,Archery,Archery Women's Individual,Bronze,Archery,ARC,True
-Mariana Martnez,F,Mexico,MEX,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Ana Chan,F,Mexico,MEX,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Ana Chan,F,Mexico,MEX,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Aurora Gmez,F,Mexico,MEX,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Aurora Gmez,F,Mexico,MEX,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Aurora Gmez,F,Mexico,MEX,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Aurora Gmez,F,Mexico,MEX,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Marisol Lpez,F,Mexico,MEX,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Mara Gutirrez,F,Mexico,MEX,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Silvia Tapia,F,Mexico,MEX,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Erika Evaristo,F,Mexico,MEX,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Ada Arroyo,F,Mexico,MEX,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Ada Arroyo,F,Mexico,MEX,2012,London,Archery,Archery Women's Individual,Silver,Archery,ARC,True
-Ada Arroyo,F,Mexico,MEX,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Ada Arroyo,F,Mexico,MEX,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Ada Arroyo,F,Mexico,MEX,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Alejandra Trujillo,F,Mexico,MEX,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Alejandra Trujillo,F,Mexico,MEX,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Alejandra Trujillo,F,Mexico,MEX,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Alejandra Trujillo,F,Mexico,MEX,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Aida Roman,F,Mexico,MEX,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Aida Roman,F,Mexico,MEX,2020,Tokyo,Archery,Women's Team,No medal,Women's,ARC,True
-Alejandra Valencia,F,Mexico,MEX,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Alejandra Valencia,F,Mexico,MEX,2020,Tokyo,Archery,Women's Team,No medal,Women's,ARC,True
-Alejandra Valencia,F,Mexico,MEX,2020,Tokyo,Archery,Mixed Team,Bronze,Mixed,ARC,True
-Ana Vazquez,F,Mexico,MEX,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Ana Vazquez,F,Mexico,MEX,2020,Tokyo,Archery,Women's Team,No medal,Women's,ARC,True
-Alejandra Valencia,F,Mexico,MEX,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Alejandra Valencia,F,Mexico,MEX,2024,Paris,Archery,Women's Team,Bronze,Women's,ARC,True
-Alejandra Valencia,F,Mexico,MEX,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
-Angela Ruiz,F,Mexico,MEX,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Angela Ruiz,F,Mexico,MEX,2024,Paris,Archery,Women's Team,Bronze,Women's,ARC,True
-Ana Vazquez,F,Mexico,MEX,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Ana Vazquez,F,Mexico,MEX,2024,Paris,Archery,Women's Team,Bronze,Women's,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mariana Martnez,F,Mexico,MEX,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Mariana Martnez,F,Mexico,MEX,2012,London,Archery,Archery Women's Individual,Bronze,Archery,ARC,True,False
+Mariana Martnez,F,Mexico,MEX,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Ana Chan,F,Mexico,MEX,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Ana Chan,F,Mexico,MEX,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Aurora Gmez,F,Mexico,MEX,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Aurora Gmez,F,Mexico,MEX,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Aurora Gmez,F,Mexico,MEX,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Aurora Gmez,F,Mexico,MEX,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Marisol Lpez,F,Mexico,MEX,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Mara Gutirrez,F,Mexico,MEX,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Silvia Tapia,F,Mexico,MEX,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Erika Evaristo,F,Mexico,MEX,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Ada Arroyo,F,Mexico,MEX,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Ada Arroyo,F,Mexico,MEX,2012,London,Archery,Archery Women's Individual,Silver,Archery,ARC,True,False
+Ada Arroyo,F,Mexico,MEX,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Ada Arroyo,F,Mexico,MEX,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Ada Arroyo,F,Mexico,MEX,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Alejandra Trujillo,F,Mexico,MEX,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Alejandra Trujillo,F,Mexico,MEX,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Alejandra Trujillo,F,Mexico,MEX,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Alejandra Trujillo,F,Mexico,MEX,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Aida Roman,F,Mexico,MEX,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Aida Roman,F,Mexico,MEX,2020,Tokyo,Archery,Women's Team,No medal,Women's,ARC,True,True
+Alejandra Valencia,F,Mexico,MEX,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Alejandra Valencia,F,Mexico,MEX,2020,Tokyo,Archery,Women's Team,No medal,Women's,ARC,True,True
+Alejandra Valencia,F,Mexico,MEX,2020,Tokyo,Archery,Mixed Team,Bronze,Mixed,ARC,True,True
+Ana Vazquez,F,Mexico,MEX,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Ana Vazquez,F,Mexico,MEX,2020,Tokyo,Archery,Women's Team,No medal,Women's,ARC,True,True
+Alejandra Valencia,F,Mexico,MEX,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,False
+Alejandra Valencia,F,Mexico,MEX,2024,Paris,Archery,Women's Team,Bronze,Women's,ARC,True,False
+Alejandra Valencia,F,Mexico,MEX,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True,False
+Angela Ruiz,F,Mexico,MEX,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Angela Ruiz,F,Mexico,MEX,2024,Paris,Archery,Women's Team,Bronze,Women's,ARC,True,True
+Ana Vazquez,F,Mexico,MEX,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,False
+Ana Vazquez,F,Mexico,MEX,2024,Paris,Archery,Women's Team,Bronze,Women's,ARC,True,False

@@ -1,46 +1,46 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Svetomir Beli,M,Yugoslavia,YUG,1972,Munich,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Marijan Bene,M,Yugoslavia,YUG,1976,Montreal,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Memet Bogujevci,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Vukain Dobrainovi,M,Yugoslavia,YUG,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Darko Duki,M,Yugoslavia,YUG,1988,Seoul,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Dragoslav Jakovljevi,M,Yugoslavia,YUG,1960,Roma,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Anton Josipovi,M,Yugoslavia,YUG,1984,Los Angeles,Boxing,Boxing Men's Light-Heavyweight,Gold,Boxing,BOX,False
-Slobodan Kaar,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Light-Heavyweight,Gold,Boxing,BOX,False
-Tadija Kaar,M,Yugoslavia,YUG,1976,Montreal,Boxing,Boxing Men's Light-Middleweight,Silver,Boxing,BOX,False
-Tomislav Kelava,M,Yugoslavia,YUG,1960,Roma,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Tomislav Krizmani,M,Yugoslavia,YUG,1952,Helsinki,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Dejan Marovi,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-eljko Mavrovi,M,Yugoslavia,YUG,1988,Seoul,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Petar Milo,M,Yugoslavia,YUG,1968,Mexico City,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Jovan Pajkovi,M,Yugoslavia,YUG,1968,Mexico City,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Mate Parlov,M,Yugoslavia,YUG,1968,Mexico City,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Mate Parlov,M,Yugoslavia,YUG,1972,Munich,Boxing,Boxing Men's Light-Heavyweight,Gold,Boxing,BOX,True
-Miloslav Paunovi,M,Yugoslavia,YUG,1960,Roma,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Slobodan Pavlovi,M,Yugoslavia,YUG,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Miodrag Perunovi,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-ore Petronijevi,M,Yugoslavia,YUG,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Milosav Popovi,M,Yugoslavia,YUG,1976,Montreal,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Mirko Puzovi,M,Yugoslavia,YUG,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,Bronze,Boxing,BOX,False
-Stevan Redli,M,Yugoslavia,YUG,1952,Helsinki,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Redep Redepovski,M,Yugoslavia,YUG,1984,Los Angeles,Boxing,Boxing Men's Flyweight,Silver,Boxing,BOX,False
-Bratislav Risti,M,Yugoslavia,YUG,1976,Montreal,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Ace Rusevski,M,Yugoslavia,YUG,1976,Montreal,Boxing,Boxing Men's Lightweight,Bronze,Boxing,BOX,True
-Ace Rusevski,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Fazlija Airovi,M,Yugoslavia,YUG,1976,Montreal,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True
-Fazlija Airovi,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True
-Aziz Salihu,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True
-Aziz Salihu,M,Yugoslavia,YUG,1984,Los Angeles,Boxing,Boxing Men's Super-Heavyweight,Bronze,Boxing,BOX,True
-Aziz Salihu,M,Yugoslavia,YUG,1988,Seoul,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,True
-Ljubia Simi,M,Yugoslavia,YUG,1984,Los Angeles,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True
-Ljubia Simi,M,Yugoslavia,YUG,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True
-Damir Karo,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Damir Karo,M,Yugoslavia,YUG,1984,Los Angeles,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Damir Karo,M,Yugoslavia,YUG,1988,Seoul,Boxing,Boxing Men's Light-Heavyweight,Bronze,Boxing,BOX,True
-Pavle Ovljanski,M,Yugoslavia,YUG,1952,Helsinki,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Obrad Sretenovi,M,Yugoslavia,YUG,1960,Roma,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Geza Tumbas,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Ljubinko Veselinovi,M,Yugoslavia,YUG,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Zvonimir Vujin,M,Yugoslavia,YUG,1968,Mexico City,Boxing,Boxing Men's Lightweight,Bronze,Boxing,BOX,True
-Zvonimir Vujin,M,Yugoslavia,YUG,1972,Munich,Boxing,Boxing Men's Light-Welterweight,Bronze,Boxing,BOX,True
-Dragomir Vujkovi,M,Yugoslavia,YUG,1976,Montreal,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Svetomir Beli,M,Yugoslavia,YUG,1972,Munich,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Marijan Bene,M,Yugoslavia,YUG,1976,Montreal,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Memet Bogujevci,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Vukain Dobrainovi,M,Yugoslavia,YUG,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Darko Duki,M,Yugoslavia,YUG,1988,Seoul,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Dragoslav Jakovljevi,M,Yugoslavia,YUG,1960,Roma,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Anton Josipovi,M,Yugoslavia,YUG,1984,Los Angeles,Boxing,Boxing Men's Light-Heavyweight,Gold,Boxing,BOX,False,True
+Slobodan Kaar,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Light-Heavyweight,Gold,Boxing,BOX,False,True
+Tadija Kaar,M,Yugoslavia,YUG,1976,Montreal,Boxing,Boxing Men's Light-Middleweight,Silver,Boxing,BOX,False,True
+Tomislav Kelava,M,Yugoslavia,YUG,1960,Roma,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Tomislav Krizmani,M,Yugoslavia,YUG,1952,Helsinki,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Dejan Marovi,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+eljko Mavrovi,M,Yugoslavia,YUG,1988,Seoul,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Petar Milo,M,Yugoslavia,YUG,1968,Mexico City,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Jovan Pajkovi,M,Yugoslavia,YUG,1968,Mexico City,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Mate Parlov,M,Yugoslavia,YUG,1968,Mexico City,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,True
+Mate Parlov,M,Yugoslavia,YUG,1972,Munich,Boxing,Boxing Men's Light-Heavyweight,Gold,Boxing,BOX,True,False
+Miloslav Paunovi,M,Yugoslavia,YUG,1960,Roma,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Slobodan Pavlovi,M,Yugoslavia,YUG,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Miodrag Perunovi,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+ore Petronijevi,M,Yugoslavia,YUG,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Milosav Popovi,M,Yugoslavia,YUG,1976,Montreal,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Mirko Puzovi,M,Yugoslavia,YUG,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,Bronze,Boxing,BOX,False,True
+Stevan Redli,M,Yugoslavia,YUG,1952,Helsinki,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Redep Redepovski,M,Yugoslavia,YUG,1984,Los Angeles,Boxing,Boxing Men's Flyweight,Silver,Boxing,BOX,False,True
+Bratislav Risti,M,Yugoslavia,YUG,1976,Montreal,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Ace Rusevski,M,Yugoslavia,YUG,1976,Montreal,Boxing,Boxing Men's Lightweight,Bronze,Boxing,BOX,True,True
+Ace Rusevski,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,False
+Fazlija Airovi,M,Yugoslavia,YUG,1976,Montreal,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True,True
+Fazlija Airovi,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True,False
+Aziz Salihu,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True,True
+Aziz Salihu,M,Yugoslavia,YUG,1984,Los Angeles,Boxing,Boxing Men's Super-Heavyweight,Bronze,Boxing,BOX,True,False
+Aziz Salihu,M,Yugoslavia,YUG,1988,Seoul,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,True,False
+Ljubia Simi,M,Yugoslavia,YUG,1984,Los Angeles,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True,True
+Ljubia Simi,M,Yugoslavia,YUG,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True,False
+Damir Karo,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,True
+Damir Karo,M,Yugoslavia,YUG,1984,Los Angeles,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,False
+Damir Karo,M,Yugoslavia,YUG,1988,Seoul,Boxing,Boxing Men's Light-Heavyweight,Bronze,Boxing,BOX,True,False
+Pavle Ovljanski,M,Yugoslavia,YUG,1952,Helsinki,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Obrad Sretenovi,M,Yugoslavia,YUG,1960,Roma,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Geza Tumbas,M,Yugoslavia,YUG,1980,Moskva,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Ljubinko Veselinovi,M,Yugoslavia,YUG,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Zvonimir Vujin,M,Yugoslavia,YUG,1968,Mexico City,Boxing,Boxing Men's Lightweight,Bronze,Boxing,BOX,True,True
+Zvonimir Vujin,M,Yugoslavia,YUG,1972,Munich,Boxing,Boxing Men's Light-Welterweight,Bronze,Boxing,BOX,True,False
+Dragomir Vujkovi,M,Yugoslavia,YUG,1976,Montreal,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True

@@ -1,39 +1,39 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eniola Aluko,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Anita Asante,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Karen Bardsley,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Sophie Bradley,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Karen Carney,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Ifeoma Dieke,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Stephanie Houghton,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Kim Little,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,True
-Alexandra Scott,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Jill Scott,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,True
-Kelly Smith,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Casey Stoney,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Ellen White,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,True
-Fara Merrett,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Rachel Williams,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Rachel Yankey,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Millie Bright,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Lucy Bronze,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Niamh Charles,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Rachel Daly,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Lauren Hemp,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Steph Houghton,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Sophie Ingle,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Fran Kirby,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Kim Little,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True
-Sandy Maciver,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Nikita Parris,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Ellie Roebuck,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Jill Scott,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True
-Georgia Stanway,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Demi Stokes,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Carly Telford,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Ella Toone,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Keira Walsh,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Caroline Weir,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Ellen White,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True
-Leah Williamson,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Lotte Wubben-moy,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eniola Aluko,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Anita Asante,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Karen Bardsley,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Sophie Bradley,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Karen Carney,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Ifeoma Dieke,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Stephanie Houghton,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Kim Little,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,True,True
+Alexandra Scott,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Jill Scott,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,True,True
+Kelly Smith,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Casey Stoney,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Ellen White,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,True,True
+Fara Merrett,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Rachel Williams,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Rachel Yankey,F,United Kingdom,GBR,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Millie Bright,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Lucy Bronze,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Niamh Charles,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Rachel Daly,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Lauren Hemp,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Steph Houghton,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Sophie Ingle,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Fran Kirby,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Kim Little,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True,False
+Sandy Maciver,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Nikita Parris,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Ellie Roebuck,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Jill Scott,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True,False
+Georgia Stanway,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Demi Stokes,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Carly Telford,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Ella Toone,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Keira Walsh,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Caroline Weir,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Ellen White,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True,False
+Leah Williamson,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Lotte Wubben-moy,F,United Kingdom,GBR,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True

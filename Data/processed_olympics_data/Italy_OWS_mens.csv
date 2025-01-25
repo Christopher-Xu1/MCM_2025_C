@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gregorio Paltrinieri,M,Italy,ITA,2020,Tokyo,Marathon Swimming,Men's 10km,Bronze,Men's,OWS,False
-Mario Sanzullo,M,Italy,ITA,2020,Tokyo,Marathon Swimming,Men's 10km,No medal,Men's,OWS,False
-Domenico Acerenza,M,Italy,ITA,2024,Paris,Marathon Swimming,Men's 10km,No medal,Men's,OWS,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gregorio Paltrinieri,M,Italy,ITA,2020,Tokyo,Marathon Swimming,Men's 10km,Bronze,Men's,OWS,False,True
+Mario Sanzullo,M,Italy,ITA,2020,Tokyo,Marathon Swimming,Men's 10km,No medal,Men's,OWS,False,True
+Domenico Acerenza,M,Italy,ITA,2024,Paris,Marathon Swimming,Men's 10km,No medal,Men's,OWS,False,True

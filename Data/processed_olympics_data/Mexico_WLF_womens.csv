@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Luz Valdez,F,Mexico,MEX,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True
-Luz Valdez,F,Mexico,MEX,2012,London,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True
-Damaris Aldaz,F,Mexico,MEX,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True
-Damaris Aldaz,F,Mexico,MEX,2008,Beijing,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True
-Mnica Lara,F,Mexico,MEX,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Alejandra Garza,F,Mexico,MEX,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False
-Eva Ortz,F,Mexico,MEX,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
-Soraya Mendvil,F,Mexico,MEX,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,Gold,Weightlifting,WLF,False
-Aremi Fuentes,F,Mexico,MEX,2020,Tokyo,Weightlifting,Women's 76kg,Bronze,Women's,WLF,False
-Gabriela Lopez,F,Mexico,MEX,2020,Tokyo,Weightlifting,Women's 55kg,No medal,Women's,WLF,False
-Janeth Gomez,F,Mexico,MEX,2024,Paris,Weightlifting,Women's 59kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Luz Valdez,F,Mexico,MEX,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True,True
+Luz Valdez,F,Mexico,MEX,2012,London,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True,False
+Damaris Aldaz,F,Mexico,MEX,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True,True
+Damaris Aldaz,F,Mexico,MEX,2008,Beijing,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True,False
+Mnica Lara,F,Mexico,MEX,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Alejandra Garza,F,Mexico,MEX,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False,True
+Eva Ortz,F,Mexico,MEX,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True
+Soraya Mendvil,F,Mexico,MEX,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,Gold,Weightlifting,WLF,False,True
+Aremi Fuentes,F,Mexico,MEX,2020,Tokyo,Weightlifting,Women's 76kg,Bronze,Women's,WLF,False,True
+Gabriela Lopez,F,Mexico,MEX,2020,Tokyo,Weightlifting,Women's 55kg,No medal,Women's,WLF,False,True
+Janeth Gomez,F,Mexico,MEX,2024,Paris,Weightlifting,Women's 59kg,No medal,Women's,WLF,False,True

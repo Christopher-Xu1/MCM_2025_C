@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Adama Oudraogo,M,Burkina Faso,BUR,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Mamadou Ouedraogo,M,Burkina Faso,BUR,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Tindwende Sawadogo,M,Burkina Faso,BUR,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Rene Yougbare,M,Burkina Faso,BUR,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Adama Ouedraogo,M,Burkina Faso,BUR,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False
-Souleymane Napare,M,Burkina Faso,BUR,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Adama Oudraogo,M,Burkina Faso,BUR,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Mamadou Ouedraogo,M,Burkina Faso,BUR,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Tindwende Sawadogo,M,Burkina Faso,BUR,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Rene Yougbare,M,Burkina Faso,BUR,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Adama Ouedraogo,M,Burkina Faso,BUR,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False,True
+Souleymane Napare,M,Burkina Faso,BUR,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False,True

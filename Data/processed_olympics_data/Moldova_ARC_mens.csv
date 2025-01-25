@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dan Olaru,M,Moldova,MDA,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Dan Olaru,M,Moldova,MDA,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True
-Dan Olaru,M,Moldova,MDA,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dan Olaru,M,Moldova,MDA,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Dan Olaru,M,Moldova,MDA,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True,False
+Dan Olaru,M,Moldova,MDA,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,False

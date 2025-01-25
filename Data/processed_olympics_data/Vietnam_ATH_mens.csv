@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dng Thy,M,Vietnam,VIE,1980,Moskva,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False
-Lm Vn,M,Vietnam,VIE,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-L Khi,M,Vietnam,VIE,1980,Moskva,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-L L,M,Vietnam,VIE,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Lng Thin,M,Vietnam,VIE,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Lu Hng,M,Vietnam,VIE,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Nguyn Quyn,M,Vietnam,VIE,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Nguyn Ngng,M,Vietnam,VIE,2016,Rio de Janeiro,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False
-Nguyn Thuyt,M,Vietnam,VIE,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Nguyn Minh,M,Vietnam,VIE,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Nguyn Minh,M,Vietnam,VIE,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Nguyn Cng,M,Vietnam,VIE,2008,Beijing,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dng Thy,M,Vietnam,VIE,1980,Moskva,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False,True
+Lm Vn,M,Vietnam,VIE,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+L Khi,M,Vietnam,VIE,1980,Moskva,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+L L,M,Vietnam,VIE,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Lng Thin,M,Vietnam,VIE,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Lu Hng,M,Vietnam,VIE,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Nguyn Quyn,M,Vietnam,VIE,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Nguyn Ngng,M,Vietnam,VIE,2016,Rio de Janeiro,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False,True
+Nguyn Thuyt,M,Vietnam,VIE,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Nguyn Minh,M,Vietnam,VIE,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Nguyn Minh,M,Vietnam,VIE,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Nguyn Cng,M,Vietnam,VIE,2008,Beijing,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True

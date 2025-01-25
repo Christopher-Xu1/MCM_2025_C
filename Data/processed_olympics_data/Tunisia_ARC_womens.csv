@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rihab Elwalid,F,Tunisia,TUN,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Rihab Elwalid,F,Tunisia,TUN,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
-Rihab Elwalid,F,Tunisia,TUN,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rihab Elwalid,F,Tunisia,TUN,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Rihab Elwalid,F,Tunisia,TUN,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True
+Rihab Elwalid,F,Tunisia,TUN,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,False

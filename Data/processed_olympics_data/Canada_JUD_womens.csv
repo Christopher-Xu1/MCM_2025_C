@@ -1,40 +1,40 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Luce Baillargeon,F,Canada,CAN,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Catherine Beauchemin-pinard,F,Canada,CAN,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Michelle Buckingham,F,Canada,CAN,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Michelle Buckingham,F,Canada,CAN,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Michelle Buckingham,F,Canada,CAN,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Marie-Hlne Chisholm,F,Canada,CAN,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Amy Cotton,F,Canada,CAN,2004,Athina,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Amy Cotton,F,Canada,CAN,2012,London,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Nancy Filteau,F,Canada,CAN,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Nathalie Gosselin,F,Canada,CAN,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Sandra Greaves,F,Canada,CAN,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Ecaterina Guica,F,Canada,CAN,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Nichole (-adams),F,Canada,CAN,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Brigitte Lastrade,F,Canada,CAN,1992,Barcelona,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Carolyne Lepage,F,Canada,CAN,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Carolyne Lepage,F,Canada,CAN,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Marylise Lvesque,F,Canada,CAN,2008,Beijing,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Pascale Mainville,F,Canada,CAN,1992,Barcelona,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Joliane Melanon,F,Canada,CAN,2012,London,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Marie-Jose Morneau,F,Canada,CAN,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Jane Patterson,F,Canada,CAN,1992,Barcelona,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Lyne Poirier,F,Canada,CAN,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Kimberly (-orr),F,Canada,CAN,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Catherine Roberge,F,Canada,CAN,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Sophie Roberge,F,Canada,CAN,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Alison Webb,F,Canada,CAN,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Kelita Zupancic,F,Canada,CAN,2012,London,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Kelita Zupancic,F,Canada,CAN,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Catherine Beauchemin-pinard,F,Canada,CAN,2020,Tokyo,Judo,Women -63 kg,Bronze,Women,JUD,True
-Ecaterina Guica,F,Canada,CAN,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,True
-Jessica Klimkait,F,Canada,CAN,2020,Tokyo,Judo,Women -57 kg,Bronze,Women,JUD,False
-Catherine Beauchemin-pinard,F,Canada,CAN,2024,Paris,Judo,Women -63 kg,No medal,Women,JUD,True
-Catherine Beauchemin-pinard,F,Canada,CAN,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Christa Deguchi,F,Canada,CAN,2024,Paris,Judo,Women -57 kg,Gold,Women,JUD,True
-Christa Deguchi,F,Canada,CAN,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Laura Portuondo,F,Canada,CAN,2024,Paris,Judo,Women +78 kg,No medal,Women,JUD,True
-Laura Portuondo,F,Canada,CAN,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Kelly Deguchi,F,Canada,CAN,2024,Paris,Judo,Women -52 kg,No medal,Women,JUD,True
-Kelly Deguchi,F,Canada,CAN,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Luce Baillargeon,F,Canada,CAN,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Catherine Beauchemin-pinard,F,Canada,CAN,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,True
+Michelle Buckingham,F,Canada,CAN,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,True
+Michelle Buckingham,F,Canada,CAN,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False
+Michelle Buckingham,F,Canada,CAN,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,False
+Marie-Hlne Chisholm,F,Canada,CAN,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Amy Cotton,F,Canada,CAN,2004,Athina,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,True
+Amy Cotton,F,Canada,CAN,2012,London,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,False
+Nancy Filteau,F,Canada,CAN,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Nathalie Gosselin,F,Canada,CAN,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Sandra Greaves,F,Canada,CAN,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Ecaterina Guica,F,Canada,CAN,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,True
+Nichole (-adams),F,Canada,CAN,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Brigitte Lastrade,F,Canada,CAN,1992,Barcelona,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Carolyne Lepage,F,Canada,CAN,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,True
+Carolyne Lepage,F,Canada,CAN,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,False
+Marylise Lvesque,F,Canada,CAN,2008,Beijing,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Pascale Mainville,F,Canada,CAN,1992,Barcelona,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Joliane Melanon,F,Canada,CAN,2012,London,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Marie-Jose Morneau,F,Canada,CAN,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Jane Patterson,F,Canada,CAN,1992,Barcelona,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Lyne Poirier,F,Canada,CAN,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Kimberly (-orr),F,Canada,CAN,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Catherine Roberge,F,Canada,CAN,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Sophie Roberge,F,Canada,CAN,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Alison Webb,F,Canada,CAN,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Kelita Zupancic,F,Canada,CAN,2012,London,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,True
+Kelita Zupancic,F,Canada,CAN,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Catherine Beauchemin-pinard,F,Canada,CAN,2020,Tokyo,Judo,Women -63 kg,Bronze,Women,JUD,True,False
+Ecaterina Guica,F,Canada,CAN,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,True,False
+Jessica Klimkait,F,Canada,CAN,2020,Tokyo,Judo,Women -57 kg,Bronze,Women,JUD,False,True
+Catherine Beauchemin-pinard,F,Canada,CAN,2024,Paris,Judo,Women -63 kg,No medal,Women,JUD,True,False
+Catherine Beauchemin-pinard,F,Canada,CAN,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,False
+Christa Deguchi,F,Canada,CAN,2024,Paris,Judo,Women -57 kg,Gold,Women,JUD,True,True
+Christa Deguchi,F,Canada,CAN,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Laura Portuondo,F,Canada,CAN,2024,Paris,Judo,Women +78 kg,No medal,Women,JUD,True,True
+Laura Portuondo,F,Canada,CAN,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Kelly Deguchi,F,Canada,CAN,2024,Paris,Judo,Women -52 kg,No medal,Women,JUD,True,True
+Kelly Deguchi,F,Canada,CAN,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,True

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alexia (schien-),F,Norway,NOR,1920,Antwerpen,Figure Skating,Figure Skating Mixed Pairs,Silver,Figure,FSK,False
-Ingrid Gulbrandsen,F,Norway,NOR,1920,Antwerpen,Figure Skating,Figure Skating Women's Singles,No medal,Figure,FSK,False
-Margot Moe,F,Norway,NOR,1920,Antwerpen,Figure Skating,Figure Skating Women's Singles,No medal,Figure,FSK,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alexia (schien-),F,Norway,NOR,1920,Antwerpen,Figure Skating,Figure Skating Mixed Pairs,Silver,Figure,FSK,False,True
+Ingrid Gulbrandsen,F,Norway,NOR,1920,Antwerpen,Figure Skating,Figure Skating Women's Singles,No medal,Figure,FSK,False,True
+Margot Moe,F,Norway,NOR,1920,Antwerpen,Figure Skating,Figure Skating Women's Singles,No medal,Figure,FSK,False,True

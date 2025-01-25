@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Orlando Chaves,M,Guyana,GUY,1948,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Alphonso Long,M,Guyana,GUY,1948,London,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Martin Dias,M,Guyana,GUY,1964,Tokyo,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Rudolph James,M,Guyana,GUY,1968,Mexico City,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Winston Mcarthur,M,Guyana,GUY,1956,Melbourne,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Julian Mcwatt,M,Guyana,GUY,2004,Athina,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Cecil Moore,M,Guyana,GUY,1952,Helsinki,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Henry Swain,M,Guyana,GUY,1956,Melbourne,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Orlando Chaves,M,Guyana,GUY,1948,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Alphonso Long,M,Guyana,GUY,1948,London,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Martin Dias,M,Guyana,GUY,1964,Tokyo,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Rudolph James,M,Guyana,GUY,1968,Mexico City,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Winston Mcarthur,M,Guyana,GUY,1956,Melbourne,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Julian Mcwatt,M,Guyana,GUY,2004,Athina,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Cecil Moore,M,Guyana,GUY,1952,Helsinki,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Henry Swain,M,Guyana,GUY,1956,Melbourne,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True

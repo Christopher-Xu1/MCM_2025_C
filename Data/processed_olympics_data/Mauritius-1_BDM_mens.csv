@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-douard Clarisse,M,Mauritius-1,MRI,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+douard Clarisse,M,Mauritius-1,MRI,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True

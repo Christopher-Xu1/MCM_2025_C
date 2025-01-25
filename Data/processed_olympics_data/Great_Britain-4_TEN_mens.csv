@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Walter Crawley,M,Great Britain-4,GBR,1908,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Wilberforce Eaves,M,Great Britain-4,GBR,1908,London,Tennis,"Tennis Men's Doubles, Covered Courts",No medal,Tennis,TEN,False
-George Hillyard,M,Great Britain-4,GBR,1908,London,Tennis,"Tennis Men's Doubles, Covered Courts",No medal,Tennis,TEN,False
-Arthur Lowe,M,Great Britain-4,GBR,1912,Stockholm,Tennis,"Tennis Men's Doubles, Covered Courts",No medal,Tennis,TEN,False
-Francis Lowe,M,Great Britain-4,GBR,1912,Stockholm,Tennis,"Tennis Men's Doubles, Covered Courts",No medal,Tennis,TEN,False
-Kenneth Powell,M,Great Britain-4,GBR,1908,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Oswald Turnbull,M,Great Britain-4,GBR,1920,Antwerpen,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Walter Crawley,M,Great Britain-4,GBR,1908,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Wilberforce Eaves,M,Great Britain-4,GBR,1908,London,Tennis,"Tennis Men's Doubles, Covered Courts",No medal,Tennis,TEN,False,True
+George Hillyard,M,Great Britain-4,GBR,1908,London,Tennis,"Tennis Men's Doubles, Covered Courts",No medal,Tennis,TEN,False,True
+Arthur Lowe,M,Great Britain-4,GBR,1912,Stockholm,Tennis,"Tennis Men's Doubles, Covered Courts",No medal,Tennis,TEN,False,True
+Francis Lowe,M,Great Britain-4,GBR,1912,Stockholm,Tennis,"Tennis Men's Doubles, Covered Courts",No medal,Tennis,TEN,False,True
+Kenneth Powell,M,Great Britain-4,GBR,1908,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Oswald Turnbull,M,Great Britain-4,GBR,1920,Antwerpen,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,False,True

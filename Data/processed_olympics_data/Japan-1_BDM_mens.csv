@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fumihiko Machida,M,Japan-1,JPN,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Keita Masuda,M,Japan-1,JPN,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Koji Miya,M,Japan-1,JPN,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Tadashi Ohtsuka,M,Japan-1,JPN,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fumihiko Machida,M,Japan-1,JPN,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Keita Masuda,M,Japan-1,JPN,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Koji Miya,M,Japan-1,JPN,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Tadashi Ohtsuka,M,Japan-1,JPN,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True

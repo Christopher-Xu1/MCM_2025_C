@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bernard Banks,M,Starlight Iii,GBR,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Stanley Potter,M,Starlight Iii,GBR,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bernard Banks,M,Starlight Iii,GBR,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Stanley Potter,M,Starlight Iii,GBR,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Navind Ramsaran,M,Mauritius,MRI,1988,Seoul,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Navind Ramsaran,M,Mauritius,MRI,1988,Seoul,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Navind Ramsaran,M,Mauritius,MRI,1988,Seoul,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Navind Ramsaran,M,Mauritius,MRI,1988,Seoul,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True

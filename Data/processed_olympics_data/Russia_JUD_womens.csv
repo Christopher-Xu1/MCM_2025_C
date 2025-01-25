@@ -1,42 +1,42 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lyudmila Bogdanova,F,Russia,RUS,2008,Beijing,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Tatyana Bogomyagkova,F,Russia,RUS,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Lyubov Bruletova,F,Russia,RUS,2000,Sydney,Judo,Judo Women's Extra-Lightweight,Silver,Judo,JUD,True
-Lyubov Bruletova,F,Russia,RUS,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Kseniya Chibisova,F,Russia,RUS,2016,Rio de Janeiro,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Irina Dolgova,F,Russia,RUS,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Tea Donguzashvili,F,Russia,RUS,2004,Athina,Judo,Judo Women's Heavyweight,Bronze,Judo,JUD,True
-Tea Donguzashvili,F,Russia,RUS,2008,Beijing,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Svetlana Galante,F,Russia,RUS,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Zulfiya Garipova,F,Russia,RUS,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Svetlana Gundarenko,F,Russia,RUS,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Yelena Ivashchenko,F,Russia,RUS,2012,London,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Anna Kharitonova,F,Russia,RUS,2008,Beijing,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Nataliya Kondratyeva,F,Russia,RUS,2012,London,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Yelena Kotelnikova,F,Russia,RUS,1996,Atlanta,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Vera Koval,F,Russia,RUS,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Marina Kovrigina,F,Russia,RUS,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Yuliya Kuzina,F,Russia,RUS,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Yuliya Kuzina,F,Russia,RUS,2008,Beijing,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Nataliya Kuzyutina,F,Russia,RUS,2012,London,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Nataliya Kuzyutina,F,Russia,RUS,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,Bronze,Judo,JUD,True
-Vera Moskalyuk,F,Russia,RUS,2004,Athina,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Vera Moskalyuk,F,Russia,RUS,2008,Beijing,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Vera Moskalyuk,F,Russia,RUS,2012,London,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Irina Rodina,F,Russia,RUS,2000,Sydney,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Anna Sarayeva,F,Russia,RUS,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Yekaterina Valkova,F,Russia,RUS,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Nataliya Yukhareva,F,Russia,RUS,2004,Athina,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Irina Zabludina,F,Russia,RUS,2012,London,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Irina Zabludina,F,Russia,RUS,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Aleksandra Babintseva,F,Russia,ROC,2020,Tokyo,Judo,Women -78 kg,No medal,Women,JUD,True
-Aleksandra Babintseva,F,Russia,ROC,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
-Daria Davydova,F,Russia,ROC,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,True
-Daria Davydova,F,Russia,ROC,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
-Irina Dolgova,F,Russia,ROC,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,True
-Natalia Kuziutina,F,Russia,ROC,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,True
-Natalia Kuziutina,F,Russia,ROC,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
-Daria Mezhetskaia,F,Russia,ROC,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,True
-Daria Mezhetskaia,F,Russia,ROC,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
-Madina Taimazova,F,Russia,ROC,2020,Tokyo,Judo,Women -70 kg,Bronze,Women,JUD,True
-Madina Taimazova,F,Russia,ROC,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lyudmila Bogdanova,F,Russia,RUS,2008,Beijing,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Tatyana Bogomyagkova,F,Russia,RUS,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Lyubov Bruletova,F,Russia,RUS,2000,Sydney,Judo,Judo Women's Extra-Lightweight,Silver,Judo,JUD,True,True
+Lyubov Bruletova,F,Russia,RUS,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,False
+Kseniya Chibisova,F,Russia,RUS,2016,Rio de Janeiro,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Irina Dolgova,F,Russia,RUS,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,True
+Tea Donguzashvili,F,Russia,RUS,2004,Athina,Judo,Judo Women's Heavyweight,Bronze,Judo,JUD,True,True
+Tea Donguzashvili,F,Russia,RUS,2008,Beijing,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,False
+Svetlana Galante,F,Russia,RUS,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Zulfiya Garipova,F,Russia,RUS,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Svetlana Gundarenko,F,Russia,RUS,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Yelena Ivashchenko,F,Russia,RUS,2012,London,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Anna Kharitonova,F,Russia,RUS,2008,Beijing,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Nataliya Kondratyeva,F,Russia,RUS,2012,London,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Yelena Kotelnikova,F,Russia,RUS,1996,Atlanta,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Vera Koval,F,Russia,RUS,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Marina Kovrigina,F,Russia,RUS,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Yuliya Kuzina,F,Russia,RUS,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,True
+Yuliya Kuzina,F,Russia,RUS,2008,Beijing,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Nataliya Kuzyutina,F,Russia,RUS,2012,London,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,True
+Nataliya Kuzyutina,F,Russia,RUS,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,Bronze,Judo,JUD,True,False
+Vera Moskalyuk,F,Russia,RUS,2004,Athina,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,True
+Vera Moskalyuk,F,Russia,RUS,2008,Beijing,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,False
+Vera Moskalyuk,F,Russia,RUS,2012,London,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,False
+Irina Rodina,F,Russia,RUS,2000,Sydney,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Anna Sarayeva,F,Russia,RUS,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Yekaterina Valkova,F,Russia,RUS,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Nataliya Yukhareva,F,Russia,RUS,2004,Athina,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Irina Zabludina,F,Russia,RUS,2012,London,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,True
+Irina Zabludina,F,Russia,RUS,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,False
+Aleksandra Babintseva,F,Russia,ROC,2020,Tokyo,Judo,Women -78 kg,No medal,Women,JUD,True,True
+Aleksandra Babintseva,F,Russia,ROC,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Daria Davydova,F,Russia,ROC,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,True,True
+Daria Davydova,F,Russia,ROC,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Irina Dolgova,F,Russia,ROC,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,True,False
+Natalia Kuziutina,F,Russia,ROC,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,True,True
+Natalia Kuziutina,F,Russia,ROC,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Daria Mezhetskaia,F,Russia,ROC,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,True,True
+Daria Mezhetskaia,F,Russia,ROC,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Madina Taimazova,F,Russia,ROC,2020,Tokyo,Judo,Women -70 kg,Bronze,Women,JUD,True,True
+Madina Taimazova,F,Russia,ROC,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,True

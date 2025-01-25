@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alfred Bencini,M,Malta,MLT,1936,Berlin,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Luke Bezzina,M,Malta,MLT,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Mario Bonello,M,Malta,MLT,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Mario Bonello,M,Malta,MLT,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Austin Cassar-torreggiani,M,Malta,MLT,1936,Berlin,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Rachid Chouhal,M,Malta,MLT,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Darren Gilford,M,Malta,MLT,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Nestor Jacono,M,Malta,MLT,1948,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Nicolai Portelli,M,Malta,MLT,2008,Beijing,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
-Beppe Grillo,M,Malta,MLT,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alfred Bencini,M,Malta,MLT,1936,Berlin,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Luke Bezzina,M,Malta,MLT,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Mario Bonello,M,Malta,MLT,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Mario Bonello,M,Malta,MLT,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Austin Cassar-torreggiani,M,Malta,MLT,1936,Berlin,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Rachid Chouhal,M,Malta,MLT,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Darren Gilford,M,Malta,MLT,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Nestor Jacono,M,Malta,MLT,1948,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Nicolai Portelli,M,Malta,MLT,2008,Beijing,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False,True
+Beppe Grillo,M,Malta,MLT,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True

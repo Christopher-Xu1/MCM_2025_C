@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Richard Merjan,M,Lebanon,LIB,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Richard Merjan,M,Lebanon,LIB,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,False,True

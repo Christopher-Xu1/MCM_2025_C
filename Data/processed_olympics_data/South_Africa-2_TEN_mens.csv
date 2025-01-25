@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cecil Blackbeard,M,South Africa-2,RSA,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-George Dodd,M,South Africa-2,RSA,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cecil Blackbeard,M,South Africa-2,RSA,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+George Dodd,M,South Africa-2,RSA,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sara Antunes,F,Portugal,POR,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Sara Antunes,F,Portugal,POR,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Joana Castelo,F,Portugal,POR,2012,London,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Joana Castelo,F,Portugal,POR,2012,London,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Maria Chitas,F,Portugal,POR,1984,Los Angeles,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,False
-Carla D'oliveira,F,Portugal,POR,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Carla D'oliveira,F,Portugal,POR,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Carla D'oliveira,F,Portugal,POR,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Ines Coelho,F,Portugal,POR,2024,Paris,Shooting,Trap Women,No medal,Trap,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sara Antunes,F,Portugal,POR,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Sara Antunes,F,Portugal,POR,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Joana Castelo,F,Portugal,POR,2012,London,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Joana Castelo,F,Portugal,POR,2012,London,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Maria Chitas,F,Portugal,POR,1984,Los Angeles,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,False,True
+Carla D'oliveira,F,Portugal,POR,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Carla D'oliveira,F,Portugal,POR,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Carla D'oliveira,F,Portugal,POR,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Ines Coelho,F,Portugal,POR,2024,Paris,Shooting,Trap Women,No medal,Trap,SHO,False,True

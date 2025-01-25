@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Riadh Khedher,M,Tunisia,TUN,2000,Sydney,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Aymen Al-mejri,M,Tunisia,TUN,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Mohamed Al-taieb,M,Tunisia,TUN,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Mohamed Taieb,M,Tunisia,TUN,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Riadh Khedher,M,Tunisia,TUN,2000,Sydney,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Aymen Al-mejri,M,Tunisia,TUN,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Mohamed Al-taieb,M,Tunisia,TUN,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Mohamed Taieb,M,Tunisia,TUN,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,False,True

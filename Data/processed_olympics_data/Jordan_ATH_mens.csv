@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Methkal Drais,M,Jordan,JOR,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Methkal Drais,M,Jordan,JOR,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Mouteb Al-faouri,M,Jordan,JOR,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Mouteb Al-faouri,M,Jordan,JOR,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Khalil Al-hanahneh,M,Jordan,JOR,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Khalil Al-hanahneh,M,Jordan,JOR,2008,Beijing,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Mahmoud Al-hasini,M,Jordan,JOR,1992,Barcelona,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Mahmoud Al-hasini,M,Jordan,JOR,1992,Barcelona,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Mohamed Al-kafraini,M,Jordan,JOR,2000,Sydney,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Fakhredin Gor,M,Jordan,JOR,1992,Barcelona,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True
-Fakhredin Gor,M,Jordan,JOR,1996,Atlanta,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True
-Ismael Ghassab,M,Jordan,JOR,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Basil Kilani,M,Jordan,JOR,1984,Los Angeles,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Basil Kilani,M,Jordan,JOR,1984,Los Angeles,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Amjad Tawalbeh,M,Jordan,JOR,1984,Los Angeles,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False
-Moath Alkhawaldeh,M,Jordan,JOR,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Methkal Drais,M,Jordan,JOR,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Methkal Drais,M,Jordan,JOR,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Mouteb Al-faouri,M,Jordan,JOR,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Mouteb Al-faouri,M,Jordan,JOR,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Khalil Al-hanahneh,M,Jordan,JOR,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Khalil Al-hanahneh,M,Jordan,JOR,2008,Beijing,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Mahmoud Al-hasini,M,Jordan,JOR,1992,Barcelona,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Mahmoud Al-hasini,M,Jordan,JOR,1992,Barcelona,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Mohamed Al-kafraini,M,Jordan,JOR,2000,Sydney,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Fakhredin Gor,M,Jordan,JOR,1992,Barcelona,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True,True
+Fakhredin Gor,M,Jordan,JOR,1996,Atlanta,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True,False
+Ismael Ghassab,M,Jordan,JOR,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Basil Kilani,M,Jordan,JOR,1984,Los Angeles,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Basil Kilani,M,Jordan,JOR,1984,Los Angeles,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Amjad Tawalbeh,M,Jordan,JOR,1984,Los Angeles,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False,True
+Moath Alkhawaldeh,M,Jordan,JOR,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,False,True

@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Charles Davey,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Herbert Gayler,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Arthur Gibbon,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Frederick Grubb,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",Silver,Cycling,CTR,False
-William Hammond,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Francis Higgins,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Stanley Jones,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-John Kirk,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Lewis Meredith,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Ernest (merlini-),M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Charles Moss,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Arthur Stokes,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Charles Davey,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Herbert Gayler,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Arthur Gibbon,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Frederick Grubb,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",Silver,Cycling,CTR,False,True
+William Hammond,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Francis Higgins,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Stanley Jones,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+John Kirk,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Lewis Meredith,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Ernest (merlini-),M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Charles Moss,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Arthur Stokes,M,England,GBR,1912,Stockholm,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True

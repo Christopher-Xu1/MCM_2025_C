@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Martins Blums,M,Latvia,LAT,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Martins Blums,M,Latvia,LAT,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False,True

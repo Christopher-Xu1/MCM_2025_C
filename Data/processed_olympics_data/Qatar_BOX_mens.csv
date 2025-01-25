@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hakan Ereker,M,Qatar,QAT,2016,Rio de Janeiro,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Thulasi Tharumalingam,M,Qatar,QAT,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hakan Ereker,M,Qatar,QAT,2016,Rio de Janeiro,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Thulasi Tharumalingam,M,Qatar,QAT,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True

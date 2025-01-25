@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ruwani Abeymanne,F,Sri Lanka,SRI,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Ruwani Abeymanne,F,Sri Lanka,SRI,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Pushpamali Ramanayake,F,Sri Lanka,SRI,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Pushpamali Ramanayake,F,Sri Lanka,SRI,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Pushpamali Ramanayake,F,Sri Lanka,SRI,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Pushpamali Ramanayake,F,Sri Lanka,SRI,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Pushpamali Ramanayake,F,Sri Lanka,SRI,2004,Athina,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Malini Wickramasinghe,F,Sri Lanka,SRI,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Malini Wickramasinghe,F,Sri Lanka,SRI,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Malini Wickramasinghe,F,Sri Lanka,SRI,2000,Sydney,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Malini Wickramasinghe,F,Sri Lanka,SRI,2000,Sydney,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Tehani Egodawela,F,Sri Lanka,SRI,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ruwani Abeymanne,F,Sri Lanka,SRI,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Ruwani Abeymanne,F,Sri Lanka,SRI,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Pushpamali Ramanayake,F,Sri Lanka,SRI,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Pushpamali Ramanayake,F,Sri Lanka,SRI,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Pushpamali Ramanayake,F,Sri Lanka,SRI,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Pushpamali Ramanayake,F,Sri Lanka,SRI,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Pushpamali Ramanayake,F,Sri Lanka,SRI,2004,Athina,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Malini Wickramasinghe,F,Sri Lanka,SRI,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Malini Wickramasinghe,F,Sri Lanka,SRI,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Malini Wickramasinghe,F,Sri Lanka,SRI,2000,Sydney,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Malini Wickramasinghe,F,Sri Lanka,SRI,2000,Sydney,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Tehani Egodawela,F,Sri Lanka,SRI,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,False,True

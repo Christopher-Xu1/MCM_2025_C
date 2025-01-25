@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alja Varagic,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Amra Pandzic,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Ana Abina,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Ana Gros,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Barbara Lazovic,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Dijana Dajic,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Elizabeth Omoregie,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Ema Abina,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Ema Hrvatin,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Maja Svetik,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Maja Vojnovic,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Natasa Ljepoja,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Nena Cernigoj,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Nina Spreitzer,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Tamara Mavsar,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Tjasa Stanko,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Valentina Klemencic,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alja Varagic,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Amra Pandzic,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Ana Abina,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Ana Gros,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Barbara Lazovic,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Dijana Dajic,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Elizabeth Omoregie,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Ema Abina,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Ema Hrvatin,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Maja Svetik,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Maja Vojnovic,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Natasa Ljepoja,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Nena Cernigoj,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Nina Spreitzer,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Tamara Mavsar,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Tjasa Stanko,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Valentina Klemencic,F,Slovenia,SLO,2024,Paris,Handball,Women,No medal,Women,HBL,False,True

@@ -1,30 +1,30 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anna Agrafioti,F,Greece,GRE,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Sofia (-kosmatopoulos),F,Greece,GRE,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Sofia (-kosmatopoulos),F,Greece,GRE,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,Gold,Sailing,SAL,True
-Sofia (-kosmatopoulos),F,Greece,GRE,2008,Beijing,Sailing,Sailing Women's Three Person Keelboat,Bronze,Sailing,SAL,True
-Sofia (-kosmatopoulos),F,Greece,GRE,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True
-Elena Dimitrakopoulou,F,Greece,GRE,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Antonia-Athina Frai,F,Greece,GRE,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Antonia-Athina Frai,F,Greece,GRE,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Katerina Giakoumidou,F,Greece,GRE,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Aikaterini Kaloudi,F,Greece,GRE,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Virginia Kravarioti,F,Greece,GRE,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Virginia Kravarioti,F,Greece,GRE,2008,Beijing,Sailing,Sailing Women's Three Person Keelboat,Bronze,Sailing,SAL,True
-Eftykhia Mantzaraki,F,Greece,GRE,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,True
-Eftykhia Mantzaraki,F,Greece,GRE,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Maria Mylona,F,Greece,GRE,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Sofia Papadopoulou,F,Greece,GRE,2008,Beijing,Sailing,Sailing Women's Three Person Keelboat,Bronze,Sailing,SAL,False
-Angeliki Skarlatou,F,Greece,GRE,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Angeliki Skarlatou,F,Greece,GRE,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Angeliki Skarlatou,F,Greece,GRE,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Angeliki Skarlatou,F,Greece,GRE,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Aimilia Tsoulfa,F,Greece,GRE,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Aimilia Tsoulfa,F,Greece,GRE,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Aimilia Tsoulfa,F,Greece,GRE,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,Gold,Sailing,SAL,True
-Maria Vlakhou,F,Greece,GRE,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Aikaterini Divari,F,Greece,GRE,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False
-Vasileia Karachaliou,F,Greece,GRE,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,False
-Paraskevi Spanaki,F,Greece,GRE,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,True
-Emilia Tsoulfa,F,Greece,GRE,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False
-Paraskevi Spanaki,F,Greece,GRE,2024,Paris,Sailing,Mixed Dinghy,No medal,Mixed,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anna Agrafioti,F,Greece,GRE,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Sofia (-kosmatopoulos),F,Greece,GRE,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Sofia (-kosmatopoulos),F,Greece,GRE,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,Gold,Sailing,SAL,True,False
+Sofia (-kosmatopoulos),F,Greece,GRE,2008,Beijing,Sailing,Sailing Women's Three Person Keelboat,Bronze,Sailing,SAL,True,False
+Sofia (-kosmatopoulos),F,Greece,GRE,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True,False
+Elena Dimitrakopoulou,F,Greece,GRE,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Antonia-Athina Frai,F,Greece,GRE,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Antonia-Athina Frai,F,Greece,GRE,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Katerina Giakoumidou,F,Greece,GRE,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Aikaterini Kaloudi,F,Greece,GRE,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Virginia Kravarioti,F,Greece,GRE,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Virginia Kravarioti,F,Greece,GRE,2008,Beijing,Sailing,Sailing Women's Three Person Keelboat,Bronze,Sailing,SAL,True,False
+Eftykhia Mantzaraki,F,Greece,GRE,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,True,True
+Eftykhia Mantzaraki,F,Greece,GRE,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Maria Mylona,F,Greece,GRE,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Sofia Papadopoulou,F,Greece,GRE,2008,Beijing,Sailing,Sailing Women's Three Person Keelboat,Bronze,Sailing,SAL,False,True
+Angeliki Skarlatou,F,Greece,GRE,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Angeliki Skarlatou,F,Greece,GRE,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Angeliki Skarlatou,F,Greece,GRE,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Angeliki Skarlatou,F,Greece,GRE,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Aimilia Tsoulfa,F,Greece,GRE,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Aimilia Tsoulfa,F,Greece,GRE,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Aimilia Tsoulfa,F,Greece,GRE,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,Gold,Sailing,SAL,True,False
+Maria Vlakhou,F,Greece,GRE,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Aikaterini Divari,F,Greece,GRE,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False,True
+Vasileia Karachaliou,F,Greece,GRE,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,False,True
+Paraskevi Spanaki,F,Greece,GRE,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,True,True
+Emilia Tsoulfa,F,Greece,GRE,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False,True
+Paraskevi Spanaki,F,Greece,GRE,2024,Paris,Sailing,Mixed Dinghy,No medal,Mixed,SAL,True,False

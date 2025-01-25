@@ -1,33 +1,33 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Roxanne Barker,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True
-Roxanne Barker,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True
-Zamandosi Cele,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Amanda Dlamini,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True
-Amanda Dlamini,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True
-Gabisile Hlumbane,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Refiloe Jane,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True
-Refiloe Jane,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True
-Thembi Kgatlana,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Kylie-Ann Louw,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Mammello Makhabane,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Stephanie Malherbe,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Noko Matlou,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True
-Noko Matlou,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True
-Andisiwe Mgcoyi,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Thokozile Mndaweni,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Portia Modise,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Sanah Mollo,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True
-Sanah Mollo,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True
-Linda Motlhalo,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Shiwe Nogwanya,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Marry Ntsweng,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Nompumelelo Nyandeni,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True
-Nompumelelo Nyandeni,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True
-Lebohang Ramalepe,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Jermaine Seoposenwe,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Amanda Sister,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False
-Leandra Smeda,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Janine Wyk,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True
-Janine Wyk,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True
-Nothando Vilakazi,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True
-Nothando Vilakazi,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Roxanne Barker,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True,True
+Roxanne Barker,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True,False
+Zamandosi Cele,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Amanda Dlamini,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True,True
+Amanda Dlamini,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True,False
+Gabisile Hlumbane,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Refiloe Jane,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True,True
+Refiloe Jane,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True,False
+Thembi Kgatlana,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Kylie-Ann Louw,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Mammello Makhabane,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Stephanie Malherbe,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Noko Matlou,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True,True
+Noko Matlou,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True,False
+Andisiwe Mgcoyi,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Thokozile Mndaweni,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Portia Modise,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Sanah Mollo,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True,True
+Sanah Mollo,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True,False
+Linda Motlhalo,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Shiwe Nogwanya,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Marry Ntsweng,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Nompumelelo Nyandeni,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True,True
+Nompumelelo Nyandeni,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True,False
+Lebohang Ramalepe,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Jermaine Seoposenwe,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Amanda Sister,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,False,True
+Leandra Smeda,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Janine Wyk,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True,True
+Janine Wyk,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True,False
+Nothando Vilakazi,F,South Africa,RSA,2012,London,Football,Football Women's Football,No medal,Football,FBL,True,True
+Nothando Vilakazi,F,South Africa,RSA,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,True,False

@@ -1,30 +1,30 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Casimiro Nze,M,Equatorial Guinea,GEQ,1996,Atlanta,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Casimiro Nze,M,Equatorial Guinea,GEQ,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Secundino Epacua,M,Equatorial Guinea,GEQ,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Secundino Epacua,M,Equatorial Guinea,GEQ,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Emiliano Buale,M,Equatorial Guinea,GEQ,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Roberto (-mandje),M,Equatorial Guinea,GEQ,2004,Athina,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Jos Nvo,M,Equatorial Guinea,GEQ,2000,Sydney,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Bonifacio N'dong,M,Equatorial Guinea,GEQ,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Bonifacio N'dong,M,Equatorial Guinea,GEQ,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Bernardo Molico,M,Equatorial Guinea,GEQ,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Bernardo Molico,M,Equatorial Guinea,GEQ,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Emilio Mahua,M,Equatorial Guinea,GEQ,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Emilio Mahua,M,Equatorial Guinea,GEQ,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Emilio Mahua,M,Equatorial Guinea,GEQ,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Emilio Mahua,M,Equatorial Guinea,GEQ,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Emilio Mahua,M,Equatorial Guinea,GEQ,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Emilio Mahua,M,Equatorial Guinea,GEQ,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Emilio Mahua,M,Equatorial Guinea,GEQ,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Manuel Owo,M,Equatorial Guinea,GEQ,2012,London,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Manuel Owo,M,Equatorial Guinea,GEQ,2016,Rio de Janeiro,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Bartolom Asumu,M,Equatorial Guinea,GEQ,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Diosdado Idjabe,M,Equatorial Guinea,GEQ,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Juan Matala,M,Equatorial Guinea,GEQ,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
-Ponciano Castillo,M,Equatorial Guinea,GEQ,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Reginaldo Ndong,M,Equatorial Guinea,GEQ,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Eulogio Luembe,M,Equatorial Guinea,GEQ,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Manuel Roku,M,Equatorial Guinea,GEQ,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Benjamin Enzema,M,Equatorial Guinea,GEQ,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,False
-Remigio Santander,M,Equatorial Guinea,GEQ,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Casimiro Nze,M,Equatorial Guinea,GEQ,1996,Atlanta,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Casimiro Nze,M,Equatorial Guinea,GEQ,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Secundino Epacua,M,Equatorial Guinea,GEQ,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Secundino Epacua,M,Equatorial Guinea,GEQ,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Emiliano Buale,M,Equatorial Guinea,GEQ,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Roberto (-mandje),M,Equatorial Guinea,GEQ,2004,Athina,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Jos Nvo,M,Equatorial Guinea,GEQ,2000,Sydney,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Bonifacio N'dong,M,Equatorial Guinea,GEQ,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Bonifacio N'dong,M,Equatorial Guinea,GEQ,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Bernardo Molico,M,Equatorial Guinea,GEQ,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Bernardo Molico,M,Equatorial Guinea,GEQ,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,False
+Emilio Mahua,M,Equatorial Guinea,GEQ,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Emilio Mahua,M,Equatorial Guinea,GEQ,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Emilio Mahua,M,Equatorial Guinea,GEQ,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Emilio Mahua,M,Equatorial Guinea,GEQ,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,False
+Emilio Mahua,M,Equatorial Guinea,GEQ,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Emilio Mahua,M,Equatorial Guinea,GEQ,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Emilio Mahua,M,Equatorial Guinea,GEQ,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Manuel Owo,M,Equatorial Guinea,GEQ,2012,London,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Manuel Owo,M,Equatorial Guinea,GEQ,2016,Rio de Janeiro,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Bartolom Asumu,M,Equatorial Guinea,GEQ,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Diosdado Idjabe,M,Equatorial Guinea,GEQ,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Juan Matala,M,Equatorial Guinea,GEQ,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False,True
+Ponciano Castillo,M,Equatorial Guinea,GEQ,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Reginaldo Ndong,M,Equatorial Guinea,GEQ,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Eulogio Luembe,M,Equatorial Guinea,GEQ,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Manuel Roku,M,Equatorial Guinea,GEQ,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Benjamin Enzema,M,Equatorial Guinea,GEQ,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,False,True
+Remigio Santander,M,Equatorial Guinea,GEQ,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True

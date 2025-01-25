@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-van Anne,F,Netherlands,NED,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
-van Anne,F,Netherlands,NED,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+van Anne,F,Netherlands,NED,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,True
+van Anne,F,Netherlands,NED,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,False

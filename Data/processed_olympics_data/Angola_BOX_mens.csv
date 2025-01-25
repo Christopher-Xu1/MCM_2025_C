@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ablio Cabral,M,Angola,ANG,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Alberto Coelho,M,Angola,ANG,1980,Moskva,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Jos Almeida,M,Angola,ANG,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Apolinrio Silveira,M,Angola,ANG,1988,Seoul,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Manuel Gomes,M,Angola,ANG,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Francisco Moniz,M,Angola,ANG,1992,Barcelona,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Ado N'zuzi,M,Angola,ANG,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ablio Cabral,M,Angola,ANG,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Alberto Coelho,M,Angola,ANG,1980,Moskva,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Jos Almeida,M,Angola,ANG,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Apolinrio Silveira,M,Angola,ANG,1988,Seoul,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Manuel Gomes,M,Angola,ANG,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Francisco Moniz,M,Angola,ANG,1992,Barcelona,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Ado N'zuzi,M,Angola,ANG,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True

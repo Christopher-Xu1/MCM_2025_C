@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tom Klobunk,M,Slovakia,SVK,2012,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Tom Klobunk,M,Slovakia,SVK,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-ubo Kriko,M,Slovakia,SVK,2004,Athina,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-ubo Kriko,M,Slovakia,SVK,2008,Beijing,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Miroslav Machovi,M,Slovakia,SVK,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Miroslav Machovi,M,Slovakia,SVK,1996,Atlanta,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-Miroslav Machovi,M,Slovakia,SVK,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Miroslav Machovi,M,Slovakia,SVK,2000,Sydney,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-Richard Nagy,M,Slovakia,SVK,2016,Rio de Janeiro,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Richard Nagy,M,Slovakia,SVK,2016,Rio de Janeiro,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Richard Nagy,M,Slovakia,SVK,2016,Rio de Janeiro,Swimming,Swimming Men's 10 kilometres Open Water,No medal,Swimming,SWM,True
-Richard Nagy,M,Slovakia,SVK,2020,Tokyo,Swimming,Men's 200m Butterfly,No medal,Men's,SWM,True
-Richard Nagy,M,Slovakia,SVK,2020,Tokyo,Swimming,Men's 400m Individual Medley,No medal,Men's,SWM,True
-Matej Dusa,M,Slovakia,SVK,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tom Klobunk,M,Slovakia,SVK,2012,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Tom Klobunk,M,Slovakia,SVK,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+ubo Kriko,M,Slovakia,SVK,2004,Athina,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+ubo Kriko,M,Slovakia,SVK,2008,Beijing,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Miroslav Machovi,M,Slovakia,SVK,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Miroslav Machovi,M,Slovakia,SVK,1996,Atlanta,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Miroslav Machovi,M,Slovakia,SVK,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Miroslav Machovi,M,Slovakia,SVK,2000,Sydney,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,False
+Richard Nagy,M,Slovakia,SVK,2016,Rio de Janeiro,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Richard Nagy,M,Slovakia,SVK,2016,Rio de Janeiro,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Richard Nagy,M,Slovakia,SVK,2016,Rio de Janeiro,Swimming,Swimming Men's 10 kilometres Open Water,No medal,Swimming,SWM,True,True
+Richard Nagy,M,Slovakia,SVK,2020,Tokyo,Swimming,Men's 200m Butterfly,No medal,Men's,SWM,True,False
+Richard Nagy,M,Slovakia,SVK,2020,Tokyo,Swimming,Men's 400m Individual Medley,No medal,Men's,SWM,True,False
+Matej Dusa,M,Slovakia,SVK,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False,True

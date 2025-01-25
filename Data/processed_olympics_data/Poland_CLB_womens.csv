@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aleksandra Miroslaw,F,Poland,POL,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,True
-Aleksandra Kalucka,F,Poland,POL,2024,Paris,Sport Climbing,Women's Speed,Bronze,Women's,CLB,False
-Aleksandra Miroslaw,F,Poland,POL,2024,Paris,Sport Climbing,Women's Speed,Gold,Women's,CLB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aleksandra Miroslaw,F,Poland,POL,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,True,True
+Aleksandra Kalucka,F,Poland,POL,2024,Paris,Sport Climbing,Women's Speed,Bronze,Women's,CLB,False,True
+Aleksandra Miroslaw,F,Poland,POL,2024,Paris,Sport Climbing,Women's Speed,Gold,Women's,CLB,True,False

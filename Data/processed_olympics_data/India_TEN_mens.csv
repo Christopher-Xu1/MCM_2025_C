@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sayed Ali,M,India,IND,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Anand Amritraj,M,India,IND,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Vijay Amritraj,M,India,IND,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Vijay Amritraj,M,India,IND,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Mahesh Bhupathi,M,India,IND,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Mahesh Bhupathi,M,India,IND,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Mahesh Bhupathi,M,India,IND,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Mahesh Bhupathi,M,India,IND,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Rohan Bopanna,M,India,IND,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Rohan Bopanna,M,India,IND,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Somdev Devvarman,M,India,IND,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Ali Fyzee,M,India,IND,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Syed Hadi,M,India,IND,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Sydney Jacob,M,India,IND,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Sydney Jacob,M,India,IND,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Ramesh Krishnan,M,India,IND,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Ramesh Krishnan,M,India,IND,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Leander Paes,M,India,IND,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Leander Paes,M,India,IND,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Leander Paes,M,India,IND,1996,Atlanta,Tennis,Tennis Men's Singles,Bronze,Tennis,TEN,True
-Leander Paes,M,India,IND,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Leander Paes,M,India,IND,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Leander Paes,M,India,IND,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Leander Paes,M,India,IND,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Leander Paes,M,India,IND,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Leander Paes,M,India,IND,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Leander Paes,M,India,IND,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Mohammed Sleem,M,India,IND,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Jagadeesan Vishnuvardhan,M,India,IND,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Sumit Nagal,M,India,IND,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True
-Rohan Bopanna,M,India,IND,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
-Nsriram Balaji,M,India,IND,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,False
-Sumit Nagal,M,India,IND,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sayed Ali,M,India,IND,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Anand Amritraj,M,India,IND,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Vijay Amritraj,M,India,IND,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Vijay Amritraj,M,India,IND,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Mahesh Bhupathi,M,India,IND,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Mahesh Bhupathi,M,India,IND,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Mahesh Bhupathi,M,India,IND,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Mahesh Bhupathi,M,India,IND,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Rohan Bopanna,M,India,IND,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Rohan Bopanna,M,India,IND,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Somdev Devvarman,M,India,IND,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Ali Fyzee,M,India,IND,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Syed Hadi,M,India,IND,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Sydney Jacob,M,India,IND,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Sydney Jacob,M,India,IND,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Ramesh Krishnan,M,India,IND,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Ramesh Krishnan,M,India,IND,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Leander Paes,M,India,IND,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Leander Paes,M,India,IND,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Leander Paes,M,India,IND,1996,Atlanta,Tennis,Tennis Men's Singles,Bronze,Tennis,TEN,True,False
+Leander Paes,M,India,IND,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Leander Paes,M,India,IND,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Leander Paes,M,India,IND,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Leander Paes,M,India,IND,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Leander Paes,M,India,IND,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Leander Paes,M,India,IND,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,False
+Leander Paes,M,India,IND,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Mohammed Sleem,M,India,IND,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Jagadeesan Vishnuvardhan,M,India,IND,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Sumit Nagal,M,India,IND,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True,True
+Rohan Bopanna,M,India,IND,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True,False
+Nsriram Balaji,M,India,IND,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,False,True
+Sumit Nagal,M,India,IND,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True,False

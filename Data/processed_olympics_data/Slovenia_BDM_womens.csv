@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maja Pohar,F,Slovenia,SLO,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Maja Tvrdy,F,Slovenia,SLO,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Maja Tvrdy,F,Slovenia,SLO,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maja Pohar,F,Slovenia,SLO,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Maja Tvrdy,F,Slovenia,SLO,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Maja Tvrdy,F,Slovenia,SLO,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False

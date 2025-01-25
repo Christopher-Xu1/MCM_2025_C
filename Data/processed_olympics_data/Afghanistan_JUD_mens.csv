@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohammad Bakhshi,M,Afghanistan,AFG,2016,Rio de Janeiro,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Ajmal Faizzada,M,Afghanistan,AFG,2012,London,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Samim Faizad,M,Afghanistan,AFG,2024,Paris,Judo,Men -81 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohammad Bakhshi,M,Afghanistan,AFG,2016,Rio de Janeiro,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Ajmal Faizzada,M,Afghanistan,AFG,2012,London,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Samim Faizad,M,Afghanistan,AFG,2024,Paris,Judo,Men -81 kg,No medal,Men,JUD,False,True

@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Farzad Baher,M,Ir Iran,IRI,2024,Paris,Fencing,Men's Sabre Team,No medal,Men's,FEN,False
-Ali Pakdaman,M,Ir Iran,IRI,2024,Paris,Fencing,Men's Sabre Individual,No medal,Men's,FEN,True
-Ali Pakdaman,M,Ir Iran,IRI,2024,Paris,Fencing,Men's Sabre Team,No medal,Men's,FEN,True
-Mohammad Fotouhi,M,Ir Iran,IRI,2024,Paris,Fencing,Men's Sabre Individual,No medal,Men's,FEN,True
-Mohammad Fotouhi,M,Ir Iran,IRI,2024,Paris,Fencing,Men's Sabre Team,No medal,Men's,FEN,True
-Mohammad Rahbari,M,Ir Iran,IRI,2024,Paris,Fencing,Men's Sabre Individual,No medal,Men's,FEN,True
-Mohammad Rahbari,M,Ir Iran,IRI,2024,Paris,Fencing,Men's Sabre Team,No medal,Men's,FEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Farzad Baher,M,Ir Iran,IRI,2024,Paris,Fencing,Men's Sabre Team,No medal,Men's,FEN,False,True
+Ali Pakdaman,M,Ir Iran,IRI,2024,Paris,Fencing,Men's Sabre Individual,No medal,Men's,FEN,True,True
+Ali Pakdaman,M,Ir Iran,IRI,2024,Paris,Fencing,Men's Sabre Team,No medal,Men's,FEN,True,True
+Mohammad Fotouhi,M,Ir Iran,IRI,2024,Paris,Fencing,Men's Sabre Individual,No medal,Men's,FEN,True,True
+Mohammad Fotouhi,M,Ir Iran,IRI,2024,Paris,Fencing,Men's Sabre Team,No medal,Men's,FEN,True,True
+Mohammad Rahbari,M,Ir Iran,IRI,2024,Paris,Fencing,Men's Sabre Individual,No medal,Men's,FEN,True,True
+Mohammad Rahbari,M,Ir Iran,IRI,2024,Paris,Fencing,Men's Sabre Team,No medal,Men's,FEN,True,True

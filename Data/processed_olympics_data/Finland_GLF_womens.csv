@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Noora Tamminen,F,Finland,FIN,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False
-Krista (tuutti-),F,Finland,FIN,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False
-Matilda Castren,F,Finland,FIN,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
-Sanna Nuutinen,F,Finland,FIN,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
-Noora Komulainen,F,Finland,FIN,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
-Ursula Wikstrom,F,Finland,FIN,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Noora Tamminen,F,Finland,FIN,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False,True
+Krista (tuutti-),F,Finland,FIN,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False,True
+Matilda Castren,F,Finland,FIN,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True
+Sanna Nuutinen,F,Finland,FIN,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True
+Noora Komulainen,F,Finland,FIN,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True
+Ursula Wikstrom,F,Finland,FIN,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True

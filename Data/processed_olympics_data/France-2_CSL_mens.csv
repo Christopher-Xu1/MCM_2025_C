@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Emmanuel Rey,M,France-2,FRA,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
-Emmanuel Rey,M,France-2,FRA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
-Thierry Sadi,M,France-2,FRA,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
-Thierry Sadi,M,France-2,FRA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Emmanuel Rey,M,France-2,FRA,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,True
+Emmanuel Rey,M,France-2,FRA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,False
+Thierry Sadi,M,France-2,FRA,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,True
+Thierry Sadi,M,France-2,FRA,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,False

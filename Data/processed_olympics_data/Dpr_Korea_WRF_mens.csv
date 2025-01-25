@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ung Ri,M,Dpr Korea,PRK,2024,Paris,Wrestling,Men's Greco-Roman 60kg,Bronze,Men's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ung Ri,M,Dpr Korea,PRK,2024,Paris,Wrestling,Men's Greco-Roman 60kg,Bronze,Men's,WRF,False,True

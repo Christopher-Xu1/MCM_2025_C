@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Josef Dostal,M,Czechia,CZE,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,Gold,Men's,CSP,False
-Martin Fuksa,M,Czechia,CZE,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,Gold,Men's,CSP,True
-Martin Fuksa,M,Czechia,CZE,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,True
-Petr Fuksa,M,Czechia,CZE,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,False
-Daniel Havel,M,Czechia,CZE,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,False
-Jakub Spicar,M,Czechia,CZE,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Josef Dostal,M,Czechia,CZE,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,Gold,Men's,CSP,False,True
+Martin Fuksa,M,Czechia,CZE,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,Gold,Men's,CSP,True,True
+Martin Fuksa,M,Czechia,CZE,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,True,True
+Petr Fuksa,M,Czechia,CZE,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,False,True
+Daniel Havel,M,Czechia,CZE,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,False,True
+Jakub Spicar,M,Czechia,CZE,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,False,True

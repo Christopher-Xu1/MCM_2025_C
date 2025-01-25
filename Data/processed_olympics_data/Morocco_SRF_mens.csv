@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ramzi Boukhiam,M,Morocco,MAR,2020,Tokyo,Surfing,Men,No medal,Men,SRF,True
-Ramzi Boukhiam,M,Morocco,MAR,2024,Paris,Surfing,Men,No medal,Men,SRF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ramzi Boukhiam,M,Morocco,MAR,2020,Tokyo,Surfing,Men,No medal,Men,SRF,True,True
+Ramzi Boukhiam,M,Morocco,MAR,2024,Paris,Surfing,Men,No medal,Men,SRF,True,False

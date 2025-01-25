@@ -1,44 +1,44 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Samuel Aguiar,M,Portugal,POR,1996,Atlanta,Rowing,Rowing Men's Lightweight Coxless Fours,No medal,Rowing,ROW,False
-Daniel Alves,M,Portugal,POR,1992,Barcelona,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False
-Zacarias Andias,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Henrique Baixinho,M,Portugal,POR,1996,Atlanta,Rowing,Rowing Men's Lightweight Coxless Fours,No medal,Rowing,ROW,False
-Manuel Barroso,M,Portugal,POR,1972,Munich,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False
-Jos Cancela,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Jorge Cravinho,M,Portugal,POR,1960,Roma,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Joo Cravo,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Carlos Benta,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True
-Carlos Benta,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True
-Ricardo Benta,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Joo Paula,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Delfim Silva,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Joo Sousa,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Jos Seixo,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Joo Fernandes,M,Portugal,POR,1996,Atlanta,Rowing,Rowing Men's Lightweight Coxless Fours,No medal,Rowing,ROW,False
-Manuel Fernandes,M,Portugal,POR,1996,Atlanta,Rowing,Rowing Men's Lightweight Coxless Fours,No medal,Rowing,ROW,False
-Felisberto Fortes,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True
-Felisberto Fortes,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True
-Pedro Fraga,M,Portugal,POR,2008,Beijing,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Pedro Fraga,M,Portugal,POR,2012,London,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Joo Lemos,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True
-Joo Lemos,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True
-Jos Machado,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Lus Machado,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Jos Marques,M,Portugal,POR,1972,Munich,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Nuno Mendes,M,Portugal,POR,2008,Beijing,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Nuno Mendes,M,Portugal,POR,2012,London,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Carlos Oliveira,M,Portugal,POR,1972,Munich,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False
-Jos Pinheiro,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Jos Porto,M,Portugal,POR,1960,Roma,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Manuel Regala,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Leonel Rgo,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Carlos Roque,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Joo Santos,M,Portugal,POR,1992,Barcelona,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False
-Ildio Silva,M,Portugal,POR,1960,Roma,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Albino Neto,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True
-Albino Neto,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True
-Antnio Torres,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Ruimondo Valena,M,Portugal,POR,1960,Roma,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Jos Vieira,M,Portugal,POR,1960,Roma,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Afonso Costa,M,Portugal,POR,2020,Tokyo,Rowing,Lightweight Men's Double Sculls Team,No medal,Lightweight,ROW,False
-Pedro Fraga,M,Portugal,POR,2020,Tokyo,Rowing,Lightweight Men's Double Sculls Team,No medal,Lightweight,ROW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Samuel Aguiar,M,Portugal,POR,1996,Atlanta,Rowing,Rowing Men's Lightweight Coxless Fours,No medal,Rowing,ROW,False,True
+Daniel Alves,M,Portugal,POR,1992,Barcelona,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False,True
+Zacarias Andias,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Henrique Baixinho,M,Portugal,POR,1996,Atlanta,Rowing,Rowing Men's Lightweight Coxless Fours,No medal,Rowing,ROW,False,True
+Manuel Barroso,M,Portugal,POR,1972,Munich,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False,True
+Jos Cancela,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Jorge Cravinho,M,Portugal,POR,1960,Roma,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Joo Cravo,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Carlos Benta,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True,True
+Carlos Benta,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True,False
+Ricardo Benta,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Joo Paula,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Delfim Silva,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Joo Sousa,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Jos Seixo,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Joo Fernandes,M,Portugal,POR,1996,Atlanta,Rowing,Rowing Men's Lightweight Coxless Fours,No medal,Rowing,ROW,False,True
+Manuel Fernandes,M,Portugal,POR,1996,Atlanta,Rowing,Rowing Men's Lightweight Coxless Fours,No medal,Rowing,ROW,False,True
+Felisberto Fortes,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True,True
+Felisberto Fortes,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True,False
+Pedro Fraga,M,Portugal,POR,2008,Beijing,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Pedro Fraga,M,Portugal,POR,2012,London,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Joo Lemos,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True,True
+Joo Lemos,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True,False
+Jos Machado,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Lus Machado,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Jos Marques,M,Portugal,POR,1972,Munich,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Nuno Mendes,M,Portugal,POR,2008,Beijing,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Nuno Mendes,M,Portugal,POR,2012,London,Rowing,Rowing Men's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Carlos Oliveira,M,Portugal,POR,1972,Munich,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False,True
+Jos Pinheiro,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Jos Porto,M,Portugal,POR,1960,Roma,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Manuel Regala,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Leonel Rgo,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Carlos Roque,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Joo Santos,M,Portugal,POR,1992,Barcelona,Rowing,Rowing Men's Double Sculls,No medal,Rowing,ROW,False,True
+Ildio Silva,M,Portugal,POR,1960,Roma,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Albino Neto,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True,True
+Albino Neto,M,Portugal,POR,1952,Helsinki,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,True,False
+Antnio Torres,M,Portugal,POR,1948,London,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Ruimondo Valena,M,Portugal,POR,1960,Roma,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Jos Vieira,M,Portugal,POR,1960,Roma,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Afonso Costa,M,Portugal,POR,2020,Tokyo,Rowing,Lightweight Men's Double Sculls Team,No medal,Lightweight,ROW,False,True
+Pedro Fraga,M,Portugal,POR,2020,Tokyo,Rowing,Lightweight Men's Double Sculls Team,No medal,Lightweight,ROW,True,False

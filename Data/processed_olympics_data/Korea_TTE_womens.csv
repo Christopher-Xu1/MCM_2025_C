@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jihee Jeon,F,Korea,KOR,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Jihee Jeon,F,Korea,KOR,2024,Paris,Table Tennis,Women's Team,Bronze,Women's,TTE,True
-Eunhye Lee,F,Korea,KOR,2024,Paris,Table Tennis,Women's Team,Bronze,Women's,TTE,False
-Yubin Shin,F,Korea,KOR,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Yubin Shin,F,Korea,KOR,2024,Paris,Table Tennis,Women's Team,Bronze,Women's,TTE,True
-Yubin Shin,F,Korea,KOR,2024,Paris,Table Tennis,Mixed Doubles,Bronze,Mixed,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jihee Jeon,F,Korea,KOR,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Jihee Jeon,F,Korea,KOR,2024,Paris,Table Tennis,Women's Team,Bronze,Women's,TTE,True,True
+Eunhye Lee,F,Korea,KOR,2024,Paris,Table Tennis,Women's Team,Bronze,Women's,TTE,False,True
+Yubin Shin,F,Korea,KOR,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Yubin Shin,F,Korea,KOR,2024,Paris,Table Tennis,Women's Team,Bronze,Women's,TTE,True,True
+Yubin Shin,F,Korea,KOR,2024,Paris,Table Tennis,Mixed Doubles,Bronze,Mixed,TTE,True,True

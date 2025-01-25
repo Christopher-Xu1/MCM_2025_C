@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vera (-jobst),F,Yugoslavia,YUG,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Margit Kristijan,F,Yugoslavia,YUG,1936,Berlin,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Ivka Tavar,F,Yugoslavia,YUG,1936,Berlin,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vera (-jobst),F,Yugoslavia,YUG,1960,Roma,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Margit Kristijan,F,Yugoslavia,YUG,1936,Berlin,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Ivka Tavar,F,Yugoslavia,YUG,1936,Berlin,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True

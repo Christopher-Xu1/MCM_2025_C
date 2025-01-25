@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Helmut Hofmann,M,Saar,SAA,1952,Helsinki,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Wilhelm Rammo,M,Saar,SAA,1952,Helsinki,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Kurt Schirra,M,Saar,SAA,1952,Helsinki,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Helmut Hofmann,M,Saar,SAA,1952,Helsinki,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Wilhelm Rammo,M,Saar,SAA,1952,Helsinki,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Kurt Schirra,M,Saar,SAA,1952,Helsinki,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True

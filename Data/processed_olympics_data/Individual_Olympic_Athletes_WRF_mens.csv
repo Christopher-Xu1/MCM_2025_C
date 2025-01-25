@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zoran Galovi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,False
-Milo Govedarica,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False
-Pajo Ivoevi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False
-Goran Kasum,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False
-Milan Radakovi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False
-Senad Rizvanovi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,False
-Nandor Paloc,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False
-Zoran Orov,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False
-eljko Trajkovi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zoran Galovi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Milo Govedarica,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Pajo Ivoevi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Goran Kasum,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Milan Radakovi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Senad Rizvanovi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Nandor Paloc,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Zoran Orov,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False,True
+eljko Trajkovi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False,True

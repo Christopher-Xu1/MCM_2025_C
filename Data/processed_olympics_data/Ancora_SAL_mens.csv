@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Robert Coleman,M,Ancora,GBR,1920,Antwerpen,Sailing,Sailing Mixed 7 metres,Gold,Sailing,SAL,False
-William Maddison,M,Ancora,GBR,1920,Antwerpen,Sailing,Sailing Mixed 7 metres,Gold,Sailing,SAL,False
-Cyril Wright,M,Ancora,GBR,1920,Antwerpen,Sailing,Sailing Mixed 7 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Robert Coleman,M,Ancora,GBR,1920,Antwerpen,Sailing,Sailing Mixed 7 metres,Gold,Sailing,SAL,False,True
+William Maddison,M,Ancora,GBR,1920,Antwerpen,Sailing,Sailing Mixed 7 metres,Gold,Sailing,SAL,False,True
+Cyril Wright,M,Ancora,GBR,1920,Antwerpen,Sailing,Sailing Mixed 7 metres,Gold,Sailing,SAL,False,True

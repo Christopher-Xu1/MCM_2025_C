@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ryan Carneli,M,Australia,AUS,2008,Beijing,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Warren Hansen,M,Australia,AUS,2000,Sydney,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False
-Burak Hasan,M,Australia,AUS,2008,Beijing,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False
-Safwan Khalil,M,Australia,AUS,2012,London,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,True
-Safwan Khalil,M,Australia,AUS,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,True
-Paul Lyons,M,Australia,AUS,2000,Sydney,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Carlo Massimino,M,Australia,AUS,2000,Sydney,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,True
-Carlo Massimino,M,Australia,AUS,2004,Athina,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,True
-Hayder Shkara,M,Australia,AUS,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False
-Daniel Trenton,M,Australia,AUS,2000,Sydney,Taekwondo,Taekwondo Men's Heavyweight,Silver,Taekwondo,TKW,True
-Daniel Trenton,M,Australia,AUS,2004,Athina,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,True
-Safwan Khalil,M,Australia,AUS,2020,Tokyo,Taekwondo,Men -58kg,No medal,Men,TKW,True
-Jack Marton,M,Australia,AUS,2020,Tokyo,Taekwondo,Men -80kg,No medal,Men,TKW,False
-Bailey Lewis,M,Australia,AUS,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,False
-Leon Sejranovic,M,Australia,AUS,2024,Paris,Taekwondo,Men -80kg,No medal,Men,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ryan Carneli,M,Australia,AUS,2008,Beijing,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Warren Hansen,M,Australia,AUS,2000,Sydney,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False,True
+Burak Hasan,M,Australia,AUS,2008,Beijing,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False,True
+Safwan Khalil,M,Australia,AUS,2012,London,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,True,True
+Safwan Khalil,M,Australia,AUS,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,True,False
+Paul Lyons,M,Australia,AUS,2000,Sydney,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Carlo Massimino,M,Australia,AUS,2000,Sydney,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,True,True
+Carlo Massimino,M,Australia,AUS,2004,Athina,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,True,False
+Hayder Shkara,M,Australia,AUS,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False,True
+Daniel Trenton,M,Australia,AUS,2000,Sydney,Taekwondo,Taekwondo Men's Heavyweight,Silver,Taekwondo,TKW,True,True
+Daniel Trenton,M,Australia,AUS,2004,Athina,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,True,False
+Safwan Khalil,M,Australia,AUS,2020,Tokyo,Taekwondo,Men -58kg,No medal,Men,TKW,True,False
+Jack Marton,M,Australia,AUS,2020,Tokyo,Taekwondo,Men -80kg,No medal,Men,TKW,False,True
+Bailey Lewis,M,Australia,AUS,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,False,True
+Leon Sejranovic,M,Australia,AUS,2024,Paris,Taekwondo,Men -80kg,No medal,Men,TKW,False,True

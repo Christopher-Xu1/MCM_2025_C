@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mia Blazhevska,F,North Macedonia,MKD,2020,Tokyo,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mia Blazhevska,F,North Macedonia,MKD,2020,Tokyo,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,False,True

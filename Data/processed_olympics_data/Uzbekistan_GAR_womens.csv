@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Oksana Chusovitina,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Oksana Chusovitina,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Oksana Chusovitina,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Oksana Chusovitina,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Oksana Chusovitina,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Oksana Chusovitina,F,Uzbekistan,UZB,2000,Sydney,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Oksana Chusovitina,F,Uzbekistan,UZB,2000,Sydney,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Oksana Chusovitina,F,Uzbekistan,UZB,2000,Sydney,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Oksana Chusovitina,F,Uzbekistan,UZB,2000,Sydney,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Oksana Chusovitina,F,Uzbekistan,UZB,2000,Sydney,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Oksana Chusovitina,F,Uzbekistan,UZB,2004,Athina,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Oksana Chusovitina,F,Uzbekistan,UZB,2004,Athina,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Oksana Chusovitina,F,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Oksana Chusovitina,F,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Anastasiya Dzyundzyak,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Anastasiya Dzyundzyak,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Anastasiya Dzyundzyak,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Anastasiya Dzyundzyak,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Anastasiya Dzyundzyak,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Luiza Galiulina,F,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Luiza Galiulina,F,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Luiza Galiulina,F,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Luiza Galiulina,F,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Oksana Chusovitina,F,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Oksana Chusovitina,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Oksana Chusovitina,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Oksana Chusovitina,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Oksana Chusovitina,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Oksana Chusovitina,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Oksana Chusovitina,F,Uzbekistan,UZB,2000,Sydney,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,False
+Oksana Chusovitina,F,Uzbekistan,UZB,2000,Sydney,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,False
+Oksana Chusovitina,F,Uzbekistan,UZB,2000,Sydney,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,False
+Oksana Chusovitina,F,Uzbekistan,UZB,2000,Sydney,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,False
+Oksana Chusovitina,F,Uzbekistan,UZB,2000,Sydney,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,False
+Oksana Chusovitina,F,Uzbekistan,UZB,2004,Athina,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,False
+Oksana Chusovitina,F,Uzbekistan,UZB,2004,Athina,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,False
+Oksana Chusovitina,F,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,False
+Oksana Chusovitina,F,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,False
+Anastasiya Dzyundzyak,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Anastasiya Dzyundzyak,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Anastasiya Dzyundzyak,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Anastasiya Dzyundzyak,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Anastasiya Dzyundzyak,F,Uzbekistan,UZB,1996,Atlanta,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Luiza Galiulina,F,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Luiza Galiulina,F,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Luiza Galiulina,F,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Luiza Galiulina,F,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Oksana Chusovitina,F,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True,False

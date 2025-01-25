@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Essa Al-busmait,M,Bahrain,BRN,1996,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Khaled Al-sada,M,Bahrain,BRN,1996,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Mohamed Al-sada,M,Bahrain,BRN,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Ahmed Al-saie,M,Bahrain,BRN,1996,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Sami Kooheji,M,Bahrain,BRN,2004,Athina,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Essa Al-busmait,M,Bahrain,BRN,1996,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Khaled Al-sada,M,Bahrain,BRN,1996,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Mohamed Al-sada,M,Bahrain,BRN,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Ahmed Al-saie,M,Bahrain,BRN,1996,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Sami Kooheji,M,Bahrain,BRN,2004,Athina,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True

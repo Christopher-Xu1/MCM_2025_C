@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fiorella Brusatin,F,Colombia,COL,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Mara Rendn,F,Colombia,COL,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Carolina Velasquez,F,Colombia,COL,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fiorella Brusatin,F,Colombia,COL,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Mara Rendn,F,Colombia,COL,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Carolina Velasquez,F,Colombia,COL,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False,True

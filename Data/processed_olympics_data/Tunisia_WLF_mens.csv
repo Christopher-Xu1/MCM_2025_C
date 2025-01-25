@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Karem Hnia,M,Tunisia,TUN,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Hatem Bouabid,M,Tunisia,TUN,1984,Los Angeles,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Khalil El-maaoui,M,Tunisia,TUN,2008,Beijing,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Khalil El-maaoui,M,Tunisia,TUN,2012,London,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Taoufik Maaouia,M,Tunisia,TUN,1984,Los Angeles,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Youssef Sba,M,Tunisia,TUN,2000,Sydney,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Youssef Sba,M,Tunisia,TUN,2004,Athina,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Arbi Trab,M,Tunisia,TUN,1992,Barcelona,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Aymen Bacha,M,Tunisia,TUN,2020,Tokyo,Weightlifting,Men's 109kg,No medal,Men's,WLF,False
-Ramzi Bahloul,M,Tunisia,TUN,2020,Tokyo,Weightlifting,Men's 81kg,No medal,Men's,WLF,False
-Karem Ben,M,Tunisia,TUN,2020,Tokyo,Weightlifting,Men's 73kg,No medal,Men's,WLF,True
-Karem Ben,M,Tunisia,TUN,2024,Paris,Weightlifting,Men's 73kg,No medal,Men's,WLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Karem Hnia,M,Tunisia,TUN,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Hatem Bouabid,M,Tunisia,TUN,1984,Los Angeles,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Khalil El-maaoui,M,Tunisia,TUN,2008,Beijing,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,True
+Khalil El-maaoui,M,Tunisia,TUN,2012,London,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,False
+Taoufik Maaouia,M,Tunisia,TUN,1984,Los Angeles,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Youssef Sba,M,Tunisia,TUN,2000,Sydney,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,True
+Youssef Sba,M,Tunisia,TUN,2004,Athina,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Arbi Trab,M,Tunisia,TUN,1992,Barcelona,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Aymen Bacha,M,Tunisia,TUN,2020,Tokyo,Weightlifting,Men's 109kg,No medal,Men's,WLF,False,True
+Ramzi Bahloul,M,Tunisia,TUN,2020,Tokyo,Weightlifting,Men's 81kg,No medal,Men's,WLF,False,True
+Karem Ben,M,Tunisia,TUN,2020,Tokyo,Weightlifting,Men's 73kg,No medal,Men's,WLF,True,True
+Karem Ben,M,Tunisia,TUN,2024,Paris,Weightlifting,Men's 73kg,No medal,Men's,WLF,True,False

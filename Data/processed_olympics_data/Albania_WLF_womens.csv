@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Romela Begaj,F,Albania,ALB,2008,Beijing,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True
-Romela Begaj,F,Albania,ALB,2012,London,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True
-Evagjelia Veli,F,Albania,ALB,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Romela Begaj,F,Albania,ALB,2008,Beijing,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True,True
+Romela Begaj,F,Albania,ALB,2012,London,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True,False
+Evagjelia Veli,F,Albania,ALB,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False,True

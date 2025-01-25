@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Astor,M,United Kingdom,GBR,1908,London,Racquets,Racquets Men's Singles,Bronze,Racquets,RQT,False
-Henry Brougham,M,United Kingdom,GBR,1908,London,Racquets,Racquets Men's Singles,Bronze,Racquets,RQT,False
-Cecil Browning,M,United Kingdom,GBR,1908,London,Racquets,Racquets Men's Singles,No medal,Racquets,RQT,False
-Henry Leaf,M,United Kingdom,GBR,1908,London,Racquets,Racquets Men's Singles,Silver,Racquets,RQT,False
-Evan Noel,M,United Kingdom,GBR,1908,London,Racquets,Racquets Men's Singles,Gold,Racquets,RQT,False
-Vane Pennell,M,United Kingdom,GBR,1908,London,Racquets,Racquets Men's Singles,No medal,Racquets,RQT,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Astor,M,United Kingdom,GBR,1908,London,Racquets,Racquets Men's Singles,Bronze,Racquets,RQT,False,True
+Henry Brougham,M,United Kingdom,GBR,1908,London,Racquets,Racquets Men's Singles,Bronze,Racquets,RQT,False,True
+Cecil Browning,M,United Kingdom,GBR,1908,London,Racquets,Racquets Men's Singles,No medal,Racquets,RQT,False,True
+Henry Leaf,M,United Kingdom,GBR,1908,London,Racquets,Racquets Men's Singles,Silver,Racquets,RQT,False,True
+Evan Noel,M,United Kingdom,GBR,1908,London,Racquets,Racquets Men's Singles,Gold,Racquets,RQT,False,True
+Vane Pennell,M,United Kingdom,GBR,1908,London,Racquets,Racquets Men's Singles,No medal,Racquets,RQT,False,True

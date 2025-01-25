@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Samuel Allen,M,Ireland,IRL,1996,Atlanta,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True
-Samuel Allen,M,Ireland,IRL,1996,Atlanta,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True
-Patrick Brady,M,Ireland,IRL,1968,Mexico City,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True
-Patrick Brady,M,Ireland,IRL,1972,Munich,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True
-Derek Burnett,M,Ireland,IRL,2000,Sydney,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True
-Derek Burnett,M,Ireland,IRL,2004,Athina,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True
-Derek Burnett,M,Ireland,IRL,2008,Beijing,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True
-Derek Burnett,M,Ireland,IRL,2012,London,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True
-William Campbell,M,Ireland,IRL,1972,Munich,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Nicholas Cooney,M,Ireland,IRL,1980,Moskva,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Gary Duff,M,Ireland,IRL,1996,Atlanta,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Richard Flynn,M,Ireland,IRL,1976,Montreal,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-Thomas Hewitt,M,Ireland,IRL,1980,Moskva,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-James Kelly,M,Ireland,IRL,1968,Mexico City,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True
-James Kelly,M,Ireland,IRL,1972,Munich,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True
-Alan Lewis,M,Ireland,IRL,2000,Sydney,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-David Malone,M,Ireland,IRL,2000,Sydney,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False
-Roy Mcgowan,M,Ireland,IRL,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-Arthur Mcmahon,M,Ireland,IRL,1968,Mexico City,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True
-Arthur Mcmahon,M,Ireland,IRL,1972,Munich,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True
-Reginald Stanford,M,Ireland,IRL,1980,Moskva,Shooting,"Shooting Mixed Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,True
-Reginald Stanford,M,Ireland,IRL,1980,Moskva,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,True
-Albert Thompson,M,Ireland,IRL,1980,Moskva,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True
-Albert Thompson,M,Ireland,IRL,1984,Los Angeles,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True
-Derek Burnett,M,Ireland,IRL,2020,Tokyo,Shooting,Trap Men,No medal,Trap,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Samuel Allen,M,Ireland,IRL,1996,Atlanta,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True,True
+Samuel Allen,M,Ireland,IRL,1996,Atlanta,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True,True
+Patrick Brady,M,Ireland,IRL,1968,Mexico City,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True,True
+Patrick Brady,M,Ireland,IRL,1972,Munich,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True,False
+Derek Burnett,M,Ireland,IRL,2000,Sydney,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True,True
+Derek Burnett,M,Ireland,IRL,2004,Athina,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True,False
+Derek Burnett,M,Ireland,IRL,2008,Beijing,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True,False
+Derek Burnett,M,Ireland,IRL,2012,London,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True,False
+William Campbell,M,Ireland,IRL,1972,Munich,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Nicholas Cooney,M,Ireland,IRL,1980,Moskva,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Gary Duff,M,Ireland,IRL,1996,Atlanta,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Richard Flynn,M,Ireland,IRL,1976,Montreal,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+Thomas Hewitt,M,Ireland,IRL,1980,Moskva,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+James Kelly,M,Ireland,IRL,1968,Mexico City,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True,True
+James Kelly,M,Ireland,IRL,1972,Munich,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True,False
+Alan Lewis,M,Ireland,IRL,2000,Sydney,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+David Malone,M,Ireland,IRL,2000,Sydney,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False,True
+Roy Mcgowan,M,Ireland,IRL,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+Arthur Mcmahon,M,Ireland,IRL,1968,Mexico City,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True,True
+Arthur Mcmahon,M,Ireland,IRL,1972,Munich,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True,False
+Reginald Stanford,M,Ireland,IRL,1980,Moskva,Shooting,"Shooting Mixed Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Reginald Stanford,M,Ireland,IRL,1980,Moskva,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,True,True
+Albert Thompson,M,Ireland,IRL,1980,Moskva,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True,True
+Albert Thompson,M,Ireland,IRL,1984,Los Angeles,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True,False
+Derek Burnett,M,Ireland,IRL,2020,Tokyo,Shooting,Trap Men,No medal,Trap,SHO,True,False

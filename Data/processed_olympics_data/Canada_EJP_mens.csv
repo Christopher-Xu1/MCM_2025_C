@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mario Deslauriers,M,Canada,CAN,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Mario Deslauriers,M,Canada,CAN,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Mario Deslauriers,M,Canada,CAN,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mario Deslauriers,M,Canada,CAN,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Mario Deslauriers,M,Canada,CAN,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+Mario Deslauriers,M,Canada,CAN,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,False

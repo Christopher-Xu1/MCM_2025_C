@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Milica Nikolic,F,Serbia,SRB,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,True
-Anja Obradovic,F,Serbia,SRB,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,False
-Marica Perisic,F,Serbia,SRB,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,True
-Milica Nikolic,F,Serbia,SRB,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,True
-Milica Nikolic,F,Serbia,SRB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Marica Perisic,F,Serbia,SRB,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,True
-Marica Perisic,F,Serbia,SRB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Milica Zabic,F,Serbia,SRB,2024,Paris,Judo,Women +78 kg,No medal,Women,JUD,True
-Milica Zabic,F,Serbia,SRB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Milica Nikolic,F,Serbia,SRB,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,True,True
+Anja Obradovic,F,Serbia,SRB,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,False,True
+Marica Perisic,F,Serbia,SRB,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,True,True
+Milica Nikolic,F,Serbia,SRB,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,True,False
+Milica Nikolic,F,Serbia,SRB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,False
+Marica Perisic,F,Serbia,SRB,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,True,False
+Marica Perisic,F,Serbia,SRB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,False
+Milica Zabic,F,Serbia,SRB,2024,Paris,Judo,Women +78 kg,No medal,Women,JUD,True,True
+Milica Zabic,F,Serbia,SRB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,True

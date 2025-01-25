@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kristian Blummenfeldt,M,Norway,NOR,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Kristian Blummenfelt,M,Norway,NOR,2020,Tokyo,Triathlon,Men's Individual,Gold,Men's,TRI,True
-Gustav Iden,M,Norway,NOR,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,False
-Casper Stornes,M,Norway,NOR,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,False
-Bergsvik Thorn,M,Norway,NOR,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
-Kristian Blummenfelt,M,Norway,NOR,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kristian Blummenfeldt,M,Norway,NOR,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Kristian Blummenfelt,M,Norway,NOR,2020,Tokyo,Triathlon,Men's Individual,Gold,Men's,TRI,True,True
+Gustav Iden,M,Norway,NOR,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,False,True
+Casper Stornes,M,Norway,NOR,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,False,True
+Bergsvik Thorn,M,Norway,NOR,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True
+Kristian Blummenfelt,M,Norway,NOR,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True,False

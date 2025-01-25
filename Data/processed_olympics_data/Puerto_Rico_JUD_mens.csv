@@ -1,32 +1,32 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ramn Ayala,M,Puerto Rico,PUR,2004,Athina,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Eliudis Bentez,M,Puerto Rico,PUR,1976,Montreal,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Jorge Bonnet,M,Puerto Rico,PUR,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Jorge Bonnet,M,Puerto Rico,PUR,1988,Seoul,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Abderramn Roche,M,Puerto Rico,PUR,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Gustavo Brito,M,Puerto Rico,PUR,1972,Munich,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Jos Chandri,M,Puerto Rico,PUR,1976,Montreal,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Jos Chandri,M,Puerto Rico,PUR,1976,Montreal,Judo,Judo Men's Open Class,No medal,Judo,JUD,True
-Alexis Melendez,M,Puerto Rico,PUR,2008,Beijing,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Jos Martnez,M,Puerto Rico,PUR,1996,Atlanta,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Jos Martnez,M,Puerto Rico,PUR,2000,Sydney,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Pablo Carillo,M,Puerto Rico,PUR,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Jos Fuentes,M,Puerto Rico,PUR,1984,Los Angeles,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Juan Marin,M,Puerto Rico,PUR,1972,Munich,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Luis Rosado,M,Puerto Rico,PUR,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Luis Rosado,M,Puerto Rico,PUR,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Carlos Acevedo,M,Puerto Rico,PUR,2000,Sydney,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Melvin Acevedo,M,Puerto Rico,PUR,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Melvin Acevedo,M,Puerto Rico,PUR,2000,Sydney,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Melvin Acevedo,M,Puerto Rico,PUR,2004,Athina,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Carlos Miranda,M,Puerto Rico,PUR,1976,Montreal,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Roberto Pacheco,M,Puerto Rico,PUR,1972,Munich,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Jos Prez,M,Puerto Rico,PUR,1996,Atlanta,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Vctor Rivera,M,Puerto Rico,PUR,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Francisco Rodrguez,M,Puerto Rico,PUR,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Angelo Ruiz,M,Puerto Rico,PUR,1976,Montreal,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Angelo Ruiz,M,Puerto Rico,PUR,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Carlos Alicea,M,Puerto Rico,PUR,2000,Sydney,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Pedro Santos,M,Puerto Rico,PUR,1976,Montreal,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Adrian Gandia,M,Puerto Rico,PUR,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,True
-Adrian Gandia,M,Puerto Rico,PUR,2024,Paris,Judo,Men -81 kg,No medal,Men,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ramn Ayala,M,Puerto Rico,PUR,2004,Athina,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Eliudis Bentez,M,Puerto Rico,PUR,1976,Montreal,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Jorge Bonnet,M,Puerto Rico,PUR,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Jorge Bonnet,M,Puerto Rico,PUR,1988,Seoul,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,False
+Abderramn Roche,M,Puerto Rico,PUR,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Gustavo Brito,M,Puerto Rico,PUR,1972,Munich,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Jos Chandri,M,Puerto Rico,PUR,1976,Montreal,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,True
+Jos Chandri,M,Puerto Rico,PUR,1976,Montreal,Judo,Judo Men's Open Class,No medal,Judo,JUD,True,True
+Alexis Melendez,M,Puerto Rico,PUR,2008,Beijing,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Jos Martnez,M,Puerto Rico,PUR,1996,Atlanta,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Jos Martnez,M,Puerto Rico,PUR,2000,Sydney,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Pablo Carillo,M,Puerto Rico,PUR,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Jos Fuentes,M,Puerto Rico,PUR,1984,Los Angeles,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Juan Marin,M,Puerto Rico,PUR,1972,Munich,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Luis Rosado,M,Puerto Rico,PUR,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Luis Rosado,M,Puerto Rico,PUR,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False
+Carlos Acevedo,M,Puerto Rico,PUR,2000,Sydney,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Melvin Acevedo,M,Puerto Rico,PUR,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Melvin Acevedo,M,Puerto Rico,PUR,2000,Sydney,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False
+Melvin Acevedo,M,Puerto Rico,PUR,2004,Athina,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False
+Carlos Miranda,M,Puerto Rico,PUR,1976,Montreal,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Roberto Pacheco,M,Puerto Rico,PUR,1972,Munich,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Jos Prez,M,Puerto Rico,PUR,1996,Atlanta,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Vctor Rivera,M,Puerto Rico,PUR,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Francisco Rodrguez,M,Puerto Rico,PUR,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Angelo Ruiz,M,Puerto Rico,PUR,1976,Montreal,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Angelo Ruiz,M,Puerto Rico,PUR,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Carlos Alicea,M,Puerto Rico,PUR,2000,Sydney,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Pedro Santos,M,Puerto Rico,PUR,1976,Montreal,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Adrian Gandia,M,Puerto Rico,PUR,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,True,True
+Adrian Gandia,M,Puerto Rico,PUR,2024,Paris,Judo,Men -81 kg,No medal,Men,JUD,True,False

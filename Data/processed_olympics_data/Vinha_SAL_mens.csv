@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Douglas Buxton,M,Vinha,AUS,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Aatos Hirvisalo,M,Vinha,FIN,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Niilo (orrstrm-),M,Vinha,FIN,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Rainer Packaln,M,Vinha,FIN,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Alexander Sturrock,M,Vinha,AUS,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Bevan Worcester,M,Vinha,AUS,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Douglas Buxton,M,Vinha,AUS,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Aatos Hirvisalo,M,Vinha,FIN,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Niilo (orrstrm-),M,Vinha,FIN,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Rainer Packaln,M,Vinha,FIN,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Alexander Sturrock,M,Vinha,AUS,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Bevan Worcester,M,Vinha,AUS,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

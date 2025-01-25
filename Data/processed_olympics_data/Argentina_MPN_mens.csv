@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ral Bauza,M,Argentina,ARG,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Ral Bauza,M,Argentina,ARG,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Jorge Moni,M,Argentina,ARG,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jorge Moni,M,Argentina,ARG,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Augusto Premoli,M,Argentina,ARG,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Luis Ribera,M,Argentina,ARG,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Luis Ribera,M,Argentina,ARG,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Luis Ribera,M,Argentina,ARG,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Luis Ribera,M,Argentina,ARG,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Luis Ribera,M,Argentina,ARG,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Horacio Siburu,M,Argentina,ARG,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Carlos Stricker,M,Argentina,ARG,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Carlos Stricker,M,Argentina,ARG,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Carlos Velzquez,M,Argentina,ARG,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Carlos Velzquez,M,Argentina,ARG,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Enrique Wirth,M,Argentina,ARG,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Emmanuel Zapata,M,Argentina,ARG,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Sergio Villamayor,M,Argentina,ARG,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False
-Franco Serrano,M,Argentina,ARG,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ral Bauza,M,Argentina,ARG,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Ral Bauza,M,Argentina,ARG,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Jorge Moni,M,Argentina,ARG,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Jorge Moni,M,Argentina,ARG,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Augusto Premoli,M,Argentina,ARG,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Luis Ribera,M,Argentina,ARG,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Luis Ribera,M,Argentina,ARG,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Luis Ribera,M,Argentina,ARG,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Luis Ribera,M,Argentina,ARG,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Luis Ribera,M,Argentina,ARG,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Horacio Siburu,M,Argentina,ARG,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Carlos Stricker,M,Argentina,ARG,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Carlos Stricker,M,Argentina,ARG,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Carlos Velzquez,M,Argentina,ARG,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Carlos Velzquez,M,Argentina,ARG,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Enrique Wirth,M,Argentina,ARG,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Emmanuel Zapata,M,Argentina,ARG,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Sergio Villamayor,M,Argentina,ARG,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False,True
+Franco Serrano,M,Argentina,ARG,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False,True

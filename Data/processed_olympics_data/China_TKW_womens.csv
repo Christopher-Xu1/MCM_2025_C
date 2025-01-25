@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chen Zhong,F,China,CHN,2000,Sydney,Taekwondo,Taekwondo Women's Heavyweight,Gold,Taekwondo,TKW,True
-Chen Zhong,F,China,CHN,2004,Athina,Taekwondo,Taekwondo Women's Heavyweight,Gold,Taekwondo,TKW,True
-Chen Zhong,F,China,CHN,2008,Beijing,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,True
-He Lumin,F,China,CHN,2000,Sydney,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,False
-Hou Yuzhuo,F,China,CHN,2012,London,Taekwondo,Taekwondo Women's Featherweight,Silver,Taekwondo,TKW,False
-Luo Wei,F,China,CHN,2004,Athina,Taekwondo,Taekwondo Women's Welterweight,Gold,Taekwondo,TKW,False
-Wu Jingyu,F,China,CHN,2008,Beijing,Taekwondo,Taekwondo Women's Flyweight,Gold,Taekwondo,TKW,True
-Wu Jingyu,F,China,CHN,2012,London,Taekwondo,Taekwondo Women's Flyweight,Gold,Taekwondo,TKW,True
-Wu Jingyu,F,China,CHN,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,True
-Zheng Shuyin,F,China,CHN,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Heavyweight,Gold,Taekwondo,TKW,False
-Jingyu Wu,F,China,CHN,2020,Tokyo,Taekwondo,Women -49kg,No medal,Women,TKW,False
-Mengyu Zhang,F,China,CHN,2020,Tokyo,Taekwondo,Women -67kg,No medal,Women,TKW,False
-Shuyin Zheng,F,China,CHN,2020,Tokyo,Taekwondo,Women +67kg,No medal,Women,TKW,False
-Lijun Zhou,F,China,CHN,2020,Tokyo,Taekwondo,Women -57kg,No medal,Women,TKW,False
-Zeqi Zhou,F,China,CHN,2024,Paris,Taekwondo,Women +67kg,No medal,Women,TKW,False
-Qing Guo,F,China,CHN,2024,Paris,Taekwondo,Women -49kg,Silver,Women,TKW,False
-Zongshi Luo,F,China,CHN,2024,Paris,Taekwondo,Women -57kg,No medal,Women,TKW,False
-Jie Song,F,China,CHN,2024,Paris,Taekwondo,Women -67kg,No medal,Women,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chen Zhong,F,China,CHN,2000,Sydney,Taekwondo,Taekwondo Women's Heavyweight,Gold,Taekwondo,TKW,True,True
+Chen Zhong,F,China,CHN,2004,Athina,Taekwondo,Taekwondo Women's Heavyweight,Gold,Taekwondo,TKW,True,False
+Chen Zhong,F,China,CHN,2008,Beijing,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,True,False
+He Lumin,F,China,CHN,2000,Sydney,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,False,True
+Hou Yuzhuo,F,China,CHN,2012,London,Taekwondo,Taekwondo Women's Featherweight,Silver,Taekwondo,TKW,False,True
+Luo Wei,F,China,CHN,2004,Athina,Taekwondo,Taekwondo Women's Welterweight,Gold,Taekwondo,TKW,False,True
+Wu Jingyu,F,China,CHN,2008,Beijing,Taekwondo,Taekwondo Women's Flyweight,Gold,Taekwondo,TKW,True,True
+Wu Jingyu,F,China,CHN,2012,London,Taekwondo,Taekwondo Women's Flyweight,Gold,Taekwondo,TKW,True,False
+Wu Jingyu,F,China,CHN,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,True,False
+Zheng Shuyin,F,China,CHN,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Heavyweight,Gold,Taekwondo,TKW,False,True
+Jingyu Wu,F,China,CHN,2020,Tokyo,Taekwondo,Women -49kg,No medal,Women,TKW,False,True
+Mengyu Zhang,F,China,CHN,2020,Tokyo,Taekwondo,Women -67kg,No medal,Women,TKW,False,True
+Shuyin Zheng,F,China,CHN,2020,Tokyo,Taekwondo,Women +67kg,No medal,Women,TKW,False,True
+Lijun Zhou,F,China,CHN,2020,Tokyo,Taekwondo,Women -57kg,No medal,Women,TKW,False,True
+Zeqi Zhou,F,China,CHN,2024,Paris,Taekwondo,Women +67kg,No medal,Women,TKW,False,True
+Qing Guo,F,China,CHN,2024,Paris,Taekwondo,Women -49kg,Silver,Women,TKW,False,True
+Zongshi Luo,F,China,CHN,2024,Paris,Taekwondo,Women -57kg,No medal,Women,TKW,False,True
+Jie Song,F,China,CHN,2024,Paris,Taekwondo,Women -67kg,No medal,Women,TKW,False,True

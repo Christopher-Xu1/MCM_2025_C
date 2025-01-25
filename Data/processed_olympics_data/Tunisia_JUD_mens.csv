@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Slim Agrebi,M,Tunisia,TUN,1996,Atlanta,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Abdessalem Arous,M,Tunisia,TUN,2000,Sydney,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Makrem Ayed,M,Tunisia,TUN,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Makrem Ayed,M,Tunisia,TUN,2000,Sydney,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Youssef Badra,M,Tunisia,TUN,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Hassan Gamra,M,Tunisia,TUN,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Anis Al-chedli,M,Tunisia,TUN,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Ali Hachicha,M,Tunisia,TUN,1964,Tokyo,Judo,Judo Men's Open Class,No medal,Judo,JUD,False
-Iskander Hachicha,M,Tunisia,TUN,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Iskander Hachicha,M,Tunisia,TUN,2000,Sydney,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Faicel Jaballah,M,Tunisia,TUN,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Faicel Jaballah,M,Tunisia,TUN,2016,Rio de Janeiro,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Sadok Khalki,M,Tunisia,TUN,2000,Sydney,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Bechir Kiiari,M,Tunisia,TUN,1984,Los Angeles,Judo,Judo Men's Open Class,No medal,Judo,JUD,False
-Anis Lounifi,M,Tunisia,TUN,2000,Sydney,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Anis Lounifi,M,Tunisia,TUN,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Hassen Moussa,M,Tunisia,TUN,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Hassen Moussa,M,Tunisia,TUN,2000,Sydney,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Salah Rekik,M,Tunisia,TUN,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Abdel Senoussi,M,Tunisia,TUN,1984,Los Angeles,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Slim Agrebi,M,Tunisia,TUN,1996,Atlanta,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Abdessalem Arous,M,Tunisia,TUN,2000,Sydney,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Makrem Ayed,M,Tunisia,TUN,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Makrem Ayed,M,Tunisia,TUN,2000,Sydney,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False
+Youssef Badra,M,Tunisia,TUN,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Hassan Gamra,M,Tunisia,TUN,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Anis Al-chedli,M,Tunisia,TUN,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Ali Hachicha,M,Tunisia,TUN,1964,Tokyo,Judo,Judo Men's Open Class,No medal,Judo,JUD,False,True
+Iskander Hachicha,M,Tunisia,TUN,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,True
+Iskander Hachicha,M,Tunisia,TUN,2000,Sydney,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,False
+Faicel Jaballah,M,Tunisia,TUN,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,True
+Faicel Jaballah,M,Tunisia,TUN,2016,Rio de Janeiro,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Sadok Khalki,M,Tunisia,TUN,2000,Sydney,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Bechir Kiiari,M,Tunisia,TUN,1984,Los Angeles,Judo,Judo Men's Open Class,No medal,Judo,JUD,False,True
+Anis Lounifi,M,Tunisia,TUN,2000,Sydney,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,True
+Anis Lounifi,M,Tunisia,TUN,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False
+Hassen Moussa,M,Tunisia,TUN,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Hassen Moussa,M,Tunisia,TUN,2000,Sydney,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Salah Rekik,M,Tunisia,TUN,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Abdel Senoussi,M,Tunisia,TUN,1984,Los Angeles,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True

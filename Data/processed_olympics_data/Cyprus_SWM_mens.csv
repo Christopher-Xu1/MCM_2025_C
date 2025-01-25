@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alexandros Aresti,M,Cyprus,CYP,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Alexandros Aresti,M,Cyprus,CYP,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Alexandros Aresti,M,Cyprus,CYP,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Giorgos Dimitriadis,M,Cyprus,CYP,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Giorgos Dimitriadis,M,Cyprus,CYP,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Kyriakos Dimosthenous,M,Cyprus,CYP,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Lakis Fylaktou,M,Cyprus,CYP,1980,Moskva,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Lakis Fylaktou,M,Cyprus,CYP,1980,Moskva,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Iacovos Hadjiconstantinou,M,Cyprus,CYP,2016,Rio de Janeiro,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,False
-Stavros Mikhailidis,M,Cyprus,CYP,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Stavros Mikhailidis,M,Cyprus,CYP,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Stavros Mikhailidis,M,Cyprus,CYP,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Stavros Mikhailidis,M,Cyprus,CYP,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Stavros Mikhailidis,M,Cyprus,CYP,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Kharalambos Panagidis,M,Cyprus,CYP,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Khrysanthos Papakhrysanthou,M,Cyprus,CYP,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Khrysanthos Papakhrysanthou,M,Cyprus,CYP,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Linos Petridis,M,Cyprus,CYP,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Nikolas Antoniou,M,Cyprus,CYP,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True
-Nikolas Antoniou,M,Cyprus,CYP,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
-Nikolas Antoniou,M,Cyprus,CYP,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alexandros Aresti,M,Cyprus,CYP,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Alexandros Aresti,M,Cyprus,CYP,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Alexandros Aresti,M,Cyprus,CYP,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Giorgos Dimitriadis,M,Cyprus,CYP,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Giorgos Dimitriadis,M,Cyprus,CYP,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Kyriakos Dimosthenous,M,Cyprus,CYP,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Lakis Fylaktou,M,Cyprus,CYP,1980,Moskva,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Lakis Fylaktou,M,Cyprus,CYP,1980,Moskva,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Iacovos Hadjiconstantinou,M,Cyprus,CYP,2016,Rio de Janeiro,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,False,True
+Stavros Mikhailidis,M,Cyprus,CYP,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Stavros Mikhailidis,M,Cyprus,CYP,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Stavros Mikhailidis,M,Cyprus,CYP,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Stavros Mikhailidis,M,Cyprus,CYP,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Stavros Mikhailidis,M,Cyprus,CYP,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Kharalambos Panagidis,M,Cyprus,CYP,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Khrysanthos Papakhrysanthou,M,Cyprus,CYP,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Khrysanthos Papakhrysanthou,M,Cyprus,CYP,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Linos Petridis,M,Cyprus,CYP,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Nikolas Antoniou,M,Cyprus,CYP,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True,True
+Nikolas Antoniou,M,Cyprus,CYP,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,True
+Nikolas Antoniou,M,Cyprus,CYP,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,False

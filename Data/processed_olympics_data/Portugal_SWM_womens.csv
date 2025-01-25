@@ -1,43 +1,43 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ana Alegria,F,Portugal,POR,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Ana Alegria,F,Portugal,POR,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Ana Alegria,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Ana Alegria,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Ana Alegria,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Joana Arantes,F,Portugal,POR,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Joana Arantes,F,Portugal,POR,1992,Barcelona,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Ana Barros,F,Portugal,POR,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Ana Barros,F,Portugal,POR,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Petra Chaves,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Petra Chaves,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Raquel Felgueiras,F,Portugal,POR,2000,Sydney,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Raquel Felgueiras,F,Portugal,POR,2004,Athina,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Ana Francisco,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Ana Francisco,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Ana Francisco,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Diana Gomes,F,Portugal,POR,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Diana Gomes,F,Portugal,POR,2004,Athina,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Diana Gomes,F,Portugal,POR,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Diana Gomes,F,Portugal,POR,2008,Beijing,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Tamila Holub,F,Portugal,POR,2016,Rio de Janeiro,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Daniela Incio,F,Portugal,POR,2008,Beijing,Swimming,Swimming Women's 10 kilometres Open Water,No medal,Swimming,SWM,False
-Victoria Kaminskaya,F,Portugal,POR,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Victoria Kaminskaya,F,Portugal,POR,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Sandra Neves,F,Portugal,POR,1988,Seoul,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Sandra Neves,F,Portugal,POR,1988,Seoul,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Vnia Neves,F,Portugal,POR,2016,Rio de Janeiro,Swimming,Swimming Women's 10 kilometres Open Water,No medal,Swimming,SWM,False
-Sara Oliveira,F,Portugal,POR,2008,Beijing,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Sara Oliveira,F,Portugal,POR,2008,Beijing,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Sara Oliveira,F,Portugal,POR,2012,London,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Sara Oliveira,F,Portugal,POR,2012,London,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Ana Rodrigues,F,Portugal,POR,2012,London,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Maria Santos,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Maria Santos,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Joana Soutinho,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Joana Soutinho,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Maria Veloso,F,Portugal,POR,1960,Roma,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Diana Duraes,F,Portugal,POR,2020,Tokyo,Swimming,Women's 1500m Freestyle,No medal,Women's,SWM,False
-Tamila Holub,F,Portugal,POR,2020,Tokyo,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,True
-Tamila Holub,F,Portugal,POR,2020,Tokyo,Swimming,Women's 1500m Freestyle,No medal,Women's,SWM,True
-Ana Monteiro,F,Portugal,POR,2020,Tokyo,Swimming,Women's 200m Butterfly,No medal,Women's,SWM,False
-Camila Rebelo,F,Portugal,POR,2024,Paris,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ana Alegria,F,Portugal,POR,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Ana Alegria,F,Portugal,POR,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Ana Alegria,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Ana Alegria,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,False
+Ana Alegria,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,False
+Joana Arantes,F,Portugal,POR,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Joana Arantes,F,Portugal,POR,1992,Barcelona,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Ana Barros,F,Portugal,POR,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Ana Barros,F,Portugal,POR,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Petra Chaves,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Petra Chaves,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Raquel Felgueiras,F,Portugal,POR,2000,Sydney,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Raquel Felgueiras,F,Portugal,POR,2004,Athina,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,False
+Ana Francisco,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Ana Francisco,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Ana Francisco,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Diana Gomes,F,Portugal,POR,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Diana Gomes,F,Portugal,POR,2004,Athina,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Diana Gomes,F,Portugal,POR,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Diana Gomes,F,Portugal,POR,2008,Beijing,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Tamila Holub,F,Portugal,POR,2016,Rio de Janeiro,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Daniela Incio,F,Portugal,POR,2008,Beijing,Swimming,Swimming Women's 10 kilometres Open Water,No medal,Swimming,SWM,False,True
+Victoria Kaminskaya,F,Portugal,POR,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Victoria Kaminskaya,F,Portugal,POR,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Sandra Neves,F,Portugal,POR,1988,Seoul,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Sandra Neves,F,Portugal,POR,1988,Seoul,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Vnia Neves,F,Portugal,POR,2016,Rio de Janeiro,Swimming,Swimming Women's 10 kilometres Open Water,No medal,Swimming,SWM,False,True
+Sara Oliveira,F,Portugal,POR,2008,Beijing,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Sara Oliveira,F,Portugal,POR,2008,Beijing,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Sara Oliveira,F,Portugal,POR,2012,London,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Sara Oliveira,F,Portugal,POR,2012,London,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,False
+Ana Rodrigues,F,Portugal,POR,2012,London,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Maria Santos,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Maria Santos,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Joana Soutinho,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Joana Soutinho,F,Portugal,POR,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Maria Veloso,F,Portugal,POR,1960,Roma,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Diana Duraes,F,Portugal,POR,2020,Tokyo,Swimming,Women's 1500m Freestyle,No medal,Women's,SWM,False,True
+Tamila Holub,F,Portugal,POR,2020,Tokyo,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,True,False
+Tamila Holub,F,Portugal,POR,2020,Tokyo,Swimming,Women's 1500m Freestyle,No medal,Women's,SWM,True,False
+Ana Monteiro,F,Portugal,POR,2020,Tokyo,Swimming,Women's 200m Butterfly,No medal,Women's,SWM,False,True
+Camila Rebelo,F,Portugal,POR,2024,Paris,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,False,True

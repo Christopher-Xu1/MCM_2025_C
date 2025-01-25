@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jaklein Al-duqom,F,Jordan,JOR,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Nadia Al-hindi,F,Jordan,JOR,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Tatiana Al-najar,F,Jordan,JOR,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Zeina Shaban,F,Jordan,JOR,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Zeina Shaban,F,Jordan,JOR,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jaklein Al-duqom,F,Jordan,JOR,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Nadia Al-hindi,F,Jordan,JOR,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Tatiana Al-najar,F,Jordan,JOR,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Zeina Shaban,F,Jordan,JOR,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Zeina Shaban,F,Jordan,JOR,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gertrude (-erni),F,Switzerland,SUI,1948,London,Art Competitions,"Art Competitions Mixed Painting, Applied Arts",No medal,Art,ART,True
-Gertrude (-erni),F,Switzerland,SUI,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Marguerite Blonay,F,Switzerland,SUI,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,False
-Charlotte Lobsiger-schibli,F,Switzerland,SUI,1948,London,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-Charlotte Lobsiger-schibli,F,Switzerland,SUI,1948,London,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gertrude (-erni),F,Switzerland,SUI,1948,London,Art Competitions,"Art Competitions Mixed Painting, Applied Arts",No medal,Art,ART,True,True
+Gertrude (-erni),F,Switzerland,SUI,1948,London,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Marguerite Blonay,F,Switzerland,SUI,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,False,True
+Charlotte Lobsiger-schibli,F,Switzerland,SUI,1948,London,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+Charlotte Lobsiger-schibli,F,Switzerland,SUI,1948,London,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True

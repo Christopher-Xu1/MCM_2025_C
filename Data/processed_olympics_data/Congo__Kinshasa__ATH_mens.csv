@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Luasa Batungile,M,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Ilunga Kafila,M,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Ilunga Kafila,M,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Willy Kalombo,M,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Willy Kalombo,M,Congo (Kinshasa),COD,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Willy Kalombo,M,Congo (Kinshasa),COD,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Mwana Kasongo,M,Congo (Kinshasa),COD,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Shintu Kibambe,M,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Gary Senga,M,Congo (Kinshasa),COD,2004,Athina,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Gary Senga,M,Congo (Kinshasa),COD,2008,Beijing,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Kamana Koji,M,Congo (Kinshasa),COD,1988,Seoul,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Kamana Koji,M,Congo (Kinshasa),COD,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Kazanga Makok,M,Congo (Kinshasa),COD,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Kamongwa Makorobondo,M,Congo (Kinshasa),COD,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Kaleka Mutoke,M,Congo (Kinshasa),COD,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Kaleka Mutoke,M,Congo (Kinshasa),COD,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Kaleka Mutoke,M,Congo (Kinshasa),COD,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Kaleka Mutoke,M,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Kaleka Mutoke,M,Congo (Kinshasa),COD,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Masini Situ-kumbanga,M,Congo (Kinshasa),COD,1984,Los Angeles,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Masini Situ-kumbanga,M,Congo (Kinshasa),COD,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Ilunga Mande,M,Congo (Kinshasa),COD,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Luasa Batungile,M,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Ilunga Kafila,M,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Ilunga Kafila,M,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Willy Kalombo,M,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Willy Kalombo,M,Congo (Kinshasa),COD,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Willy Kalombo,M,Congo (Kinshasa),COD,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Mwana Kasongo,M,Congo (Kinshasa),COD,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Shintu Kibambe,M,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Gary Senga,M,Congo (Kinshasa),COD,2004,Athina,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Gary Senga,M,Congo (Kinshasa),COD,2008,Beijing,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,False
+Kamana Koji,M,Congo (Kinshasa),COD,1988,Seoul,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Kamana Koji,M,Congo (Kinshasa),COD,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Kazanga Makok,M,Congo (Kinshasa),COD,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Kamongwa Makorobondo,M,Congo (Kinshasa),COD,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Kaleka Mutoke,M,Congo (Kinshasa),COD,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Kaleka Mutoke,M,Congo (Kinshasa),COD,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Kaleka Mutoke,M,Congo (Kinshasa),COD,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,False
+Kaleka Mutoke,M,Congo (Kinshasa),COD,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,False
+Kaleka Mutoke,M,Congo (Kinshasa),COD,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Masini Situ-kumbanga,M,Congo (Kinshasa),COD,1984,Los Angeles,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Masini Situ-kumbanga,M,Congo (Kinshasa),COD,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Ilunga Mande,M,Congo (Kinshasa),COD,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fung Lo,M,"Hong Kong, China",HKG,2024,Paris,Taekwondo,Men -68kg,No medal,Men,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fung Lo,M,"Hong Kong, China",HKG,2024,Paris,Taekwondo,Men -68kg,No medal,Men,TKW,False,True

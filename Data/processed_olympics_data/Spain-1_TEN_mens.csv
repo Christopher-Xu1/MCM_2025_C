@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Roberto Agut,M,Spain-1,ESP,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Enrique Vicua,M,Spain-1,ESP,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Jos Flrez,M,Spain-1,ESP,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-David Ern,M,Spain-1,ESP,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-David Ern,M,Spain-1,ESP,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-David Ern,M,Spain-1,ESP,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Eduardo Vzquez,M,Spain-1,ESP,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Eduardo Vzquez,M,Spain-1,ESP,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Feliciano Daz-guerra,M,Spain-1,ESP,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Feliciano Daz-guerra,M,Spain-1,ESP,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Rafael Parera,M,Spain-1,ESP,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Tommy Garcs,M,Spain-1,ESP,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Tommy Garcs,M,Spain-1,ESP,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Ricardo Aym,M,Spain-1,ESP,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Roberto Agut,M,Spain-1,ESP,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Enrique Vicua,M,Spain-1,ESP,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Jos Flrez,M,Spain-1,ESP,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+David Ern,M,Spain-1,ESP,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+David Ern,M,Spain-1,ESP,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,False
+David Ern,M,Spain-1,ESP,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Eduardo Vzquez,M,Spain-1,ESP,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Eduardo Vzquez,M,Spain-1,ESP,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Feliciano Daz-guerra,M,Spain-1,ESP,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Feliciano Daz-guerra,M,Spain-1,ESP,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Rafael Parera,M,Spain-1,ESP,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Tommy Garcs,M,Spain-1,ESP,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Tommy Garcs,M,Spain-1,ESP,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Ricardo Aym,M,Spain-1,ESP,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

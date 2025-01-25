@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Choi Seon-yong,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Hong Sun-bo,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Jang Si-yeong,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Kim Gi-chun,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Kim Gil-hwan,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Kim Jae-yeon,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Kim Jin-tae,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Kim Seong-eun,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Lee Jeong-seok,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Lee Taeg-won,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Park Sang-won,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Song Seung-ho,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Yu Seung-hun,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Choi Seon-yong,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Hong Sun-bo,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Jang Si-yeong,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Kim Gi-chun,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Kim Gil-hwan,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Kim Jae-yeon,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Kim Jin-tae,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Kim Seong-eun,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Lee Jeong-seok,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Lee Taeg-won,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Park Sang-won,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Song Seung-ho,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Yu Seung-hun,M,South Korea,KOR,1988,Seoul,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True

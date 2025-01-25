@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andrey Mitkovets,M,Kyrgyzstan,KGZ,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Andrey Mitkovets,M,Kyrgyzstan,KGZ,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,True
-Yury Ulyachenko,M,Kyrgyzstan,KGZ,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Yury Ulyachenko,M,Kyrgyzstan,KGZ,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andrey Mitkovets,M,Kyrgyzstan,KGZ,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Andrey Mitkovets,M,Kyrgyzstan,KGZ,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,True,True
+Yury Ulyachenko,M,Kyrgyzstan,KGZ,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Yury Ulyachenko,M,Kyrgyzstan,KGZ,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",No medal,Canoeing,CSL,True,True

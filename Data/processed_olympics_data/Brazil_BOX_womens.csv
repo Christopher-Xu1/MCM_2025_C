@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Adriana Arajo,F,Brazil,BRA,2012,London,Boxing,Boxing Women's Lightweight,Bronze,Boxing,BOX,True
-Adriana Arajo,F,Brazil,BRA,2016,Rio de Janeiro,Boxing,Boxing Women's Lightweight,No medal,Boxing,BOX,True
-Andreia Bandeira,F,Brazil,BRA,2016,Rio de Janeiro,Boxing,Boxing Women's Middleweight,No medal,Boxing,BOX,False
-Roseli Feitosa,F,Brazil,BRA,2012,London,Boxing,Boxing Women's Middleweight,No medal,Boxing,BOX,False
-Erica Matos,F,Brazil,BRA,2012,London,Boxing,Boxing Women's Flyweight,No medal,Boxing,BOX,False
-Beatriz Ferreira,F,Brazil,BRA,2020,Tokyo,Boxing,Women's Light (57-60kg),Silver,Women's,BOX,False
-Jucielen Romeu,F,Brazil,BRA,2020,Tokyo,Boxing,Women's Feather (54-57kg),No medal,Women's,BOX,False
-Graziele Sousa,F,Brazil,BRA,2020,Tokyo,Boxing,Women's Fly (48-51kg),No medal,Women's,BOX,False
-dos Maria,F,Brazil,BRA,2024,Paris,Boxing,Women's 66kg,No medal,Women's,BOX,False
-Iasmin Soares,F,Brazil,BRA,2024,Paris,Boxing,Women's 60kg,Bronze,Women's,BOX,False
-Caroline Barbosa,F,Brazil,BRA,2024,Paris,Boxing,Women's 50kg,No medal,Women's,BOX,False
-Jucielen Cerqueira,F,Brazil,BRA,2024,Paris,Boxing,Women's 57kg,No medal,Women's,BOX,False
-de Regina,F,Brazil,BRA,2024,Paris,Boxing,Women's 54kg,No medal,Women's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Adriana Arajo,F,Brazil,BRA,2012,London,Boxing,Boxing Women's Lightweight,Bronze,Boxing,BOX,True,True
+Adriana Arajo,F,Brazil,BRA,2016,Rio de Janeiro,Boxing,Boxing Women's Lightweight,No medal,Boxing,BOX,True,False
+Andreia Bandeira,F,Brazil,BRA,2016,Rio de Janeiro,Boxing,Boxing Women's Middleweight,No medal,Boxing,BOX,False,True
+Roseli Feitosa,F,Brazil,BRA,2012,London,Boxing,Boxing Women's Middleweight,No medal,Boxing,BOX,False,True
+Erica Matos,F,Brazil,BRA,2012,London,Boxing,Boxing Women's Flyweight,No medal,Boxing,BOX,False,True
+Beatriz Ferreira,F,Brazil,BRA,2020,Tokyo,Boxing,Women's Light (57-60kg),Silver,Women's,BOX,False,True
+Jucielen Romeu,F,Brazil,BRA,2020,Tokyo,Boxing,Women's Feather (54-57kg),No medal,Women's,BOX,False,True
+Graziele Sousa,F,Brazil,BRA,2020,Tokyo,Boxing,Women's Fly (48-51kg),No medal,Women's,BOX,False,True
+dos Maria,F,Brazil,BRA,2024,Paris,Boxing,Women's 66kg,No medal,Women's,BOX,False,True
+Iasmin Soares,F,Brazil,BRA,2024,Paris,Boxing,Women's 60kg,Bronze,Women's,BOX,False,True
+Caroline Barbosa,F,Brazil,BRA,2024,Paris,Boxing,Women's 50kg,No medal,Women's,BOX,False,True
+Jucielen Cerqueira,F,Brazil,BRA,2024,Paris,Boxing,Women's 57kg,No medal,Women's,BOX,False,True
+de Regina,F,Brazil,BRA,2024,Paris,Boxing,Women's 54kg,No medal,Women's,BOX,False,True

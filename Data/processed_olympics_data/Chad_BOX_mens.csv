@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Noureddine Hassan,M,Chad,CHA,1972,Munich,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Noureddine Hassan,M,Chad,CHA,1972,Munich,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True

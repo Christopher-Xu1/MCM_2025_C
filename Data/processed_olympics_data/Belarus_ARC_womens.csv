@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anna Karasyova,F,Belarus,BLR,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Anna Karasyova,F,Belarus,BLR,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Yekaterina Mulyuk-timofeyeva,F,Belarus,BLR,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Yekaterina Mulyuk-timofeyeva,F,Belarus,BLR,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Olga Yakusheva,F,Belarus,BLR,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Olga Zabugina-moroz,F,Belarus,BLR,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Olga Zabugina-moroz,F,Belarus,BLR,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Karyna Dziominskaya,F,Belarus,BLR,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Karyna Dziominskaya,F,Belarus,BLR,2020,Tokyo,Archery,Women's Team,No medal,Women's,ARC,True
-Karyna Kazlouskaya,F,Belarus,BLR,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Karyna Kazlouskaya,F,Belarus,BLR,2020,Tokyo,Archery,Women's Team,No medal,Women's,ARC,True
-Hanna Marusava,F,Belarus,BLR,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Hanna Marusava,F,Belarus,BLR,2020,Tokyo,Archery,Women's Team,No medal,Women's,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anna Karasyova,F,Belarus,BLR,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Anna Karasyova,F,Belarus,BLR,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Yekaterina Mulyuk-timofeyeva,F,Belarus,BLR,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Yekaterina Mulyuk-timofeyeva,F,Belarus,BLR,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Olga Yakusheva,F,Belarus,BLR,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Olga Zabugina-moroz,F,Belarus,BLR,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Olga Zabugina-moroz,F,Belarus,BLR,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Karyna Dziominskaya,F,Belarus,BLR,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Karyna Dziominskaya,F,Belarus,BLR,2020,Tokyo,Archery,Women's Team,No medal,Women's,ARC,True,True
+Karyna Kazlouskaya,F,Belarus,BLR,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Karyna Kazlouskaya,F,Belarus,BLR,2020,Tokyo,Archery,Women's Team,No medal,Women's,ARC,True,True
+Hanna Marusava,F,Belarus,BLR,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Hanna Marusava,F,Belarus,BLR,2020,Tokyo,Archery,Women's Team,No medal,Women's,ARC,True,True

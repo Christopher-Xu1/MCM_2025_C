@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohammed Sabih,M,Iraq,IRQ,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Mohammed Ahmed,M,Iraq,IRQ,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Mohanad Al-azzawi,M,Iraq,IRQ,2012,London,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Khaleel Al-zinkee,M,Iraq,IRQ,2024,Paris,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohammed Sabih,M,Iraq,IRQ,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Mohammed Ahmed,M,Iraq,IRQ,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Mohanad Al-azzawi,M,Iraq,IRQ,2012,London,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Khaleel Al-zinkee,M,Iraq,IRQ,2024,Paris,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False,True

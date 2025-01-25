@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alla Vasilenko,F,Kazakhstan,KAZ,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Alla Vasilenko,F,Kazakhstan,KAZ,1996,Atlanta,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True
-Zulfiya Zabirova,F,Kazakhstan,KAZ,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Zulfiya Zabirova,F,Kazakhstan,KAZ,2008,Beijing,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alla Vasilenko,F,Kazakhstan,KAZ,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Alla Vasilenko,F,Kazakhstan,KAZ,1996,Atlanta,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True,True
+Zulfiya Zabirova,F,Kazakhstan,KAZ,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Zulfiya Zabirova,F,Kazakhstan,KAZ,2008,Beijing,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True,True

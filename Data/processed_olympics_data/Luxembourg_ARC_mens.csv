@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marcel Balthasar,M,Luxembourg,LUX,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Andr Braun,M,Luxembourg,LUX,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Andr Braun,M,Luxembourg,LUX,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Jeff Henckels,M,Luxembourg,LUX,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Jeff Henckels,M,Luxembourg,LUX,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Jean-Claude Rohla,M,Luxembourg,LUX,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Jeff Henckels,M,Luxembourg,LUX,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True
-Pit Klein,M,Luxembourg,LUX,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marcel Balthasar,M,Luxembourg,LUX,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Andr Braun,M,Luxembourg,LUX,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Andr Braun,M,Luxembourg,LUX,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Jeff Henckels,M,Luxembourg,LUX,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Jeff Henckels,M,Luxembourg,LUX,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Jean-Claude Rohla,M,Luxembourg,LUX,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Jeff Henckels,M,Luxembourg,LUX,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True,False
+Pit Klein,M,Luxembourg,LUX,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,False,True

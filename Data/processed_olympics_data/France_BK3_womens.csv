@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maria Filip,F,France,FRA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,False
-Laetitia Guapo,F,France,FRA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,True
-Marie-eve Paget,F,France,FRA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,False
-Mamignan Toure,F,France,FRA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,False
-Laetitia Guapo,F,France,FRA,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,True
-Hortense Limouzin,F,France,FRA,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,False
-Eve Paget,F,France,FRA,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,False
-Myriam Djekoundade,F,France,FRA,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maria Filip,F,France,FRA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,False,True
+Laetitia Guapo,F,France,FRA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,True,True
+Marie-eve Paget,F,France,FRA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,False,True
+Mamignan Toure,F,France,FRA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,False,True
+Laetitia Guapo,F,France,FRA,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,True,False
+Hortense Limouzin,F,France,FRA,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,False,True
+Eve Paget,F,France,FRA,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,False,True
+Myriam Djekoundade,F,France,FRA,2024,Paris,3x3 Basketball,Women,No medal,Women,BK3,False,True

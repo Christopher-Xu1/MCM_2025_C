@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alexandru Bagiu,M,Romania,ROU,1980,Moskva,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Alexandru Bagiu,M,Romania,ROU,1980,Moskva,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Gabriel Chereche,M,Romania,ROU,1992,Barcelona,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Gabriel Chereche,M,Romania,ROU,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Gabriel Chereche,M,Romania,ROU,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Gabriel Chereche,M,Romania,ROU,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Ion Ganea,M,Romania,ROU,1972,Munich,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Ion Ganea,M,Romania,ROU,1972,Munich,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Constantin Popovici,M,Romania,ROU,2008,Beijing,Diving,Diving Men's Platform,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alexandru Bagiu,M,Romania,ROU,1980,Moskva,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Alexandru Bagiu,M,Romania,ROU,1980,Moskva,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Gabriel Chereche,M,Romania,ROU,1992,Barcelona,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Gabriel Chereche,M,Romania,ROU,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Gabriel Chereche,M,Romania,ROU,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Gabriel Chereche,M,Romania,ROU,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Ion Ganea,M,Romania,ROU,1972,Munich,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Ion Ganea,M,Romania,ROU,1972,Munich,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Constantin Popovici,M,Romania,ROU,2008,Beijing,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True

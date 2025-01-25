@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nataliya Kyshchuk,F,Unified Team,EUN,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Svetlana Samokhvalova,F,Unified Team,EUN,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Svetlana Samokhvalova,F,Unified Team,EUN,1992,Barcelona,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,Cycling,CTR,True
-Zinaida Stagurskaya,F,Unified Team,EUN,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Galina Yenyukhina,F,Unified Team,EUN,1992,Barcelona,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nataliya Kyshchuk,F,Unified Team,EUN,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Svetlana Samokhvalova,F,Unified Team,EUN,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Svetlana Samokhvalova,F,Unified Team,EUN,1992,Barcelona,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,Cycling,CTR,True,True
+Zinaida Stagurskaya,F,Unified Team,EUN,1992,Barcelona,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Galina Yenyukhina,F,Unified Team,EUN,1992,Barcelona,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,False,True

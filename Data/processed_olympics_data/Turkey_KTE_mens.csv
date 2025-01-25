@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ugur Aktas,M,Turkey,TUR,2020,Tokyo,Karate,Men's Kumite +75kg,Bronze,Men's,KTE,False
-Eray Samdan,M,Turkey,TUR,2020,Tokyo,Karate,Men's Kumite -67kg,Silver,Men's,KTE,False
-Ali Sofuoglu,M,Turkey,TUR,2020,Tokyo,Karate,Men's Kata,Bronze,Men's,KTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ugur Aktas,M,Turkey,TUR,2020,Tokyo,Karate,Men's Kumite +75kg,Bronze,Men's,KTE,False,True
+Eray Samdan,M,Turkey,TUR,2020,Tokyo,Karate,Men's Kumite -67kg,Silver,Men's,KTE,False,True
+Ali Sofuoglu,M,Turkey,TUR,2020,Tokyo,Karate,Men's Kata,Bronze,Men's,KTE,False,True

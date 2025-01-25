@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mara Durn,F,Colombia,COL,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False
-Mariajo Uribe,F,Colombia,COL,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
-Mariajo Uribe,F,Colombia,COL,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mara Durn,F,Colombia,COL,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False,True
+Mariajo Uribe,F,Colombia,COL,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,True
+Mariajo Uribe,F,Colombia,COL,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,False

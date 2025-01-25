@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Georgios Kalogiannidis,M,Greece,GRE,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Georgios Kalogiannidis,M,Greece,GRE,2004,Athina,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Alexandros Karageorgiou,M,Greece,GRE,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Alexandros Karageorgiou,M,Greece,GRE,2004,Athina,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Apostolos Nanos,M,Greece,GRE,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Apostolos Nanos,M,Greece,GRE,2004,Athina,Archery,Archery Men's Team,No medal,Archery,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Georgios Kalogiannidis,M,Greece,GRE,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Georgios Kalogiannidis,M,Greece,GRE,2004,Athina,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Alexandros Karageorgiou,M,Greece,GRE,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Alexandros Karageorgiou,M,Greece,GRE,2004,Athina,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Apostolos Nanos,M,Greece,GRE,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Apostolos Nanos,M,Greece,GRE,2004,Athina,Archery,Archery Men's Team,No medal,Archery,ARC,True,True

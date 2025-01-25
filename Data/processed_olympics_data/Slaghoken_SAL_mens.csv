@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Folke Bohlin,M,Slaghoken,SWE,1948,London,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False
-Frans Brodin,M,Slaghoken,SWE,1948,London,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False
-Viktor Johnson,M,Slaghoken,SWE,1948,London,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Folke Bohlin,M,Slaghoken,SWE,1948,London,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False,True
+Frans Brodin,M,Slaghoken,SWE,1948,London,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False,True
+Viktor Johnson,M,Slaghoken,SWE,1948,London,Sailing,Sailing Mixed Three Person Keelboat,Silver,Sailing,SAL,False,True

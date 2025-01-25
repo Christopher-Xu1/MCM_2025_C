@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Max Guilleaume,M,Germany-1,GER,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Max Guilleaume,M,Germany-1,GER,1900,Paris,Equestrianism,Equestrianism Mixed Four-In-Hand Competition,No medal,Equestrianism,EVE,False,True

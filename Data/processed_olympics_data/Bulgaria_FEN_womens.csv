@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anna (-atanassov),F,Bulgaria,BUL,1996,Atlanta,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Margarita Chomakova,F,Bulgaria,BUL,2012,London,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,False
-Ivana Georgieva,F,Bulgaria,BUL,1996,Atlanta,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Yoana Ilieva,F,Bulgaria,BUL,2024,Paris,Fencing,Women's Sabre Individual,No medal,Women's,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anna (-atanassov),F,Bulgaria,BUL,1996,Atlanta,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Margarita Chomakova,F,Bulgaria,BUL,2012,London,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,False,True
+Ivana Georgieva,F,Bulgaria,BUL,1996,Atlanta,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Yoana Ilieva,F,Bulgaria,BUL,2024,Paris,Fencing,Women's Sabre Individual,No medal,Women's,FEN,False,True

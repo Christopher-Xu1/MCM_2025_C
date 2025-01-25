@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Omar Abu-fares,M,Jordan,JOR,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Omar Abu-fares,M,Jordan,JOR,2004,Athina,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Khader Baqlah,M,Jordan,JOR,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
-Omar Dallal,M,Jordan,JOR,1996,Atlanta,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,False
-Kareem Ennab,M,Jordan,JOR,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Anas Hamoudeh,M,Jordan,JOR,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Amro Al-wir,M,Jordan,JOR,2020,Tokyo,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,True
-Amro Al-wir,M,Jordan,JOR,2020,Tokyo,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True
-Amro Al-wir,M,Jordan,JOR,2024,Paris,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Omar Abu-fares,M,Jordan,JOR,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Omar Abu-fares,M,Jordan,JOR,2004,Athina,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Khader Baqlah,M,Jordan,JOR,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Omar Dallal,M,Jordan,JOR,1996,Atlanta,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,False,True
+Kareem Ennab,M,Jordan,JOR,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Anas Hamoudeh,M,Jordan,JOR,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Amro Al-wir,M,Jordan,JOR,2020,Tokyo,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,True,True
+Amro Al-wir,M,Jordan,JOR,2020,Tokyo,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True,True
+Amro Al-wir,M,Jordan,JOR,2024,Paris,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True,False

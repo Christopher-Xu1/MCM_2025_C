@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Firmin Abissi,M,Benin,BEN,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True
-Firmin Abissi,M,Benin,BEN,1984,Los Angeles,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True
-Barthelmy Adoukonu,M,Benin,BEN,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Leopold Agbazo,M,Benin,BEN,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Aurlien Agnan,M,Benin,BEN,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Dieudonne Boco,M,Benin,BEN,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Shafiq Chitou,M,Benin,BEN,2012,London,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-tienne Gbodolle,M,Benin,BEN,1980,Moskva,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Roger Houangni,M,Benin,BEN,1980,Moskva,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Patrice Martin,M,Benin,BEN,1980,Moskva,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Maxime Mehinto,M,Benin,BEN,1984,Los Angeles,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Meriga Seriki,M,Benin,BEN,1972,Munich,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Pierre Sotoumey,M,Benin,BEN,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Firmin Abissi,M,Benin,BEN,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True,True
+Firmin Abissi,M,Benin,BEN,1984,Los Angeles,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True,False
+Barthelmy Adoukonu,M,Benin,BEN,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Leopold Agbazo,M,Benin,BEN,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Aurlien Agnan,M,Benin,BEN,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Dieudonne Boco,M,Benin,BEN,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Shafiq Chitou,M,Benin,BEN,2012,London,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+tienne Gbodolle,M,Benin,BEN,1980,Moskva,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Roger Houangni,M,Benin,BEN,1980,Moskva,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Patrice Martin,M,Benin,BEN,1980,Moskva,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Maxime Mehinto,M,Benin,BEN,1984,Los Angeles,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Meriga Seriki,M,Benin,BEN,1972,Munich,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Pierre Sotoumey,M,Benin,BEN,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True

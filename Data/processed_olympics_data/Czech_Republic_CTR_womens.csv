@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kateina Hanuov-nash,F,Czech Republic,CZE,1996,Atlanta,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Kateina Hanuov-nash,F,Czech Republic,CZE,2012,London,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Kateina Hanuov-nash,F,Czech Republic,CZE,2016,Rio de Janeiro,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Aneta Hladkov,F,Czech Republic,CZE,2012,London,Cycling,Cycling Women's BMX,No medal,Cycling,CTR,False
-Jana Horkov,F,Czech Republic,CZE,2008,Beijing,Cycling,Cycling Women's BMX,No medal,Cycling,CTR,False
-Tereza Huikov,F,Czech Republic,CZE,2008,Beijing,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Lada Kozlkov,F,Czech Republic,CZE,2000,Sydney,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,Cycling,CTR,True
-Lada Kozlkov,F,Czech Republic,CZE,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Lada Kozlkov,F,Czech Republic,CZE,2004,Athina,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True
-Lada Kozlkov,F,Czech Republic,CZE,2004,Athina,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True
-Lada Kozlkov,F,Czech Republic,CZE,2008,Beijing,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,Cycling,CTR,True
-Lada Kozlkov,F,Czech Republic,CZE,2008,Beijing,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True
-Romana Labounkov,F,Czech Republic,CZE,2012,London,Cycling,Cycling Women's BMX,No medal,Cycling,CTR,False
-Kateina Neumannov,F,Czech Republic,CZE,1996,Atlanta,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Martina Rikov,F,Czech Republic,CZE,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Lenka Valov,F,Czech Republic,CZE,2004,Athina,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kateina Hanuov-nash,F,Czech Republic,CZE,1996,Atlanta,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,True
+Kateina Hanuov-nash,F,Czech Republic,CZE,2012,London,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,False
+Kateina Hanuov-nash,F,Czech Republic,CZE,2016,Rio de Janeiro,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,False
+Aneta Hladkov,F,Czech Republic,CZE,2012,London,Cycling,Cycling Women's BMX,No medal,Cycling,CTR,False,True
+Jana Horkov,F,Czech Republic,CZE,2008,Beijing,Cycling,Cycling Women's BMX,No medal,Cycling,CTR,False,True
+Tereza Huikov,F,Czech Republic,CZE,2008,Beijing,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Lada Kozlkov,F,Czech Republic,CZE,2000,Sydney,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,Cycling,CTR,True,True
+Lada Kozlkov,F,Czech Republic,CZE,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False
+Lada Kozlkov,F,Czech Republic,CZE,2004,Athina,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True,False
+Lada Kozlkov,F,Czech Republic,CZE,2004,Athina,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True,False
+Lada Kozlkov,F,Czech Republic,CZE,2008,Beijing,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,Cycling,CTR,True,False
+Lada Kozlkov,F,Czech Republic,CZE,2008,Beijing,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True,False
+Romana Labounkov,F,Czech Republic,CZE,2012,London,Cycling,Cycling Women's BMX,No medal,Cycling,CTR,False,True
+Kateina Neumannov,F,Czech Republic,CZE,1996,Atlanta,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Martina Rikov,F,Czech Republic,CZE,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Lenka Valov,F,Czech Republic,CZE,2004,Athina,Cycling,"Cycling Women's Individual Pursuit, 3,000 metres",No medal,Cycling,CTR,False,True

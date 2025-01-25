@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kenneth Tencio,M,Costa Rica,CRC,2020,Tokyo,Cycling BMX Freestyle,Men's Park,No medal,Men's,BMF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kenneth Tencio,M,Costa Rica,CRC,2020,Tokyo,Cycling BMX Freestyle,Men's Park,No medal,Men's,BMF,False,True

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Brre Falkum-hansen,M,Encore,NOR,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Silver,Sailing,SAL,False
-Peder Sr.,M,Encore,NOR,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Brre Falkum-hansen,M,Encore,NOR,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Silver,Sailing,SAL,False,True
+Peder Sr.,M,Encore,NOR,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Silver,Sailing,SAL,False,True

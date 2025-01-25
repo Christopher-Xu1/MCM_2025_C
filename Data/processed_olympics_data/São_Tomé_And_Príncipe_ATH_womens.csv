@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-D'jamila Tavares,F,São Tomé And Príncipe,STP,2020,Tokyo,Athletics,Women's 800m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+D'jamila Tavares,F,São Tomé And Príncipe,STP,2020,Tokyo,Athletics,Women's 800m,No medal,Women's,ATH,False,True

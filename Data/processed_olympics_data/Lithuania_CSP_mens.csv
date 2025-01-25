@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mindaugas Maldonis,M,Lithuania,LTU,2020,Tokyo,Canoe Sprint,Men's Kayak Single 200m,No medal,Men's,CSP,True
-Mindaugas Maldonis,M,Lithuania,LTU,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True
-Mindaugas Maldonis,M,Lithuania,LTU,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,True
-Andrej Olijnik,M,Lithuania,LTU,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
-Andrej Olijnik,M,Lithuania,LTU,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True
-Ignas Navakauskas,M,Lithuania,LTU,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,False
-Arturas Seja,M,Lithuania,LTU,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,False
-Simonas Maldonis,M,Lithuania,LTU,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mindaugas Maldonis,M,Lithuania,LTU,2020,Tokyo,Canoe Sprint,Men's Kayak Single 200m,No medal,Men's,CSP,True,True
+Mindaugas Maldonis,M,Lithuania,LTU,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True,False
+Mindaugas Maldonis,M,Lithuania,LTU,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,True,False
+Andrej Olijnik,M,Lithuania,LTU,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True,True
+Andrej Olijnik,M,Lithuania,LTU,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True,True
+Ignas Navakauskas,M,Lithuania,LTU,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,False,True
+Arturas Seja,M,Lithuania,LTU,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,False,True
+Simonas Maldonis,M,Lithuania,LTU,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,No medal,Men's,CSP,False,True

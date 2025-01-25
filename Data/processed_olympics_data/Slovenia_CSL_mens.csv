@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jernej Abrami,M,Slovenia,SLO,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Luka Boi,M,Slovenia,SLO,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
-Luka Boi,M,Slovenia,SLO,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
-Albin Iman,M,Slovenia,SLO,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Simon Hoevar,M,Slovenia,SLO,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,True
-Simon Hoevar,M,Slovenia,SLO,2000,Sydney,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,True
-Simon Hoevar,M,Slovenia,SLO,2004,Athina,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,True
-Borut Javornik,M,Slovenia,SLO,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,False
-Peter Kauzer,M,Slovenia,SLO,2008,Beijing,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Peter Kauzer,M,Slovenia,SLO,2012,London,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Peter Kauzer,M,Slovenia,SLO,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Kayak Singles, Slalom",Silver,Canoeing,CSL,True
-Uro Kodelja,M,Slovenia,SLO,2004,Athina,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Dejan Kralj,M,Slovenia,SLO,2000,Sydney,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Fedja Marui,M,Slovenia,SLO,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Fedja Marui,M,Slovenia,SLO,2000,Sydney,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Benjamin Savek,M,Slovenia,SLO,2012,London,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,True
-Benjamin Savek,M,Slovenia,SLO,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,True
-Jane Skok,M,Slovenia,SLO,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Marjan Trukelj,M,Slovenia,SLO,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Sao Taljat,M,Slovenia,SLO,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
-Sao Taljat,M,Slovenia,SLO,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
-Gregor Terdi,M,Slovenia,SLO,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,False
-Andra Vehovar,M,Slovenia,SLO,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Singles, Slalom",Silver,Canoeing,CSL,False
-Joe Vidmar,M,Slovenia,SLO,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,False
-Botjan Itnik,M,Slovenia,SLO,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,False
-Jernej Regent,M,Slovenia,SLO,2004,Athina,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True
-Jernej Regent,M,Slovenia,SLO,2008,Beijing,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True
-Peter Kauzer,M,Slovenia,SLO,2020,Tokyo,Canoe Slalom,Men's Kayak,No medal,Men's,CSL,True
-Benjamin Savsek,M,Slovenia,SLO,2020,Tokyo,Canoe Slalom,Men's Canoe,Gold,Men's,CSL,True
-Benjamin Savsek,M,Slovenia,SLO,2024,Paris,Canoe Slalom,Men's Canoe Single,No medal,Men's,CSL,True
-Benjamin Savsek,M,Slovenia,SLO,2024,Paris,Canoe Slalom,Men's Kayak Cross,No medal,Men's,CSL,True
-Peter Kauzer,M,Slovenia,SLO,2024,Paris,Canoe Slalom,Men's Kayak Single,No medal,Men's,CSL,True
-Peter Kauzer,M,Slovenia,SLO,2024,Paris,Canoe Slalom,Men's Kayak Cross,No medal,Men's,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jernej Abrami,M,Slovenia,SLO,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Luka Boi,M,Slovenia,SLO,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,True
+Luka Boi,M,Slovenia,SLO,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,False
+Albin Iman,M,Slovenia,SLO,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Simon Hoevar,M,Slovenia,SLO,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,True,True
+Simon Hoevar,M,Slovenia,SLO,2000,Sydney,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,True,False
+Simon Hoevar,M,Slovenia,SLO,2004,Athina,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,True,False
+Borut Javornik,M,Slovenia,SLO,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,False,True
+Peter Kauzer,M,Slovenia,SLO,2008,Beijing,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Peter Kauzer,M,Slovenia,SLO,2012,London,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False
+Peter Kauzer,M,Slovenia,SLO,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Kayak Singles, Slalom",Silver,Canoeing,CSL,True,False
+Uro Kodelja,M,Slovenia,SLO,2004,Athina,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Dejan Kralj,M,Slovenia,SLO,2000,Sydney,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Fedja Marui,M,Slovenia,SLO,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Fedja Marui,M,Slovenia,SLO,2000,Sydney,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False
+Benjamin Savek,M,Slovenia,SLO,2012,London,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,True,True
+Benjamin Savek,M,Slovenia,SLO,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,True,False
+Jane Skok,M,Slovenia,SLO,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Marjan Trukelj,M,Slovenia,SLO,1992,Barcelona,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Sao Taljat,M,Slovenia,SLO,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,True
+Sao Taljat,M,Slovenia,SLO,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,False
+Gregor Terdi,M,Slovenia,SLO,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,False,True
+Andra Vehovar,M,Slovenia,SLO,1996,Atlanta,Canoeing,"Canoeing Men's Kayak Singles, Slalom",Silver,Canoeing,CSL,False,True
+Joe Vidmar,M,Slovenia,SLO,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,False,True
+Botjan Itnik,M,Slovenia,SLO,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,False,True
+Jernej Regent,M,Slovenia,SLO,2004,Athina,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True,True
+Jernej Regent,M,Slovenia,SLO,2008,Beijing,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True,False
+Peter Kauzer,M,Slovenia,SLO,2020,Tokyo,Canoe Slalom,Men's Kayak,No medal,Men's,CSL,True,False
+Benjamin Savsek,M,Slovenia,SLO,2020,Tokyo,Canoe Slalom,Men's Canoe,Gold,Men's,CSL,True,True
+Benjamin Savsek,M,Slovenia,SLO,2024,Paris,Canoe Slalom,Men's Canoe Single,No medal,Men's,CSL,True,False
+Benjamin Savsek,M,Slovenia,SLO,2024,Paris,Canoe Slalom,Men's Kayak Cross,No medal,Men's,CSL,True,False
+Peter Kauzer,M,Slovenia,SLO,2024,Paris,Canoe Slalom,Men's Kayak Single,No medal,Men's,CSL,True,False
+Peter Kauzer,M,Slovenia,SLO,2024,Paris,Canoe Slalom,Men's Kayak Cross,No medal,Men's,CSL,True,False

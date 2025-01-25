@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chan Hao-ching,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Chan Yung-jan,F,Chinese Taipei,TPE,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Chan Yung-jan,F,Chinese Taipei,TPE,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Chan Yung-jan,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Chuang Chia-jung,F,Chinese Taipei,TPE,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Chuang Chia-jung,F,Chinese Taipei,TPE,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Hsieh Su-wei,F,Chinese Taipei,TPE,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Hsieh Su-wei,F,Chinese Taipei,TPE,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Janet Lee,F,Chinese Taipei,TPE,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Wang Shi-ting,F,Chinese Taipei,TPE,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Weng Tzu-ting,F,Chinese Taipei,TPE,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Hao-ching Chan,F,Chinese Taipei,TPE,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
-Latisha Chan,F,Chinese Taipei,TPE,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
-Yu-chieh Hsieh,F,Chinese Taipei,TPE,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False
-Chieh-yu Hsu,F,Chinese Taipei,TPE,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False
-Yi Tsao,F,Chinese Taipei,TPE,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,False
-Hao-ching Chan,F,Chinese Taipei,TPE,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Latisha Chan,F,Chinese Taipei,TPE,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Su-wei Hsieh,F,Chinese Taipei,TPE,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chan Hao-ching,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Chan Yung-jan,F,Chinese Taipei,TPE,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Chan Yung-jan,F,Chinese Taipei,TPE,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Chan Yung-jan,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Chuang Chia-jung,F,Chinese Taipei,TPE,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Chuang Chia-jung,F,Chinese Taipei,TPE,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Hsieh Su-wei,F,Chinese Taipei,TPE,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Hsieh Su-wei,F,Chinese Taipei,TPE,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Janet Lee,F,Chinese Taipei,TPE,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Wang Shi-ting,F,Chinese Taipei,TPE,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Weng Tzu-ting,F,Chinese Taipei,TPE,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Hao-ching Chan,F,Chinese Taipei,TPE,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,True
+Latisha Chan,F,Chinese Taipei,TPE,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,True
+Yu-chieh Hsieh,F,Chinese Taipei,TPE,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False,True
+Chieh-yu Hsu,F,Chinese Taipei,TPE,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False,True
+Yi Tsao,F,Chinese Taipei,TPE,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,False,True
+Hao-ching Chan,F,Chinese Taipei,TPE,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,False
+Latisha Chan,F,Chinese Taipei,TPE,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,False
+Su-wei Hsieh,F,Chinese Taipei,TPE,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,False,True

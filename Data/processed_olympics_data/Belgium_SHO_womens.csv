@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Karin Biva,F,Belgium,BEL,1988,Seoul,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Karin Biva,F,Belgium,BEL,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Cindy Bouque,F,Belgium,BEL,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Daisy Bock,F,Belgium,BEL,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Anne Focan,F,Belgium,BEL,1996,Atlanta,Shooting,Shooting Women's Double Trap,No medal,Shooting,SHO,True
-Anne Focan,F,Belgium,BEL,2000,Sydney,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True
-Anne Focan,F,Belgium,BEL,2000,Sydney,Shooting,Shooting Women's Double Trap,No medal,Shooting,SHO,True
-Anne Goffin,F,Belgium,BEL,1976,Montreal,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,True
-Anne Goffin,F,Belgium,BEL,1988,Seoul,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Anne Goffin,F,Belgium,BEL,1988,Seoul,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Anne Goffin,F,Belgium,BEL,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Anne Goffin,F,Belgium,BEL,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Marie-Louise Hosdey,F,Belgium,BEL,1984,Los Angeles,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Odette Meuter,F,Belgium,BEL,1976,Montreal,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Odette Meuter,F,Belgium,BEL,1980,Moskva,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Sonia Vettenburg,F,Belgium,BEL,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Jessie Kaps,F,Belgium,BEL,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Karin Biva,F,Belgium,BEL,1988,Seoul,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Karin Biva,F,Belgium,BEL,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Cindy Bouque,F,Belgium,BEL,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Daisy Bock,F,Belgium,BEL,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Anne Focan,F,Belgium,BEL,1996,Atlanta,Shooting,Shooting Women's Double Trap,No medal,Shooting,SHO,True,True
+Anne Focan,F,Belgium,BEL,2000,Sydney,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True,False
+Anne Focan,F,Belgium,BEL,2000,Sydney,Shooting,Shooting Women's Double Trap,No medal,Shooting,SHO,True,False
+Anne Goffin,F,Belgium,BEL,1976,Montreal,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,True,True
+Anne Goffin,F,Belgium,BEL,1988,Seoul,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Anne Goffin,F,Belgium,BEL,1988,Seoul,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Anne Goffin,F,Belgium,BEL,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Anne Goffin,F,Belgium,BEL,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Marie-Louise Hosdey,F,Belgium,BEL,1984,Los Angeles,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Odette Meuter,F,Belgium,BEL,1976,Montreal,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Odette Meuter,F,Belgium,BEL,1980,Moskva,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Sonia Vettenburg,F,Belgium,BEL,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Jessie Kaps,F,Belgium,BEL,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,False,True

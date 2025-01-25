@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maximilian Brandl,M,Germany,GER,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False
-Manuel Fumic,M,Germany,GER,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False
-Luca Schwarzbauer,M,Germany,GER,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False
-Julian Schelb,M,Germany,GER,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maximilian Brandl,M,Germany,GER,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False,True
+Manuel Fumic,M,Germany,GER,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False,True
+Luca Schwarzbauer,M,Germany,GER,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False,True
+Julian Schelb,M,Germany,GER,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False,True

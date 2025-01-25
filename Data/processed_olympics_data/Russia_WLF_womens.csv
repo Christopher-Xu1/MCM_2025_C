@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zarema Kasayeva,F,Russia,RUS,2004,Athina,Weightlifting,Weightlifting Women's Light-Heavyweight,Bronze,Weightlifting,WLF,False
-Tatyana Kashirina,F,Russia,RUS,2012,London,Weightlifting,Weightlifting Women's Super-Heavyweight,Silver,Weightlifting,WLF,False
-Irina Kasimova,F,Russia,RUS,2000,Sydney,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Svetlana Khabirova,F,Russia,RUS,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False
-Valentina Popova,F,Russia,RUS,2000,Sydney,Weightlifting,Weightlifting Women's Middleweight,Silver,Weightlifting,WLF,True
-Valentina Popova,F,Russia,RUS,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,Bronze,Weightlifting,WLF,True
-Marina Shainova,F,Russia,RUS,2008,Beijing,Weightlifting,Weightlifting Women's Lightweight,Silver,Weightlifting,WLF,False
-Oksana Slivenko,F,Russia,RUS,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,Silver,Weightlifting,WLF,False
-Svetlana Tsarukayeva,F,Russia,RUS,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True
-Svetlana Tsarukayeva,F,Russia,RUS,2012,London,Weightlifting,Weightlifting Women's Middleweight,Silver,Weightlifting,WLF,True
-Nadezhda Yevstyukhina,F,Russia,RUS,2008,Beijing,Weightlifting,Weightlifting Women's Heavyweight,Bronze,Weightlifting,WLF,True
-Nadezhda Yevstyukhina,F,Russia,RUS,2012,London,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True
-Nataliya Zabolotnaya,F,Russia,RUS,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,Silver,Weightlifting,WLF,True
-Nataliya Zabolotnaya,F,Russia,RUS,2012,London,Weightlifting,Weightlifting Women's Heavyweight,Silver,Weightlifting,WLF,True
-Ivanovna Sobol,F,Russia,ROC,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,False
-Siuzanna Valodzka,F,Russia,AIN,2024,Paris,Weightlifting,Women's 71kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zarema Kasayeva,F,Russia,RUS,2004,Athina,Weightlifting,Weightlifting Women's Light-Heavyweight,Bronze,Weightlifting,WLF,False,True
+Tatyana Kashirina,F,Russia,RUS,2012,London,Weightlifting,Weightlifting Women's Super-Heavyweight,Silver,Weightlifting,WLF,False,True
+Irina Kasimova,F,Russia,RUS,2000,Sydney,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Svetlana Khabirova,F,Russia,RUS,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False,True
+Valentina Popova,F,Russia,RUS,2000,Sydney,Weightlifting,Weightlifting Women's Middleweight,Silver,Weightlifting,WLF,True,True
+Valentina Popova,F,Russia,RUS,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,Bronze,Weightlifting,WLF,True,False
+Marina Shainova,F,Russia,RUS,2008,Beijing,Weightlifting,Weightlifting Women's Lightweight,Silver,Weightlifting,WLF,False,True
+Oksana Slivenko,F,Russia,RUS,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,Silver,Weightlifting,WLF,False,True
+Svetlana Tsarukayeva,F,Russia,RUS,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True,True
+Svetlana Tsarukayeva,F,Russia,RUS,2012,London,Weightlifting,Weightlifting Women's Middleweight,Silver,Weightlifting,WLF,True,False
+Nadezhda Yevstyukhina,F,Russia,RUS,2008,Beijing,Weightlifting,Weightlifting Women's Heavyweight,Bronze,Weightlifting,WLF,True,True
+Nadezhda Yevstyukhina,F,Russia,RUS,2012,London,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True,False
+Nataliya Zabolotnaya,F,Russia,RUS,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,Silver,Weightlifting,WLF,True,True
+Nataliya Zabolotnaya,F,Russia,RUS,2012,London,Weightlifting,Weightlifting Women's Heavyweight,Silver,Weightlifting,WLF,True,False
+Ivanovna Sobol,F,Russia,ROC,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,False,True
+Siuzanna Valodzka,F,Russia,AIN,2024,Paris,Weightlifting,Women's 71kg,No medal,Women's,WLF,False,True

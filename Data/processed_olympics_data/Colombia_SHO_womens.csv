@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alejandra Hoyos,F,Colombia,COL,1984,Los Angeles,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Gloria Lpez,F,Colombia,COL,1984,Los Angeles,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Amanda Cuellar,F,Colombia,COL,2004,Athina,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Amanda Cuellar,F,Colombia,COL,2004,Athina,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Adriana Martnez,F,Colombia,COL,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Adriana Martnez,F,Colombia,COL,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Elvira Salazar,F,Colombia,COL,1984,Los Angeles,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alejandra Hoyos,F,Colombia,COL,1984,Los Angeles,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Gloria Lpez,F,Colombia,COL,1984,Los Angeles,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Amanda Cuellar,F,Colombia,COL,2004,Athina,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Amanda Cuellar,F,Colombia,COL,2004,Athina,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Adriana Martnez,F,Colombia,COL,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Adriana Martnez,F,Colombia,COL,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Elvira Salazar,F,Colombia,COL,1984,Los Angeles,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,False,True

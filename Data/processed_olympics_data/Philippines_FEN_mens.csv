@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Percival Alger,M,Philippines,PHI,1988,Seoul,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,False
-Walter Torres,M,Philippines,PHI,1992,Barcelona,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Percival Alger,M,Philippines,PHI,1988,Seoul,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,False,True
+Walter Torres,M,Philippines,PHI,1992,Barcelona,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,False,True

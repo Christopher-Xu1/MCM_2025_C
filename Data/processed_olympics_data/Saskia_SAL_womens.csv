@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Beryl (wilkinson-),F,Saskia,GBR,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Beryl (wilkinson-),F,Saskia,GBR,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True

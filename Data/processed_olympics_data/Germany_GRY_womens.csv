@@ -1,39 +1,39 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Friederike Arlt,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Helene Asmus,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Susan Benicke,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Jana Berezko-marggrander,F,Germany,GER,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True
-Jana Berezko-marggrander,F,Germany,GER,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True
-Mira Bimperling,F,Germany,GER,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Nicole Bittner,F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Magdalena -sabolocka),F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Jeanine Fissler,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Judith Hauser,F,Germany,GER,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Natalie Hermann,F,Germany,GER,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Katrin Hoffmann,F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Lisa Ingildeeva,F,Germany,GER,2004,Athina,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Anne Jung,F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Anastasija Khmelnytska,F,Germany,GER,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Christiane Klumpp,F,Germany,GER,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Nicole Mller,F,Germany,GER,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Selma Neuhaus,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Camilla Pfeffer,F,Germany,GER,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Daniela Potapova,F,Germany,GER,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Cathrin Puhl,F,Germany,GER,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Sara Radman,F,Germany,GER,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Edita Schaufler,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Drte Schiltz,F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Jessica Schumacher,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Annika Seibel,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Kristin Sroka,F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Luise Stblein,F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Julia Stavickaja,F,Germany,GER,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Sina Tkaltschewitsch,F,Germany,GER,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Katharina Wildermuth,F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Margarita Kolosov,F,Germany,GER,2024,Paris,Rhythmic Gymnastics,Individual All-Around,No medal,Individual,GRY,False
-Anja Kosan,F,Germany,GER,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False
-Daniella Kromm,F,Germany,GER,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False
-Hannah Vester,F,Germany,GER,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False
-Emilia Wickert,F,Germany,GER,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False
-Alina Oganesyan,F,Germany,GER,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False
-Darja Varfolomeev,F,Germany,GER,2024,Paris,Rhythmic Gymnastics,Individual All-Around,Gold,Individual,GRY,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Friederike Arlt,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Helene Asmus,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Susan Benicke,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Jana Berezko-marggrander,F,Germany,GER,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True,True
+Jana Berezko-marggrander,F,Germany,GER,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True,False
+Mira Bimperling,F,Germany,GER,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Nicole Bittner,F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Magdalena -sabolocka),F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Jeanine Fissler,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Judith Hauser,F,Germany,GER,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Natalie Hermann,F,Germany,GER,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Katrin Hoffmann,F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Lisa Ingildeeva,F,Germany,GER,2004,Athina,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Anne Jung,F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Anastasija Khmelnytska,F,Germany,GER,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Christiane Klumpp,F,Germany,GER,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Nicole Mller,F,Germany,GER,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Selma Neuhaus,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Camilla Pfeffer,F,Germany,GER,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Daniela Potapova,F,Germany,GER,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Cathrin Puhl,F,Germany,GER,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Sara Radman,F,Germany,GER,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Edita Schaufler,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Drte Schiltz,F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Jessica Schumacher,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Annika Seibel,F,Germany,GER,2000,Sydney,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Kristin Sroka,F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Luise Stblein,F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Julia Stavickaja,F,Germany,GER,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Sina Tkaltschewitsch,F,Germany,GER,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Katharina Wildermuth,F,Germany,GER,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Margarita Kolosov,F,Germany,GER,2024,Paris,Rhythmic Gymnastics,Individual All-Around,No medal,Individual,GRY,False,True
+Anja Kosan,F,Germany,GER,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False,True
+Daniella Kromm,F,Germany,GER,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False,True
+Hannah Vester,F,Germany,GER,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False,True
+Emilia Wickert,F,Germany,GER,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False,True
+Alina Oganesyan,F,Germany,GER,2024,Paris,Rhythmic Gymnastics,Group All-Around,No medal,Group,GRY,False,True
+Darja Varfolomeev,F,Germany,GER,2024,Paris,Rhythmic Gymnastics,Individual All-Around,Gold,Individual,GRY,False,True

@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ali Al-abed,M,United Arab Emirates,UAE,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Ali Al-abed,M,United Arab Emirates,UAE,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Ali Al-abed,M,United Arab Emirates,UAE,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Khalifa Omair,M,United Arab Emirates,UAE,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Khalifa Omair,M,United Arab Emirates,UAE,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Khalifa Omair,M,United Arab Emirates,UAE,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Mansoor Osaiba,M,United Arab Emirates,UAE,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Mansoor Osaiba,M,United Arab Emirates,UAE,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Khamis Harib,M,United Arab Emirates,UAE,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Ali Hayyaz,M,United Arab Emirates,UAE,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Sultan Khalifa,M,United Arab Emirates,UAE,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Sultan Khalifa,M,United Arab Emirates,UAE,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Yousif Al-hammadi,M,United Arab Emirates,UAE,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Issa Mohamed,M,United Arab Emirates,UAE,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Naji Sayed,M,United Arab Emirates,UAE,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Ali Darwish,M,United Arab Emirates,UAE,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ali Al-abed,M,United Arab Emirates,UAE,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Ali Al-abed,M,United Arab Emirates,UAE,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Ali Al-abed,M,United Arab Emirates,UAE,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Khalifa Omair,M,United Arab Emirates,UAE,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Khalifa Omair,M,United Arab Emirates,UAE,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Khalifa Omair,M,United Arab Emirates,UAE,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Mansoor Osaiba,M,United Arab Emirates,UAE,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Mansoor Osaiba,M,United Arab Emirates,UAE,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Khamis Harib,M,United Arab Emirates,UAE,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Ali Hayyaz,M,United Arab Emirates,UAE,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Sultan Khalifa,M,United Arab Emirates,UAE,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Sultan Khalifa,M,United Arab Emirates,UAE,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Yousif Al-hammadi,M,United Arab Emirates,UAE,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Issa Mohamed,M,United Arab Emirates,UAE,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Naji Sayed,M,United Arab Emirates,UAE,1988,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Ali Darwish,M,United Arab Emirates,UAE,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True

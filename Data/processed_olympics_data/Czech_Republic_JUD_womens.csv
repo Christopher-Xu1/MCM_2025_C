@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andrea Paoutov,F,Czech Republic,CZE,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Andrea Paoutov,F,Czech Republic,CZE,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Radka Tuskov,F,Czech Republic,CZE,1996,Atlanta,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Michaela Vernerov,F,Czech Republic,CZE,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Michaela Vernerov,F,Czech Republic,CZE,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andrea Paoutov,F,Czech Republic,CZE,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,True
+Andrea Paoutov,F,Czech Republic,CZE,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Radka Tuskov,F,Czech Republic,CZE,1996,Atlanta,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Michaela Vernerov,F,Czech Republic,CZE,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,True
+Michaela Vernerov,F,Czech Republic,CZE,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,False

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Athina-Theodora Alexopoulou,F,Greece,GRE,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False
-Maria Ferekidi,F,Greece,GRE,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Maria Ferekidi,F,Greece,GRE,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Athina-Theodora Alexopoulou,F,Greece,GRE,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False,True
+Maria Ferekidi,F,Greece,GRE,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Maria Ferekidi,F,Greece,GRE,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False

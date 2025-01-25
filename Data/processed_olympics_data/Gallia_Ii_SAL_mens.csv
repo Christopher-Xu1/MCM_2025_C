@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Esper Beloselsky-belozersky,M,Gallia Ii,RUS,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Bronze,Sailing,SAL,False
-Ernst Brasche,M,Gallia Ii,RUS,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Bronze,Sailing,SAL,False
-Karl Lindholm,M,Gallia Ii,RUS,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Bronze,Sailing,SAL,False
-Nikolay Pushnitsky,M,Gallia Ii,RUS,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Bronze,Sailing,SAL,False
-Aleksandr Rodionov,M,Gallia Ii,RUS,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Bronze,Sailing,SAL,False
-Joseph Schomacker,M,Gallia Ii,RUS,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Bronze,Sailing,SAL,False
-Philipp Strauch,M,Gallia Ii,RUS,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Esper Beloselsky-belozersky,M,Gallia Ii,RUS,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Bronze,Sailing,SAL,False,True
+Ernst Brasche,M,Gallia Ii,RUS,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Bronze,Sailing,SAL,False,True
+Karl Lindholm,M,Gallia Ii,RUS,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Bronze,Sailing,SAL,False,True
+Nikolay Pushnitsky,M,Gallia Ii,RUS,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Bronze,Sailing,SAL,False,True
+Aleksandr Rodionov,M,Gallia Ii,RUS,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Bronze,Sailing,SAL,False,True
+Joseph Schomacker,M,Gallia Ii,RUS,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Bronze,Sailing,SAL,False,True
+Philipp Strauch,M,Gallia Ii,RUS,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Bronze,Sailing,SAL,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Woon Yu,M,Brunei,BRU,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Woon Yu,M,Brunei,BRU,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True

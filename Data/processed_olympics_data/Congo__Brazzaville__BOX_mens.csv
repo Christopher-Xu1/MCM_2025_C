@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Georges Koffi,M,Congo (Brazzaville),CGO,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Dival Dzalamou,M,Congo (Brazzaville),CGO,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Alphonse Matoubela,M,Congo (Brazzaville),CGO,1980,Moskva,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Mpi Ngamissengue,M,Congo (Brazzaville),CGO,2016,Rio de Janeiro,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Anaclet Wamba,M,Congo (Brazzaville),CGO,1980,Moskva,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Georges Koffi,M,Congo (Brazzaville),CGO,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Dival Dzalamou,M,Congo (Brazzaville),CGO,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Alphonse Matoubela,M,Congo (Brazzaville),CGO,1980,Moskva,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Mpi Ngamissengue,M,Congo (Brazzaville),CGO,2016,Rio de Janeiro,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Anaclet Wamba,M,Congo (Brazzaville),CGO,1980,Moskva,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True

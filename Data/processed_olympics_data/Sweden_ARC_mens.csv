@@ -1,36 +1,36 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jonas Andersson,M,Sweden,SWE,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Jonas Andersson,M,Sweden,SWE,2004,Athina,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Gert Bjerendal,M,Sweden,SWE,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Gert Bjerendal,M,Sweden,SWE,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Gert Bjerendal,M,Sweden,SWE,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Gran Bjerendal,M,Sweden,SWE,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Gran Bjerendal,M,Sweden,SWE,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Gran Bjerendal,M,Sweden,SWE,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Gran Bjerendal,M,Sweden,SWE,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Gran Bjerendal,M,Sweden,SWE,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Gran Bjerendal,M,Sweden,SWE,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Alf Bostrm,M,Sweden,SWE,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Mattias Eriksson,M,Sweden,SWE,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Mattias Eriksson,M,Sweden,SWE,2000,Sydney,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Mattias Eriksson,M,Sweden,SWE,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Mattias Eriksson,M,Sweden,SWE,2004,Athina,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Niklas Eriksson,M,Sweden,SWE,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Niklas Eriksson,M,Sweden,SWE,2000,Sydney,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Gunnar Jervill,M,Sweden,SWE,1972,Munich,Archery,Archery Men's Individual,Silver,Archery,ARC,True
-Gunnar Jervill,M,Sweden,SWE,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Tomas Larsson,M,Sweden,SWE,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Tomas Larsson,M,Sweden,SWE,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Mats Nordlander,M,Sweden,SWE,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Mats Nordlander,M,Sweden,SWE,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Stig Petersson,M,Sweden,SWE,1996,Atlanta,Archery,Archery Men's Individual,Silver,Archery,ARC,True
-Stig Petersson,M,Sweden,SWE,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Stig Petersson,M,Sweden,SWE,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Stig Petersson,M,Sweden,SWE,2000,Sydney,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Stig Petersson,M,Sweden,SWE,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Stig Petersson,M,Sweden,SWE,2004,Athina,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Stig Petersson,M,Sweden,SWE,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Tommy Quick,M,Sweden,SWE,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Tage Svensson,M,Sweden,SWE,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Tage Svensson,M,Sweden,SWE,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Tage Svensson,M,Sweden,SWE,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jonas Andersson,M,Sweden,SWE,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Jonas Andersson,M,Sweden,SWE,2004,Athina,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Gert Bjerendal,M,Sweden,SWE,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Gert Bjerendal,M,Sweden,SWE,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Gert Bjerendal,M,Sweden,SWE,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Gran Bjerendal,M,Sweden,SWE,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Gran Bjerendal,M,Sweden,SWE,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Gran Bjerendal,M,Sweden,SWE,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Gran Bjerendal,M,Sweden,SWE,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Gran Bjerendal,M,Sweden,SWE,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Gran Bjerendal,M,Sweden,SWE,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Alf Bostrm,M,Sweden,SWE,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Mattias Eriksson,M,Sweden,SWE,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Mattias Eriksson,M,Sweden,SWE,2000,Sydney,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Mattias Eriksson,M,Sweden,SWE,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Mattias Eriksson,M,Sweden,SWE,2004,Athina,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Niklas Eriksson,M,Sweden,SWE,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Niklas Eriksson,M,Sweden,SWE,2000,Sydney,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Gunnar Jervill,M,Sweden,SWE,1972,Munich,Archery,Archery Men's Individual,Silver,Archery,ARC,True,True
+Gunnar Jervill,M,Sweden,SWE,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Tomas Larsson,M,Sweden,SWE,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Tomas Larsson,M,Sweden,SWE,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Mats Nordlander,M,Sweden,SWE,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Mats Nordlander,M,Sweden,SWE,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Stig Petersson,M,Sweden,SWE,1996,Atlanta,Archery,Archery Men's Individual,Silver,Archery,ARC,True,True
+Stig Petersson,M,Sweden,SWE,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Stig Petersson,M,Sweden,SWE,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Stig Petersson,M,Sweden,SWE,2000,Sydney,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Stig Petersson,M,Sweden,SWE,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Stig Petersson,M,Sweden,SWE,2004,Athina,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Stig Petersson,M,Sweden,SWE,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Tommy Quick,M,Sweden,SWE,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Tage Svensson,M,Sweden,SWE,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Tage Svensson,M,Sweden,SWE,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Tage Svensson,M,Sweden,SWE,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False

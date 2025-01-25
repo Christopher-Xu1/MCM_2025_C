@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ursula (-dannowski),F,West Germany,FRG,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Manuela Dachner,F,West Germany,FRG,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Doris Haas,F,West Germany,FRG,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Doris Haas,F,West Germany,FRG,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Doris Haas,F,West Germany,FRG,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Claudia Kriz,F,West Germany,FRG,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Claudia Kriz,F,West Germany,FRG,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Carla (kukla-),F,West Germany,FRG,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Christa Ckl,F,West Germany,FRG,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Christa Ckl,F,West Germany,FRG,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Maria Urban,F,West Germany,FRG,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ursula (-dannowski),F,West Germany,FRG,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Manuela Dachner,F,West Germany,FRG,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Doris Haas,F,West Germany,FRG,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Doris Haas,F,West Germany,FRG,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Doris Haas,F,West Germany,FRG,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Claudia Kriz,F,West Germany,FRG,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Claudia Kriz,F,West Germany,FRG,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Carla (kukla-),F,West Germany,FRG,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Christa Ckl,F,West Germany,FRG,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Christa Ckl,F,West Germany,FRG,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Maria Urban,F,West Germany,FRG,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True

@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ranil Dias,M,Sri Lanka,SRI,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False
-Lalin Jirasinha,M,Sri Lanka,SRI,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,True
-Lalin Jirasinha,M,Sri Lanka,SRI,2000,Sydney,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Phjilip Wijewardene,M,Sri Lanka,SRI,1968,Mexico City,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ranil Dias,M,Sri Lanka,SRI,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False,True
+Lalin Jirasinha,M,Sri Lanka,SRI,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,True,True
+Lalin Jirasinha,M,Sri Lanka,SRI,2000,Sydney,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,False
+Phjilip Wijewardene,M,Sri Lanka,SRI,1968,Mexico City,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True

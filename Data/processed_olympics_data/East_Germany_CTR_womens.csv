@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Angela Ranft,F,East Germany,GDR,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Petra Rossner,F,East Germany,GDR,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Christa Rothenburger-luding,F,East Germany,GDR,1988,Seoul,Cycling,Cycling Women's Sprint,Silver,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Angela Ranft,F,East Germany,GDR,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Petra Rossner,F,East Germany,GDR,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Christa Rothenburger-luding,F,East Germany,GDR,1988,Seoul,Cycling,Cycling Women's Sprint,Silver,Cycling,CTR,False,True

@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Luiza Almeida,F,Brazil,BRA,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Luiza Almeida,F,Brazil,BRA,2012,London,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Luiza Almeida,F,Brazil,BRA,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Luiza Almeida,F,Brazil,BRA,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Camila Benedicto,F,Brazil,BRA,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Camila Benedicto,F,Brazil,BRA,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Luciana Diniz-knippling,F,Brazil,BRA,2004,Athina,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Luciana Diniz-knippling,F,Brazil,BRA,2004,Athina,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Lucia Faria,F,Brazil,BRA,1968,Mexico City,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Lucia Faria,F,Brazil,BRA,1968,Mexico City,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Ana Giannini-),F,Brazil,BRA,1988,Seoul,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Ana Giannini-),F,Brazil,BRA,1988,Seoul,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Giovana Pass,F,Brazil,BRA,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Giovana Pass,F,Brazil,BRA,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Luiza Almeida,F,Brazil,BRA,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Luiza Almeida,F,Brazil,BRA,2012,London,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False
+Luiza Almeida,F,Brazil,BRA,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False
+Luiza Almeida,F,Brazil,BRA,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,False
+Camila Benedicto,F,Brazil,BRA,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Camila Benedicto,F,Brazil,BRA,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Luciana Diniz-knippling,F,Brazil,BRA,2004,Athina,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Luciana Diniz-knippling,F,Brazil,BRA,2004,Athina,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Lucia Faria,F,Brazil,BRA,1968,Mexico City,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Lucia Faria,F,Brazil,BRA,1968,Mexico City,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Ana Giannini-),F,Brazil,BRA,1988,Seoul,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Ana Giannini-),F,Brazil,BRA,1988,Seoul,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Giovana Pass,F,Brazil,BRA,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Giovana Pass,F,Brazil,BRA,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True

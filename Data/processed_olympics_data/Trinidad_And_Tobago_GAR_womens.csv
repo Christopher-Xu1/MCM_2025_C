@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marisa Dick,F,Trinidad And Tobago,TTO,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Marisa Dick,F,Trinidad And Tobago,TTO,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Marisa Dick,F,Trinidad And Tobago,TTO,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Marisa Dick,F,Trinidad And Tobago,TTO,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marisa Dick,F,Trinidad And Tobago,TTO,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Marisa Dick,F,Trinidad And Tobago,TTO,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Marisa Dick,F,Trinidad And Tobago,TTO,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Marisa Dick,F,Trinidad And Tobago,TTO,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True

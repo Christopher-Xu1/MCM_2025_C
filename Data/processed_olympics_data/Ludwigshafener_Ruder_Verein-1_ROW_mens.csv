@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ferdinand Felle,M,Ludwigshafener Ruder Verein-1,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,False
-Otto Fickeisen,M,Ludwigshafener Ruder Verein-1,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,False
-Franz Krwerath,M,Ludwigshafener Ruder Verein-1,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,False
-Karl Lehle,M,Ludwigshafener Ruder Verein-1,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,False
-Hermann Wilker,M,Ludwigshafener Ruder Verein-1,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ferdinand Felle,M,Ludwigshafener Ruder Verein-1,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,False,True
+Otto Fickeisen,M,Ludwigshafener Ruder Verein-1,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,False,True
+Franz Krwerath,M,Ludwigshafener Ruder Verein-1,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,False,True
+Karl Lehle,M,Ludwigshafener Ruder Verein-1,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,False,True
+Hermann Wilker,M,Ludwigshafener Ruder Verein-1,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,False,True

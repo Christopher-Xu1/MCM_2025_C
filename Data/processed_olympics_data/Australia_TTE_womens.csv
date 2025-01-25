@@ -1,46 +1,46 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nadia Bisiach,F,Australia,AUS,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Nadia Bisiach,F,Australia,AUS,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Ying Kwok,F,Australia,AUS,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
-Jian-Fang (hong-),F,Australia,AUS,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jian-Fang (hong-),F,Australia,AUS,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Jian-Fang (hong-),F,Australia,AUS,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jian-Fang (hong-),F,Australia,AUS,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Jian-Fang (hong-),F,Australia,AUS,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jian-Fang (hong-),F,Australia,AUS,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Jian-Fang (hong-),F,Australia,AUS,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jian-Fang (hong-),F,Australia,AUS,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Miao Miao,F,Australia,AUS,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Miao Miao,F,Australia,AUS,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Miao Miao,F,Australia,AUS,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Miao Miao,F,Australia,AUS,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Miao Miao,F,Australia,AUS,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Miao Miao,F,Australia,AUS,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Miao Miao,F,Australia,AUS,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Stephanie Sang,F,Australia,AUS,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Stephanie Sang,F,Australia,AUS,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Vivian Tan,F,Australia,AUS,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,False
-Melissa Tapper,F,Australia,AUS,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Melissa Tapper,F,Australia,AUS,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Kerri Tepper,F,Australia,AUS,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Kerri Tepper,F,Australia,AUS,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Kerri Tepper,F,Australia,AUS,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Kerri Tepper,F,Australia,AUS,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Ziyu Zhang,F,Australia,AUS,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,False
-Shirley Zhou,F,Australia,AUS,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Shirley Zhou,F,Australia,AUS,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Shirley Zhou,F,Australia,AUS,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Xi Zhou,F,Australia,AUS,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Xi Zhou,F,Australia,AUS,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Michelle Bromley,F,Australia,AUS,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Michelle Bromley,F,Australia,AUS,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Fang Lay,F,Australia,AUS,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Fang Lay,F,Australia,AUS,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Melissa Tapper,F,Australia,AUS,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,True
-Melissa Tapper,F,Australia,AUS,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Melissa Tapper,F,Australia,AUS,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Melissa Tapper,F,Australia,AUS,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Michelle Bromley,F,Australia,AUS,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Minhyung Jee,F,Australia,AUS,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Minhyung Jee,F,Australia,AUS,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Minhyung Jee,F,Australia,AUS,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nadia Bisiach,F,Australia,AUS,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Nadia Bisiach,F,Australia,AUS,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Ying Kwok,F,Australia,AUS,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True
+Jian-Fang (hong-),F,Australia,AUS,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Jian-Fang (hong-),F,Australia,AUS,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Jian-Fang (hong-),F,Australia,AUS,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Jian-Fang (hong-),F,Australia,AUS,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Jian-Fang (hong-),F,Australia,AUS,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Jian-Fang (hong-),F,Australia,AUS,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Jian-Fang (hong-),F,Australia,AUS,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Jian-Fang (hong-),F,Australia,AUS,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Miao Miao,F,Australia,AUS,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Miao Miao,F,Australia,AUS,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Miao Miao,F,Australia,AUS,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Miao Miao,F,Australia,AUS,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Miao Miao,F,Australia,AUS,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Miao Miao,F,Australia,AUS,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Miao Miao,F,Australia,AUS,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Stephanie Sang,F,Australia,AUS,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Stephanie Sang,F,Australia,AUS,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Vivian Tan,F,Australia,AUS,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,False,True
+Melissa Tapper,F,Australia,AUS,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Melissa Tapper,F,Australia,AUS,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Kerri Tepper,F,Australia,AUS,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Kerri Tepper,F,Australia,AUS,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Kerri Tepper,F,Australia,AUS,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Kerri Tepper,F,Australia,AUS,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Ziyu Zhang,F,Australia,AUS,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,False,True
+Shirley Zhou,F,Australia,AUS,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Shirley Zhou,F,Australia,AUS,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Shirley Zhou,F,Australia,AUS,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Xi Zhou,F,Australia,AUS,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Xi Zhou,F,Australia,AUS,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Michelle Bromley,F,Australia,AUS,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Michelle Bromley,F,Australia,AUS,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True,True
+Fang Lay,F,Australia,AUS,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Fang Lay,F,Australia,AUS,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True,True
+Melissa Tapper,F,Australia,AUS,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,True,False
+Melissa Tapper,F,Australia,AUS,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True,False
+Melissa Tapper,F,Australia,AUS,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False
+Melissa Tapper,F,Australia,AUS,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True,False
+Michelle Bromley,F,Australia,AUS,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True,False
+Minhyung Jee,F,Australia,AUS,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Minhyung Jee,F,Australia,AUS,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True,True
+Minhyung Jee,F,Australia,AUS,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True,True

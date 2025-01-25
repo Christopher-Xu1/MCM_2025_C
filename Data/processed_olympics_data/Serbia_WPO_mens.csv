@@ -1,66 +1,66 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Milan Aleksi,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Milan Aleksi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True
-Aleksandar Iri,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False
-Milo Uk,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-Filip Filipovi,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Filip Filipovi,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Filip Filipovi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True
-ivko Goci,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-ivko Goci,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-ivko Goci,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True
-Nikola Jaki,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-Duan Mandi,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Duan Mandi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True
-Branislav Mitrovi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-Stefan Mitrovi,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Stefan Mitrovi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True
-Slobodan Niki,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Slobodan Niki,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True
-Branko Pekovi,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False
-Duko Pijetlovi,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Duko Pijetlovi,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Duko Pijetlovi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True
-Gojko Pijetlovi,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Gojko Pijetlovi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True
-Andrija Prlainovi,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Andrija Prlainovi,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Andrija Prlainovi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True
-Sava Ranelovi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False
-Nikola Raen,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Nikola Raen,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Aleksandar Api,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False
-Aleksa Aponji,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False
-Dejan Savi,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False
-Denis Efik,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False
-Slobodan Soro,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Slobodan Soro,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Vanja Udovii,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Vanja Udovii,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True
-Vladimir Vujasinovi,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False
-Milan Aleksic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False
-Nikola Dedovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,True
-Filip Filipovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False
-Nikola Jaksic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,True
-Dorde Lazic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False
-Dusan Mandic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,True
-Branislav Mitrovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False
-Stefan Mitrovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False
-Dusko Pijetlovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False
-Gojko Pijetlovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False
-Andrija Prlainovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False
-Sava Randelovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,True
-Strahinja Rasovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,True
-Milos Cuk,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False
-Nikola Dedovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,True
-Radomir Drasovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False
-Radoslav Filipovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False
-Petar Jaksic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False
-Nikola Jaksic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,True
-Dusan Mandic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,True
-Vladimir Misovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False
-Sava Randelovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,True
-Viktor Rasovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False
-Strahinja Rasovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,True
-Nemanja Ubovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False
-Nemanja Vico,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Milan Aleksi,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,True
+Milan Aleksi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True,False
+Aleksandar Iri,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False,True
+Milo Uk,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+Filip Filipovi,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,True
+Filip Filipovi,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,False
+Filip Filipovi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True,False
+ivko Goci,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,True
+ivko Goci,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,False
+ivko Goci,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True,False
+Nikola Jaki,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+Duan Mandi,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,True
+Duan Mandi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True,False
+Branislav Mitrovi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+Stefan Mitrovi,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,True
+Stefan Mitrovi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True,False
+Slobodan Niki,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,True
+Slobodan Niki,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True,False
+Branko Pekovi,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False,True
+Duko Pijetlovi,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,True
+Duko Pijetlovi,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,False
+Duko Pijetlovi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True,False
+Gojko Pijetlovi,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,True
+Gojko Pijetlovi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True,False
+Andrija Prlainovi,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,True
+Andrija Prlainovi,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,False
+Andrija Prlainovi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,True,False
+Sava Ranelovi,M,Serbia,SRB,2016,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,Gold,Water,WPO,False,True
+Nikola Raen,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,True
+Nikola Raen,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,False
+Aleksandar Api,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False,True
+Aleksa Aponji,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False,True
+Dejan Savi,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False,True
+Denis Efik,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False,True
+Slobodan Soro,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,True
+Slobodan Soro,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,False
+Vanja Udovii,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,True
+Vanja Udovii,M,Serbia,SRB,2012,London,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,True,False
+Vladimir Vujasinovi,M,Serbia,SRB,2008,Beijing,Water Polo,Water Polo Men's Water Polo,Bronze,Water,WPO,False,True
+Milan Aleksic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False,True
+Nikola Dedovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,True,True
+Filip Filipovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False,True
+Nikola Jaksic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,True,True
+Dorde Lazic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False,True
+Dusan Mandic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,True,True
+Branislav Mitrovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False,True
+Stefan Mitrovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False,True
+Dusko Pijetlovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False,True
+Gojko Pijetlovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False,True
+Andrija Prlainovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,False,True
+Sava Randelovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,True,True
+Strahinja Rasovic,M,Serbia,SRB,2020,Tokyo,Water Polo,Men Team,Gold,Men,WPO,True,True
+Milos Cuk,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False,True
+Nikola Dedovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,True,False
+Radomir Drasovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False,True
+Radoslav Filipovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False,True
+Petar Jaksic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False,True
+Nikola Jaksic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,True,False
+Dusan Mandic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,True,False
+Vladimir Misovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False,True
+Sava Randelovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,True,False
+Viktor Rasovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False,True
+Strahinja Rasovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,True,False
+Nemanja Ubovic,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False,True
+Nemanja Vico,M,Serbia,SRB,2024,Paris,Water Polo,Men,Gold,Men,WPO,False,True

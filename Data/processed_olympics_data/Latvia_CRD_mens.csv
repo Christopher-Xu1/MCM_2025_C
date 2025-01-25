@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Krists Neilands,M,Latvia,LAT,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Toms Skujins,M,Latvia,LAT,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Toms Skujins,M,Latvia,LAT,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Toms Skujins,M,Latvia,LAT,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Krists Neilands,M,Latvia,LAT,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Toms Skujins,M,Latvia,LAT,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Toms Skujins,M,Latvia,LAT,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Toms Skujins,M,Latvia,LAT,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,False

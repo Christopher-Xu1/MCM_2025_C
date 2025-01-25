@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Morgan Barbancon,F,France,FRA,2020,Tokyo,Equestrian,Dressage Team,No medal,Dressage,EDR,True
-Morgan Barbancon,F,France,FRA,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Maxime Collard,F,France,FRA,2020,Tokyo,Equestrian,Dressage Team,No medal,Dressage,EDR,True
-Maxime Collard,F,France,FRA,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Pauline Basquin,F,France,FRA,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Pauline Basquin,F,France,FRA,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True
-Sophie Serre,F,France,FRA,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Morgan Barbancon,F,France,FRA,2020,Tokyo,Equestrian,Dressage Team,No medal,Dressage,EDR,True,True
+Morgan Barbancon,F,France,FRA,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Maxime Collard,F,France,FRA,2020,Tokyo,Equestrian,Dressage Team,No medal,Dressage,EDR,True,True
+Maxime Collard,F,France,FRA,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Pauline Basquin,F,France,FRA,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Pauline Basquin,F,France,FRA,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True,True
+Sophie Serre,F,France,FRA,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,False,True

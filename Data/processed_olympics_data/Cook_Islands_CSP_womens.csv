@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jade Tierney,F,Cook Islands,COK,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jade Tierney,F,Cook Islands,COK,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,False,True

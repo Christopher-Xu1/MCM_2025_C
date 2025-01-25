@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Boland,M,Great Britain/Germany,GBR,1896,Athina,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,False
-Friedrich Traun,M,Great Britain/Germany,GER,1896,Athina,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Boland,M,Great Britain/Germany,GBR,1896,Athina,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,False,True
+Friedrich Traun,M,Great Britain/Germany,GER,1896,Athina,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,False,True

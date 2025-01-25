@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Drew Mechielsen,F,Canada,CAN,2020,Tokyo,Cycling BMX Racing,Women,No medal,Women,BMX,False
-Molly Simpson,F,Canada,CAN,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Drew Mechielsen,F,Canada,CAN,2020,Tokyo,Cycling BMX Racing,Women,No medal,Women,BMX,False,True
+Molly Simpson,F,Canada,CAN,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,False,True

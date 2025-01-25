@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yoonseo Hur,F,Korea,KOR,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,False
-Riyoung Lee,F,Korea,KOR,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yoonseo Hur,F,Korea,KOR,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,False,True
+Riyoung Lee,F,Korea,KOR,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,False,True

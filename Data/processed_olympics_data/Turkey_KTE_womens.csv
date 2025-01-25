@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dilara Bozan,F,Turkey,TUR,2020,Tokyo,Karate,Women's Kata,No medal,Women's,KTE,False
-Merve Coban,F,Turkey,TUR,2020,Tokyo,Karate,Women's Kumite -61kg,Bronze,Women's,KTE,False
-Meltem Hocaoglu,F,Turkey,TUR,2020,Tokyo,Karate,Women's Kumite +61kg,No medal,Women's,KTE,False
-Serap Ozcelik,F,Turkey,TUR,2020,Tokyo,Karate,Women's Kumite -55kg,No medal,Women's,KTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dilara Bozan,F,Turkey,TUR,2020,Tokyo,Karate,Women's Kata,No medal,Women's,KTE,False,True
+Merve Coban,F,Turkey,TUR,2020,Tokyo,Karate,Women's Kumite -61kg,Bronze,Women's,KTE,False,True
+Meltem Hocaoglu,F,Turkey,TUR,2020,Tokyo,Karate,Women's Kumite +61kg,No medal,Women's,KTE,False,True
+Serap Ozcelik,F,Turkey,TUR,2020,Tokyo,Karate,Women's Kumite -55kg,No medal,Women's,KTE,False,True

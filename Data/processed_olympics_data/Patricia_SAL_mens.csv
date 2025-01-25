@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Francisco Gonzales,M,Patricia,PHI,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Fausto Preysler,M,Patricia,PHI,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Jess Villareal,M,Patricia,PHI,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Francisco Gonzales,M,Patricia,PHI,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Fausto Preysler,M,Patricia,PHI,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Jess Villareal,M,Patricia,PHI,1960,Roma,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

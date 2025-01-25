@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Julian David,M,New Zealand,NZL,2024,Paris,Sport Climbing,Men's Speed,No medal,Men's,CLB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Julian David,M,New Zealand,NZL,2024,Paris,Sport Climbing,Men's Speed,No medal,Men's,CLB,False,True

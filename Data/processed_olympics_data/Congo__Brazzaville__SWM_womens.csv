@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Clara Bakale,F,Congo (Brazzaville),CGO,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Clara Bakale,F,Congo (Brazzaville),CGO,2000,Sydney,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Clara Bakale,F,Congo (Brazzaville),CGO,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Stefan Sangala,F,Congo (Brazzaville),CGO,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Aminata Yacoub,F,Congo (Brazzaville),CGO,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Clara Bakale,F,Congo (Brazzaville),CGO,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Clara Bakale,F,Congo (Brazzaville),CGO,2000,Sydney,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Clara Bakale,F,Congo (Brazzaville),CGO,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Stefan Sangala,F,Congo (Brazzaville),CGO,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Aminata Yacoub,F,Congo (Brazzaville),CGO,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True

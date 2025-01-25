@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Evgeniia Frolkina,F,Russia,ROC,2020,Tokyo,3x3 Basketball,Women Team,Silver,Women,BK3,False
-Olga Frolkina,F,Russia,ROC,2020,Tokyo,3x3 Basketball,Women Team,Silver,Women,BK3,False
-Yulia Kozik,F,Russia,ROC,2020,Tokyo,3x3 Basketball,Women Team,Silver,Women,BK3,False
-Anastasiia Logunova,F,Russia,ROC,2020,Tokyo,3x3 Basketball,Women Team,Silver,Women,BK3,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Evgeniia Frolkina,F,Russia,ROC,2020,Tokyo,3x3 Basketball,Women Team,Silver,Women,BK3,False,True
+Olga Frolkina,F,Russia,ROC,2020,Tokyo,3x3 Basketball,Women Team,Silver,Women,BK3,False,True
+Yulia Kozik,F,Russia,ROC,2020,Tokyo,3x3 Basketball,Women Team,Silver,Women,BK3,False,True
+Anastasiia Logunova,F,Russia,ROC,2020,Tokyo,3x3 Basketball,Women Team,Silver,Women,BK3,False,True

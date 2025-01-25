@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Richard Bella,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Christian Gombe,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Aubin-Thierry Goporo,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Frdricque Goporo,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Bruno-Nazaire Kongaouin,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Jean-Pierre Kotta,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Anicet-Richard Ondoma,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Guy M'bongo,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Franois Naoueyama,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Joseph-Dieudonn Ouagon,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Sanda Oumarou,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Eugne Pehoua-pelema,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Richard Bella,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Christian Gombe,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Aubin-Thierry Goporo,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Frdricque Goporo,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Bruno-Nazaire Kongaouin,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Jean-Pierre Kotta,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Anicet-Richard Ondoma,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Guy M'bongo,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Franois Naoueyama,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Joseph-Dieudonn Ouagon,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Sanda Oumarou,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Eugne Pehoua-pelema,M,Central African Republic,CAF,1988,Seoul,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True

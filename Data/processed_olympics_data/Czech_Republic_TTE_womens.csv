@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jana Dobeov,F,Czech Republic,CZE,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Dana Hadaov,F,Czech Republic,CZE,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Dana Hadaov,F,Czech Republic,CZE,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Hana Matelov,F,Czech Republic,CZE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Renta Trbkov,F,Czech Republic,CZE,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Renta Trbkov,F,Czech Republic,CZE,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Iveta Vacenovsk,F,Czech Republic,CZE,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Iveta Vacenovsk,F,Czech Republic,CZE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Alena Vachovcov,F,Czech Republic,CZE,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
-Hana Matelova,F,Czech Republic,CZE,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jana Dobeov,F,Czech Republic,CZE,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Dana Hadaov,F,Czech Republic,CZE,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Dana Hadaov,F,Czech Republic,CZE,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Hana Matelov,F,Czech Republic,CZE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Renta Trbkov,F,Czech Republic,CZE,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Renta Trbkov,F,Czech Republic,CZE,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Iveta Vacenovsk,F,Czech Republic,CZE,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Iveta Vacenovsk,F,Czech Republic,CZE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Alena Vachovcov,F,Czech Republic,CZE,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True
+Hana Matelova,F,Czech Republic,CZE,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,False,True

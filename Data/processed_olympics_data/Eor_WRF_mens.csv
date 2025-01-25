@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Iman Mahdavi,M,Eor,EOR,2024,Paris,Wrestling,Men's Freestyle 74kg,No medal,Men's,WRF,False
-Jamal Valizadeh,M,Eor,EOR,2024,Paris,Wrestling,Men's Greco-Roman 60kg,No medal,Men's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Iman Mahdavi,M,Eor,EOR,2024,Paris,Wrestling,Men's Freestyle 74kg,No medal,Men's,WRF,False,True
+Jamal Valizadeh,M,Eor,EOR,2024,Paris,Wrestling,Men's Greco-Roman 60kg,No medal,Men's,WRF,False,True

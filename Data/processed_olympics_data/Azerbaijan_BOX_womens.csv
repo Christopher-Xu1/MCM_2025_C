@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yana Alekseevna,F,Azerbaijan,AZE,2016,Rio de Janeiro,Boxing,Boxing Women's Lightweight,No medal,Boxing,BOX,False
-Yelena Vstropova,F,Azerbaijan,AZE,2012,London,Boxing,Boxing Women's Middleweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yana Alekseevna,F,Azerbaijan,AZE,2016,Rio de Janeiro,Boxing,Boxing Women's Lightweight,No medal,Boxing,BOX,False,True
+Yelena Vstropova,F,Azerbaijan,AZE,2012,London,Boxing,Boxing Women's Middleweight,No medal,Boxing,BOX,False,True

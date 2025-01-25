@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Choi Eun-suk,F,South Korea,KOR,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Gu Seong-eun,F,South Korea,KOR,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Han Song-hui,F,South Korea,KOR,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Hong Yeong-mi,F,South Korea,KOR,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Kim Gyeong-suk,F,South Korea,KOR,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Kim Jin-yeong,F,South Korea,KOR,1988,Seoul,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,False
-Kim Yong-mi,F,South Korea,KOR,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Kim Yong-mi,F,South Korea,KOR,1996,Atlanta,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True
-Kim Yong-mi,F,South Korea,KOR,2004,Athina,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True
-Lee Eun-ji,F,South Korea,KOR,2012,London,Cycling,Cycling Women's Team Sprint,No medal,Cycling,CTR,False
-Lee Hye-jin,F,South Korea,KOR,2012,London,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,True
-Lee Hye-jin,F,South Korea,KOR,2012,London,Cycling,Cycling Women's Keirin,No medal,Cycling,CTR,True
-Lee Hye-jin,F,South Korea,KOR,2012,London,Cycling,Cycling Women's Team Sprint,No medal,Cycling,CTR,True
-Lee Hye-jin,F,South Korea,KOR,2016,Rio de Janeiro,Cycling,Cycling Women's Keirin,No medal,Cycling,CTR,True
-Lee Min-hye,F,South Korea,KOR,2008,Beijing,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True
-Lee Min-hye,F,South Korea,KOR,2012,London,Cycling,Cycling Women's Omnium,No medal,Cycling,CTR,True
-Mun Suk,F,South Korea,KOR,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Na A-reum,F,South Korea,KOR,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Na A-reum,F,South Korea,KOR,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-No Yeom-ju,F,South Korea,KOR,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Son Hui-jeong,F,South Korea,KOR,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Son Yak-seon,F,South Korea,KOR,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Hyejin Lee,F,South Korea,KOR,2020,Tokyo,Cycling Track,Women's Sprint,No medal,Women's,CTR,True
-Hyejin Lee,F,South Korea,KOR,2020,Tokyo,Cycling Track,Women's Keirin,No medal,Women's,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Choi Eun-suk,F,South Korea,KOR,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Gu Seong-eun,F,South Korea,KOR,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Han Song-hui,F,South Korea,KOR,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Hong Yeong-mi,F,South Korea,KOR,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Kim Gyeong-suk,F,South Korea,KOR,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Kim Jin-yeong,F,South Korea,KOR,1988,Seoul,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,False,True
+Kim Yong-mi,F,South Korea,KOR,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Kim Yong-mi,F,South Korea,KOR,1996,Atlanta,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True,True
+Kim Yong-mi,F,South Korea,KOR,2004,Athina,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True,False
+Lee Eun-ji,F,South Korea,KOR,2012,London,Cycling,Cycling Women's Team Sprint,No medal,Cycling,CTR,False,True
+Lee Hye-jin,F,South Korea,KOR,2012,London,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,True,True
+Lee Hye-jin,F,South Korea,KOR,2012,London,Cycling,Cycling Women's Keirin,No medal,Cycling,CTR,True,True
+Lee Hye-jin,F,South Korea,KOR,2012,London,Cycling,Cycling Women's Team Sprint,No medal,Cycling,CTR,True,True
+Lee Hye-jin,F,South Korea,KOR,2016,Rio de Janeiro,Cycling,Cycling Women's Keirin,No medal,Cycling,CTR,True,False
+Lee Min-hye,F,South Korea,KOR,2008,Beijing,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True,True
+Lee Min-hye,F,South Korea,KOR,2012,London,Cycling,Cycling Women's Omnium,No medal,Cycling,CTR,True,False
+Mun Suk,F,South Korea,KOR,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Na A-reum,F,South Korea,KOR,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Na A-reum,F,South Korea,KOR,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False
+No Yeom-ju,F,South Korea,KOR,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Son Hui-jeong,F,South Korea,KOR,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Son Yak-seon,F,South Korea,KOR,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Hyejin Lee,F,South Korea,KOR,2020,Tokyo,Cycling Track,Women's Sprint,No medal,Women's,CTR,True,True
+Hyejin Lee,F,South Korea,KOR,2020,Tokyo,Cycling Track,Women's Keirin,No medal,Women's,CTR,True,True

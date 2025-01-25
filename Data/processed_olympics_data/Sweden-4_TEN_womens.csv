@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ebba Hay,F,Sweden-4,SWE,1912,Stockholm,Tennis,"Tennis Mixed Doubles, Covered Courts",No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ebba Hay,F,Sweden-4,SWE,1912,Stockholm,Tennis,"Tennis Mixed Doubles, Covered Courts",No medal,Tennis,TEN,False,True

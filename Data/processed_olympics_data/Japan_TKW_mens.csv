@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kiyoteru Higuchi,M,Japan,JPN,2000,Sydney,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Ricardo Suzuki,M,Japan,JPN,2020,Tokyo,Taekwondo,Men -68kg,No medal,Men,TKW,False
-Sergio Suzuki,M,Japan,JPN,2020,Tokyo,Taekwondo,Men -58kg,No medal,Men,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kiyoteru Higuchi,M,Japan,JPN,2000,Sydney,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Ricardo Suzuki,M,Japan,JPN,2020,Tokyo,Taekwondo,Men -68kg,No medal,Men,TKW,False,True
+Sergio Suzuki,M,Japan,JPN,2020,Tokyo,Taekwondo,Men -58kg,No medal,Men,TKW,False,True

@@ -1,35 +1,35 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Claudiu Batea,M,Romania,ROU,2000,Sydney,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Claudiu Batea,M,Romania,ROU,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Valentin Bazon,M,Romania,ROU,1992,Barcelona,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Daniel Brata,M,Romania,ROU,2008,Beijing,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Daniel Brata,M,Romania,ROU,2012,London,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Mihai Cioc,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Mihai Cioc,M,Romania,ROU,1984,Los Angeles,Judo,Judo Men's Open Class,Bronze,Judo,JUD,True
-Alexandru Ciupe,M,Romania,ROU,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Alexandru Ciupe,M,Romania,ROU,1996,Atlanta,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Adrian Croitoru,M,Romania,ROU,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Adrian Croitoru,M,Romania,ROU,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Adrian Croitoru,M,Romania,ROU,2000,Sydney,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Pavel Drgoi,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Open Class,No medal,Judo,JUD,False
-Dan Fie,M,Romania,ROU,2012,London,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Mircea Fric,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Mircea Fric,M,Romania,ROU,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,Bronze,Judo,JUD,True
-Radu Ivan,M,Romania,ROU,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Radu Ivan,M,Romania,ROU,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Radu Ivan,M,Romania,ROU,2000,Sydney,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Alexandru Lungu,M,Romania,ROU,1996,Atlanta,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Gabriel Munteanu,M,Romania,ROU,2000,Sydney,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Gabriel Munteanu,M,Romania,ROU,2004,Athina,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Illie Natea,M,Romania,ROU,2016,Rio de Janeiro,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Constantin Niculae,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Constantin Niculae,M,Romania,ROU,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Dnu Pop,M,Romania,ROU,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Daniel Radu,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Cornel Roman,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Vldu Simionescu,M,Romania,ROU,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Arpad Szabo,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Mihalache Toma,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Alexandru Raicu,M,Romania,ROU,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,False
-Vladut Simionescu,M,Romania,ROU,2020,Tokyo,Judo,Men +100 kg,No medal,Men,JUD,False
-Alex Cret,M,Romania,ROU,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Claudiu Batea,M,Romania,ROU,2000,Sydney,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Claudiu Batea,M,Romania,ROU,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Valentin Bazon,M,Romania,ROU,1992,Barcelona,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Daniel Brata,M,Romania,ROU,2008,Beijing,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,True
+Daniel Brata,M,Romania,ROU,2012,London,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,False
+Mihai Cioc,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,True
+Mihai Cioc,M,Romania,ROU,1984,Los Angeles,Judo,Judo Men's Open Class,Bronze,Judo,JUD,True,False
+Alexandru Ciupe,M,Romania,ROU,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Alexandru Ciupe,M,Romania,ROU,1996,Atlanta,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Adrian Croitoru,M,Romania,ROU,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,True
+Adrian Croitoru,M,Romania,ROU,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,False
+Adrian Croitoru,M,Romania,ROU,2000,Sydney,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,False
+Pavel Drgoi,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Open Class,No medal,Judo,JUD,False,True
+Dan Fie,M,Romania,ROU,2012,London,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Mircea Fric,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Mircea Fric,M,Romania,ROU,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,Bronze,Judo,JUD,True,False
+Radu Ivan,M,Romania,ROU,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,True
+Radu Ivan,M,Romania,ROU,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,False
+Radu Ivan,M,Romania,ROU,2000,Sydney,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,False
+Alexandru Lungu,M,Romania,ROU,1996,Atlanta,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Gabriel Munteanu,M,Romania,ROU,2000,Sydney,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,True
+Gabriel Munteanu,M,Romania,ROU,2004,Athina,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Illie Natea,M,Romania,ROU,2016,Rio de Janeiro,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Constantin Niculae,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,True
+Constantin Niculae,M,Romania,ROU,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False
+Dnu Pop,M,Romania,ROU,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Daniel Radu,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Cornel Roman,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Vldu Simionescu,M,Romania,ROU,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Arpad Szabo,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Mihalache Toma,M,Romania,ROU,1980,Moskva,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Alexandru Raicu,M,Romania,ROU,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,False,True
+Vladut Simionescu,M,Romania,ROU,2020,Tokyo,Judo,Men +100 kg,No medal,Men,JUD,False,True
+Alex Cret,M,Romania,ROU,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,False,True

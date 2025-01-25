@@ -1,40 +1,40 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Olena Fedorova,F,Ukraine,UKR,2004,Athina,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Olena Fedorova,F,Ukraine,UKR,2008,Beijing,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Olena Fedorova,F,Ukraine,UKR,2012,London,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Olena Fedorova,F,Ukraine,UKR,2012,London,Diving,Diving Women's Synchronized Springboard,No medal,Diving,DIV,True
-Olena Fedorova,F,Ukraine,UKR,2016,Rio de Janeiro,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Hanna Krasnoshlyk,F,Ukraine,UKR,2016,Rio de Janeiro,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Olha Leonova,F,Ukraine,UKR,2004,Athina,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Anastasiya Nedobiha,F,Ukraine,UKR,2016,Rio de Janeiro,Diving,Diving Women's Springboard,No medal,Diving,DIV,False
-Iryna Pissareva,F,Ukraine,UKR,1996,Atlanta,Diving,Diving Women's Springboard,No medal,Diving,DIV,False
-Viktoriya Potiekhina,F,Ukraine,UKR,2012,London,Diving,Diving Women's Synchronized Platform,No medal,Diving,DIV,False
-Yuliya Prokopchuk,F,Ukraine,UKR,2008,Beijing,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Yuliya Prokopchuk,F,Ukraine,UKR,2012,London,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Yuliya Prokopchuk,F,Ukraine,UKR,2012,London,Diving,Diving Women's Synchronized Platform,No medal,Diving,DIV,True
-Yuliya Prokopchuk,F,Ukraine,UKR,2016,Rio de Janeiro,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Hanna Pysmenska,F,Ukraine,UKR,2008,Beijing,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Hanna Pysmenska,F,Ukraine,UKR,2008,Beijing,Diving,Diving Women's Synchronized Springboard,No medal,Diving,DIV,True
-Hanna Pysmenska,F,Ukraine,UKR,2012,London,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Hanna Pysmenska,F,Ukraine,UKR,2012,London,Diving,Diving Women's Synchronized Springboard,No medal,Diving,DIV,True
-Svitlana Serbina,F,Ukraine,UKR,1996,Atlanta,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Svitlana Serbina,F,Ukraine,UKR,2000,Sydney,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Hanna Sorokina,F,Ukraine,UKR,2000,Sydney,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Hanna Sorokina,F,Ukraine,UKR,2000,Sydney,Diving,Diving Women's Synchronized Springboard,Bronze,Diving,DIV,True
-Hanna Sorokina,F,Ukraine,UKR,2004,Athina,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Mariya Voloshchenko,F,Ukraine,UKR,2008,Beijing,Diving,Diving Women's Synchronized Springboard,No medal,Diving,DIV,False
-Olha Yefimenko,F,Ukraine,UKR,2000,Sydney,Diving,Diving Women's Springboard,No medal,Diving,DIV,False
-Olena Zhupina,F,Ukraine,UKR,1996,Atlanta,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Olena Zhupina,F,Ukraine,UKR,1996,Atlanta,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Olena Zhupina,F,Ukraine,UKR,2000,Sydney,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Olena Zhupina,F,Ukraine,UKR,2000,Sydney,Diving,Diving Women's Synchronized Springboard,Bronze,Diving,DIV,True
-Olena Zhupina,F,Ukraine,UKR,2004,Athina,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Viktoriya Kesar,F,Ukraine,UKR,2020,Tokyo,Diving,Women's 3m Springboard,No medal,Women's,DIV,True
-Sofiia Lyskun,F,Ukraine,UKR,2020,Tokyo,Diving,Women's 10m Platform,No medal,Women's,DIV,True
-Anna Pysmenska,F,Ukraine,UKR,2020,Tokyo,Diving,Women's 3m Springboard,No medal,Women's,DIV,True
-Kseniia Bailo,F,Ukraine,UKR,2024,Paris,Diving,Women's Synchronised 10m Platform,No medal,Women's,DIV,False
-Sofiia Lyskun,F,Ukraine,UKR,2024,Paris,Diving,Women's 10m Platform,No medal,Women's,DIV,True
-Sofiia Lyskun,F,Ukraine,UKR,2024,Paris,Diving,Women's Synchronised 10m Platform,No medal,Women's,DIV,True
-Viktoriya Kesar,F,Ukraine,UKR,2024,Paris,Diving,Women's 3m Springboard,No medal,Women's,DIV,True
-Viktoriya Kesar,F,Ukraine,UKR,2024,Paris,Diving,Women's Synchronised 3m Springboard,No medal,Women's,DIV,True
-Anna Pysmenska,F,Ukraine,UKR,2024,Paris,Diving,Women's Synchronised 3m Springboard,No medal,Women's,DIV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Olena Fedorova,F,Ukraine,UKR,2004,Athina,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Olena Fedorova,F,Ukraine,UKR,2008,Beijing,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Olena Fedorova,F,Ukraine,UKR,2012,London,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Olena Fedorova,F,Ukraine,UKR,2012,London,Diving,Diving Women's Synchronized Springboard,No medal,Diving,DIV,True,False
+Olena Fedorova,F,Ukraine,UKR,2016,Rio de Janeiro,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Hanna Krasnoshlyk,F,Ukraine,UKR,2016,Rio de Janeiro,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Olha Leonova,F,Ukraine,UKR,2004,Athina,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Anastasiya Nedobiha,F,Ukraine,UKR,2016,Rio de Janeiro,Diving,Diving Women's Springboard,No medal,Diving,DIV,False,True
+Iryna Pissareva,F,Ukraine,UKR,1996,Atlanta,Diving,Diving Women's Springboard,No medal,Diving,DIV,False,True
+Viktoriya Potiekhina,F,Ukraine,UKR,2012,London,Diving,Diving Women's Synchronized Platform,No medal,Diving,DIV,False,True
+Yuliya Prokopchuk,F,Ukraine,UKR,2008,Beijing,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Yuliya Prokopchuk,F,Ukraine,UKR,2012,London,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Yuliya Prokopchuk,F,Ukraine,UKR,2012,London,Diving,Diving Women's Synchronized Platform,No medal,Diving,DIV,True,False
+Yuliya Prokopchuk,F,Ukraine,UKR,2016,Rio de Janeiro,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Hanna Pysmenska,F,Ukraine,UKR,2008,Beijing,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Hanna Pysmenska,F,Ukraine,UKR,2008,Beijing,Diving,Diving Women's Synchronized Springboard,No medal,Diving,DIV,True,True
+Hanna Pysmenska,F,Ukraine,UKR,2012,London,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Hanna Pysmenska,F,Ukraine,UKR,2012,London,Diving,Diving Women's Synchronized Springboard,No medal,Diving,DIV,True,False
+Svitlana Serbina,F,Ukraine,UKR,1996,Atlanta,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Svitlana Serbina,F,Ukraine,UKR,2000,Sydney,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Hanna Sorokina,F,Ukraine,UKR,2000,Sydney,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Hanna Sorokina,F,Ukraine,UKR,2000,Sydney,Diving,Diving Women's Synchronized Springboard,Bronze,Diving,DIV,True,True
+Hanna Sorokina,F,Ukraine,UKR,2004,Athina,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Mariya Voloshchenko,F,Ukraine,UKR,2008,Beijing,Diving,Diving Women's Synchronized Springboard,No medal,Diving,DIV,False,True
+Olha Yefimenko,F,Ukraine,UKR,2000,Sydney,Diving,Diving Women's Springboard,No medal,Diving,DIV,False,True
+Olena Zhupina,F,Ukraine,UKR,1996,Atlanta,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Olena Zhupina,F,Ukraine,UKR,1996,Atlanta,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Olena Zhupina,F,Ukraine,UKR,2000,Sydney,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Olena Zhupina,F,Ukraine,UKR,2000,Sydney,Diving,Diving Women's Synchronized Springboard,Bronze,Diving,DIV,True,False
+Olena Zhupina,F,Ukraine,UKR,2004,Athina,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Viktoriya Kesar,F,Ukraine,UKR,2020,Tokyo,Diving,Women's 3m Springboard,No medal,Women's,DIV,True,True
+Sofiia Lyskun,F,Ukraine,UKR,2020,Tokyo,Diving,Women's 10m Platform,No medal,Women's,DIV,True,True
+Anna Pysmenska,F,Ukraine,UKR,2020,Tokyo,Diving,Women's 3m Springboard,No medal,Women's,DIV,True,True
+Kseniia Bailo,F,Ukraine,UKR,2024,Paris,Diving,Women's Synchronised 10m Platform,No medal,Women's,DIV,False,True
+Sofiia Lyskun,F,Ukraine,UKR,2024,Paris,Diving,Women's 10m Platform,No medal,Women's,DIV,True,False
+Sofiia Lyskun,F,Ukraine,UKR,2024,Paris,Diving,Women's Synchronised 10m Platform,No medal,Women's,DIV,True,False
+Viktoriya Kesar,F,Ukraine,UKR,2024,Paris,Diving,Women's 3m Springboard,No medal,Women's,DIV,True,False
+Viktoriya Kesar,F,Ukraine,UKR,2024,Paris,Diving,Women's Synchronised 3m Springboard,No medal,Women's,DIV,True,False
+Anna Pysmenska,F,Ukraine,UKR,2024,Paris,Diving,Women's Synchronised 3m Springboard,No medal,Women's,DIV,True,False

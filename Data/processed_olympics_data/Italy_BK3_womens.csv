@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chiara Consolini,F,Italy,ITA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,False
-Raelin D,F,Italy,ITA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,False
-Marcella Filippi,F,Italy,ITA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,False
-Giulia Rulli,F,Italy,ITA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chiara Consolini,F,Italy,ITA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,False,True
+Raelin D,F,Italy,ITA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,False,True
+Marcella Filippi,F,Italy,ITA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,False,True
+Giulia Rulli,F,Italy,ITA,2020,Tokyo,3x3 Basketball,Women Team,No medal,Women,BK3,False,True

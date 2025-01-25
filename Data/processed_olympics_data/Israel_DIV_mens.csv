@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yoav Ra'anan,M,Israel,ISR,1952,Helsinki,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Yoav Ra'anan,M,Israel,ISR,1952,Helsinki,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Yoav Ra'anan,M,Israel,ISR,1956,Melbourne,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yoav Ra'anan,M,Israel,ISR,1952,Helsinki,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Yoav Ra'anan,M,Israel,ISR,1952,Helsinki,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Yoav Ra'anan,M,Israel,ISR,1956,Melbourne,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False

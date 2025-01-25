@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maria Alcalde,F,Mexico,MEX,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Maria Alcalde,F,Mexico,MEX,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Anglica (-verdieck),F,Mexico,MEX,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Anglica (-verdieck),F,Mexico,MEX,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Anglica (-verdieck),F,Mexico,MEX,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Claudia Salas,F,Mexico,MEX,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Claudia Salas,F,Mexico,MEX,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Guadelupe Osuna,F,Mexico,MEX,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Guadelupe Osuna,F,Mexico,MEX,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Giuliana Olmos,F,Mexico,MEX,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False
-Renata Zarazua,F,Mexico,MEX,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
-Renata Zarazua,F,Mexico,MEX,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maria Alcalde,F,Mexico,MEX,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Maria Alcalde,F,Mexico,MEX,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Anglica (-verdieck),F,Mexico,MEX,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Anglica (-verdieck),F,Mexico,MEX,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Anglica (-verdieck),F,Mexico,MEX,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Claudia Salas,F,Mexico,MEX,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Claudia Salas,F,Mexico,MEX,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Guadelupe Osuna,F,Mexico,MEX,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Guadelupe Osuna,F,Mexico,MEX,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Giuliana Olmos,F,Mexico,MEX,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False,True
+Renata Zarazua,F,Mexico,MEX,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Renata Zarazua,F,Mexico,MEX,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,True

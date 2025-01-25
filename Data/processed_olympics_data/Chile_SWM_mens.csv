@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-M. Astaburuaga,M,Chile,CHI,1928,Amsterdam,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Hernn Morales,M,Chile,CHI,1952,Helsinki,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Jorge Berroeta,M,Chile,CHI,1936,Berlin,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Alfonso Silvestre,M,Chile,CHI,1936,Berlin,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Oliver Baados,M,Chile,CHI,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Washington Soto,M,Chile,CHI,1936,Berlin,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,False
-Rodrigo Aramburu,M,Chile,CHI,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Rodrigo Aramburu,M,Chile,CHI,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Nicols Rajcevich,M,Chile,CHI,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Nicols Rajcevich,M,Chile,CHI,1996,Atlanta,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-Carlos Valenzuela,M,Chile,CHI,1936,Berlin,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Maximiliano Ramrez,M,Chile,CHI,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Hernn Schuler,M,Chile,CHI,1928,Amsterdam,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Felipe Salinas,M,Chile,CHI,2016,Rio de Janeiro,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,False
-Hernn Tllez,M,Chile,CHI,1928,Amsterdam,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,False
-Giancarlo Seoane,M,Chile,CHI,2000,Sydney,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Giancarlo Seoane,M,Chile,CHI,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Giancarlo Seoane,M,Chile,CHI,2004,Athina,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Giancarlo Seoane,M,Chile,CHI,2004,Athina,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Faelo Ziga,M,Chile,CHI,1928,Amsterdam,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Eduardo Cisternas,M,Chile,CHI,2020,Tokyo,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,True
-Eduardo Cisternas,M,Chile,CHI,2024,Paris,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+M. Astaburuaga,M,Chile,CHI,1928,Amsterdam,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Hernn Morales,M,Chile,CHI,1952,Helsinki,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Jorge Berroeta,M,Chile,CHI,1936,Berlin,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Alfonso Silvestre,M,Chile,CHI,1936,Berlin,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Oliver Baados,M,Chile,CHI,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Washington Soto,M,Chile,CHI,1936,Berlin,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,False,True
+Rodrigo Aramburu,M,Chile,CHI,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Rodrigo Aramburu,M,Chile,CHI,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Nicols Rajcevich,M,Chile,CHI,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Nicols Rajcevich,M,Chile,CHI,1996,Atlanta,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Carlos Valenzuela,M,Chile,CHI,1936,Berlin,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Maximiliano Ramrez,M,Chile,CHI,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Hernn Schuler,M,Chile,CHI,1928,Amsterdam,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Felipe Salinas,M,Chile,CHI,2016,Rio de Janeiro,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,False,True
+Hernn Tllez,M,Chile,CHI,1928,Amsterdam,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,False,True
+Giancarlo Seoane,M,Chile,CHI,2000,Sydney,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Giancarlo Seoane,M,Chile,CHI,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Giancarlo Seoane,M,Chile,CHI,2004,Athina,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,False
+Giancarlo Seoane,M,Chile,CHI,2004,Athina,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,False
+Faelo Ziga,M,Chile,CHI,1928,Amsterdam,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Eduardo Cisternas,M,Chile,CHI,2020,Tokyo,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,True,True
+Eduardo Cisternas,M,Chile,CHI,2024,Paris,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,True,False

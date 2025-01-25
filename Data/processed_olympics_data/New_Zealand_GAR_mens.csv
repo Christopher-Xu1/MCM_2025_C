@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mikhail Koudinov,M,New Zealand,NZL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Mikhail Koudinov,M,New Zealand,NZL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Mikhail Koudinov,M,New Zealand,NZL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Mikhail Koudinov,M,New Zealand,NZL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Mikhail Koudinov,M,New Zealand,NZL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Mikhail Koudinov,M,New Zealand,NZL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Mikhail Koudinov,M,New Zealand,NZL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-David Phillips,M,New Zealand,NZL,2000,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-David Phillips,M,New Zealand,NZL,2000,Sydney,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-David Phillips,M,New Zealand,NZL,2000,Sydney,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-David Phillips,M,New Zealand,NZL,2000,Sydney,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-David Phillips,M,New Zealand,NZL,2000,Sydney,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-David Phillips,M,New Zealand,NZL,2000,Sydney,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-David Phillips,M,New Zealand,NZL,2000,Sydney,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Terence Sale,M,New Zealand,NZL,1972,Munich,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Terence Sale,M,New Zealand,NZL,1972,Munich,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Terence Sale,M,New Zealand,NZL,1972,Munich,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Terence Sale,M,New Zealand,NZL,1972,Munich,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Terence Sale,M,New Zealand,NZL,1972,Munich,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Terence Sale,M,New Zealand,NZL,1972,Munich,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Terence Sale,M,New Zealand,NZL,1972,Munich,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Mikhail Koudinov,M,New Zealand,NZL,2020,Tokyo,Artistic Gymnastics,Men's All-Around,No medal,Men's,GAR,True
-Mikhail Koudinov,M,New Zealand,NZL,2020,Tokyo,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True
-Mikhail Koudinov,M,New Zealand,NZL,2020,Tokyo,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True
-Mikhail Koudinov,M,New Zealand,NZL,2020,Tokyo,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True
-Mikhail Koudinov,M,New Zealand,NZL,2020,Tokyo,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True
-Mikhail Koudinov,M,New Zealand,NZL,2020,Tokyo,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True
-Mikhail Koudinov,M,New Zealand,NZL,2020,Tokyo,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mikhail Koudinov,M,New Zealand,NZL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Mikhail Koudinov,M,New Zealand,NZL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Mikhail Koudinov,M,New Zealand,NZL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+Mikhail Koudinov,M,New Zealand,NZL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Mikhail Koudinov,M,New Zealand,NZL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Mikhail Koudinov,M,New Zealand,NZL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Mikhail Koudinov,M,New Zealand,NZL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+David Phillips,M,New Zealand,NZL,2000,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+David Phillips,M,New Zealand,NZL,2000,Sydney,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+David Phillips,M,New Zealand,NZL,2000,Sydney,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+David Phillips,M,New Zealand,NZL,2000,Sydney,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+David Phillips,M,New Zealand,NZL,2000,Sydney,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+David Phillips,M,New Zealand,NZL,2000,Sydney,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+David Phillips,M,New Zealand,NZL,2000,Sydney,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Terence Sale,M,New Zealand,NZL,1972,Munich,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Terence Sale,M,New Zealand,NZL,1972,Munich,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Terence Sale,M,New Zealand,NZL,1972,Munich,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+Terence Sale,M,New Zealand,NZL,1972,Munich,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Terence Sale,M,New Zealand,NZL,1972,Munich,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Terence Sale,M,New Zealand,NZL,1972,Munich,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Terence Sale,M,New Zealand,NZL,1972,Munich,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Mikhail Koudinov,M,New Zealand,NZL,2020,Tokyo,Artistic Gymnastics,Men's All-Around,No medal,Men's,GAR,True,False
+Mikhail Koudinov,M,New Zealand,NZL,2020,Tokyo,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True,False
+Mikhail Koudinov,M,New Zealand,NZL,2020,Tokyo,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True,False
+Mikhail Koudinov,M,New Zealand,NZL,2020,Tokyo,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True,False
+Mikhail Koudinov,M,New Zealand,NZL,2020,Tokyo,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True,False
+Mikhail Koudinov,M,New Zealand,NZL,2020,Tokyo,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True,False
+Mikhail Koudinov,M,New Zealand,NZL,2020,Tokyo,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True,False

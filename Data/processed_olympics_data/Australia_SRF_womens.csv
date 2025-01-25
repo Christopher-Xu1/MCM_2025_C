@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sally Fitzgibbons,F,Australia,AUS,2020,Tokyo,Surfing,Women,No medal,Women,SRF,False
-Stephanie Gilmore,F,Australia,AUS,2020,Tokyo,Surfing,Women,No medal,Women,SRF,False
-Molly Picklum,F,Australia,AUS,2024,Paris,Surfing,Women,No medal,Women,SRF,False
-Tyler Wright,F,Australia,AUS,2024,Paris,Surfing,Women,No medal,Women,SRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sally Fitzgibbons,F,Australia,AUS,2020,Tokyo,Surfing,Women,No medal,Women,SRF,False,True
+Stephanie Gilmore,F,Australia,AUS,2020,Tokyo,Surfing,Women,No medal,Women,SRF,False,True
+Molly Picklum,F,Australia,AUS,2024,Paris,Surfing,Women,No medal,Women,SRF,False,True
+Tyler Wright,F,Australia,AUS,2024,Paris,Surfing,Women,No medal,Women,SRF,False,True

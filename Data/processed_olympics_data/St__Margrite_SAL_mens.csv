@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Willem Jr.,M,St. Margrite,NED,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Philippus Keegstra,M,St. Margrite,NED,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Willem Jr.,M,St. Margrite,NED,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Philippus Keegstra,M,St. Margrite,NED,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True

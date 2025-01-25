@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ygor Oliveira,M,Brazil,BRA,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Ygor Coelho,M,Brazil,BRA,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True
-Ygor Coelho,M,Brazil,BRA,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ygor Oliveira,M,Brazil,BRA,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Ygor Coelho,M,Brazil,BRA,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True,True
+Ygor Coelho,M,Brazil,BRA,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True,False

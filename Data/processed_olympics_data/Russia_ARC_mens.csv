@@ -1,35 +1,35 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andrey Abramov,M,Russia,RUS,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Andrey Abramov,M,Russia,RUS,2008,Beijing,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Bair Badyonov,M,Russia,RUS,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Bair Badyonov,M,Russia,RUS,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Bair Badyonov,M,Russia,RUS,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Bair Badyonov,M,Russia,RUS,2000,Sydney,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Bair Badyonov,M,Russia,RUS,2008,Beijing,Archery,Archery Men's Individual,Bronze,Archery,ARC,True
-Bair Badyonov,M,Russia,RUS,2008,Beijing,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Vladimir Chendarov,M,Russia,URS,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Boris Isachenko,M,Russia,URS,1980,Moskva,Archery,Archery Men's Individual,Silver,Archery,ARC,False
-Yury Leontyev,M,Russia,URS,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Yury Leontyev,M,Russia,URS,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Yury Leontyev,M,Russia,RUS,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Yury Leontyev,M,Russia,RUS,2000,Sydney,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Dmitry Nevmerzhitsky,M,Russia,RUS,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Mikhail Peunov,M,Russia,URS,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Andrey Podlazov,M,Russia,RUS,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Andrey Podlazov,M,Russia,RUS,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Kostiantyn Shkolniy,M,Russia,URS,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Kostiantyn Shkolniy,M,Russia,URS,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Viktor Sydoruk,M,Russia,URS,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Balzhinima Tsyrempilov,M,Russia,RUS,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Balzhinima Tsyrempilov,M,Russia,RUS,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Balzhinima Tsyrempilov,M,Russia,RUS,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Balzhinima Tsyrempilov,M,Russia,RUS,2000,Sydney,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Balzhinima Tsyrempilov,M,Russia,RUS,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Balzhinima Tsyrempilov,M,Russia,RUS,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Balzhinima Tsyrempilov,M,Russia,RUS,2008,Beijing,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Mati Vaikjrv,M,Russia,URS,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Vladimir Yesheyev,M,Russia,URS,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Vladimir Yesheyev,M,Russia,URS,1988,Seoul,Archery,Archery Men's Individual,Bronze,Archery,ARC,True
-Vladimir Yesheyev,M,Russia,URS,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Galsan Bazarzhapov,M,Russia,ROC,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True
-Galsan Bazarzhapov,M,Russia,ROC,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andrey Abramov,M,Russia,RUS,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Andrey Abramov,M,Russia,RUS,2008,Beijing,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Bair Badyonov,M,Russia,RUS,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Bair Badyonov,M,Russia,RUS,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Bair Badyonov,M,Russia,RUS,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Bair Badyonov,M,Russia,RUS,2000,Sydney,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Bair Badyonov,M,Russia,RUS,2008,Beijing,Archery,Archery Men's Individual,Bronze,Archery,ARC,True,False
+Bair Badyonov,M,Russia,RUS,2008,Beijing,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Vladimir Chendarov,M,Russia,URS,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Boris Isachenko,M,Russia,URS,1980,Moskva,Archery,Archery Men's Individual,Silver,Archery,ARC,False,True
+Yury Leontyev,M,Russia,URS,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Yury Leontyev,M,Russia,URS,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Yury Leontyev,M,Russia,RUS,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Yury Leontyev,M,Russia,RUS,2000,Sydney,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Dmitry Nevmerzhitsky,M,Russia,RUS,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Mikhail Peunov,M,Russia,URS,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Andrey Podlazov,M,Russia,RUS,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Andrey Podlazov,M,Russia,RUS,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Kostiantyn Shkolniy,M,Russia,URS,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Kostiantyn Shkolniy,M,Russia,URS,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Viktor Sydoruk,M,Russia,URS,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Balzhinima Tsyrempilov,M,Russia,RUS,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Balzhinima Tsyrempilov,M,Russia,RUS,1996,Atlanta,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Balzhinima Tsyrempilov,M,Russia,RUS,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Balzhinima Tsyrempilov,M,Russia,RUS,2000,Sydney,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Balzhinima Tsyrempilov,M,Russia,RUS,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Balzhinima Tsyrempilov,M,Russia,RUS,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Balzhinima Tsyrempilov,M,Russia,RUS,2008,Beijing,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Mati Vaikjrv,M,Russia,URS,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Vladimir Yesheyev,M,Russia,URS,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Vladimir Yesheyev,M,Russia,URS,1988,Seoul,Archery,Archery Men's Individual,Bronze,Archery,ARC,True,False
+Vladimir Yesheyev,M,Russia,URS,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Galsan Bazarzhapov,M,Russia,ROC,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True,True
+Galsan Bazarzhapov,M,Russia,ROC,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True

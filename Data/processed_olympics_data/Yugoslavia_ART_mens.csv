@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dragan Boltar,M,Yugoslavia,YUG,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",No medal,Art,ART,False
-Chiffre,M,Yugoslavia,YUG,1936,Berlin,Art Competitions,"Art Competitions Mixed Music, Unknown Event",No medal,Art,ART,False
-Frane Cota,M,Yugoslavia,YUG,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,True
-Frane Cota,M,Yugoslavia,YUG,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,True
-Predrag Kovaevi,M,Yugoslavia,YUG,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",No medal,Art,ART,False
-F. Kroly,M,Yugoslavia,YUG,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,True
-F. Kroly,M,Yugoslavia,YUG,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,True
-Franjo Neidhardt,M,Yugoslavia,YUG,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",No medal,Art,ART,True
-Franjo Neidhardt,M,Yugoslavia,YUG,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",No medal,Art,ART,True
-Konstantin Petrovi,M,Yugoslavia,YUG,1936,Berlin,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",No medal,Art,ART,False
-Juraj Karpa,M,Yugoslavia,YUG,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,False
-Vladimir Turina,M,Yugoslavia,YUG,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",No medal,Art,ART,True
-Vladimir Turina,M,Yugoslavia,YUG,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",No medal,Art,ART,True
-Ivan Zajec,M,Yugoslavia,YUG,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,False
-Demetrij Ebre,M,Yugoslavia,YUG,1936,Berlin,Art Competitions,"Art Competitions Mixed Music, Unknown Event",No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dragan Boltar,M,Yugoslavia,YUG,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",No medal,Art,ART,False,True
+Chiffre,M,Yugoslavia,YUG,1936,Berlin,Art Competitions,"Art Competitions Mixed Music, Unknown Event",No medal,Art,ART,False,True
+Frane Cota,M,Yugoslavia,YUG,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,True,True
+Frane Cota,M,Yugoslavia,YUG,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,True,True
+Predrag Kovaevi,M,Yugoslavia,YUG,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",No medal,Art,ART,False,True
+F. Kroly,M,Yugoslavia,YUG,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,True,True
+F. Kroly,M,Yugoslavia,YUG,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,True,True
+Franjo Neidhardt,M,Yugoslavia,YUG,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",No medal,Art,ART,True,True
+Franjo Neidhardt,M,Yugoslavia,YUG,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",No medal,Art,ART,True,True
+Konstantin Petrovi,M,Yugoslavia,YUG,1936,Berlin,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",No medal,Art,ART,False,True
+Juraj Karpa,M,Yugoslavia,YUG,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,False,True
+Vladimir Turina,M,Yugoslavia,YUG,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",No medal,Art,ART,True,True
+Vladimir Turina,M,Yugoslavia,YUG,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",No medal,Art,ART,True,True
+Ivan Zajec,M,Yugoslavia,YUG,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,False,True
+Demetrij Ebre,M,Yugoslavia,YUG,1936,Berlin,Art Competitions,"Art Competitions Mixed Music, Unknown Event",No medal,Art,ART,False,True

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sapol Biki,M,Malaysia,MAS,1996,Atlanta,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Jumaat Ibrahim,M,Malaysia,MAS,1964,Tokyo,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Gopalan Ramakrishnan,M,Malaysia,MAS,1964,Tokyo,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sapol Biki,M,Malaysia,MAS,1996,Atlanta,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Jumaat Ibrahim,M,Malaysia,MAS,1964,Tokyo,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Gopalan Ramakrishnan,M,Malaysia,MAS,1964,Tokyo,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True

@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Caroline Arft,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,False
-Sarah Bruessler,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
-Tina Dietze,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
-Tina Dietze,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True
-Melanie Gebhardt,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,False
-Jule Hake,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Jule Hake,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True
-Sabrina Hering-pradler,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Sabrina Hering-pradler,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
-Sabrina Hering-pradler,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True
-Lisa Jahn,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Lisa Jahn,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True
-Sophie Koch,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Sophie Koch,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True
-Sarah Bruessler,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Silver,Women's,CSP,True
-Lisa Jahn,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Lisa Jahn,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,True
-Marie Hake,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,Bronze,Women's,CSP,True
-Marie Hake,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Silver,Women's,CSP,True
-Enja Roesseling,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,False
-Lena Roehlings,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,False
-Pauline Jagsch,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True
-Pauline Jagsch,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Silver,Women's,CSP,True
-Maike Jakob,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,False
-Moana Kliemke,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,False
-Paulina Paszek,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,Bronze,Women's,CSP,True
-Paulina Paszek,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Silver,Women's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Caroline Arft,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,False,True
+Sarah Bruessler,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True
+Tina Dietze,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True
+Tina Dietze,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True,True
+Melanie Gebhardt,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,False,True
+Jule Hake,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Jule Hake,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True,True
+Sabrina Hering-pradler,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Sabrina Hering-pradler,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True
+Sabrina Hering-pradler,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True,True
+Lisa Jahn,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Lisa Jahn,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True,True
+Sophie Koch,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Sophie Koch,F,Germany,GER,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True,True
+Sarah Bruessler,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Silver,Women's,CSP,True,False
+Lisa Jahn,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,False
+Lisa Jahn,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,True,False
+Marie Hake,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,Bronze,Women's,CSP,True,True
+Marie Hake,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Silver,Women's,CSP,True,True
+Enja Roesseling,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,False,True
+Lena Roehlings,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,False,True
+Pauline Jagsch,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True,True
+Pauline Jagsch,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Silver,Women's,CSP,True,True
+Maike Jakob,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,False,True
+Moana Kliemke,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,False,True
+Paulina Paszek,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,Bronze,Women's,CSP,True,True
+Paulina Paszek,F,Germany,GER,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,Silver,Women's,CSP,True,True

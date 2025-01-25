@@ -1,24 +1,24 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Il Alben,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Il Alben,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Bahar Alar,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Bahar Alar,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Olcay Akr,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Tue Cantez,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Tue Cantez,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Aye Cora,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Yasemin Dalgalar,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Kuanitra Holingsvorth,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Yasemin Horasan,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-aziye Ner,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-aziye Ner,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Nilay (yiit-),F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-ebnem Kimyacolu,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Emine Palazolu,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-LaToya (pringle-),F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Tilbe Enyrek,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Esmeral Tunluer,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Birsel Demirmen,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Birsel Demirmen,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Nevriye Ylmaz,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Nevriye Ylmaz,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Il Alben,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,True
+Il Alben,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,False
+Bahar Alar,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,True
+Bahar Alar,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,False
+Olcay Akr,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Tue Cantez,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,True
+Tue Cantez,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,False
+Aye Cora,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Yasemin Dalgalar,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Kuanitra Holingsvorth,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Yasemin Horasan,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+aziye Ner,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,True
+aziye Ner,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,False
+Nilay (yiit-),F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+ebnem Kimyacolu,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Emine Palazolu,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+LaToya (pringle-),F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Tilbe Enyrek,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Esmeral Tunluer,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Birsel Demirmen,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,True
+Birsel Demirmen,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,False
+Nevriye Ylmaz,F,Turkey,TUR,2012,London,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,True
+Nevriye Ylmaz,F,Turkey,TUR,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,False

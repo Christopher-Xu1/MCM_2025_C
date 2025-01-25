@@ -1,31 +1,31 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Suzana Spirelja,F,Croatia,CRO,2008,Beijing,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Suzana Spirelja,F,Croatia,CRO,2008,Beijing,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Jasminka Francki,F,Croatia,CRO,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Jasminka Francki,F,Croatia,CRO,1992,Barcelona,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Valentina Gustin,F,Croatia,CRO,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Mladenka (-vidovic),F,Croatia,CRO,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Mladenka (-vidovic),F,Croatia,CRO,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Mladenka (-vidovic),F,Croatia,CRO,2000,Sydney,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Mladenka (-vidovic),F,Croatia,CRO,2000,Sydney,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Marija Marovi,F,Croatia,CRO,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Snjeana Peji,F,Croatia,CRO,2008,Beijing,Shooting,"Shooting Women's Air Rifle, 10 metres",Bronze,Shooting,SHO,True
-Snjeana Peji,F,Croatia,CRO,2008,Beijing,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Snjeana Peji,F,Croatia,CRO,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Snjeana Peji,F,Croatia,CRO,2012,London,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Snjeana Peji,F,Croatia,CRO,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Snjeana Peji,F,Croatia,CRO,2016,Rio de Janeiro,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Tanja Perec,F,Croatia,CRO,2016,Rio de Janeiro,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,False
-Suzana Skoko,F,Croatia,CRO,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Suzana Skoko,F,Croatia,CRO,1992,Barcelona,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Suzana Skoko,F,Croatia,CRO,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Suzana Skoko,F,Croatia,CRO,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Mirela Skoko-kovaevi-eli,F,Croatia,CRO,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Mirela Skoko-kovaevi-eli,F,Croatia,CRO,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Mirela Skoko-kovaevi-eli,F,Croatia,CRO,1996,Atlanta,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Mirela Skoko-kovaevi-eli,F,Croatia,CRO,1996,Atlanta,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Mirela Skoko-kovaevi-eli,F,Croatia,CRO,2004,Athina,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Mirela Skoko-kovaevi-eli,F,Croatia,CRO,2004,Athina,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Snjezana Pejcic,F,Croatia,CRO,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,True
-Snjezana Pejcic,F,Croatia,CRO,2020,Tokyo,Shooting,50m Rifle 3 Positions Women,No medal,50m,SHO,True
-Snjezana Pejcic,F,Croatia,CRO,2020,Tokyo,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Suzana Spirelja,F,Croatia,CRO,2008,Beijing,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Suzana Spirelja,F,Croatia,CRO,2008,Beijing,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Jasminka Francki,F,Croatia,CRO,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Jasminka Francki,F,Croatia,CRO,1992,Barcelona,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Valentina Gustin,F,Croatia,CRO,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Mladenka (-vidovic),F,Croatia,CRO,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Mladenka (-vidovic),F,Croatia,CRO,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Mladenka (-vidovic),F,Croatia,CRO,2000,Sydney,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Mladenka (-vidovic),F,Croatia,CRO,2000,Sydney,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Marija Marovi,F,Croatia,CRO,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Snjeana Peji,F,Croatia,CRO,2008,Beijing,Shooting,"Shooting Women's Air Rifle, 10 metres",Bronze,Shooting,SHO,True,True
+Snjeana Peji,F,Croatia,CRO,2008,Beijing,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Snjeana Peji,F,Croatia,CRO,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Snjeana Peji,F,Croatia,CRO,2012,London,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Snjeana Peji,F,Croatia,CRO,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Snjeana Peji,F,Croatia,CRO,2016,Rio de Janeiro,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Tanja Perec,F,Croatia,CRO,2016,Rio de Janeiro,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,False,True
+Suzana Skoko,F,Croatia,CRO,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Suzana Skoko,F,Croatia,CRO,1992,Barcelona,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Suzana Skoko,F,Croatia,CRO,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Suzana Skoko,F,Croatia,CRO,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Mirela Skoko-kovaevi-eli,F,Croatia,CRO,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Mirela Skoko-kovaevi-eli,F,Croatia,CRO,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Mirela Skoko-kovaevi-eli,F,Croatia,CRO,1996,Atlanta,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Mirela Skoko-kovaevi-eli,F,Croatia,CRO,1996,Atlanta,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Mirela Skoko-kovaevi-eli,F,Croatia,CRO,2004,Athina,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Mirela Skoko-kovaevi-eli,F,Croatia,CRO,2004,Athina,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Snjezana Pejcic,F,Croatia,CRO,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,True,True
+Snjezana Pejcic,F,Croatia,CRO,2020,Tokyo,Shooting,50m Rifle 3 Positions Women,No medal,50m,SHO,True,True
+Snjezana Pejcic,F,Croatia,CRO,2020,Tokyo,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True,True

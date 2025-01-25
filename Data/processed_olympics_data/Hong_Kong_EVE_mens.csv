@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Man Cheng,M,Hong Kong,HKG,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Man Cheng,M,Hong Kong,HKG,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Lap Lam,M,Hong Kong,HKG,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Lap Lam,M,Hong Kong,HKG,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Man Cheng,M,Hong Kong,HKG,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Man Cheng,M,Hong Kong,HKG,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Lap Lam,M,Hong Kong,HKG,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Lap Lam,M,Hong Kong,HKG,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True

@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Riley Fitzsimmons,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Double 1000m Team,No medal,Men's,CSP,True
-Riley Fitzsimmons,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,True
-Thomas Green,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
-Thomas Green,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Double 1000m Team,Gold,Men's,CSP,True
-Murray Stewart,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,False
-Lachlan Tame,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,False
-van Jean,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
-van Jean,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Double 1000m Team,Gold,Men's,CSP,True
-Jordan Wood,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Double 1000m Team,No medal,Men's,CSP,True
-Jordan Wood,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,True
-Jackson Collins,M,Australia,AUS,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,Silver,Men's,CSP,False
-van Jean,M,Australia,AUS,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,Bronze,Men's,CSP,True
-Noah Havard,M,Australia,AUS,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,Silver,Men's,CSP,False
-van Pierre,M,Australia,AUS,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,Silver,Men's,CSP,False
-Riley Fitzsimmons,M,Australia,AUS,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,Silver,Men's,CSP,True
-Tom Green,M,Australia,AUS,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
-Tom Green,M,Australia,AUS,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,Bronze,Men's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Riley Fitzsimmons,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Double 1000m Team,No medal,Men's,CSP,True,True
+Riley Fitzsimmons,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,True,True
+Thomas Green,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True,True
+Thomas Green,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Double 1000m Team,Gold,Men's,CSP,True,True
+Murray Stewart,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,False,True
+Lachlan Tame,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,False,True
+van Jean,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True,True
+van Jean,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Double 1000m Team,Gold,Men's,CSP,True,True
+Jordan Wood,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Double 1000m Team,No medal,Men's,CSP,True,True
+Jordan Wood,M,Australia,AUS,2020,Tokyo,Canoe Sprint,Men's Kayak Four 500m Team,No medal,Men's,CSP,True,True
+Jackson Collins,M,Australia,AUS,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,Silver,Men's,CSP,False,True
+van Jean,M,Australia,AUS,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,Bronze,Men's,CSP,True,False
+Noah Havard,M,Australia,AUS,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,Silver,Men's,CSP,False,True
+van Pierre,M,Australia,AUS,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,Silver,Men's,CSP,False,True
+Riley Fitzsimmons,M,Australia,AUS,2024,Paris,Canoe Sprint,Men's Kayak Four 500m,Silver,Men's,CSP,True,False
+Tom Green,M,Australia,AUS,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True,True
+Tom Green,M,Australia,AUS,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,Bronze,Men's,CSP,True,True

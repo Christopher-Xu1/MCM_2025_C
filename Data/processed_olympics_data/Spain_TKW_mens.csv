@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gabriel Prez,M,Spain,ESP,2000,Sydney,Taekwondo,Taekwondo Men's Flyweight,Silver,Taekwondo,TKW,False
-Jon Aguado,M,Spain,ESP,2004,Athina,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,True
-Jon Aguado,M,Spain,ESP,2008,Beijing,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,True
-Nicols Hemme,M,Spain,ESP,2012,London,Taekwondo,Taekwondo Men's Welterweight,Silver,Taekwondo,TKW,False
-Joel Bonilla,M,Spain,ESP,2012,London,Taekwondo,Taekwondo Men's Flyweight,Gold,Taekwondo,TKW,True
-Joel Bonilla,M,Spain,ESP,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Featherweight,Bronze,Taekwondo,TKW,True
-Juan Snchez,M,Spain,ESP,2004,Athina,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,True
-Juan Snchez,M,Spain,ESP,2008,Beijing,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,True
-Jess Cabrera,M,Spain,ESP,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Francisco Couce,M,Spain,ESP,2000,Sydney,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False
-Raul Martinez,M,Spain,ESP,2020,Tokyo,Taekwondo,Men -80kg,No medal,Men,TKW,False
-Javier Perez,M,Spain,ESP,2020,Tokyo,Taekwondo,Men -68kg,No medal,Men,TKW,True
-Adrian Vicente,M,Spain,ESP,2020,Tokyo,Taekwondo,Men -58kg,No medal,Men,TKW,True
-Javier Perez,M,Spain,ESP,2024,Paris,Taekwondo,Men -68kg,No medal,Men,TKW,True
-Adrian Vicente,M,Spain,ESP,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gabriel Prez,M,Spain,ESP,2000,Sydney,Taekwondo,Taekwondo Men's Flyweight,Silver,Taekwondo,TKW,False,True
+Jon Aguado,M,Spain,ESP,2004,Athina,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,True,True
+Jon Aguado,M,Spain,ESP,2008,Beijing,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,True,False
+Nicols Hemme,M,Spain,ESP,2012,London,Taekwondo,Taekwondo Men's Welterweight,Silver,Taekwondo,TKW,False,True
+Joel Bonilla,M,Spain,ESP,2012,London,Taekwondo,Taekwondo Men's Flyweight,Gold,Taekwondo,TKW,True,True
+Joel Bonilla,M,Spain,ESP,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Featherweight,Bronze,Taekwondo,TKW,True,False
+Juan Snchez,M,Spain,ESP,2004,Athina,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,True,True
+Juan Snchez,M,Spain,ESP,2008,Beijing,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,True,False
+Jess Cabrera,M,Spain,ESP,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Francisco Couce,M,Spain,ESP,2000,Sydney,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False,True
+Raul Martinez,M,Spain,ESP,2020,Tokyo,Taekwondo,Men -80kg,No medal,Men,TKW,False,True
+Javier Perez,M,Spain,ESP,2020,Tokyo,Taekwondo,Men -68kg,No medal,Men,TKW,True,True
+Adrian Vicente,M,Spain,ESP,2020,Tokyo,Taekwondo,Men -58kg,No medal,Men,TKW,True,True
+Javier Perez,M,Spain,ESP,2024,Paris,Taekwondo,Men -68kg,No medal,Men,TKW,True,False
+Adrian Vicente,M,Spain,ESP,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,True,False

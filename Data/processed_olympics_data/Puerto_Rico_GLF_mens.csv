@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rafael Campos,M,Puerto Rico,PUR,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Rafa Campos,M,Puerto Rico,PUR,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rafael Campos,M,Puerto Rico,PUR,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Rafa Campos,M,Puerto Rico,PUR,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True

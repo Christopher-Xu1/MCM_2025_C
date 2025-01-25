@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Caroline Chew,F,Singapore,SGP,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Caroline Chew,F,Singapore,SGP,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Caroline Chew,F,Singapore,SGP,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Caroline Chew,F,Singapore,SGP,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,False

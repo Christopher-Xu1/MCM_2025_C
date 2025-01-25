@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pernille Jensen,F,Denmark-2,DEN,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Ann-Lou Jrgensen,F,Denmark-2,DEN,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Ann-Lou Jrgensen,F,Denmark-2,DEN,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Kamilla Juhl,F,Denmark-2,DEN,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Helene Kirkegaard,F,Denmark-2,DEN,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Grete (-kragekjr),F,Denmark-2,DEN,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Lotte Olsen,F,Denmark-2,DEN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Rikke (-siegemund),F,Denmark-2,DEN,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Rikke (-siegemund),F,Denmark-2,DEN,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Mette (-truedsson),F,Denmark-2,DEN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Mette (-truedsson),F,Denmark-2,DEN,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Mette (-truedsson),F,Denmark-2,DEN,2004,Athina,Badminton,Badminton Mixed Doubles,Bronze,Badminton,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pernille Jensen,F,Denmark-2,DEN,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Ann-Lou Jrgensen,F,Denmark-2,DEN,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Ann-Lou Jrgensen,F,Denmark-2,DEN,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Kamilla Juhl,F,Denmark-2,DEN,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Helene Kirkegaard,F,Denmark-2,DEN,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Grete (-kragekjr),F,Denmark-2,DEN,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Lotte Olsen,F,Denmark-2,DEN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Rikke (-siegemund),F,Denmark-2,DEN,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Rikke (-siegemund),F,Denmark-2,DEN,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Mette (-truedsson),F,Denmark-2,DEN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Mette (-truedsson),F,Denmark-2,DEN,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Mette (-truedsson),F,Denmark-2,DEN,2004,Athina,Badminton,Badminton Mixed Doubles,Bronze,Badminton,BDM,True,False

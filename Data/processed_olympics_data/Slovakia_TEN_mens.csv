@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Karol Beck,M,Slovakia,SVK,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Karol Beck,M,Slovakia,SVK,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Dominik Hrbat,M,Slovakia,SVK,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Dominik Hrbat,M,Slovakia,SVK,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Dominik Hrbat,M,Slovakia,SVK,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Dominik Hrbat,M,Slovakia,SVK,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Dominik Hrbat,M,Slovakia,SVK,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Martin Klian,M,Slovakia,SVK,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Martin Klian,M,Slovakia,SVK,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Jn Krolk,M,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Jn Krolk,M,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Karol Kuera,M,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Karol Kuera,M,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Karol Kuera,M,Slovakia,SVK,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Karol Kuera,M,Slovakia,SVK,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Karol Kuera,M,Slovakia,SVK,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Luk Lacko,M,Slovakia,SVK,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Luk Lacko,M,Slovakia,SVK,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Andrej Martin,M,Slovakia,SVK,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Andrej Martin,M,Slovakia,SVK,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Igor Zelenay,M,Slovakia,SVK,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Norbert Gombos,M,Slovakia,SVK,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,False
-Lukas Klein,M,Slovakia,SVK,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True
-Lukas Klein,M,Slovakia,SVK,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
-Filip Polasek,M,Slovakia,SVK,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Karol Beck,M,Slovakia,SVK,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Karol Beck,M,Slovakia,SVK,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Dominik Hrbat,M,Slovakia,SVK,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Dominik Hrbat,M,Slovakia,SVK,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Dominik Hrbat,M,Slovakia,SVK,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Dominik Hrbat,M,Slovakia,SVK,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Dominik Hrbat,M,Slovakia,SVK,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Martin Klian,M,Slovakia,SVK,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Martin Klian,M,Slovakia,SVK,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Jn Krolk,M,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Jn Krolk,M,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Karol Kuera,M,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Karol Kuera,M,Slovakia,SVK,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Karol Kuera,M,Slovakia,SVK,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Karol Kuera,M,Slovakia,SVK,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Karol Kuera,M,Slovakia,SVK,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Luk Lacko,M,Slovakia,SVK,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Luk Lacko,M,Slovakia,SVK,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Andrej Martin,M,Slovakia,SVK,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Andrej Martin,M,Slovakia,SVK,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Igor Zelenay,M,Slovakia,SVK,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Norbert Gombos,M,Slovakia,SVK,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,False,True
+Lukas Klein,M,Slovakia,SVK,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True,True
+Lukas Klein,M,Slovakia,SVK,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True,True
+Filip Polasek,M,Slovakia,SVK,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,False,True

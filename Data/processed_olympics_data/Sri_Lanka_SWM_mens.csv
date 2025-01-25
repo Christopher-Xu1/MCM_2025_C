@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Matthew Abeysinghe,M,Sri Lanka,SRI,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Julian Bolling,M,Sri Lanka,SRI,1984,Los Angeles,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Julian Bolling,M,Sri Lanka,SRI,1984,Los Angeles,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Julian Bolling,M,Sri Lanka,SRI,1984,Los Angeles,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Julian Bolling,M,Sri Lanka,SRI,1988,Seoul,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Julian Bolling,M,Sri Lanka,SRI,1988,Seoul,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Julian Bolling,M,Sri Lanka,SRI,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Julian Bolling,M,Sri Lanka,SRI,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Julian Bolling,M,Sri Lanka,SRI,1992,Barcelona,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Conrad Francis,M,Sri Lanka,SRI,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Conrad Francis,M,Sri Lanka,SRI,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Daniel Lee,M,Sri Lanka,SRI,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Geoffrey Marks,M,Sri Lanka,SRI,1952,Helsinki,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Geoffrey Marks,M,Sri Lanka,SRI,1952,Helsinki,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Geoffrey Marks,M,Sri Lanka,SRI,1952,Helsinki,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Heshan Unamboowe,M,Sri Lanka,SRI,2012,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Malcolm Williams,M,Sri Lanka,SRI,1960,Roma,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Matthew Abeysinghe,M,Sri Lanka,SRI,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
-Kyle Abeysinghe,M,Sri Lanka,SRI,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Matthew Abeysinghe,M,Sri Lanka,SRI,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Julian Bolling,M,Sri Lanka,SRI,1984,Los Angeles,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Julian Bolling,M,Sri Lanka,SRI,1984,Los Angeles,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Julian Bolling,M,Sri Lanka,SRI,1984,Los Angeles,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Julian Bolling,M,Sri Lanka,SRI,1988,Seoul,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,False
+Julian Bolling,M,Sri Lanka,SRI,1988,Seoul,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,False
+Julian Bolling,M,Sri Lanka,SRI,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Julian Bolling,M,Sri Lanka,SRI,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Julian Bolling,M,Sri Lanka,SRI,1992,Barcelona,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,False
+Conrad Francis,M,Sri Lanka,SRI,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Conrad Francis,M,Sri Lanka,SRI,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Daniel Lee,M,Sri Lanka,SRI,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Geoffrey Marks,M,Sri Lanka,SRI,1952,Helsinki,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Geoffrey Marks,M,Sri Lanka,SRI,1952,Helsinki,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Geoffrey Marks,M,Sri Lanka,SRI,1952,Helsinki,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Heshan Unamboowe,M,Sri Lanka,SRI,2012,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Malcolm Williams,M,Sri Lanka,SRI,1960,Roma,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Matthew Abeysinghe,M,Sri Lanka,SRI,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,False
+Kyle Abeysinghe,M,Sri Lanka,SRI,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True

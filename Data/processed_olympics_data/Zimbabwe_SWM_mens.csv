@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Brendan Ashby,M,Zimbabwe,ZIM,2004,Athina,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Guy Goosen,M,Zimbabwe,ZIM,1980,Moskva,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Guy Goosen,M,Zimbabwe,ZIM,1980,Moskva,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Guy Goosen,M,Zimbabwe,ZIM,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Sean Gunn,M,Zimbabwe,ZIM,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Brett Halford,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Brett Halford,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-Ivor Roux,M,Zimbabwe,ZIM,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Ivor Roux,M,Zimbabwe,ZIM,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Ivor Roux,M,Zimbabwe,ZIM,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Rhoderick Mcgown,M,Zimbabwe,ZIM,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Rhoderick Mcgown,M,Zimbabwe,ZIM,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Rhoderick Mcgown,M,Zimbabwe,ZIM,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Vaughan Smith,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Vaughan Smith,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Vaughan Smith,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Vaughan Smith,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Graham Thompson,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Graham Thompson,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Graham Thompson,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Graham Thompson,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Glen Walshaw,M,Zimbabwe,ZIM,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Glen Walshaw,M,Zimbabwe,ZIM,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Peter Wetzlar,M,Zimbabwe,ZIM,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
-Denilson Cyprianos,M,Zimbabwe,ZIM,2024,Paris,Swimming,Men's 200m Backstroke,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Brendan Ashby,M,Zimbabwe,ZIM,2004,Athina,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Guy Goosen,M,Zimbabwe,ZIM,1980,Moskva,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Guy Goosen,M,Zimbabwe,ZIM,1980,Moskva,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Guy Goosen,M,Zimbabwe,ZIM,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Sean Gunn,M,Zimbabwe,ZIM,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Brett Halford,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Brett Halford,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Ivor Roux,M,Zimbabwe,ZIM,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Ivor Roux,M,Zimbabwe,ZIM,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Ivor Roux,M,Zimbabwe,ZIM,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Rhoderick Mcgown,M,Zimbabwe,ZIM,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Rhoderick Mcgown,M,Zimbabwe,ZIM,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Rhoderick Mcgown,M,Zimbabwe,ZIM,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Vaughan Smith,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Vaughan Smith,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Vaughan Smith,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Vaughan Smith,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Graham Thompson,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Graham Thompson,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Graham Thompson,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Graham Thompson,M,Zimbabwe,ZIM,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Glen Walshaw,M,Zimbabwe,ZIM,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Glen Walshaw,M,Zimbabwe,ZIM,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Peter Wetzlar,M,Zimbabwe,ZIM,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True
+Denilson Cyprianos,M,Zimbabwe,ZIM,2024,Paris,Swimming,Men's 200m Backstroke,No medal,Men's,SWM,False,True

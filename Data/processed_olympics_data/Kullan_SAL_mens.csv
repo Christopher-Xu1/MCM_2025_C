@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gsta (-bewert),M,Kullan,SWE,1920,Antwerpen,Sailing,Sailing Mixed 30 metres,Gold,Sailing,SAL,False
-Gsta Lundquist,M,Kullan,SWE,1920,Antwerpen,Sailing,Sailing Mixed 30 metres,Gold,Sailing,SAL,False
-Rolf Steffenburg,M,Kullan,SWE,1920,Antwerpen,Sailing,Sailing Mixed 30 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gsta (-bewert),M,Kullan,SWE,1920,Antwerpen,Sailing,Sailing Mixed 30 metres,Gold,Sailing,SAL,False,True
+Gsta Lundquist,M,Kullan,SWE,1920,Antwerpen,Sailing,Sailing Mixed 30 metres,Gold,Sailing,SAL,False,True
+Rolf Steffenburg,M,Kullan,SWE,1920,Antwerpen,Sailing,Sailing Mixed 30 metres,Gold,Sailing,SAL,False,True

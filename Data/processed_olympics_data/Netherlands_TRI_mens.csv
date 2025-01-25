@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Robert Barel,M,Netherlands,NED,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Sander Berk,M,Netherlands,NED,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Dennis Looze,M,Netherlands,NED,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Eric Linden,M,Netherlands,NED,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-van Marco,M,Netherlands,NED,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,False
-van Jorik,M,Netherlands,NED,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,False
-Richard Murray,M,Netherlands,NED,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
-Mitch Kolkman,M,Netherlands,NED,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Robert Barel,M,Netherlands,NED,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Sander Berk,M,Netherlands,NED,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Dennis Looze,M,Netherlands,NED,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Eric Linden,M,Netherlands,NED,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+van Marco,M,Netherlands,NED,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,False,True
+van Jorik,M,Netherlands,NED,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,False,True
+Richard Murray,M,Netherlands,NED,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True
+Mitch Kolkman,M,Netherlands,NED,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True

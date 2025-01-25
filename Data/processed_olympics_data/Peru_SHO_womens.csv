@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-E. Seminario-),F,Peru,PER,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-E. Seminario-),F,Peru,PER,1972,Munich,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Gladys Baldwin,F,Peru,PER,1984,Los Angeles,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,False
-Daniella Borda,F,Peru,PER,2024,Paris,Shooting,Skeet Women,No medal,Skeet,SHO,True
-Daniella Borda,F,Peru,PER,2024,Paris,Shooting,Skeet Mixed Team,No medal,Skeet,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+E. Seminario-),F,Peru,PER,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+E. Seminario-),F,Peru,PER,1972,Munich,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Gladys Baldwin,F,Peru,PER,1984,Los Angeles,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,False,True
+Daniella Borda,F,Peru,PER,2024,Paris,Shooting,Skeet Women,No medal,Skeet,SHO,True,True
+Daniella Borda,F,Peru,PER,2024,Paris,Shooting,Skeet Mixed Team,No medal,Skeet,SHO,True,True

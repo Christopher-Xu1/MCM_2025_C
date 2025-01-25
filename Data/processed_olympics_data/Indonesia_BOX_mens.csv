@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Johanis Assadoma,M,Indonesia,INA,1984,Los Angeles,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Nemo Bahari,M,Indonesia,INA,1996,Atlanta,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Hermensen Ballo,M,Indonesia,INA,1996,Atlanta,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True
-Hermensen Ballo,M,Indonesia,INA,2000,Sydney,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True
-John Bolang,M,Indonesia,INA,1960,Roma,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-William Gommies,M,Indonesia,INA,1972,Munich,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Syamsul Harahap,M,Indonesia,INA,1976,Montreal,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Ilham Lahia,M,Indonesia,INA,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Francisco Lisboa,M,Indonesia,INA,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Salek Mahju,M,Indonesia,INA,1960,Roma,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-La Masara,M,Indonesia,INA,1996,Atlanta,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True
-La Masara,M,Indonesia,INA,2000,Sydney,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True
-Ferry Moniaga,M,Indonesia,INA,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Oei Tiang,M,Indonesia,INA,1960,Roma,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Alberth Papilaya,M,Indonesia,INA,1992,Barcelona,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Hendrik Simangunsong,M,Indonesia,INA,1992,Barcelona,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True
-Hendrik Simangunsong,M,Indonesia,INA,1996,Atlanta,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True
-Adrianus Taroreh,M,Indonesia,INA,1988,Seoul,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Frans Bronckhorst,M,Indonesia,INA,1976,Montreal,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Alexander Wassa,M,Indonesia,INA,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Bonyx Saweho,M,Indonesia,INA,2004,Athina,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Johanis Assadoma,M,Indonesia,INA,1984,Los Angeles,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Nemo Bahari,M,Indonesia,INA,1996,Atlanta,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Hermensen Ballo,M,Indonesia,INA,1996,Atlanta,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True,True
+Hermensen Ballo,M,Indonesia,INA,2000,Sydney,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True,False
+John Bolang,M,Indonesia,INA,1960,Roma,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+William Gommies,M,Indonesia,INA,1972,Munich,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Syamsul Harahap,M,Indonesia,INA,1976,Montreal,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Ilham Lahia,M,Indonesia,INA,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Francisco Lisboa,M,Indonesia,INA,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Salek Mahju,M,Indonesia,INA,1960,Roma,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+La Masara,M,Indonesia,INA,1996,Atlanta,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True,True
+La Masara,M,Indonesia,INA,2000,Sydney,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True,False
+Ferry Moniaga,M,Indonesia,INA,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Oei Tiang,M,Indonesia,INA,1960,Roma,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Alberth Papilaya,M,Indonesia,INA,1992,Barcelona,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Hendrik Simangunsong,M,Indonesia,INA,1992,Barcelona,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True,True
+Hendrik Simangunsong,M,Indonesia,INA,1996,Atlanta,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True,False
+Adrianus Taroreh,M,Indonesia,INA,1988,Seoul,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Frans Bronckhorst,M,Indonesia,INA,1976,Montreal,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Alexander Wassa,M,Indonesia,INA,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Bonyx Saweho,M,Indonesia,INA,2004,Athina,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True

@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rodrigue Boucka,M,Gabon,GAB,1992,Barcelona,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Serge Bouemba,M,Gabon,GAB,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Guy-Elie Boulingui,M,Gabon,GAB,1996,Atlanta,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Braexir Lemboumba,M,Gabon,GAB,2012,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Taylor Mabika,M,Gabon,GAB,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Joseph M'bouroukounda,M,Gabon,GAB,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Julio Mboumba,M,Gabon,GAB,1996,Atlanta,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Yannick Mbemy,M,Gabon,GAB,2012,London,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Dieudonn Mzatsi,M,Gabon,GAB,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Petit Ngnitedem,M,Gabon,GAB,2004,Athina,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Stphane Mba,M,Gabon,GAB,2000,Sydney,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Desir Ollo,M,Gabon,GAB,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rodrigue Boucka,M,Gabon,GAB,1992,Barcelona,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Serge Bouemba,M,Gabon,GAB,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Guy-Elie Boulingui,M,Gabon,GAB,1996,Atlanta,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Braexir Lemboumba,M,Gabon,GAB,2012,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Taylor Mabika,M,Gabon,GAB,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Joseph M'bouroukounda,M,Gabon,GAB,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Julio Mboumba,M,Gabon,GAB,1996,Atlanta,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Yannick Mbemy,M,Gabon,GAB,2012,London,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Dieudonn Mzatsi,M,Gabon,GAB,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Petit Ngnitedem,M,Gabon,GAB,2004,Athina,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Stphane Mba,M,Gabon,GAB,2000,Sydney,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Desir Ollo,M,Gabon,GAB,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True

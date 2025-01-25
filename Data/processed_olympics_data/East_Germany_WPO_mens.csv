@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Siegfried Ballerstedt,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Hans-Georg Fehn,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Veit Herrmanns,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Manfred Herzog,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Jrgen Kluge,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Hans-Ulrich Lange,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Peter Rund,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Klaus Schlenkrich,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Peter Schmidt,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Hans-Jrgen Schler,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Jrgen Thiel,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Siegfried Ballerstedt,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Hans-Georg Fehn,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Veit Herrmanns,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Manfred Herzog,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Jrgen Kluge,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Hans-Ulrich Lange,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Peter Rund,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Klaus Schlenkrich,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Peter Schmidt,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Hans-Jrgen Schler,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Jrgen Thiel,M,East Germany,GDR,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True

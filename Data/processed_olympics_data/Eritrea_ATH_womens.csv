@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nebiat Measho,F,Eritrea,ERI,2000,Sydney,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,True
-Nebiat Measho,F,Eritrea,ERI,2004,Athina,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,True
-Nebiat Measho,F,Eritrea,ERI,2008,Beijing,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Nebiat Measho,F,Eritrea,ERI,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Rehaset Mehari,F,Eritrea,ERI,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Simret Ghebermichael,F,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,False
-Rahel Daniel,F,Eritrea,ERI,2020,Tokyo,Athletics,Women's 5000m,No medal,Women's,ATH,True
-Tesfagaber Solomon,F,Eritrea,ERI,2020,Tokyo,Athletics,Women's Marathon,No medal,Women's,ATH,False
-Dolshi Tesfu,F,Eritrea,ERI,2020,Tokyo,Athletics,"Women's 10,000m",No medal,Women's,ATH,True
-Nazret Weldu,F,Eritrea,ERI,2020,Tokyo,Athletics,Women's Marathon,No medal,Women's,ATH,False
-Rahel Daniel,F,Eritrea,ERI,2024,Paris,Athletics,"Women's 10,000m",No medal,Women's,ATH,True
-Dolshi Tesfu,F,Eritrea,ERI,2024,Paris,Athletics,Women's Marathon,No medal,Women's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nebiat Measho,F,Eritrea,ERI,2000,Sydney,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,True,True
+Nebiat Measho,F,Eritrea,ERI,2004,Athina,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,True,False
+Nebiat Measho,F,Eritrea,ERI,2008,Beijing,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Nebiat Measho,F,Eritrea,ERI,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Rehaset Mehari,F,Eritrea,ERI,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Simret Ghebermichael,F,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Women's 5,000 metres",No medal,Athletics,ATH,False,True
+Rahel Daniel,F,Eritrea,ERI,2020,Tokyo,Athletics,Women's 5000m,No medal,Women's,ATH,True,True
+Tesfagaber Solomon,F,Eritrea,ERI,2020,Tokyo,Athletics,Women's Marathon,No medal,Women's,ATH,False,True
+Dolshi Tesfu,F,Eritrea,ERI,2020,Tokyo,Athletics,"Women's 10,000m",No medal,Women's,ATH,True,True
+Nazret Weldu,F,Eritrea,ERI,2020,Tokyo,Athletics,Women's Marathon,No medal,Women's,ATH,False,True
+Rahel Daniel,F,Eritrea,ERI,2024,Paris,Athletics,"Women's 10,000m",No medal,Women's,ATH,True,False
+Dolshi Tesfu,F,Eritrea,ERI,2024,Paris,Athletics,Women's Marathon,No medal,Women's,ATH,True,False

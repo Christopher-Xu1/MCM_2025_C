@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Petrus Bergman,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-Dick Bergstrm,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-Kurt Bergstrm,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-Hugo Clason,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-Folke Johnson,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-Gustaf Kander,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-Nils Lamby,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-Erik Lindqvist,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-Nils Persson,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-Rikard Sllstrm,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Petrus Bergman,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+Dick Bergstrm,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+Kurt Bergstrm,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+Hugo Clason,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+Folke Johnson,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+Gustaf Kander,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+Nils Lamby,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+Erik Lindqvist,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+Nils Persson,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+Rikard Sllstrm,M,Erna Signe,SWE,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True

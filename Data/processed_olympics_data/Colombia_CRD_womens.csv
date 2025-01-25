@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andrea Patino,F,Colombia,COL,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
-Paula Patino,F,Colombia,COL,2024,Paris,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andrea Patino,F,Colombia,COL,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True
+Paula Patino,F,Colombia,COL,2024,Paris,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True

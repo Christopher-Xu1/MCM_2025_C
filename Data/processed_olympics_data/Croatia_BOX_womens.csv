@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nikolina Cacic,F,Croatia,CRO,2020,Tokyo,Boxing,Women's Feather (54-57kg),No medal,Women's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nikolina Cacic,F,Croatia,CRO,2020,Tokyo,Boxing,Women's Feather (54-57kg),No medal,Women's,BOX,False,True

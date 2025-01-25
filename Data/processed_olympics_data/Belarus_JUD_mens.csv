@@ -1,24 +1,24 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Natik Bagirov,M,Belarus,BLR,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Natik Bagirov,M,Belarus,BLR,2000,Sydney,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Yevgeny Bedulin,M,Belarus,BLR,2012,London,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Andrey Kazusenok,M,Belarus,BLR,2008,Beijing,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Sergey Kukharenko,M,Belarus,BLR,2000,Sydney,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Sergey Kukharenko,M,Belarus,BLR,2004,Athina,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Anatoly Laryukov,M,Belarus,BLR,2000,Sydney,Judo,Judo Men's Lightweight,Bronze,Judo,JUD,True
-Anatoly Laryukov,M,Belarus,BLR,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Igor Makarov,M,Belarus,BLR,2004,Athina,Judo,Judo Men's Half-Heavyweight,Gold,Judo,JUD,True
-Igor Makarov,M,Belarus,BLR,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Sergey Novikov,M,Belarus,BLR,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Yury Rybak,M,Belarus,BLR,2004,Athina,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Yury Rybak,M,Belarus,BLR,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Konstantin Semyonov,M,Belarus,BLR,2008,Beijing,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Ruslan Sharapov,M,Belarus,BLR,1996,Atlanta,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Ruslan Sharapov,M,Belarus,BLR,2000,Sydney,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Dmitry Shershan,M,Belarus,BLR,2016,Rio de Janeiro,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Sergey Shundikov,M,Belarus,BLR,2004,Athina,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Sergey Shundikov,M,Belarus,BLR,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Leonid Svirid,M,Belarus,BLR,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Leonid Svirid,M,Belarus,BLR,2000,Sydney,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Dzmitry Minkou,M,Belarus,BLR,2020,Tokyo,Judo,Men -66 kg,No medal,Men,JUD,False
-Mikita Sviryd,M,Belarus,BLR,2020,Tokyo,Judo,Men -100 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Natik Bagirov,M,Belarus,BLR,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Natik Bagirov,M,Belarus,BLR,2000,Sydney,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False
+Yevgeny Bedulin,M,Belarus,BLR,2012,London,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Andrey Kazusenok,M,Belarus,BLR,2008,Beijing,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Sergey Kukharenko,M,Belarus,BLR,2000,Sydney,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Sergey Kukharenko,M,Belarus,BLR,2004,Athina,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,False
+Anatoly Laryukov,M,Belarus,BLR,2000,Sydney,Judo,Judo Men's Lightweight,Bronze,Judo,JUD,True,True
+Anatoly Laryukov,M,Belarus,BLR,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Igor Makarov,M,Belarus,BLR,2004,Athina,Judo,Judo Men's Half-Heavyweight,Gold,Judo,JUD,True,True
+Igor Makarov,M,Belarus,BLR,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Sergey Novikov,M,Belarus,BLR,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Yury Rybak,M,Belarus,BLR,2004,Athina,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,True
+Yury Rybak,M,Belarus,BLR,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Konstantin Semyonov,M,Belarus,BLR,2008,Beijing,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Ruslan Sharapov,M,Belarus,BLR,1996,Atlanta,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,True
+Ruslan Sharapov,M,Belarus,BLR,2000,Sydney,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Dmitry Shershan,M,Belarus,BLR,2016,Rio de Janeiro,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Sergey Shundikov,M,Belarus,BLR,2004,Athina,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Sergey Shundikov,M,Belarus,BLR,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Leonid Svirid,M,Belarus,BLR,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,True
+Leonid Svirid,M,Belarus,BLR,2000,Sydney,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,False
+Dzmitry Minkou,M,Belarus,BLR,2020,Tokyo,Judo,Men -66 kg,No medal,Men,JUD,False,True
+Mikita Sviryd,M,Belarus,BLR,2020,Tokyo,Judo,Men -100 kg,No medal,Men,JUD,False,True

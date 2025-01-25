@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Enrique Allyn,M,Peru,PER,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Bernardo Arias,M,Peru,PER,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Manuel Acevedo,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Manuel Acevedo,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Gregorio Urcia,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Gregorio Urcia,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Gilberto Chocce,M,Peru,PER,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Gilberto Chocce,M,Peru,PER,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Fernando Cuenca,M,Peru,PER,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Fernando Cuenca,M,Peru,PER,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Carlos Espinoza,M,Peru,PER,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Carlos Espinoza,M,Peru,PER,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Anthony Grimm,M,Peru,PER,1992,Barcelona,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,False
-Hernn Valderrama,M,Peru,PER,1948,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Hernn Valderrama,M,Peru,PER,1948,London,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Pedro Hoke,M,Peru,PER,1948,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Pedro Hoke,M,Peru,PER,1948,London,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Jos Chvez,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jos Chvez,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Jos Chvez,M,Peru,PER,1936,Berlin,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Csar Murguira,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Csar Murguira,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Luis Cebrero,M,Peru,PER,1948,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Luis Cebrero,M,Peru,PER,1948,London,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
-Tefilo Nishimura,M,Peru,PER,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Ramn Zavaleta,M,Peru,PER,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Enrique Allyn,M,Peru,PER,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Bernardo Arias,M,Peru,PER,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Manuel Acevedo,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Manuel Acevedo,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Gregorio Urcia,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Gregorio Urcia,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Gilberto Chocce,M,Peru,PER,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Gilberto Chocce,M,Peru,PER,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Fernando Cuenca,M,Peru,PER,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Fernando Cuenca,M,Peru,PER,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Carlos Espinoza,M,Peru,PER,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Carlos Espinoza,M,Peru,PER,1972,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Anthony Grimm,M,Peru,PER,1992,Barcelona,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True
+Hernn Valderrama,M,Peru,PER,1948,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Hernn Valderrama,M,Peru,PER,1948,London,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Pedro Hoke,M,Peru,PER,1948,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Pedro Hoke,M,Peru,PER,1948,London,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Jos Chvez,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Jos Chvez,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Jos Chvez,M,Peru,PER,1936,Berlin,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Csar Murguira,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Csar Murguira,M,Peru,PER,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Luis Cebrero,M,Peru,PER,1948,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Luis Cebrero,M,Peru,PER,1948,London,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True,True
+Tefilo Nishimura,M,Peru,PER,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Ramn Zavaleta,M,Peru,PER,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True

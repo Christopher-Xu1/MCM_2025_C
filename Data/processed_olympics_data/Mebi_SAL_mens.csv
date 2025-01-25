@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cencio Massola,M,Mebi,ITA,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Roberto Moscatelli,M,Mebi,ITA,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Carlo Nasi,M,Mebi,ITA,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cencio Massola,M,Mebi,ITA,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Roberto Moscatelli,M,Mebi,ITA,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Carlo Nasi,M,Mebi,ITA,1924,Paris,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

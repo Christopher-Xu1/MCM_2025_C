@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jitendarjit Ahluwalia,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Jitendarjit Ahluwalia,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Imtiaz Anees,M,India,IND,2000,Sydney,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False
-Hussain Khan,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Hussain Khan,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Muhammad Khan,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Muhammad Khan,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Indrajit Lamba,M,India,IND,1996,Atlanta,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False
-Darya Singh,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Darya Singh,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Fouaad Mirza,M,India,IND,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jitendarjit Ahluwalia,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Jitendarjit Ahluwalia,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Imtiaz Anees,M,India,IND,2000,Sydney,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False,True
+Hussain Khan,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Hussain Khan,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Muhammad Khan,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Muhammad Khan,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Indrajit Lamba,M,India,IND,1996,Atlanta,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False,True
+Darya Singh,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Darya Singh,M,India,IND,1980,Moskva,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Fouaad Mirza,M,India,IND,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tereza Svabikova,F,Czechia,CZE,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tereza Svabikova,F,Czechia,CZE,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False,True

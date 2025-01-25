@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Adam Ondra,M,Czech Republic,CZE,2020,Tokyo,Sport Climbing,Men's Combined,No medal,Men's,CLB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Adam Ondra,M,Czech Republic,CZE,2020,Tokyo,Sport Climbing,Men's Combined,No medal,Men's,CLB,False,True

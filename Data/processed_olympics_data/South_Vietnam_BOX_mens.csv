@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tin Vnh,M,South Vietnam,VNM,1952,Helsinki,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tin Vnh,M,South Vietnam,VNM,1952,Helsinki,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True

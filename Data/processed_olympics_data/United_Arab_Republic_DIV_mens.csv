@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Moustafa Hassan,M,United Arab Republic,UAR,1960,Roma,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Ahmed Moharran,M,United Arab Republic,UAR,1960,Roma,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Ahmed Moharran,M,United Arab Republic,UAR,1960,Roma,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Ali Muheeb,M,United Arab Republic,UAR,1960,Roma,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Moustafa Hassan,M,United Arab Republic,UAR,1960,Roma,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Ahmed Moharran,M,United Arab Republic,UAR,1960,Roma,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Ahmed Moharran,M,United Arab Republic,UAR,1960,Roma,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Ali Muheeb,M,United Arab Republic,UAR,1960,Roma,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True

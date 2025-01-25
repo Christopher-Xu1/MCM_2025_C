@@ -1,41 +1,41 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chen Li,F,China,CHN,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Chen Li,F,China,CHN,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Chen Li,F,China,CHN,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Li Fang,F,China,CHN,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Li Fang,F,China,CHN,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Li Na,F,China,CHN,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Li Na,F,China,CHN,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Li Na,F,China,CHN,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Li Na,F,China,CHN,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Li Ting,F,China,CHN,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Peng Shuai,F,China,CHN,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Peng Shuai,F,China,CHN,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Peng Shuai,F,China,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Tang Min,F,China,CHN,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Wang Qiang,F,China,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Yan Zi,F,China,CHN,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Yi Jingqian,F,China,CHN,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Yi Jingqian,F,China,CHN,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Yi Jingqian,F,China,CHN,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Zhang Shuai,F,China,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Zheng Jie,F,China,CHN,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Zheng Jie,F,China,CHN,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Zheng Jie,F,China,CHN,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Zheng Saisai,F,China,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Ying-ying Duan,F,China,CHN,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False
-Qiang Wang,F,China,CHN,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False
-Yifan Xu,F,China,CHN,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False
-Zhaoxuan Yang,F,China,CHN,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False
-Saisai Zheng,F,China,CHN,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
-Saisai Zheng,F,China,CHN,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
-Qinwen Zheng,F,China,CHN,2024,Paris,Tennis,Women's Singles,Gold,Women's,TEN,True
-Qinwen Zheng,F,China,CHN,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True
-Xiyu Wang,F,China,CHN,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,False
-Yue Yuan,F,China,CHN,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Yue Yuan,F,China,CHN,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
-Shuai Zhang,F,China,CHN,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,False
-Xinyu Wang,F,China,CHN,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Xinyu Wang,F,China,CHN,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
-Xinyu Wang,F,China,CHN,2024,Paris,Tennis,Mixed Doubles,Silver,Mixed,TEN,True
-Saisai Zheng,F,China,CHN,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chen Li,F,China,CHN,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Chen Li,F,China,CHN,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Chen Li,F,China,CHN,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Li Fang,F,China,CHN,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Li Fang,F,China,CHN,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Li Na,F,China,CHN,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Li Na,F,China,CHN,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Li Na,F,China,CHN,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Li Na,F,China,CHN,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Li Ting,F,China,CHN,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Peng Shuai,F,China,CHN,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Peng Shuai,F,China,CHN,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Peng Shuai,F,China,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Tang Min,F,China,CHN,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Wang Qiang,F,China,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Yan Zi,F,China,CHN,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Yi Jingqian,F,China,CHN,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Yi Jingqian,F,China,CHN,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Yi Jingqian,F,China,CHN,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Zhang Shuai,F,China,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Zheng Jie,F,China,CHN,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Zheng Jie,F,China,CHN,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Zheng Jie,F,China,CHN,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Zheng Saisai,F,China,CHN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Ying-ying Duan,F,China,CHN,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False,True
+Qiang Wang,F,China,CHN,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False,True
+Yifan Xu,F,China,CHN,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False,True
+Zhaoxuan Yang,F,China,CHN,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False,True
+Saisai Zheng,F,China,CHN,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Saisai Zheng,F,China,CHN,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,True
+Qinwen Zheng,F,China,CHN,2024,Paris,Tennis,Women's Singles,Gold,Women's,TEN,True,True
+Qinwen Zheng,F,China,CHN,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True,True
+Xiyu Wang,F,China,CHN,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,False,True
+Yue Yuan,F,China,CHN,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,True
+Yue Yuan,F,China,CHN,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Shuai Zhang,F,China,CHN,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,False,True
+Xinyu Wang,F,China,CHN,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,True
+Xinyu Wang,F,China,CHN,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Xinyu Wang,F,China,CHN,2024,Paris,Tennis,Mixed Doubles,Silver,Mixed,TEN,True,True
+Saisai Zheng,F,China,CHN,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,False

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Debra O'connor,F,Trinidad And Tobago,TTO,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Debra O'connor,F,Trinidad And Tobago,TTO,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True

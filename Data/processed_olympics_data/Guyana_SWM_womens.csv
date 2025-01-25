@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jamila Sanmoogan,F,Guyana,GUY,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Britany Lange,F,Guyana,GUY,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Aleka Persaud,F,Guyana,GUY,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
-Kylela Persaud,F,Guyana,GUY,2024,Paris,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jamila Sanmoogan,F,Guyana,GUY,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Britany Lange,F,Guyana,GUY,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Aleka Persaud,F,Guyana,GUY,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True
+Kylela Persaud,F,Guyana,GUY,2024,Paris,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,False,True

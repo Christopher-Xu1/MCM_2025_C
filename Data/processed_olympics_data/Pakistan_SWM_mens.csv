@@ -1,24 +1,24 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mumtaz Ahmed,M,Pakistan,PAK,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Adil Baig,M,Pakistan,PAK,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Haris Bandey,M,Pakistan,PAK,2016,Rio de Janeiro,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,False
-Muhammad Bashir,M,Pakistan,PAK,1952,Helsinki,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Anwar Chaudhry,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Anwar Chaudhry,M,Pakistan,PAK,1948,London,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Anwar Chaudhry,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True
-Shah Ghazi,M,Pakistan,PAK,1956,Melbourne,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False
-Israr Hussain,M,Pakistan,PAK,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Sultan Ali,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Sultan Ali,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True
-Kamal Masud,M,Pakistan,PAK,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Kamal Masud,M,Pakistan,PAK,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Ahmed Nazir,M,Pakistan,PAK,1956,Melbourne,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Muhammad Ramzan,M,Pakistan,PAK,1952,Helsinki,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Muhammad Ramzan,M,Pakistan,PAK,1952,Helsinki,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Ghulam Rasul,M,Pakistan,PAK,1956,Melbourne,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Iftikhar Shah,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True
-Iftikhar Shah,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Jaffar Shah,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True
-Jaffar Shah,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Haseeb Tariq,M,Pakistan,PAK,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
-Ahmed Durrani,M,Pakistan,PAK,2024,Paris,Swimming,Men's 200m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mumtaz Ahmed,M,Pakistan,PAK,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Adil Baig,M,Pakistan,PAK,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Haris Bandey,M,Pakistan,PAK,2016,Rio de Janeiro,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,False,True
+Muhammad Bashir,M,Pakistan,PAK,1952,Helsinki,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Anwar Chaudhry,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Anwar Chaudhry,M,Pakistan,PAK,1948,London,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Anwar Chaudhry,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Shah Ghazi,M,Pakistan,PAK,1956,Melbourne,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False,True
+Israr Hussain,M,Pakistan,PAK,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Sultan Ali,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Sultan Ali,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Kamal Masud,M,Pakistan,PAK,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Kamal Masud,M,Pakistan,PAK,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Ahmed Nazir,M,Pakistan,PAK,1956,Melbourne,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Muhammad Ramzan,M,Pakistan,PAK,1952,Helsinki,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Muhammad Ramzan,M,Pakistan,PAK,1952,Helsinki,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Ghulam Rasul,M,Pakistan,PAK,1956,Melbourne,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Iftikhar Shah,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Iftikhar Shah,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Jaffar Shah,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Jaffar Shah,M,Pakistan,PAK,1948,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Haseeb Tariq,M,Pakistan,PAK,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True
+Ahmed Durrani,M,Pakistan,PAK,2024,Paris,Swimming,Men's 200m Freestyle,No medal,Men's,SWM,False,True

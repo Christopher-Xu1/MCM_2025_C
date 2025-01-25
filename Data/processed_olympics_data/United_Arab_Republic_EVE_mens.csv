@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elwi Gazi,M,United Arab Republic,UAR,1960,Roma,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Elwi Gazi,M,United Arab Republic,UAR,1960,Roma,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Gamal Al-haress,M,United Arab Republic,UAR,1960,Roma,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Gamal Al-haress,M,United Arab Republic,UAR,1960,Roma,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Mohamed Zaki,M,United Arab Republic,UAR,1960,Roma,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Mohamed Zaki,M,United Arab Republic,UAR,1960,Roma,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elwi Gazi,M,United Arab Republic,UAR,1960,Roma,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Elwi Gazi,M,United Arab Republic,UAR,1960,Roma,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Gamal Al-haress,M,United Arab Republic,UAR,1960,Roma,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Gamal Al-haress,M,United Arab Republic,UAR,1960,Roma,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Mohamed Zaki,M,United Arab Republic,UAR,1960,Roma,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Mohamed Zaki,M,United Arab Republic,UAR,1960,Roma,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True

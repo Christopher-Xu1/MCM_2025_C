@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Shamoli Ray,F,Bangladesh,BAN,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Diya Siddique,F,Bangladesh,BAN,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Diya Siddique,F,Bangladesh,BAN,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Shamoli Ray,F,Bangladesh,BAN,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Diya Siddique,F,Bangladesh,BAN,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Diya Siddique,F,Bangladesh,BAN,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True

@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chitra Gurung,M,Nepal,NEP,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Sirish Gurung,M,Nepal,NEP,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Prasiddha Shah,M,Nepal,NEP,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Prasiddha Shah,M,Nepal,NEP,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Sitaram Shahi,M,Nepal,NEP,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Alice Shrestha,M,Nepal,NEP,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Alexander Shah,M,Nepal,NEP,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
-Alexander Shah,M,Nepal,NEP,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chitra Gurung,M,Nepal,NEP,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Sirish Gurung,M,Nepal,NEP,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Prasiddha Shah,M,Nepal,NEP,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Prasiddha Shah,M,Nepal,NEP,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Sitaram Shahi,M,Nepal,NEP,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Alice Shrestha,M,Nepal,NEP,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Alexander Shah,M,Nepal,NEP,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,True
+Alexander Shah,M,Nepal,NEP,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,False

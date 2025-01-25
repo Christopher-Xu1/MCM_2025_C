@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Otakar Paniel,M,Bohemia,BOH,1912,Stockholm,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Otakar Paniel,M,Bohemia,BOH,1912,Stockholm,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,False,True

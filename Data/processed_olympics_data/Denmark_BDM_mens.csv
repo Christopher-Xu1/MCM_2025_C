@@ -1,38 +1,38 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Viktor Axelsen,M,Denmark,DEN,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,Bronze,Badminton,BDM,True
-Mathias Boe,M,Denmark,DEN,2012,London,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,True
-Mathias Boe,M,Denmark,DEN,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Martin Hansen,M,Denmark,DEN,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Peter Christensen,M,Denmark,DEN,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Peter Christensen,M,Denmark,DEN,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Peter Christensen,M,Denmark,DEN,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Peter Christensen,M,Denmark,DEN,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Poul-Erik Hyer),M,Denmark,DEN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Poul-Erik Hyer),M,Denmark,DEN,1996,Atlanta,Badminton,Badminton Men's Singles,Gold,Badminton,BDM,True
-Poul-Erik Hyer),M,Denmark,DEN,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Kenneth Jonassen,M,Denmark,DEN,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Kenneth Jonassen,M,Denmark,DEN,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Kenneth Jonassen,M,Denmark,DEN,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Jan Jrgensen,M,Denmark,DEN,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Jan Jrgensen,M,Denmark,DEN,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Thomas Laybourn,M,Denmark,DEN,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Carsten Mogensen,M,Denmark,DEN,2012,London,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,True
-Carsten Mogensen,M,Denmark,DEN,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Joachim Nielsen,M,Denmark,DEN,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Lars Paaske,M,Denmark,DEN,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Michael Sgaard,M,Denmark,DEN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Michael Sgaard,M,Denmark,DEN,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Michael Sgaard,M,Denmark,DEN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Thomas Stuer-lauridsen,M,Denmark,DEN,1992,Barcelona,Badminton,Badminton Men's Singles,Bronze,Badminton,BDM,True
-Thomas Stuer-lauridsen,M,Denmark,DEN,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Henrik Svarrer,M,Denmark,DEN,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Anders Antonsen,M,Denmark,DEN,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True
-Kim Astrup,M,Denmark,DEN,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True
-Viktor Axelsen,M,Denmark,DEN,2020,Tokyo,Badminton,Men's Singles,Gold,Men's,BDM,True
-Mathias Christiansen,M,Denmark,DEN,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,True
-Skaarup Rasmussen,M,Denmark,DEN,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,False
-Viktor Axelsen,M,Denmark,DEN,2024,Paris,Badminton,Men's Singles,Gold,Men's,BDM,True
-Anders Antonsen,M,Denmark,DEN,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True
-Kim Astrup,M,Denmark,DEN,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,True
-Skaaru Rasmussen,M,Denmark,DEN,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False
-Mathias Christiansen,M,Denmark,DEN,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Viktor Axelsen,M,Denmark,DEN,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,Bronze,Badminton,BDM,True,True
+Mathias Boe,M,Denmark,DEN,2012,London,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,True,True
+Mathias Boe,M,Denmark,DEN,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Martin Hansen,M,Denmark,DEN,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Peter Christensen,M,Denmark,DEN,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Peter Christensen,M,Denmark,DEN,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Peter Christensen,M,Denmark,DEN,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Peter Christensen,M,Denmark,DEN,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Poul-Erik Hyer),M,Denmark,DEN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Poul-Erik Hyer),M,Denmark,DEN,1996,Atlanta,Badminton,Badminton Men's Singles,Gold,Badminton,BDM,True,False
+Poul-Erik Hyer),M,Denmark,DEN,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Kenneth Jonassen,M,Denmark,DEN,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Kenneth Jonassen,M,Denmark,DEN,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Kenneth Jonassen,M,Denmark,DEN,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Jan Jrgensen,M,Denmark,DEN,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Jan Jrgensen,M,Denmark,DEN,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Thomas Laybourn,M,Denmark,DEN,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Carsten Mogensen,M,Denmark,DEN,2012,London,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,True,True
+Carsten Mogensen,M,Denmark,DEN,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Joachim Nielsen,M,Denmark,DEN,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Lars Paaske,M,Denmark,DEN,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Michael Sgaard,M,Denmark,DEN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Michael Sgaard,M,Denmark,DEN,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Michael Sgaard,M,Denmark,DEN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Thomas Stuer-lauridsen,M,Denmark,DEN,1992,Barcelona,Badminton,Badminton Men's Singles,Bronze,Badminton,BDM,True,True
+Thomas Stuer-lauridsen,M,Denmark,DEN,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Henrik Svarrer,M,Denmark,DEN,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Anders Antonsen,M,Denmark,DEN,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True,True
+Kim Astrup,M,Denmark,DEN,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True,True
+Viktor Axelsen,M,Denmark,DEN,2020,Tokyo,Badminton,Men's Singles,Gold,Men's,BDM,True,False
+Mathias Christiansen,M,Denmark,DEN,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,True,True
+Skaarup Rasmussen,M,Denmark,DEN,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,False,True
+Viktor Axelsen,M,Denmark,DEN,2024,Paris,Badminton,Men's Singles,Gold,Men's,BDM,True,False
+Anders Antonsen,M,Denmark,DEN,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True,False
+Kim Astrup,M,Denmark,DEN,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,True,False
+Skaaru Rasmussen,M,Denmark,DEN,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False,True
+Mathias Christiansen,M,Denmark,DEN,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,True,False

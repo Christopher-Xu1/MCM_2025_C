@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Barrington-ward,M,Sabre,GBR,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Edward Dyson,M,Sabre,GBR,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Thomas Somers,M,Sabre,GBR,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Barrington-ward,M,Sabre,GBR,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Edward Dyson,M,Sabre,GBR,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Thomas Somers,M,Sabre,GBR,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

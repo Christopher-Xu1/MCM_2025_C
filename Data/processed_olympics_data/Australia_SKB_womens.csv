@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Poppy Olsen,F,Australia,AUS,2020,Tokyo,Skateboarding,Women's Park,No medal,Women's,SKB,False
-Hayley Wilson,F,Australia,AUS,2020,Tokyo,Skateboarding,Women's Street,No medal,Women's,SKB,False
-Arisa Trew,F,Australia,AUS,2024,Paris,Skateboarding,Women's Park,Gold,Women's,SKB,False
-Chloe Covell,F,Australia,AUS,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,False
-Haylie Powell,F,Australia,AUS,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,False
-Liv Lovelace,F,Australia,AUS,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,False
-Ruby Trew,F,Australia,AUS,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Poppy Olsen,F,Australia,AUS,2020,Tokyo,Skateboarding,Women's Park,No medal,Women's,SKB,False,True
+Hayley Wilson,F,Australia,AUS,2020,Tokyo,Skateboarding,Women's Street,No medal,Women's,SKB,False,True
+Arisa Trew,F,Australia,AUS,2024,Paris,Skateboarding,Women's Park,Gold,Women's,SKB,False,True
+Chloe Covell,F,Australia,AUS,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,False,True
+Haylie Powell,F,Australia,AUS,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,False,True
+Liv Lovelace,F,Australia,AUS,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,False,True
+Ruby Trew,F,Australia,AUS,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,False,True

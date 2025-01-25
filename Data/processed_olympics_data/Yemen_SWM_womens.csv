@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nooran Matraf,F,Yemen,YEM,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False
-Nooran Ba,F,Yemen,YEM,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nooran Matraf,F,Yemen,YEM,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Nooran Ba,F,Yemen,YEM,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False,True

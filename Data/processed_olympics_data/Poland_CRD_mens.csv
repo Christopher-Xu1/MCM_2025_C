@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maciej Bodnar,M,Poland,POL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Maciej Bodnar,M,Poland,POL,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Michal Kwiatkowski,M,Poland,POL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Rafal Majka,M,Poland,POL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Stanislaw Aniolkowski,M,Poland,POL,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Michal Kwiatkowski,M,Poland,POL,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maciej Bodnar,M,Poland,POL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Maciej Bodnar,M,Poland,POL,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Michal Kwiatkowski,M,Poland,POL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Rafal Majka,M,Poland,POL,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Stanislaw Aniolkowski,M,Poland,POL,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Michal Kwiatkowski,M,Poland,POL,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,False

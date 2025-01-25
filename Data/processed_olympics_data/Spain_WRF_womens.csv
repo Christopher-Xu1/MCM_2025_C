@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mara Mayo,F,Spain,ESP,2008,Beijing,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Maider Audicana,F,Spain,ESP,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Maider Audicana,F,Spain,ESP,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",Bronze,Wrestling,WRF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mara Mayo,F,Spain,ESP,2008,Beijing,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Maider Audicana,F,Spain,ESP,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Maider Audicana,F,Spain,ESP,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",Bronze,Wrestling,WRF,True,False

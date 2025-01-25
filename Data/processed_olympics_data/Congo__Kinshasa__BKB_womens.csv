@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kongolo Amba,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Lileko Bonzali,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Kasala Kamanga,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Zaina Kapepula,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Natalie Lobela,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Mwadi Mabika,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Kaninga Mbambi,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Mukendi Mbuyi,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Nsuda Benga,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Lukengu Ngalula,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Kakengwa Pikinini,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Muenetanda Tshijuka,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kongolo Amba,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Lileko Bonzali,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Kasala Kamanga,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Zaina Kapepula,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Natalie Lobela,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Mwadi Mabika,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Kaninga Mbambi,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Mukendi Mbuyi,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Nsuda Benga,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Lukengu Ngalula,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Kakengwa Pikinini,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Muenetanda Tshijuka,F,Congo (Kinshasa),COD,1996,Atlanta,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True

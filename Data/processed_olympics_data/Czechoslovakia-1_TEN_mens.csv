@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ernst Gottlieb,M,Czechoslovakia-1,TCH,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Friedrich Rohrer,M,Czechoslovakia-1,TCH,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Frantiek T,M,Czechoslovakia-1,TCH,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Otto Woffek,M,Czechoslovakia-1,TCH,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ernst Gottlieb,M,Czechoslovakia-1,TCH,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Friedrich Rohrer,M,Czechoslovakia-1,TCH,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Frantiek T,M,Czechoslovakia-1,TCH,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Otto Woffek,M,Czechoslovakia-1,TCH,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

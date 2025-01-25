@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Francisca Jaras,F,Chile,CHI,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False
-Begoa Jaras,F,Chile,CHI,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False
-Nadja Appen,F,Chile,CHI,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Marissa Gausset,F,Chile,CHI,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Sofa Zaartu,F,Chile,CHI,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Jose Poncell,F,Chile,CHI,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Francisca Jaras,F,Chile,CHI,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False,True
+Begoa Jaras,F,Chile,CHI,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False,True
+Nadja Appen,F,Chile,CHI,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Marissa Gausset,F,Chile,CHI,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Sofa Zaartu,F,Chile,CHI,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Jose Poncell,F,Chile,CHI,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False,True

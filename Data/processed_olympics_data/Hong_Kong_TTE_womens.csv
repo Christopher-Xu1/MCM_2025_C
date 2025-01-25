@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chai Wa,F,Hong Kong,HKG,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Chai Wa,F,Hong Kong,HKG,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Chai Wa,F,Hong Kong,HKG,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Chai Wa,F,Hong Kong,HKG,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Chan Yuen,F,Hong Kong,HKG,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Chan Lui,F,Hong Kong,HKG,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Chan Lui,F,Hong Kong,HKG,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Chan Lui,F,Hong Kong,HKG,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Chan Lui,F,Hong Kong,HKG,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Hoi Doo,F,Hong Kong,HKG,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Hoi Doo,F,Hong Kong,HKG,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Hui Hung,F,Hong Kong,HKG,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Hui Hung,F,Hong Kong,HKG,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Jiang Huajun,F,Hong Kong,HKG,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jiang Huajun,F,Hong Kong,HKG,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Lau Fei,F,Hong Kong,HKG,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Lau Fei,F,Hong Kong,HKG,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Lau Fei,F,Hong Kong,HKG,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Lee Ching,F,Hong Kong,HKG,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Lee Ching,F,Hong Kong,HKG,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Lee Ching,F,Hong Kong,HKG,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Lin Ling,F,Hong Kong,HKG,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Lin Ling,F,Hong Kong,HKG,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Lin Ling,F,Hong Kong,HKG,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Mok Sha,F,Hong Kong,HKG,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Mok Sha,F,Hong Kong,HKG,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Song Sim,F,Hong Kong,HKG,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Song Sim,F,Hong Kong,HKG,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Tie Na,F,Hong Kong,HKG,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Tie Na,F,Hong Kong,HKG,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Tie Na,F,Hong Kong,HKG,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Tie Na,F,Hong Kong,HKG,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Tie Na,F,Hong Kong,HKG,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Tie Na,F,Hong Kong,HKG,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Wong Ching,F,Hong Kong,HKG,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Wong Ching,F,Hong Kong,HKG,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chai Wa,F,Hong Kong,HKG,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Chai Wa,F,Hong Kong,HKG,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Chai Wa,F,Hong Kong,HKG,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Chai Wa,F,Hong Kong,HKG,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Chan Yuen,F,Hong Kong,HKG,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Chan Lui,F,Hong Kong,HKG,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Chan Lui,F,Hong Kong,HKG,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Chan Lui,F,Hong Kong,HKG,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Chan Lui,F,Hong Kong,HKG,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Hoi Doo,F,Hong Kong,HKG,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Hoi Doo,F,Hong Kong,HKG,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Hui Hung,F,Hong Kong,HKG,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Hui Hung,F,Hong Kong,HKG,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Jiang Huajun,F,Hong Kong,HKG,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Jiang Huajun,F,Hong Kong,HKG,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Lau Fei,F,Hong Kong,HKG,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Lau Fei,F,Hong Kong,HKG,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Lau Fei,F,Hong Kong,HKG,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Lee Ching,F,Hong Kong,HKG,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Lee Ching,F,Hong Kong,HKG,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Lee Ching,F,Hong Kong,HKG,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Lin Ling,F,Hong Kong,HKG,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Lin Ling,F,Hong Kong,HKG,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Lin Ling,F,Hong Kong,HKG,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Mok Sha,F,Hong Kong,HKG,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Mok Sha,F,Hong Kong,HKG,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Song Sim,F,Hong Kong,HKG,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Song Sim,F,Hong Kong,HKG,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Tie Na,F,Hong Kong,HKG,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Tie Na,F,Hong Kong,HKG,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Tie Na,F,Hong Kong,HKG,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Tie Na,F,Hong Kong,HKG,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Tie Na,F,Hong Kong,HKG,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Tie Na,F,Hong Kong,HKG,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Wong Ching,F,Hong Kong,HKG,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Wong Ching,F,Hong Kong,HKG,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True

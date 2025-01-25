@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sri Bajaj,M,India,IND,1956,Melbourne,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Bijoy Barman,M,India,IND,1952,Helsinki,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Bimal Chandra,M,India,IND,1948,London,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Bimal Chandra,M,India,IND,1948,London,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Hakimuddin Habibulla,M,India,IND,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
-Virdhawal Khade,M,India,IND,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Virdhawal Khade,M,India,IND,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Virdhawal Khade,M,India,IND,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Shamsher Khan,M,India,IND,1956,Melbourne,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Shamsher Khan,M,India,IND,1956,Melbourne,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Nalin Malik,M,India,IND,1932,Los Angeles,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Nalin Malik,M,India,IND,1932,Los Angeles,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Dilip Mitra,M,India,IND,1948,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Prahtip Mitra,M,India,IND,1948,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Isaac Monsoor,M,India,IND,1948,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Isaac Monsoor,M,India,IND,1952,Helsinki,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Prafulla Mullick,M,India,IND,1948,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Sachindra Nag,M,India,IND,1948,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Rehan Poncha,M,India,IND,2008,Beijing,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False
-Ankur Poseria,M,India,IND,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Sajan Prakash,M,India,IND,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Sandeep Sejwal,M,India,IND,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Sandeep Sejwal,M,India,IND,2008,Beijing,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Khamlillal Shah,M,India,IND,1948,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Khamlillal Shah,M,India,IND,1952,Helsinki,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Khazan Tokas,M,India,IND,1988,Seoul,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False
-Adaveeshaiah Ullalmath,M,India,IND,2012,London,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,False
-Sebastian Xavier,M,India,IND,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Srihari Nataraj,M,India,IND,2020,Tokyo,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,True
-Sajan Prakash,M,India,IND,2020,Tokyo,Swimming,Men's 200m Freestyle,No medal,Men's,SWM,True
-Sajan Prakash,M,India,IND,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,True
-Sajan Prakash,M,India,IND,2020,Tokyo,Swimming,Men's 200m Butterfly,No medal,Men's,SWM,True
-Srihari Nataraj,M,India,IND,2024,Paris,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sri Bajaj,M,India,IND,1956,Melbourne,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Bijoy Barman,M,India,IND,1952,Helsinki,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Bimal Chandra,M,India,IND,1948,London,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Bimal Chandra,M,India,IND,1948,London,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Hakimuddin Habibulla,M,India,IND,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Virdhawal Khade,M,India,IND,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Virdhawal Khade,M,India,IND,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Virdhawal Khade,M,India,IND,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Shamsher Khan,M,India,IND,1956,Melbourne,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Shamsher Khan,M,India,IND,1956,Melbourne,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Nalin Malik,M,India,IND,1932,Los Angeles,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Nalin Malik,M,India,IND,1932,Los Angeles,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Dilip Mitra,M,India,IND,1948,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Prahtip Mitra,M,India,IND,1948,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Isaac Monsoor,M,India,IND,1948,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Isaac Monsoor,M,India,IND,1952,Helsinki,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Prafulla Mullick,M,India,IND,1948,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Sachindra Nag,M,India,IND,1948,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Rehan Poncha,M,India,IND,2008,Beijing,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False,True
+Ankur Poseria,M,India,IND,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Sajan Prakash,M,India,IND,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Sandeep Sejwal,M,India,IND,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Sandeep Sejwal,M,India,IND,2008,Beijing,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Khamlillal Shah,M,India,IND,1948,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Khamlillal Shah,M,India,IND,1952,Helsinki,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Khazan Tokas,M,India,IND,1988,Seoul,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False,True
+Adaveeshaiah Ullalmath,M,India,IND,2012,London,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,False,True
+Sebastian Xavier,M,India,IND,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Srihari Nataraj,M,India,IND,2020,Tokyo,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,True,True
+Sajan Prakash,M,India,IND,2020,Tokyo,Swimming,Men's 200m Freestyle,No medal,Men's,SWM,True,False
+Sajan Prakash,M,India,IND,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,True,False
+Sajan Prakash,M,India,IND,2020,Tokyo,Swimming,Men's 200m Butterfly,No medal,Men's,SWM,True,False
+Srihari Nataraj,M,India,IND,2024,Paris,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,True,False

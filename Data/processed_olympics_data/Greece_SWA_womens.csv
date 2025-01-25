@@ -1,33 +1,33 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Savina Anastasiou,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Eleftheria Ftouli,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Eleftheria Ftouli,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Eleni Georgiou,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Effrosyni Gouda,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Apostolia Ioannou,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Maria Khristodoulou,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Evgenia Koutsoudi,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Evanthia Makrygianni,F,Greece,GRE,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Evangelia Papazoglou,F,Greece,GRE,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Olga Pelekanou,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Evangelia Platanioti,F,Greece,GRE,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Evangelia Platanioti,F,Greece,GRE,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Despoina Solomou,F,Greece,GRE,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Despoina Solomou,F,Greece,GRE,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Khristina Thalassinidou,F,Greece,GRE,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Khristina Thalassinidou,F,Greece,GRE,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Khristina Thalassinidou,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Khristina Thalassinidou,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Despoina Theodoridou,F,Greece,GRE,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Lela Alzigkouzi,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False
-Eleni Fragkaki,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False
-Krystalenia Gialama,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False
-Pinelopi Karamesiou,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False
-Andriana Misikevych,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False
-Evangelia Papazoglou,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True
-Evangelia Papazoglou,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True
-Evangelia Platanioti,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True
-Evangelia Platanioti,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True
-Georgia Vasilopoulou,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False
-Evangelia Malkogeorgou,F,Greece,GRE,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,False
-Evangelia Platanioti,F,Greece,GRE,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Savina Anastasiou,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Eleftheria Ftouli,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Eleftheria Ftouli,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,True
+Eleni Georgiou,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Effrosyni Gouda,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Apostolia Ioannou,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Maria Khristodoulou,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Evgenia Koutsoudi,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Evanthia Makrygianni,F,Greece,GRE,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Evangelia Papazoglou,F,Greece,GRE,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Olga Pelekanou,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Evangelia Platanioti,F,Greece,GRE,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Evangelia Platanioti,F,Greece,GRE,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Despoina Solomou,F,Greece,GRE,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Despoina Solomou,F,Greece,GRE,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Khristina Thalassinidou,F,Greece,GRE,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Khristina Thalassinidou,F,Greece,GRE,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Khristina Thalassinidou,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Khristina Thalassinidou,F,Greece,GRE,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,False
+Despoina Theodoridou,F,Greece,GRE,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Lela Alzigkouzi,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False,True
+Eleni Fragkaki,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False,True
+Krystalenia Gialama,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False,True
+Pinelopi Karamesiou,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False,True
+Andriana Misikevych,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False,True
+Evangelia Papazoglou,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True,False
+Evangelia Papazoglou,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True,False
+Evangelia Platanioti,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True,False
+Evangelia Platanioti,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True,False
+Georgia Vasilopoulou,F,Greece,GRE,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False,True
+Evangelia Malkogeorgou,F,Greece,GRE,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,False,True
+Evangelia Platanioti,F,Greece,GRE,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True,False

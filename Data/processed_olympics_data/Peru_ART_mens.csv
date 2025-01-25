@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Julio Mendieta,M,Peru,PER,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,False
-Romano Cceda,M,Peru,PER,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True
-Romano Cceda,M,Peru,PER,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Julio Mendieta,M,Peru,PER,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,False,True
+Romano Cceda,M,Peru,PER,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True,True
+Romano Cceda,M,Peru,PER,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True,True

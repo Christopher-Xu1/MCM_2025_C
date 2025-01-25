@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jack Boultbee,M,Caprice,CAN,1932,Los Angeles,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
-Kenneth Glass,M,Caprice,CAN,1932,Los Angeles,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
-Philip Rogers,M,Caprice,CAN,1932,Los Angeles,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
-Gerald Wilson,M,Caprice,CAN,1932,Los Angeles,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jack Boultbee,M,Caprice,CAN,1932,Los Angeles,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True
+Kenneth Glass,M,Caprice,CAN,1932,Los Angeles,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True
+Philip Rogers,M,Caprice,CAN,1932,Los Angeles,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True
+Gerald Wilson,M,Caprice,CAN,1932,Los Angeles,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True

@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-lknur Akdoan,F,Turkey,TUR,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Nazl Dnerta,F,Turkey,TUR,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Nazl Dnerta,F,Turkey,TUR,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Sedef Kktentrk,F,Turkey,TUR,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Aye Szeri,F,Turkey,TUR,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Dilara Uralp,F,Turkey,TUR,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Okyanus Arikan,F,Turkey,TUR,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False
-Ecem Guzel,F,Turkey,TUR,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,False
-Beste Kaynakci,F,Turkey,TUR,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False
-Dilara Uralp,F,Turkey,TUR,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+lknur Akdoan,F,Turkey,TUR,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Nazl Dnerta,F,Turkey,TUR,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Nazl Dnerta,F,Turkey,TUR,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Sedef Kktentrk,F,Turkey,TUR,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Aye Szeri,F,Turkey,TUR,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Dilara Uralp,F,Turkey,TUR,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Okyanus Arikan,F,Turkey,TUR,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False,True
+Ecem Guzel,F,Turkey,TUR,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,False,True
+Beste Kaynakci,F,Turkey,TUR,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False,True
+Dilara Uralp,F,Turkey,TUR,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,True,False

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-A. Erilmez,M,Turkey,TUR,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",No medal,Art,ART,False
-Mehmet Sap,M,Turkey,TUR,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True
-Mehmet Sap,M,Turkey,TUR,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+A. Erilmez,M,Turkey,TUR,1948,London,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",No medal,Art,ART,False,True
+Mehmet Sap,M,Turkey,TUR,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True,True
+Mehmet Sap,M,Turkey,TUR,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ejler Allert,M,Nykjbings Paa Falster,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Gold,Rowing,ROW,False
-Jrgen Hansen,M,Nykjbings Paa Falster,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Gold,Rowing,ROW,False
-Poul Hartmann,M,Nykjbings Paa Falster,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Gold,Rowing,ROW,False
-Carl Mller,M,Nykjbings Paa Falster,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Gold,Rowing,ROW,False
-Carl Pedersen,M,Nykjbings Paa Falster,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Gold,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ejler Allert,M,Nykjbings Paa Falster,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Gold,Rowing,ROW,False,True
+Jrgen Hansen,M,Nykjbings Paa Falster,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Gold,Rowing,ROW,False,True
+Poul Hartmann,M,Nykjbings Paa Falster,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Gold,Rowing,ROW,False,True
+Carl Mller,M,Nykjbings Paa Falster,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Gold,Rowing,ROW,False,True
+Carl Pedersen,M,Nykjbings Paa Falster,DEN,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Gold,Rowing,ROW,False,True

@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lon Noor,M,Singapore,SGP,1952,Helsinki,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Chay Yew,M,Singapore,SGP,1952,Helsinki,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Chua Siong,M,Singapore,SGP,1976,Montreal,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Chua Kim,M,Singapore,SGP,1968,Mexico City,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Tan Cher,M,Singapore,SGP,1956,Melbourne,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Howe Tan,M,Singapore,SGP,1956,Melbourne,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Howe Tan,M,Singapore,SGP,1960,Roma,Weightlifting,Weightlifting Men's Lightweight,Silver,Weightlifting,WLF,True
-Thong Pak,M,Singapore,SGP,1952,Helsinki,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Tung Hong,M,Singapore,SGP,1968,Mexico City,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Wong Poh,M,Singapore,SGP,1956,Melbourne,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lon Noor,M,Singapore,SGP,1952,Helsinki,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Chay Yew,M,Singapore,SGP,1952,Helsinki,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Chua Siong,M,Singapore,SGP,1976,Montreal,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Chua Kim,M,Singapore,SGP,1968,Mexico City,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Tan Cher,M,Singapore,SGP,1956,Melbourne,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Howe Tan,M,Singapore,SGP,1956,Melbourne,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,True
+Howe Tan,M,Singapore,SGP,1960,Roma,Weightlifting,Weightlifting Men's Lightweight,Silver,Weightlifting,WLF,True,False
+Thong Pak,M,Singapore,SGP,1952,Helsinki,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Tung Hong,M,Singapore,SGP,1968,Mexico City,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Wong Poh,M,Singapore,SGP,1956,Melbourne,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True

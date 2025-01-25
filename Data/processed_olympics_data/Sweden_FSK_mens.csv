@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gillis Grafstrm,M,Sweden,SWE,1920,Antwerpen,Figure Skating,Figure Skating Men's Singles,Gold,Figure,FSK,False
-Carl Johansson,M,Sweden,SWE,1908,London,Figure Skating,Figure Skating Men's Singles,Silver,Figure,FSK,False
-Karl Salchow,M,Sweden,SWE,1908,London,Figure Skating,Figure Skating Men's Singles,Gold,Figure,FSK,True
-Karl Salchow,M,Sweden,SWE,1920,Antwerpen,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,True
-Per Thorn,M,Sweden,SWE,1908,London,Figure Skating,Figure Skating Men's Singles,Bronze,Figure,FSK,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gillis Grafstrm,M,Sweden,SWE,1920,Antwerpen,Figure Skating,Figure Skating Men's Singles,Gold,Figure,FSK,False,True
+Carl Johansson,M,Sweden,SWE,1908,London,Figure Skating,Figure Skating Men's Singles,Silver,Figure,FSK,False,True
+Karl Salchow,M,Sweden,SWE,1908,London,Figure Skating,Figure Skating Men's Singles,Gold,Figure,FSK,True,True
+Karl Salchow,M,Sweden,SWE,1920,Antwerpen,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,True,False
+Per Thorn,M,Sweden,SWE,1908,London,Figure Skating,Figure Skating Men's Singles,Bronze,Figure,FSK,False,True

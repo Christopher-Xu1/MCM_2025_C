@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nahyun Kim,F,Korea,KOR,2024,Paris,Diving,Women's 10m Platform,No medal,Women's,DIV,False
-Suji Kim,F,Korea,KOR,2024,Paris,Diving,Women's 3m Springboard,No medal,Women's,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nahyun Kim,F,Korea,KOR,2024,Paris,Diving,Women's 10m Platform,No medal,Women's,DIV,False,True
+Suji Kim,F,Korea,KOR,2024,Paris,Diving,Women's 3m Springboard,No medal,Women's,DIV,False,True

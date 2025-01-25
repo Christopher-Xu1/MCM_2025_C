@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Johannes Ahun,M,Estonia,EST,2008,Beijing,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Johannes Ahun,M,Estonia,EST,2012,London,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Deniss Karpak,M,Estonia,EST,2008,Beijing,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Deniss Karpak,M,Estonia,EST,2012,London,Sailing,Sailing Men's One Person Heavyweight Dinghy,No medal,Sailing,SAL,True
-Deniss Karpak,M,Estonia,EST,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Heavyweight Dinghy,No medal,Sailing,SAL,True
-Kaijo Kuusing,M,Estonia,EST,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Karl-Martin Rammo,M,Estonia,EST,2012,London,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Karl-Martin Rammo,M,Estonia,EST,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Peter Arakin,M,Estonia,EST,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Peter Arakin,M,Estonia,EST,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Imre Taveter,M,Estonia,EST,2000,Sydney,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Imre Taveter,M,Estonia,EST,2004,Athina,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Tnu Tniste,M,Estonia,EST,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,Bronze,Sailing,SAL,True
-Tnu Tniste,M,Estonia,EST,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Tnu Tniste,M,Estonia,EST,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Toomas Tniste,M,Estonia,EST,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,Bronze,Sailing,SAL,True
-Toomas Tniste,M,Estonia,EST,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Toomas Tniste,M,Estonia,EST,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Karl-martin Rammo,M,Estonia,EST,2020,Tokyo,Sailing,Men's One Person Dinghy - Laser,No medal,Men's,SAL,True
-Karl-martin Rammo,M,Estonia,EST,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Johannes Ahun,M,Estonia,EST,2008,Beijing,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,True
+Johannes Ahun,M,Estonia,EST,2012,London,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Deniss Karpak,M,Estonia,EST,2008,Beijing,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,True
+Deniss Karpak,M,Estonia,EST,2012,London,Sailing,Sailing Men's One Person Heavyweight Dinghy,No medal,Sailing,SAL,True,False
+Deniss Karpak,M,Estonia,EST,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Heavyweight Dinghy,No medal,Sailing,SAL,True,False
+Kaijo Kuusing,M,Estonia,EST,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Karl-Martin Rammo,M,Estonia,EST,2012,London,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,True
+Karl-Martin Rammo,M,Estonia,EST,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,False
+Peter Arakin,M,Estonia,EST,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,True
+Peter Arakin,M,Estonia,EST,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Imre Taveter,M,Estonia,EST,2000,Sydney,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,True
+Imre Taveter,M,Estonia,EST,2004,Athina,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,False
+Tnu Tniste,M,Estonia,EST,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,Bronze,Sailing,SAL,True,True
+Tnu Tniste,M,Estonia,EST,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Tnu Tniste,M,Estonia,EST,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Toomas Tniste,M,Estonia,EST,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,Bronze,Sailing,SAL,True,True
+Toomas Tniste,M,Estonia,EST,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Toomas Tniste,M,Estonia,EST,2000,Sydney,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Karl-martin Rammo,M,Estonia,EST,2020,Tokyo,Sailing,Men's One Person Dinghy - Laser,No medal,Men's,SAL,True,True
+Karl-martin Rammo,M,Estonia,EST,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,True,False

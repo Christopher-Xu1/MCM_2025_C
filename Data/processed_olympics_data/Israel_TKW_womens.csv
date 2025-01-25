@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maya Arusi,F,Israel,ISR,2004,Athina,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,False
-Bat-El Gatterer,F,Israel,ISR,2008,Beijing,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,False
-Abishag Semberg,F,Israel,ISR,2020,Tokyo,Taekwondo,Women -49kg,Bronze,Women,TKW,True
-Abishag Semberg,F,Israel,ISR,2024,Paris,Taekwondo,Women -49kg,No medal,Women,TKW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maya Arusi,F,Israel,ISR,2004,Athina,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,False,True
+Bat-El Gatterer,F,Israel,ISR,2008,Beijing,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,False,True
+Abishag Semberg,F,Israel,ISR,2020,Tokyo,Taekwondo,Women -49kg,Bronze,Women,TKW,True,True
+Abishag Semberg,F,Israel,ISR,2024,Paris,Taekwondo,Women -49kg,No medal,Women,TKW,True,False

@@ -1,35 +1,35 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ian Ainslie,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Ian Ainslie,M,South Africa,RSA,1996,Atlanta,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Ian Ainslie,M,South Africa,RSA,2000,Sydney,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True
-Gareth Blanckenberg,M,South Africa,RSA,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Gareth Blanckenberg,M,South Africa,RSA,2004,Athina,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Eric Bongers,M,South Africa,RSA,1956,Melbourne,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Gordon Burn-wood,M,South Africa,RSA,1960,Roma,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Eric Cook,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Rupert Ellis-brown,M,South Africa,RSA,1924,Paris,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Rupert Ellis-brown,M,South Africa,RSA,1928,Amsterdam,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Cecil Goodricke,M,South Africa,RSA,1932,Los Angeles,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-David Hibberd,M,South Africa,RSA,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-David Hudson,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Roger Hudson,M,South Africa,RSA,2012,London,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Roger Hudson,M,South Africa,RSA,2016,Rio de Janeiro,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Asenathi Jim,M,South Africa,RSA,2012,London,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Asenathi Jim,M,South Africa,RSA,2016,Rio de Janeiro,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-David Kitchen,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Martin Lambrecht,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Alec Lanham-love,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Stefano Marcia,M,South Africa,RSA,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False
-Richard Mayhew,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Richard Mayhew,M,South Africa,RSA,1996,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Herbert Mcwilliams,M,South Africa,RSA,1948,London,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Bruce Savage,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Bruce Savage,M,South Africa,RSA,1996,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Giles Stanley,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Hellmut Stauch,M,South Africa,RSA,1952,Helsinki,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Geoffrey Stevens,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-William Tyson,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Clynton Wade-lehman,M,South Africa,RSA,1996,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Alex Burger,M,South Africa,RSA,2020,Tokyo,Sailing,Men's Skiff - 49er Team,No medal,Men's,SAL,False
-Benjamin Daniel,M,South Africa,RSA,2020,Tokyo,Sailing,Men's Skiff - 49er Team,No medal,Men's,SAL,False
-Leo Davis,M,South Africa,RSA,2020,Tokyo,Sailing,Men's One Person Dinghy (Heavyweight) - Finn,No medal,Men's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ian Ainslie,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,True
+Ian Ainslie,M,South Africa,RSA,1996,Atlanta,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,False
+Ian Ainslie,M,South Africa,RSA,2000,Sydney,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,True,False
+Gareth Blanckenberg,M,South Africa,RSA,2000,Sydney,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,True
+Gareth Blanckenberg,M,South Africa,RSA,2004,Athina,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Eric Bongers,M,South Africa,RSA,1956,Melbourne,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Gordon Burn-wood,M,South Africa,RSA,1960,Roma,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Eric Cook,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Rupert Ellis-brown,M,South Africa,RSA,1924,Paris,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,True
+Rupert Ellis-brown,M,South Africa,RSA,1928,Amsterdam,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Cecil Goodricke,M,South Africa,RSA,1932,Los Angeles,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+David Hibberd,M,South Africa,RSA,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+David Hudson,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Roger Hudson,M,South Africa,RSA,2012,London,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Roger Hudson,M,South Africa,RSA,2016,Rio de Janeiro,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Asenathi Jim,M,South Africa,RSA,2012,London,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Asenathi Jim,M,South Africa,RSA,2016,Rio de Janeiro,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+David Kitchen,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Martin Lambrecht,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Alec Lanham-love,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Stefano Marcia,M,South Africa,RSA,2016,Rio de Janeiro,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False,True
+Richard Mayhew,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,True
+Richard Mayhew,M,South Africa,RSA,1996,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Herbert Mcwilliams,M,South Africa,RSA,1948,London,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Bruce Savage,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,True
+Bruce Savage,M,South Africa,RSA,1996,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Giles Stanley,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Hellmut Stauch,M,South Africa,RSA,1952,Helsinki,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Geoffrey Stevens,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+William Tyson,M,South Africa,RSA,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Clynton Wade-lehman,M,South Africa,RSA,1996,Atlanta,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Alex Burger,M,South Africa,RSA,2020,Tokyo,Sailing,Men's Skiff - 49er Team,No medal,Men's,SAL,False,True
+Benjamin Daniel,M,South Africa,RSA,2020,Tokyo,Sailing,Men's Skiff - 49er Team,No medal,Men's,SAL,False,True
+Leo Davis,M,South Africa,RSA,2020,Tokyo,Sailing,Men's One Person Dinghy (Heavyweight) - Finn,No medal,Men's,SAL,False,True

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-McARTHUR Hamish,M,United Kingdom,GBR,2024,Paris,Sport Climbing,Men's Boulder & Lead,No medal,Men's,CLB,False
-Toby Roberts,M,United Kingdom,GBR,2024,Paris,Sport Climbing,Men's Boulder & Lead,Gold,Men's,CLB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+McARTHUR Hamish,M,United Kingdom,GBR,2024,Paris,Sport Climbing,Men's Boulder & Lead,No medal,Men's,CLB,False,True
+Toby Roberts,M,United Kingdom,GBR,2024,Paris,Sport Climbing,Men's Boulder & Lead,Gold,Men's,CLB,False,True

@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carina Christiansen,F,Denmark,DEN,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Carina Christiansen,F,Denmark,DEN,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Maja Jager,F,Denmark,DEN,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Maja Jager,F,Denmark,DEN,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Louise Laursen,F,Denmark,DEN,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Louise Laursen,F,Denmark,DEN,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Louise Laursen,F,Denmark,DEN,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Lilli (christensen-),F,Denmark,DEN,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Erna (-wienecke),F,Denmark,DEN,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Katja Poulsen,F,Denmark,DEN,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Maja Jager,F,Denmark,DEN,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Danstru Andersen,F,Denmark,DEN,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carina Christiansen,F,Denmark,DEN,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Carina Christiansen,F,Denmark,DEN,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Maja Jager,F,Denmark,DEN,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Maja Jager,F,Denmark,DEN,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Louise Laursen,F,Denmark,DEN,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Louise Laursen,F,Denmark,DEN,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Louise Laursen,F,Denmark,DEN,2012,London,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Lilli (christensen-),F,Denmark,DEN,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Erna (-wienecke),F,Denmark,DEN,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Katja Poulsen,F,Denmark,DEN,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Maja Jager,F,Denmark,DEN,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,False
+Danstru Andersen,F,Denmark,DEN,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,False,True

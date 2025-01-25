@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dalixia Grosset,F,Cuba,CUB,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Dalixia Grosset,F,Cuba,CUB,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Tamara Peraza,F,Cuba,CUB,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Tamara Peraza,F,Cuba,CUB,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Lidianny Echevarria,F,Cuba,CUB,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False
-Consuelo Martinez,F,Cuba,CUB,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dalixia Grosset,F,Cuba,CUB,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,True
+Dalixia Grosset,F,Cuba,CUB,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,False
+Tamara Peraza,F,Cuba,CUB,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,True
+Tamara Peraza,F,Cuba,CUB,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,False
+Lidianny Echevarria,F,Cuba,CUB,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False,True
+Consuelo Martinez,F,Cuba,CUB,2020,Tokyo,Beach Volleyball,Women Team,No medal,Women,VBV,False,True

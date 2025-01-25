@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nathaniel Coleman,M,United States,USA,2020,Tokyo,Sport Climbing,Men's Combined,Silver,Men's,CLB,False
-Colin Duffy,M,United States,USA,2020,Tokyo,Sport Climbing,Men's Combined,No medal,Men's,CLB,True
-Colin Duffy,M,United States,USA,2024,Paris,Sport Climbing,Men's Boulder & Lead,No medal,Men's,CLB,True
-Jesse Grupper,M,United States,USA,2024,Paris,Sport Climbing,Men's Boulder & Lead,No medal,Men's,CLB,False
-Zach Hammer,M,United States,USA,2024,Paris,Sport Climbing,Men's Speed,No medal,Men's,CLB,False
-Sam Watson,M,United States,USA,2024,Paris,Sport Climbing,Men's Speed,Bronze,Men's,CLB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nathaniel Coleman,M,United States,USA,2020,Tokyo,Sport Climbing,Men's Combined,Silver,Men's,CLB,False,True
+Colin Duffy,M,United States,USA,2020,Tokyo,Sport Climbing,Men's Combined,No medal,Men's,CLB,True,True
+Colin Duffy,M,United States,USA,2024,Paris,Sport Climbing,Men's Boulder & Lead,No medal,Men's,CLB,True,False
+Jesse Grupper,M,United States,USA,2024,Paris,Sport Climbing,Men's Boulder & Lead,No medal,Men's,CLB,False,True
+Zach Hammer,M,United States,USA,2024,Paris,Sport Climbing,Men's Speed,No medal,Men's,CLB,False,True
+Sam Watson,M,United States,USA,2024,Paris,Sport Climbing,Men's Speed,Bronze,Men's,CLB,False,True

@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fok Shan,M,Hong Kong,HKG,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Fok Shan,M,Hong Kong,HKG,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Fung Yik,M,Hong Kong,HKG,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Lai Hung,M,Hong Kong,HKG,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Kar Lee,M,Hong Kong,HKG,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Lo Kuen,M,Hong Kong,HKG,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Shu Yuen,M,Hong Kong,HKG,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fok Shan,M,Hong Kong,HKG,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Fok Shan,M,Hong Kong,HKG,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Fung Yik,M,Hong Kong,HKG,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Lai Hung,M,Hong Kong,HKG,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Kar Lee,M,Hong Kong,HKG,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Lo Kuen,M,Hong Kong,HKG,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Shu Yuen,M,Hong Kong,HKG,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True

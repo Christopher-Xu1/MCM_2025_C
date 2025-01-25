@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ysis Rodrguez,F,Venezuela,VEN,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Giovanna Bazon,F,Venezuela,VEN,2004,Athina,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Giovanna Bazon,F,Venezuela,VEN,2012,London,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Jackelin Farias,F,Venezuela,VEN,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Rudymar Pernil,F,Venezuela,VEN,2004,Athina,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Francis Gmez,F,Venezuela,VEN,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Xiomara Mahon,F,Venezuela,VEN,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Xiomara Mahon,F,Venezuela,VEN,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Xiomara Mahon,F,Venezuela,VEN,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Keivi Pinto,F,Venezuela,VEN,2004,Athina,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Elvismar Ruiz,F,Venezuela,VEN,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Katty Santaella,F,Venezuela,VEN,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Flor Artahona,F,Venezuela,VEN,2004,Athina,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Flor Artahona,F,Venezuela,VEN,2008,Beijing,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Mara Blanca,F,Venezuela,VEN,1992,Barcelona,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Anriquelis Barrios,F,Venezuela,VEN,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,True
-Karen Leon,F,Venezuela,VEN,2020,Tokyo,Judo,Women -78 kg,No medal,Women,JUD,False
-Elvismar Rodriguez,F,Venezuela,VEN,2020,Tokyo,Judo,Women -70 kg,No medal,Women,JUD,False
-Anriquelis Barrios,F,Venezuela,VEN,2024,Paris,Judo,Women -63 kg,No medal,Women,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ysis Rodrguez,F,Venezuela,VEN,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Giovanna Bazon,F,Venezuela,VEN,2004,Athina,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,True
+Giovanna Bazon,F,Venezuela,VEN,2012,London,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,False
+Jackelin Farias,F,Venezuela,VEN,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Rudymar Pernil,F,Venezuela,VEN,2004,Athina,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Francis Gmez,F,Venezuela,VEN,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Xiomara Mahon,F,Venezuela,VEN,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,True
+Xiomara Mahon,F,Venezuela,VEN,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False
+Xiomara Mahon,F,Venezuela,VEN,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Keivi Pinto,F,Venezuela,VEN,2004,Athina,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Elvismar Ruiz,F,Venezuela,VEN,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Katty Santaella,F,Venezuela,VEN,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Flor Artahona,F,Venezuela,VEN,2004,Athina,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,True
+Flor Artahona,F,Venezuela,VEN,2008,Beijing,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,False
+Mara Blanca,F,Venezuela,VEN,1992,Barcelona,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Anriquelis Barrios,F,Venezuela,VEN,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,True,True
+Karen Leon,F,Venezuela,VEN,2020,Tokyo,Judo,Women -78 kg,No medal,Women,JUD,False,True
+Elvismar Rodriguez,F,Venezuela,VEN,2020,Tokyo,Judo,Women -70 kg,No medal,Women,JUD,False,True
+Anriquelis Barrios,F,Venezuela,VEN,2024,Paris,Judo,Women -63 kg,No medal,Women,JUD,True,False

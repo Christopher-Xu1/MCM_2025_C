@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rudolf Beerbohm,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Rudolf Beerbohm,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Gerhard Brockmller,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Gerhard Brockmller,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Gerhard Brockmller,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Gerhard Brockmller,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Joachim Brohmann,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Joachim Brohmann,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Karl-Heinz Fuhrmann,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Karl-Heinz Fuhrmann,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Helmut Gille,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Helmut Gille,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Helmut Hartmann,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Helmut Hartmann,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Horst Khler,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Horst Khler,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Horst Khler,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Horst Khler,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Wolfgang Mller,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Wolfgang Mller,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Wolfgang Mller,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True
-Wolfgang Mller,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True
-Jens Niehls,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Jens Niehls,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Uwe Plank,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Uwe Plank,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Ulrich Vite,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Ulrich Vite,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rudolf Beerbohm,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Rudolf Beerbohm,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Gerhard Brockmller,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Gerhard Brockmller,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True
+Gerhard Brockmller,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False
+Gerhard Brockmller,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,False
+Joachim Brohmann,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Joachim Brohmann,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Karl-Heinz Fuhrmann,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Karl-Heinz Fuhrmann,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Helmut Gille,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Helmut Gille,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Helmut Hartmann,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Helmut Hartmann,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Horst Khler,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Horst Khler,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True
+Horst Khler,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False
+Horst Khler,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,False
+Wolfgang Mller,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,True
+Wolfgang Mller,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,True
+Wolfgang Mller,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,True,False
+Wolfgang Mller,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Dressage, Team",No medal,Equestrianism,EVE,True,False
+Jens Niehls,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Jens Niehls,M,East Germany,GDR,1972,Munich,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Uwe Plank,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Uwe Plank,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Ulrich Vite,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Ulrich Vite,M,East Germany,GDR,1968,Mexico City,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True

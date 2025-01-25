@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Direma Banasso,F,Togo,TOG,2000,Sydney,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False
-Bamab Napo,F,Togo,TOG,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Prenam Pesse,F,Togo,TOG,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Sandrine Thibaud-kangni,F,Togo,TOG,2004,Athina,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Sandrine Thibaud-kangni,F,Togo,TOG,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Naomi Akakpo,F,Togo,TOG,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Direma Banasso,F,Togo,TOG,2000,Sydney,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False,True
+Bamab Napo,F,Togo,TOG,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Prenam Pesse,F,Togo,TOG,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Sandrine Thibaud-kangni,F,Togo,TOG,2004,Athina,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Sandrine Thibaud-kangni,F,Togo,TOG,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,False
+Naomi Akakpo,F,Togo,TOG,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False,True

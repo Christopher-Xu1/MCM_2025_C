@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Silvia Albrecht,F,Switzerland,SUI,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Silvia Albrecht,F,Switzerland,SUI,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Jeanine Cicognini,F,Switzerland,SUI,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Sabrina Jaquet,F,Switzerland,SUI,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Sabrina Jaquet,F,Switzerland,SUI,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Bettina Villars,F,Switzerland,SUI,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Bettina Villars,F,Switzerland,SUI,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Santi (-suter),F,Switzerland,SUI,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Santi (-suter),F,Switzerland,SUI,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Sabrina Jaquet,F,Switzerland,SUI,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,True
-Jenjira Stadelmann,F,Switzerland,SUI,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Silvia Albrecht,F,Switzerland,SUI,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Silvia Albrecht,F,Switzerland,SUI,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Jeanine Cicognini,F,Switzerland,SUI,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Sabrina Jaquet,F,Switzerland,SUI,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Sabrina Jaquet,F,Switzerland,SUI,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Bettina Villars,F,Switzerland,SUI,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Bettina Villars,F,Switzerland,SUI,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Santi (-suter),F,Switzerland,SUI,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Santi (-suter),F,Switzerland,SUI,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Sabrina Jaquet,F,Switzerland,SUI,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,True,False
+Jenjira Stadelmann,F,Switzerland,SUI,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False,True

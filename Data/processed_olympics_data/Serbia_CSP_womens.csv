@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Milica Novakovic,F,Serbia,SRB,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True
-Milica Novakovic,F,Serbia,SRB,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Anastazija Bajuk,F,Serbia,SRB,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,False
-Marija Dostanic,F,Serbia,SRB,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,False
-Milica Novakovic,F,Serbia,SRB,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Milica Novakovic,F,Serbia,SRB,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True
-Dunja Stanojev,F,Serbia,SRB,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Milica Novakovic,F,Serbia,SRB,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True,True
+Milica Novakovic,F,Serbia,SRB,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Anastazija Bajuk,F,Serbia,SRB,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,False,True
+Marija Dostanic,F,Serbia,SRB,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,False,True
+Milica Novakovic,F,Serbia,SRB,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,False
+Milica Novakovic,F,Serbia,SRB,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True,False
+Dunja Stanojev,F,Serbia,SRB,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,False,True

@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-George Bovell,M,Trinidad And Tobago,TTO,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-George Bovell,M,Trinidad And Tobago,TTO,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-George Bovell,M,Trinidad And Tobago,TTO,2000,Sydney,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-George Bovell,M,Trinidad And Tobago,TTO,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-George Bovell,M,Trinidad And Tobago,TTO,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-George Bovell,M,Trinidad And Tobago,TTO,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,Bronze,Swimming,SWM,True
-George Bovell,M,Trinidad And Tobago,TTO,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-George Bovell,M,Trinidad And Tobago,TTO,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-George Bovell,M,Trinidad And Tobago,TTO,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-George Bovell,M,Trinidad And Tobago,TTO,2012,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-George Bovell,M,Trinidad And Tobago,TTO,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Nicholas Bovell,M,Trinidad And Tobago,TTO,2008,Beijing,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,False
-Dylan Carter,M,Trinidad And Tobago,TTO,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Geoffrey Ferreira,M,Trinidad And Tobago,TTO,1968,Mexico City,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Geoffrey Ferreira,M,Trinidad And Tobago,TTO,1972,Munich,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Geoffrey Ferreira,M,Trinidad And Tobago,TTO,1972,Munich,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Geoffrey Ferreira,M,Trinidad And Tobago,TTO,1972,Munich,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Paul Newallo,M,Trinidad And Tobago,TTO,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Paul Newallo,M,Trinidad And Tobago,TTO,1984,Los Angeles,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Sebastien Paddington,M,Trinidad And Tobago,TTO,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
-Dylan Carter,M,Trinidad And Tobago,TTO,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True
-Dylan Carter,M,Trinidad And Tobago,TTO,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
-Dylan Carter,M,Trinidad And Tobago,TTO,2020,Tokyo,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,True
-Dylan Carter,M,Trinidad And Tobago,TTO,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,True
-Dylan Carter,M,Trinidad And Tobago,TTO,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
-Dylan Carter,M,Trinidad And Tobago,TTO,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+George Bovell,M,Trinidad And Tobago,TTO,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+George Bovell,M,Trinidad And Tobago,TTO,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+George Bovell,M,Trinidad And Tobago,TTO,2000,Sydney,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+George Bovell,M,Trinidad And Tobago,TTO,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+George Bovell,M,Trinidad And Tobago,TTO,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+George Bovell,M,Trinidad And Tobago,TTO,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,Bronze,Swimming,SWM,True,False
+George Bovell,M,Trinidad And Tobago,TTO,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+George Bovell,M,Trinidad And Tobago,TTO,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+George Bovell,M,Trinidad And Tobago,TTO,2012,London,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+George Bovell,M,Trinidad And Tobago,TTO,2012,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+George Bovell,M,Trinidad And Tobago,TTO,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Nicholas Bovell,M,Trinidad And Tobago,TTO,2008,Beijing,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,False,True
+Dylan Carter,M,Trinidad And Tobago,TTO,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Geoffrey Ferreira,M,Trinidad And Tobago,TTO,1968,Mexico City,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Geoffrey Ferreira,M,Trinidad And Tobago,TTO,1972,Munich,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Geoffrey Ferreira,M,Trinidad And Tobago,TTO,1972,Munich,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Geoffrey Ferreira,M,Trinidad And Tobago,TTO,1972,Munich,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,False
+Paul Newallo,M,Trinidad And Tobago,TTO,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Paul Newallo,M,Trinidad And Tobago,TTO,1984,Los Angeles,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Sebastien Paddington,M,Trinidad And Tobago,TTO,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Dylan Carter,M,Trinidad And Tobago,TTO,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True,False
+Dylan Carter,M,Trinidad And Tobago,TTO,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,False
+Dylan Carter,M,Trinidad And Tobago,TTO,2020,Tokyo,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,True,False
+Dylan Carter,M,Trinidad And Tobago,TTO,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,True,False
+Dylan Carter,M,Trinidad And Tobago,TTO,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,False
+Dylan Carter,M,Trinidad And Tobago,TTO,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True,False

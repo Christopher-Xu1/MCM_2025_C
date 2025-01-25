@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Josateki Basalusalu,M,Fiji,FIJ,1988,Seoul,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Aporosa Boginisoko,M,Fiji,FIJ,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Simione Kuruvoli,M,Fiji,FIJ,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Simione Kuruvoli,M,Fiji,FIJ,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Josateki Naulu,M,Fiji,FIJ,2012,London,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Josateki Naulu,M,Fiji,FIJ,2016,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Viliame Takayawa,M,Fiji,FIJ,1984,Los Angeles,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Viliame Takayawa,M,Fiji,FIJ,1988,Seoul,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Nacanieli Takayawa-qerawaqa,M,Fiji,FIJ,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Nacanieli Takayawa-qerawaqa,M,Fiji,FIJ,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Nacanieli Takayawa-qerawaqa,M,Fiji,FIJ,2000,Sydney,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Tevita Takayawa,M,Fiji,FIJ,2020,Tokyo,Judo,Men -100 kg,No medal,Men,JUD,False
-Gerard Takayawa,M,Fiji,FIJ,2024,Paris,Judo,Men +100 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Josateki Basalusalu,M,Fiji,FIJ,1988,Seoul,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Aporosa Boginisoko,M,Fiji,FIJ,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Simione Kuruvoli,M,Fiji,FIJ,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Simione Kuruvoli,M,Fiji,FIJ,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Josateki Naulu,M,Fiji,FIJ,2012,London,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Josateki Naulu,M,Fiji,FIJ,2016,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Viliame Takayawa,M,Fiji,FIJ,1984,Los Angeles,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,True
+Viliame Takayawa,M,Fiji,FIJ,1988,Seoul,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,False
+Nacanieli Takayawa-qerawaqa,M,Fiji,FIJ,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Nacanieli Takayawa-qerawaqa,M,Fiji,FIJ,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,False
+Nacanieli Takayawa-qerawaqa,M,Fiji,FIJ,2000,Sydney,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Tevita Takayawa,M,Fiji,FIJ,2020,Tokyo,Judo,Men -100 kg,No medal,Men,JUD,False,True
+Gerard Takayawa,M,Fiji,FIJ,2024,Paris,Judo,Men +100 kg,No medal,Men,JUD,False,True

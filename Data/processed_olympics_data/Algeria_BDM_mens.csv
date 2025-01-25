@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nabil Lasmari,M,Algeria,ALG,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Koceila Mammeri,M,Algeria,ALG,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nabil Lasmari,M,Algeria,ALG,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Koceila Mammeri,M,Algeria,ALG,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False,True

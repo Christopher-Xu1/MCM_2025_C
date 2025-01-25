@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kristijan Fris,M,Serbia,SRB,2008,Beijing,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,True
-Kristijan Fris,M,Serbia,SRB,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,True
-Aleksandar Maksimovi,M,Serbia,SRB,2012,London,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False
-Viktor Neme,M,Serbia,SRB,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False
-Davor Tefanek,M,Serbia,SRB,2008,Beijing,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,True
-Davor Tefanek,M,Serbia,SRB,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",Gold,Wrestling,WRF,True
-Zurabi Datunashvili,M,Serbia,SRB,2020,Tokyo,Wrestling,Men's Greco-Roman 87kg,Bronze,Men's,WRF,False
-Mihail Kajaia,M,Serbia,SRB,2020,Tokyo,Wrestling,Men's Greco-Roman 97kg,No medal,Men's,WRF,True
-Andria Micic,M,Serbia,SRB,2020,Tokyo,Wrestling,Men's Freestyle 57kg,No medal,Men's,WRF,False
-Mate Nemes,M,Serbia,SRB,2020,Tokyo,Wrestling,Men's Greco-Roman 67kg,No medal,Men's,WRF,True
-Hetik Cabolov,M,Serbia,SRB,2024,Paris,Wrestling,Men's Freestyle 74kg,No medal,Men's,WRF,False
-Mihail Kajaia,M,Serbia,SRB,2024,Paris,Wrestling,Men's Greco-Roman 97kg,No medal,Men's,WRF,True
-Andreevitch Komarov,M,Serbia,SRB,2024,Paris,Wrestling,Men's Greco-Roman 87kg,No medal,Men's,WRF,False
-Mate Nemes,M,Serbia,SRB,2024,Paris,Wrestling,Men's Greco-Roman 67kg,No medal,Men's,WRF,True
-Georgij Tibilov,M,Serbia,SRB,2024,Paris,Wrestling,Men's Greco-Roman 60kg,No medal,Men's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kristijan Fris,M,Serbia,SRB,2008,Beijing,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Kristijan Fris,M,Serbia,SRB,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Aleksandar Maksimovi,M,Serbia,SRB,2012,London,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Viktor Neme,M,Serbia,SRB,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Davor Tefanek,M,Serbia,SRB,2008,Beijing,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Davor Tefanek,M,Serbia,SRB,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",Gold,Wrestling,WRF,True,False
+Zurabi Datunashvili,M,Serbia,SRB,2020,Tokyo,Wrestling,Men's Greco-Roman 87kg,Bronze,Men's,WRF,False,True
+Mihail Kajaia,M,Serbia,SRB,2020,Tokyo,Wrestling,Men's Greco-Roman 97kg,No medal,Men's,WRF,True,True
+Andria Micic,M,Serbia,SRB,2020,Tokyo,Wrestling,Men's Freestyle 57kg,No medal,Men's,WRF,False,True
+Mate Nemes,M,Serbia,SRB,2020,Tokyo,Wrestling,Men's Greco-Roman 67kg,No medal,Men's,WRF,True,True
+Hetik Cabolov,M,Serbia,SRB,2024,Paris,Wrestling,Men's Freestyle 74kg,No medal,Men's,WRF,False,True
+Mihail Kajaia,M,Serbia,SRB,2024,Paris,Wrestling,Men's Greco-Roman 97kg,No medal,Men's,WRF,True,False
+Andreevitch Komarov,M,Serbia,SRB,2024,Paris,Wrestling,Men's Greco-Roman 87kg,No medal,Men's,WRF,False,True
+Mate Nemes,M,Serbia,SRB,2024,Paris,Wrestling,Men's Greco-Roman 67kg,No medal,Men's,WRF,True,False
+Georgij Tibilov,M,Serbia,SRB,2024,Paris,Wrestling,Men's Greco-Roman 60kg,No medal,Men's,WRF,False,True

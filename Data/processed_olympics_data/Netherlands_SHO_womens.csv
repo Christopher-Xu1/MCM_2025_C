@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anne Stormorken,F,Netherlands,NED,1988,Seoul,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Johanna Swinkels,F,Netherlands,NED,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anne Stormorken,F,Netherlands,NED,1988,Seoul,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Johanna Swinkels,F,Netherlands,NED,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True

@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chan Ya-lin,F,Chinese Taipei,TPE,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Chen Li-chin,F,Chinese Taipei,TPE,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Chen Li-chin,F,Chinese Taipei,TPE,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Cheng Shao-chieh,F,Chinese Taipei,TPE,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Cheng Shao-chieh,F,Chinese Taipei,TPE,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Cheng Shao-chieh,F,Chinese Taipei,TPE,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Cheng Wen-hsing,F,Chinese Taipei,TPE,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Cheng Wen-hsing,F,Chinese Taipei,TPE,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Cheng Wen-hsing,F,Chinese Taipei,TPE,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Cheng Wen-hsing,F,Chinese Taipei,TPE,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Cheng Wen-hsing,F,Chinese Taipei,TPE,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Chien Yu-chin,F,Chinese Taipei,TPE,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Chien Yu-chin,F,Chinese Taipei,TPE,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Chien Yu-chin,F,Chinese Taipei,TPE,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Huang Chia-chi,F,Chinese Taipei,TPE,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Huang Chia-chi,F,Chinese Taipei,TPE,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Jeng Shwu-zen,F,Chinese Taipei,TPE,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Tai Tzu-ying,F,Chinese Taipei,TPE,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Tai Tzu-ying,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Tsai Hui-min,F,Chinese Taipei,TPE,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Tsai Hui-min,F,Chinese Taipei,TPE,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Tzu-ying Tai,F,Chinese Taipei,TPE,2020,Tokyo,Badminton,Women's Singles,Silver,Women's,BDM,False
-Ying Tai,F,Chinese Taipei,TPE,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False
-Hsin Lee,F,Chinese Taipei,TPE,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chan Ya-lin,F,Chinese Taipei,TPE,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Chen Li-chin,F,Chinese Taipei,TPE,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Chen Li-chin,F,Chinese Taipei,TPE,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Cheng Shao-chieh,F,Chinese Taipei,TPE,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Cheng Shao-chieh,F,Chinese Taipei,TPE,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Cheng Shao-chieh,F,Chinese Taipei,TPE,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Cheng Wen-hsing,F,Chinese Taipei,TPE,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Cheng Wen-hsing,F,Chinese Taipei,TPE,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Cheng Wen-hsing,F,Chinese Taipei,TPE,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Cheng Wen-hsing,F,Chinese Taipei,TPE,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Cheng Wen-hsing,F,Chinese Taipei,TPE,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Chien Yu-chin,F,Chinese Taipei,TPE,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Chien Yu-chin,F,Chinese Taipei,TPE,2008,Beijing,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Chien Yu-chin,F,Chinese Taipei,TPE,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Huang Chia-chi,F,Chinese Taipei,TPE,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Huang Chia-chi,F,Chinese Taipei,TPE,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Jeng Shwu-zen,F,Chinese Taipei,TPE,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Tai Tzu-ying,F,Chinese Taipei,TPE,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Tai Tzu-ying,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Tsai Hui-min,F,Chinese Taipei,TPE,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Tsai Hui-min,F,Chinese Taipei,TPE,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Tzu-ying Tai,F,Chinese Taipei,TPE,2020,Tokyo,Badminton,Women's Singles,Silver,Women's,BDM,False,True
+Ying Tai,F,Chinese Taipei,TPE,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False,True
+Hsin Lee,F,Chinese Taipei,TPE,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False,True

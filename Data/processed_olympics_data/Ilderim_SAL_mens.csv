@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Per Gedda,M,Ilderim,SWE,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Tore Holm,M,Ilderim,SWE,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Wilhelm Moberg,M,Ilderim,SWE,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Karl Braun,M,Ilderim,SWE,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Marcus Wallenberg,M,Ilderim,SWE,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Axel Westerberg,M,Ilderim,SWE,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Per Gedda,M,Ilderim,SWE,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Tore Holm,M,Ilderim,SWE,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Wilhelm Moberg,M,Ilderim,SWE,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Karl Braun,M,Ilderim,SWE,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Marcus Wallenberg,M,Ilderim,SWE,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Axel Westerberg,M,Ilderim,SWE,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True

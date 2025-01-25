@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Charlotte Berend-corinth,F,Germany,GER,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Charlotte Berend-corinth,F,Germany,GER,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Charlotte Berend-corinth,F,Germany,GER,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Dorothea Corty-mnkemeyer,F,Germany,GER,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Applied Arts",No medal,Art,ART,True
-Dorothea Corty-mnkemeyer,F,Germany,GER,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Applied Arts",No medal,Art,ART,True
-Dorothea Corty-mnkemeyer,F,Germany,GER,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Applied Arts",No medal,Art,ART,True
-Lenigret (schrder-),F,Germany,GER,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False
-Rene (-weiss),F,Germany,GER,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",Bronze,Art,ART,True
-Rene (-weiss),F,Germany,GER,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Emilie Steger,F,Germany,GER,1936,Berlin,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,False
-Gertraud -koref),F,Germany,GER,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-Gertraud -koref),F,Germany,GER,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-Erzsbet Esse,F,Germany,GER,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Medals And Reliefs",No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Charlotte Berend-corinth,F,Germany,GER,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Charlotte Berend-corinth,F,Germany,GER,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Charlotte Berend-corinth,F,Germany,GER,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,True
+Dorothea Corty-mnkemeyer,F,Germany,GER,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Applied Arts",No medal,Art,ART,True,True
+Dorothea Corty-mnkemeyer,F,Germany,GER,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Applied Arts",No medal,Art,ART,True,True
+Dorothea Corty-mnkemeyer,F,Germany,GER,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Applied Arts",No medal,Art,ART,True,True
+Lenigret (schrder-),F,Germany,GER,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False,True
+Rene (-weiss),F,Germany,GER,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",Bronze,Art,ART,True,True
+Rene (-weiss),F,Germany,GER,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,False
+Emilie Steger,F,Germany,GER,1936,Berlin,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,False,True
+Gertraud -koref),F,Germany,GER,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+Gertraud -koref),F,Germany,GER,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+Erzsbet Esse,F,Germany,GER,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Sculpturing, Medals And Reliefs",No medal,Art,ART,False,True

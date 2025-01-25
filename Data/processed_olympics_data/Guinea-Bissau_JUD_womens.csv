@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Taciana Cesar,F,Guinea-Bissau,GBS,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Taciana Cesar,F,Guinea-Bissau,GBS,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Natasa Douchev-janics,F,Serbia And Montenegro,SCG,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Natasa Douchev-janics,F,Serbia And Montenegro,SCG,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False,True

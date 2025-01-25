@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ahmed Basith,M,India,IND,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Dhruv Bhandari,M,India,IND,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False
-Cyrus Cama,M,India,IND,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Sohrab Contractor,M,India,IND,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Nachhatar Johal,M,India,IND,2008,Beijing,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Tehmasp Mogul,M,India,IND,1972,Munich,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Sumeet Patel,M,India,IND,2004,Athina,Sailing,Sailing Mixed Skiff,No medal,Sailing,SAL,False
-Kelly Rao,M,India,IND,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Malav Shroff,M,India,IND,2004,Athina,Sailing,Sailing Mixed Skiff,No medal,Sailing,SAL,False
-Farokh Tarapore,M,India,IND,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,True
-Farokh Tarapore,M,India,IND,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Farokh Tarapore,M,India,IND,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True
-Ganapathy Kelapanda,M,India,IND,2020,Tokyo,Sailing,Men's Skiff - 49er Team,No medal,Men's,SAL,False
-Vishnu Saravanan,M,India,IND,2020,Tokyo,Sailing,Men's One Person Dinghy - Laser,No medal,Men's,SAL,True
-Varun Thakkar,M,India,IND,2020,Tokyo,Sailing,Men's Skiff - 49er Team,No medal,Men's,SAL,False
-Vishnu Saravanan,M,India,IND,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ahmed Basith,M,India,IND,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Dhruv Bhandari,M,India,IND,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False,True
+Cyrus Cama,M,India,IND,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Sohrab Contractor,M,India,IND,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Nachhatar Johal,M,India,IND,2008,Beijing,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Tehmasp Mogul,M,India,IND,1972,Munich,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Sumeet Patel,M,India,IND,2004,Athina,Sailing,Sailing Mixed Skiff,No medal,Sailing,SAL,False,True
+Kelly Rao,M,India,IND,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Malav Shroff,M,India,IND,2004,Athina,Sailing,Sailing Mixed Skiff,No medal,Sailing,SAL,False,True
+Farokh Tarapore,M,India,IND,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,True,True
+Farokh Tarapore,M,India,IND,1988,Seoul,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Farokh Tarapore,M,India,IND,1992,Barcelona,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Ganapathy Kelapanda,M,India,IND,2020,Tokyo,Sailing,Men's Skiff - 49er Team,No medal,Men's,SAL,False,True
+Vishnu Saravanan,M,India,IND,2020,Tokyo,Sailing,Men's One Person Dinghy - Laser,No medal,Men's,SAL,True,True
+Varun Thakkar,M,India,IND,2020,Tokyo,Sailing,Men's Skiff - 49er Team,No medal,Men's,SAL,False,True
+Vishnu Saravanan,M,India,IND,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,True,False

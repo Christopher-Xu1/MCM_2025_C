@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jlius Bal,M,Czechoslovakia,TCH,1924,Paris,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Jlius Bal,M,Czechoslovakia,TCH,1928,Amsterdam,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Tom Bauer,M,Czechoslovakia,TCH,1960,Roma,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Tom Bauer,M,Czechoslovakia,TCH,1960,Roma,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Vclav Kacl,M,Czechoslovakia,TCH,1936,Berlin,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Frantiek Leikert,M,Czechoslovakia,TCH,1936,Berlin,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Frantiek Leikert,M,Czechoslovakia,TCH,1936,Berlin,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Josef Nesvadba,M,Czechoslovakia,TCH,1928,Amsterdam,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Josef Nesvadba,M,Czechoslovakia,TCH,1936,Berlin,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Josef Nesvadba,M,Czechoslovakia,TCH,1936,Berlin,Diving,Diving Men's Platform,No medal,Diving,DIV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jlius Bal,M,Czechoslovakia,TCH,1924,Paris,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Jlius Bal,M,Czechoslovakia,TCH,1928,Amsterdam,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Tom Bauer,M,Czechoslovakia,TCH,1960,Roma,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Tom Bauer,M,Czechoslovakia,TCH,1960,Roma,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Vclav Kacl,M,Czechoslovakia,TCH,1936,Berlin,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Frantiek Leikert,M,Czechoslovakia,TCH,1936,Berlin,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Frantiek Leikert,M,Czechoslovakia,TCH,1936,Berlin,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Josef Nesvadba,M,Czechoslovakia,TCH,1928,Amsterdam,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Josef Nesvadba,M,Czechoslovakia,TCH,1936,Berlin,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Josef Nesvadba,M,Czechoslovakia,TCH,1936,Berlin,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False

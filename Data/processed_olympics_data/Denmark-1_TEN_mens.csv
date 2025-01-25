@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Einar Bache,M,Denmark-1,DEN,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Ove Frederiksen,M,Denmark-1,DEN,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Ernst Frigast,M,Denmark-1,DEN,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Bjrn (guldbrandsen-),M,Denmark-1,DEN,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Einar Bache,M,Denmark-1,DEN,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Ove Frederiksen,M,Denmark-1,DEN,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Ernst Frigast,M,Denmark-1,DEN,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Bjrn (guldbrandsen-),M,Denmark-1,DEN,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

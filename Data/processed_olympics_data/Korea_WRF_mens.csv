@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Seungjun Kim,M,Korea,KOR,2024,Paris,Wrestling,Men's Greco-Roman 97kg,No medal,Men's,WRF,False
-Seungchan Lee,M,Korea,KOR,2024,Paris,Wrestling,Men's Greco-Roman 130kg,No medal,Men's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Seungjun Kim,M,Korea,KOR,2024,Paris,Wrestling,Men's Greco-Roman 97kg,No medal,Men's,WRF,False,True
+Seungchan Lee,M,Korea,KOR,2024,Paris,Wrestling,Men's Greco-Roman 130kg,No medal,Men's,WRF,False,True

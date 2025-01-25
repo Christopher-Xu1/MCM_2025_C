@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Soenke Rothenberger,M,Germany,GER,2024,Paris,Equestrian,Dressage Team,Gold,Dressage,EDR,False
-Frederic Wandres,M,Germany,GER,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Frederic Wandres,M,Germany,GER,2024,Paris,Equestrian,Dressage Team,Gold,Dressage,EDR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Soenke Rothenberger,M,Germany,GER,2024,Paris,Equestrian,Dressage Team,Gold,Dressage,EDR,False,True
+Frederic Wandres,M,Germany,GER,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Frederic Wandres,M,Germany,GER,2024,Paris,Equestrian,Dressage Team,Gold,Dressage,EDR,True,True

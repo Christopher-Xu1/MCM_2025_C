@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Ripard,M,Merope,MLT,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Paul Ripard,M,Merope,MLT,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Nicol Rode,M,Merope,ITA,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,Gold,Sailing,SAL,False
-Agostino Straulino,M,Merope,ITA,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Ripard,M,Merope,MLT,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Paul Ripard,M,Merope,MLT,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Nicol Rode,M,Merope,ITA,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,Gold,Sailing,SAL,False,True
+Agostino Straulino,M,Merope,ITA,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,Gold,Sailing,SAL,False,True

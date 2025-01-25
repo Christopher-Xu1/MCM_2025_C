@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abdul Al-bulushi,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Abdul Al-bulushi,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Abdul Al-bulushi,M,Oman,OMA,1988,Seoul,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Dadallah Al-bulushi,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Dadallah Al-bulushi,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Dadallah Al-bulushi,M,Oman,OMA,2008,Beijing,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Ali Al-ghafiri,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False
-Ahmed Al-hatmi,M,Oman,OMA,2012,London,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,False
-Abdullah Al-hussini,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False
-Zaher Al-jamudi,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Hamed Al-khatri,M,Oman,OMA,2016,Rio de Janeiro,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,False
-Khalifa Al-khatry,M,Oman,OMA,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Khalifa Al-khatry,M,Oman,OMA,1996,Atlanta,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Khalifa Al-khatry,M,Oman,OMA,1996,Atlanta,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Said Al-khatry,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False
-Saleem Al-nasri,M,Oman,OMA,2004,Athina,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,False
-Juma Al-rahbi,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False
-Hilal Al-rasheedi,M,Oman,OMA,2000,Sydney,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Hilal Al-rasheedi,M,Oman,OMA,2000,Sydney,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Khamis Al-subhi,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Hamed Al,M,Oman,OMA,2020,Tokyo,Shooting,50m Rifle 3 Positions Men,No medal,50m,SHO,False
-Said Al,M,Oman,OMA,2024,Paris,Shooting,Trap Men,No medal,Trap,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abdul Al-bulushi,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Abdul Al-bulushi,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Abdul Al-bulushi,M,Oman,OMA,1988,Seoul,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Dadallah Al-bulushi,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Dadallah Al-bulushi,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Dadallah Al-bulushi,M,Oman,OMA,2008,Beijing,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Ali Al-ghafiri,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False,True
+Ahmed Al-hatmi,M,Oman,OMA,2012,London,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,False,True
+Abdullah Al-hussini,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False,True
+Zaher Al-jamudi,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Hamed Al-khatri,M,Oman,OMA,2016,Rio de Janeiro,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,False,True
+Khalifa Al-khatry,M,Oman,OMA,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Khalifa Al-khatry,M,Oman,OMA,1996,Atlanta,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Khalifa Al-khatry,M,Oman,OMA,1996,Atlanta,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Said Al-khatry,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False,True
+Saleem Al-nasri,M,Oman,OMA,2004,Athina,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,False,True
+Juma Al-rahbi,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False,True
+Hilal Al-rasheedi,M,Oman,OMA,2000,Sydney,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Hilal Al-rasheedi,M,Oman,OMA,2000,Sydney,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Khamis Al-subhi,M,Oman,OMA,1984,Los Angeles,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Hamed Al,M,Oman,OMA,2020,Tokyo,Shooting,50m Rifle 3 Positions Men,No medal,50m,SHO,False,True
+Said Al,M,Oman,OMA,2024,Paris,Shooting,Trap Men,No medal,Trap,SHO,False,True

@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rosngela Conceio,F,Brazil,BRA,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Aline Ferreira,F,Brazil,BRA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Las Oliveira,F,Brazil,BRA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Gilda Oliveira,F,Brazil,BRA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Joice Silva,F,Brazil,BRA,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Joice Silva,F,Brazil,BRA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Lais Nunes,F,Brazil,BRA,2020,Tokyo,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,False
-Aline Silva,F,Brazil,BRA,2020,Tokyo,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,False
-Giullia Penalber,F,Brazil,BRA,2024,Paris,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rosngela Conceio,F,Brazil,BRA,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Aline Ferreira,F,Brazil,BRA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Las Oliveira,F,Brazil,BRA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Gilda Oliveira,F,Brazil,BRA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Joice Silva,F,Brazil,BRA,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True,True
+Joice Silva,F,Brazil,BRA,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,True,False
+Lais Nunes,F,Brazil,BRA,2020,Tokyo,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,False,True
+Aline Silva,F,Brazil,BRA,2020,Tokyo,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,False,True
+Giullia Penalber,F,Brazil,BRA,2024,Paris,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,False,True

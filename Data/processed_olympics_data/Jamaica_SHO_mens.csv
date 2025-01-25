@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Roy Bridge,M,Jamaica,JAM,1964,Tokyo,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Roy Bridge,M,Jamaica,JAM,1964,Tokyo,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False,True

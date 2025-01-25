@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Arturo Agard,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Nicolas Lay,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Percibal Brooks,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Francisco Checa,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Elicer Carrasco,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Calixto Malcon,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Julio Quintana,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Davis Jr.,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Ramn Quijano,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Pedro Reyna,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Luis Murrell,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Norris Webb,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Arturo Agard,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Nicolas Lay,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Percibal Brooks,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Francisco Checa,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Elicer Carrasco,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Calixto Malcon,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Julio Quintana,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Davis Jr.,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Ramn Quijano,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Pedro Reyna,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Luis Murrell,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Norris Webb,M,Panama,PAN,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True

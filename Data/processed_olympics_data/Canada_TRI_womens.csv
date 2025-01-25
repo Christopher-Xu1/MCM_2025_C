@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sarah-Anne Brault,F,Canada,CAN,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Sharon Donnelly,F,Canada,CAN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Paula Findlay,F,Canada,CAN,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Lauren Groves,F,Canada,CAN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Amlie Kretz,F,Canada,CAN,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Samantha Mcglone,F,Canada,CAN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Carol Montgomery,F,Canada,CAN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Carol Montgomery,F,Canada,CAN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Carolyn Murray,F,Canada,CAN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Jill Savege,F,Canada,CAN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Kirsten Sweetland,F,Canada,CAN,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Kathy Tremblay,F,Canada,CAN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Kathy Tremblay,F,Canada,CAN,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Isabelle Baird,F,Canada,CAN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Joanna Brown,F,Canada,CAN,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Joanna Brown,F,Canada,CAN,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Amelie Kretz,F,Canada,CAN,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Amelie Kretz,F,Canada,CAN,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Emy Legault,F,Canada,CAN,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sarah-Anne Brault,F,Canada,CAN,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Sharon Donnelly,F,Canada,CAN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Paula Findlay,F,Canada,CAN,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Lauren Groves,F,Canada,CAN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Amlie Kretz,F,Canada,CAN,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Samantha Mcglone,F,Canada,CAN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Carol Montgomery,F,Canada,CAN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Carol Montgomery,F,Canada,CAN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Carolyn Murray,F,Canada,CAN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Jill Savege,F,Canada,CAN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Kirsten Sweetland,F,Canada,CAN,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Kathy Tremblay,F,Canada,CAN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Kathy Tremblay,F,Canada,CAN,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Isabelle Baird,F,Canada,CAN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Joanna Brown,F,Canada,CAN,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,True
+Joanna Brown,F,Canada,CAN,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Amelie Kretz,F,Canada,CAN,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,True
+Amelie Kretz,F,Canada,CAN,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Emy Legault,F,Canada,CAN,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False,True

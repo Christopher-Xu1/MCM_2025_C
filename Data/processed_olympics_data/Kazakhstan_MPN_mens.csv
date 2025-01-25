@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pavel Ilyashenko,M,Kazakhstan,KAZ,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Pavel Ilyashenko,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Aleksandr Parygin,M,Kazakhstan,KAZ,1996,Atlanta,Modern Pentathlon,Modern Pentathlon Men's Individual,Gold,Modern,MPN,False
-Rustem Sabirkhuzin,M,Kazakhstan,KAZ,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Dmitry Tyurin,M,Kazakhstan,KAZ,1996,Atlanta,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Pavel Ilyashenko,M,Kazakhstan,KAZ,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True
-Georgiy Boroda-dudochkin,M,Kazakhstan,KAZ,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pavel Ilyashenko,M,Kazakhstan,KAZ,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Pavel Ilyashenko,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Aleksandr Parygin,M,Kazakhstan,KAZ,1996,Atlanta,Modern Pentathlon,Modern Pentathlon Men's Individual,Gold,Modern,MPN,False,True
+Rustem Sabirkhuzin,M,Kazakhstan,KAZ,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Dmitry Tyurin,M,Kazakhstan,KAZ,1996,Atlanta,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Pavel Ilyashenko,M,Kazakhstan,KAZ,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True,False
+Georgiy Boroda-dudochkin,M,Kazakhstan,KAZ,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False,True

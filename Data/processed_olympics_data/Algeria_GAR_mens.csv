@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohamed Bourguieg,M,Algeria,ALG,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Mohamed Bourguieg,M,Algeria,ALG,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Mohamed Bourguieg,M,Algeria,ALG,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Mohamed Bourguieg,M,Algeria,ALG,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Mohamed Bourguieg,M,Algeria,ALG,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Mohamed Bourguieg,M,Algeria,ALG,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Larbi Lazhari,M,Algeria,ALG,1968,Mexico City,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Larbi Lazhari,M,Algeria,ALG,1968,Mexico City,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Larbi Lazhari,M,Algeria,ALG,1968,Mexico City,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Larbi Lazhari,M,Algeria,ALG,1968,Mexico City,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Larbi Lazhari,M,Algeria,ALG,1968,Mexico City,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Larbi Lazhari,M,Algeria,ALG,1968,Mexico City,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Larbi Lazhari,M,Algeria,ALG,1968,Mexico City,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Mohamed Lazhari,M,Algeria,ALG,1964,Tokyo,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Mohamed Lazhari,M,Algeria,ALG,1964,Tokyo,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Mohamed Lazhari,M,Algeria,ALG,1964,Tokyo,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Mohamed Lazhari,M,Algeria,ALG,1964,Tokyo,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Mohamed Lazhari,M,Algeria,ALG,1964,Tokyo,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Mohamed Lazhari,M,Algeria,ALG,1964,Tokyo,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Mohamed Lazhari,M,Algeria,ALG,1964,Tokyo,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohamed Bourguieg,M,Algeria,ALG,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Mohamed Bourguieg,M,Algeria,ALG,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Mohamed Bourguieg,M,Algeria,ALG,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Mohamed Bourguieg,M,Algeria,ALG,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Mohamed Bourguieg,M,Algeria,ALG,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Mohamed Bourguieg,M,Algeria,ALG,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Larbi Lazhari,M,Algeria,ALG,1968,Mexico City,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Larbi Lazhari,M,Algeria,ALG,1968,Mexico City,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Larbi Lazhari,M,Algeria,ALG,1968,Mexico City,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+Larbi Lazhari,M,Algeria,ALG,1968,Mexico City,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Larbi Lazhari,M,Algeria,ALG,1968,Mexico City,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Larbi Lazhari,M,Algeria,ALG,1968,Mexico City,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Larbi Lazhari,M,Algeria,ALG,1968,Mexico City,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Mohamed Lazhari,M,Algeria,ALG,1964,Tokyo,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Mohamed Lazhari,M,Algeria,ALG,1964,Tokyo,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Mohamed Lazhari,M,Algeria,ALG,1964,Tokyo,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+Mohamed Lazhari,M,Algeria,ALG,1964,Tokyo,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Mohamed Lazhari,M,Algeria,ALG,1964,Tokyo,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Mohamed Lazhari,M,Algeria,ALG,1964,Tokyo,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Mohamed Lazhari,M,Algeria,ALG,1964,Tokyo,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True

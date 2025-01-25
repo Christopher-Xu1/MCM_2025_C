@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ctlin Luchian,F,Romania,ROU,1980,Moskva,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Ebru Bolat,F,Romania,ROU,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ctlin Luchian,F,Romania,ROU,1980,Moskva,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Ebru Bolat,F,Romania,ROU,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False,True

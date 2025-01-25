@@ -1,31 +1,31 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jos Rosario,M,Puerto Rico,PUR,1984,Los Angeles,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Jos Rosario,M,Puerto Rico,PUR,1992,Barcelona,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Jos Rosario,M,Puerto Rico,PUR,1996,Atlanta,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Orlando Cceres,M,Puerto Rico,PUR,1984,Los Angeles,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False
-John Jess,M,Puerto Rico,PUR,1976,Montreal,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Jaime Fajardo,M,Puerto Rico,PUR,2012,London,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",Silver,Wrestling,WRF,True
-Jaime Fajardo,M,Puerto Rico,PUR,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Rodney Langkan,M,Puerto Rico,PUR,1992,Barcelona,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Carmelo Flores,M,Puerto Rico,PUR,1984,Los Angeles,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Franklin Matos,M,Puerto Rico,PUR,2012,London,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Franklin Matos,M,Puerto Rico,PUR,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,True
-Rafael Gonzlez,M,Puerto Rico,PUR,1976,Montreal,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Dennis Herrick,M,Puerto Rico,PUR,1976,Montreal,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False
-Carlos Negron,M,Puerto Rico,PUR,1988,Seoul,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Anibl Javier,M,Puerto Rico,PUR,1992,Barcelona,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True
-Anibl Javier,M,Puerto Rico,PUR,1996,Atlanta,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True
-Ubaldo Rodrguez,M,Puerto Rico,PUR,1988,Seoul,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,True
-Ubaldo Rodrguez,M,Puerto Rico,PUR,1988,Seoul,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Orlando Rosa,M,Puerto Rico,PUR,1996,Atlanta,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Daniel Snchez,M,Puerto Rico,PUR,1992,Barcelona,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Daniel Snchez,M,Puerto Rico,PUR,1996,Atlanta,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Marco Snchez,M,Puerto Rico,PUR,1996,Atlanta,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Francisco Tanco,M,Puerto Rico,PUR,2012,London,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Benjamin Varela,M,Puerto Rico,PUR,1976,Montreal,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Manuel Villapol,M,Puerto Rico,PUR,1976,Montreal,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Franklin Gomez,M,Puerto Rico,PUR,2020,Tokyo,Wrestling,Men's Freestyle 74kg,No medal,Men's,WRF,False
-C Rivera,M,Puerto Rico,PUR,2024,Paris,Wrestling,Men's Freestyle 65kg,Bronze,Men's,WRF,False
-Adrian Ramos,M,Puerto Rico,PUR,2024,Paris,Wrestling,Men's Freestyle 86kg,No medal,Men's,WRF,False
-Darius Smith,M,Puerto Rico,PUR,2024,Paris,Wrestling,Men's Freestyle 125kg,No medal,Men's,WRF,False
-Toi Cruz,M,Puerto Rico,PUR,2024,Paris,Wrestling,Men's Freestyle 57kg,No medal,Men's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jos Rosario,M,Puerto Rico,PUR,1984,Los Angeles,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True,True
+Jos Rosario,M,Puerto Rico,PUR,1992,Barcelona,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Jos Rosario,M,Puerto Rico,PUR,1996,Atlanta,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Orlando Cceres,M,Puerto Rico,PUR,1984,Los Angeles,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False,True
+John Jess,M,Puerto Rico,PUR,1976,Montreal,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Jaime Fajardo,M,Puerto Rico,PUR,2012,London,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",Silver,Wrestling,WRF,True,True
+Jaime Fajardo,M,Puerto Rico,PUR,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Rodney Langkan,M,Puerto Rico,PUR,1992,Barcelona,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Carmelo Flores,M,Puerto Rico,PUR,1984,Los Angeles,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Franklin Matos,M,Puerto Rico,PUR,2012,London,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True,True
+Franklin Matos,M,Puerto Rico,PUR,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,True,False
+Rafael Gonzlez,M,Puerto Rico,PUR,1976,Montreal,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Dennis Herrick,M,Puerto Rico,PUR,1976,Montreal,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False,True
+Carlos Negron,M,Puerto Rico,PUR,1988,Seoul,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Anibl Javier,M,Puerto Rico,PUR,1992,Barcelona,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True,True
+Anibl Javier,M,Puerto Rico,PUR,1996,Atlanta,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True,False
+Ubaldo Rodrguez,M,Puerto Rico,PUR,1988,Seoul,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Ubaldo Rodrguez,M,Puerto Rico,PUR,1988,Seoul,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True,True
+Orlando Rosa,M,Puerto Rico,PUR,1996,Atlanta,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Daniel Snchez,M,Puerto Rico,PUR,1992,Barcelona,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Daniel Snchez,M,Puerto Rico,PUR,1996,Atlanta,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Marco Snchez,M,Puerto Rico,PUR,1996,Atlanta,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Francisco Tanco,M,Puerto Rico,PUR,2012,London,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Benjamin Varela,M,Puerto Rico,PUR,1976,Montreal,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Manuel Villapol,M,Puerto Rico,PUR,1976,Montreal,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Franklin Gomez,M,Puerto Rico,PUR,2020,Tokyo,Wrestling,Men's Freestyle 74kg,No medal,Men's,WRF,False,True
+C Rivera,M,Puerto Rico,PUR,2024,Paris,Wrestling,Men's Freestyle 65kg,Bronze,Men's,WRF,False,True
+Adrian Ramos,M,Puerto Rico,PUR,2024,Paris,Wrestling,Men's Freestyle 86kg,No medal,Men's,WRF,False,True
+Darius Smith,M,Puerto Rico,PUR,2024,Paris,Wrestling,Men's Freestyle 125kg,No medal,Men's,WRF,False,True
+Toi Cruz,M,Puerto Rico,PUR,2024,Paris,Wrestling,Men's Freestyle 57kg,No medal,Men's,WRF,False,True

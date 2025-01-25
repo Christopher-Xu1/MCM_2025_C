@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kai Harada,M,Japan,JPN,2020,Tokyo,Sport Climbing,Men's Combined,No medal,Men's,CLB,False
-Tomoa Narasaki,M,Japan,JPN,2020,Tokyo,Sport Climbing,Men's Combined,No medal,Men's,CLB,True
-Sorato Anraku,M,Japan,JPN,2024,Paris,Sport Climbing,Men's Boulder & Lead,Silver,Men's,CLB,False
-Tomoa Narasaki,M,Japan,JPN,2024,Paris,Sport Climbing,Men's Boulder & Lead,No medal,Men's,CLB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kai Harada,M,Japan,JPN,2020,Tokyo,Sport Climbing,Men's Combined,No medal,Men's,CLB,False,True
+Tomoa Narasaki,M,Japan,JPN,2020,Tokyo,Sport Climbing,Men's Combined,No medal,Men's,CLB,True,True
+Sorato Anraku,M,Japan,JPN,2024,Paris,Sport Climbing,Men's Boulder & Lead,Silver,Men's,CLB,False,True
+Tomoa Narasaki,M,Japan,JPN,2024,Paris,Sport Climbing,Men's Boulder & Lead,No medal,Men's,CLB,True,False

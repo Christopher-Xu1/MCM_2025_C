@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Emilio Abreu,M,Paraguay,PAR,1976,Montreal,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Emilio Abreu,M,Paraguay,PAR,1976,Montreal,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Emilio Abreu,M,Paraguay,PAR,1976,Montreal,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Sergio Diaz,M,Paraguay,PAR,2004,Athina,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False
-Alfredo Canelsa,M,Paraguay,PAR,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Edgar Ayala,M,Paraguay,PAR,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Edgar Ayala,M,Paraguay,PAR,1992,Barcelona,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Benjamin Brusquetti,M,Paraguay,PAR,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Benjamin Brusquetti,M,Paraguay,PAR,2012,London,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Benjamin Brusquetti,M,Paraguay,PAR,2012,London,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Benjamin Brusquetti,M,Paraguay,PAR,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Antonio Candia,M,Paraguay,PAR,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Genaro Britez,M,Paraguay,PAR,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Marcos Toanez,M,Paraguay,PAR,1992,Barcelona,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Marcos Toanez,M,Paraguay,PAR,1992,Barcelona,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-Benjamin Hockin,M,Paraguay,PAR,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
-Benjamin Hockin,M,Paraguay,PAR,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,True
-Matheo Mateos,M,Paraguay,PAR,2024,Paris,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Emilio Abreu,M,Paraguay,PAR,1976,Montreal,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Emilio Abreu,M,Paraguay,PAR,1976,Montreal,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Emilio Abreu,M,Paraguay,PAR,1976,Montreal,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Sergio Diaz,M,Paraguay,PAR,2004,Athina,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False,True
+Alfredo Canelsa,M,Paraguay,PAR,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Edgar Ayala,M,Paraguay,PAR,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Edgar Ayala,M,Paraguay,PAR,1992,Barcelona,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Benjamin Brusquetti,M,Paraguay,PAR,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Benjamin Brusquetti,M,Paraguay,PAR,2012,London,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Benjamin Brusquetti,M,Paraguay,PAR,2012,London,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Benjamin Brusquetti,M,Paraguay,PAR,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Antonio Candia,M,Paraguay,PAR,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Genaro Britez,M,Paraguay,PAR,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Marcos Toanez,M,Paraguay,PAR,1992,Barcelona,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Marcos Toanez,M,Paraguay,PAR,1992,Barcelona,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Benjamin Hockin,M,Paraguay,PAR,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,True
+Benjamin Hockin,M,Paraguay,PAR,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,True,True
+Matheo Mateos,M,Paraguay,PAR,2024,Paris,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,False,True

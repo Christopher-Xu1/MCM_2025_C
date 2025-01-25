@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Damber Bhatta,M,Nepal,NEP,1988,Seoul,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Ram Giri,M,Nepal,NEP,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Ram Gurung,M,Nepal,NEP,1964,Tokyo,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Bishnu Malakar,M,Nepal,NEP,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Umesh Maskey,M,Nepal,NEP,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Narendra Poma,M,Nepal,NEP,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Om Pun,M,Nepal,NEP,1964,Tokyo,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Dalbahadur Ranamagar,M,Nepal,NEP,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Dalbahadur Ranamagar,M,Nepal,NEP,1988,Seoul,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Bishnu Singh,M,Nepal,NEP,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Jhapat Bhujel,M,Nepal,NEP,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Bhim Thapa,M,Nepal,NEP,1964,Tokyo,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Nam Thapa,M,Nepal,NEP,1964,Tokyo,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Rabi Thapa,M,Nepal,NEP,1980,Moskva,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Prabin Tuladhar,M,Nepal,NEP,1984,Los Angeles,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Damber Bhatta,M,Nepal,NEP,1988,Seoul,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Ram Giri,M,Nepal,NEP,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Ram Gurung,M,Nepal,NEP,1964,Tokyo,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Bishnu Malakar,M,Nepal,NEP,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Umesh Maskey,M,Nepal,NEP,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Narendra Poma,M,Nepal,NEP,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Om Pun,M,Nepal,NEP,1964,Tokyo,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Dalbahadur Ranamagar,M,Nepal,NEP,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,True
+Dalbahadur Ranamagar,M,Nepal,NEP,1988,Seoul,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,False
+Bishnu Singh,M,Nepal,NEP,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Jhapat Bhujel,M,Nepal,NEP,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Bhim Thapa,M,Nepal,NEP,1964,Tokyo,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Nam Thapa,M,Nepal,NEP,1964,Tokyo,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Rabi Thapa,M,Nepal,NEP,1980,Moskva,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Prabin Tuladhar,M,Nepal,NEP,1984,Los Angeles,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True

@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Johanna Goliszewski,F,Germany,GER,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Nicole Grether,F,Germany,GER,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Nicole Grether,F,Germany,GER,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Nicole Grether,F,Germany,GER,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Carla Nelte,F,Germany,GER,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Birgit Overzier-michels,F,Germany,GER,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Birgit Overzier-michels,F,Germany,GER,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Birgit Overzier-michels,F,Germany,GER,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Nicol (-bittner),F,Germany,GER,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Juliane Schenk,F,Germany,GER,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Juliane Schenk,F,Germany,GER,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Juliane Schenk,F,Germany,GER,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Juliane Schenk,F,Germany,GER,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Katrin Schmidt,F,Germany,GER,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Katrin Schmidt,F,Germany,GER,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Katrin Schmidt,F,Germany,GER,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Karin Schnaase,F,Germany,GER,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Karen (-neumann),F,Germany,GER,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Karen (-neumann),F,Germany,GER,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Kerstin Ubben,F,Germany,GER,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Kerstin Ubben,F,Germany,GER,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Kerstin Ubben,F,Germany,GER,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Huaiwen Xu,F,Germany,GER,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Huaiwen Xu,F,Germany,GER,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Isabel Herttrich,F,Germany,GER,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,False
-Yvonne Li,F,Germany,GER,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,True
-Yvonne Li,F,Germany,GER,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Johanna Goliszewski,F,Germany,GER,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Nicole Grether,F,Germany,GER,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Nicole Grether,F,Germany,GER,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Nicole Grether,F,Germany,GER,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Carla Nelte,F,Germany,GER,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Birgit Overzier-michels,F,Germany,GER,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Birgit Overzier-michels,F,Germany,GER,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Birgit Overzier-michels,F,Germany,GER,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Nicol (-bittner),F,Germany,GER,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Juliane Schenk,F,Germany,GER,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Juliane Schenk,F,Germany,GER,2004,Athina,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Juliane Schenk,F,Germany,GER,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Juliane Schenk,F,Germany,GER,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Katrin Schmidt,F,Germany,GER,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Katrin Schmidt,F,Germany,GER,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Katrin Schmidt,F,Germany,GER,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Karin Schnaase,F,Germany,GER,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Karen (-neumann),F,Germany,GER,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Karen (-neumann),F,Germany,GER,2000,Sydney,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Kerstin Ubben,F,Germany,GER,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Kerstin Ubben,F,Germany,GER,1992,Barcelona,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Kerstin Ubben,F,Germany,GER,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Huaiwen Xu,F,Germany,GER,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Huaiwen Xu,F,Germany,GER,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Isabel Herttrich,F,Germany,GER,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,False,True
+Yvonne Li,F,Germany,GER,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,True,True
+Yvonne Li,F,Germany,GER,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,True,False

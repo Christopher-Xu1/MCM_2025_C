@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Shrone Austin,F,Seychelles,SEY,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Shrone Austin,F,Seychelles,SEY,2008,Beijing,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Aurelie Fanchette,F,Seychelles,SEY,2012,London,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False
-Alexus Laird,F,Seychelles,SEY,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Elke Talma,F,Seychelles,SEY,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Elke Talma,F,Seychelles,SEY,1992,Barcelona,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Elke Talma,F,Seychelles,SEY,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Felicity Passon,F,Seychelles,SEY,2020,Tokyo,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,True
-Felicity Passon,F,Seychelles,SEY,2020,Tokyo,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,True
-Khema Elizabeth,F,Seychelles,SEY,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Shrone Austin,F,Seychelles,SEY,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Shrone Austin,F,Seychelles,SEY,2008,Beijing,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,False
+Aurelie Fanchette,F,Seychelles,SEY,2012,London,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Alexus Laird,F,Seychelles,SEY,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Elke Talma,F,Seychelles,SEY,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Elke Talma,F,Seychelles,SEY,1992,Barcelona,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Elke Talma,F,Seychelles,SEY,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Felicity Passon,F,Seychelles,SEY,2020,Tokyo,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,True,True
+Felicity Passon,F,Seychelles,SEY,2020,Tokyo,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,True,True
+Khema Elizabeth,F,Seychelles,SEY,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True

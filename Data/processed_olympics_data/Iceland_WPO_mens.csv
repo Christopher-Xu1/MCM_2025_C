@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jn Gumundsson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-rur Gumundsson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Jnas Halldrsson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-orsteinn Hjlmarsson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Jn Jnsson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Stefn Jnsson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Magns Plsson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-lfar Rarson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jn Gumundsson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+rur Gumundsson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Jnas Halldrsson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+orsteinn Hjlmarsson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Jn Jnsson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Stefn Jnsson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Magns Plsson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+lfar Rarson,M,Iceland,ISL,1936,Berlin,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True

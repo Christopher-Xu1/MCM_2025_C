@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Michaela Brunngraber,F,Austria,AUT,2000,Sydney,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,False
-Hilde Dobiasch,F,Austria,AUT,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Johanna Hack,F,Austria,AUT,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Brbel Jungmeier,F,Austria,AUT,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Tanja Klein,F,Austria,AUT,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Tanja Klein,F,Austria,AUT,1996,Atlanta,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True
-Tanja Klein,F,Austria,AUT,1996,Atlanta,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True
-Elisabeth Osl,F,Austria,AUT,2008,Beijing,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Elisabeth Osl,F,Austria,AUT,2012,London,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Martina Ritter,F,Austria,AUT,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Monika Schachl,F,Austria,AUT,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Christiane (-richter),F,Austria,AUT,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Christiane (-richter),F,Austria,AUT,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Christiane (-richter),F,Austria,AUT,2008,Beijing,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Michaela Brunngraber,F,Austria,AUT,2000,Sydney,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,False,True
+Hilde Dobiasch,F,Austria,AUT,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Johanna Hack,F,Austria,AUT,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Brbel Jungmeier,F,Austria,AUT,2004,Athina,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Tanja Klein,F,Austria,AUT,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Tanja Klein,F,Austria,AUT,1996,Atlanta,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True,True
+Tanja Klein,F,Austria,AUT,1996,Atlanta,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True,True
+Elisabeth Osl,F,Austria,AUT,2008,Beijing,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,True
+Elisabeth Osl,F,Austria,AUT,2012,London,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,False
+Martina Ritter,F,Austria,AUT,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Monika Schachl,F,Austria,AUT,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Christiane (-richter),F,Austria,AUT,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Christiane (-richter),F,Austria,AUT,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False
+Christiane (-richter),F,Austria,AUT,2008,Beijing,Cycling,Cycling Women's Individual Time Trial,No medal,Cycling,CTR,True,False

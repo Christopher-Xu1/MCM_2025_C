@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vule Avdalovi,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Miroslav Beri,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False
-Dejan Bodiroga,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True
-Dejan Bodiroga,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Dejan Bodiroga,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Predrag Danilovi,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True
-Predrag Danilovi,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Vlade Divac,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False
-Aleksander Orevi,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False
-Predrag Drobnjak,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Predrag Drobnjak,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Nikola Jestratijevi,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Nenad Krsti,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Nikola Lonar,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False
-Dragan Lukovski,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Saa Obradovi,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True
-Saa Obradovi,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-uro Ostoji,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-arko Paspalj,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False
-Aleksandar Pavlovi,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Petar Popovi,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Vladimir Radmanovi,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Igor Rakoevi,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Igor Rakoevi,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-eljko Rebraa,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True
-eljko Rebraa,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Zoran Savi,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False
-Vlado Epanovi,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Vlado Epanovi,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Predrag Stojakovi,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Dragan Tarla,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Dejan Tomaevi,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True
-Dejan Tomaevi,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Dejan Tomaevi,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True
-Milenko Topi,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False
-Milo Vujani,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vule Avdalovi,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Miroslav Beri,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False,True
+Dejan Bodiroga,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True,True
+Dejan Bodiroga,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Dejan Bodiroga,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Predrag Danilovi,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True,True
+Predrag Danilovi,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Vlade Divac,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False,True
+Aleksander Orevi,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False,True
+Predrag Drobnjak,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Predrag Drobnjak,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Nikola Jestratijevi,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Nenad Krsti,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Nikola Lonar,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False,True
+Dragan Lukovski,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Saa Obradovi,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True,True
+Saa Obradovi,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+uro Ostoji,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+arko Paspalj,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False,True
+Aleksandar Pavlovi,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Petar Popovi,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Vladimir Radmanovi,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Igor Rakoevi,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Igor Rakoevi,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+eljko Rebraa,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True,True
+eljko Rebraa,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Zoran Savi,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False,True
+Vlado Epanovi,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,True
+Vlado Epanovi,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Predrag Stojakovi,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Dragan Tarla,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Dejan Tomaevi,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,True,True
+Dejan Tomaevi,M,Serbia And Montenegro,SCG,2000,Sydney,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Dejan Tomaevi,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,True,False
+Milenko Topi,M,Serbia And Montenegro,SCG,1996,Atlanta,Basketball,Basketball Men's Basketball,Silver,Basketball,BKB,False,True
+Milo Vujani,M,Serbia And Montenegro,SCG,2004,Athina,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True

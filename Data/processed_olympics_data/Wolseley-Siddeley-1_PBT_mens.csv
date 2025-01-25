@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-George Atkinson,M,Wolseley-Siddeley-1,GBR,1908,London,Motorboating,Motorboating Mixed A-Class (Open),No medal,Motorboating,PBT,False
-Winchester Clowes,M,Wolseley-Siddeley-1,GBR,1908,London,Motorboating,Motorboating Mixed A-Class (Open),No medal,Motorboating,PBT,False
-Joseph Laycock,M,Wolseley-Siddeley-1,GBR,1908,London,Motorboating,Motorboating Mixed A-Class (Open),No medal,Motorboating,PBT,False
-Hugh Grosvenor,M,Wolseley-Siddeley-1,GBR,1908,London,Motorboating,Motorboating Mixed A-Class (Open),No medal,Motorboating,PBT,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+George Atkinson,M,Wolseley-Siddeley-1,GBR,1908,London,Motorboating,Motorboating Mixed A-Class (Open),No medal,Motorboating,PBT,False,True
+Winchester Clowes,M,Wolseley-Siddeley-1,GBR,1908,London,Motorboating,Motorboating Mixed A-Class (Open),No medal,Motorboating,PBT,False,True
+Joseph Laycock,M,Wolseley-Siddeley-1,GBR,1908,London,Motorboating,Motorboating Mixed A-Class (Open),No medal,Motorboating,PBT,False,True
+Hugh Grosvenor,M,Wolseley-Siddeley-1,GBR,1908,London,Motorboating,Motorboating Mixed A-Class (Open),No medal,Motorboating,PBT,False,True

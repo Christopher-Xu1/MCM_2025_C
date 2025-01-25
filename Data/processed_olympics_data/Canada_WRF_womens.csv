@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ohenewa Akuffo,F,Canada,CAN,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Lyndsay Belisle,F,Canada,CAN,2004,Athina,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Leah (-ferguson),F,Canada,CAN,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Martine Dugrenier,F,Canada,CAN,2008,Beijing,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Martine Dugrenier,F,Canada,CAN,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Michelle Fazzari,F,Canada,CAN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Jillian Gallays,F,Canada,CAN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Carol Huynh,F,Canada,CAN,2008,Beijing,Wrestling,"Wrestling Women's Flyweight, Freestyle",Gold,Wrestling,WRF,True
-Carol Huynh,F,Canada,CAN,2012,London,Wrestling,"Wrestling Women's Flyweight, Freestyle",Bronze,Wrestling,WRF,True
-Danielle Lappage,F,Canada,CAN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Jasmine Mian,F,Canada,CAN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Christine (-vierling),F,Canada,CAN,2004,Athina,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Tonya Verbeek,F,Canada,CAN,2004,Athina,Wrestling,"Wrestling Women's Lightweight, Freestyle",Silver,Wrestling,WRF,True
-Tonya Verbeek,F,Canada,CAN,2008,Beijing,Wrestling,"Wrestling Women's Lightweight, Freestyle",Bronze,Wrestling,WRF,True
-Tonya Verbeek,F,Canada,CAN,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",Silver,Wrestling,WRF,True
-Erica Wiebe,F,Canada,CAN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",Gold,Wrestling,WRF,False
-Viola Yanik,F,Canada,CAN,2004,Athina,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Dorothy Yeats,F,Canada,CAN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Suzanne Lappage,F,Canada,CAN,2020,Tokyo,Wrestling,Women's Freestyle 68kg,No medal,Women's,WRF,False
-Elizabeth Wiebe,F,Canada,CAN,2020,Tokyo,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,False
-di Renay,F,Canada,CAN,2024,Paris,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,False
-Paula Godinez,F,Canada,CAN,2024,Paris,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,False
-Linda Morais,F,Canada,CAN,2024,Paris,Wrestling,Women's Freestyle 68kg,No medal,Women's,WRF,False
-Fay Taylor,F,Canada,CAN,2024,Paris,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ohenewa Akuffo,F,Canada,CAN,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Lyndsay Belisle,F,Canada,CAN,2004,Athina,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Leah (-ferguson),F,Canada,CAN,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Martine Dugrenier,F,Canada,CAN,2008,Beijing,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True,True
+Martine Dugrenier,F,Canada,CAN,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Michelle Fazzari,F,Canada,CAN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Jillian Gallays,F,Canada,CAN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Carol Huynh,F,Canada,CAN,2008,Beijing,Wrestling,"Wrestling Women's Flyweight, Freestyle",Gold,Wrestling,WRF,True,True
+Carol Huynh,F,Canada,CAN,2012,London,Wrestling,"Wrestling Women's Flyweight, Freestyle",Bronze,Wrestling,WRF,True,False
+Danielle Lappage,F,Canada,CAN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Jasmine Mian,F,Canada,CAN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Christine (-vierling),F,Canada,CAN,2004,Athina,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Tonya Verbeek,F,Canada,CAN,2004,Athina,Wrestling,"Wrestling Women's Lightweight, Freestyle",Silver,Wrestling,WRF,True,True
+Tonya Verbeek,F,Canada,CAN,2008,Beijing,Wrestling,"Wrestling Women's Lightweight, Freestyle",Bronze,Wrestling,WRF,True,False
+Tonya Verbeek,F,Canada,CAN,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",Silver,Wrestling,WRF,True,False
+Erica Wiebe,F,Canada,CAN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",Gold,Wrestling,WRF,False,True
+Viola Yanik,F,Canada,CAN,2004,Athina,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Dorothy Yeats,F,Canada,CAN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Suzanne Lappage,F,Canada,CAN,2020,Tokyo,Wrestling,Women's Freestyle 68kg,No medal,Women's,WRF,False,True
+Elizabeth Wiebe,F,Canada,CAN,2020,Tokyo,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,False,True
+di Renay,F,Canada,CAN,2024,Paris,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,False,True
+Paula Godinez,F,Canada,CAN,2024,Paris,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,False,True
+Linda Morais,F,Canada,CAN,2024,Paris,Wrestling,Women's Freestyle 68kg,No medal,Women's,WRF,False,True
+Fay Taylor,F,Canada,CAN,2024,Paris,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,False,True

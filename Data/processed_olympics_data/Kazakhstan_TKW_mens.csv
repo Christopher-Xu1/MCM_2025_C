@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Arman Chilmanov,M,Kazakhstan,KAZ,2008,Beijing,Taekwondo,Taekwondo Men's Heavyweight,Bronze,Taekwondo,TKW,False
-Nursultan Mamayev,M,Kazakhstan,KAZ,2012,London,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Adilkhan Sagindykov,M,Kazakhstan,KAZ,2004,Athina,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False
-Ruslan Zhaparov,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,True
-Ruslan Zhaparov,M,Kazakhstan,KAZ,2020,Tokyo,Taekwondo,Men +80kg,No medal,Men,TKW,True
-Batyrkhan Toleugali,M,Kazakhstan,KAZ,2024,Paris,Taekwondo,Men -80kg,No medal,Men,TKW,False
-Samirkhon Ababakirov,M,Kazakhstan,KAZ,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Arman Chilmanov,M,Kazakhstan,KAZ,2008,Beijing,Taekwondo,Taekwondo Men's Heavyweight,Bronze,Taekwondo,TKW,False,True
+Nursultan Mamayev,M,Kazakhstan,KAZ,2012,London,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Adilkhan Sagindykov,M,Kazakhstan,KAZ,2004,Athina,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False,True
+Ruslan Zhaparov,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,True,True
+Ruslan Zhaparov,M,Kazakhstan,KAZ,2020,Tokyo,Taekwondo,Men +80kg,No medal,Men,TKW,True,False
+Batyrkhan Toleugali,M,Kazakhstan,KAZ,2024,Paris,Taekwondo,Men -80kg,No medal,Men,TKW,False,True
+Samirkhon Ababakirov,M,Kazakhstan,KAZ,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,False,True

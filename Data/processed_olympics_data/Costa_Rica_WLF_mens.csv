@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rodolfo Vargas,M,Costa Rica,CRC,1968,Mexico City,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Rafael Mendez,M,Costa Rica,CRC,1988,Seoul,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Joaquin Duran,M,Costa Rica,CRC,1968,Mexico City,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Luis Retana,M,Costa Rica,CRC,1968,Mexico City,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rodolfo Vargas,M,Costa Rica,CRC,1968,Mexico City,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Rafael Mendez,M,Costa Rica,CRC,1988,Seoul,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Joaquin Duran,M,Costa Rica,CRC,1968,Mexico City,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Luis Retana,M,Costa Rica,CRC,1968,Mexico City,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True

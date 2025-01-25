@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nicole Hayes,F,Palau,PLW,2000,Sydney,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Keesha Keane,F,Palau,PLW,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Dirngulbai Misech,F,Palau,PLW,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Evelyn Otto,F,Palau,PLW,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Amber Yobech,F,Palau,PLW,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Osisang Chilton,F,Palau,PLW,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
-Yuri Hosei,F,Palau,PLW,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nicole Hayes,F,Palau,PLW,2000,Sydney,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Keesha Keane,F,Palau,PLW,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Dirngulbai Misech,F,Palau,PLW,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Evelyn Otto,F,Palau,PLW,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Amber Yobech,F,Palau,PLW,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Osisang Chilton,F,Palau,PLW,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True
+Yuri Hosei,F,Palau,PLW,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True

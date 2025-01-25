@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yvonne (-boppe),F,France/Great Britain,FRA,1900,Paris,Tennis,Tennis Mixed Doubles,Silver,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yvonne (-boppe),F,France/Great Britain,FRA,1900,Paris,Tennis,Tennis Mixed Doubles,Silver,Tennis,TEN,False,True

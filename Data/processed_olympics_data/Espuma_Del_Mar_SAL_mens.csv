@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Daniel Octavio,M,Espuma Del Mar,VEN,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Daniel Octavio,M,Espuma Del Mar,VEN,1964,Tokyo,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Pedro Guanche,M,Espuma Del Mar,VEN,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Juan Szanto,M,Espuma Del Mar,VEN,1964,Tokyo,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Daniel Octavio,M,Espuma Del Mar,VEN,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,True
+Daniel Octavio,M,Espuma Del Mar,VEN,1964,Tokyo,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Pedro Guanche,M,Espuma Del Mar,VEN,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Juan Szanto,M,Espuma Del Mar,VEN,1964,Tokyo,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True

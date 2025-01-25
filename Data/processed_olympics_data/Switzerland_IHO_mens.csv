@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rodolphe Cuendet,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Louis Jr.,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Wilhelm Holzboer,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Marius Jaccard,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Bruno Leuzinger,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Paul Lob,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Ren Savoie,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
-Max Sillig,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rodolphe Cuendet,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Louis Jr.,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Wilhelm Holzboer,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Marius Jaccard,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Bruno Leuzinger,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Paul Lob,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Ren Savoie,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True
+Max Sillig,M,Switzerland,SUI,1920,Antwerpen,Ice Hockey,Ice Hockey Men's Ice Hockey,No medal,Ice,IHO,False,True

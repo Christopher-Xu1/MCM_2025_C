@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lino Mandujano,M,Mexico,MEX,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Lino Munoz,M,Mexico,MEX,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,False
-Ramon Garrido,M,Mexico,MEX,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lino Mandujano,M,Mexico,MEX,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Lino Munoz,M,Mexico,MEX,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,False,True
+Ramon Garrido,M,Mexico,MEX,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False,True

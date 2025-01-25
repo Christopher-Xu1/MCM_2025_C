@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Henri Cohen,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False
-Jean Backer,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False
-Victor Behr,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False
-Fernand Feyaerts,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False
-Oscar Jr.,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False
-Albert Michant,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False
-Georges Romas,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False
-Guillaume Sron,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False
-Victor Sonnemans,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False
-A. Upton,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Henri Cohen,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False,True
+Jean Backer,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False,True
+Victor Behr,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False,True
+Fernand Feyaerts,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False,True
+Oscar Jr.,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False,True
+Albert Michant,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False,True
+Georges Romas,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False,True
+Guillaume Sron,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False,True
+Victor Sonnemans,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False,True
+A. Upton,M,Brussels Swimming And Water Polo Club,BEL,1900,Paris,Water Polo,Water Polo Men's Water Polo,Silver,Water,WPO,False,True

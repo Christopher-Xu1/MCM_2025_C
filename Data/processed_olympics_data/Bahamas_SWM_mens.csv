@@ -1,36 +1,36 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elvis Burrows,M,Bahamas,BAH,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Timothy Eneas,M,Bahamas,BAH,1992,Barcelona,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Timothy Eneas,M,Bahamas,BAH,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Garvin Ferguson,M,Bahamas,BAH,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Garvin Ferguson,M,Bahamas,BAH,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Percival Knowles,M,Bahamas,BAH,1976,Montreal,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Percival Knowles,M,Bahamas,BAH,1976,Montreal,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Stephen Knowles,M,Bahamas,BAH,1976,Montreal,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Jeremy Knowles,M,Bahamas,BAH,2000,Sydney,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Jeremy Knowles,M,Bahamas,BAH,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Jeremy Knowles,M,Bahamas,BAH,2000,Sydney,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Jeremy Knowles,M,Bahamas,BAH,2004,Athina,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Jeremy Knowles,M,Bahamas,BAH,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Jeremy Knowles,M,Bahamas,BAH,2004,Athina,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Jeremy Knowles,M,Bahamas,BAH,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Jeremy Knowles,M,Bahamas,BAH,2008,Beijing,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Jeremy Knowles,M,Bahamas,BAH,2008,Beijing,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-David Morley,M,Bahamas,BAH,1984,Los Angeles,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-David Morley,M,Bahamas,BAH,1984,Los Angeles,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-David Morley,M,Bahamas,BAH,1984,Los Angeles,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Allan Murray,M,Bahamas,BAH,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Allan Murray,M,Bahamas,BAH,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Allan Murray,M,Bahamas,BAH,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Allan Murray,M,Bahamas,BAH,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Christopher Murray,M,Bahamas,BAH,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-D. Nottage,M,Bahamas,BAH,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-D. Nottage,M,Bahamas,BAH,1984,Los Angeles,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-D. Nottage,M,Bahamas,BAH,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Nicholas Rees,M,Bahamas,BAH,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Nicholas Rees,M,Bahamas,BAH,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Dustin Tynes,M,Bahamas,BAH,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Christopher Vythoulkas,M,Bahamas,BAH,2004,Athina,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Izaak Bastian,M,Bahamas,BAH,2020,Tokyo,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,True
-Izaak Bastian,M,Bahamas,BAH,2020,Tokyo,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True
-Lamar Taylor,M,Bahamas,BAH,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elvis Burrows,M,Bahamas,BAH,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Timothy Eneas,M,Bahamas,BAH,1992,Barcelona,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Timothy Eneas,M,Bahamas,BAH,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Garvin Ferguson,M,Bahamas,BAH,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Garvin Ferguson,M,Bahamas,BAH,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Percival Knowles,M,Bahamas,BAH,1976,Montreal,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Percival Knowles,M,Bahamas,BAH,1976,Montreal,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Stephen Knowles,M,Bahamas,BAH,1976,Montreal,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Jeremy Knowles,M,Bahamas,BAH,2000,Sydney,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Jeremy Knowles,M,Bahamas,BAH,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Jeremy Knowles,M,Bahamas,BAH,2000,Sydney,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Jeremy Knowles,M,Bahamas,BAH,2004,Athina,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,False
+Jeremy Knowles,M,Bahamas,BAH,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Jeremy Knowles,M,Bahamas,BAH,2004,Athina,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,False
+Jeremy Knowles,M,Bahamas,BAH,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Jeremy Knowles,M,Bahamas,BAH,2008,Beijing,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,False
+Jeremy Knowles,M,Bahamas,BAH,2008,Beijing,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+David Morley,M,Bahamas,BAH,1984,Los Angeles,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+David Morley,M,Bahamas,BAH,1984,Los Angeles,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+David Morley,M,Bahamas,BAH,1984,Los Angeles,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Allan Murray,M,Bahamas,BAH,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Allan Murray,M,Bahamas,BAH,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Allan Murray,M,Bahamas,BAH,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Allan Murray,M,Bahamas,BAH,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Christopher Murray,M,Bahamas,BAH,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+D. Nottage,M,Bahamas,BAH,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+D. Nottage,M,Bahamas,BAH,1984,Los Angeles,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+D. Nottage,M,Bahamas,BAH,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Nicholas Rees,M,Bahamas,BAH,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Nicholas Rees,M,Bahamas,BAH,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Dustin Tynes,M,Bahamas,BAH,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Christopher Vythoulkas,M,Bahamas,BAH,2004,Athina,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Izaak Bastian,M,Bahamas,BAH,2020,Tokyo,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,True,True
+Izaak Bastian,M,Bahamas,BAH,2020,Tokyo,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True,True
+Lamar Taylor,M,Bahamas,BAH,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True

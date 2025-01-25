@@ -1,35 +1,35 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Olivia Allison-federici,F,United Kingdom,GBR,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Olivia Allison-federici,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Olivia Allison-federici,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Olivia Allison-federici,F,United Kingdom,GBR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Yvette Baker,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Katie Clark,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Katie Clark,F,United Kingdom,GBR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Katrina Dawkins,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Amanda Dodd,F,United Kingdom,GBR,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False
-Lian Goodwin,F,United Kingdom,GBR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Lian Goodwin,F,United Kingdom,GBR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Natasha Haynes,F,United Kingdom,GBR,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False
-Caroline Holmyard,F,United Kingdom,GBR,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Caroline Holmyard,F,United Kingdom,GBR,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Jennifer Knobbs,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Victoria Lucass,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Asha Randall,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Jenna Randall,F,United Kingdom,GBR,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Jenna Randall,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Jenna Randall,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Joanne Seeburg,F,United Kingdom,GBR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False
-Kerry Shacklock,F,United Kingdom,GBR,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Kerry Shacklock,F,United Kingdom,GBR,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Nicola Shearn,F,United Kingdom,GBR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Nicola Shearn,F,United Kingdom,GBR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Katherine Skelton,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Laila Vakil,F,United Kingdom,GBR,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Laila Vakil,F,United Kingdom,GBR,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Carolyn Macdonald),F,United Kingdom,GBR,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Carolyn Macdonald),F,United Kingdom,GBR,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Kate Shortman,F,United Kingdom,GBR,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True
-Isabelle Thorpe,F,United Kingdom,GBR,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True
-Kate Shortman,F,United Kingdom,GBR,2024,Paris,Artistic Swimming,Duet,Silver,Duet,SWA,True
-Isabelle Thorpe,F,United Kingdom,GBR,2024,Paris,Artistic Swimming,Duet,Silver,Duet,SWA,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Olivia Allison-federici,F,United Kingdom,GBR,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Olivia Allison-federici,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Olivia Allison-federici,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,False
+Olivia Allison-federici,F,United Kingdom,GBR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Yvette Baker,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Katie Clark,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,True
+Katie Clark,F,United Kingdom,GBR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Katrina Dawkins,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Amanda Dodd,F,United Kingdom,GBR,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False,True
+Lian Goodwin,F,United Kingdom,GBR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Lian Goodwin,F,United Kingdom,GBR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Natasha Haynes,F,United Kingdom,GBR,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False,True
+Caroline Holmyard,F,United Kingdom,GBR,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Caroline Holmyard,F,United Kingdom,GBR,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Jennifer Knobbs,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Victoria Lucass,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Asha Randall,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Jenna Randall,F,United Kingdom,GBR,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Jenna Randall,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Jenna Randall,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,False
+Joanne Seeburg,F,United Kingdom,GBR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False,True
+Kerry Shacklock,F,United Kingdom,GBR,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Kerry Shacklock,F,United Kingdom,GBR,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Nicola Shearn,F,United Kingdom,GBR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Nicola Shearn,F,United Kingdom,GBR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Katherine Skelton,F,United Kingdom,GBR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Laila Vakil,F,United Kingdom,GBR,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Laila Vakil,F,United Kingdom,GBR,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Carolyn Macdonald),F,United Kingdom,GBR,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Carolyn Macdonald),F,United Kingdom,GBR,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Kate Shortman,F,United Kingdom,GBR,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True,True
+Isabelle Thorpe,F,United Kingdom,GBR,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True,True
+Kate Shortman,F,United Kingdom,GBR,2024,Paris,Artistic Swimming,Duet,Silver,Duet,SWA,True,False
+Isabelle Thorpe,F,United Kingdom,GBR,2024,Paris,Artistic Swimming,Duet,Silver,Duet,SWA,True,False

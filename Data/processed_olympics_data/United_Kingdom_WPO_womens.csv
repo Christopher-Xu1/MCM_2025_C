@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Francesca Clayton,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Lisa Gibson,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Ciara Byrne,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Rebecca Kershaw,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Frances Leighton,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Fiona Mccann,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Rosemary Morris,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Hazel Musgrove,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Robyn Nicholls,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Francesca Painter-snell,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Alexandra Rutlidge,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Chloe Wilcox,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Angela Winstanley-smith,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Francesca Clayton,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Lisa Gibson,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Ciara Byrne,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Rebecca Kershaw,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Frances Leighton,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Fiona Mccann,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Rosemary Morris,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Hazel Musgrove,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Robyn Nicholls,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Francesca Painter-snell,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Alexandra Rutlidge,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Chloe Wilcox,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Angela Winstanley-smith,F,United Kingdom,GBR,2012,London,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True

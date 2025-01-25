@@ -1,31 +1,31 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Choi Gwi-seung,M,South Korea,KOR,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Gang Gyeong-hyo,M,South Korea,KOR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Gang Gyeong-hyo,M,South Korea,KOR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Gang Gyeong-hyo,M,South Korea,KOR,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Gang Gyeong-hyo,M,South Korea,KOR,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Han Do-ryeong,M,South Korea,KOR,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Hwang Wu-jin,M,South Korea,KOR,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Jeong Gyeong-hun,M,South Korea,KOR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jeong Gyeong-hun,M,South Korea,KOR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Jeong Jin-hwa,M,South Korea,KOR,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jeong Jin-hwa,M,South Korea,KOR,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jun Woong-tae,M,South Korea,KOR,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Kim Il,M,South Korea,KOR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Kim Il,M,South Korea,KOR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Kim In-ho,M,South Korea,KOR,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Kim In-ho,M,South Korea,KOR,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Kim Mi-seop,M,South Korea,KOR,1996,Atlanta,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Kim Myeong-geon,M,South Korea,KOR,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Kim Myeong-geon,M,South Korea,KOR,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Kim Myeong-geon,M,South Korea,KOR,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Kim Myeong-geon,M,South Korea,KOR,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Kim Seong-ho,M,South Korea,KOR,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Kim Seong-ho,M,South Korea,KOR,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Lee Chun-heon,M,South Korea,KOR,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Lee Chun-heon,M,South Korea,KOR,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Lee Yeong-chan,M,South Korea,KOR,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Lee Yeong-chan,M,South Korea,KOR,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Nam Dong-hong,M,South Korea,KOR,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Woongtae Jun,M,South Korea,KOR,2020,Tokyo,Modern Pentathlon,Men's Individual,Bronze,Men's,MPN,False
-Jinhwa Jung,M,South Korea,KOR,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Choi Gwi-seung,M,South Korea,KOR,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Gang Gyeong-hyo,M,South Korea,KOR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Gang Gyeong-hyo,M,South Korea,KOR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Gang Gyeong-hyo,M,South Korea,KOR,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Gang Gyeong-hyo,M,South Korea,KOR,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Han Do-ryeong,M,South Korea,KOR,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Hwang Wu-jin,M,South Korea,KOR,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Jeong Gyeong-hun,M,South Korea,KOR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Jeong Gyeong-hun,M,South Korea,KOR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Jeong Jin-hwa,M,South Korea,KOR,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Jeong Jin-hwa,M,South Korea,KOR,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Jun Woong-tae,M,South Korea,KOR,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Kim Il,M,South Korea,KOR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Kim Il,M,South Korea,KOR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Kim In-ho,M,South Korea,KOR,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Kim In-ho,M,South Korea,KOR,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Kim Mi-seop,M,South Korea,KOR,1996,Atlanta,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Kim Myeong-geon,M,South Korea,KOR,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Kim Myeong-geon,M,South Korea,KOR,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Kim Myeong-geon,M,South Korea,KOR,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Kim Myeong-geon,M,South Korea,KOR,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Kim Seong-ho,M,South Korea,KOR,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Kim Seong-ho,M,South Korea,KOR,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Lee Chun-heon,M,South Korea,KOR,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Lee Chun-heon,M,South Korea,KOR,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Lee Yeong-chan,M,South Korea,KOR,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Lee Yeong-chan,M,South Korea,KOR,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Nam Dong-hong,M,South Korea,KOR,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Woongtae Jun,M,South Korea,KOR,2020,Tokyo,Modern Pentathlon,Men's Individual,Bronze,Men's,MPN,False,True
+Jinhwa Jung,M,South Korea,KOR,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False,True

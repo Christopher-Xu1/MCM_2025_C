@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cludia Chabalgoity,F,Brazil,BRA,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Joana Santos,F,Brazil,BRA,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Miriam D'agostini,F,Brazil,BRA,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Paula Gonalves,F,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Vanessa Menga,F,Brazil,BRA,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Vanessa Menga,F,Brazil,BRA,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Gisele Mir,F,Brazil,BRA,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Teliana Pereira,F,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Teliana Pereira,F,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Teliana Pereira,F,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Andrea (-arnold),F,Brazil,BRA,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Andrea (-arnold),F,Brazil,BRA,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Laura Pigossi,F,Brazil,BRA,2020,Tokyo,Tennis,Women's Doubles Team,Bronze,Women's,TEN,True
-Luisa Stefani,F,Brazil,BRA,2020,Tokyo,Tennis,Women's Doubles Team,Bronze,Women's,TEN,True
-Luisa Stefani,F,Brazil,BRA,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,Mixed,TEN,True
-Beatriz Haddad,F,Brazil,BRA,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Beatriz Haddad,F,Brazil,BRA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
-Laura Pigossi,F,Brazil,BRA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
-Luisa Stefani,F,Brazil,BRA,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Luisa Stefani,F,Brazil,BRA,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cludia Chabalgoity,F,Brazil,BRA,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Joana Santos,F,Brazil,BRA,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Miriam D'agostini,F,Brazil,BRA,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Paula Gonalves,F,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Vanessa Menga,F,Brazil,BRA,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Vanessa Menga,F,Brazil,BRA,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Gisele Mir,F,Brazil,BRA,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Teliana Pereira,F,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Teliana Pereira,F,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Teliana Pereira,F,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Andrea (-arnold),F,Brazil,BRA,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Andrea (-arnold),F,Brazil,BRA,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Laura Pigossi,F,Brazil,BRA,2020,Tokyo,Tennis,Women's Doubles Team,Bronze,Women's,TEN,True,True
+Luisa Stefani,F,Brazil,BRA,2020,Tokyo,Tennis,Women's Doubles Team,Bronze,Women's,TEN,True,True
+Luisa Stefani,F,Brazil,BRA,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,Mixed,TEN,True,True
+Beatriz Haddad,F,Brazil,BRA,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,True
+Beatriz Haddad,F,Brazil,BRA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Laura Pigossi,F,Brazil,BRA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True,False
+Luisa Stefani,F,Brazil,BRA,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,False
+Luisa Stefani,F,Brazil,BRA,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True,False

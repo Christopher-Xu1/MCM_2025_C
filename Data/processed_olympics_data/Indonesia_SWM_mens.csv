@@ -1,41 +1,41 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Richard Bera,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Richard Bera,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Richard Bera,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Richard Bera,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Richard Bera,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Richard Bera,M,Indonesia,INA,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Richard Bera,M,Indonesia,INA,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Richard Bera,M,Indonesia,INA,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Richard Bera,M,Indonesia,INA,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Steven Chandra,M,Indonesia,INA,2000,Sydney,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,False
-Achmad Dimyati,M,Indonesia,INA,1960,Roma,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Habib Nasution,M,Indonesia,INA,1956,Melbourne,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Habib Nasution,M,Indonesia,INA,1956,Melbourne,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Muhammad Nasution,M,Indonesia,INA,2000,Sydney,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Zakaria Nasution,M,Indonesia,INA,1960,Roma,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Zakaria Nasution,M,Indonesia,INA,1960,Roma,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Lukman Niode,M,Indonesia,INA,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Lukman Niode,M,Indonesia,INA,1984,Los Angeles,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Lukman Niode,M,Indonesia,INA,1984,Los Angeles,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-I Sudartawa,M,Indonesia,INA,2012,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Wirmandi Sugriat,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Wirmandi Sugriat,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Wirmandi Sugriat,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Wirmandi Sugriat,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Habib Suharko,M,Indonesia,INA,1952,Helsinki,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Kristiono Sumono,M,Indonesia,INA,1976,Montreal,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Kristiono Sumono,M,Indonesia,INA,1976,Montreal,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Kristiono Sumono,M,Indonesia,INA,1976,Montreal,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Kristiono Sumono,M,Indonesia,INA,1976,Montreal,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Albert Sutanto,M,Indonesia,INA,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Albert Sutanto,M,Indonesia,INA,2000,Sydney,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Albert Sutanto,M,Indonesia,INA,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Felix Sutanto,M,Indonesia,INA,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,False
-Glenn Sutanto,M,Indonesia,INA,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Donny Utomo,M,Indonesia,INA,2004,Athina,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Donny Utomo,M,Indonesia,INA,2008,Beijing,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Andi Wibowo,M,Indonesia,INA,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Aflah Prawira,M,Indonesia,INA,2020,Tokyo,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,True
-Aflah Prawira,M,Indonesia,INA,2020,Tokyo,Swimming,Men's 1500m Freestyle,No medal,Men's,SWM,True
-Joe Kurniawan,M,Indonesia,INA,2024,Paris,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Richard Bera,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Richard Bera,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Richard Bera,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Richard Bera,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Richard Bera,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Richard Bera,M,Indonesia,INA,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Richard Bera,M,Indonesia,INA,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Richard Bera,M,Indonesia,INA,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Richard Bera,M,Indonesia,INA,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Steven Chandra,M,Indonesia,INA,2000,Sydney,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,False,True
+Achmad Dimyati,M,Indonesia,INA,1960,Roma,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Habib Nasution,M,Indonesia,INA,1956,Melbourne,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Habib Nasution,M,Indonesia,INA,1956,Melbourne,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Muhammad Nasution,M,Indonesia,INA,2000,Sydney,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Zakaria Nasution,M,Indonesia,INA,1960,Roma,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Zakaria Nasution,M,Indonesia,INA,1960,Roma,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Lukman Niode,M,Indonesia,INA,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Lukman Niode,M,Indonesia,INA,1984,Los Angeles,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Lukman Niode,M,Indonesia,INA,1984,Los Angeles,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+I Sudartawa,M,Indonesia,INA,2012,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Wirmandi Sugriat,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Wirmandi Sugriat,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Wirmandi Sugriat,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Wirmandi Sugriat,M,Indonesia,INA,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Habib Suharko,M,Indonesia,INA,1952,Helsinki,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Kristiono Sumono,M,Indonesia,INA,1976,Montreal,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Kristiono Sumono,M,Indonesia,INA,1976,Montreal,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Kristiono Sumono,M,Indonesia,INA,1976,Montreal,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Kristiono Sumono,M,Indonesia,INA,1976,Montreal,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Albert Sutanto,M,Indonesia,INA,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Albert Sutanto,M,Indonesia,INA,2000,Sydney,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Albert Sutanto,M,Indonesia,INA,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Felix Sutanto,M,Indonesia,INA,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,False,True
+Glenn Sutanto,M,Indonesia,INA,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Donny Utomo,M,Indonesia,INA,2004,Athina,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Donny Utomo,M,Indonesia,INA,2008,Beijing,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,False
+Andi Wibowo,M,Indonesia,INA,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Aflah Prawira,M,Indonesia,INA,2020,Tokyo,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,True,True
+Aflah Prawira,M,Indonesia,INA,2020,Tokyo,Swimming,Men's 1500m Freestyle,No medal,Men's,SWM,True,True
+Joe Kurniawan,M,Indonesia,INA,2024,Paris,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False,True

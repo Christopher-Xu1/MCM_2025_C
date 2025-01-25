@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Paola Daz,F,Colombia,COL,2004,Athina,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,False
-Gladys Romero,F,Colombia,COL,2004,Athina,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,True
-Gladys Romero,F,Colombia,COL,2008,Beijing,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,True
-Doris Marn,F,Colombia,COL,2008,Beijing,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True
-Doris Marn,F,Colombia,COL,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True
-Andrea Ramirez,F,Colombia,COL,2020,Tokyo,Taekwondo,Women -49kg,No medal,Women,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Paola Daz,F,Colombia,COL,2004,Athina,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,False,True
+Gladys Romero,F,Colombia,COL,2004,Athina,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,True,True
+Gladys Romero,F,Colombia,COL,2008,Beijing,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,True,False
+Doris Marn,F,Colombia,COL,2008,Beijing,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True,True
+Doris Marn,F,Colombia,COL,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True,False
+Andrea Ramirez,F,Colombia,COL,2020,Tokyo,Taekwondo,Women -49kg,No medal,Women,TKW,False,True

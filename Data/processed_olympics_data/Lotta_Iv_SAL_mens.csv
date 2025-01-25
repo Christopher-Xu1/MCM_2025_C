@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Brje Carlsson,M,Lotta Iv,SWE,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-John Engkvist,M,Lotta Iv,SWE,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Bengt Melin,M,Lotta Iv,SWE,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Bengt Melin,M,Lotta Iv,SWE,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Brje Carlsson,M,Lotta Iv,SWE,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+John Engkvist,M,Lotta Iv,SWE,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Bengt Melin,M,Lotta Iv,SWE,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,True
+Bengt Melin,M,Lotta Iv,SWE,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False

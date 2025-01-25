@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sabrina Ameghino,F,Argentina,ARG,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True
-Sabrina Ameghino,F,Argentina,ARG,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Vernica Arbo,F,Argentina,ARG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False
-Estefana Fontanini,F,Argentina,ARG,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False
-Maria Garro,F,Argentina,ARG,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
-Alexandra Keresztesi,F,Argentina,ARG,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
-Mara Lauro,F,Argentina,ARG,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False
-Corina Garca,F,Argentina,ARG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False
-Mara Miliauro,F,Argentina,ARG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False
-Brenda Rojas,F,Argentina,ARG,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sabrina Ameghino,F,Argentina,ARG,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True,True
+Sabrina Ameghino,F,Argentina,ARG,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Vernica Arbo,F,Argentina,ARG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False,True
+Estefana Fontanini,F,Argentina,ARG,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False,True
+Maria Garro,F,Argentina,ARG,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True
+Alexandra Keresztesi,F,Argentina,ARG,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True
+Mara Lauro,F,Argentina,ARG,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False,True
+Corina Garca,F,Argentina,ARG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False,True
+Mara Miliauro,F,Argentina,ARG,1988,Seoul,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False,True
+Brenda Rojas,F,Argentina,ARG,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,False,True

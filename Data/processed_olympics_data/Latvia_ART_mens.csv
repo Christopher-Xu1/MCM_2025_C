@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Augusts Annuss,M,Latvia,LAT,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False
-Friedrich Baur,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,True
-Friedrich Baur,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,True
-Friedrich Baur,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,True
-Friedrich Baur,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,True
-Friedrich Baur,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Friedrich Baur,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Friedrich Baur,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Ernests Elks-elksntis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,Art Competitions Mixed Music,No medal,Art,ART,False
-Rdolfs Mazrs,M,Latvia,LAT,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,False
-Wilfried Strik-strikfeldt,M,Latvia,LAT,1936,Berlin,Art Competitions,"Art Competitions Mixed Literature, Unknown Event",No medal,Art,ART,False
-Voldemrs Vimba,M,Latvia,LAT,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False
-Konstantns Visotskis,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-Konstantns Visotskis,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-Konstantns Visotskis,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-Konstantns Visotskis,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-Konstantns Visotskis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Konstantns Visotskis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Konstantns Visotskis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Konstantns Visotskis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Konstantns Visotskis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Konstantns Visotskis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Konstantns Visotskis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True
-Konstantns Visotskis,M,Latvia,LAT,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Augusts Annuss,M,Latvia,LAT,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False,True
+Friedrich Baur,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,True,True
+Friedrich Baur,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,True,True
+Friedrich Baur,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,True,True
+Friedrich Baur,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,True,True
+Friedrich Baur,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,False
+Friedrich Baur,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,False
+Friedrich Baur,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,False
+Ernests Elks-elksntis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,Art Competitions Mixed Music,No medal,Art,ART,False,True
+Rdolfs Mazrs,M,Latvia,LAT,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",No medal,Art,ART,False,True
+Wilfried Strik-strikfeldt,M,Latvia,LAT,1936,Berlin,Art Competitions,"Art Competitions Mixed Literature, Unknown Event",No medal,Art,ART,False,True
+Voldemrs Vimba,M,Latvia,LAT,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False,True
+Konstantns Visotskis,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+Konstantns Visotskis,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+Konstantns Visotskis,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+Konstantns Visotskis,M,Latvia,LAT,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+Konstantns Visotskis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,False
+Konstantns Visotskis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,False
+Konstantns Visotskis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,False
+Konstantns Visotskis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,False
+Konstantns Visotskis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,False
+Konstantns Visotskis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,False
+Konstantns Visotskis,M,Latvia,LAT,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,True,False
+Konstantns Visotskis,M,Latvia,LAT,1936,Berlin,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,False

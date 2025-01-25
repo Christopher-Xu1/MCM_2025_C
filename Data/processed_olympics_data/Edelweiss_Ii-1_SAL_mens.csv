@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Frdric-Albert Bruynseels,M,Edelweiss Ii-1,BEL,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
-mile Cornellie,M,Edelweiss Ii-1,BEL,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
-Florimond Cornellie,M,Edelweiss Ii-1,BEL,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Frdric-Albert Bruynseels,M,Edelweiss Ii-1,BEL,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True
+mile Cornellie,M,Edelweiss Ii-1,BEL,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True
+Florimond Cornellie,M,Edelweiss Ii-1,BEL,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True

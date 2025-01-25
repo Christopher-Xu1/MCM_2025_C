@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dallas Oberholzer,M,South Africa,RSA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,True
-Brandon Valjalo,M,South Africa,RSA,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,True
-Dallas Oberholzer,M,South Africa,RSA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,True
-Brandon Valjalo,M,South Africa,RSA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dallas Oberholzer,M,South Africa,RSA,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,True,True
+Brandon Valjalo,M,South Africa,RSA,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,True,True
+Dallas Oberholzer,M,South Africa,RSA,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,True,False
+Brandon Valjalo,M,South Africa,RSA,2024,Paris,Skateboarding,Men's Street,No medal,Men's,SKB,True,False

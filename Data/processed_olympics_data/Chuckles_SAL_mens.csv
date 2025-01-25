@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jasper Blackall,M,Chuckles,GBR,1956,Melbourne,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,Sailing,SAL,False
-Terence Smith,M,Chuckles,GBR,1956,Melbourne,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jasper Blackall,M,Chuckles,GBR,1956,Melbourne,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,Sailing,SAL,False,True
+Terence Smith,M,Chuckles,GBR,1956,Melbourne,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Bronze,Sailing,SAL,False,True

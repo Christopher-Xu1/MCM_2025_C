@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Blake Gaudry,M,Australia,AUS,2012,London,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Blake Gaudry,M,Australia,AUS,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Ji Wallace,M,Australia,AUS,2000,Sydney,Trampolining,Trampolining Men's Individual,Silver,Trampolining,GTR,False
-Ben Wilden,M,Australia,AUS,2008,Beijing,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False
-Dominic Clarke,M,Australia,AUS,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,False
-Brock Batty,M,Australia,AUS,2024,Paris,Trampoline Gymnastics,Men,No medal,Men,GTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Blake Gaudry,M,Australia,AUS,2012,London,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,True
+Blake Gaudry,M,Australia,AUS,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,False
+Ji Wallace,M,Australia,AUS,2000,Sydney,Trampolining,Trampolining Men's Individual,Silver,Trampolining,GTR,False,True
+Ben Wilden,M,Australia,AUS,2008,Beijing,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False,True
+Dominic Clarke,M,Australia,AUS,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,False,True
+Brock Batty,M,Australia,AUS,2024,Paris,Trampoline Gymnastics,Men,No medal,Men,GTR,False,True

@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yariulvis Garca,F,Cuba,CUB,2012,London,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False
-Yoslaine Cedeo,F,Cuba,CUB,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Mayra Borroto,F,Cuba,CUB,2000,Sydney,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Mayra Borroto,F,Cuba,CUB,2008,Beijing,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Licet Licea,F,Cuba,CUB,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Yislena Guzmn,F,Cuba,CUB,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Ismaray Arias,F,Cuba,CUB,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Ismaray Arias,F,Cuba,CUB,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Marlenis Hernndez,F,Cuba,CUB,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Dailin Aguilar,F,Cuba,CUB,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Dailin Aguilar,F,Cuba,CUB,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Yaima Falcn,F,Cuba,CUB,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Yaima Falcn,F,Cuba,CUB,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Milena Venega,F,Cuba,CUB,2020,Tokyo,Rowing,Women's Single Sculls,No medal,Women's,ROW,False
-Yariulvis Cobas,F,Cuba,CUB,2024,Paris,Rowing,Women's Single Sculls,No medal,Women's,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yariulvis Garca,F,Cuba,CUB,2012,London,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False,True
+Yoslaine Cedeo,F,Cuba,CUB,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Mayra Borroto,F,Cuba,CUB,2000,Sydney,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,True
+Mayra Borroto,F,Cuba,CUB,2008,Beijing,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,False
+Licet Licea,F,Cuba,CUB,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Yislena Guzmn,F,Cuba,CUB,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Ismaray Arias,F,Cuba,CUB,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Ismaray Arias,F,Cuba,CUB,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Marlenis Hernndez,F,Cuba,CUB,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Dailin Aguilar,F,Cuba,CUB,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Dailin Aguilar,F,Cuba,CUB,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Yaima Falcn,F,Cuba,CUB,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Yaima Falcn,F,Cuba,CUB,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Milena Venega,F,Cuba,CUB,2020,Tokyo,Rowing,Women's Single Sculls,No medal,Women's,ROW,False,True
+Yariulvis Cobas,F,Cuba,CUB,2024,Paris,Rowing,Women's Single Sculls,No medal,Women's,ROW,False,True

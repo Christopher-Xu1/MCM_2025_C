@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Karl-Heinz Kutschke,M,East Germany,GDR,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Karl-Heinz Kutschke,M,East Germany,GDR,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Wolfgang Lderitz,M,East Germany,GDR,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Wolfgang Lderitz,M,East Germany,GDR,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Jrg Tscherner,M,East Germany,GDR,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jrg Tscherner,M,East Germany,GDR,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Karl-Heinz Kutschke,M,East Germany,GDR,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Karl-Heinz Kutschke,M,East Germany,GDR,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Wolfgang Lderitz,M,East Germany,GDR,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Wolfgang Lderitz,M,East Germany,GDR,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Jrg Tscherner,M,East Germany,GDR,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Jrg Tscherner,M,East Germany,GDR,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True

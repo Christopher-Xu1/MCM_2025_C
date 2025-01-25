@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yeongtaek Kim,M,Korea,KOR,2024,Paris,Diving,Men's 10m Platform,No medal,Men's,DIV,False
-Jungwhi Shin,M,Korea,KOR,2024,Paris,Diving,Men's 10m Platform,No medal,Men's,DIV,False
-Haram Woo,M,Korea,KOR,2024,Paris,Diving,Men's 3m Springboard,No medal,Men's,DIV,False
-Jaegyeong Yi,M,Korea,KOR,2024,Paris,Diving,Men's 3m Springboard,No medal,Men's,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yeongtaek Kim,M,Korea,KOR,2024,Paris,Diving,Men's 10m Platform,No medal,Men's,DIV,False,True
+Jungwhi Shin,M,Korea,KOR,2024,Paris,Diving,Men's 10m Platform,No medal,Men's,DIV,False,True
+Haram Woo,M,Korea,KOR,2024,Paris,Diving,Men's 3m Springboard,No medal,Men's,DIV,False,True
+Jaegyeong Yi,M,Korea,KOR,2024,Paris,Diving,Men's 3m Springboard,No medal,Men's,DIV,False,True

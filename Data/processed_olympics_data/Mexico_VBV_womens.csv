@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bibiana Ramrez,F,Mexico,MEX,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Velia Soto,F,Mexico,MEX,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Mara Mata,F,Mexico,MEX,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Mayra Lpez,F,Mexico,MEX,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Mayra Lpez,F,Mexico,MEX,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Hilda Alvrez,F,Mexico,MEX,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Hilda Alvrez,F,Mexico,MEX,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Mayra Hernndez,F,Mexico,MEX,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bibiana Ramrez,F,Mexico,MEX,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Velia Soto,F,Mexico,MEX,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Mara Mata,F,Mexico,MEX,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Mayra Lpez,F,Mexico,MEX,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,True
+Mayra Lpez,F,Mexico,MEX,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,False
+Hilda Alvrez,F,Mexico,MEX,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,True
+Hilda Alvrez,F,Mexico,MEX,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,False
+Mayra Hernndez,F,Mexico,MEX,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True

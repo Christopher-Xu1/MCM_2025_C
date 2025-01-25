@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zoran Kalini,M,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Ilija Lupulesku,M,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Ilija Lupulesku,M,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,Silver,Table,TTE,True
-Zoran Primorac,M,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Zoran Primorac,M,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,Silver,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zoran Kalini,M,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Ilija Lupulesku,M,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Ilija Lupulesku,M,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,Silver,Table,TTE,True,True
+Zoran Primorac,M,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Zoran Primorac,M,Yugoslavia,YUG,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,Silver,Table,TTE,True,True

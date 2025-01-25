@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jessica Lee,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Sprint,No medal,Women's,CTR,True
-Jessica Lee,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Keirin,No medal,Women's,CTR,True
-Sze Lee,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Sprint,Bronze,Women's,CTR,True
-Sze Lee,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Keirin,No medal,Women's,CTR,True
-Yee Leung,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Madison Team,No medal,Women's,CTR,False
-Yao Pang,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Omnium,No medal,Women's,CTR,True
-Yao Pang,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Madison Team,No medal,Women's,CTR,True
-Qianyu Yang,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Madison,No medal,Women's,CTR,False
-Wing Lee,F,"Hong Kong, China",HKG,2024,Paris,"Cycling Road, Cycling Track",Women's Road Race,No medal,Women's,CTR,True
-Wing Lee,F,"Hong Kong, China",HKG,2024,Paris,"Cycling Road, Cycling Track",Women's Omnium,No medal,Women's,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jessica Lee,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Sprint,No medal,Women's,CTR,True,True
+Jessica Lee,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Keirin,No medal,Women's,CTR,True,True
+Sze Lee,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Sprint,Bronze,Women's,CTR,True,True
+Sze Lee,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Keirin,No medal,Women's,CTR,True,True
+Yee Leung,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Madison Team,No medal,Women's,CTR,False,True
+Yao Pang,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Omnium,No medal,Women's,CTR,True,True
+Yao Pang,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Madison Team,No medal,Women's,CTR,True,True
+Qianyu Yang,F,"Hong Kong, China",HKG,2020,Tokyo,Cycling Track,Women's Madison,No medal,Women's,CTR,False,True
+Wing Lee,F,"Hong Kong, China",HKG,2024,Paris,"Cycling Road, Cycling Track",Women's Road Race,No medal,Women's,CTR,True,True
+Wing Lee,F,"Hong Kong, China",HKG,2024,Paris,"Cycling Road, Cycling Track",Women's Omnium,No medal,Women's,CTR,True,True

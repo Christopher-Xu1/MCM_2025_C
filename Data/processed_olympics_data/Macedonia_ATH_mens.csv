@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kristijan Efremov,M,Macedonia,MKD,2012,London,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Riste Pandev,M,Macedonia,MKD,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Redep Selman,M,Macedonia,MKD,2008,Beijing,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False
-Vano Stojanov,M,Macedonia,MKD,2000,Sydney,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Vano Stojanov,M,Macedonia,MKD,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kristijan Efremov,M,Macedonia,MKD,2012,London,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Riste Pandev,M,Macedonia,MKD,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Redep Selman,M,Macedonia,MKD,2008,Beijing,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False,True
+Vano Stojanov,M,Macedonia,MKD,2000,Sydney,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Vano Stojanov,M,Macedonia,MKD,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False

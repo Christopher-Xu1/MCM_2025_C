@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yelena (-kuznetsova),F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Yelena (-kuznetsova),F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
-Yelena (-kuznetsova),F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Olha (-pankratova),F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Olha (-pankratova),F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Olha (-pankratova),F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze,Swimming,SWM,True
-Svetlana (-sosnovskaya),F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,False
-Nataliya Meshcheryakova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Nataliya Meshcheryakova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
-Nataliya Meshcheryakova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze,Swimming,SWM,True
-Yelena Rudkovskaya,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,Gold,Swimming,SWM,True
-Yelena Rudkovskaya,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Yelena Rudkovskaya,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze,Swimming,SWM,True
-Yelena Shubina,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Yelena Shubina,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
-Yelena Shubina,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze,Swimming,SWM,True
-Nataliya Shybaieva,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Nataliya Shybaieva,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Yelena Volkova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Yelena Volkova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Nataliya Yakovleva,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Nataliya Yakovleva,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Yevgeniya Yermakova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Yevgeniya Yermakova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Yevgeniya Yermakova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
-Nina Ilichiova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Nina Ilichiova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Nina Ilichiova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze,Swimming,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yelena (-kuznetsova),F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Yelena (-kuznetsova),F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Yelena (-kuznetsova),F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Olha (-pankratova),F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Olha (-pankratova),F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Olha (-pankratova),F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze,Swimming,SWM,True,True
+Svetlana (-sosnovskaya),F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,False,True
+Nataliya Meshcheryakova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Nataliya Meshcheryakova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Nataliya Meshcheryakova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze,Swimming,SWM,True,True
+Yelena Rudkovskaya,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,Gold,Swimming,SWM,True,True
+Yelena Rudkovskaya,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Yelena Rudkovskaya,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze,Swimming,SWM,True,True
+Yelena Shubina,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Yelena Shubina,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Yelena Shubina,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze,Swimming,SWM,True,True
+Nataliya Shybaieva,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Nataliya Shybaieva,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Yelena Volkova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Yelena Volkova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Nataliya Yakovleva,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Nataliya Yakovleva,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Yevgeniya Yermakova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Yevgeniya Yermakova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Yevgeniya Yermakova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Nina Ilichiova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Nina Ilichiova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Nina Ilichiova,F,Unified Team,EUN,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze,Swimming,SWM,True,True

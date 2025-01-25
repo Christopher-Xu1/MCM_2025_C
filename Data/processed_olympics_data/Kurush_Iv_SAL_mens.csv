@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jorge Pl,M,Kurush Iv,CUB,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Carlos Culmell,M,Kurush Iv,CUB,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Carlos Culmell,M,Kurush Iv,CUB,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Carlos Pl,M,Kurush Iv,CUB,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jorge Pl,M,Kurush Iv,CUB,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Carlos Culmell,M,Kurush Iv,CUB,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,True
+Carlos Culmell,M,Kurush Iv,CUB,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Carlos Pl,M,Kurush Iv,CUB,1952,Helsinki,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True

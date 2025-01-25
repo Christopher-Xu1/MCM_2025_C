@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Baptiste Firiam,M,Vanuatu,VAN,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Baptiste Firiam,M,Vanuatu,VAN,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Baptiste Firiam,M,Vanuatu,VAN,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Laurence Jack,M,Vanuatu,VAN,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
-Jerome Jeremiah,M,Vanuatu,VAN,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Jerome Jeremiah,M,Vanuatu,VAN,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Tavakalo Kailes,M,Vanuatu,VAN,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Moses Kamut,M,Vanuatu,VAN,2004,Athina,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Moses Kamut,M,Vanuatu,VAN,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Tawai Keiruan,M,Vanuatu,VAN,1992,Barcelona,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Tawai Keiruan,M,Vanuatu,VAN,1996,Atlanta,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Abraham Kalpumu,M,Vanuatu,VAN,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Ancel Nalau,M,Vanuatu,VAN,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Arnold Sorina,M,Vanuatu,VAN,2012,London,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Fletcher Wamilee,M,Vanuatu,VAN,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Baptiste Firiam,M,Vanuatu,VAN,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Baptiste Firiam,M,Vanuatu,VAN,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,False
+Baptiste Firiam,M,Vanuatu,VAN,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Laurence Jack,M,Vanuatu,VAN,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False,True
+Jerome Jeremiah,M,Vanuatu,VAN,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Jerome Jeremiah,M,Vanuatu,VAN,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Tavakalo Kailes,M,Vanuatu,VAN,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Moses Kamut,M,Vanuatu,VAN,2004,Athina,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Moses Kamut,M,Vanuatu,VAN,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Tawai Keiruan,M,Vanuatu,VAN,1992,Barcelona,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Tawai Keiruan,M,Vanuatu,VAN,1996,Atlanta,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,False
+Abraham Kalpumu,M,Vanuatu,VAN,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Ancel Nalau,M,Vanuatu,VAN,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Arnold Sorina,M,Vanuatu,VAN,2012,London,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Fletcher Wamilee,M,Vanuatu,VAN,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True

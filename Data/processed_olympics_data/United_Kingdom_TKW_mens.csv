@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Craig Brown,M,United Kingdom,GBR,2004,Athina,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False
-Mahama Cho,M,United Kingdom,GBR,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,True
-Aaron Cook,M,United Kingdom,GBR,2008,Beijing,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False
-Colin Daley,M,United Kingdom,GBR,2000,Sydney,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False
-Paul Green,M,United Kingdom,GBR,2004,Athina,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Michael Harvey,M,United Kingdom,GBR,2008,Beijing,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Lutalo Massop-muhammad,M,United Kingdom,GBR,2012,London,Taekwondo,Taekwondo Men's Welterweight,Bronze,Taekwondo,TKW,True
-Lutalo Massop-muhammad,M,United Kingdom,GBR,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Welterweight,Silver,Taekwondo,TKW,True
-Martin Stamper,M,United Kingdom,GBR,2012,London,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False
-Mahama Cho,M,United Kingdom,GBR,2020,Tokyo,Taekwondo,Men +80kg,No medal,Men,TKW,True
-Bradly Sinden,M,United Kingdom,GBR,2020,Tokyo,Taekwondo,Men -68kg,Silver,Men,TKW,True
-Caden Cunningham,M,United Kingdom,GBR,2024,Paris,Taekwondo,Men +80kg,Silver,Men,TKW,False
-Bradly Sinden,M,United Kingdom,GBR,2024,Paris,Taekwondo,Men -68kg,No medal,Men,TKW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Craig Brown,M,United Kingdom,GBR,2004,Athina,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False,True
+Mahama Cho,M,United Kingdom,GBR,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,True,True
+Aaron Cook,M,United Kingdom,GBR,2008,Beijing,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False,True
+Colin Daley,M,United Kingdom,GBR,2000,Sydney,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False,True
+Paul Green,M,United Kingdom,GBR,2004,Athina,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Michael Harvey,M,United Kingdom,GBR,2008,Beijing,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Lutalo Massop-muhammad,M,United Kingdom,GBR,2012,London,Taekwondo,Taekwondo Men's Welterweight,Bronze,Taekwondo,TKW,True,True
+Lutalo Massop-muhammad,M,United Kingdom,GBR,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Welterweight,Silver,Taekwondo,TKW,True,False
+Martin Stamper,M,United Kingdom,GBR,2012,London,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False,True
+Mahama Cho,M,United Kingdom,GBR,2020,Tokyo,Taekwondo,Men +80kg,No medal,Men,TKW,True,False
+Bradly Sinden,M,United Kingdom,GBR,2020,Tokyo,Taekwondo,Men -68kg,Silver,Men,TKW,True,True
+Caden Cunningham,M,United Kingdom,GBR,2024,Paris,Taekwondo,Men +80kg,Silver,Men,TKW,False,True
+Bradly Sinden,M,United Kingdom,GBR,2024,Paris,Taekwondo,Men -68kg,No medal,Men,TKW,True,False

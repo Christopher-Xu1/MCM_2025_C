@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Arturo Trappe,M,Paraguay,PAR,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Daniel Bertoni,M,Paraguay,PAR,2004,Athina,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Javier Insfran,M,Paraguay,PAR,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Arturo Trappe,M,Paraguay,PAR,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Daniel Bertoni,M,Paraguay,PAR,2004,Athina,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Javier Insfran,M,Paraguay,PAR,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,False,True

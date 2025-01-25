@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bahya Al-hamad,F,Qatar,QAT,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Bahya Al-hamad,F,Qatar,QAT,2012,London,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bahya Al-hamad,F,Qatar,QAT,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Bahya Al-hamad,F,Qatar,QAT,2012,London,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True

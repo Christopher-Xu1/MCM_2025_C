@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mathieu Billot,M,France,FRA,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Mathieu Billot,M,France,FRA,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Simon Delestre,M,France,FRA,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Simon Delestre,M,France,FRA,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Nicolas Delmotte,M,France,FRA,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Nicolas Delmotte,M,France,FRA,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Simon Delestre,M,France,FRA,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Simon Delestre,M,France,FRA,2024,Paris,Equestrian,Jumping Team,Bronze,Jumping,EJP,True
-Julien Epaillard,M,France,FRA,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Julien Epaillard,M,France,FRA,2024,Paris,Equestrian,Jumping Team,Bronze,Jumping,EJP,True
-Olivier Perreau,M,France,FRA,2024,Paris,Equestrian,Jumping Team,Bronze,Jumping,EJP,False
-Kevin Staut,M,France,FRA,2024,Paris,Equestrian,Jumping Team,Bronze,Jumping,EJP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mathieu Billot,M,France,FRA,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Mathieu Billot,M,France,FRA,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Simon Delestre,M,France,FRA,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Simon Delestre,M,France,FRA,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Nicolas Delmotte,M,France,FRA,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Nicolas Delmotte,M,France,FRA,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Simon Delestre,M,France,FRA,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+Simon Delestre,M,France,FRA,2024,Paris,Equestrian,Jumping Team,Bronze,Jumping,EJP,True,False
+Julien Epaillard,M,France,FRA,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Julien Epaillard,M,France,FRA,2024,Paris,Equestrian,Jumping Team,Bronze,Jumping,EJP,True,True
+Olivier Perreau,M,France,FRA,2024,Paris,Equestrian,Jumping Team,Bronze,Jumping,EJP,False,True
+Kevin Staut,M,France,FRA,2024,Paris,Equestrian,Jumping Team,Bronze,Jumping,EJP,False,True

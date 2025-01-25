@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jyri Aalto,M,Finland,FIN,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Pontus Jntti,M,Finland,FIN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Pontus Jntti,M,Finland,FIN,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Ville Lng,M,Finland,FIN,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Ville Lng,M,Finland,FIN,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Hans Liljequist,M,Finland,FIN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Hans Liljequist,M,Finland,FIN,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Kasperi Salo,M,Finland,FIN,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Antti Viitikko,M,Finland,FIN,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Kalle Koljonen,M,Finland,FIN,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True
-Kalle Koljonen,M,Finland,FIN,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jyri Aalto,M,Finland,FIN,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Pontus Jntti,M,Finland,FIN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Pontus Jntti,M,Finland,FIN,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Ville Lng,M,Finland,FIN,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Ville Lng,M,Finland,FIN,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Hans Liljequist,M,Finland,FIN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Hans Liljequist,M,Finland,FIN,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Kasperi Salo,M,Finland,FIN,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Antti Viitikko,M,Finland,FIN,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Kalle Koljonen,M,Finland,FIN,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True,True
+Kalle Koljonen,M,Finland,FIN,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True,False

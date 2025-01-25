@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bolorerdene Batmunkh,F,Mongolia,MGL,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bolorerdene Batmunkh,F,Mongolia,MGL,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,False,True

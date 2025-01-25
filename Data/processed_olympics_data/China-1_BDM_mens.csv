@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cai Yun,M,China-1,CHN,2008,Beijing,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,True
-Cai Yun,M,China-1,CHN,2012,London,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,True
-Chen Hongyong,M,China-1,CHN,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Chen Kang,M,China-1,CHN,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Chen Qiqiu,M,China-1,CHN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Chen Qiqiu,M,China-1,CHN,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Chen Qiqiu,M,China-1,CHN,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Chen Xingdong,M,China-1,CHN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Fu Haifeng,M,China-1,CHN,2008,Beijing,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,True
-Fu Haifeng,M,China-1,CHN,2012,London,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,True
-Fu Haifeng,M,China-1,CHN,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,True
-Ge Cheng,M,China-1,CHN,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-He Hanbin,M,China-1,CHN,2008,Beijing,Badminton,Badminton Mixed Doubles,Bronze,Badminton,BDM,False
-Sang Yang,M,China-1,CHN,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Tao Xiaoqiang,M,China-1,CHN,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Yu Jinhao,M,China-1,CHN,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Zhang Nan,M,China-1,CHN,2012,London,Badminton,Badminton Mixed Doubles,Gold,Badminton,BDM,True
-Zhang Nan,M,China-1,CHN,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,Bronze,Badminton,BDM,True
-Zhang Nan,M,China-1,CHN,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,True
-Zheng Bo,M,China-1,CHN,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cai Yun,M,China-1,CHN,2008,Beijing,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,True,True
+Cai Yun,M,China-1,CHN,2012,London,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,True,False
+Chen Hongyong,M,China-1,CHN,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Chen Kang,M,China-1,CHN,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Chen Qiqiu,M,China-1,CHN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Chen Qiqiu,M,China-1,CHN,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Chen Qiqiu,M,China-1,CHN,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Chen Xingdong,M,China-1,CHN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Fu Haifeng,M,China-1,CHN,2008,Beijing,Badminton,Badminton Men's Doubles,Silver,Badminton,BDM,True,True
+Fu Haifeng,M,China-1,CHN,2012,London,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,True,False
+Fu Haifeng,M,China-1,CHN,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,True,False
+Ge Cheng,M,China-1,CHN,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+He Hanbin,M,China-1,CHN,2008,Beijing,Badminton,Badminton Mixed Doubles,Bronze,Badminton,BDM,False,True
+Sang Yang,M,China-1,CHN,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Tao Xiaoqiang,M,China-1,CHN,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Yu Jinhao,M,China-1,CHN,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Zhang Nan,M,China-1,CHN,2012,London,Badminton,Badminton Mixed Doubles,Gold,Badminton,BDM,True,True
+Zhang Nan,M,China-1,CHN,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,Bronze,Badminton,BDM,True,False
+Zhang Nan,M,China-1,CHN,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,Gold,Badminton,BDM,True,False
+Zheng Bo,M,China-1,CHN,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True

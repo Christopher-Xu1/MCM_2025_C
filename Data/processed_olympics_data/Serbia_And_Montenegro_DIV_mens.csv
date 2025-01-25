@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vukan Vuleti,M,Serbia And Montenegro,SCG,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Sinia Ugi,M,Serbia And Montenegro,SCG,1996,Atlanta,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vukan Vuleti,M,Serbia And Montenegro,SCG,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Sinia Ugi,M,Serbia And Montenegro,SCG,1996,Atlanta,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True

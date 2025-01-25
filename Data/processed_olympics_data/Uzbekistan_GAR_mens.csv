@@ -1,38 +1,38 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anton Fokin,M,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Anton Fokin,M,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Anton Fokin,M,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Men's Parallel Bars,Bronze,Gymnastics,GAR,True
-Anton Fokin,M,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Anton Fokin,M,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Anton Fokin,M,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Anton Fokin,M,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Anton Fokin,M,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Anton Fokin,M,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Anton Fokin,M,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Anton Fokin,M,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Anton Fokin,M,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Men's All-Around,No medal,Men's,GAR,True
-Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True
-Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True
-Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True
-Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True
-Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True
-Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True
-Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True
-Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True
-Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True
-Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's All-Around,No medal,Men's,GAR,True
-Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True
-Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True
-Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True
-Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True
-Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True
-Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True
-Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True
-Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's All-Around,No medal,Men's,GAR,True
-Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True
-Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True
-Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True
-Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True
-Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True
-Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anton Fokin,M,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Anton Fokin,M,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Anton Fokin,M,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Men's Parallel Bars,Bronze,Gymnastics,GAR,True,True
+Anton Fokin,M,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Anton Fokin,M,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Anton Fokin,M,Uzbekistan,UZB,2008,Beijing,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Anton Fokin,M,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,False
+Anton Fokin,M,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,False
+Anton Fokin,M,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,False
+Anton Fokin,M,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,False
+Anton Fokin,M,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,False
+Anton Fokin,M,Uzbekistan,UZB,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,False
+Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Men's All-Around,No medal,Men's,GAR,True,True
+Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True,True
+Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True,True
+Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True,True
+Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True,True
+Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True,True
+Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2020,Tokyo,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True,True
+Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True,False
+Rasuljon Abdurakhimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True,False
+Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True,True
+Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's All-Around,No medal,Men's,GAR,True,True
+Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True,True
+Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True,True
+Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True,True
+Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True,True
+Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True,True
+Abdulla Azimov,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True,True
+Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True,True
+Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's All-Around,No medal,Men's,GAR,True,True
+Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True,True
+Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True,True
+Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True,True
+Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True,True
+Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True,True
+Khabibullo Ergashev,M,Uzbekistan,UZB,2024,Paris,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True,True

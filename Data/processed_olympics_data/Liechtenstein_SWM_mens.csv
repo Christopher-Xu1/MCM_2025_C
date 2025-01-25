@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Christoph Meier,M,Liechtenstein,LIE,2016,Rio de Janeiro,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Christoph Meier,M,Liechtenstein,LIE,2020,Tokyo,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,True
-Christoph Meier,M,Liechtenstein,LIE,2020,Tokyo,Swimming,Men's 400m Individual Medley,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Christoph Meier,M,Liechtenstein,LIE,2016,Rio de Janeiro,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Christoph Meier,M,Liechtenstein,LIE,2020,Tokyo,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,True,False
+Christoph Meier,M,Liechtenstein,LIE,2020,Tokyo,Swimming,Men's 400m Individual Medley,No medal,Men's,SWM,True,False

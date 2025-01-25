@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Giovanni Toti,M,Italy,ITA,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Giovanni Toti,M,Italy,ITA,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False,True

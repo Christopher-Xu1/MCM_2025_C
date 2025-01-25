@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Frank Fredericks,M,Namibia,NAM,1992,Barcelona,Athletics,Athletics Men's 100 metres,Silver,Athletics,ATH,True
-Frank Fredericks,M,Namibia,NAM,1992,Barcelona,Athletics,Athletics Men's 200 metres,Silver,Athletics,ATH,True
-Frank Fredericks,M,Namibia,NAM,1996,Atlanta,Athletics,Athletics Men's 100 metres,Silver,Athletics,ATH,True
-Frank Fredericks,M,Namibia,NAM,1996,Atlanta,Athletics,Athletics Men's 200 metres,Silver,Athletics,ATH,True
-Frank Fredericks,M,Namibia,NAM,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Frank Fredericks,M,Namibia,NAM,2004,Athina,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Mynhardt Kauanivi,M,Namibia,NAM,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Tuihaleni Kayele,M,Namibia,NAM,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Stephan Louw,M,Namibia,NAM,2000,Sydney,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Stephan Louw,M,Namibia,NAM,2008,Beijing,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Willie Smith,M,Namibia,NAM,2000,Sydney,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
-Lucketz Swartbooi,M,Namibia,NAM,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Lucketz Swartbooi,M,Namibia,NAM,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Joseph Tjitunga,M,Namibia,NAM,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Christoffel Wyk,M,Namibia,NAM,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Christoffel Wyk,M,Namibia,NAM,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Sherwin Vries,M,Namibia,NAM,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Hilifa Rainhold,M,Namibia,NAM,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Frank Fredericks,M,Namibia,NAM,1992,Barcelona,Athletics,Athletics Men's 100 metres,Silver,Athletics,ATH,True,True
+Frank Fredericks,M,Namibia,NAM,1992,Barcelona,Athletics,Athletics Men's 200 metres,Silver,Athletics,ATH,True,True
+Frank Fredericks,M,Namibia,NAM,1996,Atlanta,Athletics,Athletics Men's 100 metres,Silver,Athletics,ATH,True,False
+Frank Fredericks,M,Namibia,NAM,1996,Atlanta,Athletics,Athletics Men's 200 metres,Silver,Athletics,ATH,True,False
+Frank Fredericks,M,Namibia,NAM,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Frank Fredericks,M,Namibia,NAM,2004,Athina,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Mynhardt Kauanivi,M,Namibia,NAM,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Tuihaleni Kayele,M,Namibia,NAM,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Stephan Louw,M,Namibia,NAM,2000,Sydney,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,True
+Stephan Louw,M,Namibia,NAM,2008,Beijing,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,False
+Willie Smith,M,Namibia,NAM,2000,Sydney,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+Lucketz Swartbooi,M,Namibia,NAM,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Lucketz Swartbooi,M,Namibia,NAM,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Joseph Tjitunga,M,Namibia,NAM,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Christoffel Wyk,M,Namibia,NAM,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Christoffel Wyk,M,Namibia,NAM,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Sherwin Vries,M,Namibia,NAM,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Hilifa Rainhold,M,Namibia,NAM,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False,True

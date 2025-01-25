@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Delanija Patrika,F,Latvia,LAT,2024,Paris,Diving,Women's 10m Platform,No medal,Women's,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Delanija Patrika,F,Latvia,LAT,2024,Paris,Diving,Women's 10m Platform,No medal,Women's,DIV,False,True

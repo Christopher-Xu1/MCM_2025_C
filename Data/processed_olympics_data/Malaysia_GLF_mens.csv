@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Danny Chia,M,Malaysia,MAS,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Gavin Green,M,Malaysia,MAS,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,True
-Gavin Green,M,Malaysia,MAS,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
-Gavin Green,M,Malaysia,MAS,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Danny Chia,M,Malaysia,MAS,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Gavin Green,M,Malaysia,MAS,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,True,True
+Gavin Green,M,Malaysia,MAS,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,False
+Gavin Green,M,Malaysia,MAS,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,False

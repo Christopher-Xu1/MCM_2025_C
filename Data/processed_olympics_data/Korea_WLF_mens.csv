@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Joohyo Bak,M,Korea,KOR,2024,Paris,Weightlifting,Men's 73kg,No medal,Men's,WLF,False
-Yeonhak Jang,M,Korea,KOR,2024,Paris,Weightlifting,Men's 102kg,No medal,Men's,WLF,False
-Dongju Yu,M,Korea,KOR,2024,Paris,Weightlifting,Men's 89kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Joohyo Bak,M,Korea,KOR,2024,Paris,Weightlifting,Men's 73kg,No medal,Men's,WLF,False,True
+Yeonhak Jang,M,Korea,KOR,2024,Paris,Weightlifting,Men's 102kg,No medal,Men's,WLF,False,True
+Dongju Yu,M,Korea,KOR,2024,Paris,Weightlifting,Men's 89kg,No medal,Men's,WLF,False,True

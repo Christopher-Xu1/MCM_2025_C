@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Catalin Chirila,M,Romania,ROU,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True
-Catalin Chirila,M,Romania,ROU,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,True
-Victor Mihalachi,M,Romania,ROU,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True
-Victor Mihalachi,M,Romania,ROU,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,True
-Catalin Chirila,M,Romania,ROU,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True
-Oleg Nuta,M,Romania,ROU,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,False
-Ilie Sprincean,M,Romania,ROU,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Catalin Chirila,M,Romania,ROU,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True,True
+Catalin Chirila,M,Romania,ROU,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,True,True
+Victor Mihalachi,M,Romania,ROU,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True,True
+Victor Mihalachi,M,Romania,ROU,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,True,True
+Catalin Chirila,M,Romania,ROU,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True,False
+Oleg Nuta,M,Romania,ROU,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,False,True
+Ilie Sprincean,M,Romania,ROU,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,False,True

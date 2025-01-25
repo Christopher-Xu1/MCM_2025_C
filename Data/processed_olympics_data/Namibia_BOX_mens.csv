@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Paulus Ambunda,M,Namibia,NAM,2004,Athina,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Joseph Benhard,M,Namibia,NAM,1996,Atlanta,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Mathias Hamunyela,M,Namibia,NAM,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Julius Indongo,M,Namibia,NAM,2008,Beijing,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Joseph Jermia,M,Namibia,NAM,2004,Athina,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Jonas Jonas,M,Namibia,NAM,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Mujandjae Kasuto,M,Namibia,NAM,2008,Beijing,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Mujandjae Kasuto,M,Namibia,NAM,2012,London,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Jonas Matheus,M,Namibia,NAM,2012,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Paulus Nuumbembe,M,Namibia,NAM,2000,Sydney,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Sakaria Shivute,M,Namibia,NAM,1996,Atlanta,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Harry Simon,M,Namibia,NAM,1992,Barcelona,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Jafet Uutoni,M,Namibia,NAM,2008,Beijing,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Jonas Jonas,M,Namibia,NAM,2020,Tokyo,Boxing,Men's Light (57-63kg),No medal,Men's,BOX,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Paulus Ambunda,M,Namibia,NAM,2004,Athina,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Joseph Benhard,M,Namibia,NAM,1996,Atlanta,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Mathias Hamunyela,M,Namibia,NAM,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Julius Indongo,M,Namibia,NAM,2008,Beijing,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Joseph Jermia,M,Namibia,NAM,2004,Athina,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Jonas Jonas,M,Namibia,NAM,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,True
+Mujandjae Kasuto,M,Namibia,NAM,2008,Beijing,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,True
+Mujandjae Kasuto,M,Namibia,NAM,2012,London,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,False
+Jonas Matheus,M,Namibia,NAM,2012,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Paulus Nuumbembe,M,Namibia,NAM,2000,Sydney,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Sakaria Shivute,M,Namibia,NAM,1996,Atlanta,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Harry Simon,M,Namibia,NAM,1992,Barcelona,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Jafet Uutoni,M,Namibia,NAM,2008,Beijing,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Jonas Jonas,M,Namibia,NAM,2020,Tokyo,Boxing,Men's Light (57-63kg),No medal,Men's,BOX,True,False

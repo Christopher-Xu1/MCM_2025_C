@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Charlotte Dujardin,F,United Kingdom,GBR,2020,Tokyo,Equestrian,Dressage Team,Bronze,Dressage,EDR,True
-Charlotte Dujardin,F,United Kingdom,GBR,2020,Tokyo,Equestrian,Dressage Individual,Bronze,Dressage,EDR,True
-Charlotte Fry,F,United Kingdom,GBR,2020,Tokyo,Equestrian,Dressage Team,Bronze,Dressage,EDR,True
-Charlotte Fry,F,United Kingdom,GBR,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Charlotte Fry,F,United Kingdom,GBR,2024,Paris,Equestrian,Dressage Individual,Bronze,Dressage,EDR,True
-Charlotte Fry,F,United Kingdom,GBR,2024,Paris,Equestrian,Dressage Team,Bronze,Dressage,EDR,True
-Becky Moody,F,United Kingdom,GBR,2024,Paris,Equestrian,Dressage Team,Bronze,Dressage,EDR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Charlotte Dujardin,F,United Kingdom,GBR,2020,Tokyo,Equestrian,Dressage Team,Bronze,Dressage,EDR,True,True
+Charlotte Dujardin,F,United Kingdom,GBR,2020,Tokyo,Equestrian,Dressage Individual,Bronze,Dressage,EDR,True,True
+Charlotte Fry,F,United Kingdom,GBR,2020,Tokyo,Equestrian,Dressage Team,Bronze,Dressage,EDR,True,True
+Charlotte Fry,F,United Kingdom,GBR,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Charlotte Fry,F,United Kingdom,GBR,2024,Paris,Equestrian,Dressage Individual,Bronze,Dressage,EDR,True,False
+Charlotte Fry,F,United Kingdom,GBR,2024,Paris,Equestrian,Dressage Team,Bronze,Dressage,EDR,True,False
+Becky Moody,F,United Kingdom,GBR,2024,Paris,Equestrian,Dressage Team,Bronze,Dressage,EDR,False,True

@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Paulo Jnior,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Thiago Dantas,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Matheus Ferreira,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Rodrigo Faustino,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Adam Imer,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Joaqun Lopez,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Christopher Mcpherson,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Bruno Mendona,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Bruno Paes,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Lucas Paixo,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Andr Couto,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Ernst Rost-onnes,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Stphane Smith,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Rodrigo Silva,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Patrick Heijden,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Yuri Heijden,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Paulo Jnior,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Thiago Dantas,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Matheus Ferreira,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Rodrigo Faustino,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Adam Imer,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Joaqun Lopez,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Christopher Mcpherson,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Bruno Mendona,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Bruno Paes,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Lucas Paixo,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Andr Couto,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Ernst Rost-onnes,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Stphane Smith,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Rodrigo Silva,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Patrick Heijden,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Yuri Heijden,M,Brazil,BRA,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True

@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Valma Bass,F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Valma Bass,F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Valma Bass,F,Saint Kitts And Nevis,SKN,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Valma Bass,F,Saint Kitts And Nevis,SKN,2000,Sydney,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Diane (dunrod-),F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Diane (dunrod-),F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Elricia Francis,F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Virgil Hodge,F,Saint Kitts And Nevis,SKN,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Virgil Hodge,F,Saint Kitts And Nevis,SKN,2008,Beijing,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Bernice Morton,F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Tiandra Ponteen,F,Saint Kitts And Nevis,SKN,2004,Athina,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Tiandra Ponteen,F,Saint Kitts And Nevis,SKN,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Bernadeth Prentice,F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Bernadeth Prentice,F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Tamara (-brudy),F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Meritzer Williams,F,Saint Kitts And Nevis,SKN,2008,Beijing,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Tameka Williams,F,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Amya Clarke,F,Saint Kitts And Nevis,SKN,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Valma Bass,F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Valma Bass,F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Valma Bass,F,Saint Kitts And Nevis,SKN,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Valma Bass,F,Saint Kitts And Nevis,SKN,2000,Sydney,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Diane (dunrod-),F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Diane (dunrod-),F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Elricia Francis,F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Virgil Hodge,F,Saint Kitts And Nevis,SKN,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Virgil Hodge,F,Saint Kitts And Nevis,SKN,2008,Beijing,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Bernice Morton,F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Tiandra Ponteen,F,Saint Kitts And Nevis,SKN,2004,Athina,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Tiandra Ponteen,F,Saint Kitts And Nevis,SKN,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,False
+Bernadeth Prentice,F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Bernadeth Prentice,F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Tamara (-brudy),F,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Meritzer Williams,F,Saint Kitts And Nevis,SKN,2008,Beijing,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Tameka Williams,F,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Amya Clarke,F,Saint Kitts And Nevis,SKN,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,False,True

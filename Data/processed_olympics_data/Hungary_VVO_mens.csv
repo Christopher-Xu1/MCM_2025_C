@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gbor Bod,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Bla Czafik,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Tibor Flrin,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Lszl Glos,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Vilmos Ivncs,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Ferenc Jnosi,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Csaba Lantos,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Istvn Molnr,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Ott Prouza,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Mihly Tatr,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Ferenc Tske,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gbor Bod,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Bla Czafik,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Tibor Flrin,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Lszl Glos,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Vilmos Ivncs,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Ferenc Jnosi,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Csaba Lantos,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Istvn Molnr,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Ott Prouza,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Mihly Tatr,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Ferenc Tske,M,Hungary,HUN,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True

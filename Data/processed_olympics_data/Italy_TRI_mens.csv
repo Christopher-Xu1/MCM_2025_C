@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alessandro Bottoni,M,Italy,ITA,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Emilio D'aquino,M,Italy,ITA,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Alessandro Fabian,M,Italy,ITA,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Alessandro Fabian,M,Italy,ITA,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Daniel Fontana,M,Italy,ITA,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Davide Uccellari,M,Italy,ITA,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Davide Uccellari,M,Italy,ITA,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Gianluca Pozzatti,M,Italy,ITA,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Gianluca Pozzatti,M,Italy,ITA,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Delian Stateff,M,Italy,ITA,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Delian Stateff,M,Italy,ITA,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Gianluca Pozzatti,M,Italy,ITA,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Alessio Crociani,M,Italy,ITA,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alessandro Bottoni,M,Italy,ITA,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Emilio D'aquino,M,Italy,ITA,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Alessandro Fabian,M,Italy,ITA,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Alessandro Fabian,M,Italy,ITA,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Daniel Fontana,M,Italy,ITA,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Davide Uccellari,M,Italy,ITA,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Davide Uccellari,M,Italy,ITA,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Gianluca Pozzatti,M,Italy,ITA,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Gianluca Pozzatti,M,Italy,ITA,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Delian Stateff,M,Italy,ITA,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Delian Stateff,M,Italy,ITA,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Gianluca Pozzatti,M,Italy,ITA,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True,False
+Alessio Crociani,M,Italy,ITA,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True

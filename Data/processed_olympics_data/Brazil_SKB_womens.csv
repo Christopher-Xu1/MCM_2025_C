@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yndiara Asp,F,Brazil,BRA,2020,Tokyo,Skateboarding,Women's Park,No medal,Women's,SKB,False
-Leticia Bufoni,F,Brazil,BRA,2020,Tokyo,Skateboarding,Women's Street,No medal,Women's,SKB,False
-Rayssa Leal,F,Brazil,BRA,2020,Tokyo,Skateboarding,Women's Street,Silver,Women's,SKB,True
-Isadora Pacheco,F,Brazil,BRA,2020,Tokyo,Skateboarding,Women's Park,No medal,Women's,SKB,True
-Pamela Rosa,F,Brazil,BRA,2020,Tokyo,Skateboarding,Women's Street,No medal,Women's,SKB,True
-Dora Varella,F,Brazil,BRA,2020,Tokyo,Skateboarding,Women's Park,No medal,Women's,SKB,True
-Dora Varella,F,Brazil,BRA,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,True
-Gabi Mazetto,F,Brazil,BRA,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,False
-Isadora Pacheco,F,Brazil,BRA,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,True
-Rayssa Leal,F,Brazil,BRA,2024,Paris,Skateboarding,Women's Street,Bronze,Women's,SKB,True
-Pamela Rosa,F,Brazil,BRA,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,True
-Raicca Ventura,F,Brazil,BRA,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yndiara Asp,F,Brazil,BRA,2020,Tokyo,Skateboarding,Women's Park,No medal,Women's,SKB,False,True
+Leticia Bufoni,F,Brazil,BRA,2020,Tokyo,Skateboarding,Women's Street,No medal,Women's,SKB,False,True
+Rayssa Leal,F,Brazil,BRA,2020,Tokyo,Skateboarding,Women's Street,Silver,Women's,SKB,True,True
+Isadora Pacheco,F,Brazil,BRA,2020,Tokyo,Skateboarding,Women's Park,No medal,Women's,SKB,True,True
+Pamela Rosa,F,Brazil,BRA,2020,Tokyo,Skateboarding,Women's Street,No medal,Women's,SKB,True,True
+Dora Varella,F,Brazil,BRA,2020,Tokyo,Skateboarding,Women's Park,No medal,Women's,SKB,True,True
+Dora Varella,F,Brazil,BRA,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,True,False
+Gabi Mazetto,F,Brazil,BRA,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,False,True
+Isadora Pacheco,F,Brazil,BRA,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,True,False
+Rayssa Leal,F,Brazil,BRA,2024,Paris,Skateboarding,Women's Street,Bronze,Women's,SKB,True,False
+Pamela Rosa,F,Brazil,BRA,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,True,False
+Raicca Ventura,F,Brazil,BRA,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,False,True

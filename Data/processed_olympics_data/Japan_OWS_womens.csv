@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yumi Kida,F,Japan,JPN,2020,Tokyo,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False
-Airi Ebina,F,Japan,JPN,2024,Paris,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yumi Kida,F,Japan,JPN,2020,Tokyo,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False,True
+Airi Ebina,F,Japan,JPN,2024,Paris,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False,True

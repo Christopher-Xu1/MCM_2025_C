@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chung Lan,F,Vietnam,VIE,1980,Moskva,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Hong Ho,F,Vietnam,VIE,1980,Moskva,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Nguyn Oanh,F,Vietnam,VIE,1988,Seoul,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Nguyn Oanh,F,Vietnam,VIE,1988,Seoul,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Nguyn Oanh,F,Vietnam,VIE,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Nguyn Oanh,F,Vietnam,VIE,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Nguyn Vin,F,Vietnam,VIE,2012,London,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Nguyn Vin,F,Vietnam,VIE,2012,London,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Nguyn Vin,F,Vietnam,VIE,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Nguyn Vin,F,Vietnam,VIE,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Nguyn Vin,F,Vietnam,VIE,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Nguyn Bch,F,Vietnam,VIE,1980,Moskva,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Nguyn Bch,F,Vietnam,VIE,1980,Moskva,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Nguyn Hng,F,Vietnam,VIE,2000,Sydney,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,False
-Nguyn Phng,F,Vietnam,VIE,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Nguyn Phng,F,Vietnam,VIE,1992,Barcelona,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Phm Ph,F,Vietnam,VIE,1980,Moskva,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
-V An,F,Vietnam,VIE,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Vien Nguyen,F,Vietnam,VIE,2020,Tokyo,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True
-Vien Nguyen,F,Vietnam,VIE,2020,Tokyo,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,True
-Tien Vo,F,Vietnam,VIE,2024,Paris,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chung Lan,F,Vietnam,VIE,1980,Moskva,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Hong Ho,F,Vietnam,VIE,1980,Moskva,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Nguyn Oanh,F,Vietnam,VIE,1988,Seoul,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Nguyn Oanh,F,Vietnam,VIE,1988,Seoul,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Nguyn Oanh,F,Vietnam,VIE,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Nguyn Oanh,F,Vietnam,VIE,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Nguyn Vin,F,Vietnam,VIE,2012,London,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Nguyn Vin,F,Vietnam,VIE,2012,London,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Nguyn Vin,F,Vietnam,VIE,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,False
+Nguyn Vin,F,Vietnam,VIE,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Nguyn Vin,F,Vietnam,VIE,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,False
+Nguyn Bch,F,Vietnam,VIE,1980,Moskva,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Nguyn Bch,F,Vietnam,VIE,1980,Moskva,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Nguyn Hng,F,Vietnam,VIE,2000,Sydney,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,False,True
+Nguyn Phng,F,Vietnam,VIE,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Nguyn Phng,F,Vietnam,VIE,1992,Barcelona,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Phm Ph,F,Vietnam,VIE,1980,Moskva,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+V An,F,Vietnam,VIE,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Vien Nguyen,F,Vietnam,VIE,2020,Tokyo,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True,True
+Vien Nguyen,F,Vietnam,VIE,2020,Tokyo,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,True,True
+Tien Vo,F,Vietnam,VIE,2024,Paris,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,False,True

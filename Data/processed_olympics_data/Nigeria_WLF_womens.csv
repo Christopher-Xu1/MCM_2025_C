@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Evelyn Ebhomien,F,Nigeria,NGR,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Franca Gbodo,F,Nigeria,NGR,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True
-Franca Gbodo,F,Nigeria,NGR,2004,Athina,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True
-Helen Idahosa,F,Nigeria,NGR,2000,Sydney,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Ruth Ogbeifo,F,Nigeria,NGR,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,Silver,Weightlifting,WLF,False
-Blessed Udoh,F,Nigeria,NGR,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Mariam Usman,F,Nigeria,NGR,2008,Beijing,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Mariam Usman,F,Nigeria,NGR,2012,London,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Mariam Usman,F,Nigeria,NGR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Ogbonne Eze,F,Nigeria,NGR,2024,Paris,Weightlifting,Women's 71kg,No medal,Women's,WLF,False
-Folashade Lawal,F,Nigeria,NGR,2024,Paris,Weightlifting,Women's 59kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Evelyn Ebhomien,F,Nigeria,NGR,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Franca Gbodo,F,Nigeria,NGR,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True,True
+Franca Gbodo,F,Nigeria,NGR,2004,Athina,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True,False
+Helen Idahosa,F,Nigeria,NGR,2000,Sydney,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Ruth Ogbeifo,F,Nigeria,NGR,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,Silver,Weightlifting,WLF,False,True
+Blessed Udoh,F,Nigeria,NGR,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Mariam Usman,F,Nigeria,NGR,2008,Beijing,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True,True
+Mariam Usman,F,Nigeria,NGR,2012,London,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True,False
+Mariam Usman,F,Nigeria,NGR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True,False
+Ogbonne Eze,F,Nigeria,NGR,2024,Paris,Weightlifting,Women's 71kg,No medal,Women's,WLF,False,True
+Folashade Lawal,F,Nigeria,NGR,2024,Paris,Weightlifting,Women's 59kg,No medal,Women's,WLF,False,True

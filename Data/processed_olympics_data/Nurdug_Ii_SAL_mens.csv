@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Steen Herschend,M,Nurdug Ii,DEN,1912,Stockholm,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Hans (meulengracht-madsen-),M,Nurdug Ii,DEN,1912,Stockholm,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Svenn Thomsen,M,Nurdug Ii,DEN,1912,Stockholm,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Steen Herschend,M,Nurdug Ii,DEN,1912,Stockholm,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Hans (meulengracht-madsen-),M,Nurdug Ii,DEN,1912,Stockholm,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Svenn Thomsen,M,Nurdug Ii,DEN,1912,Stockholm,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True

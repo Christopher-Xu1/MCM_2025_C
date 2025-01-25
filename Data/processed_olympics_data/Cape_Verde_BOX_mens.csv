@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Flavio Furtado,M,Cape Verde,CPV,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Davilson Morais,M,Cape Verde,CPV,2016,Rio de Janeiro,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False
-David Varela,M,Cape Verde,CPV,2020,Tokyo,Boxing,Men's Fly (48-52kg),No medal,Men's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Flavio Furtado,M,Cape Verde,CPV,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Davilson Morais,M,Cape Verde,CPV,2016,Rio de Janeiro,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False,True
+David Varela,M,Cape Verde,CPV,2020,Tokyo,Boxing,Men's Fly (48-52kg),No medal,Men's,BOX,False,True

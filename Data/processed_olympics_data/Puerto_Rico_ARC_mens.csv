@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Edgardo Berdeguer,M,Puerto Rico,PUR,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Miguel Pedraza,M,Puerto Rico,PUR,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Ismael Rivera,M,Puerto Rico,PUR,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Ferdinand Vega,M,Puerto Rico,PUR,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Edgardo Berdeguer,M,Puerto Rico,PUR,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Miguel Pedraza,M,Puerto Rico,PUR,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Ismael Rivera,M,Puerto Rico,PUR,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Ferdinand Vega,M,Puerto Rico,PUR,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True

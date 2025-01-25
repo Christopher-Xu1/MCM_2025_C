@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Khin Nwe,F,Myanmar,MYA,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Nan Khine,F,Myanmar,MYA,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Win Thi,F,Myanmar,MYA,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Win Swe,F,Myanmar,MYA,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Khin Nwe,F,Myanmar,MYA,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Nan Khine,F,Myanmar,MYA,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Win Thi,F,Myanmar,MYA,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Win Swe,F,Myanmar,MYA,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False,True

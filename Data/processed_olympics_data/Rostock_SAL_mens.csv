@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Werner Krogmann,M,Rostock,GER,1936,Berlin,Sailing,Sailing Mixed One Person Dinghy,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Werner Krogmann,M,Rostock,GER,1936,Berlin,Sailing,Sailing Mixed One Person Dinghy,Silver,Sailing,SAL,False,True

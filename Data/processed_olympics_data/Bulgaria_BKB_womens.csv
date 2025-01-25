@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Krasimira Bogdanova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True
-Krasimira Bogdanova,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True
-Mariana Chobanova,F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Vanya Dermendzhieva,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True
-Vanya Dermendzhieva,F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Diana Dilova-braynova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True
-Diana Dilova-braynova,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True
-Sonya (-filipova),F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Silviya Germanova,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False
-Nadka Golcheva,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True
-Nadka Golcheva,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True
-Krasimira Gyurova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Nina (todorova-),F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Petkana Makaveeva,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True
-Petkana Makaveeva,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True
-Penka Metodieva,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True
-Penka Metodieva,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True
-Angelina Mikhaylova,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False
-Snezhana Mikhaylova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True
-Snezhana Mikhaylova,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True
-Mariana (-rusina),F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Kostadinka Radkova,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True
-Kostadinka Radkova,F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Margarita Shtarkelova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Gergina Skerlatova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Evladiya (-zakatanova),F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True
-Evladiya (-zakatanova),F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True
-Larisa (-sashova),F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Madlena Staneva,F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Mariya Stoyanova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Penka Stoyanova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True
-Penka Stoyanova,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True
-Polina Tsekova,F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Radmila (-turner),F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Tsnka Vaysilova,F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Todorka Yordanova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Krasimira Bogdanova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True,True
+Krasimira Bogdanova,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True,False
+Mariana Chobanova,F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Vanya Dermendzhieva,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True,True
+Vanya Dermendzhieva,F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,False
+Diana Dilova-braynova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True,True
+Diana Dilova-braynova,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True,False
+Sonya (-filipova),F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Silviya Germanova,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False,True
+Nadka Golcheva,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True,True
+Nadka Golcheva,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True,False
+Krasimira Gyurova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Nina (todorova-),F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Petkana Makaveeva,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True,True
+Petkana Makaveeva,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True,False
+Penka Metodieva,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True,True
+Penka Metodieva,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True,False
+Angelina Mikhaylova,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,False,True
+Snezhana Mikhaylova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True,True
+Snezhana Mikhaylova,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True,False
+Mariana (-rusina),F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Kostadinka Radkova,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True,True
+Kostadinka Radkova,F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,False
+Margarita Shtarkelova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Gergina Skerlatova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Evladiya (-zakatanova),F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True,True
+Evladiya (-zakatanova),F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,True,False
+Larisa (-sashova),F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Madlena Staneva,F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Mariya Stoyanova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Penka Stoyanova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True,True
+Penka Stoyanova,F,Bulgaria,BUL,1980,Moskva,Basketball,Basketball Women's Basketball,Silver,Basketball,BKB,True,False
+Polina Tsekova,F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Radmila (-turner),F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Tsnka Vaysilova,F,Bulgaria,BUL,1988,Seoul,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Todorka Yordanova,F,Bulgaria,BUL,1976,Montreal,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True

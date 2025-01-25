@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kim Raisner,F,Germany,GER,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Elena Reiche,F,Germany,GER,2000,Sydney,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Annika Schleu,F,Germany,GER,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Annika Schleu,F,Germany,GER,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Lena Schneborn,F,Germany,GER,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,Gold,Modern,MPN,True
-Lena Schneborn,F,Germany,GER,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Lena Schneborn,F,Germany,GER,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Eva Trautmann,F,Germany,GER,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Rebecca Langrehr,F,Germany,GER,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
-Annika Schleu,F,Germany,GER,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
-Annika Zillekens,F,Germany,GER,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False
-Rebecca Langrehr,F,Germany,GER,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kim Raisner,F,Germany,GER,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Elena Reiche,F,Germany,GER,2000,Sydney,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Annika Schleu,F,Germany,GER,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,True
+Annika Schleu,F,Germany,GER,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Lena Schneborn,F,Germany,GER,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,Gold,Modern,MPN,True,True
+Lena Schneborn,F,Germany,GER,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Lena Schneborn,F,Germany,GER,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Eva Trautmann,F,Germany,GER,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Rebecca Langrehr,F,Germany,GER,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,True
+Annika Schleu,F,Germany,GER,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,False
+Annika Zillekens,F,Germany,GER,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False,True
+Rebecca Langrehr,F,Germany,GER,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,False

@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sabine Kusterer,F,Germany,GER,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Monique (-ludwigs),F,Germany,GER,2000,Sydney,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Julia (-schwarzbach),F,Germany,GER,2008,Beijing,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True
-Julia (-schwarzbach),F,Germany,GER,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True
-Christin Ulrich,F,Germany,GER,2012,London,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Beate Kusterer,F,Germany,GER,2020,Tokyo,Weightlifting,Women's 59kg,No medal,Women's,WLF,False
-Marie Schweizer,F,Germany,GER,2020,Tokyo,Weightlifting,Women's 64kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sabine Kusterer,F,Germany,GER,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Monique (-ludwigs),F,Germany,GER,2000,Sydney,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Julia (-schwarzbach),F,Germany,GER,2008,Beijing,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True,True
+Julia (-schwarzbach),F,Germany,GER,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True,False
+Christin Ulrich,F,Germany,GER,2012,London,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Beate Kusterer,F,Germany,GER,2020,Tokyo,Weightlifting,Women's 59kg,No medal,Women's,WLF,False,True
+Marie Schweizer,F,Germany,GER,2020,Tokyo,Weightlifting,Women's 64kg,No medal,Women's,WLF,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andrea Bernard,F,Grenada,GRN,2012,London,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andrea Bernard,F,Grenada,GRN,2012,London,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,False,True

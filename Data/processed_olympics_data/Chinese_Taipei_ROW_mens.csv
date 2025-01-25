@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Wang Ming-hui,M,Chinese Taipei,TPE,2004,Athina,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
-Wang Ming-hui,M,Chinese Taipei,TPE,2008,Beijing,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
-Wang Ming-hui,M,Chinese Taipei,TPE,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Wang Ming-hui,M,Chinese Taipei,TPE,2004,Athina,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,True
+Wang Ming-hui,M,Chinese Taipei,TPE,2008,Beijing,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,False
+Wang Ming-hui,M,Chinese Taipei,TPE,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,False

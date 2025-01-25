@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Moustafa Chellouf,M,Tunisia,TUN,1960,Roma,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Habib Dallagi,M,Tunisia,TUN,1960,Roma,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Ala Alothmani,M,Tunisia,TUN,2020,Tokyo,Shooting,10m Air Pistol Men,No medal,10m,SHO,True
-Ala Alothmani,M,Tunisia,TUN,2020,Tokyo,Shooting,10m Air Pistol Mixed Team,No medal,10m,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Moustafa Chellouf,M,Tunisia,TUN,1960,Roma,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Habib Dallagi,M,Tunisia,TUN,1960,Roma,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Ala Alothmani,M,Tunisia,TUN,2020,Tokyo,Shooting,10m Air Pistol Men,No medal,10m,SHO,True,True
+Ala Alothmani,M,Tunisia,TUN,2020,Tokyo,Shooting,10m Air Pistol Mixed Team,No medal,10m,SHO,True,True

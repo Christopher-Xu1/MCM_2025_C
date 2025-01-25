@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anne (-vainio-),F,Finland,FIN,1992,Barcelona,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Maarit Kallio,F,Finland,FIN,2000,Sydney,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Nina (-luukkainen),F,Finland,FIN,2008,Beijing,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Mari Mutanen,F,Finland,FIN,1992,Barcelona,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Jaana Sundberg,F,Finland,FIN,2012,London,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Heli (-syvvirta).,F,Finland,FIN,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Johanna Ylinen,F,Finland,FIN,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Johanna Ylinen,F,Finland,FIN,2012,London,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anne (-vainio-),F,Finland,FIN,1992,Barcelona,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Maarit Kallio,F,Finland,FIN,2000,Sydney,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Nina (-luukkainen),F,Finland,FIN,2008,Beijing,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Mari Mutanen,F,Finland,FIN,1992,Barcelona,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Jaana Sundberg,F,Finland,FIN,2012,London,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Heli (-syvvirta).,F,Finland,FIN,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Johanna Ylinen,F,Finland,FIN,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,True
+Johanna Ylinen,F,Finland,FIN,2012,London,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False

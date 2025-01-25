@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jan Frczek,M,Poland-1,POL,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False
-Krzysztof Koomaski,M,Poland-1,POL,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
-Krzysztof Koomaski,M,Poland-1,POL,2000,Sydney,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,True
-Ryszard Seruga,M,Poland-1,POL,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False
-Micha Staniszewski,M,Poland-1,POL,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True
-Micha Staniszewski,M,Poland-1,POL,2000,Sydney,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jan Frczek,M,Poland-1,POL,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False,True
+Krzysztof Koomaski,M,Poland-1,POL,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,True
+Krzysztof Koomaski,M,Poland-1,POL,2000,Sydney,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,True,False
+Ryszard Seruga,M,Poland-1,POL,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False,True
+Micha Staniszewski,M,Poland-1,POL,1996,Atlanta,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,True,True
+Micha Staniszewski,M,Poland-1,POL,2000,Sydney,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,True,False

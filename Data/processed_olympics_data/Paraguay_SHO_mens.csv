@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vicente Bergues,M,Paraguay,PAR,1984,Los Angeles,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Alfredo Coello,M,Paraguay,PAR,1984,Los Angeles,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False
-Olegario Farrs,M,Paraguay,PAR,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-Osvaldo Farrs,M,Paraguay,PAR,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-Reinaldo Patio,M,Paraguay,PAR,1972,Munich,Shooting,"Shooting Mixed Free Rifle, Three Positions, 300 metres",No medal,Shooting,SHO,True
-Reinaldo Patio,M,Paraguay,PAR,1976,Montreal,Shooting,"Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Paulo Reichardt,M,Paraguay,PAR,2016,Rio de Janeiro,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,False
-Ricardo Tellechea,M,Paraguay,PAR,1984,Los Angeles,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-William Wilka,M,Paraguay,PAR,1984,Los Angeles,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vicente Bergues,M,Paraguay,PAR,1984,Los Angeles,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Alfredo Coello,M,Paraguay,PAR,1984,Los Angeles,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False,True
+Olegario Farrs,M,Paraguay,PAR,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+Osvaldo Farrs,M,Paraguay,PAR,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+Reinaldo Patio,M,Paraguay,PAR,1972,Munich,Shooting,"Shooting Mixed Free Rifle, Three Positions, 300 metres",No medal,Shooting,SHO,True,True
+Reinaldo Patio,M,Paraguay,PAR,1976,Montreal,Shooting,"Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Paulo Reichardt,M,Paraguay,PAR,2016,Rio de Janeiro,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,False,True
+Ricardo Tellechea,M,Paraguay,PAR,1984,Los Angeles,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+William Wilka,M,Paraguay,PAR,1984,Los Angeles,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False,True

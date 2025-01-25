@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Talaat Abada,M,Egypt,EGY,2000,Sydney,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
-Ghofran Zaki,M,Egypt,EGY,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False
-Tamer Hussein,M,Egypt,EGY,2004,Athina,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False
-Yahia Rashwan,M,Egypt,EGY,2000,Sydney,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False
-Tamer Bayoumi,M,Egypt,EGY,2004,Athina,Taekwondo,Taekwondo Men's Flyweight,Bronze,Taekwondo,TKW,True
-Tamer Bayoumi,M,Egypt,EGY,2012,London,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,True
-Abdelrahman Ahmed,M,Egypt,EGY,2012,London,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False
-Seif Eissa,M,Egypt,EGY,2020,Tokyo,Taekwondo,Men -80kg,Bronze,Men,TKW,True
-Wael Mahmoud,M,Egypt,EGY,2020,Tokyo,Taekwondo,Men -68kg,No medal,Men,TKW,False
-Ahmed Nassar,M,Egypt,EGY,2024,Paris,Taekwondo,Men -68kg,No medal,Men,TKW,False
-Seif Eissa,M,Egypt,EGY,2024,Paris,Taekwondo,Men -80kg,No medal,Men,TKW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Talaat Abada,M,Egypt,EGY,2000,Sydney,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False,True
+Ghofran Zaki,M,Egypt,EGY,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False,True
+Tamer Hussein,M,Egypt,EGY,2004,Athina,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False,True
+Yahia Rashwan,M,Egypt,EGY,2000,Sydney,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False,True
+Tamer Bayoumi,M,Egypt,EGY,2004,Athina,Taekwondo,Taekwondo Men's Flyweight,Bronze,Taekwondo,TKW,True,True
+Tamer Bayoumi,M,Egypt,EGY,2012,London,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,True,False
+Abdelrahman Ahmed,M,Egypt,EGY,2012,London,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False,True
+Seif Eissa,M,Egypt,EGY,2020,Tokyo,Taekwondo,Men -80kg,Bronze,Men,TKW,True,True
+Wael Mahmoud,M,Egypt,EGY,2020,Tokyo,Taekwondo,Men -68kg,No medal,Men,TKW,False,True
+Ahmed Nassar,M,Egypt,EGY,2024,Paris,Taekwondo,Men -68kg,No medal,Men,TKW,False,True
+Seif Eissa,M,Egypt,EGY,2024,Paris,Taekwondo,Men -80kg,No medal,Men,TKW,True,False

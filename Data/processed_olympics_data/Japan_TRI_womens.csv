@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mariko Adachi,F,Japan,JPN,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Akiko Hirao-sekine,F,Japan,JPN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Akiko Hirao-sekine,F,Japan,JPN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Haruna Hosoya,F,Japan,JPN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Juri Ide,F,Japan,JPN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Juri Ide,F,Japan,JPN,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Yurie Kato,F,Japan,JPN,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Machiko Nakanishi,F,Japan,JPN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Kiyomi Niwata,F,Japan,JPN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Kiyomi Niwata,F,Japan,JPN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Kiyomi Niwata,F,Japan,JPN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Yuka Sato,F,Japan,JPN,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Ai Ueda,F,Japan,JPN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Ai Ueda,F,Japan,JPN,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Ai Ueda,F,Japan,JPN,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Niina Kishimoto,F,Japan,JPN,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Niina Kishimoto,F,Japan,JPN,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Yuko Takahashi,F,Japan,JPN,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Yuko Takahashi,F,Japan,JPN,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Yuko Takahashi,F,Japan,JPN,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mariko Adachi,F,Japan,JPN,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Akiko Hirao-sekine,F,Japan,JPN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Akiko Hirao-sekine,F,Japan,JPN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Haruna Hosoya,F,Japan,JPN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Juri Ide,F,Japan,JPN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Juri Ide,F,Japan,JPN,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Yurie Kato,F,Japan,JPN,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Machiko Nakanishi,F,Japan,JPN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Kiyomi Niwata,F,Japan,JPN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Kiyomi Niwata,F,Japan,JPN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Kiyomi Niwata,F,Japan,JPN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Yuka Sato,F,Japan,JPN,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Ai Ueda,F,Japan,JPN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Ai Ueda,F,Japan,JPN,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Ai Ueda,F,Japan,JPN,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Niina Kishimoto,F,Japan,JPN,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,True
+Niina Kishimoto,F,Japan,JPN,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Yuko Takahashi,F,Japan,JPN,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,True
+Yuko Takahashi,F,Japan,JPN,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Yuko Takahashi,F,Japan,JPN,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,True,False

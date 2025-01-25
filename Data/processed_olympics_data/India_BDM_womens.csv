@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Madhumita Bisht,F,India,IND,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Jwala Gutta,F,India,IND,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Jwala Gutta,F,India,IND,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Jwala Gutta,F,India,IND,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Saina Nehwal,F,India,IND,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Saina Nehwal,F,India,IND,2012,London,Badminton,Badminton Women's Singles,Bronze,Badminton,BDM,True
-Saina Nehwal,F,India,IND,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Varalakshimi Venkata,F,India,IND,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Ashwini Ponnappa,F,India,IND,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Ashwini Ponnappa,F,India,IND,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Lalji Popat,F,India,IND,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Lalji Popat,F,India,IND,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Pusarla Sindhu,F,India,IND,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,Silver,Badminton,BDM,False
-Sindhu Pusarla,F,India,IND,2020,Tokyo,Badminton,Women's Singles,Bronze,Women's,BDM,True
-Sindhu Pusarla,F,India,IND,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,True
-Tanisha Crasto,F,India,IND,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,False
-Ashwini Ponnappa,F,India,IND,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Madhumita Bisht,F,India,IND,1992,Barcelona,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Jwala Gutta,F,India,IND,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Jwala Gutta,F,India,IND,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Jwala Gutta,F,India,IND,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Saina Nehwal,F,India,IND,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Saina Nehwal,F,India,IND,2012,London,Badminton,Badminton Women's Singles,Bronze,Badminton,BDM,True,False
+Saina Nehwal,F,India,IND,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Varalakshimi Venkata,F,India,IND,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Ashwini Ponnappa,F,India,IND,2012,London,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Ashwini Ponnappa,F,India,IND,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Lalji Popat,F,India,IND,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Lalji Popat,F,India,IND,2004,Athina,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Pusarla Sindhu,F,India,IND,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,Silver,Badminton,BDM,False,True
+Sindhu Pusarla,F,India,IND,2020,Tokyo,Badminton,Women's Singles,Bronze,Women's,BDM,True,True
+Sindhu Pusarla,F,India,IND,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,True,False
+Tanisha Crasto,F,India,IND,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,False,True
+Ashwini Ponnappa,F,India,IND,2024,Paris,Badminton,Women's Doubles,No medal,Women's,BDM,True,False

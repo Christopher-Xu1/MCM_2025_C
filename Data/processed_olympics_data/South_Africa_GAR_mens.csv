@@ -1,42 +1,42 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ronald Lombard,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Ronald Lombard,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Ronald Lombard,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Ronald Lombard,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Ronald Lombard,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Ronald Lombard,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Ronald Lombard,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Ronald Lombard,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Ronald Lombard,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Ronald Lombard,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Ronald Lombard,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Ronald Lombard,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Ronald Lombard,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Ronald Lombard,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Ryan Patterson,M,South Africa,RSA,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Ryan Patterson,M,South Africa,RSA,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Ryan Patterson,M,South Africa,RSA,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Ryan Patterson,M,South Africa,RSA,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Ryan Patterson,M,South Africa,RSA,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Ryan Patterson,M,South Africa,RSA,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-John Wells,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-John Wells,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-John Wells,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-John Wells,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-John Wells,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-John Wells,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-John Wells,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-John Wells,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-John Wells,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-John Wells,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-John Wells,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-John Wells,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-John Wells,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-John Wells,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Rolf Yelseth,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Rolf Yelseth,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Rolf Yelseth,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Rolf Yelseth,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Rolf Yelseth,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Rolf Yelseth,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Rolf Yelseth,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ronald Lombard,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Ronald Lombard,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Ronald Lombard,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+Ronald Lombard,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Ronald Lombard,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Ronald Lombard,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Ronald Lombard,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Ronald Lombard,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,False
+Ronald Lombard,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,False
+Ronald Lombard,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,False
+Ronald Lombard,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,False
+Ronald Lombard,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,False
+Ronald Lombard,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,False
+Ronald Lombard,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,False
+Ryan Patterson,M,South Africa,RSA,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Ryan Patterson,M,South Africa,RSA,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Ryan Patterson,M,South Africa,RSA,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Ryan Patterson,M,South Africa,RSA,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Ryan Patterson,M,South Africa,RSA,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Ryan Patterson,M,South Africa,RSA,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+John Wells,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+John Wells,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+John Wells,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+John Wells,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+John Wells,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+John Wells,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+John Wells,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+John Wells,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,False
+John Wells,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,False
+John Wells,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,False
+John Wells,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,False
+John Wells,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,False
+John Wells,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,False
+John Wells,M,South Africa,RSA,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,False
+Rolf Yelseth,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Rolf Yelseth,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Rolf Yelseth,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+Rolf Yelseth,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Rolf Yelseth,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Rolf Yelseth,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Rolf Yelseth,M,South Africa,RSA,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True

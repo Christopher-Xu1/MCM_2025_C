@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Katia Overfeldt,F,Belgium,BEL,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Katia Overfeldt,F,Belgium,BEL,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Patricia Serneels,F,Belgium,BEL,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Patricia Serneels,F,Belgium,BEL,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Patricia Serneels,F,Belgium,BEL,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Katia Overfeldt,F,Belgium,BEL,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Katia Overfeldt,F,Belgium,BEL,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Patricia Serneels,F,Belgium,BEL,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Patricia Serneels,F,Belgium,BEL,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Patricia Serneels,F,Belgium,BEL,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,False

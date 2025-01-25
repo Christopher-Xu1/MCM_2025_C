@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Garry Ayre,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Robert Bolitho,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-John Brand,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Ian Bridge,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-John Catliff,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-John Connor,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-James Douglas,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Kenneth Garraway,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Kevin Grant,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Gerard Gray,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Paul James,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Anthony Lawrence,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Robert Lenarduzzi,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Martino Lettieri,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-John Mcgrane,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Michael Mcleneghan,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Wesley Mcleod,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Robin Megraw,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Dale Mitchell,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Terence Moore,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-David Jr.,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Randolph Ragan,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Carl Rose,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Michael Sweeney,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Raymond Telford,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Igor Vrablic,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
-Kenneth Whitehead,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False
-Bruce Wilson,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Garry Ayre,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Robert Bolitho,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+John Brand,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Ian Bridge,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+John Catliff,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+John Connor,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+James Douglas,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Kenneth Garraway,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Kevin Grant,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Gerard Gray,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Paul James,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Anthony Lawrence,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Robert Lenarduzzi,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Martino Lettieri,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+John Mcgrane,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Michael Mcleneghan,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Wesley Mcleod,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Robin Megraw,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Dale Mitchell,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Terence Moore,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+David Jr.,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Randolph Ragan,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Carl Rose,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Michael Sweeney,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Raymond Telford,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Igor Vrablic,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True
+Kenneth Whitehead,M,Canada,CAN,1976,Montreal,Football,Football Men's Football,No medal,Football,FBL,False,True
+Bruce Wilson,M,Canada,CAN,1984,Los Angeles,Football,Football Men's Football,No medal,Football,FBL,False,True

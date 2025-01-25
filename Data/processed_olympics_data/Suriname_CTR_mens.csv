@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Realdo Jessurun,M,Suriname,SUR,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Realdo Jessurun,M,Suriname,SUR,1988,Seoul,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Realdo Jessurun,M,Suriname,SUR,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jair Tjon,M,Suriname,SUR,2020,Tokyo,Cycling Track,Men's Sprint,No medal,Men's,CTR,True
-Jair Tjon,M,Suriname,SUR,2020,Tokyo,Cycling Track,Men's Keirin,No medal,Men's,CTR,True
-Jair Tjon,M,Suriname,SUR,2024,Paris,Cycling Track,Men's Keirin,No medal,Men's,CTR,True
-Jair Tjon,M,Suriname,SUR,2024,Paris,Cycling Track,Men's Sprint,No medal,Men's,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Realdo Jessurun,M,Suriname,SUR,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Realdo Jessurun,M,Suriname,SUR,1988,Seoul,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Realdo Jessurun,M,Suriname,SUR,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Jair Tjon,M,Suriname,SUR,2020,Tokyo,Cycling Track,Men's Sprint,No medal,Men's,CTR,True,True
+Jair Tjon,M,Suriname,SUR,2020,Tokyo,Cycling Track,Men's Keirin,No medal,Men's,CTR,True,True
+Jair Tjon,M,Suriname,SUR,2024,Paris,Cycling Track,Men's Keirin,No medal,Men's,CTR,True,False
+Jair Tjon,M,Suriname,SUR,2024,Paris,Cycling Track,Men's Sprint,No medal,Men's,CTR,True,False

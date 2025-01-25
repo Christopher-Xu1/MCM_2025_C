@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zsanett Nmeth,F,Hungary,HUN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Marianna Sastin,F,Hungary,HUN,2008,Beijing,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Marianna Sastin,F,Hungary,HUN,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Marianna Sastin,F,Hungary,HUN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Marianna Sastin,F,Hungary,HUN,2020,Tokyo,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,True
-Bernadett Nagy,F,Hungary,HUN,2024,Paris,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zsanett Nmeth,F,Hungary,HUN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Marianna Sastin,F,Hungary,HUN,2008,Beijing,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True,True
+Marianna Sastin,F,Hungary,HUN,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Marianna Sastin,F,Hungary,HUN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Marianna Sastin,F,Hungary,HUN,2020,Tokyo,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,True,False
+Bernadett Nagy,F,Hungary,HUN,2024,Paris,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,False,True

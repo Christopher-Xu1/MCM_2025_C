@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mira Potkonen,F,Finland,FIN,2016,Rio de Janeiro,Boxing,Boxing Women's Lightweight,Bronze,Boxing,BOX,False
-Johanna Potkonen,F,Finland,FIN,2020,Tokyo,Boxing,Women's Light (57-60kg),Bronze,Women's,BOX,False
-Pihla Kaivo-oja,F,Finland,FIN,2024,Paris,Boxing,Women's 50kg,No medal,Women's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mira Potkonen,F,Finland,FIN,2016,Rio de Janeiro,Boxing,Boxing Women's Lightweight,Bronze,Boxing,BOX,False,True
+Johanna Potkonen,F,Finland,FIN,2020,Tokyo,Boxing,Women's Light (57-60kg),Bronze,Women's,BOX,False,True
+Pihla Kaivo-oja,F,Finland,FIN,2024,Paris,Boxing,Women's 50kg,No medal,Women's,BOX,False,True

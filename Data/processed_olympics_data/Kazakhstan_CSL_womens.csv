@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zoya Ananchenko,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Zoya Ananchenko,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Inna Klinova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True
-Inna Klinova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Yekaterina Lukichova-smirnova,F,Kazakhstan,KAZ,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Yekaterina Lukichova-smirnova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Irina Podoynikova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Irina Podoynikova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Nataliya Sergeyeva,F,Kazakhstan,KAZ,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Nataliya Sergeyeva,F,Kazakhstan,KAZ,2004,Athina,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Nataliya Sergeyeva,F,Kazakhstan,KAZ,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True
-Nataliya Sergeyeva,F,Kazakhstan,KAZ,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Nataliya Sergeyeva,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Nataliya Sergeyeva,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True
-Ellina Uzhakhova,F,Kazakhstan,KAZ,2004,Athina,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False
-Yekaterina Smirnova,F,Kazakhstan,KAZ,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zoya Ananchenko,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Zoya Ananchenko,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Inna Klinova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True,True
+Inna Klinova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Yekaterina Lukichova-smirnova,F,Kazakhstan,KAZ,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Yekaterina Lukichova-smirnova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False
+Irina Podoynikova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Irina Podoynikova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,True
+Nataliya Sergeyeva,F,Kazakhstan,KAZ,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Nataliya Sergeyeva,F,Kazakhstan,KAZ,2004,Athina,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Nataliya Sergeyeva,F,Kazakhstan,KAZ,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True,False
+Nataliya Sergeyeva,F,Kazakhstan,KAZ,2012,London,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Nataliya Sergeyeva,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Nataliya Sergeyeva,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",No medal,Canoeing,CSL,True,False
+Ellina Uzhakhova,F,Kazakhstan,KAZ,2004,Athina,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False,True
+Yekaterina Smirnova,F,Kazakhstan,KAZ,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,False,True

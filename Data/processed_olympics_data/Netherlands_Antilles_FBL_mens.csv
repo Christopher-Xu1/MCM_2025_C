@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Juan Briezen,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False
-Jorge Brion,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False
-Adriaan Brokke,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False
-Wilhelm Canword,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False
-Wilfred Lanoi,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False
-Guillermo Giribaldi,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False
-Ergilio Hato,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False
-Willys Heyliger,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False
-Guillermo Krips,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False
-Pedro Matrona,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False
-Edmundo Vlinder,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Juan Briezen,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False,True
+Jorge Brion,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False,True
+Adriaan Brokke,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False,True
+Wilhelm Canword,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False,True
+Wilfred Lanoi,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False,True
+Guillermo Giribaldi,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False,True
+Ergilio Hato,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False,True
+Willys Heyliger,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False,True
+Guillermo Krips,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False,True
+Pedro Matrona,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False,True
+Edmundo Vlinder,M,Netherlands Antilles,AHO,1952,Helsinki,Football,Football Men's Football,No medal,Football,FBL,False,True

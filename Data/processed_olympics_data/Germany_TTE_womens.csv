@@ -1,43 +1,43 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zhenqi -apolnia),F,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,False
-Qianhong (he-),F,Germany,GER,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Ying Han,F,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Ying Han,F,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Silver,Table,TTE,True
-Irene Ivancan,F,Germany,GER,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,False
-Olga Nemes,F,Germany,GER,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Olga Nemes,F,Germany,GER,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Elke (-s),F,Germany,GER,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Elke (-s),F,Germany,GER,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Elke (-s),F,Germany,GER,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Elke (-s),F,Germany,GER,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Elke (-s),F,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Elke (-s),F,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Jie (shi-),F,Germany,GER,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jie (shi-),F,Germany,GER,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jie (shi-),F,Germany,GER,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Xiaona Shan,F,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Silver,Table,TTE,True
-Kristin Silbereisen,F,Germany,GER,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Kristin Silbereisen,F,Germany,GER,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Petrissa Solja,F,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Petrissa Solja,F,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Silver,Table,TTE,True
-Nicole Struse,F,Germany,GER,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Nicole Struse,F,Germany,GER,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Nicole Struse,F,Germany,GER,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Nicole Struse,F,Germany,GER,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Jing Tian-zrner,F,Germany,GER,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Jiaduo Wu,F,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jiaduo Wu,F,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Jiaduo Wu,F,Germany,GER,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Jiaduo Wu,F,Germany,GER,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Ying Han,F,Germany,GER,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Ying Han,F,Germany,GER,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Xiaona Shan,F,Germany,GER,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Petrissa Solja,F,Germany,GER,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Petrissa Solja,F,Germany,GER,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,True
-Petrissa Solja,F,Germany,GER,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Xiaona Shan,F,Germany,GER,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Xiaona Shan,F,Germany,GER,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Nina Mittelham,F,Germany,GER,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Nina Mittelham,F,Germany,GER,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True
-Yuan Wan,F,Germany,GER,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,False
-Annett Kaufmann,F,Germany,GER,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zhenqi -apolnia),F,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,False,True
+Qianhong (he-),F,Germany,GER,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Ying Han,F,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Ying Han,F,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Silver,Table,TTE,True,True
+Irene Ivancan,F,Germany,GER,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,False,True
+Olga Nemes,F,Germany,GER,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Olga Nemes,F,Germany,GER,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Elke (-s),F,Germany,GER,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Elke (-s),F,Germany,GER,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Elke (-s),F,Germany,GER,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Elke (-s),F,Germany,GER,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Elke (-s),F,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Elke (-s),F,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Jie (shi-),F,Germany,GER,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Jie (shi-),F,Germany,GER,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Jie (shi-),F,Germany,GER,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Xiaona Shan,F,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Silver,Table,TTE,True,True
+Kristin Silbereisen,F,Germany,GER,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Kristin Silbereisen,F,Germany,GER,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Petrissa Solja,F,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Petrissa Solja,F,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Silver,Table,TTE,True,True
+Nicole Struse,F,Germany,GER,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Nicole Struse,F,Germany,GER,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Nicole Struse,F,Germany,GER,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Nicole Struse,F,Germany,GER,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Jing Tian-zrner,F,Germany,GER,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Jiaduo Wu,F,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Jiaduo Wu,F,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Jiaduo Wu,F,Germany,GER,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Jiaduo Wu,F,Germany,GER,2012,London,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Ying Han,F,Germany,GER,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False
+Ying Han,F,Germany,GER,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True,False
+Xiaona Shan,F,Germany,GER,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True,False
+Petrissa Solja,F,Germany,GER,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False
+Petrissa Solja,F,Germany,GER,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,True,False
+Petrissa Solja,F,Germany,GER,2020,Tokyo,Table Tennis,Women's Team,No medal,Women's,TTE,True,False
+Xiaona Shan,F,Germany,GER,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False
+Xiaona Shan,F,Germany,GER,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True,False
+Nina Mittelham,F,Germany,GER,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Nina Mittelham,F,Germany,GER,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True,True
+Yuan Wan,F,Germany,GER,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,False,True
+Annett Kaufmann,F,Germany,GER,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,False,True

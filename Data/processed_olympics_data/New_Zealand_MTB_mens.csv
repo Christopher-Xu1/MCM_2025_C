@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anton Cooper,M,New Zealand,NZL,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False
-Samuel Gaze,M,New Zealand,NZL,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anton Cooper,M,New Zealand,NZL,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False,True
+Samuel Gaze,M,New Zealand,NZL,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False,True

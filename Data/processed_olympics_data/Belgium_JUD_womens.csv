@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Inge Clement,F,Belgium,BEL,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Nicole Flagothier,F,Belgium,BEL,1992,Barcelona,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Heidi Goossens,F,Belgium,BEL,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Heidi Goossens,F,Belgium,BEL,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Ilse (-berghmans),F,Belgium,BEL,2004,Athina,Judo,Judo Women's Half-Lightweight,Bronze,Judo,JUD,True
-Ilse (-berghmans),F,Belgium,BEL,2008,Beijing,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Ilse (-berghmans),F,Belgium,BEL,2012,London,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Catherine Jacques,F,Belgium,BEL,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Catherine Jacques,F,Belgium,BEL,2008,Beijing,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Marie Lomba,F,Belgium,BEL,1996,Atlanta,Judo,Judo Women's Lightweight,Bronze,Judo,JUD,True
-Marie Lomba,F,Belgium,BEL,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Brigitte Olivier,F,Belgium,BEL,2000,Sydney,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Heidi Rakels,F,Belgium,BEL,1992,Barcelona,Judo,Judo Women's Middleweight,Bronze,Judo,JUD,True
-Heidi Rakels,F,Belgium,BEL,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Ann Simons,F,Belgium,BEL,2000,Sydney,Judo,Judo Women's Extra-Lightweight,Bronze,Judo,JUD,False
-Charline Snick,F,Belgium,BEL,2012,London,Judo,Judo Women's Extra-Lightweight,Bronze,Judo,JUD,True
-Charline Snick,F,Belgium,BEL,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Gella Vandecaveye,F,Belgium,BEL,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Gella Vandecaveye,F,Belgium,BEL,1996,Atlanta,Judo,Judo Women's Half-Middleweight,Silver,Judo,JUD,True
-Gella Vandecaveye,F,Belgium,BEL,2000,Sydney,Judo,Judo Women's Half-Middleweight,Bronze,Judo,JUD,True
-Gella Vandecaveye,F,Belgium,BEL,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Ulla Werbrouck,F,Belgium,BEL,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Ulla Werbrouck,F,Belgium,BEL,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,Gold,Judo,JUD,True
-Ulla Werbrouck,F,Belgium,BEL,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-van Charline,F,Belgium,BEL,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,False
-Gabriella Willems,F,Belgium,BEL,2024,Paris,Judo,Women -70 kg,Bronze,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Inge Clement,F,Belgium,BEL,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Nicole Flagothier,F,Belgium,BEL,1992,Barcelona,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Heidi Goossens,F,Belgium,BEL,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,True
+Heidi Goossens,F,Belgium,BEL,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,False
+Ilse (-berghmans),F,Belgium,BEL,2004,Athina,Judo,Judo Women's Half-Lightweight,Bronze,Judo,JUD,True,True
+Ilse (-berghmans),F,Belgium,BEL,2008,Beijing,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,False
+Ilse (-berghmans),F,Belgium,BEL,2012,London,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,False
+Catherine Jacques,F,Belgium,BEL,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,True
+Catherine Jacques,F,Belgium,BEL,2008,Beijing,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Marie Lomba,F,Belgium,BEL,1996,Atlanta,Judo,Judo Women's Lightweight,Bronze,Judo,JUD,True,True
+Marie Lomba,F,Belgium,BEL,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,False
+Brigitte Olivier,F,Belgium,BEL,2000,Sydney,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Heidi Rakels,F,Belgium,BEL,1992,Barcelona,Judo,Judo Women's Middleweight,Bronze,Judo,JUD,True,True
+Heidi Rakels,F,Belgium,BEL,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,False
+Ann Simons,F,Belgium,BEL,2000,Sydney,Judo,Judo Women's Extra-Lightweight,Bronze,Judo,JUD,False,True
+Charline Snick,F,Belgium,BEL,2012,London,Judo,Judo Women's Extra-Lightweight,Bronze,Judo,JUD,True,True
+Charline Snick,F,Belgium,BEL,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,False
+Gella Vandecaveye,F,Belgium,BEL,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,True
+Gella Vandecaveye,F,Belgium,BEL,1996,Atlanta,Judo,Judo Women's Half-Middleweight,Silver,Judo,JUD,True,False
+Gella Vandecaveye,F,Belgium,BEL,2000,Sydney,Judo,Judo Women's Half-Middleweight,Bronze,Judo,JUD,True,False
+Gella Vandecaveye,F,Belgium,BEL,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False
+Ulla Werbrouck,F,Belgium,BEL,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,True
+Ulla Werbrouck,F,Belgium,BEL,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,Gold,Judo,JUD,True,False
+Ulla Werbrouck,F,Belgium,BEL,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+van Charline,F,Belgium,BEL,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,False,True
+Gabriella Willems,F,Belgium,BEL,2024,Paris,Judo,Women -70 kg,Bronze,Women,JUD,False,True

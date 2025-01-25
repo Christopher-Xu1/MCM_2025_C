@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ibtissem Doudou,F,Algeria,ALG,2024,Paris,Wrestling,Women's Freestyle 50kg,No medal,Women's,WRF,False
-Fouzia Aouissi,F,Algeria,ALG,2024,Paris,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ibtissem Doudou,F,Algeria,ALG,2024,Paris,Wrestling,Women's Freestyle 50kg,No medal,Women's,WRF,False,True
+Fouzia Aouissi,F,Algeria,ALG,2024,Paris,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yiling Song,F,China,CHN,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,False
-Yuetong Zhang,F,China,CHN,2024,Paris,Sport Climbing,Women's Boulder & Lead,No medal,Women's,CLB,False
-Zhilu Luo,F,China,CHN,2024,Paris,Sport Climbing,Women's Boulder & Lead,No medal,Women's,CLB,False
-Yafei Zhou,F,China,CHN,2024,Paris,Sport Climbing,Women's Speed,No medal,Women's,CLB,False
-Lijuan Deng,F,China,CHN,2024,Paris,Sport Climbing,Women's Speed,Silver,Women's,CLB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yiling Song,F,China,CHN,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,False,True
+Yuetong Zhang,F,China,CHN,2024,Paris,Sport Climbing,Women's Boulder & Lead,No medal,Women's,CLB,False,True
+Zhilu Luo,F,China,CHN,2024,Paris,Sport Climbing,Women's Boulder & Lead,No medal,Women's,CLB,False,True
+Yafei Zhou,F,China,CHN,2024,Paris,Sport Climbing,Women's Speed,No medal,Women's,CLB,False,True
+Lijuan Deng,F,China,CHN,2024,Paris,Sport Climbing,Women's Speed,Silver,Women's,CLB,False,True

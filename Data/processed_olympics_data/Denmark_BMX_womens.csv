@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Simone Christensen,F,Denmark,DEN,2020,Tokyo,Cycling BMX Racing,Women,No medal,Women,BMX,False
-Dorte Balle,F,Denmark,DEN,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,False
-Malene Kejlstrup,F,Denmark,DEN,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Simone Christensen,F,Denmark,DEN,2020,Tokyo,Cycling BMX Racing,Women,No medal,Women,BMX,False,True
+Dorte Balle,F,Denmark,DEN,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,False,True
+Malene Kejlstrup,F,Denmark,DEN,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,False,True

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Takeshi Hagiwara,M,Roy,JPN,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-Fujiya Matsumoto,M,Roy,JPN,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-Masao Yoshida,M,Roy,JPN,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Takeshi Hagiwara,M,Roy,JPN,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+Fujiya Matsumoto,M,Roy,JPN,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+Masao Yoshida,M,Roy,JPN,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True

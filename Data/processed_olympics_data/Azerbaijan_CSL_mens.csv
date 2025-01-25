@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Serhiy Bezuhliy,M,Azerbaijan,AZE,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,Canoeing,CSL,False
-Valentin Demyanenko,M,Azerbaijan,AZE,2012,London,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,Canoeing,CSL,True
-Valentin Demyanenko,M,Azerbaijan,AZE,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",Silver,Canoeing,CSL,True
-Jure Meqli,M,Azerbaijan,AZE,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Maksym Prokopenko,M,Azerbaijan,AZE,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Serhiy Bezuhliy,M,Azerbaijan,AZE,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,Canoeing,CSL,False,True
+Valentin Demyanenko,M,Azerbaijan,AZE,2012,London,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,Canoeing,CSL,True,True
+Valentin Demyanenko,M,Azerbaijan,AZE,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",Silver,Canoeing,CSL,True,False
+Jure Meqli,M,Azerbaijan,AZE,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Maksym Prokopenko,M,Azerbaijan,AZE,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",No medal,Canoeing,CSL,False,True

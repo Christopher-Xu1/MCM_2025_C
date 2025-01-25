@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Walter Buckmaster,M,Hurlingham-2,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False
-Frederick Freake,M,Hurlingham-2,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False
-Walter Jones,M,Hurlingham-2,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False
-John Wodehouse,M,Hurlingham-2,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Walter Buckmaster,M,Hurlingham-2,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False,True
+Frederick Freake,M,Hurlingham-2,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False,True
+Walter Jones,M,Hurlingham-2,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False,True
+John Wodehouse,M,Hurlingham-2,GBR,1908,London,Polo,Polo Men's Polo,Silver,Polo,POL,False,True

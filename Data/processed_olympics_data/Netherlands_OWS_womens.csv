@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-van Sharon,F,Netherlands,NED,2020,Tokyo,Marathon Swimming,Women's 10km,Silver,Women's,OWS,True
-van Sharon,F,Netherlands,NED,2024,Paris,Marathon Swimming,Women's 10km,Gold,Women's,OWS,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+van Sharon,F,Netherlands,NED,2020,Tokyo,Marathon Swimming,Women's 10km,Silver,Women's,OWS,True,True
+van Sharon,F,Netherlands,NED,2024,Paris,Marathon Swimming,Women's 10km,Gold,Women's,OWS,True,False

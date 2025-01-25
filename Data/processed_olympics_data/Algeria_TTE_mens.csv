@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohamed Boudjadja,M,Algeria,ALG,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Mohamed Boudjadja,M,Algeria,ALG,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Abdel Djaziri,M,Algeria,ALG,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-David Kaci,M,Algeria,ALG,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Idir Khourta,M,Algeria,ALG,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Farid Oulami,M,Algeria,ALG,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Larbi Bouriah,M,Algeria,ALG,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False
-Mehdi Bouloussa,M,Algeria,ALG,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohamed Boudjadja,M,Algeria,ALG,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Mohamed Boudjadja,M,Algeria,ALG,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Abdel Djaziri,M,Algeria,ALG,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+David Kaci,M,Algeria,ALG,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Idir Khourta,M,Algeria,ALG,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Farid Oulami,M,Algeria,ALG,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Larbi Bouriah,M,Algeria,ALG,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True
+Mehdi Bouloussa,M,Algeria,ALG,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True

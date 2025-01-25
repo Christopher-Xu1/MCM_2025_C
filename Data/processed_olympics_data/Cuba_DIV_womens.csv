@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Iohana Talabera,F,Cuba,CUB,2000,Sydney,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Iohana Talabera,F,Cuba,CUB,2004,Athina,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Lourdes Gonzlez,F,Cuba,CUB,1980,Moskva,Diving,Diving Women's Springboard,No medal,Diving,DIV,False
-Yaima Pea,F,Cuba,CUB,2004,Athina,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Yolanda Espinosa,F,Cuba,CUB,2000,Sydney,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Yolanda Espinosa,F,Cuba,CUB,2004,Athina,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Annia Rovira,F,Cuba,CUB,2012,London,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Anisley Garcia,F,Cuba,CUB,2024,Paris,Diving,Women's 10m Platform,No medal,Women's,DIV,True
-Anisley Garcia,F,Cuba,CUB,2024,Paris,Diving,Women's 3m Springboard,No medal,Women's,DIV,True
-Prisis Ruiz,F,Cuba,CUB,2024,Paris,Diving,Women's 3m Springboard,No medal,Women's,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Iohana Talabera,F,Cuba,CUB,2000,Sydney,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Iohana Talabera,F,Cuba,CUB,2004,Athina,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Lourdes Gonzlez,F,Cuba,CUB,1980,Moskva,Diving,Diving Women's Springboard,No medal,Diving,DIV,False,True
+Yaima Pea,F,Cuba,CUB,2004,Athina,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Yolanda Espinosa,F,Cuba,CUB,2000,Sydney,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Yolanda Espinosa,F,Cuba,CUB,2004,Athina,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Annia Rovira,F,Cuba,CUB,2012,London,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Anisley Garcia,F,Cuba,CUB,2024,Paris,Diving,Women's 10m Platform,No medal,Women's,DIV,True,True
+Anisley Garcia,F,Cuba,CUB,2024,Paris,Diving,Women's 3m Springboard,No medal,Women's,DIV,True,True
+Prisis Ruiz,F,Cuba,CUB,2024,Paris,Diving,Women's 3m Springboard,No medal,Women's,DIV,False,True

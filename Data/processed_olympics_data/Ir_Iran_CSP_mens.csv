@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ali Aghamirzaeijenaghard,M,Ir Iran,IRI,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,False
-Nabi Rezaei,M,Ir Iran,IRI,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ali Aghamirzaeijenaghard,M,Ir Iran,IRI,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,False,True
+Nabi Rezaei,M,Ir Iran,IRI,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,False,True

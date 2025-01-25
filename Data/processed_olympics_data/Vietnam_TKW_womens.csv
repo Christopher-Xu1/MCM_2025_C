@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chu Linh,F,Vietnam,VIE,2012,London,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,False
-Nguyn Thu,F,Vietnam,VIE,2008,Beijing,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,False
-Nguyn Mai,F,Vietnam,VIE,2000,Sydney,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,False
-Trn Ngn,F,Vietnam,VIE,2000,Sydney,Taekwondo,Taekwondo Women's Featherweight,Silver,Taekwondo,TKW,False
-Trn Trc,F,Vietnam,VIE,2008,Beijing,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,False
-Tuyen Truong,F,Vietnam,VIE,2020,Tokyo,Taekwondo,Women -49kg,No medal,Women,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chu Linh,F,Vietnam,VIE,2012,London,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,False,True
+Nguyn Thu,F,Vietnam,VIE,2008,Beijing,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,False,True
+Nguyn Mai,F,Vietnam,VIE,2000,Sydney,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,False,True
+Trn Ngn,F,Vietnam,VIE,2000,Sydney,Taekwondo,Taekwondo Women's Featherweight,Silver,Taekwondo,TKW,False,True
+Trn Trc,F,Vietnam,VIE,2008,Beijing,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,False,True
+Tuyen Truong,F,Vietnam,VIE,2020,Tokyo,Taekwondo,Women -49kg,No medal,Women,TKW,False,True

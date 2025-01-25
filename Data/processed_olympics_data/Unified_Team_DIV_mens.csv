@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Giorgi Chogovadze,M,Unified Team,EUN,1992,Barcelona,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Dmitry Sautin,M,Unified Team,EUN,1992,Barcelona,Diving,Diving Men's Springboard,Bronze,Diving,DIV,True
-Dmitry Sautin,M,Unified Team,EUN,1992,Barcelona,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Valery Statsenko,M,Unified Team,EUN,1992,Barcelona,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Giorgi Chogovadze,M,Unified Team,EUN,1992,Barcelona,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Dmitry Sautin,M,Unified Team,EUN,1992,Barcelona,Diving,Diving Men's Springboard,Bronze,Diving,DIV,True,True
+Dmitry Sautin,M,Unified Team,EUN,1992,Barcelona,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Valery Statsenko,M,Unified Team,EUN,1992,Barcelona,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True

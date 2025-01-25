@@ -1,38 +1,38 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Margarete Adler,F,Austria,AUT,1924,Paris,Diving,Diving Women's Plain High,No medal,Diving,DIV,False
-Klara Bornett,F,Austria,AUT,1924,Paris,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Klara Bornett,F,Austria,AUT,1928,Amsterdam,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Brigitte Duda,F,Austria,AUT,1976,Montreal,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Magdalene Epply-staudinger,F,Austria,AUT,1932,Los Angeles,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Magdalene Epply-staudinger,F,Austria,AUT,1932,Los Angeles,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Gudrun Grmer,F,Austria,AUT,1948,London,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Gudrun Grmer,F,Austria,AUT,1948,London,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Johanna Kellner,F,Austria,AUT,1912,Stockholm,Diving,Diving Women's Plain High,No medal,Diving,DIV,False
-Veronika Kratochwil,F,Austria,AUT,2008,Beijing,Diving,Diving Women's Springboard,No medal,Diving,DIV,False
-Nicole Kreil,F,Austria,AUT,1984,Los Angeles,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Nicole Kreil,F,Austria,AUT,1984,Los Angeles,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Ingeborg (-uhler),F,Austria,AUT,1964,Tokyo,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Ingeborg (-uhler),F,Austria,AUT,1964,Tokyo,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Ingeborg (-uhler),F,Austria,AUT,1968,Mexico City,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Ingeborg (-uhler),F,Austria,AUT,1968,Mexico City,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Ingeborg (-uhler),F,Austria,AUT,1972,Munich,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Eva (-worisch),F,Austria,AUT,1952,Helsinki,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Eva (-worisch),F,Austria,AUT,1956,Melbourne,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Therese Rampel,F,Austria,AUT,1936,Berlin,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Marion Reiff,F,Austria,AUT,2000,Sydney,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Marion Reiff,F,Austria,AUT,2000,Sydney,Diving,Diving Women's Synchronized Platform,No medal,Diving,DIV,True
-Marion Reiff,F,Austria,AUT,2004,Athina,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Anja Richter-libiseller,F,Austria,AUT,1996,Atlanta,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Anja Richter-libiseller,F,Austria,AUT,2000,Sydney,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Anja Richter-libiseller,F,Austria,AUT,2000,Sydney,Diving,Diving Women's Synchronized Platform,No medal,Diving,DIV,True
-Anja Richter-libiseller,F,Austria,AUT,2004,Athina,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Anja Richter-libiseller,F,Austria,AUT,2008,Beijing,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Ulrike Sindelar-pachowsky,F,Austria,AUT,1964,Tokyo,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Ulrike Sindelar-pachowsky,F,Austria,AUT,1964,Tokyo,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Viktoria Slkner,F,Austria,AUT,1924,Paris,Diving,Diving Women's Springboard,No medal,Diving,DIV,False
-Alma Staudinger,F,Austria,AUT,1936,Berlin,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Alma Staudinger,F,Austria,AUT,1936,Berlin,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Alma Staudinger,F,Austria,AUT,1948,London,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Alma Staudinger,F,Austria,AUT,1948,London,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Elisabeth Svoboda,F,Austria,AUT,1964,Tokyo,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Elisabeth Svoboda,F,Austria,AUT,1964,Tokyo,Diving,Diving Women's Platform,No medal,Diving,DIV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Margarete Adler,F,Austria,AUT,1924,Paris,Diving,Diving Women's Plain High,No medal,Diving,DIV,False,True
+Klara Bornett,F,Austria,AUT,1924,Paris,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Klara Bornett,F,Austria,AUT,1928,Amsterdam,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Brigitte Duda,F,Austria,AUT,1976,Montreal,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Magdalene Epply-staudinger,F,Austria,AUT,1932,Los Angeles,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Magdalene Epply-staudinger,F,Austria,AUT,1932,Los Angeles,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Gudrun Grmer,F,Austria,AUT,1948,London,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Gudrun Grmer,F,Austria,AUT,1948,London,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Johanna Kellner,F,Austria,AUT,1912,Stockholm,Diving,Diving Women's Plain High,No medal,Diving,DIV,False,True
+Veronika Kratochwil,F,Austria,AUT,2008,Beijing,Diving,Diving Women's Springboard,No medal,Diving,DIV,False,True
+Nicole Kreil,F,Austria,AUT,1984,Los Angeles,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Nicole Kreil,F,Austria,AUT,1984,Los Angeles,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Ingeborg (-uhler),F,Austria,AUT,1964,Tokyo,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Ingeborg (-uhler),F,Austria,AUT,1964,Tokyo,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Ingeborg (-uhler),F,Austria,AUT,1968,Mexico City,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Ingeborg (-uhler),F,Austria,AUT,1968,Mexico City,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Ingeborg (-uhler),F,Austria,AUT,1972,Munich,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Eva (-worisch),F,Austria,AUT,1952,Helsinki,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Eva (-worisch),F,Austria,AUT,1956,Melbourne,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Therese Rampel,F,Austria,AUT,1936,Berlin,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Marion Reiff,F,Austria,AUT,2000,Sydney,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Marion Reiff,F,Austria,AUT,2000,Sydney,Diving,Diving Women's Synchronized Platform,No medal,Diving,DIV,True,True
+Marion Reiff,F,Austria,AUT,2004,Athina,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Anja Richter-libiseller,F,Austria,AUT,1996,Atlanta,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Anja Richter-libiseller,F,Austria,AUT,2000,Sydney,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Anja Richter-libiseller,F,Austria,AUT,2000,Sydney,Diving,Diving Women's Synchronized Platform,No medal,Diving,DIV,True,False
+Anja Richter-libiseller,F,Austria,AUT,2004,Athina,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Anja Richter-libiseller,F,Austria,AUT,2008,Beijing,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Ulrike Sindelar-pachowsky,F,Austria,AUT,1964,Tokyo,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Ulrike Sindelar-pachowsky,F,Austria,AUT,1964,Tokyo,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Viktoria Slkner,F,Austria,AUT,1924,Paris,Diving,Diving Women's Springboard,No medal,Diving,DIV,False,True
+Alma Staudinger,F,Austria,AUT,1936,Berlin,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Alma Staudinger,F,Austria,AUT,1936,Berlin,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Alma Staudinger,F,Austria,AUT,1948,London,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Alma Staudinger,F,Austria,AUT,1948,London,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Elisabeth Svoboda,F,Austria,AUT,1964,Tokyo,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Elisabeth Svoboda,F,Austria,AUT,1964,Tokyo,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True

@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-An Byeong-hun,M,South Korea,KOR,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Wang Jeung-hun,M,South Korea,KOR,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Sungjae Im,M,South Korea,KOR,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Woo Kim,M,South Korea,KOR,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+An Byeong-hun,M,South Korea,KOR,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Wang Jeung-hun,M,South Korea,KOR,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Sungjae Im,M,South Korea,KOR,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Woo Kim,M,South Korea,KOR,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True

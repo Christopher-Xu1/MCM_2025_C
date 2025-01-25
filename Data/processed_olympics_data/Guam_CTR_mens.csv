@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jazy Garcia,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jazy Garcia,M,Guam,GUM,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Jazy Garcia,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Jazy Garcia,M,Guam,GUM,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Manuel Garca,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Manuel Garca,M,Guam,GUM,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Manuel Garca,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Manuel Garca,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Derek Horton,M,Guam,GUM,2000,Sydney,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Derek Horton,M,Guam,GUM,2012,London,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Peter Ii,M,Guam,GUM,2016,Rio de Janeiro,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-David Martin,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
-Martin Santos,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Martin Santos,M,Guam,GUM,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Martin Santos,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Wil Yamamoto,M,Guam,GUM,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jazy Garcia,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Jazy Garcia,M,Guam,GUM,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Jazy Garcia,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Jazy Garcia,M,Guam,GUM,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Manuel Garca,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Manuel Garca,M,Guam,GUM,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Manuel Garca,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Manuel Garca,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Derek Horton,M,Guam,GUM,2000,Sydney,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,True
+Derek Horton,M,Guam,GUM,2012,London,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,False
+Peter Ii,M,Guam,GUM,2016,Rio de Janeiro,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+David Martin,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True
+Martin Santos,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Martin Santos,M,Guam,GUM,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Martin Santos,M,Guam,GUM,1992,Barcelona,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Wil Yamamoto,M,Guam,GUM,1992,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True

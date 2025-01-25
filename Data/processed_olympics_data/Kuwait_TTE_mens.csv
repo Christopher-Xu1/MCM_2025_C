@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dukhail Al-habashi,M,Kuwait,KUW,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Ibrahim Al-hasan,M,Kuwait,KUW,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Ibrahim Al-hasan,M,Kuwait,KUW,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dukhail Al-habashi,M,Kuwait,KUW,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Ibrahim Al-hasan,M,Kuwait,KUW,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Ibrahim Al-hasan,M,Kuwait,KUW,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False

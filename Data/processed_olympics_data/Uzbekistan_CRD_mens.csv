@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Muradjan Khalmuratov,M,Uzbekistan,UZB,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Nikita Tsvetkov,M,Uzbekistan,UZB,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Muradjan Khalmuratov,M,Uzbekistan,UZB,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Nikita Tsvetkov,M,Uzbekistan,UZB,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True

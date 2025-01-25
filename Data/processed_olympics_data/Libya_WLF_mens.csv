@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hamza Abughalia,M,Libya,LBA,2004,Athina,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Mustafa Ahshad,M,Libya,LBA,1992,Barcelona,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Ahmed El-magrisi,M,Libya,LBA,1988,Seoul,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Mohamed Eshtiwi,M,Libya,LBA,2004,Athina,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Almabruk Mahmud,M,Libya,LBA,1980,Moskva,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Abdullah Mussa,M,Libya,LBA,1988,Seoul,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Ali Shalabi,M,Libya,LBA,1980,Moskva,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Ahmed Abuzriba,M,Libya,LBA,2024,Paris,Weightlifting,Men's 102kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hamza Abughalia,M,Libya,LBA,2004,Athina,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Mustafa Ahshad,M,Libya,LBA,1992,Barcelona,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Ahmed El-magrisi,M,Libya,LBA,1988,Seoul,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Mohamed Eshtiwi,M,Libya,LBA,2004,Athina,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Almabruk Mahmud,M,Libya,LBA,1980,Moskva,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Abdullah Mussa,M,Libya,LBA,1988,Seoul,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Ali Shalabi,M,Libya,LBA,1980,Moskva,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Ahmed Abuzriba,M,Libya,LBA,2024,Paris,Weightlifting,Men's 102kg,No medal,Men's,WLF,False,True

@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bat-Ochiryn Ser-od,M,Mongolia,MGL,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Bat-Ochiryn Ser-od,M,Mongolia,MGL,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Bat-Ochiryn Ser-od,M,Mongolia,MGL,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Bat-Ochiryn Ser-od,M,Mongolia,MGL,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Byambajavyn Enkhbaatar,M,Mongolia,MGL,1972,Munich,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Dambadarjaagiin Gantulga,M,Mongolia,MGL,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Dashdendeviin Makhashiri,M,Mongolia,MGL,1996,Atlanta,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,False
-Dulamyn Amarsanaa,M,Mongolia,MGL,1964,Tokyo,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Puntsag-Ochiryn Prevsren,M,Mongolia,MGL,2000,Sydney,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Pyambuugiin Tuul,M,Mongolia,MGL,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Tseveenravdangiin Byambajav,M,Mongolia,MGL,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Ser-od Bat-ochir,M,Mongolia,MGL,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,True
-Byambajav Tseveenravdan,M,Mongolia,MGL,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False
-Ser-od Bat-ochir,M,Mongolia,MGL,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bat-Ochiryn Ser-od,M,Mongolia,MGL,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Bat-Ochiryn Ser-od,M,Mongolia,MGL,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Bat-Ochiryn Ser-od,M,Mongolia,MGL,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Bat-Ochiryn Ser-od,M,Mongolia,MGL,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Byambajavyn Enkhbaatar,M,Mongolia,MGL,1972,Munich,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Dambadarjaagiin Gantulga,M,Mongolia,MGL,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Dashdendeviin Makhashiri,M,Mongolia,MGL,1996,Atlanta,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,False,True
+Dulamyn Amarsanaa,M,Mongolia,MGL,1964,Tokyo,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Puntsag-Ochiryn Prevsren,M,Mongolia,MGL,2000,Sydney,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Pyambuugiin Tuul,M,Mongolia,MGL,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Tseveenravdangiin Byambajav,M,Mongolia,MGL,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Ser-od Bat-ochir,M,Mongolia,MGL,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,True,True
+Byambajav Tseveenravdan,M,Mongolia,MGL,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False,True
+Ser-od Bat-ochir,M,Mongolia,MGL,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,True,False

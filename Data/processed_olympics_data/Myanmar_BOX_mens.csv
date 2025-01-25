@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bawa Maung,M,Myanmar,MYA,1964,Tokyo,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Hla Nyunt,M,Myanmar,MYA,1960,Roma,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Latt Zaw,M,Myanmar,MYA,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Stanley Majid,M,Myanmar,MYA,1952,Helsinki,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Maung Thant,M,Myanmar,MYA,1948,London,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Nyein Ba,M,Myanmar,MYA,1952,Helsinki,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Terrence Oung,M,Myanmar,MYA,1956,Melbourne,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Hardy Saw,M,Myanmar,MYA,1948,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Than Tun,M,Myanmar,MYA,1960,Roma,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Thein Myint,M,Myanmar,MYA,1956,Melbourne,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True
-Thein Myint,M,Myanmar,MYA,1960,Roma,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True
-Thein Myint,M,Myanmar,MYA,1964,Tokyo,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True
-Thet Lai,M,Myanmar,MYA,1968,Mexico City,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Basil Thompson,M,Myanmar,MYA,1952,Helsinki,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Tin Tun,M,Myanmar,MYA,1964,Tokyo,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True
-Tin Tun,M,Myanmar,MYA,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Vanlal Dawla,M,Myanmar,MYA,1972,Munich,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Win Maung,M,Myanmar,MYA,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Yaichit Wang,M,Myanmar,MYA,1956,Melbourne,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Yaishwe Best,M,Myanmar,MYA,1956,Melbourne,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bawa Maung,M,Myanmar,MYA,1964,Tokyo,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Hla Nyunt,M,Myanmar,MYA,1960,Roma,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Latt Zaw,M,Myanmar,MYA,1984,Los Angeles,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Stanley Majid,M,Myanmar,MYA,1952,Helsinki,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Maung Thant,M,Myanmar,MYA,1948,London,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Nyein Ba,M,Myanmar,MYA,1952,Helsinki,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Terrence Oung,M,Myanmar,MYA,1956,Melbourne,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Hardy Saw,M,Myanmar,MYA,1948,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Than Tun,M,Myanmar,MYA,1960,Roma,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Thein Myint,M,Myanmar,MYA,1956,Melbourne,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True,True
+Thein Myint,M,Myanmar,MYA,1960,Roma,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True,False
+Thein Myint,M,Myanmar,MYA,1964,Tokyo,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True,False
+Thet Lai,M,Myanmar,MYA,1968,Mexico City,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Basil Thompson,M,Myanmar,MYA,1952,Helsinki,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Tin Tun,M,Myanmar,MYA,1964,Tokyo,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True,True
+Tin Tun,M,Myanmar,MYA,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,False
+Vanlal Dawla,M,Myanmar,MYA,1972,Munich,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Win Maung,M,Myanmar,MYA,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Yaichit Wang,M,Myanmar,MYA,1956,Melbourne,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Yaishwe Best,M,Myanmar,MYA,1956,Melbourne,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True

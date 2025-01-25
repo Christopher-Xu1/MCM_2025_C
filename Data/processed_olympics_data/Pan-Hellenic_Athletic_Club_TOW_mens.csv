@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dimitrios Dimitrakopoulos,M,Pan-Hellenic Athletic Club,GRE,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Nikolaos Georgantas,M,Pan-Hellenic Athletic Club,GRE,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Anastasios Georgopoulos,M,Pan-Hellenic Athletic Club,GRE,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Periklis Kakousis,M,Pan-Hellenic Athletic Club,GRE,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Vasilios Metalos,M,Pan-Hellenic Athletic Club,GRE,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dimitrios Dimitrakopoulos,M,Pan-Hellenic Athletic Club,GRE,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Nikolaos Georgantas,M,Pan-Hellenic Athletic Club,GRE,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Anastasios Georgopoulos,M,Pan-Hellenic Athletic Club,GRE,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Periklis Kakousis,M,Pan-Hellenic Athletic Club,GRE,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Vasilios Metalos,M,Pan-Hellenic Athletic Club,GRE,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True

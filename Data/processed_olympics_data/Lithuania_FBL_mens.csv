@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Valerijonas Balinas,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False
-Vincas Bartuka,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False
-Steponas Garbaiauskas,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False
-Hansas Gecas,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False
-Jurgis Hardingsonas,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False
-Stasys (-jonusas),M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False
-Leonas Juozapaitis,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False
-Edvardas Mikuiauskas,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False
-Stasys Razma,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False
-Stasys Sabaliauskas,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False
-Juozas Ebrauskas,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Valerijonas Balinas,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False,True
+Vincas Bartuka,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False,True
+Steponas Garbaiauskas,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False,True
+Hansas Gecas,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False,True
+Jurgis Hardingsonas,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False,True
+Stasys (-jonusas),M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False,True
+Leonas Juozapaitis,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False,True
+Edvardas Mikuiauskas,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False,True
+Stasys Razma,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False,True
+Stasys Sabaliauskas,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False,True
+Juozas Ebrauskas,M,Lithuania,LTU,1924,Paris,Football,Football Men's Football,No medal,Football,FBL,False,True

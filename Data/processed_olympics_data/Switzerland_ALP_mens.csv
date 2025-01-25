@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gnter Dyhrenfurth,M,Switzerland,SUI,1936,Berlin,Alpinism,Alpinism Mixed Alpinism,Gold,Alpinism,ALP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gnter Dyhrenfurth,M,Switzerland,SUI,1936,Berlin,Alpinism,Alpinism Mixed Alpinism,Gold,Alpinism,ALP,False,True

@@ -1,32 +1,32 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Arjun Basnet,M,Nepal,NEP,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Krishna Basnet,M,Nepal,NEP,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Laxman Basnet,M,Nepal,NEP,1980,Moskva,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Rajendra Bhandari,M,Nepal,NEP,2004,Athina,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Tika Bogati,M,Nepal,NEP,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Tika Bogati,M,Nepal,NEP,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Gyan Bohara,M,Nepal,NEP,2000,Sydney,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Nara Dahal,M,Nepal,NEP,1980,Moskva,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,False
-Jodha Gurung,M,Nepal,NEP,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Jit Chhetri,M,Nepal,NEP,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Dambar Kuwar,M,Nepal,NEP,1988,Seoul,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Dambar Kuwar,M,Nepal,NEP,1988,Seoul,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True
-Dambar Kuwar,M,Nepal,NEP,1988,Seoul,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True
-Baikuntha Manandhar,M,Nepal,NEP,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Baikuntha Manandhar,M,Nepal,NEP,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Baikuntha Manandhar,M,Nepal,NEP,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Baikuntha Manandhar,M,Nepal,NEP,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Pushpa Ojha,M,Nepal,NEP,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Raghu Onta,M,Nepal,NEP,1980,Moskva,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Arjun Pandit,M,Nepal,NEP,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Hari Rimal,M,Nepal,NEP,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Hari Rokaya,M,Nepal,NEP,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Hari Rokaya,M,Nepal,NEP,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Hari Rokaya,M,Nepal,NEP,1988,Seoul,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Hari Rokaya,M,Nepal,NEP,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Bhakta Sapkota,M,Nepal,NEP,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Mukunda Shrestha,M,Nepal,NEP,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Bhupendra Silwal,M,Nepal,NEP,1964,Tokyo,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Ganga Thapa,M,Nepal,NEP,1964,Tokyo,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Tilak Tharu,M,Nepal,NEP,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Amiri Yadav,M,Nepal,NEP,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Arjun Basnet,M,Nepal,NEP,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Krishna Basnet,M,Nepal,NEP,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Laxman Basnet,M,Nepal,NEP,1980,Moskva,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Rajendra Bhandari,M,Nepal,NEP,2004,Athina,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Tika Bogati,M,Nepal,NEP,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Tika Bogati,M,Nepal,NEP,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Gyan Bohara,M,Nepal,NEP,2000,Sydney,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Nara Dahal,M,Nepal,NEP,1980,Moskva,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,False,True
+Jodha Gurung,M,Nepal,NEP,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Jit Chhetri,M,Nepal,NEP,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Dambar Kuwar,M,Nepal,NEP,1988,Seoul,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,True
+Dambar Kuwar,M,Nepal,NEP,1988,Seoul,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True,True
+Dambar Kuwar,M,Nepal,NEP,1988,Seoul,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True,True
+Baikuntha Manandhar,M,Nepal,NEP,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Baikuntha Manandhar,M,Nepal,NEP,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Baikuntha Manandhar,M,Nepal,NEP,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Baikuntha Manandhar,M,Nepal,NEP,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Pushpa Ojha,M,Nepal,NEP,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Raghu Onta,M,Nepal,NEP,1980,Moskva,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Arjun Pandit,M,Nepal,NEP,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Hari Rimal,M,Nepal,NEP,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Hari Rokaya,M,Nepal,NEP,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Hari Rokaya,M,Nepal,NEP,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Hari Rokaya,M,Nepal,NEP,1988,Seoul,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Hari Rokaya,M,Nepal,NEP,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Bhakta Sapkota,M,Nepal,NEP,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Mukunda Shrestha,M,Nepal,NEP,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Bhupendra Silwal,M,Nepal,NEP,1964,Tokyo,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Ganga Thapa,M,Nepal,NEP,1964,Tokyo,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Tilak Tharu,M,Nepal,NEP,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Amiri Yadav,M,Nepal,NEP,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True

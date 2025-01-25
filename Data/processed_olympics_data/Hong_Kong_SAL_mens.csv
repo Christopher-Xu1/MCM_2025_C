@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nicholas Bryan,M,Hong Kong,HKG,1988,Seoul,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Chan Yin,M,Hong Kong,HKG,2008,Beijing,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Chan Wah,M,Hong Kong,HKG,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Chun Cheng,M,Hong Kong,HKG,2016,Rio de Janeiro,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Lee Choi,M,Hong Kong,HKG,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Paul Cooper,M,Hong Kong,HKG,1968,Mexico City,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Simon Ellis,M,Hong Kong,HKG,1992,Barcelona,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Peter Gamble,M,Hong Kong,HKG,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Ho Ho,M,Hong Kong,HKG,2000,Sydney,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Ho Ho,M,Hong Kong,HKG,2004,Athina,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Gilbert Lennox-king,M,Hong Kong,HKG,1972,Munich,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Ho Leung,M,Hong Kong,HKG,2012,London,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Eric Lockyear,M,Hong Kong,HKG,1988,Seoul,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Sven Merkel,M,Hong Kong,HKG,1992,Barcelona,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-John Park,M,Hong Kong,HKG,1968,Mexico City,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Timothy Parsons,M,Hong Kong,HKG,1988,Seoul,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Neil Pryde,M,Hong Kong,HKG,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Andrew Service,M,Hong Kong,HKG,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False
-Colin Smith,M,Hong Kong,HKG,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Terence Steele,M,Hong Kong,HKG,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Alan Stevens,M,Hong Kong,HKG,1964,Tokyo,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Kenneth Tomlins,M,Hong Kong,HKG,1972,Munich,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-William Turnbull,M,Hong Kong,HKG,1968,Mexico City,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Tak Wong,M,Hong Kong,HKG,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,True
-Tak Wong,M,Hong Kong,HKG,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Tak Wong,M,Hong Kong,HKG,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Yang Fung,M,Hong Kong,HKG,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nicholas Bryan,M,Hong Kong,HKG,1988,Seoul,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Chan Yin,M,Hong Kong,HKG,2008,Beijing,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Chan Wah,M,Hong Kong,HKG,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Chun Cheng,M,Hong Kong,HKG,2016,Rio de Janeiro,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Lee Choi,M,Hong Kong,HKG,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Paul Cooper,M,Hong Kong,HKG,1968,Mexico City,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Simon Ellis,M,Hong Kong,HKG,1992,Barcelona,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Peter Gamble,M,Hong Kong,HKG,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Ho Ho,M,Hong Kong,HKG,2000,Sydney,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,True
+Ho Ho,M,Hong Kong,HKG,2004,Athina,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Gilbert Lennox-king,M,Hong Kong,HKG,1972,Munich,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Ho Leung,M,Hong Kong,HKG,2012,London,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Eric Lockyear,M,Hong Kong,HKG,1988,Seoul,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Sven Merkel,M,Hong Kong,HKG,1992,Barcelona,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+John Park,M,Hong Kong,HKG,1968,Mexico City,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Timothy Parsons,M,Hong Kong,HKG,1988,Seoul,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Neil Pryde,M,Hong Kong,HKG,1968,Mexico City,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Andrew Service,M,Hong Kong,HKG,1996,Atlanta,Sailing,Sailing Men's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Colin Smith,M,Hong Kong,HKG,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Terence Steele,M,Hong Kong,HKG,1972,Munich,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Alan Stevens,M,Hong Kong,HKG,1964,Tokyo,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Kenneth Tomlins,M,Hong Kong,HKG,1972,Munich,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+William Turnbull,M,Hong Kong,HKG,1968,Mexico City,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Tak Wong,M,Hong Kong,HKG,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,True,True
+Tak Wong,M,Hong Kong,HKG,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Tak Wong,M,Hong Kong,HKG,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Yang Fung,M,Hong Kong,HKG,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True

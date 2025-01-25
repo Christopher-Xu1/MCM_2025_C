@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Julius Wiszniewski,M,Thames Rowing Club,GBR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Silver,Rowing,ROW,False
-Geoffrey Carr,M,Thames Rowing Club,GBR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Silver,Rowing,ROW,False
-Hubert Logan,M,Thames Rowing Club,GBR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Silver,Rowing,ROW,False
-Charles Rought,M,Thames Rowing Club,GBR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Silver,Rowing,ROW,False
-Karl Vernon,M,Thames Rowing Club,GBR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Silver,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Julius Wiszniewski,M,Thames Rowing Club,GBR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Silver,Rowing,ROW,False,True
+Geoffrey Carr,M,Thames Rowing Club,GBR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Silver,Rowing,ROW,False,True
+Hubert Logan,M,Thames Rowing Club,GBR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Silver,Rowing,ROW,False,True
+Charles Rought,M,Thames Rowing Club,GBR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Silver,Rowing,ROW,False,True
+Karl Vernon,M,Thames Rowing Club,GBR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",Silver,Rowing,ROW,False,True

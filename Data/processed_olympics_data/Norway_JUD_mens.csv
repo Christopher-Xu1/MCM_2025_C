@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alfredo Chinchilla,M,Norway,NOR,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Frank Evensen,M,Norway,NOR,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Fridtjof Thoen,M,Norway,NOR,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Stig Traavik,M,Norway,NOR,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alfredo Chinchilla,M,Norway,NOR,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Frank Evensen,M,Norway,NOR,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Fridtjof Thoen,M,Norway,NOR,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Stig Traavik,M,Norway,NOR,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True

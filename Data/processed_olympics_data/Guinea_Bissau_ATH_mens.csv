@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Amarildo Almeida,M,Guinea Bissau,GBS,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Fernando Arlete,M,Guinea Bissau,GBS,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Fernando Arlete,M,Guinea Bissau,GBS,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Holder Silva,M,Guinea Bissau,GBS,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Holder Silva,M,Guinea Bissau,GBS,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Holder Silva,M,Guinea Bissau,GBS,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Danilson Ricciuli,M,Guinea Bissau,GBS,2004,Athina,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Amarildo Almeida,M,Guinea Bissau,GBS,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Fernando Arlete,M,Guinea Bissau,GBS,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Fernando Arlete,M,Guinea Bissau,GBS,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Holder Silva,M,Guinea Bissau,GBS,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Holder Silva,M,Guinea Bissau,GBS,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Holder Silva,M,Guinea Bissau,GBS,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Danilson Ricciuli,M,Guinea Bissau,GBS,2004,Athina,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True

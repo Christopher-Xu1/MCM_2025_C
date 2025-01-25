@@ -1,36 +1,36 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elif Altnkaynak,F,Turkey,TUR,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Elif Altnkaynak,F,Turkey,TUR,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Elif Altnkaynak,F,Turkey,TUR,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Elif Altnkaynak,F,Turkey,TUR,2000,Sydney,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Yasemin Anagz,F,Turkey,TUR,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Elif Eki,F,Turkey,TUR,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Elif Eki,F,Turkey,TUR,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Elif Eki,F,Turkey,TUR,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Elif Eki,F,Turkey,TUR,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Elif Eki,F,Turkey,TUR,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Elif Eki,F,Turkey,TUR,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Huriye Eki,F,Turkey,TUR,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Huriye Eki,F,Turkey,TUR,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Damla Gnay,F,Turkey,TUR,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Damla Gnay,F,Turkey,TUR,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Zekiye Atr,F,Turkey,TUR,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Zekiye Atr,F,Turkey,TUR,2000,Sydney,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Zekiye Atr,F,Turkey,TUR,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Zekiye Atr,F,Turkey,TUR,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Zekiye Atr,F,Turkey,TUR,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Begl Lklolu,F,Turkey,TUR,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Natalia Nasaridze-akir,F,Turkey,TUR,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Natalia Nasaridze-akir,F,Turkey,TUR,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Natalia Nasaridze-akir,F,Turkey,TUR,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Natalia Nasaridze-akir,F,Turkey,TUR,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Natalia Nasaridze-akir,F,Turkey,TUR,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Natalia Nasaridze-akir,F,Turkey,TUR,2000,Sydney,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Natalia Nasaridze-akir,F,Turkey,TUR,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Natalia Nasaridze-akir,F,Turkey,TUR,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Zehra Ktem,F,Turkey,TUR,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Zehra Ktem,F,Turkey,TUR,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Selda Nsal,F,Turkey,TUR,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Selda Nsal,F,Turkey,TUR,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Yasemin Anagoz,F,Turkey,TUR,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Yasemin Anagoz,F,Turkey,TUR,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elif Altnkaynak,F,Turkey,TUR,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Elif Altnkaynak,F,Turkey,TUR,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Elif Altnkaynak,F,Turkey,TUR,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Elif Altnkaynak,F,Turkey,TUR,2000,Sydney,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Yasemin Anagz,F,Turkey,TUR,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Elif Eki,F,Turkey,TUR,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Elif Eki,F,Turkey,TUR,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Elif Eki,F,Turkey,TUR,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Elif Eki,F,Turkey,TUR,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Elif Eki,F,Turkey,TUR,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Elif Eki,F,Turkey,TUR,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Huriye Eki,F,Turkey,TUR,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Huriye Eki,F,Turkey,TUR,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Damla Gnay,F,Turkey,TUR,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Damla Gnay,F,Turkey,TUR,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Zekiye Atr,F,Turkey,TUR,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Zekiye Atr,F,Turkey,TUR,2000,Sydney,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Zekiye Atr,F,Turkey,TUR,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Zekiye Atr,F,Turkey,TUR,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Zekiye Atr,F,Turkey,TUR,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Begl Lklolu,F,Turkey,TUR,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Natalia Nasaridze-akir,F,Turkey,TUR,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Natalia Nasaridze-akir,F,Turkey,TUR,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Natalia Nasaridze-akir,F,Turkey,TUR,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Natalia Nasaridze-akir,F,Turkey,TUR,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Natalia Nasaridze-akir,F,Turkey,TUR,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Natalia Nasaridze-akir,F,Turkey,TUR,2000,Sydney,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Natalia Nasaridze-akir,F,Turkey,TUR,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Natalia Nasaridze-akir,F,Turkey,TUR,2004,Athina,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Zehra Ktem,F,Turkey,TUR,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Zehra Ktem,F,Turkey,TUR,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Selda Nsal,F,Turkey,TUR,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Selda Nsal,F,Turkey,TUR,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Yasemin Anagoz,F,Turkey,TUR,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Yasemin Anagoz,F,Turkey,TUR,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True

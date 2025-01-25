@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alberto Lpez,M,Venezuela,VEN,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alberto Lpez,M,Venezuela,VEN,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,False,True

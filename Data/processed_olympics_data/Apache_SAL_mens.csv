@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anders Jr.,M,Apache,NOR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Ragnar Hargreaves,M,Apache,NOR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Magnus Konow,M,Apache,NOR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Lars Musus,M,Apache,NOR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Hakon Solem,M,Apache,NOR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anders Jr.,M,Apache,NOR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Ragnar Hargreaves,M,Apache,NOR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Magnus Konow,M,Apache,NOR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Lars Musus,M,Apache,NOR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Hakon Solem,M,Apache,NOR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

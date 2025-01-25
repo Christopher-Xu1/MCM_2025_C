@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sara Bertoli,F,Italy,ITA,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Claudia Cerutti,F,Italy,ITA,2000,Sydney,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Claudia Cesarini,F,Italy,ITA,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Claudia Cesarini,F,Italy,ITA,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Claudia Corsini,F,Italy,ITA,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Claudia Corsini,F,Italy,ITA,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Sabrina Crognale,F,Italy,ITA,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Fabiana Fares,F,Italy,ITA,2000,Sydney,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Federica Foghetti,F,Italy,ITA,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Alice Sotero,F,Italy,ITA,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Elena Micheli,F,Italy,ITA,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
-Alice Sotero,F,Italy,ITA,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
-Elena Micheli,F,Italy,ITA,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
-Alice Sotero,F,Italy,ITA,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sara Bertoli,F,Italy,ITA,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Claudia Cerutti,F,Italy,ITA,2000,Sydney,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Claudia Cesarini,F,Italy,ITA,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,True
+Claudia Cesarini,F,Italy,ITA,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Claudia Corsini,F,Italy,ITA,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,True
+Claudia Corsini,F,Italy,ITA,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Sabrina Crognale,F,Italy,ITA,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Fabiana Fares,F,Italy,ITA,2000,Sydney,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Federica Foghetti,F,Italy,ITA,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Alice Sotero,F,Italy,ITA,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,True
+Elena Micheli,F,Italy,ITA,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,True
+Alice Sotero,F,Italy,ITA,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,False
+Elena Micheli,F,Italy,ITA,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,False
+Alice Sotero,F,Italy,ITA,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,False

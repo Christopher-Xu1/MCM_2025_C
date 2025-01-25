@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-S. Foss,M,Norway,NOR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-S. Foss,M,Norway,NOR,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Markus Hoelgaard,M,Norway,NOR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Halland Johannessen,M,Norway,NOR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Andreas Leknessund,M,Norway,NOR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Soeren Waerenskjold,M,Norway,NOR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Soeren Waerenskjold,M,Norway,NOR,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Tobias Foss,M,Norway,NOR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Tobias Foss,M,Norway,NOR,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+S. Foss,M,Norway,NOR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+S. Foss,M,Norway,NOR,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Markus Hoelgaard,M,Norway,NOR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Halland Johannessen,M,Norway,NOR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Andreas Leknessund,M,Norway,NOR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Soeren Waerenskjold,M,Norway,NOR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Soeren Waerenskjold,M,Norway,NOR,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Tobias Foss,M,Norway,NOR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Tobias Foss,M,Norway,NOR,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True

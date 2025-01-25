@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kai Edwards,M,Australia,AUS,2020,Tokyo,Marathon Swimming,Men's 10km,No medal,Men's,OWS,False
-Kyle Lee,M,Australia,AUS,2024,Paris,Marathon Swimming,Men's 10km,No medal,Men's,OWS,False
-Nick Sloman,M,Australia,AUS,2024,Paris,Marathon Swimming,Men's 10km,No medal,Men's,OWS,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kai Edwards,M,Australia,AUS,2020,Tokyo,Marathon Swimming,Men's 10km,No medal,Men's,OWS,False,True
+Kyle Lee,M,Australia,AUS,2024,Paris,Marathon Swimming,Men's 10km,No medal,Men's,OWS,False,True
+Nick Sloman,M,Australia,AUS,2024,Paris,Marathon Swimming,Men's 10km,No medal,Men's,OWS,False,True

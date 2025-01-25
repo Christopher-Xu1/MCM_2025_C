@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alberik Suremain,M,Guatemala,GUA,1980,Moskva,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False
-Edgar Villagarn,M,Guatemala,GUA,1980,Moskva,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True
-Edgar Villagarn,M,Guatemala,GUA,1984,Los Angeles,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alberik Suremain,M,Guatemala,GUA,1980,Moskva,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False,True
+Edgar Villagarn,M,Guatemala,GUA,1980,Moskva,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,True,True
+Edgar Villagarn,M,Guatemala,GUA,1984,Los Angeles,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,False

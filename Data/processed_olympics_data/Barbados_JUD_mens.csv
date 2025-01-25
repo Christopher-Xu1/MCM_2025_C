@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Barry Jackman,M,Barbados,BAR,2004,Athina,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Kyle Maxwell,M,Barbados,BAR,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Hallam Payne,M,Barbados,BAR,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Hallam Payne,M,Barbados,BAR,2000,Sydney,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-James Waithe,M,Barbados,BAR,1988,Seoul,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Barry Jackman,M,Barbados,BAR,2004,Athina,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Kyle Maxwell,M,Barbados,BAR,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Hallam Payne,M,Barbados,BAR,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Hallam Payne,M,Barbados,BAR,2000,Sydney,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+James Waithe,M,Barbados,BAR,1988,Seoul,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True

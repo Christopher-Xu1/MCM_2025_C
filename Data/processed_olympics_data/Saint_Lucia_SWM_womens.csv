@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Danielle Beaubrun,F,Saint Lucia,LCA,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Danielle Beaubrun,F,Saint Lucia,LCA,2012,London,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Natasha Georgeos,F,Saint Lucia,LCA,2004,Athina,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False
-Sherri Henry,F,Saint Lucia,LCA,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Mikaili Charlemagne,F,Saint Lucia,LCA,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Danielle Beaubrun,F,Saint Lucia,LCA,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Danielle Beaubrun,F,Saint Lucia,LCA,2012,London,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Natasha Georgeos,F,Saint Lucia,LCA,2004,Athina,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Sherri Henry,F,Saint Lucia,LCA,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Mikaili Charlemagne,F,Saint Lucia,LCA,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True

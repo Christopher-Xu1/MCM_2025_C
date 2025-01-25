@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marc Hirschi,M,Switzerland,SUI,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Stefan Kueng,M,Switzerland,SUI,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Stefan Kueng,M,Switzerland,SUI,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Gino Maeder,M,Switzerland,SUI,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Michael Schaer,M,Switzerland,SUI,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Stefan Bissegger,M,Switzerland,SUI,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,False
-Marc Hirschi,M,Switzerland,SUI,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Stefan Kueng,M,Switzerland,SUI,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Stefan Kueng,M,Switzerland,SUI,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marc Hirschi,M,Switzerland,SUI,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Stefan Kueng,M,Switzerland,SUI,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Stefan Kueng,M,Switzerland,SUI,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Gino Maeder,M,Switzerland,SUI,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Michael Schaer,M,Switzerland,SUI,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Stefan Bissegger,M,Switzerland,SUI,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,False,True
+Marc Hirschi,M,Switzerland,SUI,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,False
+Stefan Kueng,M,Switzerland,SUI,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,False
+Stefan Kueng,M,Switzerland,SUI,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,False

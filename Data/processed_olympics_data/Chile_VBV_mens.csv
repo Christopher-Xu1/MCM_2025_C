@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Esteban Fuster,M,Chile,CHI,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Marco Krogh,M,Chile,CHI,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Esteban Grimalt,M,Chile,CHI,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,True
-Marco Grimalt,M,Chile,CHI,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,True
-Esteban Grimalt,M,Chile,CHI,2024,Paris,Beach Volleyball,Men,No medal,Men,VBV,True
-Marco Grimalt,M,Chile,CHI,2024,Paris,Beach Volleyball,Men,No medal,Men,VBV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Esteban Fuster,M,Chile,CHI,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Marco Krogh,M,Chile,CHI,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Esteban Grimalt,M,Chile,CHI,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,True,True
+Marco Grimalt,M,Chile,CHI,2020,Tokyo,Beach Volleyball,Men Team,No medal,Men,VBV,True,True
+Esteban Grimalt,M,Chile,CHI,2024,Paris,Beach Volleyball,Men,No medal,Men,VBV,True,False
+Marco Grimalt,M,Chile,CHI,2024,Paris,Beach Volleyball,Men,No medal,Men,VBV,True,False

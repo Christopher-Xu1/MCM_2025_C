@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Joel Brutus,M,Haiti,HAI,2004,Athina,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Joel Brutus,M,Haiti,HAI,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Somoza Celestin,M,Haiti,HAI,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Josue Deprez,M,Haiti,HAI,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Jean Holmand,M,Haiti,HAI,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Caleb Jean,M,Haiti,HAI,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Rubens Joseph,M,Haiti,HAI,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Ernst Laraque,M,Haiti,HAI,2000,Sydney,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Ernst Laraque,M,Haiti,HAI,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Parnel Legros,M,Haiti,HAI,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Hermate Souffrant,M,Haiti,HAI,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Adler Volmar,M,Haiti,HAI,1996,Atlanta,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Abel Metellus,M,Haiti,HAI,2024,Paris,Judo,Men -73 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Joel Brutus,M,Haiti,HAI,2004,Athina,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,True
+Joel Brutus,M,Haiti,HAI,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Somoza Celestin,M,Haiti,HAI,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Josue Deprez,M,Haiti,HAI,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Jean Holmand,M,Haiti,HAI,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Caleb Jean,M,Haiti,HAI,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Rubens Joseph,M,Haiti,HAI,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Ernst Laraque,M,Haiti,HAI,2000,Sydney,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Ernst Laraque,M,Haiti,HAI,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Parnel Legros,M,Haiti,HAI,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Hermate Souffrant,M,Haiti,HAI,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Adler Volmar,M,Haiti,HAI,1996,Atlanta,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Abel Metellus,M,Haiti,HAI,2024,Paris,Judo,Men -73 kg,No medal,Men,JUD,False,True

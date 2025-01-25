@@ -1,30 +1,30 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Michelle (-schneider),F,United States,USA,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True
-Michelle (-schneider),F,United States,USA,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True
-Jessica Davis,F,United States,USA,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Kiana Eide,F,United States,USA,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Mandy (-morgan),F,United States,USA,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Alisa Kano,F,United States,USA,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Tamara (-campos),F,United States,USA,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Jenifer (-moreno),F,United States,USA,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Alaine (-wilson),F,United States,USA,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Natalie Mcgiffert,F,United States,USA,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Katherine (-nack),F,United States,USA,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Monica Rokhman,F,United States,USA,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Mary Sanders,F,United States,USA,2004,Athina,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Kristen Shaldybin,F,United States,USA,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Brandi Siegel,F,United States,USA,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Challen Sievers,F,United States,USA,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Diane (-bundy),F,United States,USA,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Rebecca Turner,F,United States,USA,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False
-Laura Zeng,F,United States,USA,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True
-Julie Zetlin,F,United States,USA,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Valerie (-schneiderman),F,United States,USA,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Isabelle Connor,F,United States,USA,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False
-Camilla Feeley,F,United States,USA,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False
-Evita Griskenas,F,United States,USA,2020,Tokyo,Rhythmic Gymnastics,Individual All-Around,No medal,Individual,GRY,True
-Lili Mizuno,F,United States,USA,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False
-Elizaveta Pletneva,F,United States,USA,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False
-Nicole Sladkov,F,United States,USA,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False
-Laura Zeng,F,United States,USA,2020,Tokyo,Rhythmic Gymnastics,Individual All-Around,No medal,Individual,GRY,True
-Evita Griskenas,F,United States,USA,2024,Paris,Rhythmic Gymnastics,Individual All-Around,No medal,Individual,GRY,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Michelle (-schneider),F,United States,USA,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True,True
+Michelle (-schneider),F,United States,USA,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True,False
+Jessica Davis,F,United States,USA,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Kiana Eide,F,United States,USA,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Mandy (-morgan),F,United States,USA,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Alisa Kano,F,United States,USA,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Tamara (-campos),F,United States,USA,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Jenifer (-moreno),F,United States,USA,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Alaine (-wilson),F,United States,USA,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Natalie Mcgiffert,F,United States,USA,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Katherine (-nack),F,United States,USA,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Monica Rokhman,F,United States,USA,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Mary Sanders,F,United States,USA,2004,Athina,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Kristen Shaldybin,F,United States,USA,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Brandi Siegel,F,United States,USA,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Challen Sievers,F,United States,USA,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Diane (-bundy),F,United States,USA,1988,Seoul,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Rebecca Turner,F,United States,USA,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,No medal,Rhythmic,GRY,False,True
+Laura Zeng,F,United States,USA,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,True,True
+Julie Zetlin,F,United States,USA,2012,London,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Valerie (-schneiderman),F,United States,USA,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Isabelle Connor,F,United States,USA,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False,True
+Camilla Feeley,F,United States,USA,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False,True
+Evita Griskenas,F,United States,USA,2020,Tokyo,Rhythmic Gymnastics,Individual All-Around,No medal,Individual,GRY,True,True
+Lili Mizuno,F,United States,USA,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False,True
+Elizaveta Pletneva,F,United States,USA,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False,True
+Nicole Sladkov,F,United States,USA,2020,Tokyo,Rhythmic Gymnastics,Group All-Around Team,No medal,Group,GRY,False,True
+Laura Zeng,F,United States,USA,2020,Tokyo,Rhythmic Gymnastics,Individual All-Around,No medal,Individual,GRY,True,False
+Evita Griskenas,F,United States,USA,2024,Paris,Rhythmic Gymnastics,Individual All-Around,No medal,Individual,GRY,True,False

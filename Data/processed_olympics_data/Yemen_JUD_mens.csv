@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Salah Al-humaidi,M,Yemen,YEM,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Mohamed Al-jalai,M,Yemen,YEM,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Ahmed Al-shiekh,M,Yemen,YEM,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Mansour Al-soraihi,M,Yemen,YEM,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Mohsen Khousrof,M,Yemen,YEM,2008,Beijing,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Mohsen Khousrof,M,Yemen,YEM,2012,London,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Zeyad Mater,M,Yemen,YEM,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Yahia Mufarrih,M,Yemen,YEM,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Ahmed Ayash,M,Yemen,YEM,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,False
-Hesham Makabr,M,Yemen,YEM,2024,Paris,Judo,Men -60 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Salah Al-humaidi,M,Yemen,YEM,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Mohamed Al-jalai,M,Yemen,YEM,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Ahmed Al-shiekh,M,Yemen,YEM,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Mansour Al-soraihi,M,Yemen,YEM,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Mohsen Khousrof,M,Yemen,YEM,2008,Beijing,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Mohsen Khousrof,M,Yemen,YEM,2012,London,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False
+Zeyad Mater,M,Yemen,YEM,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Yahia Mufarrih,M,Yemen,YEM,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Ahmed Ayash,M,Yemen,YEM,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,False,True
+Hesham Makabr,M,Yemen,YEM,2024,Paris,Judo,Men -60 kg,No medal,Men,JUD,False,True

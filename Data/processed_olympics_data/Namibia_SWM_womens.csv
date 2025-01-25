@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Monica (-bhm),F,Namibia,NAM,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Monica (-bhm),F,Namibia,NAM,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Monica (-bhm),F,Namibia,NAM,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Monica (-bhm),F,Namibia,NAM,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Monica (-bhm),F,Namibia,NAM,1996,Atlanta,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Monica (-bhm),F,Namibia,NAM,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Monica (-bhm),F,Namibia,NAM,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Monica (-bhm),F,Namibia,NAM,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Monica (-bhm),F,Namibia,NAM,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Monica (-bhm),F,Namibia,NAM,1996,Atlanta,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False

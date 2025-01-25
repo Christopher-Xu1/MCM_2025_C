@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lubna Al-omair,F,Saudi Arabia,KSA,2016,Rio de Janeiro,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lubna Al-omair,F,Saudi Arabia,KSA,2016,Rio de Janeiro,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True

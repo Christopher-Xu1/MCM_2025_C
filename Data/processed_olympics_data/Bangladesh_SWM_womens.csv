@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Doli Akhtar,F,Bangladesh,BAN,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Doli Akhtar,F,Bangladesh,BAN,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Doli Akhtar,F,Bangladesh,BAN,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Sonia Aktar,F,Bangladesh,BAN,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Junayna Ahmed,F,Bangladesh,BAN,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
-Sonia Khatun,F,Bangladesh,BAN,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Doli Akhtar,F,Bangladesh,BAN,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Doli Akhtar,F,Bangladesh,BAN,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Doli Akhtar,F,Bangladesh,BAN,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Sonia Aktar,F,Bangladesh,BAN,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Junayna Ahmed,F,Bangladesh,BAN,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True
+Sonia Khatun,F,Bangladesh,BAN,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True

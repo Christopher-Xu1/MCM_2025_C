@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Oliver Dingley,M,Ireland,IRL,2016,Rio de Janeiro,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-J. Heron,M,Ireland,IRL,1948,London,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Oliver Dingley,M,Ireland,IRL,2020,Tokyo,Diving,Men's 3m Springboard,No medal,Men's,DIV,True
-Jake Passmore,M,Ireland,IRL,2024,Paris,Diving,Men's 3m Springboard,No medal,Men's,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Oliver Dingley,M,Ireland,IRL,2016,Rio de Janeiro,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+J. Heron,M,Ireland,IRL,1948,London,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Oliver Dingley,M,Ireland,IRL,2020,Tokyo,Diving,Men's 3m Springboard,No medal,Men's,DIV,True,False
+Jake Passmore,M,Ireland,IRL,2024,Paris,Diving,Men's 3m Springboard,No medal,Men's,DIV,False,True

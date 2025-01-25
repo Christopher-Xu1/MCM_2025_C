@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Th Thng,F,Vietnam,VIE,2008,Beijing,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Th Thng,F,Vietnam,VIE,2008,Beijing,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Th Thng,F,Vietnam,VIE,2008,Beijing,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Th Thng,F,Vietnam,VIE,2008,Beijing,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Th Thng,F,Vietnam,VIE,2008,Beijing,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Th Thng,F,Vietnam,VIE,2012,London,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Th Thng,F,Vietnam,VIE,2012,London,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Phan Thanh,F,Vietnam,VIE,2012,London,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Phan Thanh,F,Vietnam,VIE,2012,London,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Phan Thanh,F,Vietnam,VIE,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Phan Thanh,F,Vietnam,VIE,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Th Thng,F,Vietnam,VIE,2008,Beijing,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Th Thng,F,Vietnam,VIE,2008,Beijing,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Th Thng,F,Vietnam,VIE,2008,Beijing,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Th Thng,F,Vietnam,VIE,2008,Beijing,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Th Thng,F,Vietnam,VIE,2008,Beijing,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Th Thng,F,Vietnam,VIE,2012,London,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,False
+Th Thng,F,Vietnam,VIE,2012,London,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,False
+Phan Thanh,F,Vietnam,VIE,2012,London,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Phan Thanh,F,Vietnam,VIE,2012,London,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Phan Thanh,F,Vietnam,VIE,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,False
+Phan Thanh,F,Vietnam,VIE,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,False

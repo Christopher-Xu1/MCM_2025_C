@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Inni Aboubacar,M,Niger,NIG,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Mamane Ali,M,Niger,NIG,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Adamou Allassane,M,Niger,NIG,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Moussa Daweye,M,Niger,NIG,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Rabiou Gao,M,Niger,NIG,2012,London,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Harouna Garba,M,Niger,NIG,2008,Beijing,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
-Hassan Illiassou,M,Niger,NIG,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Hassan Karimou,M,Niger,NIG,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Boureima Kimba,M,Niger,NIG,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Boureima Kimba,M,Niger,NIG,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Abdou Manzo,M,Niger,NIG,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Abdou Manzo,M,Niger,NIG,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Abdou Manzo,M,Niger,NIG,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Djibo Ousseini,M,Niger,NIG,2016,Rio de Janeiro,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Ibrahim Tondi,M,Niger,NIG,2004,Athina,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
-Badamassi Saguirou,M,Niger,NIG,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Inni Aboubacar,M,Niger,NIG,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Mamane Ali,M,Niger,NIG,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Adamou Allassane,M,Niger,NIG,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Moussa Daweye,M,Niger,NIG,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Rabiou Gao,M,Niger,NIG,2012,London,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Harouna Garba,M,Niger,NIG,2008,Beijing,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+Hassan Illiassou,M,Niger,NIG,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Hassan Karimou,M,Niger,NIG,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Boureima Kimba,M,Niger,NIG,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Boureima Kimba,M,Niger,NIG,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Abdou Manzo,M,Niger,NIG,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Abdou Manzo,M,Niger,NIG,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Abdou Manzo,M,Niger,NIG,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Djibo Ousseini,M,Niger,NIG,2016,Rio de Janeiro,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Ibrahim Tondi,M,Niger,NIG,2004,Athina,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+Badamassi Saguirou,M,Niger,NIG,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,False,True

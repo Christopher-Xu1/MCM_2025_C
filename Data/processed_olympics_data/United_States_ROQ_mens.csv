@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Charles Brown,M,United States,USA,1904,St. Louis,Roque,Roque Men's Singles,Bronze,Roque,ROQ,False
-William Chalfant,M,United States,USA,1904,St. Louis,Roque,Roque Men's Singles,No medal,Roque,ROQ,False
-Charles Jacobus,M,United States,USA,1904,St. Louis,Roque,Roque Men's Singles,Gold,Roque,ROQ,False
-Smith Streeter,M,United States,USA,1904,St. Louis,Roque,Roque Men's Singles,Silver,Roque,ROQ,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Charles Brown,M,United States,USA,1904,St. Louis,Roque,Roque Men's Singles,Bronze,Roque,ROQ,False,True
+William Chalfant,M,United States,USA,1904,St. Louis,Roque,Roque Men's Singles,No medal,Roque,ROQ,False,True
+Charles Jacobus,M,United States,USA,1904,St. Louis,Roque,Roque Men's Singles,Gold,Roque,ROQ,False,True
+Smith Streeter,M,United States,USA,1904,St. Louis,Roque,Roque Men's Singles,Silver,Roque,ROQ,False,True

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Leuchars,M,Sibindi-2,GBR,1908,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-William Leuchars,M,Sibindi-2,GBR,1908,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Frank Smith,M,Sibindi-2,GBR,1908,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Leuchars,M,Sibindi-2,GBR,1908,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+William Leuchars,M,Sibindi-2,GBR,1908,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Frank Smith,M,Sibindi-2,GBR,1908,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

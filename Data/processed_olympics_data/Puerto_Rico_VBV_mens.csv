@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ramn Cruz,M,Puerto Rico,PUR,2004,Athina,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Ral Prez,M,Puerto Rico,PUR,2004,Athina,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ramn Cruz,M,Puerto Rico,PUR,2004,Athina,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Ral Prez,M,Puerto Rico,PUR,2004,Athina,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True

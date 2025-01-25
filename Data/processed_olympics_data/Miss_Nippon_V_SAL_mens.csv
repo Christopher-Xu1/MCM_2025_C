@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tadashi Funaoka,M,Miss Nippon V,JPN,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Teruyuki Horie,M,Miss Nippon V,JPN,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Saburo Tanamachi,M,Miss Nippon V,JPN,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tadashi Funaoka,M,Miss Nippon V,JPN,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Teruyuki Horie,M,Miss Nippon V,JPN,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Saburo Tanamachi,M,Miss Nippon V,JPN,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

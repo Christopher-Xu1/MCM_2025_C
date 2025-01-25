@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gwynne Evans,M,Missouri Athletic Club-3,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Bronze,Swimming,SWM,False
-William Orthwein,M,Missouri Athletic Club-3,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Bronze,Swimming,SWM,False
-Amedee Jr.,M,Missouri Athletic Club-3,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Bronze,Swimming,SWM,False
-Marquard Schwarz,M,Missouri Athletic Club-3,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Bronze,Swimming,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gwynne Evans,M,Missouri Athletic Club-3,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Bronze,Swimming,SWM,False,True
+William Orthwein,M,Missouri Athletic Club-3,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Bronze,Swimming,SWM,False,True
+Amedee Jr.,M,Missouri Athletic Club-3,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Bronze,Swimming,SWM,False,True
+Marquard Schwarz,M,Missouri Athletic Club-3,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Bronze,Swimming,SWM,False,True

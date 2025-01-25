@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vlada Chernyavskaya,F,Belarus,BLR,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Vlada Chernyavskaya,F,Belarus,BLR,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Olga Konon,F,Belarus,BLR,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Alesya Zaytseva,F,Belarus,BLR,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vlada Chernyavskaya,F,Belarus,BLR,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Vlada Chernyavskaya,F,Belarus,BLR,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Olga Konon,F,Belarus,BLR,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Alesya Zaytseva,F,Belarus,BLR,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True

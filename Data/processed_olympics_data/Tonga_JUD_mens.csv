@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Akapei Latu,M,Tonga,TGA,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Akapei Latu,M,Tonga,TGA,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True

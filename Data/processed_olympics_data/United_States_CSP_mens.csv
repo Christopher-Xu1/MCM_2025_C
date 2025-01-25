@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jonas Ecker,M,United States,USA,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
-Jonas Ecker,M,United States,USA,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True
-Aaron Small,M,United States,USA,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
-Aaron Small,M,United States,USA,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jonas Ecker,M,United States,USA,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True,True
+Jonas Ecker,M,United States,USA,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True,True
+Aaron Small,M,United States,USA,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True,True
+Aaron Small,M,United States,USA,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True,True

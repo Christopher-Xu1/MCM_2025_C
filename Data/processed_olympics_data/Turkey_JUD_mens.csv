@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Salim Abanoz,M,Turkey,TUR,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Alpaslan Ayan,M,Turkey,TUR,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Alpaslan Ayan,M,Turkey,TUR,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Alpaslan Ayan,M,Turkey,TUR,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Temel Akrolu,M,Turkey,TUR,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Bekta Demirel,M,Turkey,TUR,1996,Atlanta,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Bekta Demirel,M,Turkey,TUR,2004,Athina,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Haldun Efemgil,M,Turkey,TUR,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Haldun Efemgil,M,Turkey,TUR,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Rafet Gngr,M,Turkey,TUR,1976,Montreal,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Sezer Huysuz,M,Turkey,TUR,2008,Beijing,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Sezer Huysuz,M,Turkey,TUR,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Metin Orgarun,M,Turkey,TUR,1984,Los Angeles,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Hseyin (bisultanov-),M,Turkey,TUR,2000,Sydney,Judo,Judo Men's Half-Lightweight,Gold,Judo,JUD,False
-Bekir Zl,M,Turkey,TUR,2016,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Selim Tatarolu,M,Turkey,TUR,1996,Atlanta,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Selim Tatarolu,M,Turkey,TUR,2000,Sydney,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Selim Tatarolu,M,Turkey,TUR,2004,Athina,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Irakl Uznadze,M,Turkey,TUR,1996,Atlanta,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Osman Yanar,M,Turkey,TUR,1976,Montreal,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Sheyl Yeilnur,M,Turkey,TUR,1976,Montreal,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Sheyl Yeilnur,M,Turkey,TUR,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Yavuz Yolcu,M,Turkey,TUR,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Mihrac Akkus,M,Turkey,TUR,2020,Tokyo,Judo,Men -60 kg,No medal,Men,JUD,False
-Vedat Albayrak,M,Turkey,TUR,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,False
-Bilal Ciloglu,M,Turkey,TUR,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,False
-Mihael Zgank,M,Turkey,TUR,2020,Tokyo,Judo,Men -90 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Salim Abanoz,M,Turkey,TUR,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Alpaslan Ayan,M,Turkey,TUR,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,True
+Alpaslan Ayan,M,Turkey,TUR,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Alpaslan Ayan,M,Turkey,TUR,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Temel Akrolu,M,Turkey,TUR,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Bekta Demirel,M,Turkey,TUR,1996,Atlanta,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,True
+Bekta Demirel,M,Turkey,TUR,2004,Athina,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False
+Haldun Efemgil,M,Turkey,TUR,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Haldun Efemgil,M,Turkey,TUR,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False
+Rafet Gngr,M,Turkey,TUR,1976,Montreal,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Sezer Huysuz,M,Turkey,TUR,2008,Beijing,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Sezer Huysuz,M,Turkey,TUR,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Metin Orgarun,M,Turkey,TUR,1984,Los Angeles,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Hseyin (bisultanov-),M,Turkey,TUR,2000,Sydney,Judo,Judo Men's Half-Lightweight,Gold,Judo,JUD,False,True
+Bekir Zl,M,Turkey,TUR,2016,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Selim Tatarolu,M,Turkey,TUR,1996,Atlanta,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,True
+Selim Tatarolu,M,Turkey,TUR,2000,Sydney,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Selim Tatarolu,M,Turkey,TUR,2004,Athina,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Irakl Uznadze,M,Turkey,TUR,1996,Atlanta,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Osman Yanar,M,Turkey,TUR,1976,Montreal,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Sheyl Yeilnur,M,Turkey,TUR,1976,Montreal,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,True
+Sheyl Yeilnur,M,Turkey,TUR,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Yavuz Yolcu,M,Turkey,TUR,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Mihrac Akkus,M,Turkey,TUR,2020,Tokyo,Judo,Men -60 kg,No medal,Men,JUD,False,True
+Vedat Albayrak,M,Turkey,TUR,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,False,True
+Bilal Ciloglu,M,Turkey,TUR,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,False,True
+Mihael Zgank,M,Turkey,TUR,2020,Tokyo,Judo,Men -90 kg,No medal,Men,JUD,False,True

@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jeffrey Cobb,M,Guam,GUM,2004,Athina,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Robert Kranz,M,Guam,GUM,1996,Atlanta,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Vincent Pangelinan,M,Guam,GUM,1992,Barcelona,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Reuben Tucker,M,Guam,GUM,1988,Seoul,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jeffrey Cobb,M,Guam,GUM,2004,Athina,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Robert Kranz,M,Guam,GUM,1996,Atlanta,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Vincent Pangelinan,M,Guam,GUM,1992,Barcelona,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Reuben Tucker,M,Guam,GUM,1988,Seoul,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True

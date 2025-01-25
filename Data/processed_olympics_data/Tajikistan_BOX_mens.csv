@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sheral Dostiev,M,Tajikistan,TJK,2004,Athina,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True
-Sheral Dostiev,M,Tajikistan,TJK,2008,Beijing,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True
-Khurshed Hasanov,M,Tajikistan,TJK,1996,Atlanta,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Sobirjon Nazarov,M,Tajikistan,TJK,2012,London,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Jahon Qurbanov,M,Tajikistan,TJK,2008,Beijing,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Jahon Qurbanov,M,Tajikistan,TJK,2012,London,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Anvar Yunusov,M,Tajikistan,TJK,2008,Beijing,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True
-Anvar Yunusov,M,Tajikistan,TJK,2012,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True
-Anvar Yunusov,M,Tajikistan,TJK,2016,Rio de Janeiro,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Shabbos Negmatulloev,M,Tajikistan,TJK,2020,Tokyo,Boxing,Men's Light Heavy (75-81kg),No medal,Men's,BOX,False
-Bakhodur Usmonov,M,Tajikistan,TJK,2020,Tokyo,Boxing,Men's Light (57-63kg),No medal,Men's,BOX,True
-Siyovush Zukhurov,M,Tajikistan,TJK,2020,Tokyo,Boxing,Men's Super Heavy (+91kg),No medal,Men's,BOX,False
-Davlat Boltaev,M,Tajikistan,TJK,2024,Paris,Boxing,Men's 92kg,Bronze,Men's,BOX,False
-Bakhodur Usmonov,M,Tajikistan,TJK,2024,Paris,Boxing,Men's 63.5kg,No medal,Men's,BOX,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sheral Dostiev,M,Tajikistan,TJK,2004,Athina,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True,True
+Sheral Dostiev,M,Tajikistan,TJK,2008,Beijing,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True,False
+Khurshed Hasanov,M,Tajikistan,TJK,1996,Atlanta,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Sobirjon Nazarov,M,Tajikistan,TJK,2012,London,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Jahon Qurbanov,M,Tajikistan,TJK,2008,Beijing,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,True
+Jahon Qurbanov,M,Tajikistan,TJK,2012,London,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,False
+Anvar Yunusov,M,Tajikistan,TJK,2008,Beijing,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,True,True
+Anvar Yunusov,M,Tajikistan,TJK,2012,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True,False
+Anvar Yunusov,M,Tajikistan,TJK,2016,Rio de Janeiro,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,False
+Shabbos Negmatulloev,M,Tajikistan,TJK,2020,Tokyo,Boxing,Men's Light Heavy (75-81kg),No medal,Men's,BOX,False,True
+Bakhodur Usmonov,M,Tajikistan,TJK,2020,Tokyo,Boxing,Men's Light (57-63kg),No medal,Men's,BOX,True,True
+Siyovush Zukhurov,M,Tajikistan,TJK,2020,Tokyo,Boxing,Men's Super Heavy (+91kg),No medal,Men's,BOX,False,True
+Davlat Boltaev,M,Tajikistan,TJK,2024,Paris,Boxing,Men's 92kg,Bronze,Men's,BOX,False,True
+Bakhodur Usmonov,M,Tajikistan,TJK,2024,Paris,Boxing,Men's 63.5kg,No medal,Men's,BOX,True,False

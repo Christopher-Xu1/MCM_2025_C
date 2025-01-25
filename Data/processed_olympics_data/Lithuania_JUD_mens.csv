@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Karolis Baua,M,Lithuania,LTU,2012,London,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Vladas Burba,M,Lithuania,LTU,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Algimantas Merkeviius,M,Lithuania,LTU,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Marius Pakeviius,M,Lithuania,LTU,2000,Sydney,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Marius Pakeviius,M,Lithuania,LTU,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Albert Techov,M,Lithuania,LTU,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Albert Techov,M,Lithuania,LTU,2008,Beijing,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Karolis Baua,M,Lithuania,LTU,2012,London,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Vladas Burba,M,Lithuania,LTU,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Algimantas Merkeviius,M,Lithuania,LTU,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Marius Pakeviius,M,Lithuania,LTU,2000,Sydney,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,True
+Marius Pakeviius,M,Lithuania,LTU,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Albert Techov,M,Lithuania,LTU,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Albert Techov,M,Lithuania,LTU,2008,Beijing,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False

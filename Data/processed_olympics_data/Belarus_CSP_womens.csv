@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Volha Khudzenka,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Volha Khudzenka,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
-Volha Khudzenka,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Silver,Women's,CSP,True
-Maryna Litvinchuk,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Maryna Litvinchuk,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
-Maryna Litvinchuk,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Silver,Women's,CSP,True
-Nadzeya Makarchanka,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,False
-Marharyta Makhneva,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Silver,Women's,CSP,False
-Alena Nazdrova,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,False
-Nadzeya Papok,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Silver,Women's,CSP,False
-Daryna Pikuleva,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Volha Khudzenka,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Volha Khudzenka,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True
+Volha Khudzenka,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Silver,Women's,CSP,True,True
+Maryna Litvinchuk,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Maryna Litvinchuk,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True
+Maryna Litvinchuk,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Silver,Women's,CSP,True,True
+Nadzeya Makarchanka,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,False,True
+Marharyta Makhneva,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Silver,Women's,CSP,False,True
+Alena Nazdrova,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,False,True
+Nadzeya Papok,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,Silver,Women's,CSP,False,True
+Daryna Pikuleva,F,Belarus,BLR,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,False,True

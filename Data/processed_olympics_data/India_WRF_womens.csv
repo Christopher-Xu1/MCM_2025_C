@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kumari Babita,F,India,IND,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Sakshi Malik,F,India,IND,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",Bronze,Wrestling,WRF,False
-Geeta Phogat,F,India,IND,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Vinesh Phogat,F,India,IND,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Anshu Anshu,F,India,IND,2020,Tokyo,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,True
-Seema Seema,F,India,IND,2020,Tokyo,Wrestling,Women's Freestyle 50kg,No medal,Women's,WRF,False
-Sonam Sonam,F,India,IND,2020,Tokyo,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,False
-Vinesh Vinesh,F,India,IND,2020,Tokyo,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,True
-Vinesh Vinesh,F,India,IND,2024,Paris,Wrestling,Women's Freestyle 50kg,No medal,Women's,WRF,True
-Antim Antim,F,India,IND,2024,Paris,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,False
-Anshu Anshu,F,India,IND,2024,Paris,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,True
-Nisha Nisha,F,India,IND,2024,Paris,Wrestling,Women's Freestyle 68kg,No medal,Women's,WRF,False
-Reetika Reetika,F,India,IND,2024,Paris,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kumari Babita,F,India,IND,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Sakshi Malik,F,India,IND,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",Bronze,Wrestling,WRF,False,True
+Geeta Phogat,F,India,IND,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Vinesh Phogat,F,India,IND,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Anshu Anshu,F,India,IND,2020,Tokyo,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,True,True
+Seema Seema,F,India,IND,2020,Tokyo,Wrestling,Women's Freestyle 50kg,No medal,Women's,WRF,False,True
+Sonam Sonam,F,India,IND,2020,Tokyo,Wrestling,Women's Freestyle 62kg,No medal,Women's,WRF,False,True
+Vinesh Vinesh,F,India,IND,2020,Tokyo,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,True,True
+Vinesh Vinesh,F,India,IND,2024,Paris,Wrestling,Women's Freestyle 50kg,No medal,Women's,WRF,True,False
+Antim Antim,F,India,IND,2024,Paris,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,False,True
+Anshu Anshu,F,India,IND,2024,Paris,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,True,False
+Nisha Nisha,F,India,IND,2024,Paris,Wrestling,Women's Freestyle 68kg,No medal,Women's,WRF,False,True
+Reetika Reetika,F,India,IND,2024,Paris,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,False,True

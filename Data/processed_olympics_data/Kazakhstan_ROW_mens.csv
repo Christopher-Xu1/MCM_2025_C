@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vladimir Belonogov,M,Kazakhstan,KAZ,2000,Sydney,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Vladislav Yakovlev,M,Kazakhstan,KAZ,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
-Vladislav Yakovlev,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True
-Vladislav Yakovlev,M,Kazakhstan,KAZ,2020,Tokyo,Rowing,Men's Single Sculls,No medal,Men's,ROW,True
-Vladislav Yakovlev,M,Kazakhstan,KAZ,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vladimir Belonogov,M,Kazakhstan,KAZ,2000,Sydney,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Vladislav Yakovlev,M,Kazakhstan,KAZ,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,True
+Vladislav Yakovlev,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,True,False
+Vladislav Yakovlev,M,Kazakhstan,KAZ,2020,Tokyo,Rowing,Men's Single Sculls,No medal,Men's,ROW,True,False
+Vladislav Yakovlev,M,Kazakhstan,KAZ,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,True,False

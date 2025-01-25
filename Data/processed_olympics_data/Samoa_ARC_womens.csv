@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maureen Tuimalealiifano,F,Samoa,SAM,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maureen Tuimalealiifano,F,Samoa,SAM,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True

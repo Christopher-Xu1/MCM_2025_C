@@ -1,46 +1,46 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bernd Anders,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Jochen Bachfeld,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True
-Jochen Bachfeld,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Welterweight,Gold,Boxing,BOX,True
-Herbert Bauch,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Light-Heavyweight,Bronze,Boxing,BOX,False
-Mario Behrendt,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Ulrich Beyer,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Ulrich Beyer,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Hans-Joachim Brauske,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Ren Breitbarth,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Detlef Dahn,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Diego Drumm,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Bernd Englmeier,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Jrgen Fanghnel,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True
-Jrgen Fanghnel,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True
-Jrgen Fanghnel,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Heavyweight,Bronze,Boxing,BOX,True
-Rudi Fink,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Featherweight,Gold,Boxing,BOX,False
-Stefan Frster,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True
-Stefan Frster,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True
-Dietmar Geilich,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True
-Dietmar Geilich,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True
-Maik Heydeck,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Bernd Juterzenka,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Ulrich Kaden,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False
-Detlef Kstner,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Light-Middleweight,Bronze,Boxing,BOX,False
-Karl-Heinz Krger,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Welterweight,Bronze,Boxing,BOX,False
-Henry Maske,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Middleweight,Gold,Boxing,BOX,False
-Siegfried Mehnert,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Richard Nowakowski,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Featherweight,Silver,Boxing,BOX,True
-Richard Nowakowski,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Lightweight,Bronze,Boxing,BOX,True
-Andreas Otto,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Peter Rieger,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Ottomar Sachse,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Ottomar Sachse,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Jrgen Schlegel,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Torsten Schmitz,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Dietmar Schwarz,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Ren Suetovius,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Andreas Tews,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Flyweight,Silver,Boxing,BOX,False
-Peter Tiepold,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Peter Tiepold,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Light-Middleweight,Bronze,Boxing,BOX,True
-Manfred (gebauer-),M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Bernd Wittenburg,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Manfred Wolke,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Welterweight,Gold,Boxing,BOX,True
-Manfred Wolke,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Andreas Zlow,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Lightweight,Gold,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bernd Anders,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Jochen Bachfeld,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True,True
+Jochen Bachfeld,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Welterweight,Gold,Boxing,BOX,True,False
+Herbert Bauch,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Light-Heavyweight,Bronze,Boxing,BOX,False,True
+Mario Behrendt,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Ulrich Beyer,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,True
+Ulrich Beyer,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,False
+Hans-Joachim Brauske,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Ren Breitbarth,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Detlef Dahn,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Diego Drumm,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Bernd Englmeier,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Jrgen Fanghnel,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True,True
+Jrgen Fanghnel,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True,False
+Jrgen Fanghnel,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Heavyweight,Bronze,Boxing,BOX,True,False
+Rudi Fink,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Featherweight,Gold,Boxing,BOX,False,True
+Stefan Frster,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True,True
+Stefan Frster,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True,False
+Dietmar Geilich,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True,True
+Dietmar Geilich,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True,False
+Maik Heydeck,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Bernd Juterzenka,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Ulrich Kaden,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False,True
+Detlef Kstner,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Light-Middleweight,Bronze,Boxing,BOX,False,True
+Karl-Heinz Krger,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Welterweight,Bronze,Boxing,BOX,False,True
+Henry Maske,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Middleweight,Gold,Boxing,BOX,False,True
+Siegfried Mehnert,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Richard Nowakowski,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Featherweight,Silver,Boxing,BOX,True,True
+Richard Nowakowski,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Lightweight,Bronze,Boxing,BOX,True,False
+Andreas Otto,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Peter Rieger,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Ottomar Sachse,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,True
+Ottomar Sachse,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,False
+Jrgen Schlegel,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Torsten Schmitz,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Dietmar Schwarz,M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Ren Suetovius,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Andreas Tews,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Flyweight,Silver,Boxing,BOX,False,True
+Peter Tiepold,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,True
+Peter Tiepold,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Light-Middleweight,Bronze,Boxing,BOX,True,False
+Manfred (gebauer-),M,East Germany,GDR,1980,Moskva,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Bernd Wittenburg,M,East Germany,GDR,1976,Montreal,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Manfred Wolke,M,East Germany,GDR,1968,Mexico City,Boxing,Boxing Men's Welterweight,Gold,Boxing,BOX,True,True
+Manfred Wolke,M,East Germany,GDR,1972,Munich,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,False
+Andreas Zlow,M,East Germany,GDR,1988,Seoul,Boxing,Boxing Men's Lightweight,Gold,Boxing,BOX,False,True

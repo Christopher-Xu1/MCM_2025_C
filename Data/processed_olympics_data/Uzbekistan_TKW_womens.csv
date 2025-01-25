@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yevgeniya Karimova,F,Uzbekistan,UZB,2008,Beijing,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False
-Irina Kaydashova,F,Uzbekistan,UZB,2004,Athina,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,False
-Nataliya Mamatova,F,Uzbekistan,UZB,2012,London,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False
-Nataliya Mikryukova,F,Uzbekistan,UZB,2004,Athina,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False
-Nigora Tursunkulova,F,Uzbekistan,UZB,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,True
-Svetlana Osipova,F,Uzbekistan,UZB,2020,Tokyo,Taekwondo,Women +67kg,No medal,Women,TKW,True
-Nigora Tursunkulova,F,Uzbekistan,UZB,2020,Tokyo,Taekwondo,Women -67kg,No medal,Women,TKW,True
-Ozoda Sobirjonova,F,Uzbekistan,UZB,2024,Paris,Taekwondo,Women -67kg,No medal,Women,TKW,False
-Svetlana Osipova,F,Uzbekistan,UZB,2024,Paris,Taekwondo,Women +67kg,Silver,Women,TKW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yevgeniya Karimova,F,Uzbekistan,UZB,2008,Beijing,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False,True
+Irina Kaydashova,F,Uzbekistan,UZB,2004,Athina,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,False,True
+Nataliya Mamatova,F,Uzbekistan,UZB,2012,London,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False,True
+Nataliya Mikryukova,F,Uzbekistan,UZB,2004,Athina,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False,True
+Nigora Tursunkulova,F,Uzbekistan,UZB,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Welterweight,No medal,Taekwondo,TKW,True,True
+Svetlana Osipova,F,Uzbekistan,UZB,2020,Tokyo,Taekwondo,Women +67kg,No medal,Women,TKW,True,True
+Nigora Tursunkulova,F,Uzbekistan,UZB,2020,Tokyo,Taekwondo,Women -67kg,No medal,Women,TKW,True,False
+Ozoda Sobirjonova,F,Uzbekistan,UZB,2024,Paris,Taekwondo,Women -67kg,No medal,Women,TKW,False,True
+Svetlana Osipova,F,Uzbekistan,UZB,2024,Paris,Taekwondo,Women +67kg,Silver,Women,TKW,True,False

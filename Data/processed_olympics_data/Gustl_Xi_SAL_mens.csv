@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Erich Natusch,M,Gustl Xi,GER,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Georg Nowka,M,Gustl Xi,GER,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Theodor Thomsen,M,Gustl Xi,GER,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Erich Natusch,M,Gustl Xi,GER,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Georg Nowka,M,Gustl Xi,GER,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Theodor Thomsen,M,Gustl Xi,GER,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

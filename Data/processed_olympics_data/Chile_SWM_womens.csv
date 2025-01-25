@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kristel Schmipl,F,Chile,CHI,2004,Athina,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Kristel Schmipl,F,Chile,CHI,2004,Athina,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Kristel Schmipl,F,Chile,CHI,2008,Beijing,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Kristel Schmipl,F,Chile,CHI,2008,Beijing,Swimming,Swimming Women's 10 kilometres Open Water,No medal,Swimming,SWM,True
-Kristel Schmipl,F,Chile,CHI,2012,London,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Kristel Schmipl,F,Chile,CHI,2012,London,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Kristel Schmipl,F,Chile,CHI,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Kristel Schmipl,F,Chile,CHI,2016,Rio de Janeiro,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Kristel Kobrich,F,Chile,CHI,2020,Tokyo,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,True
-Kristel Kobrich,F,Chile,CHI,2020,Tokyo,Swimming,Women's 1500m Freestyle,No medal,Women's,SWM,True
-Kristel Kobrich,F,Chile,CHI,2024,Paris,Swimming,Women's 1500m Freestyle,No medal,Women's,SWM,True
-Kristel Kobrich,F,Chile,CHI,2024,Paris,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kristel Schmipl,F,Chile,CHI,2004,Athina,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Kristel Schmipl,F,Chile,CHI,2004,Athina,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Kristel Schmipl,F,Chile,CHI,2008,Beijing,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,False
+Kristel Schmipl,F,Chile,CHI,2008,Beijing,Swimming,Swimming Women's 10 kilometres Open Water,No medal,Swimming,SWM,True,False
+Kristel Schmipl,F,Chile,CHI,2012,London,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,False
+Kristel Schmipl,F,Chile,CHI,2012,London,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,False
+Kristel Schmipl,F,Chile,CHI,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,False
+Kristel Schmipl,F,Chile,CHI,2016,Rio de Janeiro,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,False
+Kristel Kobrich,F,Chile,CHI,2020,Tokyo,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,True,True
+Kristel Kobrich,F,Chile,CHI,2020,Tokyo,Swimming,Women's 1500m Freestyle,No medal,Women's,SWM,True,True
+Kristel Kobrich,F,Chile,CHI,2024,Paris,Swimming,Women's 1500m Freestyle,No medal,Women's,SWM,True,False
+Kristel Kobrich,F,Chile,CHI,2024,Paris,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,True,False

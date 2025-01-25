@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Isabel Esteban,F,Côte D'Ivoire,CIV,2024,Paris,Fencing,Women's Foil Individual,No medal,Women's,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Isabel Esteban,F,Côte D'Ivoire,CIV,2024,Paris,Fencing,Women's Foil Individual,No medal,Women's,FEN,False,True

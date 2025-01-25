@@ -1,44 +1,44 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Roselina Angee,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Roselina Angee,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Roselina Angee,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Roselina Angee,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Roselina Angee,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Isabella Hurtado,F,Colombia,COL,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Isabel Rojas,F,Colombia,COL,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Isabel Rojas,F,Colombia,COL,1996,Atlanta,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Isabel Rojas,F,Colombia,COL,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Isabel Rojas,F,Colombia,COL,2000,Sydney,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Liliana Cian,F,Colombia,COL,1976,Montreal,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Liliana Cian,F,Colombia,COL,1976,Montreal,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Liliana Cian,F,Colombia,COL,1976,Montreal,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Carolina Henao,F,Colombia,COL,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Carolina Henao,F,Colombia,COL,2008,Beijing,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Carolina Henao,F,Colombia,COL,2008,Beijing,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Carolina Henao,F,Colombia,COL,2012,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Carolina Henao,F,Colombia,COL,2012,London,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Olga Irragorri,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Olga Irragorri,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Olga Irragorri,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Olga Irragorri,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Olga Irragorri,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Olga Irragorri,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Olga Irragorri,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Olga Irragorri,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Paola Duran,F,Colombia,COL,2004,Athina,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Paola Duran,F,Colombia,COL,2004,Athina,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Carmen Camacho,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Carmen Camacho,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Patricia Olano,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Patricia Olano,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Patricia Olano,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Patricia Olano,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Patricia Olano,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Fernanda Prez,F,Colombia,COL,1976,Montreal,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Fernanda Prez,F,Colombia,COL,1976,Montreal,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Erika Layne,F,Colombia,COL,2008,Beijing,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,False
-Nelly Posada,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Nelly Posada,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Isabella Arcila,F,Colombia,COL,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True
-Isabella Arcila,F,Colombia,COL,2020,Tokyo,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,True
-Stefania Gomez,F,Colombia,COL,2024,Paris,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Roselina Angee,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Roselina Angee,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Roselina Angee,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Roselina Angee,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Roselina Angee,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Isabella Hurtado,F,Colombia,COL,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Isabel Rojas,F,Colombia,COL,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Isabel Rojas,F,Colombia,COL,1996,Atlanta,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Isabel Rojas,F,Colombia,COL,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Isabel Rojas,F,Colombia,COL,2000,Sydney,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Liliana Cian,F,Colombia,COL,1976,Montreal,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Liliana Cian,F,Colombia,COL,1976,Montreal,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Liliana Cian,F,Colombia,COL,1976,Montreal,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Carolina Henao,F,Colombia,COL,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Carolina Henao,F,Colombia,COL,2008,Beijing,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Carolina Henao,F,Colombia,COL,2008,Beijing,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Carolina Henao,F,Colombia,COL,2012,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Carolina Henao,F,Colombia,COL,2012,London,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,False
+Olga Irragorri,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Olga Irragorri,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Olga Irragorri,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Olga Irragorri,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Olga Irragorri,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Olga Irragorri,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,False
+Olga Irragorri,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,False
+Olga Irragorri,F,Colombia,COL,1972,Munich,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,False
+Paola Duran,F,Colombia,COL,2004,Athina,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Paola Duran,F,Colombia,COL,2004,Athina,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Carmen Camacho,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Carmen Camacho,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Patricia Olano,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Patricia Olano,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Patricia Olano,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Patricia Olano,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Patricia Olano,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Fernanda Prez,F,Colombia,COL,1976,Montreal,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Fernanda Prez,F,Colombia,COL,1976,Montreal,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Erika Layne,F,Colombia,COL,2008,Beijing,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,False,True
+Nelly Posada,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Nelly Posada,F,Colombia,COL,1968,Mexico City,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Isabella Arcila,F,Colombia,COL,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True,True
+Isabella Arcila,F,Colombia,COL,2020,Tokyo,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,True,True
+Stefania Gomez,F,Colombia,COL,2024,Paris,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False,True

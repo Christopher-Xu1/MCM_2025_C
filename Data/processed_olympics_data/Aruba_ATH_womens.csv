@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Evelyn Farrell,F,Aruba,ARU,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Evelyn Farrell,F,Aruba,ARU,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Luz Geerman,F,Aruba,ARU,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Cornelia Melis,F,Aruba,ARU,1988,Seoul,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Cornelia Melis,F,Aruba,ARU,1992,Barcelona,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Evelyn Farrell,F,Aruba,ARU,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Evelyn Farrell,F,Aruba,ARU,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Luz Geerman,F,Aruba,ARU,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Cornelia Melis,F,Aruba,ARU,1988,Seoul,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,True
+Cornelia Melis,F,Aruba,ARU,1992,Barcelona,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False

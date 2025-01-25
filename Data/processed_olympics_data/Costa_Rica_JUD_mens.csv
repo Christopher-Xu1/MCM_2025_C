@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rafael Chaves,M,Costa Rica,CRC,1964,Tokyo,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Manuel Chavez,M,Costa Rica,CRC,1980,Moskva,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Javier Long,M,Costa Rica,CRC,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-David Tercero,M,Costa Rica,CRC,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Ronny Villafuerte,M,Costa Rica,CRC,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Orlando Valverde,M,Costa Rica,CRC,1964,Tokyo,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Miguel Salazar,M,Costa Rica,CRC,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Osman Segura,M,Costa Rica,CRC,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Henry Njera,M,Costa Rica,CRC,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Henry Njera,M,Costa Rica,CRC,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Alvaro Mora,M,Costa Rica,CRC,1980,Moskva,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Alvaro Mora,M,Costa Rica,CRC,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Ronny Mora,M,Costa Rica,CRC,1980,Moskva,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Ronny Mora,M,Costa Rica,CRC,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Andrs Barrantes,M,Costa Rica,CRC,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Roberto Sanabria,M,Costa Rica,CRC,1972,Munich,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Ian Sancho,M,Costa Rica,CRC,2020,Tokyo,Judo,Men -66 kg,No medal,Men,JUD,False
-Sebastian Sancho,M,Costa Rica,CRC,2024,Paris,Judo,Men -60 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rafael Chaves,M,Costa Rica,CRC,1964,Tokyo,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Manuel Chavez,M,Costa Rica,CRC,1980,Moskva,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Javier Long,M,Costa Rica,CRC,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+David Tercero,M,Costa Rica,CRC,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Ronny Villafuerte,M,Costa Rica,CRC,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Orlando Valverde,M,Costa Rica,CRC,1964,Tokyo,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Miguel Salazar,M,Costa Rica,CRC,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Osman Segura,M,Costa Rica,CRC,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Henry Njera,M,Costa Rica,CRC,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Henry Njera,M,Costa Rica,CRC,1996,Atlanta,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Alvaro Mora,M,Costa Rica,CRC,1980,Moskva,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,True
+Alvaro Mora,M,Costa Rica,CRC,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Ronny Mora,M,Costa Rica,CRC,1980,Moskva,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Ronny Mora,M,Costa Rica,CRC,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False
+Andrs Barrantes,M,Costa Rica,CRC,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Roberto Sanabria,M,Costa Rica,CRC,1972,Munich,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Ian Sancho,M,Costa Rica,CRC,2020,Tokyo,Judo,Men -66 kg,No medal,Men,JUD,False,True
+Sebastian Sancho,M,Costa Rica,CRC,2024,Paris,Judo,Men -60 kg,No medal,Men,JUD,False,True

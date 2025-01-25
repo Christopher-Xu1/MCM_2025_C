@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tsvetana Bozhilova,F,Bulgaria,BUL,2000,Sydney,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Tsvetana Bozhilova,F,Bulgaria,BUL,2004,Athina,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Emiliya Vacheva,F,Bulgaria,BUL,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Ivelina Ilieva,F,Bulgaria,BUL,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tsvetana Bozhilova,F,Bulgaria,BUL,2000,Sydney,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,True
+Tsvetana Bozhilova,F,Bulgaria,BUL,2004,Athina,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,False
+Emiliya Vacheva,F,Bulgaria,BUL,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Ivelina Ilieva,F,Bulgaria,BUL,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,False,True

@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Derrick Anderson,M,Guam,GUM,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Mariano Aquino,M,Guam,GUM,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Ricardo Blas,M,Guam,GUM,1988,Seoul,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Ricardo Jr.,M,Guam,GUM,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Ricardo Jr.,M,Guam,GUM,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Atif Hussain,M,Guam,GUM,1992,Barcelona,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Joshter Andrew,M,Guam,GUM,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Derrick Anderson,M,Guam,GUM,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Mariano Aquino,M,Guam,GUM,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Ricardo Blas,M,Guam,GUM,1988,Seoul,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Ricardo Jr.,M,Guam,GUM,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,True
+Ricardo Jr.,M,Guam,GUM,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Atif Hussain,M,Guam,GUM,1992,Barcelona,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Joshter Andrew,M,Guam,GUM,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,False,True

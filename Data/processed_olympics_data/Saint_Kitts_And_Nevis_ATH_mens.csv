@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Antoine Adams,M,Saint Kitts And Nevis,SKN,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Antoine Adams,M,Saint Kitts And Nevis,SKN,2012,London,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Antoine Adams,M,Saint Kitts And Nevis,SKN,2012,London,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Antoine Adams,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Antoine Adams,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Antoine Adams,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Allistar Clarke,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Kim Collins,M,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Kim Collins,M,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Kim Collins,M,Saint Kitts And Nevis,SKN,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Kim Collins,M,Saint Kitts And Nevis,SKN,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Kim Collins,M,Saint Kitts And Nevis,SKN,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Kim Collins,M,Saint Kitts And Nevis,SKN,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Kim Collins,M,Saint Kitts And Nevis,SKN,2008,Beijing,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Kim Collins,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Kim Collins,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Bertram Haynes,M,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Alain Isiah,M,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Brijesh Lawrence,M,Saint Kitts And Nevis,SKN,2012,London,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Brijesh Lawrence,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Ricardo Liddie,M,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Jason Rogers,M,Saint Kitts And Nevis,SKN,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Jason Rogers,M,Saint Kitts And Nevis,SKN,2012,London,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Jason Rogers,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Lestrod Roland,M,Saint Kitts And Nevis,SKN,2012,London,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Jason Rogers,M,Saint Kitts And Nevis,SKN,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Antoine Adams,M,Saint Kitts And Nevis,SKN,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Antoine Adams,M,Saint Kitts And Nevis,SKN,2012,London,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Antoine Adams,M,Saint Kitts And Nevis,SKN,2012,London,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Antoine Adams,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Antoine Adams,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Antoine Adams,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Allistar Clarke,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Kim Collins,M,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Kim Collins,M,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Kim Collins,M,Saint Kitts And Nevis,SKN,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Kim Collins,M,Saint Kitts And Nevis,SKN,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Kim Collins,M,Saint Kitts And Nevis,SKN,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Kim Collins,M,Saint Kitts And Nevis,SKN,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Kim Collins,M,Saint Kitts And Nevis,SKN,2008,Beijing,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Kim Collins,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Kim Collins,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Bertram Haynes,M,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Alain Isiah,M,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Brijesh Lawrence,M,Saint Kitts And Nevis,SKN,2012,London,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Brijesh Lawrence,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Ricardo Liddie,M,Saint Kitts And Nevis,SKN,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Jason Rogers,M,Saint Kitts And Nevis,SKN,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Jason Rogers,M,Saint Kitts And Nevis,SKN,2012,London,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Jason Rogers,M,Saint Kitts And Nevis,SKN,2016,Rio de Janeiro,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Lestrod Roland,M,Saint Kitts And Nevis,SKN,2012,London,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Jason Rogers,M,Saint Kitts And Nevis,SKN,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,True,False

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zana Pintaric,F,Slovenia,SLO,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Zana Pintaric,F,Slovenia,SLO,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zana Pintaric,F,Slovenia,SLO,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Zana Pintaric,F,Slovenia,SLO,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True,True

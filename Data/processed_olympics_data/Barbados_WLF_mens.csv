@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anthony Phillips,M,Barbados,BAR,1968,Mexico City,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Anthony Phillips,M,Barbados,BAR,1972,Munich,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anthony Phillips,M,Barbados,BAR,1968,Mexico City,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,True
+Anthony Phillips,M,Barbados,BAR,1972,Munich,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,False

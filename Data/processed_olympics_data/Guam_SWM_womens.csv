@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Veronica Cummings,F,Guam,GUM,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Veronica Cummings,F,Guam,GUM,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Barbara Gayle,F,Guam,GUM,1988,Seoul,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False
-Tammie (-filiault),F,Guam,GUM,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Tammie (-filiault),F,Guam,GUM,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Barbara Pexa,F,Guam,GUM,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Barbara Pexa,F,Guam,GUM,1992,Barcelona,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Pilar Shimizu,F,Guam,GUM,2012,London,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Pilar Shimizu,F,Guam,GUM,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Kurotori Gomez,F,Guam,GUM,2020,Tokyo,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Veronica Cummings,F,Guam,GUM,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Veronica Cummings,F,Guam,GUM,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Barbara Gayle,F,Guam,GUM,1988,Seoul,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Tammie (-filiault),F,Guam,GUM,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Tammie (-filiault),F,Guam,GUM,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Barbara Pexa,F,Guam,GUM,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Barbara Pexa,F,Guam,GUM,1992,Barcelona,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Pilar Shimizu,F,Guam,GUM,2012,London,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Pilar Shimizu,F,Guam,GUM,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Kurotori Gomez,F,Guam,GUM,2020,Tokyo,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,False,True

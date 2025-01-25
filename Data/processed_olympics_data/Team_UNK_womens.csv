@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Name,Sex,Team,NOC,Year,City,Sport,Event,Medal,Event,UNK,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Name,Sex,Team,NOC,Year,City,Sport,Event,Medal,Event,UNK,False,True

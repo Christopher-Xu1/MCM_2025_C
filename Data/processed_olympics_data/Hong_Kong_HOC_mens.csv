@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Daniel Castro,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Joaquin Jr.,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Jos Cunha,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Joo Silva,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Rui Silva,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Omar Dallah,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Benjamin Gardner,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Lionel Guterres,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Zia Hussain,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Slawee Kadir,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Farid Khan,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Frederic Mccosh,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-John Monteiro,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Kader Rahman,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Sarinder Dillon,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Kuldip Gosal,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Harnam Grewal,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Daniel Castro,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Joaquin Jr.,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Jos Cunha,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Joo Silva,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Rui Silva,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Omar Dallah,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Benjamin Gardner,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Lionel Guterres,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Zia Hussain,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Slawee Kadir,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Farid Khan,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Frederic Mccosh,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+John Monteiro,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Kader Rahman,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Sarinder Dillon,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Kuldip Gosal,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Harnam Grewal,M,Hong Kong,HKG,1964,Tokyo,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True

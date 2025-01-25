@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kyaw Aye,M,Myanmar,MYA,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Kyaw Shein,M,Myanmar,MYA,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Kyu Maung,M,Myanmar,MYA,2012,London,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Naung Tun,M,Myanmar,MYA,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Naung Tun,M,Myanmar,MYA,2016,Rio de Janeiro,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
-Soe Myint,M,Myanmar,MYA,1996,Atlanta,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Tun Naung,M,Myanmar,MYA,2020,Tokyo,Shooting,10m Air Pistol Men,No medal,10m,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kyaw Aye,M,Myanmar,MYA,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Kyaw Shein,M,Myanmar,MYA,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Kyu Maung,M,Myanmar,MYA,2012,London,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Naung Tun,M,Myanmar,MYA,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Naung Tun,M,Myanmar,MYA,2016,Rio de Janeiro,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True,True
+Soe Myint,M,Myanmar,MYA,1996,Atlanta,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Tun Naung,M,Myanmar,MYA,2020,Tokyo,Shooting,10m Air Pistol Men,No medal,10m,SHO,False,True

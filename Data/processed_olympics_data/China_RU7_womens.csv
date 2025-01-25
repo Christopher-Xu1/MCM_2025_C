@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Keyi Chen,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Yaoyao Gu,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Xiaoqian Liu,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Hongting Ruan,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Minglin Tang,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Wanyu Wang,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Juan Wu,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Xiaoyan Xu,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Meiling Yan,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Feifei Yang,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True
-Min Yang,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Liping Yu,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Xiaoming Yu,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False
-Keyi Chen,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Xinrong Dou,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Yaoyao Gu,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Yu Hu,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Xiaoqian Liu,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Xiaodan Ma,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Hongting Ruan,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Qi Su,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Yue Sun,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Xiao Wang,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Feifei Yang,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Yan Zhou,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Meiling Yan,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Wanyu Wang,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Keyi Chen,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Yaoyao Gu,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Xiaoqian Liu,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Hongting Ruan,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Minglin Tang,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Wanyu Wang,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Juan Wu,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Xiaoyan Xu,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Meiling Yan,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Feifei Yang,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,True,True
+Min Yang,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Liping Yu,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Xiaoming Yu,F,China,CHN,2020,Tokyo,Rugby Sevens,Women Team,No medal,Women,RU7,False,True
+Keyi Chen,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Xinrong Dou,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Yaoyao Gu,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Yu Hu,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Xiaoqian Liu,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Xiaodan Ma,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Hongting Ruan,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Qi Su,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Yue Sun,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Xiao Wang,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Feifei Yang,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Yan Zhou,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Meiling Yan,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Wanyu Wang,F,China,CHN,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False

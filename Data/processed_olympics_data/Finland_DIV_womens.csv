@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Laura (-jansson),F,Finland,FIN,1972,Munich,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Laura (-jansson),F,Finland,FIN,1972,Munich,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Tarja Liljestrm,F,Finland,FIN,1968,Mexico City,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Tarja Liljestrm,F,Finland,FIN,1968,Mexico City,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Greta (-knoblock),F,Finland,FIN,1928,Amsterdam,Diving,Diving Women's Platform,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Laura (-jansson),F,Finland,FIN,1972,Munich,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Laura (-jansson),F,Finland,FIN,1972,Munich,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Tarja Liljestrm,F,Finland,FIN,1968,Mexico City,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Tarja Liljestrm,F,Finland,FIN,1968,Mexico City,Diving,Diving Women's Platform,No medal,Diving,DIV,True,True
+Greta (-knoblock),F,Finland,FIN,1928,Amsterdam,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True

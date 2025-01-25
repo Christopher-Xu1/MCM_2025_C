@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pdraig Harrington,M,Ireland,IRL,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Samus Power,M,Ireland,IRL,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Shane Lowry,M,Ireland,IRL,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
-McILROY Rory,M,Ireland,IRL,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
-Shane Lowry,M,Ireland,IRL,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
-McILROY Rory,M,Ireland,IRL,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pdraig Harrington,M,Ireland,IRL,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Samus Power,M,Ireland,IRL,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Shane Lowry,M,Ireland,IRL,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,True
+McILROY Rory,M,Ireland,IRL,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,True
+Shane Lowry,M,Ireland,IRL,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,False
+McILROY Rory,M,Ireland,IRL,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,False

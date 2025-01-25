@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Phupu Khatri,F,Nepal,NEP,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Devu Thapa,F,Nepal,NEP,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Soniya Bhatta,F,Nepal,NEP,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,False
-Manita Shrestha,F,Nepal,NEP,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Phupu Khatri,F,Nepal,NEP,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Devu Thapa,F,Nepal,NEP,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Soniya Bhatta,F,Nepal,NEP,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,False,True
+Manita Shrestha,F,Nepal,NEP,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,False,True

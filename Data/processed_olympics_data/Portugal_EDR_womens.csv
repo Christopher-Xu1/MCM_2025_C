@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maria Caetano,F,Portugal,POR,2020,Tokyo,Equestrian,Dressage Team,No medal,Dressage,EDR,True
-Maria Caetano,F,Portugal,POR,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Maria Caetano,F,Portugal,POR,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Maria Caetano,F,Portugal,POR,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True
-Ralao Duarte,F,Portugal,POR,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Ralao Duarte,F,Portugal,POR,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maria Caetano,F,Portugal,POR,2020,Tokyo,Equestrian,Dressage Team,No medal,Dressage,EDR,True,True
+Maria Caetano,F,Portugal,POR,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Maria Caetano,F,Portugal,POR,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,False
+Maria Caetano,F,Portugal,POR,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True,False
+Ralao Duarte,F,Portugal,POR,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Ralao Duarte,F,Portugal,POR,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True,True

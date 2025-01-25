@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kent Appelgren,M,Sweden-2,SWE,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Kent Appelgren,M,Sweden-2,SWE,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Karl Karlsson,M,Sweden-2,SWE,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Lars-Erik Persson,M,Sweden-2,SWE,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Rolf Scheele,M,Sweden-2,SWE,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Jan-Ove Waldner,M,Sweden-2,SWE,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Jan-Ove Waldner,M,Sweden-2,SWE,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Jan-Ove Waldner,M,Sweden-2,SWE,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kent Appelgren,M,Sweden-2,SWE,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Kent Appelgren,M,Sweden-2,SWE,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Karl Karlsson,M,Sweden-2,SWE,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Lars-Erik Persson,M,Sweden-2,SWE,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Rolf Scheele,M,Sweden-2,SWE,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Jan-Ove Waldner,M,Sweden-2,SWE,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Jan-Ove Waldner,M,Sweden-2,SWE,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Jan-Ove Waldner,M,Sweden-2,SWE,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False

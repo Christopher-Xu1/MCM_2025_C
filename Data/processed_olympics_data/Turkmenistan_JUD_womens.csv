@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Galina Atayeva,F,Turkmenistan,TKM,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Galina Atayeva,F,Turkmenistan,TKM,2000,Sydney,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Glbadam Babamyradowa,F,Turkmenistan,TKM,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Glnar Haytbaewa,F,Turkmenistan,TKM,2012,London,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Olesya Nazarenko,F,Turkmenistan,TKM,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Ruana Nurjowowa,F,Turkmenistan,TKM,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Nasiba Salayeva-surkieva,F,Turkmenistan,TKM,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Nasiba Salayeva-surkieva,F,Turkmenistan,TKM,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Nasiba Salayeva-surkieva,F,Turkmenistan,TKM,2008,Beijing,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Gulbadam Babamuratova,F,Turkmenistan,TKM,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,False
-Maysa Pardayeva,F,Turkmenistan,TKM,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Galina Atayeva,F,Turkmenistan,TKM,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,True
+Galina Atayeva,F,Turkmenistan,TKM,2000,Sydney,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,False
+Glbadam Babamyradowa,F,Turkmenistan,TKM,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Glnar Haytbaewa,F,Turkmenistan,TKM,2012,London,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Olesya Nazarenko,F,Turkmenistan,TKM,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Ruana Nurjowowa,F,Turkmenistan,TKM,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Nasiba Salayeva-surkieva,F,Turkmenistan,TKM,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,True
+Nasiba Salayeva-surkieva,F,Turkmenistan,TKM,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Nasiba Salayeva-surkieva,F,Turkmenistan,TKM,2008,Beijing,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Gulbadam Babamuratova,F,Turkmenistan,TKM,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,False,True
+Maysa Pardayeva,F,Turkmenistan,TKM,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,False,True

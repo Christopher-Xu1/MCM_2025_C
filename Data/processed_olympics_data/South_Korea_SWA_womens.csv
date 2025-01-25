@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Choi Jeong-yun,F,South Korea,KOR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False
-Ha Su-gyeong,F,South Korea,KOR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Ha Su-gyeong,F,South Korea,KOR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Jang Yun-gyeong,F,South Korea,KOR,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Kim Mi-jin-su,F,South Korea,KOR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Kim Mi-jin-su,F,South Korea,KOR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Kim Seong-eun,F,South Korea,KOR,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Park Hyeon-ha,F,South Korea,KOR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Park Hyeon-seon,F,South Korea,KOR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Yu Na-mi,F,South Korea,KOR,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Yu Na-mi,F,South Korea,KOR,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Choi Jeong-yun,F,South Korea,KOR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False,True
+Ha Su-gyeong,F,South Korea,KOR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Ha Su-gyeong,F,South Korea,KOR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Jang Yun-gyeong,F,South Korea,KOR,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Kim Mi-jin-su,F,South Korea,KOR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Kim Mi-jin-su,F,South Korea,KOR,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Kim Seong-eun,F,South Korea,KOR,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Park Hyeon-ha,F,South Korea,KOR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Park Hyeon-seon,F,South Korea,KOR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Yu Na-mi,F,South Korea,KOR,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Yu Na-mi,F,South Korea,KOR,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False

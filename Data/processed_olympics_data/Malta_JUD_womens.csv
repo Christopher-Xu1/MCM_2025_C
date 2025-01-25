@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marcon Bezzina,F,Malta,MLT,2004,Athina,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Marcon Bezzina,F,Malta,MLT,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Laurie Pace,F,Malta,MLT,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Laurie Pace,F,Malta,MLT,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Laurie Pace,F,Malta,MLT,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
-Katryna Esposito,F,Malta,MLT,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marcon Bezzina,F,Malta,MLT,2004,Athina,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,True
+Marcon Bezzina,F,Malta,MLT,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False
+Laurie Pace,F,Malta,MLT,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,True
+Laurie Pace,F,Malta,MLT,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False
+Laurie Pace,F,Malta,MLT,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True,False
+Katryna Esposito,F,Malta,MLT,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,False,True

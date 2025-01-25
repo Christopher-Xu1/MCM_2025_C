@@ -1,33 +1,33 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Viorel Bla,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Nicolae Brbu,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Gyula Bartha,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Ioan Chezan,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Corneliu Chifu,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False
-Marius Chiiga,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False
-Mihai Coste,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Eduard Derzsei,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Aurel Drgan,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Laureniu Dumnoiu,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True
-Laureniu Dumnoiu,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,True
-Gnther Enescu,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False
-Romeo Enescu,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Gheorghe Fieraru,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Constantin Ganciu,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Dan Grleanu,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False
-Mihai Grigorovici,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Cristian Ion,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Sorin Macavei,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False
-Stelian Moculescu,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Horaiu Nicolau,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Corneliu Oros,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True
-Corneliu Oros,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,True
-Davila Plocon,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Nicolae Pop,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False
-William Schreiber,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Marian Stamate,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Constantin Sterea,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False
-Nicolae Stoian,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False
-Iuliu Szcs,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Mircea Tutovan-codoi,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Gabriel Uditeanu,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Viorel Bla,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Nicolae Brbu,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Gyula Bartha,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Ioan Chezan,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Corneliu Chifu,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False,True
+Marius Chiiga,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False,True
+Mihai Coste,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Eduard Derzsei,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Aurel Drgan,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Laureniu Dumnoiu,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True,True
+Laureniu Dumnoiu,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,True,False
+Gnther Enescu,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False,True
+Romeo Enescu,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Gheorghe Fieraru,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Constantin Ganciu,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Dan Grleanu,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False,True
+Mihai Grigorovici,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Cristian Ion,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Sorin Macavei,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False,True
+Stelian Moculescu,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Horaiu Nicolau,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Corneliu Oros,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True,True
+Corneliu Oros,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,True,False
+Davila Plocon,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Nicolae Pop,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False,True
+William Schreiber,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Marian Stamate,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Constantin Sterea,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False,True
+Nicolae Stoian,M,Romania,ROU,1980,Moskva,Volleyball,Volleyball Men's Volleyball,Bronze,Volleyball,VVO,False,True
+Iuliu Szcs,M,Romania,ROU,1964,Tokyo,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Mircea Tutovan-codoi,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Gabriel Uditeanu,M,Romania,ROU,1972,Munich,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True

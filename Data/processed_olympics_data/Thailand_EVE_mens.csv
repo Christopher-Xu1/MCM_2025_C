@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pongsiree Bunluewong,M,Thailand,THA,2004,Athina,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False
-Weerapat Pitakanonda,M,Thailand,THA,2020,Tokyo,Equestrian,Eventing Team,No medal,Eventing,EVE,True
-Weerapat Pitakanonda,M,Thailand,THA,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,True
-Korntawat Samran,M,Thailand,THA,2020,Tokyo,Equestrian,Eventing Team,No medal,Eventing,EVE,True
-Korntawat Samran,M,Thailand,THA,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pongsiree Bunluewong,M,Thailand,THA,2004,Athina,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False,True
+Weerapat Pitakanonda,M,Thailand,THA,2020,Tokyo,Equestrian,Eventing Team,No medal,Eventing,EVE,True,True
+Weerapat Pitakanonda,M,Thailand,THA,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,True,True
+Korntawat Samran,M,Thailand,THA,2020,Tokyo,Equestrian,Eventing Team,No medal,Eventing,EVE,True,True
+Korntawat Samran,M,Thailand,THA,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,True,True

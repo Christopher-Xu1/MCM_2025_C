@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lev Alekseyev,M,Olen,URS,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Valery Nikolin,M,Olen,URS,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Yury Shavrin,M,Olen,URS,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lev Alekseyev,M,Olen,URS,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Valery Nikolin,M,Olen,URS,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Yury Shavrin,M,Olen,URS,1964,Tokyo,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

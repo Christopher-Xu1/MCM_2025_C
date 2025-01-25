@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Walter Nathan,M,Peru,PER,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Yair Nathan,M,Peru,PER,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Yair Nathan,M,Peru,PER,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Walter Nathan,M,Peru,PER,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Yair Nathan,M,Peru,PER,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Yair Nathan,M,Peru,PER,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True

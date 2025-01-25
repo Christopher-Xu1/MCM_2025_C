@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Michael Hicks,M,Poland,POL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False
-Pawel Pawlowski,M,Poland,POL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False
-Szymon Rduch,M,Poland,POL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False
-Przemyslaw Zamojski,M,Poland,POL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,True
-Przemyslaw Zamojski,M,Poland,POL,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,True
-Adrian Bogucki,M,Poland,POL,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,False
-Fili Matczak,M,Poland,POL,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,False
-Michal Sokolowski,M,Poland,POL,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Michael Hicks,M,Poland,POL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False,True
+Pawel Pawlowski,M,Poland,POL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False,True
+Szymon Rduch,M,Poland,POL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False,True
+Przemyslaw Zamojski,M,Poland,POL,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,True,True
+Przemyslaw Zamojski,M,Poland,POL,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,True,False
+Adrian Bogucki,M,Poland,POL,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,False,True
+Fili Matczak,M,Poland,POL,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,False,True
+Michal Sokolowski,M,Poland,POL,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,False,True

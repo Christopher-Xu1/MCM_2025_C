@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jill Brresen,F,South Africa,RSA,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Jill Brresen,F,South Africa,RSA,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Jill Brresen,F,South Africa,RSA,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Leanda Hendricks,F,South Africa,RSA,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Leanda Hendricks,F,South Africa,RSA,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Karen Hultzer,F,South Africa,RSA,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Kirstin Lewis,F,South Africa,RSA,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Kirstin Lewis,F,South Africa,RSA,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Kirstin Lewis,F,South Africa,RSA,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Kirstin Lewis,F,South Africa,RSA,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Johanna Schenk,F,South Africa,RSA,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jill Brresen,F,South Africa,RSA,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Jill Brresen,F,South Africa,RSA,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Jill Brresen,F,South Africa,RSA,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Leanda Hendricks,F,South Africa,RSA,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Leanda Hendricks,F,South Africa,RSA,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Karen Hultzer,F,South Africa,RSA,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Kirstin Lewis,F,South Africa,RSA,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Kirstin Lewis,F,South Africa,RSA,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Kirstin Lewis,F,South Africa,RSA,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Kirstin Lewis,F,South Africa,RSA,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Johanna Schenk,F,South Africa,RSA,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Franois Latil,M,Vanuatu,VAN,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Franois Latil,M,Vanuatu,VAN,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True

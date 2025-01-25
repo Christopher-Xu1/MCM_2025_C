@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jongwon Chon,M,South Korea,KOR,2020,Tokyo,Sport Climbing,Men's Combined,No medal,Men's,CLB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jongwon Chon,M,South Korea,KOR,2020,Tokyo,Sport Climbing,Men's Combined,No medal,Men's,CLB,False,True

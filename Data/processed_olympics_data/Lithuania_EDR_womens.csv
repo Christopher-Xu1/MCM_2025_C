@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Justina Vanagaite,F,Lithuania,LTU,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Justina Vanagaite,F,Lithuania,LTU,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,False,True

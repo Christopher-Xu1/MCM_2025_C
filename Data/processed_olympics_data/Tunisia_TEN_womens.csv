@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ons Jabeur,F,Tunisia,TUN,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Ons Jabeur,F,Tunisia,TUN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Selima Sfar,F,Tunisia,TUN,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Selima Sfar,F,Tunisia,TUN,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Ons Jabeur,F,Tunisia,TUN,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ons Jabeur,F,Tunisia,TUN,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Ons Jabeur,F,Tunisia,TUN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Selima Sfar,F,Tunisia,TUN,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Selima Sfar,F,Tunisia,TUN,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Ons Jabeur,F,Tunisia,TUN,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True,False

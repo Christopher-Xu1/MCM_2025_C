@@ -1,41 +1,41 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mehdi Addadi,M,Algeria,ALG,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Mehdi Addadi,M,Algeria,ALG,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Abderzak Bella,M,Algeria,ALG,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Abderzak Bella,M,Algeria,ALG,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Raouf Benabid,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,False
-Mohamed Bendahmane,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,False
-Abdelhakim Bitat,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,False
-Sofiane Daid,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Sofiane Daid,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Sofiane Daid,M,Algeria,ALG,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Sofiane Daid,M,Algeria,ALG,2008,Beijing,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Mohamed Halimi,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Mohamed Halimi,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True
-Mehdi Hamama,M,Algeria,ALG,2008,Beijing,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,False
-Salim Iles,M,Algeria,ALG,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Salim Iles,M,Algeria,ALG,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Salim Iles,M,Algeria,ALG,1996,Atlanta,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Salim Iles,M,Algeria,ALG,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Salim Iles,M,Algeria,ALG,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Salim Iles,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Salim Iles,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Salim Iles,M,Algeria,ALG,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Nabil Kebbab,M,Algeria,ALG,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Nabil Kebbab,M,Algeria,ALG,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Mahrez Mebarek,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Mahrez Mebarek,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Mahrez Mebarek,M,Algeria,ALG,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Oussama Sahnoune,M,Algeria,ALG,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Oussama Sahnoune,M,Algeria,ALG,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Aghiles Slimani,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Aghiles Slimani,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Reda Yadi,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Reda Yadi,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True
-Djamel Yahiouche,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Djamel Yahiouche,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Djamel Yahiouche,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Djamel Yahiouche,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Oussama Sahnoune,M,Algeria,ALG,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True
-Oussama Sahnoune,M,Algeria,ALG,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
-Jaouad Syoud,M,Algeria,ALG,2024,Paris,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mehdi Addadi,M,Algeria,ALG,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Mehdi Addadi,M,Algeria,ALG,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Abderzak Bella,M,Algeria,ALG,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Abderzak Bella,M,Algeria,ALG,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Raouf Benabid,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,False,True
+Mohamed Bendahmane,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,False,True
+Abdelhakim Bitat,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,False,True
+Sofiane Daid,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Sofiane Daid,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Sofiane Daid,M,Algeria,ALG,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Sofiane Daid,M,Algeria,ALG,2008,Beijing,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Mohamed Halimi,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Mohamed Halimi,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Mehdi Hamama,M,Algeria,ALG,2008,Beijing,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,False,True
+Salim Iles,M,Algeria,ALG,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Salim Iles,M,Algeria,ALG,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Salim Iles,M,Algeria,ALG,1996,Atlanta,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Salim Iles,M,Algeria,ALG,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Salim Iles,M,Algeria,ALG,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Salim Iles,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Salim Iles,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Salim Iles,M,Algeria,ALG,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Nabil Kebbab,M,Algeria,ALG,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Nabil Kebbab,M,Algeria,ALG,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Mahrez Mebarek,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Mahrez Mebarek,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Mahrez Mebarek,M,Algeria,ALG,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Oussama Sahnoune,M,Algeria,ALG,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Oussama Sahnoune,M,Algeria,ALG,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Aghiles Slimani,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Aghiles Slimani,M,Algeria,ALG,2004,Athina,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Reda Yadi,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Reda Yadi,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Djamel Yahiouche,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Djamel Yahiouche,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Djamel Yahiouche,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Djamel Yahiouche,M,Algeria,ALG,1980,Moskva,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Oussama Sahnoune,M,Algeria,ALG,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True,False
+Oussama Sahnoune,M,Algeria,ALG,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,False
+Jaouad Syoud,M,Algeria,ALG,2024,Paris,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,False,True

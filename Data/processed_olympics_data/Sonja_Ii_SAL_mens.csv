@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Edvart Christensen,M,Sonja Ii,NOR,1912,Stockholm,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Hans Christiansen,M,Sonja Ii,NOR,1912,Stockholm,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Eigil Christiansen,M,Sonja Ii,NOR,1912,Stockholm,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Edvart Christensen,M,Sonja Ii,NOR,1912,Stockholm,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Hans Christiansen,M,Sonja Ii,NOR,1912,Stockholm,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Eigil Christiansen,M,Sonja Ii,NOR,1912,Stockholm,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

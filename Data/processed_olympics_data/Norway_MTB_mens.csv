@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Erik Haegstad,M,Norway,NOR,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False
-Knut Roehme,M,Norway,NOR,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Erik Haegstad,M,Norway,NOR,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False,True
+Knut Roehme,M,Norway,NOR,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False,True

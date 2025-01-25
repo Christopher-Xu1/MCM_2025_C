@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hans Baars-lindner,M,Bronia,GER,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-Herbert Scholl,M,Bronia,GER,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-Karl-August Stolze,M,Bronia,GER,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hans Baars-lindner,M,Bronia,GER,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+Herbert Scholl,M,Bronia,GER,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+Karl-August Stolze,M,Bronia,GER,1960,Roma,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True

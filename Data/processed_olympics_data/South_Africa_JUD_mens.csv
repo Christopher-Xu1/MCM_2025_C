@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marlon August-accio,M,South Africa,RSA,2008,Beijing,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Matthew Jago,M,South Africa,RSA,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Duncan Mackinnon,M,South Africa,RSA,1996,Atlanta,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Zack Piontek,M,South Africa,RSA,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Patrick Trezise,M,South Africa,RSA,2008,Beijing,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Gideon Zyl,M,South Africa,RSA,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marlon August-accio,M,South Africa,RSA,2008,Beijing,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Matthew Jago,M,South Africa,RSA,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Duncan Mackinnon,M,South Africa,RSA,1996,Atlanta,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Zack Piontek,M,South Africa,RSA,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Patrick Trezise,M,South Africa,RSA,2008,Beijing,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Gideon Zyl,M,South Africa,RSA,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True

@@ -1,30 +1,30 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Talal Abdillahi,M,Djibouti,DJI,1988,Seoul,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Talal Abdillahi,M,Djibouti,DJI,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Hoche Aden,M,Djibouti,DJI,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Omar Cochine,M,Djibouti,DJI,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Houssein Egueh,M,Djibouti,DJI,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Mahamoud Farah,M,Djibouti,DJI,2008,Beijing,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Omar Gadid,M,Djibouti,DJI,1992,Barcelona,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Omar Gadid,M,Djibouti,DJI,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Mumin Gala,M,Djibouti,DJI,2012,London,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Mumin Gala,M,Djibouti,DJI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Ali Hassan,M,Djibouti,DJI,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Ali Ibrahim,M,Djibouti,DJI,1996,Atlanta,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Mohamed Ibrahim,M,Djibouti,DJI,2016,Rio de Janeiro,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
-Abdi Mouhyadin,M,Djibouti,DJI,2016,Rio de Janeiro,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Omar Bouh,M,Djibouti,DJI,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Omar Bouh,M,Djibouti,DJI,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Djama Robleh,M,Djibouti,DJI,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Ahmed Houssein,M,Djibouti,DJI,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Ahmed Houssein,M,Djibouti,DJI,1988,Seoul,Athletics,Athletics Men's Marathon,Bronze,Athletics,ATH,True
-Ahmed Houssein,M,Djibouti,DJI,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Ahmed Houssein,M,Djibouti,DJI,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Hassan Souleiman,M,Djibouti,DJI,2016,Rio de Janeiro,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Hassan Souleiman,M,Djibouti,DJI,2016,Rio de Janeiro,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Moussa Souleiman,M,Djibouti,DJI,1992,Barcelona,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Ayanleh Souleiman,M,Djibouti,DJI,2020,Tokyo,Athletics,Men's 800m,No medal,Men's,ATH,True
-Ayanleh Souleiman,M,Djibouti,DJI,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,True
-Mohamed Ismail,M,Djibouti,DJI,2024,Paris,Athletics,Men's 5000m,No medal,Men's,ATH,False
-Ibrahim Hassan,M,Djibouti,DJI,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,False
-Abdi Waiss,M,Djibouti,DJI,2024,Paris,Athletics,Men's 5000m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Talal Abdillahi,M,Djibouti,DJI,1988,Seoul,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Talal Abdillahi,M,Djibouti,DJI,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Hoche Aden,M,Djibouti,DJI,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Omar Cochine,M,Djibouti,DJI,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Houssein Egueh,M,Djibouti,DJI,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Mahamoud Farah,M,Djibouti,DJI,2008,Beijing,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Omar Gadid,M,Djibouti,DJI,1992,Barcelona,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Omar Gadid,M,Djibouti,DJI,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Mumin Gala,M,Djibouti,DJI,2012,London,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Mumin Gala,M,Djibouti,DJI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Ali Hassan,M,Djibouti,DJI,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Ali Ibrahim,M,Djibouti,DJI,1996,Atlanta,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Mohamed Ibrahim,M,Djibouti,DJI,2016,Rio de Janeiro,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False,True
+Abdi Mouhyadin,M,Djibouti,DJI,2016,Rio de Janeiro,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Omar Bouh,M,Djibouti,DJI,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Omar Bouh,M,Djibouti,DJI,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Djama Robleh,M,Djibouti,DJI,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Ahmed Houssein,M,Djibouti,DJI,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Ahmed Houssein,M,Djibouti,DJI,1988,Seoul,Athletics,Athletics Men's Marathon,Bronze,Athletics,ATH,True,False
+Ahmed Houssein,M,Djibouti,DJI,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Ahmed Houssein,M,Djibouti,DJI,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Hassan Souleiman,M,Djibouti,DJI,2016,Rio de Janeiro,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Hassan Souleiman,M,Djibouti,DJI,2016,Rio de Janeiro,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Moussa Souleiman,M,Djibouti,DJI,1992,Barcelona,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Ayanleh Souleiman,M,Djibouti,DJI,2020,Tokyo,Athletics,Men's 800m,No medal,Men's,ATH,True,True
+Ayanleh Souleiman,M,Djibouti,DJI,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,True,True
+Mohamed Ismail,M,Djibouti,DJI,2024,Paris,Athletics,Men's 5000m,No medal,Men's,ATH,False,True
+Ibrahim Hassan,M,Djibouti,DJI,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,False,True
+Abdi Waiss,M,Djibouti,DJI,2024,Paris,Athletics,Men's 5000m,No medal,Men's,ATH,False,True

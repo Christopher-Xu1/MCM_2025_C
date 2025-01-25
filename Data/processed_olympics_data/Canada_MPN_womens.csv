@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kara Grant,F,Canada,CAN,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Kara Grant,F,Canada,CAN,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Melanie Mccann,F,Canada,CAN,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Melanie Mccann,F,Canada,CAN,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Monica (-weaffler),F,Canada,CAN,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Monica (-weaffler),F,Canada,CAN,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Donna Vakalis,F,Canada,CAN,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Donna Vakalis,F,Canada,CAN,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kara Grant,F,Canada,CAN,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,True
+Kara Grant,F,Canada,CAN,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Melanie Mccann,F,Canada,CAN,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,True
+Melanie Mccann,F,Canada,CAN,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Monica (-weaffler),F,Canada,CAN,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,True
+Monica (-weaffler),F,Canada,CAN,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Donna Vakalis,F,Canada,CAN,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,True
+Donna Vakalis,F,Canada,CAN,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False

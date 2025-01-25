@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Willem Greve,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Willem Greve,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Marc Houtzager,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Marc Houtzager,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Harrie Smolders,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Harrie Smolders,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-van Maikel,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-van Maikel,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Individual,Bronze,Jumping,EJP,True
-Willem Greve,M,Netherlands,NED,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Willem Greve,M,Netherlands,NED,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Harrie Smolders,M,Netherlands,NED,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Harrie Smolders,M,Netherlands,NED,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-van Maikel,M,Netherlands,NED,2024,Paris,Equestrian,Jumping Individual,Bronze,Jumping,EJP,True
-van Maikel,M,Netherlands,NED,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Willem Greve,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Willem Greve,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Marc Houtzager,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Marc Houtzager,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Harrie Smolders,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Harrie Smolders,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+van Maikel,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+van Maikel,M,Netherlands,NED,2020,Tokyo,Equestrian,Jumping Individual,Bronze,Jumping,EJP,True,True
+Willem Greve,M,Netherlands,NED,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+Willem Greve,M,Netherlands,NED,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,False
+Harrie Smolders,M,Netherlands,NED,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+Harrie Smolders,M,Netherlands,NED,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,False
+van Maikel,M,Netherlands,NED,2024,Paris,Equestrian,Jumping Individual,Bronze,Jumping,EJP,True,False
+van Maikel,M,Netherlands,NED,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,False

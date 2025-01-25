@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jan Louda,M,Czechia,CZE,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False
-Adam Mendrek,M,Czechia,CZE,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False
-Ondrej Kral,M,Czechia,CZE,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jan Louda,M,Czechia,CZE,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False,True
+Adam Mendrek,M,Czechia,CZE,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False,True
+Ondrej Kral,M,Czechia,CZE,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False,True

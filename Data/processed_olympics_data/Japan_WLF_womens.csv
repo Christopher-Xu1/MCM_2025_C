@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mikiko Ando,F,Japan,JPN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Namika Matsumoto,F,Japan,JPN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
-Hiromi Miyake,F,Japan,JPN,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True
-Hiromi Miyake,F,Japan,JPN,2008,Beijing,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True
-Hiromi Miyake,F,Japan,JPN,2012,London,Weightlifting,Weightlifting Women's Flyweight,Silver,Weightlifting,WLF,True
-Hiromi Miyake,F,Japan,JPN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Flyweight,Bronze,Weightlifting,WLF,True
-Honami Mizuochi,F,Japan,JPN,2012,London,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Mari Nakaga,F,Japan,JPN,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False
-Kaori Niyanagi,F,Japan,JPN,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Misaki Oshiro,F,Japan,JPN,2008,Beijing,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Rika Saito,F,Japan,JPN,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Mami Shimamoto,F,Japan,JPN,2012,London,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Yuriko Takahashi,F,Japan,JPN,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Kanae Yagi,F,Japan,JPN,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True
-Kanae Yagi,F,Japan,JPN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True
-Mikiko Andoh,F,Japan,JPN,2020,Tokyo,Weightlifting,Women's 59kg,Bronze,Women's,WLF,False
-Hiromi Miyake,F,Japan,JPN,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,True
-Kanae Yagi,F,Japan,JPN,2020,Tokyo,Weightlifting,Women's 55kg,No medal,Women's,WLF,True
-Rira Suzuki,F,Japan,JPN,2024,Paris,Weightlifting,Women's 49kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mikiko Ando,F,Japan,JPN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Namika Matsumoto,F,Japan,JPN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True
+Hiromi Miyake,F,Japan,JPN,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True,True
+Hiromi Miyake,F,Japan,JPN,2008,Beijing,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True,False
+Hiromi Miyake,F,Japan,JPN,2012,London,Weightlifting,Weightlifting Women's Flyweight,Silver,Weightlifting,WLF,True,False
+Hiromi Miyake,F,Japan,JPN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Flyweight,Bronze,Weightlifting,WLF,True,False
+Honami Mizuochi,F,Japan,JPN,2012,London,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Mari Nakaga,F,Japan,JPN,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False,True
+Kaori Niyanagi,F,Japan,JPN,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Misaki Oshiro,F,Japan,JPN,2008,Beijing,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Rika Saito,F,Japan,JPN,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Mami Shimamoto,F,Japan,JPN,2012,London,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Yuriko Takahashi,F,Japan,JPN,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Kanae Yagi,F,Japan,JPN,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True,True
+Kanae Yagi,F,Japan,JPN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True,False
+Mikiko Andoh,F,Japan,JPN,2020,Tokyo,Weightlifting,Women's 59kg,Bronze,Women's,WLF,False,True
+Hiromi Miyake,F,Japan,JPN,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,True,False
+Kanae Yagi,F,Japan,JPN,2020,Tokyo,Weightlifting,Women's 55kg,No medal,Women's,WLF,True,False
+Rira Suzuki,F,Japan,JPN,2024,Paris,Weightlifting,Women's 49kg,No medal,Women's,WLF,False,True

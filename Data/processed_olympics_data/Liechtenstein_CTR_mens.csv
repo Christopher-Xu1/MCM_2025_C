@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ewald Hasler,M,Liechtenstein,LIE,1952,Helsinki,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Adolf Heeb,M,Liechtenstein,LIE,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Peter Hermann,M,Liechtenstein,LIE,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Peter Hermann,M,Liechtenstein,LIE,1988,Seoul,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Peter Hermann,M,Liechtenstein,LIE,1988,Seoul,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Paul Kind,M,Liechtenstein,LIE,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Alois Lampert,M,Liechtenstein,LIE,1952,Helsinki,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Patrick Matt,M,Liechtenstein,LIE,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Patrick Matt,M,Liechtenstein,LIE,1988,Seoul,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Patrick Matt,M,Liechtenstein,LIE,1992,Barcelona,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Patrick Matt,M,Liechtenstein,LIE,1992,Barcelona,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Adolf Schreiber,M,Liechtenstein,LIE,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ewald Hasler,M,Liechtenstein,LIE,1952,Helsinki,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Adolf Heeb,M,Liechtenstein,LIE,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Peter Hermann,M,Liechtenstein,LIE,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Peter Hermann,M,Liechtenstein,LIE,1988,Seoul,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Peter Hermann,M,Liechtenstein,LIE,1988,Seoul,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,True
+Paul Kind,M,Liechtenstein,LIE,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Alois Lampert,M,Liechtenstein,LIE,1952,Helsinki,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Patrick Matt,M,Liechtenstein,LIE,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Patrick Matt,M,Liechtenstein,LIE,1988,Seoul,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Patrick Matt,M,Liechtenstein,LIE,1992,Barcelona,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,False
+Patrick Matt,M,Liechtenstein,LIE,1992,Barcelona,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,False
+Adolf Schreiber,M,Liechtenstein,LIE,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True

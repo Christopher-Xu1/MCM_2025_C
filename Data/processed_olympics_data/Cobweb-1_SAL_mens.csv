@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Charles Campbell,M,Cobweb-1,GBR,1908,London,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Blair Cochrane,M,Cobweb-1,GBR,1908,London,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-John Rhodes,M,Cobweb-1,GBR,1908,London,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Henry Sutton,M,Cobweb-1,GBR,1908,London,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Arthur Wood,M,Cobweb-1,GBR,1908,London,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Charles Campbell,M,Cobweb-1,GBR,1908,London,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Blair Cochrane,M,Cobweb-1,GBR,1908,London,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+John Rhodes,M,Cobweb-1,GBR,1908,London,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Henry Sutton,M,Cobweb-1,GBR,1908,London,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Arthur Wood,M,Cobweb-1,GBR,1908,London,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True

@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sergey Yemelyanov,M,Kazakhstan,KAZ,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True
-Sergey Yemelyanov,M,Kazakhstan,KAZ,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,True
-Timofey Yemelyanov,M,Kazakhstan,KAZ,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,False
-Sergey Yemelyanov,M,Kazakhstan,KAZ,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True
-Sergey Yemelyanov,M,Kazakhstan,KAZ,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,True
-Bekarys Ramatulla,M,Kazakhstan,KAZ,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
-Bekarys Ramatulla,M,Kazakhstan,KAZ,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True
-Sergii Tokarnytskyi,M,Kazakhstan,KAZ,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,False
-Timur Khaidarov,M,Kazakhstan,KAZ,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sergey Yemelyanov,M,Kazakhstan,KAZ,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True,True
+Sergey Yemelyanov,M,Kazakhstan,KAZ,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,True,True
+Timofey Yemelyanov,M,Kazakhstan,KAZ,2020,Tokyo,Canoe Sprint,Men's Canoe Double 1000m Team,No medal,Men's,CSP,False,True
+Sergey Yemelyanov,M,Kazakhstan,KAZ,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True,False
+Sergey Yemelyanov,M,Kazakhstan,KAZ,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,True,False
+Bekarys Ramatulla,M,Kazakhstan,KAZ,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True,True
+Bekarys Ramatulla,M,Kazakhstan,KAZ,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,True,True
+Sergii Tokarnytskyi,M,Kazakhstan,KAZ,2024,Paris,Canoe Sprint,Men's Kayak Double 500m,No medal,Men's,CSP,False,True
+Timur Khaidarov,M,Kazakhstan,KAZ,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,False,True

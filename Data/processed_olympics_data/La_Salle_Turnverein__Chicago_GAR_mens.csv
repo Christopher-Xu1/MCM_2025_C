@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-George Aschenbrener,M,"La Salle Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Otto Feyder,M,"La Salle Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-William Horschke,M,"La Salle Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Walter Real,M,"La Salle Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Emil Jr.,M,"La Salle Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Frank Schicke,M,"La Salle Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+George Aschenbrener,M,"La Salle Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Otto Feyder,M,"La Salle Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+William Horschke,M,"La Salle Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Walter Real,M,"La Salle Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Emil Jr.,M,"La Salle Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Frank Schicke,M,"La Salle Turnverein, Chicago",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True

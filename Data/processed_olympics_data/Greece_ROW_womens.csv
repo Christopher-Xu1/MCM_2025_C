@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sofia Asoumanaki,F,Greece,GRE,2016,Rio de Janeiro,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False
-Khrysa Biskitzi,F,Greece,GRE,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Khrysa Biskitzi,F,Greece,GRE,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Khrysa Biskitzi,F,Greece,GRE,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Khrysa Biskitzi,F,Greece,GRE,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Khristina Giazitzidou,F,Greece,GRE,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,Bronze,Rowing,ROW,False
-Angeliki Gremou,F,Greece,GRE,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Angeliki Gremou,F,Greece,GRE,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Aikaterini Nikolaidou,F,Greece,GRE,2016,Rio de Janeiro,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False
-Maria Sakellaridou,F,Greece,GRE,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Antonia Svaier,F,Greece,GRE,1988,Seoul,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Antonia Svaier,F,Greece,GRE,1992,Barcelona,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Antonia Svaier,F,Greece,GRE,1996,Atlanta,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Alexandra Tsiavou,F,Greece,GRE,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
-Alexandra Tsiavou,F,Greece,GRE,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,Bronze,Rowing,ROW,True
-Ioanna Bourmpou,F,Greece,GRE,2020,Tokyo,Rowing,Women's Pair Team,No medal,Women's,ROW,False
-Anneta Kyridou,F,Greece,GRE,2020,Tokyo,Rowing,Women's Single Sculls,No medal,Women's,ROW,False
-Maria Kyridou,F,Greece,GRE,2020,Tokyo,Rowing,Women's Pair Team,No medal,Women's,ROW,False
-Dimitra Kontou,F,Greece,GRE,2024,Paris,Rowing,Lightweight Women's Double Sculls,Bronze,Lightweight,ROW,False
-Evangelia Anastasiadou,F,Greece,GRE,2024,Paris,Rowing,Women's Pair,No medal,Women's,ROW,False
-Christina Bourmpou,F,Greece,GRE,2024,Paris,Rowing,Women's Pair,No medal,Women's,ROW,False
-Zoi Fitsiou,F,Greece,GRE,2024,Paris,Rowing,Lightweight Women's Double Sculls,Bronze,Lightweight,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sofia Asoumanaki,F,Greece,GRE,2016,Rio de Janeiro,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False,True
+Khrysa Biskitzi,F,Greece,GRE,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Khrysa Biskitzi,F,Greece,GRE,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Khrysa Biskitzi,F,Greece,GRE,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Khrysa Biskitzi,F,Greece,GRE,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Khristina Giazitzidou,F,Greece,GRE,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,Bronze,Rowing,ROW,False,True
+Angeliki Gremou,F,Greece,GRE,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Angeliki Gremou,F,Greece,GRE,2000,Sydney,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,False
+Aikaterini Nikolaidou,F,Greece,GRE,2016,Rio de Janeiro,Rowing,Rowing Women's Double Sculls,No medal,Rowing,ROW,False,True
+Maria Sakellaridou,F,Greece,GRE,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Antonia Svaier,F,Greece,GRE,1988,Seoul,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,True
+Antonia Svaier,F,Greece,GRE,1992,Barcelona,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,False
+Antonia Svaier,F,Greece,GRE,1996,Atlanta,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,False
+Alexandra Tsiavou,F,Greece,GRE,2008,Beijing,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True,True
+Alexandra Tsiavou,F,Greece,GRE,2012,London,Rowing,Rowing Women's Lightweight Double Sculls,Bronze,Rowing,ROW,True,False
+Ioanna Bourmpou,F,Greece,GRE,2020,Tokyo,Rowing,Women's Pair Team,No medal,Women's,ROW,False,True
+Anneta Kyridou,F,Greece,GRE,2020,Tokyo,Rowing,Women's Single Sculls,No medal,Women's,ROW,False,True
+Maria Kyridou,F,Greece,GRE,2020,Tokyo,Rowing,Women's Pair Team,No medal,Women's,ROW,False,True
+Dimitra Kontou,F,Greece,GRE,2024,Paris,Rowing,Lightweight Women's Double Sculls,Bronze,Lightweight,ROW,False,True
+Evangelia Anastasiadou,F,Greece,GRE,2024,Paris,Rowing,Women's Pair,No medal,Women's,ROW,False,True
+Christina Bourmpou,F,Greece,GRE,2024,Paris,Rowing,Women's Pair,No medal,Women's,ROW,False,True
+Zoi Fitsiou,F,Greece,GRE,2024,Paris,Rowing,Lightweight Women's Double Sculls,Bronze,Lightweight,ROW,False,True

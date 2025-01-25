@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elena Quirici,F,Switzerland,SUI,2020,Tokyo,Karate,Women's Kumite +61kg,No medal,Women's,KTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elena Quirici,F,Switzerland,SUI,2020,Tokyo,Karate,Women's Kumite +61kg,No medal,Women's,KTE,False,True

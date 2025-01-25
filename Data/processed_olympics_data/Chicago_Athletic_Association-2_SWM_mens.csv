@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hugo Goetz,M,Chicago Athletic Association-2,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Silver,Swimming,SWM,False
-David Hammond,M,Chicago Athletic Association-2,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Silver,Swimming,SWM,False
-Raymond Thorne,M,Chicago Athletic Association-2,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Silver,Swimming,SWM,False
-William Tuttle,M,Chicago Athletic Association-2,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Silver,Swimming,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hugo Goetz,M,Chicago Athletic Association-2,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Silver,Swimming,SWM,False,True
+David Hammond,M,Chicago Athletic Association-2,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Silver,Swimming,SWM,False,True
+Raymond Thorne,M,Chicago Athletic Association-2,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Silver,Swimming,SWM,False,True
+William Tuttle,M,Chicago Athletic Association-2,USA,1904,St. Louis,Swimming,Swimming Men's 4 x 50 Yard Freestyle Relay,Silver,Swimming,SWM,False,True

@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hamilton Bedford,M,Brazil,BRA,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Aloysio Borges,M,Brazil,BRA,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Aloysio Borges,M,Brazil,BRA,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Aloysio Borges,M,Brazil,BRA,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Justo Botelho,M,Brazil,BRA,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Justo Botelho,M,Brazil,BRA,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Guilherme Filho,M,Brazil,BRA,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Acio Coelho,M,Brazil,BRA,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Ansio Rocha,M,Brazil,BRA,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Nilo Silva,M,Brazil,BRA,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Nilo Silva,M,Brazil,BRA,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Eduardo Medeiros,M,Brazil,BRA,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Eduardo Medeiros,M,Brazil,BRA,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Daniel Santos,M,Brazil,BRA,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Rui Duarte,M,Brazil,BRA,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Salvio Lemos,M,Brazil,BRA,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Salvio Lemos,M,Brazil,BRA,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Wenceslau Malta,M,Brazil,BRA,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Wenceslau Malta,M,Brazil,BRA,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Wenceslau Malta,M,Brazil,BRA,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Wenceslau Malta,M,Brazil,BRA,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Eric Marques,M,Brazil,BRA,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Eric Marques,M,Brazil,BRA,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Felipe Nascimento,M,Brazil,BRA,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Jos Wilson,M,Brazil,BRA,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jos Wilson,M,Brazil,BRA,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Jos Wilson,M,Brazil,BRA,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hamilton Bedford,M,Brazil,BRA,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Aloysio Borges,M,Brazil,BRA,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Aloysio Borges,M,Brazil,BRA,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Aloysio Borges,M,Brazil,BRA,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Justo Botelho,M,Brazil,BRA,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Justo Botelho,M,Brazil,BRA,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Guilherme Filho,M,Brazil,BRA,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Acio Coelho,M,Brazil,BRA,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Ansio Rocha,M,Brazil,BRA,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Nilo Silva,M,Brazil,BRA,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Nilo Silva,M,Brazil,BRA,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Eduardo Medeiros,M,Brazil,BRA,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Eduardo Medeiros,M,Brazil,BRA,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Daniel Santos,M,Brazil,BRA,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Rui Duarte,M,Brazil,BRA,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Salvio Lemos,M,Brazil,BRA,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Salvio Lemos,M,Brazil,BRA,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Wenceslau Malta,M,Brazil,BRA,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Wenceslau Malta,M,Brazil,BRA,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Wenceslau Malta,M,Brazil,BRA,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Wenceslau Malta,M,Brazil,BRA,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Eric Marques,M,Brazil,BRA,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Eric Marques,M,Brazil,BRA,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Felipe Nascimento,M,Brazil,BRA,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Jos Wilson,M,Brazil,BRA,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Jos Wilson,M,Brazil,BRA,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Jos Wilson,M,Brazil,BRA,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False

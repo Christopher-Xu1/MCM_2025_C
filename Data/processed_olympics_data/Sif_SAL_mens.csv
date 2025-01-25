@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tore Holm,M,Sif,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Gold,Sailing,SAL,False
-Yngve Holm,M,Sif,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Gold,Sailing,SAL,False
-Axel Rydin,M,Sif,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Gold,Sailing,SAL,False
-Georg Tengvall,M,Sif,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tore Holm,M,Sif,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Gold,Sailing,SAL,False,True
+Yngve Holm,M,Sif,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Gold,Sailing,SAL,False,True
+Axel Rydin,M,Sif,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Gold,Sailing,SAL,False,True
+Georg Tengvall,M,Sif,SWE,1920,Antwerpen,Sailing,Sailing Mixed 40 metres,Gold,Sailing,SAL,False,True

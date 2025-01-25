@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jrg Lindemeier,M,Namibia,NAM,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Jrg Lindemeier,M,Namibia,NAM,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Jrg Lindemeier,M,Namibia,NAM,1996,Atlanta,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Jrg Lindemeier,M,Namibia,NAM,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jrg Lindemeier,M,Namibia,NAM,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Jrg Lindemeier,M,Namibia,NAM,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Jrg Lindemeier,M,Namibia,NAM,1996,Atlanta,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Jrg Lindemeier,M,Namibia,NAM,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False

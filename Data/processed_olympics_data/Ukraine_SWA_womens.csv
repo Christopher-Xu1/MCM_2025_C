@@ -1,31 +1,31 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lolita Ananasova,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Lolita Ananasova,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Iryna Haivoronska,F,Ukraine,UKR,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Olena Hrechykhina,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Iryna Rudnytska,F,Ukraine,UKR,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Oleksandra Sabada,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Kateryna Sadurska,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Anastasiya Savchuk,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Kseniya Sydorenko,F,Ukraine,UKR,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Kseniya Sydorenko,F,Ukraine,UKR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Kseniya Sydorenko,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Anna Voloshyna,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Anna Voloshyna,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Daryna Yushko,F,Ukraine,UKR,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Daryna Yushko,F,Ukraine,UKR,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Daryna Yushko,F,Ukraine,UKR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Daryna Yushko,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Olesia Zaitseva,F,Ukraine,UKR,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Maryna Aleksiiva,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,True
-Vladyslava Aleksiiva,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,True
-Marta Fiedina,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Duet Team,Bronze,Duet,SWA,True
-Marta Fiedina,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,True
-Kateryna Reznik,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,False
-Anastasiya Savchuk,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Duet Team,Bronze,Duet,SWA,True
-Anastasiya Savchuk,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,True
-Alina Shynkarenko,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,False
-Kseniya Sydorenko,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,True
-Yelyzaveta Yakhno,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,False
-Maryna Aleksiiva,F,Ukraine,UKR,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True
-Vladyslava Aleksiiva,F,Ukraine,UKR,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lolita Ananasova,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Lolita Ananasova,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,True
+Iryna Haivoronska,F,Ukraine,UKR,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Olena Hrechykhina,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Iryna Rudnytska,F,Ukraine,UKR,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Oleksandra Sabada,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Kateryna Sadurska,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Anastasiya Savchuk,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,True
+Kseniya Sydorenko,F,Ukraine,UKR,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Kseniya Sydorenko,F,Ukraine,UKR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Kseniya Sydorenko,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,False
+Anna Voloshyna,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Anna Voloshyna,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,True
+Daryna Yushko,F,Ukraine,UKR,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Daryna Yushko,F,Ukraine,UKR,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Daryna Yushko,F,Ukraine,UKR,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Daryna Yushko,F,Ukraine,UKR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,False
+Olesia Zaitseva,F,Ukraine,UKR,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Maryna Aleksiiva,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,True,True
+Vladyslava Aleksiiva,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,True,True
+Marta Fiedina,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Duet Team,Bronze,Duet,SWA,True,True
+Marta Fiedina,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,True,True
+Kateryna Reznik,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,False,True
+Anastasiya Savchuk,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Duet Team,Bronze,Duet,SWA,True,False
+Anastasiya Savchuk,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,True,False
+Alina Shynkarenko,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,False,True
+Kseniya Sydorenko,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,True,False
+Yelyzaveta Yakhno,F,Ukraine,UKR,2020,Tokyo,Artistic Swimming,Team,Bronze,Team,SWA,False,True
+Maryna Aleksiiva,F,Ukraine,UKR,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True,False
+Vladyslava Aleksiiva,F,Ukraine,UKR,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True,False

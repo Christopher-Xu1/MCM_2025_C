@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jevon Atkinson,M,Jamaica,JAM,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Jevon Atkinson,M,Jamaica,JAM,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Sion Brinn,M,Jamaica,JAM,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Sion Brinn,M,Jamaica,JAM,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Deryck Marks,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Deryck Marks,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
-Deryck Marks,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Deryck Marks,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Allan Marsh,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
-Allan Marsh,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Allan Marsh,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-Allan Marsh,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Allan Marsh,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Paul Nash,M,Jamaica,JAM,1968,Mexico City,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Andrew Phillips,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
-Andrew Phillips,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Andrew Phillips,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Andrew Phillips,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Gordon Scarlett,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Gordon Scarlett,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
-Gordon Scarlett,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Timothy Wynter,M,Jamaica,JAM,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Keanan Dols,M,Jamaica,JAM,2020,Tokyo,Swimming,Men's 200m Butterfly,No medal,Men's,SWM,True
-Keanan Dols,M,Jamaica,JAM,2020,Tokyo,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,True
-Josh Kirlew,M,Jamaica,JAM,2024,Paris,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jevon Atkinson,M,Jamaica,JAM,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Jevon Atkinson,M,Jamaica,JAM,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Sion Brinn,M,Jamaica,JAM,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Sion Brinn,M,Jamaica,JAM,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Deryck Marks,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Deryck Marks,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Deryck Marks,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Deryck Marks,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Allan Marsh,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Allan Marsh,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Allan Marsh,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Allan Marsh,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Allan Marsh,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Paul Nash,M,Jamaica,JAM,1968,Mexico City,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Andrew Phillips,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Andrew Phillips,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Andrew Phillips,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Andrew Phillips,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Gordon Scarlett,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Gordon Scarlett,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Gordon Scarlett,M,Jamaica,JAM,1984,Los Angeles,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Timothy Wynter,M,Jamaica,JAM,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Keanan Dols,M,Jamaica,JAM,2020,Tokyo,Swimming,Men's 200m Butterfly,No medal,Men's,SWM,True,True
+Keanan Dols,M,Jamaica,JAM,2020,Tokyo,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,True,True
+Josh Kirlew,M,Jamaica,JAM,2024,Paris,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False,True

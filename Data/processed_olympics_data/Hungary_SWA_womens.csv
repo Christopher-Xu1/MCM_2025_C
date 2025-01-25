@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eszter Czkus,F,Hungary,HUN,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Zsuzsanna Hmori,F,Hungary,HUN,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Szofi Kiss,F,Hungary,HUN,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Petra Marschalk,F,Hungary,HUN,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eszter Czkus,F,Hungary,HUN,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Zsuzsanna Hmori,F,Hungary,HUN,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Szofi Kiss,F,Hungary,HUN,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Petra Marschalk,F,Hungary,HUN,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True

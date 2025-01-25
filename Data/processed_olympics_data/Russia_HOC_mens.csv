@@ -1,32 +1,32 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vladimir Antakov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Igor Atanov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Minneula Azizov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False
-Valery Belyakov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False
-Mikhail Bukatin,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Vyacheslav Chechenev,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Igor Davydov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Viktor Deputatov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,True
-Viktor Deputatov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True
-Aleksandr Domashev,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Aleksandr Goncharov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False
-Aleksandr Gusev,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False
-Sos Hayrapetyan,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,True
-Sos Hayrapetyan,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True
-Sergey Klevtsov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False
-Vyacheslav Lampeyev,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False
-Aleksandr Myasnikov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,True
-Aleksandr Myasnikov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True
-Yevgeny Nechayev,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Mikhail Nichepurenko,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,True
-Mikhail Nichepurenko,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True
-Leonid Pavlovsky,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False
-Sergey Pleshakov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,True
-Sergey Pleshakov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True
-Vladimir Pleshakov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,True
-Vladimir Pleshakov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True
-Sergey Shakhvorostov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Aleksandr Sychov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False
-Igor Yulchiyev,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Oleg Zagorodnev,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False
-Farit Zigangirov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vladimir Antakov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Igor Atanov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Minneula Azizov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False,True
+Valery Belyakov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False,True
+Mikhail Bukatin,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Vyacheslav Chechenev,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Igor Davydov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Viktor Deputatov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,True,True
+Viktor Deputatov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True,False
+Aleksandr Domashev,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Aleksandr Goncharov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False,True
+Aleksandr Gusev,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False,True
+Sos Hayrapetyan,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,True,True
+Sos Hayrapetyan,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True,False
+Sergey Klevtsov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False,True
+Vyacheslav Lampeyev,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False,True
+Aleksandr Myasnikov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,True,True
+Aleksandr Myasnikov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True,False
+Yevgeny Nechayev,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Mikhail Nichepurenko,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,True,True
+Mikhail Nichepurenko,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True,False
+Leonid Pavlovsky,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False,True
+Sergey Pleshakov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,True,True
+Sergey Pleshakov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True,False
+Vladimir Pleshakov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,True,True
+Vladimir Pleshakov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True,False
+Sergey Shakhvorostov,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Aleksandr Sychov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False,True
+Igor Yulchiyev,M,Russia,URS,1988,Seoul,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Oleg Zagorodnev,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False,True
+Farit Zigangirov,M,Russia,URS,1980,Moskva,Hockey,Hockey Men's Hockey,Bronze,Hockey,HOC,False,True

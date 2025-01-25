@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Steven Piniero,M,Puerto Rico,PUR,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,False
-Manny Santiago,M,Puerto Rico,PUR,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,False
-Steven Pineiro,M,Puerto Rico,PUR,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Steven Piniero,M,Puerto Rico,PUR,2020,Tokyo,Skateboarding,Men's Park,No medal,Men's,SKB,False,True
+Manny Santiago,M,Puerto Rico,PUR,2020,Tokyo,Skateboarding,Men's Street,No medal,Men's,SKB,False,True
+Steven Pineiro,M,Puerto Rico,PUR,2024,Paris,Skateboarding,Men's Park,No medal,Men's,SKB,False,True

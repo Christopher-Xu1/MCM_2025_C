@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Max Braun,M,St. Louis Southwest Turnverein #1-2,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-August Rodenberg,M,St. Louis Southwest Turnverein #1-2,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-Charles Rose,M,St. Louis Southwest Turnverein #1-2,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-William Seiling,M,St. Louis Southwest Turnverein #1-2,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
-Orin Upshaw,M,St. Louis Southwest Turnverein #1-2,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Max Braun,M,St. Louis Southwest Turnverein #1-2,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+August Rodenberg,M,St. Louis Southwest Turnverein #1-2,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+Charles Rose,M,St. Louis Southwest Turnverein #1-2,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+William Seiling,M,St. Louis Southwest Turnverein #1-2,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True
+Orin Upshaw,M,St. Louis Southwest Turnverein #1-2,USA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Silver,Tug-Of-War,TOW,False,True

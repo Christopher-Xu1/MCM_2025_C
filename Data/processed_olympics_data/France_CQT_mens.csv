@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gaston Aumoitte,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",Gold,Croquet,CQT,True
-Gaston Aumoitte,M,France,FRA,1900,Paris,Croquet,Croquet Mixed Doubles,Gold,Croquet,CQT,True
-Al. Blachre,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",No medal,Croquet,CQT,True
-Al. Blachre,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",No medal,Croquet,CQT,True
-Marcel Hantjens,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",No medal,Croquet,CQT,True
-Marcel Hantjens,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",No medal,Croquet,CQT,True
-Georges Johin,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",Silver,Croquet,CQT,True
-Georges Johin,M,France,FRA,1900,Paris,Croquet,Croquet Mixed Doubles,Gold,Croquet,CQT,True
-Marie Sautereau,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",No medal,Croquet,CQT,True
-Marie Sautereau,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",Bronze,Croquet,CQT,True
-Maurice Vignerot,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",Silver,Croquet,CQT,False
-Chrtien Waydelich,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",Bronze,Croquet,CQT,True
-Chrtien Waydelich,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",Gold,Croquet,CQT,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gaston Aumoitte,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",Gold,Croquet,CQT,True,True
+Gaston Aumoitte,M,France,FRA,1900,Paris,Croquet,Croquet Mixed Doubles,Gold,Croquet,CQT,True,True
+Al. Blachre,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",No medal,Croquet,CQT,True,True
+Al. Blachre,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",No medal,Croquet,CQT,True,True
+Marcel Hantjens,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",No medal,Croquet,CQT,True,True
+Marcel Hantjens,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",No medal,Croquet,CQT,True,True
+Georges Johin,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",Silver,Croquet,CQT,True,True
+Georges Johin,M,France,FRA,1900,Paris,Croquet,Croquet Mixed Doubles,Gold,Croquet,CQT,True,True
+Marie Sautereau,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",No medal,Croquet,CQT,True,True
+Marie Sautereau,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",Bronze,Croquet,CQT,True,True
+Maurice Vignerot,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",Silver,Croquet,CQT,False,True
+Chrtien Waydelich,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, One Ball",Bronze,Croquet,CQT,True,True
+Chrtien Waydelich,M,France,FRA,1900,Paris,Croquet,"Croquet Mixed Singles, Two Balls",Gold,Croquet,CQT,True,True

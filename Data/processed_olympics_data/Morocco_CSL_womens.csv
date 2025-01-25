@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hind Jamili,F,Morocco,MAR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Jihane Samlal,F,Morocco,MAR,2012,London,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Celia Jodar,F,Morocco,MAR,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hind Jamili,F,Morocco,MAR,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Jihane Samlal,F,Morocco,MAR,2012,London,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Celia Jodar,F,Morocco,MAR,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,False,True

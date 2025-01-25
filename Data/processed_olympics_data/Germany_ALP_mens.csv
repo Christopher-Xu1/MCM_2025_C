@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Franz Schmid,M,Germany,GER,1932,Los Angeles,Alpinism,Alpinism Mixed Alpinism,Gold,Alpinism,ALP,False
-Anton Schmid,M,Germany,GER,1932,Los Angeles,Alpinism,Alpinism Mixed Alpinism,Gold,Alpinism,ALP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Franz Schmid,M,Germany,GER,1932,Los Angeles,Alpinism,Alpinism Mixed Alpinism,Gold,Alpinism,ALP,False,True
+Anton Schmid,M,Germany,GER,1932,Los Angeles,Alpinism,Alpinism Mixed Alpinism,Gold,Alpinism,ALP,False,True

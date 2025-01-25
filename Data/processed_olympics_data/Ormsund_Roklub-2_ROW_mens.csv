@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Olaf (olsen-),M,Ormsund Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Bronze,Rowing,ROW,False
-Magnus Herseth,M,Ormsund Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Bronze,Rowing,ROW,False
-Reidar Holter,M,Ormsund Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Bronze,Rowing,ROW,False
-Claus (-hoyer-),M,Ormsund Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Bronze,Rowing,ROW,False
-Karl Olstad,M,Ormsund Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Bronze,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Olaf (olsen-),M,Ormsund Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Bronze,Rowing,ROW,False,True
+Magnus Herseth,M,Ormsund Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Bronze,Rowing,ROW,False,True
+Reidar Holter,M,Ormsund Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Bronze,Rowing,ROW,False,True
+Claus (-hoyer-),M,Ormsund Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Bronze,Rowing,ROW,False,True
+Karl Olstad,M,Ormsund Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Inriggers",Bronze,Rowing,ROW,False,True

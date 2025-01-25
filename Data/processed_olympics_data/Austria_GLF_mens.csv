@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bernd Wiesberger,M,Austria,AUT,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Matthias Schwab,M,Austria,AUT,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Sepp Straka,M,Austria,AUT,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Se Straka,M,Austria,AUT,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bernd Wiesberger,M,Austria,AUT,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Matthias Schwab,M,Austria,AUT,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Sepp Straka,M,Austria,AUT,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Se Straka,M,Austria,AUT,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True

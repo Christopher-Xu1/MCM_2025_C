@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Albert Delbecque,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False
-Raul Kelecom,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False
-Marcel Leboutte,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False
-Lucien Londot,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False
-Ernest Melen,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False
-Edmond Neefs,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False
-Georges Pelgrims,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False
-Alphonse Renier,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False
-mile Spannoghe,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False
-Eric Thornton,M,Univ. Of Brussels,GBR,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False
-Hendrik Heuckelum,M,Univ. Of Brussels,NED,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Albert Delbecque,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False,True
+Raul Kelecom,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False,True
+Marcel Leboutte,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False,True
+Lucien Londot,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False,True
+Ernest Melen,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False,True
+Edmond Neefs,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False,True
+Georges Pelgrims,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False,True
+Alphonse Renier,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False,True
+mile Spannoghe,M,Univ. Of Brussels,BEL,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False,True
+Eric Thornton,M,Univ. Of Brussels,GBR,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False,True
+Hendrik Heuckelum,M,Univ. Of Brussels,NED,1900,Paris,Football,Football Men's Football,Bronze,Football,FBL,False,True

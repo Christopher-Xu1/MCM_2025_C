@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lars Helgstrand,M,Don Schufro,DEN,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Team",Bronze,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lars Helgstrand,M,Don Schufro,DEN,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Team",Bronze,Equestrianism,EVE,False,True

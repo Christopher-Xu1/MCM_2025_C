@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ruud Kuijten,M,Belgium,BEL,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Yuhan Tan,M,Belgium,BEL,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Yuhan Tan,M,Belgium,BEL,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Pedro Vanneste,M,Belgium,BEL,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Julien Carraggi,M,Belgium,BEL,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ruud Kuijten,M,Belgium,BEL,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Yuhan Tan,M,Belgium,BEL,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Yuhan Tan,M,Belgium,BEL,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Pedro Vanneste,M,Belgium,BEL,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Julien Carraggi,M,Belgium,BEL,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False,True

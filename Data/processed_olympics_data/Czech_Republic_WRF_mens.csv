@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pavel Frinta,M,Czech Republic,CZE,1996,Atlanta,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False
-Marek Vec,M,Czech Republic,CZE,1996,Atlanta,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Marek Vec,M,Czech Republic,CZE,2000,Sydney,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Marek Vec,M,Czech Republic,CZE,2008,Beijing,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Petr Vehla,M,Czech Republic,CZE,2000,Sydney,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True
-Petr Vehla,M,Czech Republic,CZE,2004,Athina,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,True
-David Vla,M,Czech Republic,CZE,2000,Sydney,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-David Vla,M,Czech Republic,CZE,2004,Athina,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-David Vla,M,Czech Republic,CZE,2012,London,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Jaroslav Zeman,M,Czech Republic,CZE,1996,Atlanta,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False
-Artur Omarov,M,Czech Republic,CZE,2020,Tokyo,Wrestling,Men's Greco-Roman 97kg,No medal,Men's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pavel Frinta,M,Czech Republic,CZE,1996,Atlanta,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Marek Vec,M,Czech Republic,CZE,1996,Atlanta,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Marek Vec,M,Czech Republic,CZE,2000,Sydney,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Marek Vec,M,Czech Republic,CZE,2008,Beijing,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Petr Vehla,M,Czech Republic,CZE,2000,Sydney,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Petr Vehla,M,Czech Republic,CZE,2004,Athina,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+David Vla,M,Czech Republic,CZE,2000,Sydney,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+David Vla,M,Czech Republic,CZE,2004,Athina,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+David Vla,M,Czech Republic,CZE,2012,London,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Jaroslav Zeman,M,Czech Republic,CZE,1996,Atlanta,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Artur Omarov,M,Czech Republic,CZE,2020,Tokyo,Wrestling,Men's Greco-Roman 97kg,No medal,Men's,WRF,False,True

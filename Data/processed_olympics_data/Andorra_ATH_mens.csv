@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Antonio Planas,M,Andorra,AND,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Antonio Planas,M,Andorra,AND,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Antonio Planas,M,Andorra,AND,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Antonio Planas,M,Andorra,AND,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Antonio Planas,M,Andorra,AND,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Josep Esquius,M,Andorra,AND,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Josep Esquius,M,Andorra,AND,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Pol Betriu,M,Andorra,AND,2016,Rio de Janeiro,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Pol Moya,M,Andorra,AND,2020,Tokyo,Athletics,Men's 800m,No medal,Men's,ATH,False
-Nahuel Carabana,M,Andorra,AND,2024,Paris,Athletics,Men's 3000m Steeplechase,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Antonio Planas,M,Andorra,AND,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Antonio Planas,M,Andorra,AND,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Antonio Planas,M,Andorra,AND,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Antonio Planas,M,Andorra,AND,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Antonio Planas,M,Andorra,AND,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Josep Esquius,M,Andorra,AND,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Josep Esquius,M,Andorra,AND,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,True
+Pol Betriu,M,Andorra,AND,2016,Rio de Janeiro,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Pol Moya,M,Andorra,AND,2020,Tokyo,Athletics,Men's 800m,No medal,Men's,ATH,False,True
+Nahuel Carabana,M,Andorra,AND,2024,Paris,Athletics,Men's 3000m Steeplechase,No medal,Men's,ATH,False,True

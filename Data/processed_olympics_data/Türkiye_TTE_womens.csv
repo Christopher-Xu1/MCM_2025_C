@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sibel Altinkaya,F,Türkiye,TUR,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sibel Altinkaya,F,Türkiye,TUR,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,False,True

@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Olga Hachatryan,F,Turkmenistan,TKM,2008,Beijing,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Yelena Roykova,F,Turkmenistan,TKM,2004,Athina,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Jennet Saryewa,F,Turkmenistan,TKM,2012,London,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
-Dara Semonowa,F,Turkmenistan,TKM,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Darya Semyonova,F,Turkmenistan,TKM,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False
-Aynura Primova,F,Turkmenistan,TKM,2024,Paris,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Olga Hachatryan,F,Turkmenistan,TKM,2008,Beijing,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Yelena Roykova,F,Turkmenistan,TKM,2004,Athina,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Jennet Saryewa,F,Turkmenistan,TKM,2012,London,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False,True
+Dara Semonowa,F,Turkmenistan,TKM,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Darya Semyonova,F,Turkmenistan,TKM,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False,True
+Aynura Primova,F,Turkmenistan,TKM,2024,Paris,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,False,True

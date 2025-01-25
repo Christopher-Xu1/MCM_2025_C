@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hannibal Gaskin,M,Guyana,GUY,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Niall Roberts,M,Guyana,GUY,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Niall Roberts,M,Guyana,GUY,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Onan Thom,M,Guyana,GUY,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Andrew Fowler,M,Guyana,GUY,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
-Jibril Noel,M,Guyana,GUY,2024,Paris,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hannibal Gaskin,M,Guyana,GUY,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Niall Roberts,M,Guyana,GUY,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Niall Roberts,M,Guyana,GUY,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Onan Thom,M,Guyana,GUY,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Andrew Fowler,M,Guyana,GUY,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True
+Jibril Noel,M,Guyana,GUY,2024,Paris,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,False,True

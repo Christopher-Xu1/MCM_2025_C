@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andreas Brecke,M,Jo,NOR,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
-Paal Kaasen,M,Jo,NOR,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
-Ingolf Rd,M,Jo,NOR,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andreas Brecke,M,Jo,NOR,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True
+Paal Kaasen,M,Jo,NOR,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True
+Ingolf Rd,M,Jo,NOR,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Gold,Sailing,SAL,False,True

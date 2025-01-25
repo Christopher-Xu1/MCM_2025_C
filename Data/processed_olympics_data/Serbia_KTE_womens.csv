@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jovana Prekovic,F,Serbia,SRB,2020,Tokyo,Karate,Women's Kumite -61kg,Gold,Women's,KTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jovana Prekovic,F,Serbia,SRB,2020,Tokyo,Karate,Women's Kumite -61kg,Gold,Women's,KTE,False,True

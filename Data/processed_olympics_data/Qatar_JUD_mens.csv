@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Morad Zemouri,M,Qatar,QAT,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Ayoub Elidrissi,M,Qatar,QAT,2020,Tokyo,Judo,Men -66 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Morad Zemouri,M,Qatar,QAT,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Ayoub Elidrissi,M,Qatar,QAT,2020,Tokyo,Judo,Men -66 kg,No medal,Men,JUD,False,True

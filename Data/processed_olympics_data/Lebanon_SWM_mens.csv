@@ -1,38 +1,38 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abdel Al-kaaki,M,Lebanon,LIB,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Anthony Barbar,M,Lebanon,LIB,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Bruno Bassoul,M,Lebanon,LIB,1972,Munich,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Bruno Bassoul,M,Lebanon,LIB,1972,Munich,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Bruno Bassoul,M,Lebanon,LIB,1972,Munich,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Bruno Bassoul,M,Lebanon,LIB,1972,Munich,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Ragi Edde,M,Lebanon,LIB,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Ibrahim El-baba,M,Lebanon,LIB,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Ibrahim El-baba,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Ibrahim El-baba,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Amine El-domyati,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Amine El-domyati,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Amine El-domyati,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Amine El-domyati,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Rami Kantari,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Rami Kantari,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Rami Kantari,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Rami Kantari,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Rami Kantari,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-Rami Kantari,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Wael Koubrousli,M,Lebanon,LIB,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Wael Koubrousli,M,Lebanon,LIB,2012,London,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-mile Lahoud,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-mile Lahoud,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-mile Lahoud,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-mile Lahoud,M,Lebanon,LIB,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-mile Lahoud,M,Lebanon,LIB,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-mile Lahoud,M,Lebanon,LIB,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-mile Lahoud,M,Lebanon,LIB,1992,Barcelona,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Yacoub Masboungi,M,Lebanon,LIB,1968,Mexico City,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Yacoub Masboungi,M,Lebanon,LIB,1968,Mexico City,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Percy Sayegh,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Percy Sayegh,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Bilall Yamout,M,Lebanon,LIB,1980,Moskva,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Bilall Yamout,M,Lebanon,LIB,1980,Moskva,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Mark Kabbara,M,Lebanon,LBN,2020,Tokyo,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,False
-Simon Doueihy,M,Lebanon,LBN,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abdel Al-kaaki,M,Lebanon,LIB,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Anthony Barbar,M,Lebanon,LIB,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Bruno Bassoul,M,Lebanon,LIB,1972,Munich,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Bruno Bassoul,M,Lebanon,LIB,1972,Munich,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Bruno Bassoul,M,Lebanon,LIB,1972,Munich,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Bruno Bassoul,M,Lebanon,LIB,1972,Munich,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Ragi Edde,M,Lebanon,LIB,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Ibrahim El-baba,M,Lebanon,LIB,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Ibrahim El-baba,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Ibrahim El-baba,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Amine El-domyati,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Amine El-domyati,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Amine El-domyati,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Amine El-domyati,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Rami Kantari,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Rami Kantari,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Rami Kantari,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Rami Kantari,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+Rami Kantari,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,False
+Rami Kantari,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Wael Koubrousli,M,Lebanon,LIB,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Wael Koubrousli,M,Lebanon,LIB,2012,London,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+mile Lahoud,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+mile Lahoud,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+mile Lahoud,M,Lebanon,LIB,1988,Seoul,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+mile Lahoud,M,Lebanon,LIB,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+mile Lahoud,M,Lebanon,LIB,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+mile Lahoud,M,Lebanon,LIB,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+mile Lahoud,M,Lebanon,LIB,1992,Barcelona,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Yacoub Masboungi,M,Lebanon,LIB,1968,Mexico City,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Yacoub Masboungi,M,Lebanon,LIB,1968,Mexico City,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Percy Sayegh,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Percy Sayegh,M,Lebanon,LIB,1984,Los Angeles,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Bilall Yamout,M,Lebanon,LIB,1980,Moskva,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Bilall Yamout,M,Lebanon,LIB,1980,Moskva,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Mark Kabbara,M,Lebanon,LBN,2020,Tokyo,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,False,True
+Simon Doueihy,M,Lebanon,LBN,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True

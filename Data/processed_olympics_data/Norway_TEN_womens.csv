@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anna Bjurstedt-mallory,F,Norway,NOR,1912,Stockholm,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,True
-Anna Bjurstedt-mallory,F,Norway,NOR,1912,Stockholm,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Anna Bjurstedt-mallory,F,Norway,NOR,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Caroline (pater-),F,Norway,NOR,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Caroline (pater-),F,Norway,NOR,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Caroline (pater-),F,Norway,NOR,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anna Bjurstedt-mallory,F,Norway,NOR,1912,Stockholm,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,True,True
+Anna Bjurstedt-mallory,F,Norway,NOR,1912,Stockholm,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Anna Bjurstedt-mallory,F,Norway,NOR,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Caroline (pater-),F,Norway,NOR,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Caroline (pater-),F,Norway,NOR,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Caroline (pater-),F,Norway,NOR,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,False

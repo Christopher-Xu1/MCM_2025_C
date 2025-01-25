@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andy Criere,M,Spain,ESP,2024,Paris,Surfing,Men,No medal,Men,SRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andy Criere,M,Spain,ESP,2024,Paris,Surfing,Men,No medal,Men,SRF,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Arman Yeremyan,M,Armenia,ARM,2012,London,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Arman Yeremyan,M,Armenia,ARM,2012,London,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False,True

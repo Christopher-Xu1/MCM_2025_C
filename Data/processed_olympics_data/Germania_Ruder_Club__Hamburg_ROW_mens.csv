@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alexander Jr.,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Gustav Goler,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Carl Ii,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Ernst Jencquel,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Edgar Katzenstein,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Walther Katzenstein,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Theodor Laurezzari,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Oscar Tietgens,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Arthur Hermann,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alexander Jr.,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Gustav Goler,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Carl Ii,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Ernst Jencquel,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Edgar Katzenstein,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Walther Katzenstein,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Theodor Laurezzari,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Oscar Tietgens,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Arthur Hermann,M,"Germania Ruder Club, Hamburg",GER,1900,Paris,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True

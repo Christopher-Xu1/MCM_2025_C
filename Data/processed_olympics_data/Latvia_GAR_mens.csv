@@ -1,24 +1,24 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jevgijs Saproenko,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Jevgijs Saproenko,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Jevgijs Saproenko,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Horse Vault,Silver,Gymnastics,GAR,True
-Dmitrijs Trefilovs,M,Latvia,LAT,2012,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Dmitrijs Trefilovs,M,Latvia,LAT,2012,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Dmitrijs Trefilovs,M,Latvia,LAT,2012,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Dmitrijs Trefilovs,M,Latvia,LAT,2012,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Dmitrijs Trefilovs,M,Latvia,LAT,2012,London,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Dmitrijs Trefilovs,M,Latvia,LAT,2012,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Igors Vihrovs,M,Latvia,LAT,2000,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Igors Vihrovs,M,Latvia,LAT,2000,Sydney,Gymnastics,Gymnastics Men's Floor Exercise,Gold,Gymnastics,GAR,True
-Igors Vihrovs,M,Latvia,LAT,2000,Sydney,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Igors Vihrovs,M,Latvia,LAT,2000,Sydney,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Igors Vihrovs,M,Latvia,LAT,2000,Sydney,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Igors Vihrovs,M,Latvia,LAT,2000,Sydney,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Igors Vihrovs,M,Latvia,LAT,2000,Sydney,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Igors Vihrovs,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Igors Vihrovs,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Igors Vihrovs,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Igors Vihrovs,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Igors Vihrovs,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Igors Vihrovs,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Igors Vihrovs,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jevgijs Saproenko,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Jevgijs Saproenko,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Jevgijs Saproenko,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Horse Vault,Silver,Gymnastics,GAR,True,True
+Dmitrijs Trefilovs,M,Latvia,LAT,2012,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Dmitrijs Trefilovs,M,Latvia,LAT,2012,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Dmitrijs Trefilovs,M,Latvia,LAT,2012,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Dmitrijs Trefilovs,M,Latvia,LAT,2012,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Dmitrijs Trefilovs,M,Latvia,LAT,2012,London,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Dmitrijs Trefilovs,M,Latvia,LAT,2012,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Igors Vihrovs,M,Latvia,LAT,2000,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Igors Vihrovs,M,Latvia,LAT,2000,Sydney,Gymnastics,Gymnastics Men's Floor Exercise,Gold,Gymnastics,GAR,True,True
+Igors Vihrovs,M,Latvia,LAT,2000,Sydney,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+Igors Vihrovs,M,Latvia,LAT,2000,Sydney,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Igors Vihrovs,M,Latvia,LAT,2000,Sydney,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Igors Vihrovs,M,Latvia,LAT,2000,Sydney,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Igors Vihrovs,M,Latvia,LAT,2000,Sydney,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Igors Vihrovs,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,False
+Igors Vihrovs,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,False
+Igors Vihrovs,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,False
+Igors Vihrovs,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,False
+Igors Vihrovs,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,False
+Igors Vihrovs,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,False
+Igors Vihrovs,M,Latvia,LAT,2004,Athina,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,False

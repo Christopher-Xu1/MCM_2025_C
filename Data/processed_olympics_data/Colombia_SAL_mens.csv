@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andras Lisocky,M,Colombia,COL,1976,Montreal,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False
-Santiago Diez,M,Colombia,COL,2008,Beijing,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Santiago Diez,M,Colombia,COL,2012,London,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Santiago Diez,M,Colombia,COL,2016,Rio de Janeiro,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Andrey Porras,M,Colombia,COL,2012,London,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False
-Victor Bolanos,M,Colombia,COL,2024,Paris,Sailing,Men's Kite,No medal,Men's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andras Lisocky,M,Colombia,COL,1976,Montreal,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False,True
+Santiago Diez,M,Colombia,COL,2008,Beijing,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,True
+Santiago Diez,M,Colombia,COL,2012,London,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Santiago Diez,M,Colombia,COL,2016,Rio de Janeiro,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Andrey Porras,M,Colombia,COL,2012,London,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False,True
+Victor Bolanos,M,Colombia,COL,2024,Paris,Sailing,Men's Kite,No medal,Men's,SAL,False,True

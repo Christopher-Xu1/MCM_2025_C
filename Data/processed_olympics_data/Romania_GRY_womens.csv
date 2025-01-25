@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Giorgiana Carteleanu,F,Romania,ROU,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Irina Deleanu,F,Romania,ROU,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Alina Drgan,F,Romania,ROU,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Ana Filiorianu,F,Romania,ROU,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Ancua Goia,F,Romania,ROU,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Doina Sticulescu,F,Romania,ROU,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,Silver,Rhythmic,GRY,False
-Alina Stoica,F,Romania,ROU,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False
-Annaliese Dragan,F,Romania,ROU,2024,Paris,Rhythmic Gymnastics,Individual All-Around,No medal,Individual,GRY,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Giorgiana Carteleanu,F,Romania,ROU,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Irina Deleanu,F,Romania,ROU,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Alina Drgan,F,Romania,ROU,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Ana Filiorianu,F,Romania,ROU,2016,Rio de Janeiro,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Ancua Goia,F,Romania,ROU,1992,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Doina Sticulescu,F,Romania,ROU,1984,Los Angeles,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,Silver,Rhythmic,GRY,False,True
+Alina Stoica,F,Romania,ROU,1996,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,No medal,Rhythmic,GRY,False,True
+Annaliese Dragan,F,Romania,ROU,2024,Paris,Rhythmic Gymnastics,Individual All-Around,No medal,Individual,GRY,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Victoria Gulliksen,F,Norway,NOR,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Victoria Gulliksen,F,Norway,NOR,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,False,True

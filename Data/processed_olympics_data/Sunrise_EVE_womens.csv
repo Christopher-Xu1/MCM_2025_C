@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Imke Schellekens-bartels,F,Sunrise,NED,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Team",Silver,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Imke Schellekens-bartels,F,Sunrise,NED,2008,Beijing,Equestrianism,"Equestrianism Mixed Dressage, Team",Silver,Equestrianism,EVE,False,True

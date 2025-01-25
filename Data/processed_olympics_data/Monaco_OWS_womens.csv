@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lisa Pou,F,Monaco,MON,2024,Paris,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lisa Pou,F,Monaco,MON,2024,Paris,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False,True

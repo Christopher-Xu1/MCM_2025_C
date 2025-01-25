@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marin Robu,M,Republic Of Moldova,MDA,2024,Paris,Weightlifting,Men's 89kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marin Robu,M,Republic Of Moldova,MDA,2024,Paris,Weightlifting,Men's 89kg,No medal,Men's,WLF,False,True

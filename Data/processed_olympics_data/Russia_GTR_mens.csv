@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nikita Fedorenko,M,Russia,RUS,2012,London,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False
-Aleksandr Moskalenko,M,Russia,RUS,2000,Sydney,Trampolining,Trampolining Men's Individual,Gold,Trampolining,GTR,True
-Aleksandr Moskalenko,M,Russia,RUS,2004,Athina,Trampolining,Trampolining Men's Individual,Silver,Trampolining,GTR,True
-Aleksandr Rusakov,M,Russia,RUS,2004,Athina,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Aleksandr Rusakov,M,Russia,RUS,2008,Beijing,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Dmitry Ushakov,M,Russia,RUS,2008,Beijing,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Dmitry Ushakov,M,Russia,RUS,2012,London,Trampolining,Trampolining Men's Individual,Silver,Trampolining,GTR,True
-Dmitry Ushakov,M,Russia,RUS,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Andrey Yudin,M,Russia,RUS,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Dmitrii Ushakov,M,Russia,ROC,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,False
-Andrey Yudin,M,Russia,ROC,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,True
-Ivan Litvinovich,M,Russia,AIN,2024,Paris,Trampoline Gymnastics,Men,Gold,Men,GTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nikita Fedorenko,M,Russia,RUS,2012,London,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False,True
+Aleksandr Moskalenko,M,Russia,RUS,2000,Sydney,Trampolining,Trampolining Men's Individual,Gold,Trampolining,GTR,True,True
+Aleksandr Moskalenko,M,Russia,RUS,2004,Athina,Trampolining,Trampolining Men's Individual,Silver,Trampolining,GTR,True,False
+Aleksandr Rusakov,M,Russia,RUS,2004,Athina,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,True
+Aleksandr Rusakov,M,Russia,RUS,2008,Beijing,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,False
+Dmitry Ushakov,M,Russia,RUS,2008,Beijing,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,True
+Dmitry Ushakov,M,Russia,RUS,2012,London,Trampolining,Trampolining Men's Individual,Silver,Trampolining,GTR,True,False
+Dmitry Ushakov,M,Russia,RUS,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,False
+Andrey Yudin,M,Russia,RUS,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,True
+Dmitrii Ushakov,M,Russia,ROC,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,False,True
+Andrey Yudin,M,Russia,ROC,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,True,False
+Ivan Litvinovich,M,Russia,AIN,2024,Paris,Trampoline Gymnastics,Men,Gold,Men,GTR,False,True

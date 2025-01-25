@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bryan Balsiger,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Bryan Balsiger,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Martin Fuchs,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Martin Fuchs,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Steve Guerdat,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Steve Guerdat,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Beat Mandli,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Beat Mandli,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Martin Fuchs,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Martin Fuchs,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Steve Guerdat,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Individual,Silver,Jumping,EJP,True
-Steve Guerdat,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Edouard Schmitz,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Edouard Schmitz,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Pius Schwizer,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Pius Schwizer,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bryan Balsiger,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Bryan Balsiger,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Martin Fuchs,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Martin Fuchs,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Steve Guerdat,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Steve Guerdat,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Beat Mandli,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Beat Mandli,M,Switzerland,SUI,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Martin Fuchs,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+Martin Fuchs,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,False
+Steve Guerdat,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Individual,Silver,Jumping,EJP,True,False
+Steve Guerdat,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,False
+Edouard Schmitz,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Edouard Schmitz,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Pius Schwizer,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Pius Schwizer,M,Switzerland,SUI,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True

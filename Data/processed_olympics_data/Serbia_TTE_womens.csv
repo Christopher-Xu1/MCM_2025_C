@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Izabela Lupulesku,F,Serbia,SRB,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Izabela Lupulesku,F,Serbia,SRB,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,False,True

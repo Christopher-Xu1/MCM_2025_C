@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Grace Daniel,F,Nigeria,NGR,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Obigeli Olorunsola,F,Nigeria,NGR,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Obigeli Olorunsola,F,Nigeria,NGR,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Ajoke Adesokan,F,Nigeria,NGR,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Grace Daniel,F,Nigeria,NGR,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Obigeli Olorunsola,F,Nigeria,NGR,1996,Atlanta,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Obigeli Olorunsola,F,Nigeria,NGR,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Ajoke Adesokan,F,Nigeria,NGR,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,False,True

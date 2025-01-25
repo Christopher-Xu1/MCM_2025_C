@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Megan (evans-),F,South Africa,RSA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Lizel Moore,F,South Africa,RSA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Mari Rabie,F,South Africa,RSA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Mari Rabie,F,South Africa,RSA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Kate Roberts,F,South Africa,RSA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Kate Roberts,F,South Africa,RSA,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Gillian Sanders,F,South Africa,RSA,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Gillian Sanders,F,South Africa,RSA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Simone Ackermann,F,South Africa,RSA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,False
-Gillian Sanders,F,South Africa,RSA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-van Vicky,F,South Africa,RSA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Megan (evans-),F,South Africa,RSA,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Lizel Moore,F,South Africa,RSA,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Mari Rabie,F,South Africa,RSA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Mari Rabie,F,South Africa,RSA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Kate Roberts,F,South Africa,RSA,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Kate Roberts,F,South Africa,RSA,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Gillian Sanders,F,South Africa,RSA,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Gillian Sanders,F,South Africa,RSA,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Simone Ackermann,F,South Africa,RSA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,False,True
+Gillian Sanders,F,South Africa,RSA,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,False
+van Vicky,F,South Africa,RSA,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False,True

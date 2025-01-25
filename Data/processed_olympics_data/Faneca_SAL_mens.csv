@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Duarte Bello,M,Faneca,POR,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Duarte Bello,M,Faneca,POR,1964,Tokyo,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Fernando Bello,M,Faneca,POR,1964,Tokyo,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Jos Silva,M,Faneca,POR,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Duarte Bello,M,Faneca,POR,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,True
+Duarte Bello,M,Faneca,POR,1964,Tokyo,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Fernando Bello,M,Faneca,POR,1964,Tokyo,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Jos Silva,M,Faneca,POR,1956,Melbourne,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True

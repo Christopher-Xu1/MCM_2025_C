@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hovhannes Davtyan,M,Armenia,ARM,2008,Beijing,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Hovhannes Davtyan,M,Armenia,ARM,2012,London,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Hovhannes Davtyan,M,Armenia,ARM,2016,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Arsen Gevorgyan,M,Armenia,ARM,1996,Atlanta,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Armen Nazaryan,M,Armenia,ARM,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Armen Nazaryan,M,Armenia,ARM,2008,Beijing,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Armen Nazaryan,M,Armenia,ARM,2012,London,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Vardan Voskanyan,M,Armenia,ARM,2000,Sydney,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Ferdinand Karapetian,M,Armenia,ARM,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hovhannes Davtyan,M,Armenia,ARM,2008,Beijing,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Hovhannes Davtyan,M,Armenia,ARM,2012,London,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False
+Hovhannes Davtyan,M,Armenia,ARM,2016,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False
+Arsen Gevorgyan,M,Armenia,ARM,1996,Atlanta,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Armen Nazaryan,M,Armenia,ARM,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Armen Nazaryan,M,Armenia,ARM,2008,Beijing,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False
+Armen Nazaryan,M,Armenia,ARM,2012,London,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False
+Vardan Voskanyan,M,Armenia,ARM,2000,Sydney,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Ferdinand Karapetian,M,Armenia,ARM,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,False,True

@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cao Lei,F,China,CHN,2008,Beijing,Weightlifting,Weightlifting Women's Heavyweight,Gold,Weightlifting,WLF,False
-Chen Xiaomin,F,China,CHN,2000,Sydney,Weightlifting,Weightlifting Women's Middleweight,Gold,Weightlifting,WLF,False
-Chen Xiexia,F,China,CHN,2008,Beijing,Weightlifting,Weightlifting Women's Flyweight,Gold,Weightlifting,WLF,False
-Chen Yanqing,F,China,CHN,2004,Athina,Weightlifting,Weightlifting Women's Lightweight,Gold,Weightlifting,WLF,True
-Chen Yanqing,F,China,CHN,2008,Beijing,Weightlifting,Weightlifting Women's Lightweight,Gold,Weightlifting,WLF,True
-Deng Wei,F,China,CHN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Middleweight,Gold,Weightlifting,WLF,False
-Ding Meiyuan,F,China,CHN,2000,Sydney,Weightlifting,Weightlifting Women's Super-Heavyweight,Gold,Weightlifting,WLF,False
-Li Xueying,F,China,CHN,2012,London,Weightlifting,Weightlifting Women's Lightweight,Gold,Weightlifting,WLF,False
-Li Yajun,F,China,CHN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False
-Li Zhuo,F,China,CHN,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,Silver,Weightlifting,WLF,False
-Lin Weining,F,China,CHN,2000,Sydney,Weightlifting,Weightlifting Women's Light-Heavyweight,Gold,Weightlifting,WLF,False
-Liu Chunhong,F,China,CHN,2004,Athina,Weightlifting,Weightlifting Women's Light-Heavyweight,Gold,Weightlifting,WLF,True
-Liu Chunhong,F,China,CHN,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,Gold,Weightlifting,WLF,True
-Meng Suping,F,China,CHN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,Gold,Weightlifting,WLF,False
-Tang Gonghong,F,China,CHN,2004,Athina,Weightlifting,Weightlifting Women's Super-Heavyweight,Gold,Weightlifting,WLF,False
-Wang Mingjuan,F,China,CHN,2012,London,Weightlifting,Weightlifting Women's Flyweight,Gold,Weightlifting,WLF,False
-Xiang Yanmei,F,China,CHN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Light-Heavyweight,Gold,Weightlifting,WLF,False
-Yang Xia,F,China,CHN,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,Gold,Weightlifting,WLF,False
-Zhou Jun,F,China,CHN,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False
-Zhou Lulu,F,China,CHN,2012,London,Weightlifting,Weightlifting Women's Super-Heavyweight,Gold,Weightlifting,WLF,False
-Zhihui Hou,F,China,CHN,2020,Tokyo,Weightlifting,Women's 49kg,Gold,Women's,WLF,True
-Wenwen Li,F,China,CHN,2020,Tokyo,Weightlifting,Women's +87kg,Gold,Women's,WLF,True
-Qiuyun Liao,F,China,CHN,2020,Tokyo,Weightlifting,Women's 55kg,Silver,Women's,WLF,False
-Zhouyu Wang,F,China,CHN,2020,Tokyo,Weightlifting,Women's 87kg,Gold,Women's,WLF,False
-Wenwen Li,F,China,CHN,2024,Paris,Weightlifting,Women's +81kg,Gold,Women's,WLF,True
-Zhihui Hou,F,China,CHN,2024,Paris,Weightlifting,Women's 49kg,Gold,Women's,WLF,True
-Shifang Luo,F,China,CHN,2024,Paris,Weightlifting,Women's 59kg,Gold,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cao Lei,F,China,CHN,2008,Beijing,Weightlifting,Weightlifting Women's Heavyweight,Gold,Weightlifting,WLF,False,True
+Chen Xiaomin,F,China,CHN,2000,Sydney,Weightlifting,Weightlifting Women's Middleweight,Gold,Weightlifting,WLF,False,True
+Chen Xiexia,F,China,CHN,2008,Beijing,Weightlifting,Weightlifting Women's Flyweight,Gold,Weightlifting,WLF,False,True
+Chen Yanqing,F,China,CHN,2004,Athina,Weightlifting,Weightlifting Women's Lightweight,Gold,Weightlifting,WLF,True,True
+Chen Yanqing,F,China,CHN,2008,Beijing,Weightlifting,Weightlifting Women's Lightweight,Gold,Weightlifting,WLF,True,False
+Deng Wei,F,China,CHN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Middleweight,Gold,Weightlifting,WLF,False,True
+Ding Meiyuan,F,China,CHN,2000,Sydney,Weightlifting,Weightlifting Women's Super-Heavyweight,Gold,Weightlifting,WLF,False,True
+Li Xueying,F,China,CHN,2012,London,Weightlifting,Weightlifting Women's Lightweight,Gold,Weightlifting,WLF,False,True
+Li Yajun,F,China,CHN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False,True
+Li Zhuo,F,China,CHN,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,Silver,Weightlifting,WLF,False,True
+Lin Weining,F,China,CHN,2000,Sydney,Weightlifting,Weightlifting Women's Light-Heavyweight,Gold,Weightlifting,WLF,False,True
+Liu Chunhong,F,China,CHN,2004,Athina,Weightlifting,Weightlifting Women's Light-Heavyweight,Gold,Weightlifting,WLF,True,True
+Liu Chunhong,F,China,CHN,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,Gold,Weightlifting,WLF,True,False
+Meng Suping,F,China,CHN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,Gold,Weightlifting,WLF,False,True
+Tang Gonghong,F,China,CHN,2004,Athina,Weightlifting,Weightlifting Women's Super-Heavyweight,Gold,Weightlifting,WLF,False,True
+Wang Mingjuan,F,China,CHN,2012,London,Weightlifting,Weightlifting Women's Flyweight,Gold,Weightlifting,WLF,False,True
+Xiang Yanmei,F,China,CHN,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Light-Heavyweight,Gold,Weightlifting,WLF,False,True
+Yang Xia,F,China,CHN,2000,Sydney,Weightlifting,Weightlifting Women's Featherweight,Gold,Weightlifting,WLF,False,True
+Zhou Jun,F,China,CHN,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False,True
+Zhou Lulu,F,China,CHN,2012,London,Weightlifting,Weightlifting Women's Super-Heavyweight,Gold,Weightlifting,WLF,False,True
+Zhihui Hou,F,China,CHN,2020,Tokyo,Weightlifting,Women's 49kg,Gold,Women's,WLF,True,True
+Wenwen Li,F,China,CHN,2020,Tokyo,Weightlifting,Women's +87kg,Gold,Women's,WLF,True,True
+Qiuyun Liao,F,China,CHN,2020,Tokyo,Weightlifting,Women's 55kg,Silver,Women's,WLF,False,True
+Zhouyu Wang,F,China,CHN,2020,Tokyo,Weightlifting,Women's 87kg,Gold,Women's,WLF,False,True
+Wenwen Li,F,China,CHN,2024,Paris,Weightlifting,Women's +81kg,Gold,Women's,WLF,True,False
+Zhihui Hou,F,China,CHN,2024,Paris,Weightlifting,Women's 49kg,Gold,Women's,WLF,True,False
+Shifang Luo,F,China,CHN,2024,Paris,Weightlifting,Women's 59kg,Gold,Women's,WLF,False,True

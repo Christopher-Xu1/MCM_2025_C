@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eligio Islas,M,Mexico,MEX,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Rodrigo Lpez,M,Mexico,MEX,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Crisanto Valencia,M,Mexico,MEX,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Crisanto Valencia,M,Mexico,MEX,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Irving Pineda,M,Mexico,MEX,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Javier Sierra,M,Mexico,MEX,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Francisco Plowells,M,Mexico,MEX,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Crisanto Grajales,M,Mexico,MEX,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Crisanto Grajales,M,Mexico,MEX,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Irving Perez,M,Mexico,MEX,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Irving Perez,M,Mexico,MEX,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Crisanto Grajales,M,Mexico,MEX,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Michell Penaflor,M,Mexico,MEX,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eligio Islas,M,Mexico,MEX,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Rodrigo Lpez,M,Mexico,MEX,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Crisanto Valencia,M,Mexico,MEX,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Crisanto Valencia,M,Mexico,MEX,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Irving Pineda,M,Mexico,MEX,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Javier Sierra,M,Mexico,MEX,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Francisco Plowells,M,Mexico,MEX,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Crisanto Grajales,M,Mexico,MEX,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Crisanto Grajales,M,Mexico,MEX,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Irving Perez,M,Mexico,MEX,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Irving Perez,M,Mexico,MEX,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Crisanto Grajales,M,Mexico,MEX,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True,False
+Michell Penaflor,M,Mexico,MEX,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True

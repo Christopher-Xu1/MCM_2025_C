@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Parvez Diniar,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Dilip Gurumurthy,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Amarnath Nagarajan,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Radhey Vijayrania,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Ajmer Chopra,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Baldev Singh,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Hanuman Rathore,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Harbhajan Singh,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Jorawar Singh,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Paramjit Singh,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Pramdiph Singh,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Tarlok Sandhu,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Parvez Diniar,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Dilip Gurumurthy,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Amarnath Nagarajan,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Radhey Vijayrania,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Ajmer Chopra,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Baldev Singh,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Hanuman Rathore,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Harbhajan Singh,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Jorawar Singh,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Paramjit Singh,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Pramdiph Singh,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Tarlok Sandhu,M,India,IND,1980,Moskva,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True

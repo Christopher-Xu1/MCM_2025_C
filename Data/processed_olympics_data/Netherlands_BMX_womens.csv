@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Judy Baauw,F,Netherlands,NED,2020,Tokyo,Cycling BMX Racing,Women,No medal,Women,BMX,True
-Laura Smulders,F,Netherlands,NED,2020,Tokyo,Cycling BMX Racing,Women,No medal,Women,BMX,True
-Merel Smulders,F,Netherlands,NED,2020,Tokyo,Cycling BMX Racing,Women,Bronze,Women,BMX,True
-Laura Smulders,F,Netherlands,NED,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,True
-Merel Smulders,F,Netherlands,NED,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,True
-Judy Baauw,F,Netherlands,NED,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,True
-Manon Veenstra,F,Netherlands,NED,2024,Paris,Cycling BMX Racing,Women,Silver,Women,BMX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Judy Baauw,F,Netherlands,NED,2020,Tokyo,Cycling BMX Racing,Women,No medal,Women,BMX,True,True
+Laura Smulders,F,Netherlands,NED,2020,Tokyo,Cycling BMX Racing,Women,No medal,Women,BMX,True,True
+Merel Smulders,F,Netherlands,NED,2020,Tokyo,Cycling BMX Racing,Women,Bronze,Women,BMX,True,True
+Laura Smulders,F,Netherlands,NED,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,True,False
+Merel Smulders,F,Netherlands,NED,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,True,False
+Judy Baauw,F,Netherlands,NED,2024,Paris,Cycling BMX Racing,Women,No medal,Women,BMX,True,False
+Manon Veenstra,F,Netherlands,NED,2024,Paris,Cycling BMX Racing,Women,Silver,Women,BMX,False,True

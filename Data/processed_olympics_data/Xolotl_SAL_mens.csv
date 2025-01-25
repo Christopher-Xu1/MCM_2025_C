@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Luis Aguilar,M,Xolotl,MEX,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-Iker Arocena,M,Xolotl,MEX,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-Vctor Lama,M,Xolotl,MEX,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Luis Aguilar,M,Xolotl,MEX,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+Iker Arocena,M,Xolotl,MEX,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+Vctor Lama,M,Xolotl,MEX,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True

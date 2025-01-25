@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ansuya Prasad,M,India,IND,1964,Tokyo,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Sohan Singh,M,India,IND,1964,Tokyo,Diving,Diving Men's Platform,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ansuya Prasad,M,India,IND,1964,Tokyo,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Sohan Singh,M,India,IND,1964,Tokyo,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Frantiek Hada,M,Czechoslovakia,TCH,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Martin Hmor,M,Czechoslovakia,TCH,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Frantiek Hada,M,Czechoslovakia,TCH,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Martin Hmor,M,Czechoslovakia,TCH,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True

@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Emila Huch,M,Samoa,SAM,1984,Los Angeles,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Vaipava Ioane,M,Samoa,SAM,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Uati Maposua,M,Samoa,SAM,2004,Athina,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Ofisa Ofisa,M,Samoa,SAM,1996,Atlanta,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Ofisa Ofisa,M,Samoa,SAM,2000,Sydney,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Taveuni Ofisa,M,Samoa,SAM,1988,Seoul,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Toafitu Perive,M,Samoa,SAM,2012,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Sione Sialaoa,M,Samoa,SAM,1984,Los Angeles,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False
-Marcus Stephen,M,Samoa,SAM,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Jeremiah Wallwork,M,Samoa,SAM,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False
-Don Opeloge,M,Samoa,SAM,2024,Paris,Weightlifting,Men's 102kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Emila Huch,M,Samoa,SAM,1984,Los Angeles,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Vaipava Ioane,M,Samoa,SAM,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Uati Maposua,M,Samoa,SAM,2004,Athina,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Ofisa Ofisa,M,Samoa,SAM,1996,Atlanta,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,True
+Ofisa Ofisa,M,Samoa,SAM,2000,Sydney,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True,False
+Taveuni Ofisa,M,Samoa,SAM,1988,Seoul,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Toafitu Perive,M,Samoa,SAM,2012,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Sione Sialaoa,M,Samoa,SAM,1984,Los Angeles,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False,True
+Marcus Stephen,M,Samoa,SAM,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Jeremiah Wallwork,M,Samoa,SAM,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False,True
+Don Opeloge,M,Samoa,SAM,2024,Paris,Weightlifting,Men's 102kg,No medal,Men's,WLF,False,True

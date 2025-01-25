@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Asenaca Lesivakaruakitotoiya,F,Fiji,FIJ,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Elina Nasaudrodro,F,Fiji,FIJ,2004,Athina,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Sisilia Rasokisoki,F,Fiji,FIJ,2004,Athina,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
-Sisilia Rasokisoki,F,Fiji,FIJ,2008,Beijing,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Laisa Tuifagalele,F,Fiji,FIJ,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Laisa Tuifagalele,F,Fiji,FIJ,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Asenaca Lesivakaruakitotoiya,F,Fiji,FIJ,1992,Barcelona,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Elina Nasaudrodro,F,Fiji,FIJ,2004,Athina,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Sisilia Rasokisoki,F,Fiji,FIJ,2004,Athina,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,True
+Sisilia Rasokisoki,F,Fiji,FIJ,2008,Beijing,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Laisa Tuifagalele,F,Fiji,FIJ,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,True
+Laisa Tuifagalele,F,Fiji,FIJ,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True,False

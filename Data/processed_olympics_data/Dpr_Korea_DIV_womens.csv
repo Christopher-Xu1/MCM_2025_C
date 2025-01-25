@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rae Kim,F,Dpr Korea,PRK,2024,Paris,Diving,Women's 10m Platform,Bronze,Women's,DIV,True
-Rae Kim,F,Dpr Korea,PRK,2024,Paris,Diving,Women's Synchronised 10m Platform,Silver,Women's,DIV,True
-Mi Jo,F,Dpr Korea,PRK,2024,Paris,Diving,Women's Synchronised 10m Platform,Silver,Women's,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rae Kim,F,Dpr Korea,PRK,2024,Paris,Diving,Women's 10m Platform,Bronze,Women's,DIV,True,True
+Rae Kim,F,Dpr Korea,PRK,2024,Paris,Diving,Women's Synchronised 10m Platform,Silver,Women's,DIV,True,True
+Mi Jo,F,Dpr Korea,PRK,2024,Paris,Diving,Women's Synchronised 10m Platform,Silver,Women's,DIV,False,True

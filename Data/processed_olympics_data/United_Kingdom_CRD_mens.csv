@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tao Geoghegan,M,United Kingdom,GBR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Tao Geoghegan,M,United Kingdom,GBR,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Geraint Thomas,M,United Kingdom,GBR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Geraint Thomas,M,United Kingdom,GBR,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Adam Yates,M,United Kingdom,GBR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Philip Yates,M,United Kingdom,GBR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Josh Tarling,M,United Kingdom,GBR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Josh Tarling,M,United Kingdom,GBR,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Fred Wright,M,United Kingdom,GBR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Stephen Williams,M,United Kingdom,GBR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tao Geoghegan,M,United Kingdom,GBR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Tao Geoghegan,M,United Kingdom,GBR,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Geraint Thomas,M,United Kingdom,GBR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Geraint Thomas,M,United Kingdom,GBR,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Adam Yates,M,United Kingdom,GBR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Philip Yates,M,United Kingdom,GBR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Josh Tarling,M,United Kingdom,GBR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Josh Tarling,M,United Kingdom,GBR,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Fred Wright,M,United Kingdom,GBR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Stephen Williams,M,United Kingdom,GBR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True

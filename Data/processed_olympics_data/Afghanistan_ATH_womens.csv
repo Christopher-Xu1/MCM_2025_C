@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tahmina Kohistani,F,Afghanistan,AFG,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Robina Yaar,F,Afghanistan,AFG,2004,Athina,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Robina Yaar,F,Afghanistan,AFG,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Kamia Yousufi,F,Afghanistan,AFG,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Kimia Yousofi,F,Afghanistan,AFG,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,True
-Kimia Yousofi,F,Afghanistan,AFG,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tahmina Kohistani,F,Afghanistan,AFG,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Robina Yaar,F,Afghanistan,AFG,2004,Athina,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Robina Yaar,F,Afghanistan,AFG,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Kamia Yousufi,F,Afghanistan,AFG,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Kimia Yousofi,F,Afghanistan,AFG,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,True,True
+Kimia Yousofi,F,Afghanistan,AFG,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,True,False

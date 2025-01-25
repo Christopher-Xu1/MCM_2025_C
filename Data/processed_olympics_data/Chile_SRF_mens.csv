@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Manuel Selman,M,Chile,CHI,2020,Tokyo,Surfing,Men,No medal,Men,SRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Manuel Selman,M,Chile,CHI,2020,Tokyo,Surfing,Men,No medal,Men,SRF,False,True

@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Patrik Kittel,M,Sweden,SWE,2020,Tokyo,Equestrian,Dressage Team,No medal,Dressage,EDR,True
-Patrik Kittel,M,Sweden,SWE,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Patrik Kittel,M,Sweden,SWE,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Patrik Kittel,M,Sweden,SWE,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Patrik Kittel,M,Sweden,SWE,2020,Tokyo,Equestrian,Dressage Team,No medal,Dressage,EDR,True,True
+Patrik Kittel,M,Sweden,SWE,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Patrik Kittel,M,Sweden,SWE,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,False
+Patrik Kittel,M,Sweden,SWE,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True,False

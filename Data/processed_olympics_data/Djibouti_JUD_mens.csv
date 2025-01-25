@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fuad Houssein,M,Djibouti,DJI,2016,Rio de Janeiro,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Youssef Isahak,M,Djibouti,DJI,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Alaoui Taher,M,Djibouti,DJI,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Aden-alexandre Houssein,M,Djibouti,DJI,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,False
-Alexandre Houssein,M,Djibouti,DJI,2024,Paris,Judo,Men -73 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fuad Houssein,M,Djibouti,DJI,2016,Rio de Janeiro,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Youssef Isahak,M,Djibouti,DJI,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Alaoui Taher,M,Djibouti,DJI,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Aden-alexandre Houssein,M,Djibouti,DJI,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,False,True
+Alexandre Houssein,M,Djibouti,DJI,2024,Paris,Judo,Men -73 kg,No medal,Men,JUD,False,True

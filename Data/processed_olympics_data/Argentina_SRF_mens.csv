@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Leandro Usuna,M,Argentina,ARG,2020,Tokyo,Surfing,Men,No medal,Men,SRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Leandro Usuna,M,Argentina,ARG,2020,Tokyo,Surfing,Men,No medal,Men,SRF,False,True

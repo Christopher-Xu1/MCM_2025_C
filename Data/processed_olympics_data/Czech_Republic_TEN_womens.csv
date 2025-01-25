@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Daniela Bedov,F,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Daniela Bedov,F,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Iveta (-melzer),F,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Iveta (-melzer),F,Czech Republic,CZE,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Petra Cetkovsk,F,Czech Republic,CZE,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Adriana Geri,F,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Lucie Hradeck,F,Czech Republic,CZE,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Lucie Hradeck,F,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Lucie Hradeck,F,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,Bronze,Tennis,TEN,True
-Kvtoslava (-peschke),F,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Kvtoslava (-peschke),F,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Klra Koukalov-zakopalov,F,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Klra Koukalov-zakopalov,F,Czech Republic,CZE,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Klra Koukalov-zakopalov,F,Czech Republic,CZE,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Petra Kvitov,F,Czech Republic,CZE,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Petra Kvitov,F,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,True
-Jana Novotn,F,Czech Republic,CZE,1996,Atlanta,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,True
-Jana Novotn,F,Czech Republic,CZE,1996,Atlanta,Tennis,Tennis Women's Doubles,Silver,Tennis,TEN,True
-Libue Prov,F,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Lucie Afov,F,Czech Republic,CZE,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Lucie Afov,F,Czech Republic,CZE,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Lucie Afov,F,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Barbora (-zhlavov),F,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Barbora (-zhlavov),F,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Barbora (-zhlavov),F,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Helena Sukov,F,Czech Republic,CZE,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Helena Sukov,F,Czech Republic,CZE,1996,Atlanta,Tennis,Tennis Women's Doubles,Silver,Tennis,TEN,True
-Nicole Vaidiov,F,Czech Republic,CZE,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Barbora Krejcikova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
-Barbora Krejcikova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Doubles Team,Gold,Women's,TEN,True
-Petra Kvitova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False
-Karolina Pliskova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
-Karolina Pliskova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
-Katerina Siniakova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Doubles Team,Gold,Women's,TEN,False
-Marketa Vondrousova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Singles,Silver,Women's,TEN,True
-Marketa Vondrousova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Daniela Bedov,F,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Daniela Bedov,F,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Iveta (-melzer),F,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Iveta (-melzer),F,Czech Republic,CZE,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Petra Cetkovsk,F,Czech Republic,CZE,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Adriana Geri,F,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Lucie Hradeck,F,Czech Republic,CZE,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Lucie Hradeck,F,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Lucie Hradeck,F,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,Bronze,Tennis,TEN,True,False
+Kvtoslava (-peschke),F,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Kvtoslava (-peschke),F,Czech Republic,CZE,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Klra Koukalov-zakopalov,F,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Klra Koukalov-zakopalov,F,Czech Republic,CZE,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Klra Koukalov-zakopalov,F,Czech Republic,CZE,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Petra Kvitov,F,Czech Republic,CZE,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Petra Kvitov,F,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,True,False
+Jana Novotn,F,Czech Republic,CZE,1996,Atlanta,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,True,True
+Jana Novotn,F,Czech Republic,CZE,1996,Atlanta,Tennis,Tennis Women's Doubles,Silver,Tennis,TEN,True,True
+Libue Prov,F,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Lucie Afov,F,Czech Republic,CZE,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Lucie Afov,F,Czech Republic,CZE,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Lucie Afov,F,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Barbora (-zhlavov),F,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Barbora (-zhlavov),F,Czech Republic,CZE,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Barbora (-zhlavov),F,Czech Republic,CZE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Helena Sukov,F,Czech Republic,CZE,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Helena Sukov,F,Czech Republic,CZE,1996,Atlanta,Tennis,Tennis Women's Doubles,Silver,Tennis,TEN,True,True
+Nicole Vaidiov,F,Czech Republic,CZE,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Barbora Krejcikova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Barbora Krejcikova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Doubles Team,Gold,Women's,TEN,True,True
+Petra Kvitova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False,True
+Karolina Pliskova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Karolina Pliskova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,True
+Katerina Siniakova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Doubles Team,Gold,Women's,TEN,False,True
+Marketa Vondrousova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Singles,Silver,Women's,TEN,True,True
+Marketa Vondrousova,F,Czech Republic,CZE,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,True

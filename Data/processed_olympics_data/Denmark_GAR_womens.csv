@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Else (thorsanger-),F,Denmark,DEN,1968,Mexico City,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Else (thorsanger-),F,Denmark,DEN,1968,Mexico City,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Else (thorsanger-),F,Denmark,DEN,1968,Mexico City,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True
-Else (thorsanger-),F,Denmark,DEN,1968,Mexico City,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Else (thorsanger-),F,Denmark,DEN,1968,Mexico City,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Else (thorsanger-),F,Denmark,DEN,1968,Mexico City,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Else (thorsanger-),F,Denmark,DEN,1968,Mexico City,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Else (thorsanger-),F,Denmark,DEN,1968,Mexico City,Gymnastics,Gymnastics Women's Horse Vault,No medal,Gymnastics,GAR,True,True
+Else (thorsanger-),F,Denmark,DEN,1968,Mexico City,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Else (thorsanger-),F,Denmark,DEN,1968,Mexico City,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True

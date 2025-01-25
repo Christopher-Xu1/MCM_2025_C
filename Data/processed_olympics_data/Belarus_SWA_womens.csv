@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yekaterina Kulpo,F,Belarus,BLR,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Irina Limanovskaya,F,Belarus,BLR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Kristina Nadezhdina-markovich,F,Belarus,BLR,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Kristina Nadezhdina-markovich,F,Belarus,BLR,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Anastasiya Parfyonova,F,Belarus,BLR,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Nataliya (-meshkova),F,Belarus,BLR,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Anastasiya Vlasenko,F,Belarus,BLR,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Veronika Yesipovich,F,Belarus,BLR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
-Vasilina Khandoshka,F,Belarus,BLR,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,False
-Daria Kulagina,F,Belarus,BLR,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yekaterina Kulpo,F,Belarus,BLR,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Irina Limanovskaya,F,Belarus,BLR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Kristina Nadezhdina-markovich,F,Belarus,BLR,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Kristina Nadezhdina-markovich,F,Belarus,BLR,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Anastasiya Parfyonova,F,Belarus,BLR,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Nataliya (-meshkova),F,Belarus,BLR,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Anastasiya Vlasenko,F,Belarus,BLR,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Veronika Yesipovich,F,Belarus,BLR,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False,True
+Vasilina Khandoshka,F,Belarus,BLR,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,False,True
+Daria Kulagina,F,Belarus,BLR,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,False,True

@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Victor Laveleye,M,Belgium-2,BEL,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Eugne Grisar,M,Belgium-2,BEL,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Maurice Bemden,M,Belgium-2,BEL,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Jean Washer,M,Belgium-2,BEL,1920,Antwerpen,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Jean Washer,M,Belgium-2,BEL,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Jean Washer,M,Belgium-2,BEL,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Victor Laveleye,M,Belgium-2,BEL,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Eugne Grisar,M,Belgium-2,BEL,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Maurice Bemden,M,Belgium-2,BEL,1920,Antwerpen,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Jean Washer,M,Belgium-2,BEL,1920,Antwerpen,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Jean Washer,M,Belgium-2,BEL,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,False
+Jean Washer,M,Belgium-2,BEL,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False

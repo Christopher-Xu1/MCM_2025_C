@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Antoine Jaoude,M,Brazil,BRA,2004,Athina,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Roberto Filho,M,Brazil,BRA,1988,Seoul,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Roberto Filho,M,Brazil,BRA,1988,Seoul,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Roberto Filho,M,Brazil,BRA,1992,Barcelona,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Eduard Soghomonyan,M,Brazil,BRA,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Floriano Spiess,M,Brazil,BRA,1988,Seoul,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Floriano Spiess,M,Brazil,BRA,1988,Seoul,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Eduard Soghomonyan,M,Brazil,BRA,2020,Tokyo,Wrestling,Men's Greco-Roman 130kg,No medal,Men's,WRF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Antoine Jaoude,M,Brazil,BRA,2004,Athina,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Roberto Filho,M,Brazil,BRA,1988,Seoul,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Roberto Filho,M,Brazil,BRA,1988,Seoul,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Roberto Filho,M,Brazil,BRA,1992,Barcelona,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Eduard Soghomonyan,M,Brazil,BRA,2016,Rio de Janeiro,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Floriano Spiess,M,Brazil,BRA,1988,Seoul,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Floriano Spiess,M,Brazil,BRA,1988,Seoul,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Eduard Soghomonyan,M,Brazil,BRA,2020,Tokyo,Wrestling,Men's Greco-Roman 130kg,No medal,Men's,WRF,True,False

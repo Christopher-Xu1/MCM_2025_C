@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Akgul Amanmuradova,F,Uzbekistan,UZB,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Iroda Tulyaganova,F,Uzbekistan,UZB,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Akgul Amanmuradova,F,Uzbekistan,UZB,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Iroda Tulyaganova,F,Uzbekistan,UZB,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True

@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zoltn Btorfi,M,Hungary,HUN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Zsolt Harczi,M,Hungary,HUN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Jnos Jakab,M,Hungary,HUN,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Tibor Klampr,M,Hungary,HUN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Tibor Klampr,M,Hungary,HUN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Zsolt Kriston,M,Hungary,HUN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Kroly Nmeth,M,Hungary,HUN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-dm Pattantys,M,Hungary,HUN,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-dm Pattantys,M,Hungary,HUN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Dniel Zwickl,M,Hungary,HUN,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Bence Majoros,M,Hungary,HUN,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False
-Adam Szudi,M,Hungary,HUN,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,False
-Nandor Ecseki,M,Hungary,HUN,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zoltn Btorfi,M,Hungary,HUN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Zsolt Harczi,M,Hungary,HUN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Jnos Jakab,M,Hungary,HUN,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Tibor Klampr,M,Hungary,HUN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Tibor Klampr,M,Hungary,HUN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Zsolt Kriston,M,Hungary,HUN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Kroly Nmeth,M,Hungary,HUN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+dm Pattantys,M,Hungary,HUN,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+dm Pattantys,M,Hungary,HUN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Dniel Zwickl,M,Hungary,HUN,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Bence Majoros,M,Hungary,HUN,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True
+Adam Szudi,M,Hungary,HUN,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,False,True
+Nandor Ecseki,M,Hungary,HUN,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,False,True

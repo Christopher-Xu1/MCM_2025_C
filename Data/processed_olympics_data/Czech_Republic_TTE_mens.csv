@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lubomr Janak,M,Czech Republic,CZE,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Petr Korbel,M,Czech Republic,CZE,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Petr Korbel,M,Czech Republic,CZE,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Petr Korbel,M,Czech Republic,CZE,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Petr Korbel,M,Czech Republic,CZE,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Petr Korbel,M,Czech Republic,CZE,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Petr Korbel,M,Czech Republic,CZE,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Petr Korbel,M,Czech Republic,CZE,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Josef Plach,M,Czech Republic,CZE,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Josef Plach,M,Czech Republic,CZE,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Josef Plach,M,Czech Republic,CZE,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Dmitrij Prokopcov,M,Czech Republic,CZE,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Richard Vborn,M,Czech Republic,CZE,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Lubomir Jancarik,M,Czech Republic,CZE,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False
-Pavel Sirucek,M,Czech Republic,CZE,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lubomr Janak,M,Czech Republic,CZE,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Petr Korbel,M,Czech Republic,CZE,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Petr Korbel,M,Czech Republic,CZE,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Petr Korbel,M,Czech Republic,CZE,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Petr Korbel,M,Czech Republic,CZE,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Petr Korbel,M,Czech Republic,CZE,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Petr Korbel,M,Czech Republic,CZE,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Petr Korbel,M,Czech Republic,CZE,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Josef Plach,M,Czech Republic,CZE,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Josef Plach,M,Czech Republic,CZE,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Josef Plach,M,Czech Republic,CZE,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Dmitrij Prokopcov,M,Czech Republic,CZE,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Richard Vborn,M,Czech Republic,CZE,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Lubomir Jancarik,M,Czech Republic,CZE,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True
+Pavel Sirucek,M,Czech Republic,CZE,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True

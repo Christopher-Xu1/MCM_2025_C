@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Douglass Cadwallader,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False
-Jesse Carleton,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False
-Harold Fraser,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False
-Arthur Hussey,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False
-Orus Jones,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False
-Allan Lard,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False
-George Oliver,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False
-Simeon Jr.,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False
-John Rahm,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False
-Harold Weber,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Douglass Cadwallader,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False,True
+Jesse Carleton,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False,True
+Harold Fraser,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False,True
+Arthur Hussey,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False,True
+Orus Jones,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False,True
+Allan Lard,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False,True
+George Oliver,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False,True
+Simeon Jr.,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False,True
+John Rahm,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False,True
+Harold Weber,M,United States Golf Association-3,USA,1904,St. Louis,Golf,Golf Men's Team,Bronze,Golf,GLF,False,True

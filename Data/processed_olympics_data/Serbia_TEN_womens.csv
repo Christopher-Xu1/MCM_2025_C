@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ana (-schweinsteiger),F,Serbia,SRB,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Ana (-schweinsteiger),F,Serbia,SRB,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Ana (-schweinsteiger),F,Serbia,SRB,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Jelena Jankovi,F,Serbia,SRB,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Jelena Jankovi,F,Serbia,SRB,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Jelena Jankovi,F,Serbia,SRB,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Aleksandra Kruni,F,Serbia,SRB,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Aleksandra Kruni,F,Serbia,SRB,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Ivana Jorovic,F,Serbia,SRB,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False
-Aleksandra Krunic,F,Serbia,SRB,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False
-Nina Stojanovic,F,Serbia,SRB,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
-Nina Stojanovic,F,Serbia,SRB,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
-Nina Stojanovic,F,Serbia,SRB,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,Mixed,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ana (-schweinsteiger),F,Serbia,SRB,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Ana (-schweinsteiger),F,Serbia,SRB,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Ana (-schweinsteiger),F,Serbia,SRB,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Jelena Jankovi,F,Serbia,SRB,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Jelena Jankovi,F,Serbia,SRB,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Jelena Jankovi,F,Serbia,SRB,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Aleksandra Kruni,F,Serbia,SRB,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Aleksandra Kruni,F,Serbia,SRB,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Ivana Jorovic,F,Serbia,SRB,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False,True
+Aleksandra Krunic,F,Serbia,SRB,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False,True
+Nina Stojanovic,F,Serbia,SRB,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Nina Stojanovic,F,Serbia,SRB,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,True
+Nina Stojanovic,F,Serbia,SRB,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,Mixed,TEN,True,True

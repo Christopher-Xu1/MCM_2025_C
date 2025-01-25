@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Karen Portch,F,Antigua And Barbuda,ANT,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Paola Vittoria,F,Antigua And Barbuda,ANT,1992,Barcelona,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Jalese Gordon,F,Antigua And Barbuda,ANT,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Karen Portch,F,Antigua And Barbuda,ANT,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Paola Vittoria,F,Antigua And Barbuda,ANT,1992,Barcelona,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Jalese Gordon,F,Antigua And Barbuda,ANT,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,False,True

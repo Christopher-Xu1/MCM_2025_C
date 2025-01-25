@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-James Baxter,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-William Davidson,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-J. Gardiner,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-John Jellico,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-John Kenion,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-Thomas Littledale,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-Charles Maciver,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,True
-Charles Maciver,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,True
-Colin Robertson,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
-James Spence,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+James Baxter,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+William Davidson,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+J. Gardiner,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+John Jellico,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+John Kenion,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+Thomas Littledale,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+Charles Maciver,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,True,True
+Charles Maciver,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,True,True
+Colin Robertson,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True
+James Spence,M,Mouchette-2,GBR,1908,London,Sailing,Sailing Mixed 12 metres,Silver,Sailing,SAL,False,True

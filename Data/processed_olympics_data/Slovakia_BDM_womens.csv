@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Monika Fasungova,F,Slovakia,SVK,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Eva Sldekov,F,Slovakia,SVK,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Martina Repiska,F,Slovakia,SVK,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Monika Fasungova,F,Slovakia,SVK,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Eva Sldekov,F,Slovakia,SVK,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Martina Repiska,F,Slovakia,SVK,2020,Tokyo,Badminton,Women's Singles,No medal,Women's,BDM,False,True

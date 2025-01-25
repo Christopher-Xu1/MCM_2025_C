@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carmenza Castillo,F,Colombia,COL,2000,Sydney,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Carmenza Castillo,F,Colombia,COL,2004,Athina,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Jackelina Cuesta,F,Colombia,COL,2012,London,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Tulia Alcalde,F,Colombia,COL,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True
-Tulia Alcalde,F,Colombia,COL,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Mabel Mena,F,Colombia,COL,2004,Athina,Weightlifting,Weightlifting Women's Featherweight,Bronze,Weightlifting,WLF,False
-Mercedes Tigreros,F,Colombia,COL,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True
-Mercedes Tigreros,F,Colombia,COL,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True
-Lina Ordez,F,Colombia,COL,2012,London,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True
-Lina Ordez,F,Colombia,COL,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True
-Leydi Arboleda,F,Colombia,COL,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Leydi Arboleda,F,Colombia,COL,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Mara Ocor,F,Colombia,COL,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,Gold,Weightlifting,WLF,False
-Ubaldina Cuesta,F,Colombia,COL,2004,Athina,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Ubaldina Cuesta,F,Colombia,COL,2008,Beijing,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True
-Ubaldina Cuesta,F,Colombia,COL,2012,London,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Ubaldina Cuesta,F,Colombia,COL,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True
-Rusmeris Barbosa,F,Colombia,COL,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False
-Isabel Perez,F,Colombia,COL,2020,Tokyo,Weightlifting,Women's 64kg,No medal,Women's,WLF,False
-Yenny Alvarez,F,Colombia,COL,2024,Paris,Weightlifting,Women's 59kg,No medal,Women's,WLF,False
-Leivis Sanchez,F,Colombia,COL,2024,Paris,Weightlifting,Women's 71kg,Silver,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carmenza Castillo,F,Colombia,COL,2000,Sydney,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True,True
+Carmenza Castillo,F,Colombia,COL,2004,Athina,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True,False
+Jackelina Cuesta,F,Colombia,COL,2012,London,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Tulia Alcalde,F,Colombia,COL,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True,True
+Tulia Alcalde,F,Colombia,COL,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,True,False
+Mabel Mena,F,Colombia,COL,2004,Athina,Weightlifting,Weightlifting Women's Featherweight,Bronze,Weightlifting,WLF,False,True
+Mercedes Tigreros,F,Colombia,COL,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True,True
+Mercedes Tigreros,F,Colombia,COL,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True,False
+Lina Ordez,F,Colombia,COL,2012,London,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True,True
+Lina Ordez,F,Colombia,COL,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True,False
+Leydi Arboleda,F,Colombia,COL,2008,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,True,True
+Leydi Arboleda,F,Colombia,COL,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,True,False
+Mara Ocor,F,Colombia,COL,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,Gold,Weightlifting,WLF,False,True
+Ubaldina Cuesta,F,Colombia,COL,2004,Athina,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,True,True
+Ubaldina Cuesta,F,Colombia,COL,2008,Beijing,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True,False
+Ubaldina Cuesta,F,Colombia,COL,2012,London,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,True,False
+Ubaldina Cuesta,F,Colombia,COL,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True,False
+Rusmeris Barbosa,F,Colombia,COL,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False,True
+Isabel Perez,F,Colombia,COL,2020,Tokyo,Weightlifting,Women's 64kg,No medal,Women's,WLF,False,True
+Yenny Alvarez,F,Colombia,COL,2024,Paris,Weightlifting,Women's 59kg,No medal,Women's,WLF,False,True
+Leivis Sanchez,F,Colombia,COL,2024,Paris,Weightlifting,Women's 71kg,Silver,Women's,WLF,False,True

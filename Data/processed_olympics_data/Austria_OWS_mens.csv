@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jan Hercog,M,Austria,AUT,2024,Paris,Marathon Swimming,Men's 10km,No medal,Men's,OWS,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jan Hercog,M,Austria,AUT,2024,Paris,Marathon Swimming,Men's 10km,No medal,Men's,OWS,False,True

@@ -1,47 +1,47 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ali Afringi,M,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Abrar Adem,M,Eritrea,ERI,2012,London,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Abrar Adem,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Bolota Asmerom,M,Eritrea,ERI,2000,Sydney,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Yared Tesfit,M,Eritrea,ERI,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Yared Tesfit,M,Eritrea,ERI,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Tewelde Hidru,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Weynay Ghebresilasie,M,Eritrea,ERI,2012,London,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
-Ghirmay Ghebreslassie,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Yemane Haileselassie,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
-Aron Kifle,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Goitom Kifle,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Yonas Kifle,M,Eritrea,ERI,2000,Sydney,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Yonas Kifle,M,Eritrea,ERI,2004,Athina,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Yonas Kifle,M,Eritrea,ERI,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Yonas Kifle,M,Eritrea,ERI,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Samson Kiflemariam,M,Eritrea,ERI,2004,Athina,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Teklemariam Weldeslassie,M,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Teklemariam Weldeslassie,M,Eritrea,ERI,2012,London,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Amanuel Tikue,M,Eritrea,ERI,2012,London,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Amanuel Tikue,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Tesfayohannes Mesfin,M,Eritrea,ERI,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Kidane Habtesilase,M,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Kidane Habtesilase,M,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Zersenay Habtesilase,M,Eritrea,ERI,2004,Athina,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Zersenay Habtesilase,M,Eritrea,ERI,2004,Athina,Athletics,"Athletics Men's 10,000 metres",Bronze,Athletics,ATH,True
-Zersenay Habtesilase,M,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Zersenay Habtesilase,M,Eritrea,ERI,2012,London,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Zersenay Habtesilase,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Nguse Amlosom,M,Eritrea,ERI,2012,London,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Nguse Amlosom,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Hiskel Tewelde,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Teklit Teweldebrhan,M,Eritrea,ERI,2012,London,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Samuel Tesfamriam,M,Eritrea,ERI,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Hais Ghebrat,M,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Yohanes Ghebregergis,M,Eritrea,ERI,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False
-Yemane Haileselassie,M,Eritrea,ERI,2020,Tokyo,Athletics,Men's 3000m Steeplechase,No medal,Men's,ATH,True
-Aron Kifle,M,Eritrea,ERI,2020,Tokyo,Athletics,"Men's 10,000m",No medal,Men's,ATH,True
-Goitom Kifle,M,Eritrea,ERI,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,True
-Kibrom Ruesom,M,Eritrea,ERI,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False
-Dawit Seare,M,Eritrea,ERI,2024,Paris,Athletics,Men's 5000m,No medal,Men's,ATH,False
-Merhawi Mebrahtu,M,Eritrea,ERI,2024,Paris,Athletics,"Men's 10,000m",No medal,Men's,ATH,False
-Samsom Amare,M,Eritrea,ERI,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,False
-Aron Kifle,M,Eritrea,ERI,2024,Paris,Athletics,Men's 5000m,No medal,Men's,ATH,True
-Henok Tesfay,M,Eritrea,ERI,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,False
-Berhane Tesfay,M,Eritrea,ERI,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ali Afringi,M,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Abrar Adem,M,Eritrea,ERI,2012,London,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Abrar Adem,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,False
+Bolota Asmerom,M,Eritrea,ERI,2000,Sydney,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Yared Tesfit,M,Eritrea,ERI,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Yared Tesfit,M,Eritrea,ERI,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Tewelde Hidru,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Weynay Ghebresilasie,M,Eritrea,ERI,2012,London,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False,True
+Ghirmay Ghebreslassie,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Yemane Haileselassie,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True,True
+Aron Kifle,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Goitom Kifle,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Yonas Kifle,M,Eritrea,ERI,2000,Sydney,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Yonas Kifle,M,Eritrea,ERI,2004,Athina,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,False
+Yonas Kifle,M,Eritrea,ERI,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Yonas Kifle,M,Eritrea,ERI,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Samson Kiflemariam,M,Eritrea,ERI,2004,Athina,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Teklemariam Weldeslassie,M,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Teklemariam Weldeslassie,M,Eritrea,ERI,2012,London,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,False
+Amanuel Tikue,M,Eritrea,ERI,2012,London,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Amanuel Tikue,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Tesfayohannes Mesfin,M,Eritrea,ERI,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Kidane Habtesilase,M,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Kidane Habtesilase,M,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Zersenay Habtesilase,M,Eritrea,ERI,2004,Athina,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Zersenay Habtesilase,M,Eritrea,ERI,2004,Athina,Athletics,"Athletics Men's 10,000 metres",Bronze,Athletics,ATH,True,True
+Zersenay Habtesilase,M,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,False
+Zersenay Habtesilase,M,Eritrea,ERI,2012,London,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,False
+Zersenay Habtesilase,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,False
+Nguse Amlosom,M,Eritrea,ERI,2012,London,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Nguse Amlosom,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,False
+Hiskel Tewelde,M,Eritrea,ERI,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Teklit Teweldebrhan,M,Eritrea,ERI,2012,London,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Samuel Tesfamriam,M,Eritrea,ERI,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Hais Ghebrat,M,Eritrea,ERI,2008,Beijing,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Yohanes Ghebregergis,M,Eritrea,ERI,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False,True
+Yemane Haileselassie,M,Eritrea,ERI,2020,Tokyo,Athletics,Men's 3000m Steeplechase,No medal,Men's,ATH,True,False
+Aron Kifle,M,Eritrea,ERI,2020,Tokyo,Athletics,"Men's 10,000m",No medal,Men's,ATH,True,False
+Goitom Kifle,M,Eritrea,ERI,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,True,False
+Kibrom Ruesom,M,Eritrea,ERI,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False,True
+Dawit Seare,M,Eritrea,ERI,2024,Paris,Athletics,Men's 5000m,No medal,Men's,ATH,False,True
+Merhawi Mebrahtu,M,Eritrea,ERI,2024,Paris,Athletics,"Men's 10,000m",No medal,Men's,ATH,False,True
+Samsom Amare,M,Eritrea,ERI,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,False,True
+Aron Kifle,M,Eritrea,ERI,2024,Paris,Athletics,Men's 5000m,No medal,Men's,ATH,True,False
+Henok Tesfay,M,Eritrea,ERI,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,False,True
+Berhane Tesfay,M,Eritrea,ERI,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,False,True

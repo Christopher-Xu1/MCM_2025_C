@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eleni Daniilidou,F,Greece,GRE,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Eleni Daniilidou,F,Greece,GRE,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Eleni Daniilidou,F,Greece,GRE,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Eleni Daniilidou,F,Greece,GRE,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Eleni Daniilidou,F,Greece,GRE,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Anna Gerasimou,F,Greece,GRE,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Sofia Marinou,F,Greece,GRE,1906,Athina,Tennis,Tennis Women's Singles,Silver,Tennis,TEN,False
-Aspasia (-razelos),F,Greece,GRE,1906,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Khristina Papadaki,F,Greece,GRE,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Khristina Papadaki,F,Greece,GRE,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Khristina Papadaki,F,Greece,GRE,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Khristina Papadaki,F,Greece,GRE,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Eufrosine (muzzopoulous-),F,Greece,GRE,1906,Athina,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,False
-Esme Simiriotis,F,Greece,GRE,1906,Athina,Tennis,Tennis Women's Singles,Gold,Tennis,TEN,False
-Ioanna Tissamenou,F,Greece,GRE,1906,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Olga Tsarmbopoulou,F,Greece,GRE,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Lena (-skaramagna),F,Greece,GRE,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Lena (-skaramagna),F,Greece,GRE,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Khristina Zakhariadou,F,Greece,GRE,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Khristina Zakhariadou,F,Greece,GRE,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Khristina Zakhariadou,F,Greece,GRE,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Maria Sakkari,F,Greece,GRE,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
-Maria Sakkari,F,Greece,GRE,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,Mixed,TEN,True
-Maria Sakkari,F,Greece,GRE,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Maria Sakkari,F,Greece,GRE,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
-Maria Sakkari,F,Greece,GRE,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True
-Despoina Papamichail,F,Greece,GRE,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eleni Daniilidou,F,Greece,GRE,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Eleni Daniilidou,F,Greece,GRE,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Eleni Daniilidou,F,Greece,GRE,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Eleni Daniilidou,F,Greece,GRE,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Eleni Daniilidou,F,Greece,GRE,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Anna Gerasimou,F,Greece,GRE,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Sofia Marinou,F,Greece,GRE,1906,Athina,Tennis,Tennis Women's Singles,Silver,Tennis,TEN,False,True
+Aspasia (-razelos),F,Greece,GRE,1906,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Khristina Papadaki,F,Greece,GRE,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Khristina Papadaki,F,Greece,GRE,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Khristina Papadaki,F,Greece,GRE,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Khristina Papadaki,F,Greece,GRE,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Eufrosine (muzzopoulous-),F,Greece,GRE,1906,Athina,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,False,True
+Esme Simiriotis,F,Greece,GRE,1906,Athina,Tennis,Tennis Women's Singles,Gold,Tennis,TEN,False,True
+Ioanna Tissamenou,F,Greece,GRE,1906,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Olga Tsarmbopoulou,F,Greece,GRE,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Lena (-skaramagna),F,Greece,GRE,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Lena (-skaramagna),F,Greece,GRE,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Khristina Zakhariadou,F,Greece,GRE,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Khristina Zakhariadou,F,Greece,GRE,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Khristina Zakhariadou,F,Greece,GRE,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Maria Sakkari,F,Greece,GRE,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Maria Sakkari,F,Greece,GRE,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,Mixed,TEN,True,True
+Maria Sakkari,F,Greece,GRE,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,False
+Maria Sakkari,F,Greece,GRE,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True,False
+Maria Sakkari,F,Greece,GRE,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True,False
+Despoina Papamichail,F,Greece,GRE,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,False,True

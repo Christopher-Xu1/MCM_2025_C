@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kudakwashe Basopo,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Eunice Chibanda,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Mavis Chirandu,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Chido Dzingirai,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Msipa Emmaculate,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Erina Jeke,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Daisy Kaitano,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Rejoice Kapfumvuti,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Lindiwe Magwede,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Nobuhle Majika,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Rutendo Makore,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Sheila Makoto,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Talent Mandaza,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Lynett Mutokuto,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Fedistas Muzongondi,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Rudo Neshamba,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
-Marjory Nyaumwe,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kudakwashe Basopo,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Eunice Chibanda,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Mavis Chirandu,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Chido Dzingirai,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Msipa Emmaculate,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Erina Jeke,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Daisy Kaitano,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Rejoice Kapfumvuti,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Lindiwe Magwede,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Nobuhle Majika,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Rutendo Makore,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Sheila Makoto,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Talent Mandaza,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Lynett Mutokuto,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Fedistas Muzongondi,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Rudo Neshamba,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True
+Marjory Nyaumwe,F,Zimbabwe,ZIM,2016,Rio de Janeiro,Football,Football Women's Football,No medal,Football,FBL,False,True

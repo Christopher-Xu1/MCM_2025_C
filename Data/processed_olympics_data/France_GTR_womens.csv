@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marine Jurbert,F,France,FRA,2016,Rio de Janeiro,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False
-Lea Labrousse,F,France,FRA,2020,Tokyo,Trampoline Gymnastics,Women,No medal,Women,GTR,True
-Lea Labrousse,F,France,FRA,2024,Paris,Trampoline Gymnastics,Women,No medal,Women,GTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marine Jurbert,F,France,FRA,2016,Rio de Janeiro,Trampolining,Trampolining Women's Individual,No medal,Trampolining,GTR,False,True
+Lea Labrousse,F,France,FRA,2020,Tokyo,Trampoline Gymnastics,Women,No medal,Women,GTR,True,True
+Lea Labrousse,F,France,FRA,2024,Paris,Trampoline Gymnastics,Women,No medal,Women,GTR,True,False

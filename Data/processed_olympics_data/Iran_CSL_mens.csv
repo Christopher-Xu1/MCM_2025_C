@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nader Khiarak,M,Iran,IRI,2000,Sydney,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Nader Khiarak,M,Iran,IRI,2000,Sydney,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True
-Adel Mojallalimoghadam,M,Iran,IRI,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,Canoeing,CSL,False
-Ahmad Talebian,M,Iran,IRI,2012,London,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nader Khiarak,M,Iran,IRI,2000,Sydney,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Nader Khiarak,M,Iran,IRI,2000,Sydney,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True,True
+Adel Mojallalimoghadam,M,Iran,IRI,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,Canoeing,CSL,False,True
+Ahmad Talebian,M,Iran,IRI,2012,London,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,False,True

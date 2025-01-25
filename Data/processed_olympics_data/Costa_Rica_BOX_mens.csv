@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fidel Snchez,M,Costa Rica,CRC,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Walter Miranda,M,Costa Rica,CRC,1968,Mexico City,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Jos Zeledon,M,Costa Rica,CRC,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fidel Snchez,M,Costa Rica,CRC,1988,Seoul,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Walter Miranda,M,Costa Rica,CRC,1968,Mexico City,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Jos Zeledon,M,Costa Rica,CRC,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True

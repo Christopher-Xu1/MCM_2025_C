@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yentou Ho,M,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True
-Yentou Ho,M,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
-Yentou Ho,M,"Hong Kong, China",HKG,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True
-Yentou Ho,M,"Hong Kong, China",HKG,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yentou Ho,M,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True,True
+Yentou Ho,M,"Hong Kong, China",HKG,2020,Tokyo,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,True
+Yentou Ho,M,"Hong Kong, China",HKG,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True,False
+Yentou Ho,M,"Hong Kong, China",HKG,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True,False

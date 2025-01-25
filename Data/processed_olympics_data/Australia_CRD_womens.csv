@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Grace Brown,F,Australia,AUS,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,True
-Grace Brown,F,Australia,AUS,2020,Tokyo,Cycling Road,Women's Individual Time Trial,No medal,Women's,CRD,True
-Tiffany Cromwell,F,Australia,AUS,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
-Sarah Gigante,F,Australia,AUS,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,True
-Sarah Gigante,F,Australia,AUS,2020,Tokyo,Cycling Road,Women's Individual Time Trial,No medal,Women's,CRD,True
-Amanda Spratt,F,Australia,AUS,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
-Grace Brown,F,Australia,AUS,2024,Paris,Cycling Road,Women's Road Race,No medal,Women's,CRD,True
-Grace Brown,F,Australia,AUS,2024,Paris,Cycling Road,Women's Individual Time Trial,Gold,Women's,CRD,True
-Lauretta Hanson,F,Australia,AUS,2024,Paris,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
-Ruby Roseman-gannon,F,Australia,AUS,2024,Paris,Cycling Road,Women's Road Race,No medal,Women's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Grace Brown,F,Australia,AUS,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,True,True
+Grace Brown,F,Australia,AUS,2020,Tokyo,Cycling Road,Women's Individual Time Trial,No medal,Women's,CRD,True,True
+Tiffany Cromwell,F,Australia,AUS,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True
+Sarah Gigante,F,Australia,AUS,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,True,True
+Sarah Gigante,F,Australia,AUS,2020,Tokyo,Cycling Road,Women's Individual Time Trial,No medal,Women's,CRD,True,True
+Amanda Spratt,F,Australia,AUS,2020,Tokyo,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True
+Grace Brown,F,Australia,AUS,2024,Paris,Cycling Road,Women's Road Race,No medal,Women's,CRD,True,False
+Grace Brown,F,Australia,AUS,2024,Paris,Cycling Road,Women's Individual Time Trial,Gold,Women's,CRD,True,False
+Lauretta Hanson,F,Australia,AUS,2024,Paris,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True
+Ruby Roseman-gannon,F,Australia,AUS,2024,Paris,Cycling Road,Women's Road Race,No medal,Women's,CRD,False,True

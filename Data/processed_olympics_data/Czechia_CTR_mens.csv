@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Denis Rugovac,M,Czechia,CZE,2024,Paris,Cycling Track,Men's Madison,No medal,Men's,CTR,True
-Denis Rugovac,M,Czechia,CZE,2024,Paris,Cycling Track,Men's Omnium,No medal,Men's,CTR,True
-Jan Vones,M,Czechia,CZE,2024,Paris,Cycling Track,Men's Madison,No medal,Men's,CTR,True
-Jan Vones,M,Czechia,CZE,2024,Paris,Cycling Track,Men's Omnium,No medal,Men's,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Denis Rugovac,M,Czechia,CZE,2024,Paris,Cycling Track,Men's Madison,No medal,Men's,CTR,True,True
+Denis Rugovac,M,Czechia,CZE,2024,Paris,Cycling Track,Men's Omnium,No medal,Men's,CTR,True,True
+Jan Vones,M,Czechia,CZE,2024,Paris,Cycling Track,Men's Madison,No medal,Men's,CTR,True,True
+Jan Vones,M,Czechia,CZE,2024,Paris,Cycling Track,Men's Omnium,No medal,Men's,CTR,True,True

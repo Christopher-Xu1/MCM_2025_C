@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Michaela Breeze,F,United Kingdom,GBR,2004,Athina,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True
-Michaela Breeze,F,United Kingdom,GBR,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True
-Natasha Perdue,F,United Kingdom,GBR,2012,London,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Zoe Smith,F,United Kingdom,GBR,2012,London,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True
-Rebekah Tiler,F,United Kingdom,GBR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Jade Campbell,F,United Kingdom,GBR,2020,Tokyo,Weightlifting,Women's +87kg,Silver,Women's,WLF,False
-Sarah Davies,F,United Kingdom,GBR,2020,Tokyo,Weightlifting,Women's 64kg,No medal,Women's,WLF,False
-Victoria Godley,F,United Kingdom,GBR,2020,Tokyo,Weightlifting,Women's 76kg,No medal,Women's,WLF,False
-Zoe Smith,F,United Kingdom,GBR,2020,Tokyo,Weightlifting,Women's 59kg,No medal,Women's,WLF,True
-Emily Campbell,F,United Kingdom,GBR,2024,Paris,Weightlifting,Women's +81kg,Bronze,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Michaela Breeze,F,United Kingdom,GBR,2004,Athina,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True,True
+Michaela Breeze,F,United Kingdom,GBR,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True,False
+Natasha Perdue,F,United Kingdom,GBR,2012,London,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Zoe Smith,F,United Kingdom,GBR,2012,London,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True,True
+Rebekah Tiler,F,United Kingdom,GBR,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Jade Campbell,F,United Kingdom,GBR,2020,Tokyo,Weightlifting,Women's +87kg,Silver,Women's,WLF,False,True
+Sarah Davies,F,United Kingdom,GBR,2020,Tokyo,Weightlifting,Women's 64kg,No medal,Women's,WLF,False,True
+Victoria Godley,F,United Kingdom,GBR,2020,Tokyo,Weightlifting,Women's 76kg,No medal,Women's,WLF,False,True
+Zoe Smith,F,United Kingdom,GBR,2020,Tokyo,Weightlifting,Women's 59kg,No medal,Women's,WLF,True,False
+Emily Campbell,F,United Kingdom,GBR,2024,Paris,Weightlifting,Women's +81kg,Bronze,Women's,WLF,False,True

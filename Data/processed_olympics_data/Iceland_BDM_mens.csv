@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-rni Hallgrmson,M,Iceland,ISL,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-rni Hallgrmson,M,Iceland,ISL,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Broddi Kristjnsson,M,Iceland,ISL,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Broddi Kristjnsson,M,Iceland,ISL,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+rni Hallgrmson,M,Iceland,ISL,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+rni Hallgrmson,M,Iceland,ISL,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Broddi Kristjnsson,M,Iceland,ISL,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Broddi Kristjnsson,M,Iceland,ISL,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True

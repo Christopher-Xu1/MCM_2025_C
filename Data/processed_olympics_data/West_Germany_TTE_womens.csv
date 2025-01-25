@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Olga Nemes,F,West Germany,FRG,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Olga Nemes,F,West Germany,FRG,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Katja Nolten,F,West Germany,FRG,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Katja Nolten,F,West Germany,FRG,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Olga Nemes,F,West Germany,FRG,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Olga Nemes,F,West Germany,FRG,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Katja Nolten,F,West Germany,FRG,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Katja Nolten,F,West Germany,FRG,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True

@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dong Dong,M,China,CHN,2008,Beijing,Trampolining,Trampolining Men's Individual,Bronze,Trampolining,GTR,True
-Dong Dong,M,China,CHN,2012,London,Trampolining,Trampolining Men's Individual,Gold,Trampolining,GTR,True
-Dong Dong,M,China,CHN,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,Silver,Trampolining,GTR,True
-Gao Lei,M,China,CHN,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,Bronze,Trampolining,GTR,False
-Lu Chunlong,M,China,CHN,2008,Beijing,Trampolining,Trampolining Men's Individual,Gold,Trampolining,GTR,True
-Lu Chunlong,M,China,CHN,2012,London,Trampolining,Trampolining Men's Individual,Bronze,Trampolining,GTR,True
-Mu Yongfeng,M,China,CHN,2004,Athina,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False
-Dong Dong,M,China,CHN,2020,Tokyo,Trampoline Gymnastics,Men,Silver,Men,GTR,True
-Lei Gao,M,China,CHN,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,False
-Langyu Yan,M,China,CHN,2024,Paris,Trampoline Gymnastics,Men,Bronze,Men,GTR,False
-Zisai Wang,M,China,CHN,2024,Paris,Trampoline Gymnastics,Men,Silver,Men,GTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dong Dong,M,China,CHN,2008,Beijing,Trampolining,Trampolining Men's Individual,Bronze,Trampolining,GTR,True,True
+Dong Dong,M,China,CHN,2012,London,Trampolining,Trampolining Men's Individual,Gold,Trampolining,GTR,True,False
+Dong Dong,M,China,CHN,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,Silver,Trampolining,GTR,True,False
+Gao Lei,M,China,CHN,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,Bronze,Trampolining,GTR,False,True
+Lu Chunlong,M,China,CHN,2008,Beijing,Trampolining,Trampolining Men's Individual,Gold,Trampolining,GTR,True,True
+Lu Chunlong,M,China,CHN,2012,London,Trampolining,Trampolining Men's Individual,Bronze,Trampolining,GTR,True,False
+Mu Yongfeng,M,China,CHN,2004,Athina,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False,True
+Dong Dong,M,China,CHN,2020,Tokyo,Trampoline Gymnastics,Men,Silver,Men,GTR,True,False
+Lei Gao,M,China,CHN,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,False,True
+Langyu Yan,M,China,CHN,2024,Paris,Trampoline Gymnastics,Men,Bronze,Men,GTR,False,True
+Zisai Wang,M,China,CHN,2024,Paris,Trampoline Gymnastics,Men,Silver,Men,GTR,False,True

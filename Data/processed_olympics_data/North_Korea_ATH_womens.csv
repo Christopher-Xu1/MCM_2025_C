@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ham Bong-sil,F,North Korea,PRK,2000,Sydney,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Ham Bong-sil,F,North Korea,PRK,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Jo Bun-hui,F,North Korea,PRK,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Jo Bun-hui,F,North Korea,PRK,2008,Beijing,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Jon Kyong-hui,F,North Korea,PRK,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Jong Song-ok,F,North Korea,PRK,1996,Atlanta,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Jong Yong-ok,F,North Korea,PRK,2000,Sydney,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Jong Yong-ok,F,North Korea,PRK,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Jong Yong-ok,F,North Korea,PRK,2008,Beijing,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Kim Chang-ok,F,North Korea,PRK,1996,Atlanta,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Kim Chang-ok,F,North Korea,PRK,2000,Sydney,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Kim Hye-gyong,F,North Korea,PRK,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Kim Hye-song,F,North Korea,PRK,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Kim Kum-ok,F,North Korea,PRK,2008,Beijing,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Kim Kum-ok,F,North Korea,PRK,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Kim Kum-ok,F,North Korea,PRK,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Kim Mi-gyong,F,North Korea,PRK,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Li Yong-ae,F,North Korea,PRK,1992,Barcelona,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False
-Mun Gyong-ae,F,North Korea,PRK,1992,Barcelona,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ham Bong-sil,F,North Korea,PRK,2000,Sydney,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,True
+Ham Bong-sil,F,North Korea,PRK,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Jo Bun-hui,F,North Korea,PRK,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,True
+Jo Bun-hui,F,North Korea,PRK,2008,Beijing,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Jon Kyong-hui,F,North Korea,PRK,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Jong Song-ok,F,North Korea,PRK,1996,Atlanta,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Jong Yong-ok,F,North Korea,PRK,2000,Sydney,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,True
+Jong Yong-ok,F,North Korea,PRK,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Jong Yong-ok,F,North Korea,PRK,2008,Beijing,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Kim Chang-ok,F,North Korea,PRK,1996,Atlanta,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,True
+Kim Chang-ok,F,North Korea,PRK,2000,Sydney,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Kim Hye-gyong,F,North Korea,PRK,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Kim Hye-song,F,North Korea,PRK,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Kim Kum-ok,F,North Korea,PRK,2008,Beijing,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,True
+Kim Kum-ok,F,North Korea,PRK,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Kim Kum-ok,F,North Korea,PRK,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Kim Mi-gyong,F,North Korea,PRK,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Li Yong-ae,F,North Korea,PRK,1992,Barcelona,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,False,True
+Mun Gyong-ae,F,North Korea,PRK,1992,Barcelona,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True

@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Boeun Gim,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Miseul Han,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Jiyeon Jeon,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Jinhui Jeong,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Eunbeen Jo,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Eunhye Kang,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Eunseo Kang,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Kyungmin Kang,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Dayoung Kim,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Minji Lee,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Saeyoung Park,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Hee Ryu,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Eunjoo Shin,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Jinmi Shin,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Haeri Song,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Jiyoung Song,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
-Bitna Woo,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Boeun Gim,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Miseul Han,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Jiyeon Jeon,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Jinhui Jeong,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Eunbeen Jo,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Eunhye Kang,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Eunseo Kang,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Kyungmin Kang,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Dayoung Kim,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Minji Lee,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Saeyoung Park,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Hee Ryu,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Eunjoo Shin,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Jinmi Shin,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Haeri Song,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Jiyoung Song,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True
+Bitna Woo,F,Korea,KOR,2024,Paris,Handball,Women,No medal,Women,HBL,False,True

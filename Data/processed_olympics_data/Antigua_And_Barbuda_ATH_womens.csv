@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Laverne Bryan,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Laverne Bryan,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True
-Laverne Bryan,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Laverne Bryan,F,Antigua And Barbuda,ANT,1988,Seoul,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Laverne Bryan,F,Antigua And Barbuda,ANT,1988,Seoul,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True
-Afia Charles,F,Antigua And Barbuda,ANT,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Ruperta Charles,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Ruperta Charles,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Priscilla Frederick,F,Antigua And Barbuda,ANT,2016,Rio de Janeiro,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False
-Charmaine Gilgeous,F,Antigua And Barbuda,ANT,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Jocelyn Joseph,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Jocelyn Joseph,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Jocelyn Joseph,F,Antigua And Barbuda,ANT,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Dine Potter,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Dine Potter,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Heather Samuel,F,Antigua And Barbuda,ANT,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Heather Samuel,F,Antigua And Barbuda,ANT,1992,Barcelona,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Heather Samuel,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Heather Samuel,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Heather Samuel,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Heather Samuel,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Heather Samuel,F,Antigua And Barbuda,ANT,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Heather Samuel,F,Antigua And Barbuda,ANT,2000,Sydney,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Heather Samuel,F,Antigua And Barbuda,ANT,2004,Athina,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Barbara (-abbey),F,Antigua And Barbuda,ANT,1988,Seoul,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Monica Stevens,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Charmaine Thomas,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Charmaine Thomas,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Sonia Williams,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Sonia Williams,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Sonia Williams,F,Antigua And Barbuda,ANT,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Joella Lloyd,F,Antigua And Barbuda,ANT,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,True
-Joella Lloyd,F,Antigua And Barbuda,ANT,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Laverne Bryan,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Laverne Bryan,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True,True
+Laverne Bryan,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Laverne Bryan,F,Antigua And Barbuda,ANT,1988,Seoul,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,False
+Laverne Bryan,F,Antigua And Barbuda,ANT,1988,Seoul,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True,False
+Afia Charles,F,Antigua And Barbuda,ANT,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Ruperta Charles,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Ruperta Charles,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Priscilla Frederick,F,Antigua And Barbuda,ANT,2016,Rio de Janeiro,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False,True
+Charmaine Gilgeous,F,Antigua And Barbuda,ANT,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Jocelyn Joseph,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Jocelyn Joseph,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Jocelyn Joseph,F,Antigua And Barbuda,ANT,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Dine Potter,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Dine Potter,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Heather Samuel,F,Antigua And Barbuda,ANT,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Heather Samuel,F,Antigua And Barbuda,ANT,1992,Barcelona,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Heather Samuel,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Heather Samuel,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Heather Samuel,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,False
+Heather Samuel,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,False
+Heather Samuel,F,Antigua And Barbuda,ANT,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Heather Samuel,F,Antigua And Barbuda,ANT,2000,Sydney,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Heather Samuel,F,Antigua And Barbuda,ANT,2004,Athina,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Barbara (-abbey),F,Antigua And Barbuda,ANT,1988,Seoul,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Monica Stevens,F,Antigua And Barbuda,ANT,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Charmaine Thomas,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Charmaine Thomas,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Sonia Williams,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Sonia Williams,F,Antigua And Barbuda,ANT,1996,Atlanta,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Sonia Williams,F,Antigua And Barbuda,ANT,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Joella Lloyd,F,Antigua And Barbuda,ANT,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,True,True
+Joella Lloyd,F,Antigua And Barbuda,ANT,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,True,False

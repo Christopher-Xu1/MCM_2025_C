@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kaido Kaaberma,M,Estonia,EST,1992,Barcelona,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Kaido Kaaberma,M,Estonia,EST,1996,Atlanta,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Kaido Kaaberma,M,Estonia,EST,1996,Atlanta,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Kaido Kaaberma,M,Estonia,EST,2000,Sydney,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Kaido Kaaberma,M,Estonia,EST,2000,Sydney,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Andrus Kajak,M,Estonia,EST,1996,Atlanta,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Andrus Kajak,M,Estonia,EST,1996,Atlanta,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Andrus Kajak,M,Estonia,EST,2000,Sydney,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Andrus Kajak,M,Estonia,EST,2000,Sydney,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Meelis Loit,M,Estonia,EST,1996,Atlanta,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Meelis Loit,M,Estonia,EST,1996,Atlanta,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Meelis Loit,M,Estonia,EST,2000,Sydney,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Meelis Loit,M,Estonia,EST,2000,Sydney,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Nikolai Novosjolov,M,Estonia,EST,2000,Sydney,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Nikolai Novosjolov,M,Estonia,EST,2008,Beijing,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Nikolai Novosjolov,M,Estonia,EST,2012,London,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Nikolai Novosjolov,M,Estonia,EST,2016,Rio de Janeiro,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Viktor Zuikov,M,Estonia,EST,1992,Barcelona,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kaido Kaaberma,M,Estonia,EST,1992,Barcelona,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Kaido Kaaberma,M,Estonia,EST,1996,Atlanta,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Kaido Kaaberma,M,Estonia,EST,1996,Atlanta,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+Kaido Kaaberma,M,Estonia,EST,2000,Sydney,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Kaido Kaaberma,M,Estonia,EST,2000,Sydney,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+Andrus Kajak,M,Estonia,EST,1996,Atlanta,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Andrus Kajak,M,Estonia,EST,1996,Atlanta,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Andrus Kajak,M,Estonia,EST,2000,Sydney,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Andrus Kajak,M,Estonia,EST,2000,Sydney,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+Meelis Loit,M,Estonia,EST,1996,Atlanta,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Meelis Loit,M,Estonia,EST,1996,Atlanta,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Meelis Loit,M,Estonia,EST,2000,Sydney,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Meelis Loit,M,Estonia,EST,2000,Sydney,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+Nikolai Novosjolov,M,Estonia,EST,2000,Sydney,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Nikolai Novosjolov,M,Estonia,EST,2008,Beijing,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Nikolai Novosjolov,M,Estonia,EST,2012,London,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Nikolai Novosjolov,M,Estonia,EST,2016,Rio de Janeiro,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Viktor Zuikov,M,Estonia,EST,1992,Barcelona,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False,True

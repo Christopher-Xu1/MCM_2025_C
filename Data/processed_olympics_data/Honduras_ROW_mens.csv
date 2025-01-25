@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Norberto Vila,M,Honduras,HON,2008,Beijing,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Norberto Vila,M,Honduras,HON,2008,Beijing,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True

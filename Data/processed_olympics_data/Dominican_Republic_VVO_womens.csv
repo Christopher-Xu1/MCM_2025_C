@@ -1,49 +1,49 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cndida Prez,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Yudelkys Bautista,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Milagros Cruz,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Milagros Cruz,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Evelyn Pichardo,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Alexandra Sierra,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Brenda Castillo,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Bethania Pea,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Karla Medina,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Lisvel (-castillo),F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Juana Snchez,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Francia Cabrera,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Gina Casilla,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Niverka Frica,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Sofia Heredia,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Kenia Prez,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Sidarka Milagros,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Prisilla Brens,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Prisilla Brens,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Cosiris Andino,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Cindy Martnez,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Juana Prez,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Annerys Valdez,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Annerys Valdez,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Brenda Castillo,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True
-de Bethania,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True
-Inmaculada Dominguez,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Elisa Eve,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Ceneida Gonzalez,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True
-Dharlenis Marte,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True
-Elizabeth Martinez,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True
-Larysmer Martinez,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Jineiry Martinez,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True
-Paola Pena,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True
-Prisilla Rivera,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Victoria Vargas,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False
-Denis Tapia,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,False
-Ariana Rodriguez,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,False
-de Bethania,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,True
-Elizabeth Martinez,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,True
-Brenda Castillo,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,True
-Estefany Arias,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,False
-Ceneida Gonzalez,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,True
-Sthefany Gonzalez,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,False
-Jineiry Martinez,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,True
-Jazmin Guillen,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,False
-Dharlenis Marte,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,True
-Paola Pena,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cndida Prez,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Yudelkys Bautista,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Milagros Cruz,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Milagros Cruz,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,False
+Evelyn Pichardo,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Alexandra Sierra,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Brenda Castillo,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Bethania Pea,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Karla Medina,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Lisvel (-castillo),F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Juana Snchez,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Francia Cabrera,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Gina Casilla,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Niverka Frica,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Sofia Heredia,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Kenia Prez,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Sidarka Milagros,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Prisilla Brens,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Prisilla Brens,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,False
+Cosiris Andino,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Cindy Martnez,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Juana Prez,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Annerys Valdez,F,Dominican Republic,DOM,2004,Athina,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Annerys Valdez,F,Dominican Republic,DOM,2012,London,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,False
+Brenda Castillo,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True,False
+de Bethania,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True,True
+Inmaculada Dominguez,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Elisa Eve,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Ceneida Gonzalez,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True,True
+Dharlenis Marte,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True,True
+Elizabeth Martinez,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True,True
+Larysmer Martinez,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Jineiry Martinez,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True,True
+Paola Pena,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,True,True
+Prisilla Rivera,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Victoria Vargas,F,Dominican Republic,DOM,2020,Tokyo,Volleyball,Women Team,No medal,Women,VVO,False,True
+Denis Tapia,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,False,True
+Ariana Rodriguez,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,False,True
+de Bethania,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,True,False
+Elizabeth Martinez,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,True,False
+Brenda Castillo,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,True,False
+Estefany Arias,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,False,True
+Ceneida Gonzalez,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,True,False
+Sthefany Gonzalez,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,False,True
+Jineiry Martinez,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,True,False
+Jazmin Guillen,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,False,True
+Dharlenis Marte,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,True,False
+Paola Pena,F,Dominican Republic,DOM,2024,Paris,Volleyball,Women,No medal,Women,VVO,True,False

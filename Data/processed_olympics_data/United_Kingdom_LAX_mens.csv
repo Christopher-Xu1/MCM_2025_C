@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gustav Alexander,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False
-George Buckland,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False
-Eric Dutton,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False
-S. Hayes,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False
-Wilfrid Johnson,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False
-Edward Jones,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False
-Reginald Martin,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False
-Gerald Mason,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False
-Johnson Parker-smith,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False
-Hubert Ramsey,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False
-Charles Scott,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False
-Norman Whitley,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gustav Alexander,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False,True
+George Buckland,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False,True
+Eric Dutton,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False,True
+S. Hayes,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False,True
+Wilfrid Johnson,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False,True
+Edward Jones,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False,True
+Reginald Martin,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False,True
+Gerald Mason,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False,True
+Johnson Parker-smith,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False,True
+Hubert Ramsey,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False,True
+Charles Scott,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False,True
+Norman Whitley,M,United Kingdom,GBR,1908,London,Lacrosse,Lacrosse Men's Lacrosse,Silver,Lacrosse,LAX,False,True

@@ -1,32 +1,32 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carling Bassett-seguso,F,Canada,CAN,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Carling Bassett-seguso,F,Canada,CAN,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Eugenie Bouchard,F,Canada,CAN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Eugenie Bouchard,F,Canada,CAN,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Gabriela Dabrowski,F,Canada,CAN,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Stphanie Dubois,F,Canada,CAN,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Gilliam (-hultquist),F,Canada,CAN,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Gilliam (-hultquist),F,Canada,CAN,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Gilliam (-hultquist),F,Canada,CAN,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Patricia Hy-boulais,F,Canada,CAN,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Patricia Hy-boulais,F,Canada,CAN,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Patricia Hy-boulais,F,Canada,CAN,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Patricia Hy-boulais,F,Canada,CAN,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Sonya Jeyaseelan,F,Canada,CAN,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Sonya Jeyaseelan,F,Canada,CAN,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Helen Kelesi,F,Canada,CAN,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Jana Nejedly,F,Canada,CAN,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Norine (-collins),F,Canada,CAN,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Norine (-collins),F,Canada,CAN,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Vanessa Webb,F,Canada,CAN,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Aleksandra Wozniak,F,Canada,CAN,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Aleksandra Wozniak,F,Canada,CAN,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Gabriela Dabrowski,F,Canada,CAN,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
-Gabriela Dabrowski,F,Canada,CAN,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,Mixed,TEN,True
-Annie Fernandez,F,Canada,CAN,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False
-Sharon Fichman,F,Canada,CAN,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False
-Gabriela Dabrowski,F,Canada,CAN,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Gabriela Dabrowski,F,Canada,CAN,2024,Paris,Tennis,Mixed Doubles,Bronze,Mixed,TEN,True
-Leylah Fernandez,F,Canada,CAN,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Leylah Fernandez,F,Canada,CAN,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
-Bianca Andreescu,F,Canada,CAN,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carling Bassett-seguso,F,Canada,CAN,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Carling Bassett-seguso,F,Canada,CAN,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Eugenie Bouchard,F,Canada,CAN,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Eugenie Bouchard,F,Canada,CAN,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Gabriela Dabrowski,F,Canada,CAN,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Stphanie Dubois,F,Canada,CAN,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Gilliam (-hultquist),F,Canada,CAN,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Gilliam (-hultquist),F,Canada,CAN,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Gilliam (-hultquist),F,Canada,CAN,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Patricia Hy-boulais,F,Canada,CAN,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Patricia Hy-boulais,F,Canada,CAN,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Patricia Hy-boulais,F,Canada,CAN,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Patricia Hy-boulais,F,Canada,CAN,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Sonya Jeyaseelan,F,Canada,CAN,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Sonya Jeyaseelan,F,Canada,CAN,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Helen Kelesi,F,Canada,CAN,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Jana Nejedly,F,Canada,CAN,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Norine (-collins),F,Canada,CAN,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Norine (-collins),F,Canada,CAN,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Vanessa Webb,F,Canada,CAN,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Aleksandra Wozniak,F,Canada,CAN,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Aleksandra Wozniak,F,Canada,CAN,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Gabriela Dabrowski,F,Canada,CAN,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,False
+Gabriela Dabrowski,F,Canada,CAN,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,Mixed,TEN,True,False
+Annie Fernandez,F,Canada,CAN,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False,True
+Sharon Fichman,F,Canada,CAN,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False,True
+Gabriela Dabrowski,F,Canada,CAN,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,False
+Gabriela Dabrowski,F,Canada,CAN,2024,Paris,Tennis,Mixed Doubles,Bronze,Mixed,TEN,True,False
+Leylah Fernandez,F,Canada,CAN,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,True
+Leylah Fernandez,F,Canada,CAN,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Bianca Andreescu,F,Canada,CAN,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,False,True

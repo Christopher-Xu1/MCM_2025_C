@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jan Elstka,M,Czech Republic,CZE,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Martin Krvek,M,Czech Republic,CZE,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Martin Krvek,M,Czech Republic,CZE,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Filip Ospal,M,Czech Republic,CZE,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Filip Ospal,M,Czech Republic,CZE,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Filip Ospal,M,Czech Republic,CZE,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Jan Ehula,M,Czech Republic,CZE,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,Bronze,Triathlon,TRI,False
-Pemysl Varc,M,Czech Republic,CZE,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jan Elstka,M,Czech Republic,CZE,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Martin Krvek,M,Czech Republic,CZE,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Martin Krvek,M,Czech Republic,CZE,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Filip Ospal,M,Czech Republic,CZE,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Filip Ospal,M,Czech Republic,CZE,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Filip Ospal,M,Czech Republic,CZE,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Jan Ehula,M,Czech Republic,CZE,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,Bronze,Triathlon,TRI,False,True
+Pemysl Varc,M,Czech Republic,CZE,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True

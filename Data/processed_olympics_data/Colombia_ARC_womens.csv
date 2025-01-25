@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carolina Giraldo,F,Colombia,COL,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Carolina Giraldo,F,Colombia,COL,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Mara Dueas,F,Colombia,COL,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Ana Martnez,F,Colombia,COL,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Ana Martnez,F,Colombia,COL,2008,Beijing,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Ana Martnez,F,Colombia,COL,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Ana Martnez,F,Colombia,COL,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Ana Martnez,F,Colombia,COL,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Sigrid Duque,F,Colombia,COL,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Sigrid Duque,F,Colombia,COL,2008,Beijing,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Natalia Echeverri,F,Colombia,COL,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Natalia Echeverri,F,Colombia,COL,2008,Beijing,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Natalia Echeverri,F,Colombia,COL,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Natalia Echeverri,F,Colombia,COL,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Valentina Acosta,F,Colombia,COL,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Valentina Acosta,F,Colombia,COL,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
-Ana Rendon,F,Colombia,COL,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Ana Rendon,F,Colombia,COL,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carolina Giraldo,F,Colombia,COL,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Carolina Giraldo,F,Colombia,COL,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Mara Dueas,F,Colombia,COL,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Ana Martnez,F,Colombia,COL,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Ana Martnez,F,Colombia,COL,2008,Beijing,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Ana Martnez,F,Colombia,COL,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Ana Martnez,F,Colombia,COL,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Ana Martnez,F,Colombia,COL,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Sigrid Duque,F,Colombia,COL,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Sigrid Duque,F,Colombia,COL,2008,Beijing,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Natalia Echeverri,F,Colombia,COL,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Natalia Echeverri,F,Colombia,COL,2008,Beijing,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Natalia Echeverri,F,Colombia,COL,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Natalia Echeverri,F,Colombia,COL,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Valentina Acosta,F,Colombia,COL,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Valentina Acosta,F,Colombia,COL,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True
+Ana Rendon,F,Colombia,COL,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Ana Rendon,F,Colombia,COL,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True,True

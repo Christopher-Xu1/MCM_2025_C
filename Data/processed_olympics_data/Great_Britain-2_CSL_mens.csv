@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Christopher Arrowsmith,M,Great Britain-2,GBR,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False
-Paul Brain,M,Great Britain-2,GBR,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False
-John Court,M,Great Britain-2,GBR,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False
-David Florence,M,Great Britain-2,GBR,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False
-Jon Goodwin,M,Great Britain-2,GBR,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False
-Richard Hounslow,M,Great Britain-2,GBR,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Christopher Arrowsmith,M,Great Britain-2,GBR,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False,True
+Paul Brain,M,Great Britain-2,GBR,1992,Barcelona,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False,True
+John Court,M,Great Britain-2,GBR,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False,True
+David Florence,M,Great Britain-2,GBR,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False,True
+Jon Goodwin,M,Great Britain-2,GBR,1972,Munich,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",No medal,Canoeing,CSL,False,True
+Richard Hounslow,M,Great Britain-2,GBR,2012,London,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",Silver,Canoeing,CSL,False,True

@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Waldemar Bjrkstn,M,Nina,FIN,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Silver,Sailing,SAL,False
-Jacob Bjrnstrm,M,Nina,FIN,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Silver,Sailing,SAL,False
-Bror Brenner,M,Nina,FIN,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Silver,Sailing,SAL,False
-Allan Franck,M,Nina,FIN,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Silver,Sailing,SAL,False
-Erik Lindh,M,Nina,FIN,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Silver,Sailing,SAL,False
-Johan Pekkalainen,M,Nina,FIN,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Silver,Sailing,SAL,False
-Harry Wahl,M,Nina,FIN,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Waldemar Bjrkstn,M,Nina,FIN,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Silver,Sailing,SAL,False,True
+Jacob Bjrnstrm,M,Nina,FIN,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Silver,Sailing,SAL,False,True
+Bror Brenner,M,Nina,FIN,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Silver,Sailing,SAL,False,True
+Allan Franck,M,Nina,FIN,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Silver,Sailing,SAL,False,True
+Erik Lindh,M,Nina,FIN,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Silver,Sailing,SAL,False,True
+Johan Pekkalainen,M,Nina,FIN,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Silver,Sailing,SAL,False,True
+Harry Wahl,M,Nina,FIN,1912,Stockholm,Sailing,Sailing Mixed 10 metres,Silver,Sailing,SAL,False,True

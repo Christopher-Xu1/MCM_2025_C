@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Resky Dwicahyo,M,Azerbaijan,AZE,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True
-Resky Dwicahyo,M,Azerbaijan,AZE,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Resky Dwicahyo,M,Azerbaijan,AZE,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True,True
+Resky Dwicahyo,M,Azerbaijan,AZE,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True,False

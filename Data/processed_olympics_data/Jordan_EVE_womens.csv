@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Haya Al-hussein,F,Jordan,JOR,2000,Sydney,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Haya Al-hussein,F,Jordan,JOR,2000,Sydney,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False,True

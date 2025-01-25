@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tamsin Barnett-hinchley,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Louise Bawden,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Sandra Bowen,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Elizabeth Brett,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Majella Brown,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Angela Clarke,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Beatrice Daly,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Renae Maycock,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Christie Mokotupu,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Priscilla Ruddle,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Selina Scoble,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Rachel White,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tamsin Barnett-hinchley,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Louise Bawden,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Sandra Bowen,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Elizabeth Brett,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Majella Brown,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Angela Clarke,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Beatrice Daly,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Renae Maycock,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Christie Mokotupu,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Priscilla Ruddle,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Selina Scoble,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Rachel White,F,Australia,AUS,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True

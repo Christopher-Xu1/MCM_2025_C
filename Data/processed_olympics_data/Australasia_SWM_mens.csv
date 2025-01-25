@@ -1,32 +1,32 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Reginald Baker,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,False
-Francis Beaurepaire,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Francis Beaurepaire,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 400 metres Freestyle,Silver,Swimming,SWM,True
-Francis Beaurepaire,M,Australasia,ANZ,1908,London,Swimming,"Swimming Men's 1,500 metres Freestyle",Bronze,Swimming,SWM,True
-Francis Beaurepaire,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True
-Leslie Boardman,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Leslie Boardman,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
-Malcolm Champion,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Malcolm Champion,M,Australasia,ANZ,1912,Stockholm,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Malcolm Champion,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
-Edward Cooke,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Edward Cooke,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Harold Hardwick,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Harold Hardwick,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 400 metres Freestyle,Bronze,Swimming,SWM,True
-Harold Hardwick,M,Australasia,ANZ,1912,Stockholm,Swimming,"Swimming Men's 1,500 metres Freestyle",Bronze,Swimming,SWM,True
-Harold Hardwick,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
-Cecil Healy,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 100 metres Freestyle,Silver,Swimming,SWM,True
-Cecil Healy,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Cecil Healy,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
-William Longworth,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-William Longworth,M,Australasia,ANZ,1912,Stockholm,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Frank Schryver,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Frank Schryver,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 400 metres Breaststroke,No medal,Swimming,SWM,True
-Frank Springfield,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Frank Springfield,M,Australasia,ANZ,1908,London,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Frank Springfield,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True
-Theodore Tartakover,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Theodore Tartakover,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Theodore Tartakover,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True
-Theodore Tartakover,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Theodore Tartakover,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Reginald Baker,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,False,True
+Francis Beaurepaire,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Francis Beaurepaire,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 400 metres Freestyle,Silver,Swimming,SWM,True,True
+Francis Beaurepaire,M,Australasia,ANZ,1908,London,Swimming,"Swimming Men's 1,500 metres Freestyle",Bronze,Swimming,SWM,True,True
+Francis Beaurepaire,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Leslie Boardman,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Leslie Boardman,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True,True
+Malcolm Champion,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Malcolm Champion,M,Australasia,ANZ,1912,Stockholm,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Malcolm Champion,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True,True
+Edward Cooke,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Edward Cooke,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Harold Hardwick,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Harold Hardwick,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 400 metres Freestyle,Bronze,Swimming,SWM,True,True
+Harold Hardwick,M,Australasia,ANZ,1912,Stockholm,Swimming,"Swimming Men's 1,500 metres Freestyle",Bronze,Swimming,SWM,True,True
+Harold Hardwick,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True,True
+Cecil Healy,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 100 metres Freestyle,Silver,Swimming,SWM,True,True
+Cecil Healy,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Cecil Healy,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True,True
+William Longworth,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+William Longworth,M,Australasia,ANZ,1912,Stockholm,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Frank Schryver,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Frank Schryver,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 400 metres Breaststroke,No medal,Swimming,SWM,True,True
+Frank Springfield,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Frank Springfield,M,Australasia,ANZ,1908,London,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Frank Springfield,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Theodore Tartakover,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Theodore Tartakover,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Theodore Tartakover,M,Australasia,ANZ,1908,London,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Theodore Tartakover,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Theodore Tartakover,M,Australasia,ANZ,1912,Stockholm,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,False

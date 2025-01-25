@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Francis Chetcuti,M,Malta,MLT,1980,Moskva,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True
-Francis Chetcuti,M,Malta,MLT,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True
-William Chetcuti,M,Malta,MLT,2004,Athina,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True
-William Chetcuti,M,Malta,MLT,2008,Beijing,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True
-William Chetcuti,M,Malta,MLT,2012,London,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True
-William Chetcuti,M,Malta,MLT,2016,Rio de Janeiro,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True
-Michael Gauci,M,Malta,MLT,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-Joseph Grech,M,Malta,MLT,1960,Roma,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True
-Joseph Grech,M,Malta,MLT,1968,Mexico City,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True
-Joseph Grech,M,Malta,MLT,1972,Munich,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True
-Horace Micallef,M,Malta,MLT,1992,Barcelona,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-Francis Pace,M,Malta,MLT,1996,Atlanta,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True
-Francis Pace,M,Malta,MLT,1996,Atlanta,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True
-Francis Pace,M,Malta,MLT,2000,Sydney,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True
-Lawrence Vella,M,Malta,MLT,1980,Moskva,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True
-Lawrence Vella,M,Malta,MLT,1960,Roma,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True
-Gianluca Chetcuti,M,Malta,MLT,2024,Paris,Shooting,Trap Men,No medal,Trap,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Francis Chetcuti,M,Malta,MLT,1980,Moskva,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True,True
+Francis Chetcuti,M,Malta,MLT,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True,False
+William Chetcuti,M,Malta,MLT,2004,Athina,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True,True
+William Chetcuti,M,Malta,MLT,2008,Beijing,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True,False
+William Chetcuti,M,Malta,MLT,2012,London,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True,False
+William Chetcuti,M,Malta,MLT,2016,Rio de Janeiro,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True,False
+Michael Gauci,M,Malta,MLT,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+Joseph Grech,M,Malta,MLT,1960,Roma,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True,True
+Joseph Grech,M,Malta,MLT,1968,Mexico City,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True,False
+Joseph Grech,M,Malta,MLT,1972,Munich,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True,False
+Horace Micallef,M,Malta,MLT,1992,Barcelona,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+Francis Pace,M,Malta,MLT,1996,Atlanta,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True,True
+Francis Pace,M,Malta,MLT,1996,Atlanta,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True,True
+Francis Pace,M,Malta,MLT,2000,Sydney,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True,False
+Lawrence Vella,M,Malta,MLT,1980,Moskva,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True,False
+Lawrence Vella,M,Malta,MLT,1960,Roma,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True,True
+Gianluca Chetcuti,M,Malta,MLT,2024,Paris,Shooting,Trap Men,No medal,Trap,SHO,False,True

@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jorge Acua,M,Uruguay,URU,1972,Munich,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Antonio Marrone,M,Uruguay,URU,1936,Berlin,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Luis Acua,M,Uruguay,URU,1952,Helsinki,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Basilio Rodrguez,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Arqumedes Arrieta,M,Uruguay,URU,1936,Berlin,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Mario Bentez,M,Uruguay,URU,1968,Mexico City,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Alberto Dobal,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Juan Bregaliano,M,Uruguay,URU,1936,Berlin,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Pedro Albazeti,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Carlos Casal,M,Uruguay,URU,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Liberto Espallargas,M,Uruguay,URU,1924,Paris,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Francisco Milano,M,Uruguay,URU,1936,Berlin,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Manuel Esmoris,M,Uruguay,URU,1924,Paris,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Jos Feans,M,Uruguay,URU,1936,Berlin,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Daniel Rodrguez,M,Uruguay,URU,1988,Seoul,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Nolberto Freitas,M,Uruguay,URU,1968,Mexico City,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Mario Gonzlez,M,Uruguay,URU,1924,Paris,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Gualberto Gutirrez,M,Uruguay,URU,1960,Roma,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Dogomar Casal,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Roberto Martnez,M,Uruguay,URU,1960,Roma,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Honorio Duarte,M,Uruguay,URU,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Luis Pintos,M,Uruguay,URU,1992,Barcelona,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Juan Zauco,M,Uruguay,URU,1988,Seoul,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Agustn Sellanes,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Julio Nicolari,M,Uruguay,URU,1924,Paris,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Alfredo Petrone,M,Uruguay,URU,1936,Berlin,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Jorge Centena,M,Uruguay,URU,1992,Barcelona,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Guillermo Mol,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Felipe Surez,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Andrs Miguez,M,Uruguay,URU,1924,Paris,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Juan Rivero,M,Uruguay,URU,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Washington Medina,M,Uruguay,URU,1964,Tokyo,Boxing,Boxing Men's Bantamweight,Bronze,Boxing,BOX,False
-Feliciano Cor,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Juan Ferreira,M,Uruguay,URU,1976,Montreal,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Fidel Tricnico,M,Uruguay,URU,1936,Berlin,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Pedro Alaggia,M,Uruguay,URU,1960,Roma,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jorge Acua,M,Uruguay,URU,1972,Munich,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Antonio Marrone,M,Uruguay,URU,1936,Berlin,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Luis Acua,M,Uruguay,URU,1952,Helsinki,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Basilio Rodrguez,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Arqumedes Arrieta,M,Uruguay,URU,1936,Berlin,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Mario Bentez,M,Uruguay,URU,1968,Mexico City,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Alberto Dobal,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Juan Bregaliano,M,Uruguay,URU,1936,Berlin,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Pedro Albazeti,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Carlos Casal,M,Uruguay,URU,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Liberto Espallargas,M,Uruguay,URU,1924,Paris,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Francisco Milano,M,Uruguay,URU,1936,Berlin,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Manuel Esmoris,M,Uruguay,URU,1924,Paris,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Jos Feans,M,Uruguay,URU,1936,Berlin,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Daniel Rodrguez,M,Uruguay,URU,1988,Seoul,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Nolberto Freitas,M,Uruguay,URU,1968,Mexico City,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Mario Gonzlez,M,Uruguay,URU,1924,Paris,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Gualberto Gutirrez,M,Uruguay,URU,1960,Roma,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Dogomar Casal,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Roberto Martnez,M,Uruguay,URU,1960,Roma,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Honorio Duarte,M,Uruguay,URU,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Luis Pintos,M,Uruguay,URU,1992,Barcelona,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Juan Zauco,M,Uruguay,URU,1988,Seoul,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Agustn Sellanes,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Julio Nicolari,M,Uruguay,URU,1924,Paris,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Alfredo Petrone,M,Uruguay,URU,1936,Berlin,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Jorge Centena,M,Uruguay,URU,1992,Barcelona,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Guillermo Mol,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Felipe Surez,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Andrs Miguez,M,Uruguay,URU,1924,Paris,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Juan Rivero,M,Uruguay,URU,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Washington Medina,M,Uruguay,URU,1964,Tokyo,Boxing,Boxing Men's Bantamweight,Bronze,Boxing,BOX,False,True
+Feliciano Cor,M,Uruguay,URU,1948,London,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Juan Ferreira,M,Uruguay,URU,1976,Montreal,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Fidel Tricnico,M,Uruguay,URU,1936,Berlin,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Pedro Alaggia,M,Uruguay,URU,1960,Roma,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True

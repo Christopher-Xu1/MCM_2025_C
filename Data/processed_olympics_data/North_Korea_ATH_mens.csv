@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chang Sop-choe,M,North Korea,PRK,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Chang Sop-choe,M,North Korea,PRK,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Jong Myong-chol,M,North Korea,PRK,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Kil Jae-son,M,North Korea,PRK,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Kim Chang-son,M,North Korea,PRK,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Kim Chang-son,M,North Korea,PRK,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Kim Il-nam,M,North Korea,PRK,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Kim Jong-chol,M,North Korea,PRK,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Kim Jong-su,M,North Korea,PRK,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Kim Jung-won,M,North Korea,PRK,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Kim Jung-won,M,North Korea,PRK,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Kim Kwang-hyok,M,North Korea,PRK,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Koh Chun-son,M,North Korea,PRK,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Koh Chun-son,M,North Korea,PRK,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Li Jong-hyung,M,North Korea,PRK,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Pak Chol,M,North Korea,PRK,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Pak Song-chol,M,North Korea,PRK,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Pak Song-chol,M,North Korea,PRK,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Ri Kum-song,M,North Korea,PRK,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Ryu Man-hyong,M,North Korea,PRK,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Ryu Ok-hyon,M,North Korea,PRK,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chang Sop-choe,M,North Korea,PRK,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Chang Sop-choe,M,North Korea,PRK,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Jong Myong-chol,M,North Korea,PRK,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Kil Jae-son,M,North Korea,PRK,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Kim Chang-son,M,North Korea,PRK,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Kim Chang-son,M,North Korea,PRK,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Kim Il-nam,M,North Korea,PRK,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Kim Jong-chol,M,North Korea,PRK,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Kim Jong-su,M,North Korea,PRK,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Kim Jung-won,M,North Korea,PRK,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Kim Jung-won,M,North Korea,PRK,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Kim Kwang-hyok,M,North Korea,PRK,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Koh Chun-son,M,North Korea,PRK,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Koh Chun-son,M,North Korea,PRK,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Li Jong-hyung,M,North Korea,PRK,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Pak Chol,M,North Korea,PRK,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Pak Song-chol,M,North Korea,PRK,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Pak Song-chol,M,North Korea,PRK,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Ri Kum-song,M,North Korea,PRK,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Ryu Man-hyong,M,North Korea,PRK,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Ryu Ok-hyon,M,North Korea,PRK,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True

@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tatyana (-amanzhol),F,Kazakhstan,KAZ,2008,Beijing,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Zhuldyz (turtbaeva-),F,Kazakhstan,KAZ,2012,London,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Zhuldyz (turtbaeva-),F,Kazakhstan,KAZ,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Yekaterina Larionova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",Bronze,Wrestling,WRF,False
-Gyuzel Manyurova,F,Kazakhstan,KAZ,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",Bronze,Wrestling,WRF,True
-Gyuzel Manyurova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",Silver,Wrestling,WRF,True
-Yelena Shalygina,F,Kazakhstan,KAZ,2008,Beijing,Wrestling,"Wrestling Women's Middleweight, Freestyle",Bronze,Wrestling,WRF,True
-Yelena Shalygina,F,Kazakhstan,KAZ,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Olga Smirnova,F,Kazakhstan,KAZ,2008,Beijing,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Elmira Syzdykova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Light-Heavyweight, Freestyle",Bronze,Wrestling,WRF,True
-Olga Zhanibekova,F,Kazakhstan,KAZ,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Tatyana Akhmetova,F,Kazakhstan,KAZ,2020,Tokyo,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,False
-Ivanovna Islamova,F,Kazakhstan,KAZ,2020,Tokyo,Wrestling,Women's Freestyle 50kg,No medal,Women's,WRF,False
-Elmira Syzdykova,F,Kazakhstan,KAZ,2020,Tokyo,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tatyana (-amanzhol),F,Kazakhstan,KAZ,2008,Beijing,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Zhuldyz (turtbaeva-),F,Kazakhstan,KAZ,2012,London,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Zhuldyz (turtbaeva-),F,Kazakhstan,KAZ,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Yekaterina Larionova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",Bronze,Wrestling,WRF,False,True
+Gyuzel Manyurova,F,Kazakhstan,KAZ,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",Bronze,Wrestling,WRF,True,True
+Gyuzel Manyurova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",Silver,Wrestling,WRF,True,False
+Yelena Shalygina,F,Kazakhstan,KAZ,2008,Beijing,Wrestling,"Wrestling Women's Middleweight, Freestyle",Bronze,Wrestling,WRF,True,True
+Yelena Shalygina,F,Kazakhstan,KAZ,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Olga Smirnova,F,Kazakhstan,KAZ,2008,Beijing,Wrestling,"Wrestling Women's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Elmira Syzdykova,F,Kazakhstan,KAZ,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Light-Heavyweight, Freestyle",Bronze,Wrestling,WRF,True,True
+Olga Zhanibekova,F,Kazakhstan,KAZ,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Tatyana Akhmetova,F,Kazakhstan,KAZ,2020,Tokyo,Wrestling,Women's Freestyle 53kg,No medal,Women's,WRF,False,True
+Ivanovna Islamova,F,Kazakhstan,KAZ,2020,Tokyo,Wrestling,Women's Freestyle 50kg,No medal,Women's,WRF,False,True
+Elmira Syzdykova,F,Kazakhstan,KAZ,2020,Tokyo,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,True,False

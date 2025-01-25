@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marcel Kerviler,M,Virginie,FRA,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Jean Gaulayrie,M,Virginie,FRA,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Guy Mouroux,M,Virginie,FRA,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marcel Kerviler,M,Virginie,FRA,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Jean Gaulayrie,M,Virginie,FRA,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Guy Mouroux,M,Virginie,FRA,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

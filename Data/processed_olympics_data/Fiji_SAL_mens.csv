@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-David Ashby,M,Fiji,FIJ,1984,Los Angeles,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-David Ashby,M,Fiji,FIJ,1988,Seoul,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Nesbit Bentley,M,Fiji,FIJ,1956,Melbourne,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Shayne Brodie,M,Fiji,FIJ,1996,Atlanta,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Tiko Crofoot,M,Fiji,FIJ,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Colin Dunlop,M,Fiji,FIJ,1988,Seoul,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Colin Dunlop,M,Fiji,FIJ,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-John Gilmore,M,Fiji,FIJ,1956,Melbourne,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Bruce Hewett,M,Fiji,FIJ,1984,Los Angeles,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Angus Pattie,M,Fiji,FIJ,1996,Atlanta,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-David Philp,M,Fiji,FIJ,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Anthony Jr.,M,Fiji,FIJ,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Anthony Jr.,M,Fiji,FIJ,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,True
-Anthony Jr.,M,Fiji,FIJ,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Anthony Jr.,M,Fiji,FIJ,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Anthony Jr.,M,Fiji,FIJ,2000,Sydney,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Colin Jr.,M,Fiji,FIJ,1988,Seoul,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Anthony Sr.,M,Fiji,FIJ,1984,Los Angeles,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True
-Anthony Sr.,M,Fiji,FIJ,1988,Seoul,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Anthony Sr.,M,Fiji,FIJ,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Geoffrey Taylor,M,Fiji,FIJ,1996,Atlanta,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False
-Viliame Ratulu,M,Fiji,FIJ,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+David Ashby,M,Fiji,FIJ,1984,Los Angeles,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,True
+David Ashby,M,Fiji,FIJ,1988,Seoul,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Nesbit Bentley,M,Fiji,FIJ,1956,Melbourne,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Shayne Brodie,M,Fiji,FIJ,1996,Atlanta,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Tiko Crofoot,M,Fiji,FIJ,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Colin Dunlop,M,Fiji,FIJ,1988,Seoul,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,True
+Colin Dunlop,M,Fiji,FIJ,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+John Gilmore,M,Fiji,FIJ,1956,Melbourne,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Bruce Hewett,M,Fiji,FIJ,1984,Los Angeles,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Angus Pattie,M,Fiji,FIJ,1996,Atlanta,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+David Philp,M,Fiji,FIJ,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Anthony Jr.,M,Fiji,FIJ,1984,Los Angeles,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,True
+Anthony Jr.,M,Fiji,FIJ,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,True,False
+Anthony Jr.,M,Fiji,FIJ,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Anthony Jr.,M,Fiji,FIJ,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Anthony Jr.,M,Fiji,FIJ,2000,Sydney,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Colin Jr.,M,Fiji,FIJ,1988,Seoul,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Anthony Sr.,M,Fiji,FIJ,1984,Los Angeles,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True,True
+Anthony Sr.,M,Fiji,FIJ,1988,Seoul,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Anthony Sr.,M,Fiji,FIJ,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Geoffrey Taylor,M,Fiji,FIJ,1996,Atlanta,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False,True
+Viliame Ratulu,M,Fiji,FIJ,2024,Paris,Sailing,Men's Dinghy,No medal,Men's,SAL,False,True

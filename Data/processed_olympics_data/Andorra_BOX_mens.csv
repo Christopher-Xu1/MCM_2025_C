@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Joan Delneufcourt,M,Andorra,AND,1976,Montreal,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Joan Delneufcourt,M,Andorra,AND,1976,Montreal,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True

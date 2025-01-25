@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Svitlana Kyselova,F,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
-Inna Lohutenkova,F,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
-Katharina Offel,F,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Katharina Offel,F,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Katharina Offel,F,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Katharina Offel,F,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Svitlana Kyselova,F,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True
+Inna Lohutenkova,F,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True
+Katharina Offel,F,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Katharina Offel,F,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Katharina Offel,F,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,False
+Katharina Offel,F,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,False

@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bishindeegiin Urantungalag,F,Mongolia,MGL,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Doljingiin Demberel,F,Mongolia,MGL,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Dorjsembeegiin Erdenchimeg,F,Mongolia,MGL,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Dorjsembeegiin Erdenchimeg,F,Mongolia,MGL,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Gombosrengiin Enkhtaivan,F,Mongolia,MGL,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Jargalyn Otgon,F,Mongolia,MGL,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Jargalyn Otgon,F,Mongolia,MGL,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Natjavyn Dariimaa,F,Mongolia,MGL,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Natjavyn Dariimaa,F,Mongolia,MGL,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Sambuugiin Oyuuntsetseg,F,Mongolia,MGL,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Sambuugiin Oyuuntsetseg,F,Mongolia,MGL,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Shagdaryn Byambasren,F,Mongolia,MGL,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Suvdyn Tuul,F,Mongolia,MGL,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Suvdyn Tuul,F,Mongolia,MGL,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Tsedendorjiin Bazarsren,F,Mongolia,MGL,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Urantungalag Bishindee,F,Mongolia,MGL,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Urantungalag Bishindee,F,Mongolia,MGL,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bishindeegiin Urantungalag,F,Mongolia,MGL,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Doljingiin Demberel,F,Mongolia,MGL,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Dorjsembeegiin Erdenchimeg,F,Mongolia,MGL,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Dorjsembeegiin Erdenchimeg,F,Mongolia,MGL,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Gombosrengiin Enkhtaivan,F,Mongolia,MGL,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Jargalyn Otgon,F,Mongolia,MGL,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Jargalyn Otgon,F,Mongolia,MGL,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Natjavyn Dariimaa,F,Mongolia,MGL,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Natjavyn Dariimaa,F,Mongolia,MGL,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Sambuugiin Oyuuntsetseg,F,Mongolia,MGL,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Sambuugiin Oyuuntsetseg,F,Mongolia,MGL,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Shagdaryn Byambasren,F,Mongolia,MGL,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Suvdyn Tuul,F,Mongolia,MGL,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Suvdyn Tuul,F,Mongolia,MGL,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Tsedendorjiin Bazarsren,F,Mongolia,MGL,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Urantungalag Bishindee,F,Mongolia,MGL,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Urantungalag Bishindee,F,Mongolia,MGL,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True

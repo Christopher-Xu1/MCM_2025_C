@@ -1,43 +1,43 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gonalo Amorim,M,Portugal,POR,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Jos Carvalho,M,Portugal,POR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jos Carvalho,M,Portugal,POR,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Cndido Barbosa,M,Portugal,POR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Cndido Barbosa,M,Portugal,POR,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Andr Cardoso,M,Portugal,POR,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Andr Cardoso,M,Portugal,POR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Manuel Cardoso,M,Portugal,POR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Bruno Castanheira,M,Portugal,POR,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Rui Costa,M,Portugal,POR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Rui Costa,M,Portugal,POR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Tiago Ferreira,M,Portugal,POR,2016,Rio de Janeiro,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Vtor Gamito,M,Portugal,POR,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Vtor Gamito,M,Portugal,POR,2000,Sydney,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Pedro Gonalves,M,Portugal,POR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Nuno Marta,M,Portugal,POR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Ramiro Martins,M,Portugal,POR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Ramiro Martins,M,Portugal,POR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Jos Mendes,M,Portugal,POR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Nlson Oliveira,M,Portugal,POR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Nlson Oliveira,M,Portugal,POR,2012,London,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Nlson Oliveira,M,Portugal,POR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Nlson Oliveira,M,Portugal,POR,2016,Rio de Janeiro,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Jos Pacheco,M,Portugal,POR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Jos Pacheco,M,Portugal,POR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Srgio Paulinho,M,Portugal,POR,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",Silver,Cycling,CTR,True
-Srgio Paulinho,M,Portugal,POR,2004,Athina,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Nuno Ribeiro,M,Portugal,POR,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Nuno Ribeiro,M,Portugal,POR,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Orlando Rodrigues,M,Portugal,POR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Orlando Rodrigues,M,Portugal,POR,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-David Rosa,M,Portugal,POR,2012,London,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-David Rosa,M,Portugal,POR,2016,Rio de Janeiro,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,True
-Mrio Silva,M,Portugal,POR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Mrio Silva,M,Portugal,POR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Francisco Valada,M,Portugal,POR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Francisco Valada,M,Portugal,POR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Iuri Leitao,M,Portugal,POR,2024,Paris,Cycling Track,Men's Madison,Gold,Men's,CTR,True
-Iuri Leitao,M,Portugal,POR,2024,Paris,Cycling Track,Men's Omnium,Silver,Men's,CTR,True
-Ivo Oliveira,M,Portugal,POR,2024,Paris,Cycling Track,Men's Madison,No medal,Men's,CTR,False
-Rui Oliveira,M,Portugal,POR,2024,Paris,Cycling Track,Men's Madison,Gold,Men's,CTR,True
-Rui Oliveira,M,Portugal,POR,2024,Paris,Cycling Track,Men's Omnium,No medal,Men's,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gonalo Amorim,M,Portugal,POR,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Jos Carvalho,M,Portugal,POR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Jos Carvalho,M,Portugal,POR,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Cndido Barbosa,M,Portugal,POR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Cndido Barbosa,M,Portugal,POR,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Andr Cardoso,M,Portugal,POR,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Andr Cardoso,M,Portugal,POR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Manuel Cardoso,M,Portugal,POR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Bruno Castanheira,M,Portugal,POR,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Rui Costa,M,Portugal,POR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Rui Costa,M,Portugal,POR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Tiago Ferreira,M,Portugal,POR,2016,Rio de Janeiro,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Vtor Gamito,M,Portugal,POR,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Vtor Gamito,M,Portugal,POR,2000,Sydney,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,True
+Pedro Gonalves,M,Portugal,POR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Nuno Marta,M,Portugal,POR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Ramiro Martins,M,Portugal,POR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Ramiro Martins,M,Portugal,POR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Jos Mendes,M,Portugal,POR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Nlson Oliveira,M,Portugal,POR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Nlson Oliveira,M,Portugal,POR,2012,London,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,True
+Nlson Oliveira,M,Portugal,POR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Nlson Oliveira,M,Portugal,POR,2016,Rio de Janeiro,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False
+Jos Pacheco,M,Portugal,POR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Jos Pacheco,M,Portugal,POR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Srgio Paulinho,M,Portugal,POR,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",Silver,Cycling,CTR,True,True
+Srgio Paulinho,M,Portugal,POR,2004,Athina,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,True
+Nuno Ribeiro,M,Portugal,POR,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Nuno Ribeiro,M,Portugal,POR,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Orlando Rodrigues,M,Portugal,POR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Orlando Rodrigues,M,Portugal,POR,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+David Rosa,M,Portugal,POR,2012,London,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,True
+David Rosa,M,Portugal,POR,2016,Rio de Janeiro,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,True,False
+Mrio Silva,M,Portugal,POR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Mrio Silva,M,Portugal,POR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Francisco Valada,M,Portugal,POR,1960,Roma,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Francisco Valada,M,Portugal,POR,1960,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Iuri Leitao,M,Portugal,POR,2024,Paris,Cycling Track,Men's Madison,Gold,Men's,CTR,True,True
+Iuri Leitao,M,Portugal,POR,2024,Paris,Cycling Track,Men's Omnium,Silver,Men's,CTR,True,True
+Ivo Oliveira,M,Portugal,POR,2024,Paris,Cycling Track,Men's Madison,No medal,Men's,CTR,False,True
+Rui Oliveira,M,Portugal,POR,2024,Paris,Cycling Track,Men's Madison,Gold,Men's,CTR,True,True
+Rui Oliveira,M,Portugal,POR,2024,Paris,Cycling Track,Men's Omnium,No medal,Men's,CTR,True,True

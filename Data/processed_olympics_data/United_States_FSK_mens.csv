@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Isaac Brokaw,M,United States,USA,1908,London,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,False
-Nathaniel Niles,M,United States,USA,1920,Antwerpen,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,True
-Nathaniel Niles,M,United States,USA,1920,Antwerpen,Figure Skating,Figure Skating Mixed Pairs,No medal,Figure,FSK,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Isaac Brokaw,M,United States,USA,1908,London,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,False,True
+Nathaniel Niles,M,United States,USA,1920,Antwerpen,Figure Skating,Figure Skating Men's Singles,No medal,Figure,FSK,True,True
+Nathaniel Niles,M,United States,USA,1920,Antwerpen,Figure Skating,Figure Skating Mixed Pairs,No medal,Figure,FSK,True,True

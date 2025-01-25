@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Engel Kaize,F,Indonesia,INA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Ni Rahayu,F,Indonesia,INA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Engel Kaize,F,Indonesia,INA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Ni Rahayu,F,Indonesia,INA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True

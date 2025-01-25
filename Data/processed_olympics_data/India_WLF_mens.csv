@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Badathala Adisekhar,M,India,IND,1992,Barcelona,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True
-Badathala Adisekhar,M,India,IND,1996,Atlanta,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True
-Raghavan Chanderasekaran,M,India,IND,1988,Seoul,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True
-Raghavan Chanderasekaran,M,India,IND,1996,Atlanta,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Karunagaran Ekambaram,M,India,IND,1980,Moskva,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Kamineni Rao,M,India,IND,1952,Helsinki,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Kamineni Rao,M,India,IND,1956,Melbourne,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Mohon Ghosh,M,India,IND,1964,Tokyo,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Mohon Ghosh,M,India,IND,1968,Mexico City,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Deven Govindasami,M,India,IND,1984,Los Angeles,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Samsudeen Kabeer,M,India,IND,1996,Atlanta,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Mahendran Kannan,M,India,IND,1984,Los Angeles,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Laxmi Das,M,India,IND,1960,Roma,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Laxmi Das,M,India,IND,1964,Tokyo,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Ravi Katulu,M,India,IND,2012,London,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Sandeep Kumar,M,India,IND,1996,Atlanta,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Manikyalu Venkata,M,India,IND,1984,Los Angeles,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Anil Mondal,M,India,IND,1972,Munich,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True
-Anil Mondal,M,India,IND,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True
-Valli Mookan,M,India,IND,1956,Melbourne,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Tamil Muniswamy,M,India,IND,1980,Moskva,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Thandava Muthu,M,India,IND,2000,Sydney,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Gurunathan Muthuswamy,M,India,IND,1988,Seoul,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Sivaraj Pillai,M,India,IND,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Daniel Mony,M,India,IND,1948,London,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Daniel Mony,M,India,IND,1952,Helsinki,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Satheesha Rai,M,India,IND,1996,Atlanta,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Dandamudi Rajagopal,M,India,IND,1948,London,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-Dandamudi Rajagopal,M,India,IND,1956,Melbourne,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-Ponnuswamy Rangaswamy,M,India,IND,1992,Barcelona,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Kamalakanta Santra,M,India,IND,1984,Los Angeles,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Sathish Sivalingam,M,India,IND,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-U Weik,M,India,IND,1936,Berlin,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Badathala Adisekhar,M,India,IND,1992,Barcelona,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True,True
+Badathala Adisekhar,M,India,IND,1996,Atlanta,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True,False
+Raghavan Chanderasekaran,M,India,IND,1988,Seoul,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True,True
+Raghavan Chanderasekaran,M,India,IND,1996,Atlanta,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,False
+Karunagaran Ekambaram,M,India,IND,1980,Moskva,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Kamineni Rao,M,India,IND,1952,Helsinki,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,True
+Kamineni Rao,M,India,IND,1956,Melbourne,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,False
+Mohon Ghosh,M,India,IND,1964,Tokyo,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,True
+Mohon Ghosh,M,India,IND,1968,Mexico City,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,False
+Deven Govindasami,M,India,IND,1984,Los Angeles,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Samsudeen Kabeer,M,India,IND,1996,Atlanta,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Mahendran Kannan,M,India,IND,1984,Los Angeles,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Laxmi Das,M,India,IND,1960,Roma,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,True
+Laxmi Das,M,India,IND,1964,Tokyo,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,False
+Ravi Katulu,M,India,IND,2012,London,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Sandeep Kumar,M,India,IND,1996,Atlanta,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Manikyalu Venkata,M,India,IND,1984,Los Angeles,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Anil Mondal,M,India,IND,1972,Munich,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True,True
+Anil Mondal,M,India,IND,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True,False
+Valli Mookan,M,India,IND,1956,Melbourne,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Tamil Muniswamy,M,India,IND,1980,Moskva,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Thandava Muthu,M,India,IND,2000,Sydney,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Gurunathan Muthuswamy,M,India,IND,1988,Seoul,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Sivaraj Pillai,M,India,IND,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Daniel Mony,M,India,IND,1948,London,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,True
+Daniel Mony,M,India,IND,1952,Helsinki,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,False
+Satheesha Rai,M,India,IND,1996,Atlanta,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Dandamudi Rajagopal,M,India,IND,1948,London,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,True
+Dandamudi Rajagopal,M,India,IND,1956,Melbourne,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,False
+Ponnuswamy Rangaswamy,M,India,IND,1992,Barcelona,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Kamalakanta Santra,M,India,IND,1984,Los Angeles,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Sathish Sivalingam,M,India,IND,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+U Weik,M,India,IND,1936,Berlin,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True

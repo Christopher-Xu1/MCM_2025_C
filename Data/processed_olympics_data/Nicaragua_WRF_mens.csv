@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Magdiel Mejia,M,Nicaragua,NCA,1992,Barcelona,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Magdiel Mejia,M,Nicaragua,NCA,1992,Barcelona,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True

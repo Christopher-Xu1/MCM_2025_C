@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hussam Rahman,M,Jordan,JOR,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,False
-Irfan Adelbi,M,Jordan,JOR,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-Ali Al-awasa,M,Jordan,JOR,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Ayser Al-hyari,M,Jordan,JOR,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-Mufid Al-lawanseh,M,Jordan,JOR,2000,Sydney,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Mohamed Al-qasem,M,Jordan,JOR,1996,Atlanta,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False
-Mohamed Al-shushe,M,Jordan,JOR,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Khayri Amar,M,Jordan,JOR,1984,Los Angeles,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Mohamed Jbour,M,Jordan,JOR,1980,Moskva,Shooting,"Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Mohamed Jbour,M,Jordan,JOR,1980,Moskva,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Mohamed Jbour,M,Jordan,JOR,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Amera Khalif,M,Jordan,JOR,1980,Moskva,Shooting,"Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Amera Khalif,M,Jordan,JOR,1980,Moskva,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Khaled Naghaway,M,Jordan,JOR,1992,Barcelona,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Mohamed Shahin,M,Jordan,JOR,1980,Moskva,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
-Nader Shalhoub,M,Jordan,JOR,1980,Moskva,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hussam Rahman,M,Jordan,JOR,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,False,True
+Irfan Adelbi,M,Jordan,JOR,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+Ali Al-awasa,M,Jordan,JOR,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Ayser Al-hyari,M,Jordan,JOR,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+Mufid Al-lawanseh,M,Jordan,JOR,2000,Sydney,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Mohamed Al-qasem,M,Jordan,JOR,1996,Atlanta,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False,True
+Mohamed Al-shushe,M,Jordan,JOR,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Khayri Amar,M,Jordan,JOR,1984,Los Angeles,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Mohamed Jbour,M,Jordan,JOR,1980,Moskva,Shooting,"Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Mohamed Jbour,M,Jordan,JOR,1980,Moskva,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Mohamed Jbour,M,Jordan,JOR,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Amera Khalif,M,Jordan,JOR,1980,Moskva,Shooting,"Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Amera Khalif,M,Jordan,JOR,1980,Moskva,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Khaled Naghaway,M,Jordan,JOR,1992,Barcelona,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Mohamed Shahin,M,Jordan,JOR,1980,Moskva,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True
+Nader Shalhoub,M,Jordan,JOR,1980,Moskva,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,False,True

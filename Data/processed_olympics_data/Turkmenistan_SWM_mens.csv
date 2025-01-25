@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Merdan Ataew,M,Turkmenistan,TKM,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Hojamamed Hojamamedov,M,Turkmenistan,TKM,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Serge Krowakow,M,Turkmenistan,TKM,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Andrey Molchanov,M,Turkmenistan,TKM,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Merdan Atayev,M,Turkmenistan,TKM,2020,Tokyo,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,True
-Merdan Atayev,M,Turkmenistan,TKM,2020,Tokyo,Swimming,Men's 200m Backstroke,No medal,Men's,SWM,True
-Musa Zhalayev,M,Turkmenistan,TKM,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Merdan Ataew,M,Turkmenistan,TKM,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Hojamamed Hojamamedov,M,Turkmenistan,TKM,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Serge Krowakow,M,Turkmenistan,TKM,2012,London,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Andrey Molchanov,M,Turkmenistan,TKM,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Merdan Atayev,M,Turkmenistan,TKM,2020,Tokyo,Swimming,Men's 100m Backstroke,No medal,Men's,SWM,True,True
+Merdan Atayev,M,Turkmenistan,TKM,2020,Tokyo,Swimming,Men's 200m Backstroke,No medal,Men's,SWM,True,True
+Musa Zhalayev,M,Turkmenistan,TKM,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True

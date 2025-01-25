@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dora Maldonado,F,Honduras,HON,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Jeny Rodrguez,F,Honduras,HON,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Cergia David,F,Honduras,HON,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dora Maldonado,F,Honduras,HON,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Jeny Rodrguez,F,Honduras,HON,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Cergia David,F,Honduras,HON,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,False,True

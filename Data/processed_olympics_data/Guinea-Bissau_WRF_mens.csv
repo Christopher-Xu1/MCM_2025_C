@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Diamantino Iuna,M,Guinea-Bissau,GBS,2020,Tokyo,Wrestling,Men's Freestyle 57kg,No medal,Men's,WRF,True
-Augusto Midana,M,Guinea-Bissau,GBS,2020,Tokyo,Wrestling,Men's Freestyle 74kg,No medal,Men's,WRF,False
-Bacar Ndum,M,Guinea-Bissau,GBS,2024,Paris,Wrestling,Men's Freestyle 74kg,No medal,Men's,WRF,False
-Diamantino Iuna,M,Guinea-Bissau,GBS,2024,Paris,Wrestling,Men's Freestyle 57kg,No medal,Men's,WRF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Diamantino Iuna,M,Guinea-Bissau,GBS,2020,Tokyo,Wrestling,Men's Freestyle 57kg,No medal,Men's,WRF,True,True
+Augusto Midana,M,Guinea-Bissau,GBS,2020,Tokyo,Wrestling,Men's Freestyle 74kg,No medal,Men's,WRF,False,True
+Bacar Ndum,M,Guinea-Bissau,GBS,2024,Paris,Wrestling,Men's Freestyle 74kg,No medal,Men's,WRF,False,True
+Diamantino Iuna,M,Guinea-Bissau,GBS,2024,Paris,Wrestling,Men's Freestyle 57kg,No medal,Men's,WRF,True,False

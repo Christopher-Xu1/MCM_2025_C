@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Flinkenberg,M,Xantippa,FIN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Carl Jahn,M,Xantippa,FIN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Tor-Kristian Lindh,M,Xantippa,FIN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Flinkenberg,M,Xantippa,FIN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Carl Jahn,M,Xantippa,FIN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Tor-Kristian Lindh,M,Xantippa,FIN,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

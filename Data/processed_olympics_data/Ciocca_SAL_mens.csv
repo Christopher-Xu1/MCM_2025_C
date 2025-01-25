@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Antonio Cosentino,M,Ciocca,ITA,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Andrea Ferrari,M,Ciocca,ITA,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Enrico Poggi,M,Ciocca,ITA,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Pietro Reggio,M,Ciocca,ITA,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Giusto Spigno,M,Ciocca,ITA,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Antonio Cosentino,M,Ciocca,ITA,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Andrea Ferrari,M,Ciocca,ITA,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Enrico Poggi,M,Ciocca,ITA,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Pietro Reggio,M,Ciocca,ITA,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Giusto Spigno,M,Ciocca,ITA,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

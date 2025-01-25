@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sebastian Munoz,M,Colombia,COL,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Camilo Villegas,M,Colombia,COL,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Nico Echavarria,M,Colombia,COL,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sebastian Munoz,M,Colombia,COL,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Camilo Villegas,M,Colombia,COL,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Nico Echavarria,M,Colombia,COL,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True

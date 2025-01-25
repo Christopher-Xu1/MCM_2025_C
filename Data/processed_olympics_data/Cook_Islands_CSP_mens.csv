@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kohl Tamarua-horton,M,Cook Islands,COK,2020,Tokyo,Canoe Sprint,Men's Kayak Single 200m,No medal,Men's,CSP,True
-Kohl Tamarua-horton,M,Cook Islands,COK,2020,Tokyo,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kohl Tamarua-horton,M,Cook Islands,COK,2020,Tokyo,Canoe Sprint,Men's Kayak Single 200m,No medal,Men's,CSP,True,True
+Kohl Tamarua-horton,M,Cook Islands,COK,2020,Tokyo,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True,True

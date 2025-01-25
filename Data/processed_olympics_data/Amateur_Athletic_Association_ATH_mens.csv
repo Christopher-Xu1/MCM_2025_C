@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Charles Bennett,M,Amateur Athletic Association,GBR,1900,Paris,Athletics,"Athletics Men's 5,000 metres, Team",Gold,Athletics,ATH,False
-John Rimmer,M,Amateur Athletic Association,GBR,1900,Paris,Athletics,"Athletics Men's 5,000 metres, Team",Gold,Athletics,ATH,False
-Sidney Robinson,M,Amateur Athletic Association,GBR,1900,Paris,Athletics,"Athletics Men's 5,000 metres, Team",Gold,Athletics,ATH,False
-Stanley Rowley,M,Amateur Athletic Association,AUS,1900,Paris,Athletics,"Athletics Men's 5,000 metres, Team",Gold,Athletics,ATH,False
-Alfred Tysoe,M,Amateur Athletic Association,GBR,1900,Paris,Athletics,"Athletics Men's 5,000 metres, Team",Gold,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Charles Bennett,M,Amateur Athletic Association,GBR,1900,Paris,Athletics,"Athletics Men's 5,000 metres, Team",Gold,Athletics,ATH,False,True
+John Rimmer,M,Amateur Athletic Association,GBR,1900,Paris,Athletics,"Athletics Men's 5,000 metres, Team",Gold,Athletics,ATH,False,True
+Sidney Robinson,M,Amateur Athletic Association,GBR,1900,Paris,Athletics,"Athletics Men's 5,000 metres, Team",Gold,Athletics,ATH,False,True
+Stanley Rowley,M,Amateur Athletic Association,AUS,1900,Paris,Athletics,"Athletics Men's 5,000 metres, Team",Gold,Athletics,ATH,False,True
+Alfred Tysoe,M,Amateur Athletic Association,GBR,1900,Paris,Athletics,"Athletics Men's 5,000 metres, Team",Gold,Athletics,ATH,False,True

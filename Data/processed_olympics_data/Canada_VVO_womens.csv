@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Regyna Armonas,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Elizabeth Baxter,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Rachel Beliveau,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Carole Bishop,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Barbara Broen-ouelette,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Kerri Buchberger,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Jose Corbeil,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Caroline Ct,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Barbara Dalton,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Mary Dempster,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Karen Fraser,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Joyce (senyk-),F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Kathleen Girvan,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Wanda Guenette,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Deborah Heeps,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Monica Hitchcock,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Anne Ireland,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Janis Kelly,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Jose Lebel,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Constance Lebrun,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Claire (-o'reilly),F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Lise Martin,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Tracy Mills,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Lori Mundt,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Patricia Olson,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Diane (-cooper),F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Diane (-cooper),F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Erminia Russo,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Michelle (-koop),F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Suzanne Smith,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Brigitte Soucy,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Christine Stark,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Kathryn Tough,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Audrey Vandervelden,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Audrey Vandervelden,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Katrina Sass,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Regyna Armonas,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Elizabeth Baxter,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Rachel Beliveau,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Carole Bishop,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Barbara Broen-ouelette,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Kerri Buchberger,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Jose Corbeil,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Caroline Ct,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Barbara Dalton,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Mary Dempster,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Karen Fraser,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Joyce (senyk-),F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Kathleen Girvan,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Wanda Guenette,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Deborah Heeps,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Monica Hitchcock,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Anne Ireland,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Janis Kelly,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Jose Lebel,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Constance Lebrun,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Claire (-o'reilly),F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Lise Martin,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Tracy Mills,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Lori Mundt,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Patricia Olson,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Diane (-cooper),F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Diane (-cooper),F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,False
+Erminia Russo,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Michelle (-koop),F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Suzanne Smith,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Brigitte Soucy,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Christine Stark,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Kathryn Tough,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Audrey Vandervelden,F,Canada,CAN,1976,Montreal,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Audrey Vandervelden,F,Canada,CAN,1984,Los Angeles,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,False
+Katrina Sass,F,Canada,CAN,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True

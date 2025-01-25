@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alex Joachim,M,Stvincent&Grenadines,VIN,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alex Joachim,M,Stvincent&Grenadines,VIN,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,False,True

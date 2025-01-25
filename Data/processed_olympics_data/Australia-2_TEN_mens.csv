@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Paul Hanley,M,Australia-2,AUS,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Jordan Kerr,M,Australia-2,AUS,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Paul Hanley,M,Australia-2,AUS,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Jordan Kerr,M,Australia-2,AUS,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

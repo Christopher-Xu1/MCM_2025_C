@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nouchka Fontijn,F,Netherlands,NED,2016,Rio de Janeiro,Boxing,Boxing Women's Middleweight,Silver,Boxing,BOX,True
-Nouchka Fontijn,F,Netherlands,NED,2020,Tokyo,Boxing,Women's Middle (69-75kg),Bronze,Women's,BOX,True
-Chelsey Heijnen,F,Netherlands,NED,2024,Paris,Boxing,Women's 60kg,No medal,Women's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nouchka Fontijn,F,Netherlands,NED,2016,Rio de Janeiro,Boxing,Boxing Women's Middleweight,Silver,Boxing,BOX,True,True
+Nouchka Fontijn,F,Netherlands,NED,2020,Tokyo,Boxing,Women's Middle (69-75kg),Bronze,Women's,BOX,True,False
+Chelsey Heijnen,F,Netherlands,NED,2024,Paris,Boxing,Women's 60kg,No medal,Women's,BOX,False,True

@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Firouz Mohammadian,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Kamran Firouzpour,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Abdul Majdpour,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Darioush Mohammadi,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Hussain Nasseri,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Ahmed Paidayesh,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Manouchehr Parchami-araghi,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Haydar Shonjani,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Bahram Tavakoli,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Jahangir Tavakoli,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Ahmed Yaghoti,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Firouz Mohammadian,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Kamran Firouzpour,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Abdul Majdpour,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Darioush Mohammadi,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Hussain Nasseri,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Ahmed Paidayesh,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Manouchehr Parchami-araghi,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Haydar Shonjani,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Bahram Tavakoli,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Jahangir Tavakoli,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Ahmed Yaghoti,M,Iran,IRI,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True

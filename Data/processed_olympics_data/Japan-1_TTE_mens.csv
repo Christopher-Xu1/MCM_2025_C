@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Shu Arai,M,Japan-1,JPN,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Koji Matsushita,M,Japan-1,JPN,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Koji Matsushita,M,Japan-1,JPN,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Yoshihito Miyazaki,M,Japan-1,JPN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Seiji Ono,M,Japan-1,JPN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Hiroshi Shibutani,M,Japan-1,JPN,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Hiroshi Shibutani,M,Japan-1,JPN,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Toshio Tasaki,M,Japan-1,JPN,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Ryo Yuzawa,M,Japan-1,JPN,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Ryo Yuzawa,M,Japan-1,JPN,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Shu Arai,M,Japan-1,JPN,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Koji Matsushita,M,Japan-1,JPN,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Koji Matsushita,M,Japan-1,JPN,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Yoshihito Miyazaki,M,Japan-1,JPN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Seiji Ono,M,Japan-1,JPN,1988,Seoul,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Hiroshi Shibutani,M,Japan-1,JPN,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Hiroshi Shibutani,M,Japan-1,JPN,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Toshio Tasaki,M,Japan-1,JPN,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Ryo Yuzawa,M,Japan-1,JPN,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Ryo Yuzawa,M,Japan-1,JPN,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False

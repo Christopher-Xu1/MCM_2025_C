@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vctor Alayza,M,Peru,PER,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Renzo Garca,M,Peru,PER,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Juan Manzanares,M,Peru,PER,1968,Mexico City,Rowing,Rowing Men's Coxed Pairs,No medal,Rowing,ROW,False
-Estuardo Marrou,M,Peru,PER,1960,Roma,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False
-Hctor Pastor,M,Peru,PER,1968,Mexico City,Rowing,Rowing Men's Coxed Pairs,No medal,Rowing,ROW,False
-Alfredo Martino,M,Peru,PER,1984,Los Angeles,Rowing,Rowing Men's Coxed Pairs,No medal,Rowing,ROW,False
-Lauro Cavalleri,M,Peru,PER,1968,Mexico City,Rowing,Rowing Men's Coxed Pairs,No medal,Rowing,ROW,False
-Vctor Arnao-fort,M,Peru,PER,1960,Roma,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False
-Gustavo Ramrez,M,Peru,PER,2004,Athina,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False
-Arturo Souquon,M,Peru,PER,1984,Los Angeles,Rowing,Rowing Men's Coxed Pairs,No medal,Rowing,ROW,False
-Francisco Valle,M,Peru,PER,1984,Los Angeles,Rowing,Rowing Men's Coxed Pairs,No medal,Rowing,ROW,False
-Alvaro Torres,M,Peru,PER,2020,Tokyo,Rowing,Men's Single Sculls,No medal,Men's,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vctor Alayza,M,Peru,PER,2012,London,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Renzo Garca,M,Peru,PER,2016,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Juan Manzanares,M,Peru,PER,1968,Mexico City,Rowing,Rowing Men's Coxed Pairs,No medal,Rowing,ROW,False,True
+Estuardo Marrou,M,Peru,PER,1960,Roma,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False,True
+Hctor Pastor,M,Peru,PER,1968,Mexico City,Rowing,Rowing Men's Coxed Pairs,No medal,Rowing,ROW,False,True
+Alfredo Martino,M,Peru,PER,1984,Los Angeles,Rowing,Rowing Men's Coxed Pairs,No medal,Rowing,ROW,False,True
+Lauro Cavalleri,M,Peru,PER,1968,Mexico City,Rowing,Rowing Men's Coxed Pairs,No medal,Rowing,ROW,False,True
+Vctor Arnao-fort,M,Peru,PER,1960,Roma,Rowing,Rowing Men's Coxless Pairs,No medal,Rowing,ROW,False,True
+Gustavo Ramrez,M,Peru,PER,2004,Athina,Rowing,Rowing Men's Single Sculls,No medal,Rowing,ROW,False,True
+Arturo Souquon,M,Peru,PER,1984,Los Angeles,Rowing,Rowing Men's Coxed Pairs,No medal,Rowing,ROW,False,True
+Francisco Valle,M,Peru,PER,1984,Los Angeles,Rowing,Rowing Men's Coxed Pairs,No medal,Rowing,ROW,False,True
+Alvaro Torres,M,Peru,PER,2020,Tokyo,Rowing,Men's Single Sculls,No medal,Men's,ROW,False,True

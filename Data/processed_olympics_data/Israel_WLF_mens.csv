@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-David Berger,M,Israel,ISR,1972,Munich,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Gazi Cohen,M,Israel,ISR,1960,Roma,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Meir Daloya,M,Israel,ISR,1984,Los Angeles,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Andrei Denisov,M,Israel,ISR,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False
-Ze'ev Friedman,M,Israel,ISR,1972,Munich,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Reuven Hadinatov,M,Israel,ISR,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Vacislav Ivanovsky,M,Israel,ISR,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False
-Edward Maron,M,Israel,ISR,1960,Roma,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Igor Olshanetskyi,M,Israel,ISR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Yossef Romano,M,Israel,ISR,1972,Munich,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Oleg Sadikov,M,Israel,ISR,1992,Barcelona,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Eduward Weitz,M,Israel,ISR,1976,Montreal,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-David Litvinov,M,Israel,ISR,2020,Tokyo,Weightlifting,Men's +109kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+David Berger,M,Israel,ISR,1972,Munich,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Gazi Cohen,M,Israel,ISR,1960,Roma,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Meir Daloya,M,Israel,ISR,1984,Los Angeles,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Andrei Denisov,M,Israel,ISR,1992,Barcelona,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False,True
+Ze'ev Friedman,M,Israel,ISR,1972,Munich,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Reuven Hadinatov,M,Israel,ISR,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Vacislav Ivanovsky,M,Israel,ISR,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False,True
+Edward Maron,M,Israel,ISR,1960,Roma,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Igor Olshanetskyi,M,Israel,ISR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Yossef Romano,M,Israel,ISR,1972,Munich,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Oleg Sadikov,M,Israel,ISR,1992,Barcelona,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Eduward Weitz,M,Israel,ISR,1976,Montreal,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+David Litvinov,M,Israel,ISR,2020,Tokyo,Weightlifting,Men's +109kg,No medal,Men's,WLF,False,True

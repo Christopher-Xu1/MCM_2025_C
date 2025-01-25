@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bojan Toki,M,Slovenia,SLO,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Bojan Toki,M,Slovenia,SLO,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Bojan Toki,M,Slovenia,SLO,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Darko Jorgic,M,Slovenia,SLO,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Darko Jorgic,M,Slovenia,SLO,2020,Tokyo,Table Tennis,Men's Team,No medal,Men's,TTE,True
-Deni Kozul,M,Slovenia,SLO,2020,Tokyo,Table Tennis,Men's Team,No medal,Men's,TTE,True
-Bojan Tokic,M,Slovenia,SLO,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Bojan Tokic,M,Slovenia,SLO,2020,Tokyo,Table Tennis,Men's Team,No medal,Men's,TTE,True
-Darko Jorgic,M,Slovenia,SLO,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Darko Jorgic,M,Slovenia,SLO,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True
-Deni Kozul,M,Slovenia,SLO,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Deni Kozul,M,Slovenia,SLO,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True
-Peter Hribar,M,Slovenia,SLO,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bojan Toki,M,Slovenia,SLO,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Bojan Toki,M,Slovenia,SLO,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Bojan Toki,M,Slovenia,SLO,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Darko Jorgic,M,Slovenia,SLO,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True,True
+Darko Jorgic,M,Slovenia,SLO,2020,Tokyo,Table Tennis,Men's Team,No medal,Men's,TTE,True,True
+Deni Kozul,M,Slovenia,SLO,2020,Tokyo,Table Tennis,Men's Team,No medal,Men's,TTE,True,True
+Bojan Tokic,M,Slovenia,SLO,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True,True
+Bojan Tokic,M,Slovenia,SLO,2020,Tokyo,Table Tennis,Men's Team,No medal,Men's,TTE,True,True
+Darko Jorgic,M,Slovenia,SLO,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True,False
+Darko Jorgic,M,Slovenia,SLO,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True,False
+Deni Kozul,M,Slovenia,SLO,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True,False
+Deni Kozul,M,Slovenia,SLO,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True,False
+Peter Hribar,M,Slovenia,SLO,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,False,True

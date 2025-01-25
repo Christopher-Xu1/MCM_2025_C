@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Stephan Beeharry,M,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Stephan Beeharry,M,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Stephan Beeharry,M,Mauritius,MRI,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-douard Clarisse,M,Mauritius,MRI,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-douard Clarisse,M,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-douard Clarisse,M,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-douard Clarisse,M,Mauritius,MRI,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Denis Constantin,M,Mauritius,MRI,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Denis Constantin,M,Mauritius,MRI,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Julien Paul,M,Mauritius,MRI,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True
-Julien Paul,M,Mauritius,MRI,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Stephan Beeharry,M,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Stephan Beeharry,M,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Stephan Beeharry,M,Mauritius,MRI,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+douard Clarisse,M,Mauritius,MRI,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+douard Clarisse,M,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+douard Clarisse,M,Mauritius,MRI,1996,Atlanta,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+douard Clarisse,M,Mauritius,MRI,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Denis Constantin,M,Mauritius,MRI,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Denis Constantin,M,Mauritius,MRI,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Julien Paul,M,Mauritius,MRI,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True,True
+Julien Paul,M,Mauritius,MRI,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True,False

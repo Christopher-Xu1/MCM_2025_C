@@ -1,46 +1,46 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Antoine Abang,M,Cameroon,CMR,1968,Mexico City,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Yhyacinthe Abdon,M,Cameroon,CMR,2012,London,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Christian Adjoufack,M,Cameroon,CMR,2012,London,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Joseph Ahanda,M,Cameroon,CMR,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Serge Ambomo,M,Cameroon,CMR,2012,London,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Ernest Mboa,M,Cameroon,CMR,1996,Atlanta,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Jean Bassomben,M,Cameroon,CMR,1972,Munich,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Joseph Bessala,M,Cameroon,CMR,1968,Mexico City,Boxing,Boxing Men's Welterweight,Silver,Boxing,BOX,False
-Sakio Mbah,M,Cameroon,CMR,2000,Sydney,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Inoua Bodia,M,Cameroon,CMR,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Jean-Paul Bonatou,M,Cameroon,CMR,1988,Seoul,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Ernest Dong,M,Cameroon,CMR,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Emmanuel Eloundou,M,Cameroon,CMR,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Thomas Essomba,M,Cameroon,CMR,2008,Beijing,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True
-Thomas Essomba,M,Cameroon,CMR,2012,London,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True
-Simplice Fotsala,M,Cameroon,CMR,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Paul Fogang,M,Cameroon,CMR,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Paul Fogang,M,Cameroon,CMR,1984,Los Angeles,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Paul Fogang,M,Cameroon,CMR,1988,Seoul,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Elvis Konamegui,M,Cameroon,CMR,1996,Atlanta,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Franois Mayo,M,Cameroon,CMR,1988,Seoul,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Jean-Pierre Mbereke-baban,M,Cameroon,CMR,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True
-Jean-Pierre Mbereke-baban,M,Cameroon,CMR,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Paul Mbongo,M,Cameroon,CMR,1996,Atlanta,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Pierre Mella,M,Cameroon,CMR,1984,Los Angeles,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Blaise Mendouo,M,Cameroon,CMR,2012,London,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False
-Joseph Mulema,M,Cameroon,CMR,2008,Beijing,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Jean-Paul Nanga-ntsah,M,Cameroon,CMR,1980,Moskva,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Jean-Paul Nanga-ntsah,M,Cameroon,CMR,1984,Los Angeles,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Hassan N'jikam,M,Cameroon,CMR,2004,Athina,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Hassan N'jikam,M,Cameroon,CMR,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Martin Ebanga,M,Cameroon,CMR,1984,Los Angeles,Boxing,Boxing Men's Lightweight,Bronze,Boxing,BOX,True
-Martin Ebanga,M,Cameroon,CMR,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Georges-Claude Ngangue,M,Cameroon,CMR,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Herman Ngoudjo,M,Cameroon,CMR,2000,Sydney,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-David Oleme,M,Cameroon,CMR,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Dieudonn Ntsengue,M,Cameroon,CMR,2016,Rio de Janeiro,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Mahaman Smaila,M,Cameroon,CMR,2008,Beijing,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Mahaman Smaila,M,Cameroon,CMR,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Armand Takam,M,Cameroon,CMR,2004,Athina,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False
-Bertrand Tietsia,M,Cameroon,CMR,1996,Atlanta,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Pierre Yana,M,Cameroon,CMR,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Albert Mengue,M,Cameroon,CMR,2020,Tokyo,Boxing,Men's Welter (63-69kg),No medal,Men's,BOX,False
-Wilfred Seyi,M,Cameroon,CMR,2020,Tokyo,Boxing,Men's Middle (69-75kg),No medal,Men's,BOX,False
-Maxime Yegnong,M,Cameroon,CMR,2020,Tokyo,Boxing,Men's Super Heavy (+91kg),No medal,Men's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Antoine Abang,M,Cameroon,CMR,1968,Mexico City,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Yhyacinthe Abdon,M,Cameroon,CMR,2012,London,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Christian Adjoufack,M,Cameroon,CMR,2012,London,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Joseph Ahanda,M,Cameroon,CMR,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Serge Ambomo,M,Cameroon,CMR,2012,London,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Ernest Mboa,M,Cameroon,CMR,1996,Atlanta,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Jean Bassomben,M,Cameroon,CMR,1972,Munich,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Joseph Bessala,M,Cameroon,CMR,1968,Mexico City,Boxing,Boxing Men's Welterweight,Silver,Boxing,BOX,False,True
+Sakio Mbah,M,Cameroon,CMR,2000,Sydney,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Inoua Bodia,M,Cameroon,CMR,1968,Mexico City,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Jean-Paul Bonatou,M,Cameroon,CMR,1988,Seoul,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Ernest Dong,M,Cameroon,CMR,1968,Mexico City,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Emmanuel Eloundou,M,Cameroon,CMR,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Thomas Essomba,M,Cameroon,CMR,2008,Beijing,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True,True
+Thomas Essomba,M,Cameroon,CMR,2012,London,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,True,False
+Simplice Fotsala,M,Cameroon,CMR,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Paul Fogang,M,Cameroon,CMR,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,True
+Paul Fogang,M,Cameroon,CMR,1984,Los Angeles,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,False
+Paul Fogang,M,Cameroon,CMR,1988,Seoul,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,False
+Elvis Konamegui,M,Cameroon,CMR,1996,Atlanta,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Franois Mayo,M,Cameroon,CMR,1988,Seoul,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Jean-Pierre Mbereke-baban,M,Cameroon,CMR,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True,True
+Jean-Pierre Mbereke-baban,M,Cameroon,CMR,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,False
+Paul Mbongo,M,Cameroon,CMR,1996,Atlanta,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Pierre Mella,M,Cameroon,CMR,1984,Los Angeles,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Blaise Mendouo,M,Cameroon,CMR,2012,London,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False,True
+Joseph Mulema,M,Cameroon,CMR,2008,Beijing,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Jean-Paul Nanga-ntsah,M,Cameroon,CMR,1980,Moskva,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,True
+Jean-Paul Nanga-ntsah,M,Cameroon,CMR,1984,Los Angeles,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,False
+Hassan N'jikam,M,Cameroon,CMR,2004,Athina,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,True
+Hassan N'jikam,M,Cameroon,CMR,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,False
+Martin Ebanga,M,Cameroon,CMR,1984,Los Angeles,Boxing,Boxing Men's Lightweight,Bronze,Boxing,BOX,True,True
+Martin Ebanga,M,Cameroon,CMR,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,False
+Georges-Claude Ngangue,M,Cameroon,CMR,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Herman Ngoudjo,M,Cameroon,CMR,2000,Sydney,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+David Oleme,M,Cameroon,CMR,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Dieudonn Ntsengue,M,Cameroon,CMR,2016,Rio de Janeiro,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Mahaman Smaila,M,Cameroon,CMR,2008,Beijing,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,True
+Mahaman Smaila,M,Cameroon,CMR,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,False
+Armand Takam,M,Cameroon,CMR,2004,Athina,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False,True
+Bertrand Tietsia,M,Cameroon,CMR,1996,Atlanta,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Pierre Yana,M,Cameroon,CMR,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Albert Mengue,M,Cameroon,CMR,2020,Tokyo,Boxing,Men's Welter (63-69kg),No medal,Men's,BOX,False,True
+Wilfred Seyi,M,Cameroon,CMR,2020,Tokyo,Boxing,Men's Middle (69-75kg),No medal,Men's,BOX,False,True
+Maxime Yegnong,M,Cameroon,CMR,2020,Tokyo,Boxing,Men's Super Heavy (+91kg),No medal,Men's,BOX,False,True

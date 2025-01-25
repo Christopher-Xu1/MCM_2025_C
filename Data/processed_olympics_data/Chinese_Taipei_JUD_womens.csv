@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chen Chiu-ping,F,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Hsu Yuan-lin,F,Chinese Taipei,TPE,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Huang Ai-chun,F,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Huang Yu-shin,F,Chinese Taipei,TPE,1992,Barcelona,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Lee Hsiao-hung,F,Chinese Taipei,TPE,2000,Sydney,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Lee Hsiao-hung,F,Chinese Taipei,TPE,2004,Athina,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True
-Lien Chen-ling,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Liu Shu-yun,F,Chinese Taipei,TPE,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Shih Pei-chun,F,Chinese Taipei,TPE,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Shih Pei-chun,F,Chinese Taipei,TPE,2008,Beijing,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Tseng Hsiao-fen,F,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Wang Chin-fang,F,Chinese Taipei,TPE,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Wu Mei-ling,F,Chinese Taipei,TPE,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Wu Mei-ling,F,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Yeh Wen-hua,F,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Yu Shu-chen,F,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
-Chen-ling Lien,F,Chinese Taipei,TPE,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,True
-Chen-hao Lin,F,Chinese Taipei,TPE,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,True
-Chen-ling Lien,F,Chinese Taipei,TPE,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,True
-Chen-hao Lin,F,Chinese Taipei,TPE,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chen Chiu-ping,F,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Hsu Yuan-lin,F,Chinese Taipei,TPE,2000,Sydney,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Huang Ai-chun,F,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Huang Yu-shin,F,Chinese Taipei,TPE,1992,Barcelona,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Lee Hsiao-hung,F,Chinese Taipei,TPE,2000,Sydney,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,True
+Lee Hsiao-hung,F,Chinese Taipei,TPE,2004,Athina,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,True,False
+Lien Chen-ling,F,Chinese Taipei,TPE,2016,Rio de Janeiro,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Liu Shu-yun,F,Chinese Taipei,TPE,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Shih Pei-chun,F,Chinese Taipei,TPE,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,True
+Shih Pei-chun,F,Chinese Taipei,TPE,2008,Beijing,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,False
+Tseng Hsiao-fen,F,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Wang Chin-fang,F,Chinese Taipei,TPE,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Wu Mei-ling,F,Chinese Taipei,TPE,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,True
+Wu Mei-ling,F,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,False
+Yeh Wen-hua,F,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Yu Shu-chen,F,Chinese Taipei,TPE,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False,True
+Chen-ling Lien,F,Chinese Taipei,TPE,2020,Tokyo,Judo,Women -57 kg,No medal,Women,JUD,True,True
+Chen-hao Lin,F,Chinese Taipei,TPE,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,True,True
+Chen-ling Lien,F,Chinese Taipei,TPE,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,True,False
+Chen-hao Lin,F,Chinese Taipei,TPE,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,True,False

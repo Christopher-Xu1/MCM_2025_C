@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Christopher Cosser,M,South Africa,RSA,2020,Tokyo,Sport Climbing,Men's Combined,No medal,Men's,CLB,False
-Joshua Bruyns,M,South Africa,RSA,2024,Paris,Sport Climbing,Men's Speed,No medal,Men's,CLB,False
-Mel Janse,M,South Africa,RSA,2024,Paris,Sport Climbing,Men's Boulder & Lead,No medal,Men's,CLB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Christopher Cosser,M,South Africa,RSA,2020,Tokyo,Sport Climbing,Men's Combined,No medal,Men's,CLB,False,True
+Joshua Bruyns,M,South Africa,RSA,2024,Paris,Sport Climbing,Men's Speed,No medal,Men's,CLB,False,True
+Mel Janse,M,South Africa,RSA,2024,Paris,Sport Climbing,Men's Boulder & Lead,No medal,Men's,CLB,False,True

@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Helga Hellebrand-wiedermann,F,Austria,AUT,1956,Melbourne,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Helga Hellebrand-wiedermann,F,Austria,AUT,1960,Roma,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Corinna Kuhnle,F,Austria,AUT,2012,London,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Corinna Kuhnle,F,Austria,AUT,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Ana Lehaci,F,Austria,AUT,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False
-Gertrude (-fischer),F,Austria,AUT,1952,Helsinki,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Silver,Canoeing,CSL,False
-Violetta Oblinger-peters,F,Austria,AUT,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Violetta Oblinger-peters,F,Austria,AUT,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Violetta Oblinger-peters,F,Austria,AUT,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, Slalom",Bronze,Canoeing,CSL,True
-Ursula Profanter,F,Austria,AUT,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Ursula Profanter,F,Austria,AUT,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Ursula Profanter,F,Austria,AUT,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Barbara (-kovacevic),F,Austria,AUT,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False
-Lisa (schwarz-),F,Austria,AUT,1960,Roma,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False
-Yvonne Schuring,F,Austria,AUT,2008,Beijing,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Yvonne Schuring,F,Austria,AUT,2012,London,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Yvonne Schuring,F,Austria,AUT,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Viktoria Schwarz,F,Austria,AUT,2008,Beijing,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Viktoria Schwarz,F,Austria,AUT,2012,London,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True
-Viktoria Schwarz,F,Austria,AUT,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True
-Friederike Schwingl,F,Austria,AUT,1948,London,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Bronze,Canoeing,CSL,False
-Hanneliese Spitz,F,Austria,AUT,1964,Tokyo,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False
-Nadine Weratschnig,F,Austria,AUT,2020,Tokyo,Canoe Slalom,Women's Canoe,No medal,Women's,CSL,False
-Viktoria Wolffhardt,F,Austria,AUT,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,True
-Corinna Kuhnle,F,Austria,AUT,2024,Paris,Canoe Slalom,Women's Kayak Single,No medal,Women's,CSL,True
-Corinna Kuhnle,F,Austria,AUT,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True
-Viktoria Wolffhardt,F,Austria,AUT,2024,Paris,Canoe Slalom,Women's Canoe Single,No medal,Women's,CSL,True
-Viktoria Wolffhardt,F,Austria,AUT,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Helga Hellebrand-wiedermann,F,Austria,AUT,1956,Melbourne,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Helga Hellebrand-wiedermann,F,Austria,AUT,1960,Roma,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Corinna Kuhnle,F,Austria,AUT,2012,London,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Corinna Kuhnle,F,Austria,AUT,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False
+Ana Lehaci,F,Austria,AUT,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False,True
+Gertrude (-fischer),F,Austria,AUT,1952,Helsinki,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Silver,Canoeing,CSL,False,True
+Violetta Oblinger-peters,F,Austria,AUT,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Violetta Oblinger-peters,F,Austria,AUT,2004,Athina,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False
+Violetta Oblinger-peters,F,Austria,AUT,2008,Beijing,Canoeing,"Canoeing Women's Kayak Singles, Slalom",Bronze,Canoeing,CSL,True,False
+Ursula Profanter,F,Austria,AUT,1992,Barcelona,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Ursula Profanter,F,Austria,AUT,1996,Atlanta,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Ursula Profanter,F,Austria,AUT,2000,Sydney,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,False
+Barbara (-kovacevic),F,Austria,AUT,1972,Munich,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,False,True
+Lisa (schwarz-),F,Austria,AUT,1960,Roma,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,False,True
+Yvonne Schuring,F,Austria,AUT,2008,Beijing,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Yvonne Schuring,F,Austria,AUT,2012,London,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Yvonne Schuring,F,Austria,AUT,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Viktoria Schwarz,F,Austria,AUT,2008,Beijing,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,True
+Viktoria Schwarz,F,Austria,AUT,2012,London,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",No medal,Canoeing,CSL,True,False
+Viktoria Schwarz,F,Austria,AUT,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True,False
+Friederike Schwingl,F,Austria,AUT,1948,London,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",Bronze,Canoeing,CSL,False,True
+Hanneliese Spitz,F,Austria,AUT,1964,Tokyo,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",No medal,Canoeing,CSL,False,True
+Nadine Weratschnig,F,Austria,AUT,2020,Tokyo,Canoe Slalom,Women's Canoe,No medal,Women's,CSL,False,True
+Viktoria Wolffhardt,F,Austria,AUT,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,True,True
+Corinna Kuhnle,F,Austria,AUT,2024,Paris,Canoe Slalom,Women's Kayak Single,No medal,Women's,CSL,True,False
+Corinna Kuhnle,F,Austria,AUT,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True,False
+Viktoria Wolffhardt,F,Austria,AUT,2024,Paris,Canoe Slalom,Women's Canoe Single,No medal,Women's,CSL,True,False
+Viktoria Wolffhardt,F,Austria,AUT,2024,Paris,Canoe Slalom,Women's Kayak Cross,No medal,Women's,CSL,True,False

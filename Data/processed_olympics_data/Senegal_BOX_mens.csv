@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mamadou Drame,M,Senegal,SEN,1976,Montreal,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Abdou Fall,M,Senegal,SEN,1972,Munich,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-El Fall,M,Senegal,SEN,2000,Sydney,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Oumar Fall,M,Senegal,SEN,1972,Munich,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Abdou Faye,M,Senegal,SEN,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Pierre N'diaye,M,Senegal,SEN,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mamadou Drame,M,Senegal,SEN,1976,Montreal,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Abdou Fall,M,Senegal,SEN,1972,Munich,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+El Fall,M,Senegal,SEN,2000,Sydney,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Oumar Fall,M,Senegal,SEN,1972,Munich,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Abdou Faye,M,Senegal,SEN,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Pierre N'diaye,M,Senegal,SEN,1972,Munich,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True

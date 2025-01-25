@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Antoine Chidiac,M,Lebanon,LIB,1972,Munich,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Charbel Chrabie,M,Lebanon,LIB,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Jihad El-achkar,M,Lebanon,LIB,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Assaf El-murr,M,Lebanon,LIB,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Nacif Elias,M,Lebanon,LIB,2016,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Michel Estephan,M,Lebanon,LIB,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Wadih Juda,M,Lebanon,LIB,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Rudy Hachache,M,Lebanon,LIB,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Haji Kahy,M,Lebanon,LIB,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Sihad Keyrouz,M,Lebanon,LIB,1980,Moskva,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Ronald Khawam,M,Lebanon,LIB,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Ronald Khawam,M,Lebanon,LIB,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Roukoz Roukoz,M,Lebanon,LIB,1980,Moskva,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-David Saad,M,Lebanon,LIB,1976,Montreal,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Kamil Sabali,M,Lebanon,LIB,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Fadi Saikali,M,Lebanon,LIB,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Fadi Saikali,M,Lebanon,LIB,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Nacif Elias,M,Lebanon,LBN,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,True
-Caramnob Sagaipov,M,Lebanon,LBN,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Antoine Chidiac,M,Lebanon,LIB,1972,Munich,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Charbel Chrabie,M,Lebanon,LIB,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Jihad El-achkar,M,Lebanon,LIB,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Assaf El-murr,M,Lebanon,LIB,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Nacif Elias,M,Lebanon,LIB,2016,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Michel Estephan,M,Lebanon,LIB,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Wadih Juda,M,Lebanon,LIB,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Rudy Hachache,M,Lebanon,LIB,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Haji Kahy,M,Lebanon,LIB,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Sihad Keyrouz,M,Lebanon,LIB,1980,Moskva,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Ronald Khawam,M,Lebanon,LIB,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Ronald Khawam,M,Lebanon,LIB,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Roukoz Roukoz,M,Lebanon,LIB,1980,Moskva,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+David Saad,M,Lebanon,LIB,1976,Montreal,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Kamil Sabali,M,Lebanon,LIB,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Fadi Saikali,M,Lebanon,LIB,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Fadi Saikali,M,Lebanon,LIB,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Nacif Elias,M,Lebanon,LBN,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,True,False
+Caramnob Sagaipov,M,Lebanon,LBN,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,False,True

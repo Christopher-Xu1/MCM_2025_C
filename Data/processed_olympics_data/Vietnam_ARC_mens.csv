@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vu Nguyen,M,Vietnam,VIE,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True
-Vu Nguyen,M,Vietnam,VIE,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
-le Phong,M,Vietnam,VIE,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True
-le Phong,M,Vietnam,VIE,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vu Nguyen,M,Vietnam,VIE,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True,True
+Vu Nguyen,M,Vietnam,VIE,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True
+le Phong,M,Vietnam,VIE,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True,True
+le Phong,M,Vietnam,VIE,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True,True

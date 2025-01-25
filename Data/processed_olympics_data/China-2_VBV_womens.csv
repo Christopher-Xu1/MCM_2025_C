@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tian Jia,F,China-2,CHN,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Tian Jia,F,China-2,CHN,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Wang Fei,F,China-2,CHN,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Xue Chen,F,China-2,CHN,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Bronze,Beach,VBV,False
-Zhang Jingkun,F,China-2,CHN,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Zhang Xi,F,China-2,CHN,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Bronze,Beach,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tian Jia,F,China-2,CHN,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,True
+Tian Jia,F,China-2,CHN,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,False
+Wang Fei,F,China-2,CHN,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Xue Chen,F,China-2,CHN,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Bronze,Beach,VBV,False,True
+Zhang Jingkun,F,China-2,CHN,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Zhang Xi,F,China-2,CHN,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Bronze,Beach,VBV,False,True

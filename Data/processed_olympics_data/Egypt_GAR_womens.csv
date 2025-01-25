@@ -1,31 +1,31 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Salma Mohamed,F,Egypt,EGY,2012,London,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Salma Mohamed,F,Egypt,EGY,2012,London,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Salma Mohamed,F,Egypt,EGY,2012,London,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Salma Mohamed,F,Egypt,EGY,2012,London,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Sherine El-zeiny,F,Egypt,EGY,2008,Beijing,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Sherine El-zeiny,F,Egypt,EGY,2008,Beijing,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Sherine El-zeiny,F,Egypt,EGY,2008,Beijing,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Sherine El-zeiny,F,Egypt,EGY,2008,Beijing,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Sherine El-zeiny,F,Egypt,EGY,2012,London,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Sherine El-zeiny,F,Egypt,EGY,2012,London,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Sherine El-zeiny,F,Egypt,EGY,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True
-Sherine El-zeiny,F,Egypt,EGY,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True
-Sherine El-zeiny,F,Egypt,EGY,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True
-Sherine El-zeiny,F,Egypt,EGY,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True
-Mandy Mohamed,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True
-Mandy Mohamed,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True
-Mandy Mohamed,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True
-Mandy Mohamed,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True
-Mandy Mohamed,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True
-Zeina Sharaf,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True
-Zeina Sharaf,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True
-Zeina Sharaf,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True
-Zeina Sharaf,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True
-Zeina Sharaf,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True
-Jana Mahmoud,F,Egypt,EGY,2024,Paris,Artistic Gymnastics,Women,No medal,Women,GAR,True
-Jana Mahmoud,F,Egypt,EGY,2024,Paris,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True
-Jana Mahmoud,F,Egypt,EGY,2024,Paris,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True
-Jana Mahmoud,F,Egypt,EGY,2024,Paris,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True
-Jana Mahmoud,F,Egypt,EGY,2024,Paris,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True
-Jana Mahmoud,F,Egypt,EGY,2024,Paris,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Salma Mohamed,F,Egypt,EGY,2012,London,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Salma Mohamed,F,Egypt,EGY,2012,London,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Salma Mohamed,F,Egypt,EGY,2012,London,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Salma Mohamed,F,Egypt,EGY,2012,London,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Sherine El-zeiny,F,Egypt,EGY,2008,Beijing,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Sherine El-zeiny,F,Egypt,EGY,2008,Beijing,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Sherine El-zeiny,F,Egypt,EGY,2008,Beijing,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,True
+Sherine El-zeiny,F,Egypt,EGY,2008,Beijing,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,True
+Sherine El-zeiny,F,Egypt,EGY,2012,London,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,False
+Sherine El-zeiny,F,Egypt,EGY,2012,London,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,False
+Sherine El-zeiny,F,Egypt,EGY,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Individual All-Around,No medal,Gymnastics,GAR,True,False
+Sherine El-zeiny,F,Egypt,EGY,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Floor Exercise,No medal,Gymnastics,GAR,True,False
+Sherine El-zeiny,F,Egypt,EGY,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Uneven Bars,No medal,Gymnastics,GAR,True,False
+Sherine El-zeiny,F,Egypt,EGY,2016,Rio de Janeiro,Gymnastics,Gymnastics Women's Balance Beam,No medal,Gymnastics,GAR,True,False
+Mandy Mohamed,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True,True
+Mandy Mohamed,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True,True
+Mandy Mohamed,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True,True
+Mandy Mohamed,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True,True
+Mandy Mohamed,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True,True
+Zeina Sharaf,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True,True
+Zeina Sharaf,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True,True
+Zeina Sharaf,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True,True
+Zeina Sharaf,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True,True
+Zeina Sharaf,F,Egypt,EGY,2020,Tokyo,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True,True
+Jana Mahmoud,F,Egypt,EGY,2024,Paris,Artistic Gymnastics,Women,No medal,Women,GAR,True,True
+Jana Mahmoud,F,Egypt,EGY,2024,Paris,Artistic Gymnastics,Women's All-Around,No medal,Women's,GAR,True,True
+Jana Mahmoud,F,Egypt,EGY,2024,Paris,Artistic Gymnastics,Women's Balance Beam,No medal,Women's,GAR,True,True
+Jana Mahmoud,F,Egypt,EGY,2024,Paris,Artistic Gymnastics,Women's Floor Exercise,No medal,Women's,GAR,True,True
+Jana Mahmoud,F,Egypt,EGY,2024,Paris,Artistic Gymnastics,Women's Uneven Bars,No medal,Women's,GAR,True,True
+Jana Mahmoud,F,Egypt,EGY,2024,Paris,Artistic Gymnastics,Women's Vault,No medal,Women's,GAR,True,True

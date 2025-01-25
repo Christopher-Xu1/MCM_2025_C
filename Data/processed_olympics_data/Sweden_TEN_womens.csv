@@ -1,30 +1,30 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anna Oelreich-),F,Sweden,SWE,1908,London,Tennis,"Tennis Women's Singles, Covered Courts",Bronze,Tennis,TEN,False
-Edith (lasch-),F,Sweden,SWE,1912,Stockholm,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Edith (lasch-),F,Sweden,SWE,1912,Stockholm,Tennis,"Tennis Women's Singles, Covered Courts",No medal,Tennis,TEN,True
-Lena Arvidsson,F,Sweden,SWE,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Lena Arvidsson,F,Sweden,SWE,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Lena Arvidsson,F,Sweden,SWE,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Ellen (holmstrm-),F,Sweden,SWE,1912,Stockholm,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Margareta Cederschild,F,Sweden,SWE,1912,Stockholm,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Margareta Cederschild,F,Sweden,SWE,1912,Stockholm,Tennis,"Tennis Women's Singles, Covered Courts",No medal,Tennis,TEN,True
-Sigrid (frenckell-),F,Sweden,SWE,1912,Stockholm,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Sigrid (frenckell-),F,Sweden,SWE,1912,Stockholm,Tennis,"Tennis Women's Singles, Covered Courts",No medal,Tennis,TEN,True
-Sigrid (frenckell-),F,Sweden,SWE,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Sigrid (frenckell-),F,Sweden,SWE,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Sigrid (frenckell-),F,Sweden,SWE,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Sigrid (frenckell-),F,Sweden,SWE,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Anna Holmstrm,F,Sweden,SWE,1912,Stockholm,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Anna Holmstrm,F,Sweden,SWE,1912,Stockholm,Tennis,"Tennis Women's Singles, Covered Courts",No medal,Tennis,TEN,True
-Johanna Larsson,F,Sweden,SWE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Jenny Lindberg,F,Sweden,SWE,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Anna (-ryan),F,Sweden,SWE,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Anna (-ryan),F,Sweden,SWE,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Anna (-ryan),F,Sweden,SWE,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Maria Lindstrm,F,Sweden,SWE,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Lily Essen,F,Sweden,SWE,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Lily Essen,F,Sweden,SWE,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Lily Essen,F,Sweden,SWE,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Lily Essen,F,Sweden,SWE,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Elsa (lilliehk-),F,Sweden,SWE,1908,London,Tennis,"Tennis Women's Singles, Covered Courts",No medal,Tennis,TEN,False
-Rebecca Peterson,F,Sweden,SWE,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anna Oelreich-),F,Sweden,SWE,1908,London,Tennis,"Tennis Women's Singles, Covered Courts",Bronze,Tennis,TEN,False,True
+Edith (lasch-),F,Sweden,SWE,1912,Stockholm,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Edith (lasch-),F,Sweden,SWE,1912,Stockholm,Tennis,"Tennis Women's Singles, Covered Courts",No medal,Tennis,TEN,True,True
+Lena Arvidsson,F,Sweden,SWE,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Lena Arvidsson,F,Sweden,SWE,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Lena Arvidsson,F,Sweden,SWE,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,False
+Ellen (holmstrm-),F,Sweden,SWE,1912,Stockholm,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Margareta Cederschild,F,Sweden,SWE,1912,Stockholm,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Margareta Cederschild,F,Sweden,SWE,1912,Stockholm,Tennis,"Tennis Women's Singles, Covered Courts",No medal,Tennis,TEN,True,True
+Sigrid (frenckell-),F,Sweden,SWE,1912,Stockholm,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Sigrid (frenckell-),F,Sweden,SWE,1912,Stockholm,Tennis,"Tennis Women's Singles, Covered Courts",No medal,Tennis,TEN,True,True
+Sigrid (frenckell-),F,Sweden,SWE,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Sigrid (frenckell-),F,Sweden,SWE,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Sigrid (frenckell-),F,Sweden,SWE,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Sigrid (frenckell-),F,Sweden,SWE,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Anna Holmstrm,F,Sweden,SWE,1912,Stockholm,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Anna Holmstrm,F,Sweden,SWE,1912,Stockholm,Tennis,"Tennis Women's Singles, Covered Courts",No medal,Tennis,TEN,True,True
+Johanna Larsson,F,Sweden,SWE,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Jenny Lindberg,F,Sweden,SWE,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Anna (-ryan),F,Sweden,SWE,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Anna (-ryan),F,Sweden,SWE,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Anna (-ryan),F,Sweden,SWE,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Maria Lindstrm,F,Sweden,SWE,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Lily Essen,F,Sweden,SWE,1920,Antwerpen,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Lily Essen,F,Sweden,SWE,1920,Antwerpen,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Lily Essen,F,Sweden,SWE,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Lily Essen,F,Sweden,SWE,1924,Paris,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Elsa (lilliehk-),F,Sweden,SWE,1908,London,Tennis,"Tennis Women's Singles, Covered Courts",No medal,Tennis,TEN,False,True
+Rebecca Peterson,F,Sweden,SWE,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False,True

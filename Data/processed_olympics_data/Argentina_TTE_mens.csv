@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Enrique Gonzlez,M,Argentina,ARG,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Song Liu,M,Argentina,ARG,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Song Liu,M,Argentina,ARG,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Song Liu,M,Argentina,ARG,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Song Liu,M,Argentina,ARG,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Song Liu,M,Argentina,ARG,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Pablo Tabachnik,M,Argentina,ARG,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Pablo Tabachnik,M,Argentina,ARG,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Pablo Tabachnik,M,Argentina,ARG,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Pablo Tabachnik,M,Argentina,ARG,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Gaston Alto,M,Argentina,ARG,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False
-Horacio Cifuentes,M,Argentina,ARG,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False
-Santiago Lorenzo,M,Argentina,ARG,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Enrique Gonzlez,M,Argentina,ARG,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Song Liu,M,Argentina,ARG,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Song Liu,M,Argentina,ARG,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Song Liu,M,Argentina,ARG,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Song Liu,M,Argentina,ARG,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Song Liu,M,Argentina,ARG,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Pablo Tabachnik,M,Argentina,ARG,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Pablo Tabachnik,M,Argentina,ARG,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Pablo Tabachnik,M,Argentina,ARG,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Pablo Tabachnik,M,Argentina,ARG,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Gaston Alto,M,Argentina,ARG,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True
+Horacio Cifuentes,M,Argentina,ARG,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True
+Santiago Lorenzo,M,Argentina,ARG,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Leif Erichsen,M,Marmi Ii-1,NOR,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Andreas Knudsen,M,Marmi Ii-1,NOR,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Einar Torgersen,M,Marmi Ii-1,NOR,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Leif Erichsen,M,Marmi Ii-1,NOR,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Andreas Knudsen,M,Marmi Ii-1,NOR,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Einar Torgersen,M,Marmi Ii-1,NOR,1920,Antwerpen,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True

@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kiradech Aphibarnrat,M,Thailand,THA,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,True
-Thongchai Jaidee,M,Thailand,THA,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Gunn Charoenkul,M,Thailand,THA,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Jazz Janewattananond,M,Thailand,THA,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Phachara Khongwatmai,M,Thailand,THA,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Kiradech Aphibarnrat,M,Thailand,THA,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kiradech Aphibarnrat,M,Thailand,THA,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,True,True
+Thongchai Jaidee,M,Thailand,THA,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Gunn Charoenkul,M,Thailand,THA,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Jazz Janewattananond,M,Thailand,THA,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Phachara Khongwatmai,M,Thailand,THA,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Kiradech Aphibarnrat,M,Thailand,THA,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,False

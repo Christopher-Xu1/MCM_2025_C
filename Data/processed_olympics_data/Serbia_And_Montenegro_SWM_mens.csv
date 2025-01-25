@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Igor Bereti,M,Serbia And Montenegro,SCG,2004,Athina,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Neboja Biki,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Milorad Avi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Milorad Avi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Milorad Avi,M,Serbia And Montenegro,SCG,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Milorad Avi,M,Serbia And Montenegro,SCG,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Milorad Avi,M,Serbia And Montenegro,SCG,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Milo Cerovi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,False
-Igor Erharti,M,Serbia And Montenegro,SCG,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
-ore Filipovi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,False
-Nikola Kalabi,M,Serbia And Montenegro,SCG,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Nikola Kalabi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Nikola Kalabi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Vladan Markovi,M,Serbia And Montenegro,SCG,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Vladan Markovi,M,Serbia And Montenegro,SCG,1996,Atlanta,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Vladan Markovi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Vladan Markovi,M,Serbia And Montenegro,SCG,2004,Athina,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Nikola Savi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Mladen Tepavevi,M,Serbia And Montenegro,SCG,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Igor Bereti,M,Serbia And Montenegro,SCG,2004,Athina,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Neboja Biki,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Milorad Avi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Milorad Avi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Milorad Avi,M,Serbia And Montenegro,SCG,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Milorad Avi,M,Serbia And Montenegro,SCG,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Milorad Avi,M,Serbia And Montenegro,SCG,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,False
+Milo Cerovi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,False,True
+Igor Erharti,M,Serbia And Montenegro,SCG,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+ore Filipovi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,False,True
+Nikola Kalabi,M,Serbia And Montenegro,SCG,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Nikola Kalabi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Nikola Kalabi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Vladan Markovi,M,Serbia And Montenegro,SCG,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Vladan Markovi,M,Serbia And Montenegro,SCG,1996,Atlanta,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Vladan Markovi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,False
+Vladan Markovi,M,Serbia And Montenegro,SCG,2004,Athina,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,False
+Nikola Savi,M,Serbia And Montenegro,SCG,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Mladen Tepavevi,M,Serbia And Montenegro,SCG,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True

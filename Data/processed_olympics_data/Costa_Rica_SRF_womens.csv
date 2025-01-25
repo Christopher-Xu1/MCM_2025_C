@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Brisa Hennessy,F,Costa Rica,CRC,2020,Tokyo,Surfing,Women,No medal,Women,SRF,True
-McGONAGLE Leilani,F,Costa Rica,CRC,2020,Tokyo,Surfing,Women,No medal,Women,SRF,False
-Brisa Hennessy,F,Costa Rica,CRC,2024,Paris,Surfing,Women,No medal,Women,SRF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Brisa Hennessy,F,Costa Rica,CRC,2020,Tokyo,Surfing,Women,No medal,Women,SRF,True,True
+McGONAGLE Leilani,F,Costa Rica,CRC,2020,Tokyo,Surfing,Women,No medal,Women,SRF,False,True
+Brisa Hennessy,F,Costa Rica,CRC,2024,Paris,Surfing,Women,No medal,Women,SRF,True,False

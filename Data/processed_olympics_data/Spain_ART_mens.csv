@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jos Ayats,M,Spain,ESP,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,False
-Ramn Aguirrezbal,M,Spain,ESP,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,False
-Daniel Daz,M,Spain,ESP,1948,London,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jos Ayats,M,Spain,ESP,1924,Paris,Art Competitions,Art Competitions Mixed Sculpturing,No medal,Art,ART,False,True
+Ramn Aguirrezbal,M,Spain,ESP,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,False,True
+Daniel Daz,M,Spain,ESP,1948,London,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",No medal,Art,ART,False,True

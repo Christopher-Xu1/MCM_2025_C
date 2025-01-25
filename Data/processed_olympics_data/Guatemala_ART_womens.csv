@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Antonia Massot),F,Guatemala,GUA,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Antonia Massot),F,Guatemala,GUA,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,False,True

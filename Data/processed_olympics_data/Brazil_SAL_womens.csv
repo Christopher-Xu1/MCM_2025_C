@@ -1,40 +1,40 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ana Barbachan,F,Brazil,BRA,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Ana Barbachan,F,Brazil,BRA,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Carolina Borges-mendelblatt,F,Brazil,BRA,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Fernanda Coelho,F,Brazil,BRA,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Christina Forte,F,Brazil,BRA,1992,Barcelona,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Christina Forte,F,Brazil,BRA,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Christina Forte,F,Brazil,BRA,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Patrcia Freitas,F,Brazil,BRA,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Patrcia Freitas,F,Brazil,BRA,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Patrcia Freitas,F,Brazil,BRA,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Martine Grael,F,Brazil,BRA,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,Gold,Sailing,SAL,True
-Cinthia Knoth,F,Brazil,BRA,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Adriana Kostiw,F,Brazil,BRA,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Adriana Kostiw,F,Brazil,BRA,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Maria Krahe,F,Brazil,BRA,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Kahena Kunze,F,Brazil,BRA,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,Gold,Sailing,SAL,True
-Fernanda Oliveira,F,Brazil,BRA,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Fernanda Oliveira,F,Brazil,BRA,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Fernanda Oliveira,F,Brazil,BRA,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True
-Fernanda Oliveira,F,Brazil,BRA,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Fernanda Oliveira,F,Brazil,BRA,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Mrcia Pellicano,F,Brazil,BRA,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Mrcia Pellicano,F,Brazil,BRA,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Mrcia Pellicano,F,Brazil,BRA,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Monica Scheel,F,Brazil,BRA,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Cludia Swan,F,Brazil,BRA,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Isabel Swan,F,Brazil,BRA,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True
-Isabel Swan,F,Brazil,BRA,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True
-Ana Barbachan,F,Brazil,BRA,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,True
-Patricia Freitas,F,Brazil,BRA,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False
-Martine Grael,F,Brazil,BRA,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,Gold,Women's,SAL,True
-Kahena Kunze,F,Brazil,BRA,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,Gold,Women's,SAL,True
-Gabriela Nicolino,F,Brazil,BRA,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,False
-Fernanda Oliveira,F,Brazil,BRA,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,True
-Gabriella Kidd,F,Brazil,BRA,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False
-Isabel Swan,F,Brazil,BRA,2024,Paris,Sailing,Mixed Dinghy,No medal,Mixed,SAL,True
-Kahena Kunze,F,Brazil,BRA,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,True
-Marina Mariutti,F,Brazil,BRA,2024,Paris,Sailing,Mixed Multihull,No medal,Mixed,SAL,False
-Martine Soffiatti,F,Brazil,BRA,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ana Barbachan,F,Brazil,BRA,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Ana Barbachan,F,Brazil,BRA,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Carolina Borges-mendelblatt,F,Brazil,BRA,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Fernanda Coelho,F,Brazil,BRA,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Christina Forte,F,Brazil,BRA,1992,Barcelona,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Christina Forte,F,Brazil,BRA,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Christina Forte,F,Brazil,BRA,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Patrcia Freitas,F,Brazil,BRA,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Patrcia Freitas,F,Brazil,BRA,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Patrcia Freitas,F,Brazil,BRA,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Martine Grael,F,Brazil,BRA,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,Gold,Sailing,SAL,True,True
+Cinthia Knoth,F,Brazil,BRA,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Adriana Kostiw,F,Brazil,BRA,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Adriana Kostiw,F,Brazil,BRA,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Maria Krahe,F,Brazil,BRA,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Kahena Kunze,F,Brazil,BRA,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,Gold,Sailing,SAL,True,True
+Fernanda Oliveira,F,Brazil,BRA,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Fernanda Oliveira,F,Brazil,BRA,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Fernanda Oliveira,F,Brazil,BRA,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True,False
+Fernanda Oliveira,F,Brazil,BRA,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Fernanda Oliveira,F,Brazil,BRA,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Mrcia Pellicano,F,Brazil,BRA,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Mrcia Pellicano,F,Brazil,BRA,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Mrcia Pellicano,F,Brazil,BRA,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Monica Scheel,F,Brazil,BRA,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Cludia Swan,F,Brazil,BRA,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Isabel Swan,F,Brazil,BRA,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True,True
+Isabel Swan,F,Brazil,BRA,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True,False
+Ana Barbachan,F,Brazil,BRA,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,True,False
+Patricia Freitas,F,Brazil,BRA,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False,True
+Martine Grael,F,Brazil,BRA,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,Gold,Women's,SAL,True,False
+Kahena Kunze,F,Brazil,BRA,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,Gold,Women's,SAL,True,False
+Gabriela Nicolino,F,Brazil,BRA,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,False,True
+Fernanda Oliveira,F,Brazil,BRA,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,True,False
+Gabriella Kidd,F,Brazil,BRA,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False,True
+Isabel Swan,F,Brazil,BRA,2024,Paris,Sailing,Mixed Dinghy,No medal,Mixed,SAL,True,False
+Kahena Kunze,F,Brazil,BRA,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,True,False
+Marina Mariutti,F,Brazil,BRA,2024,Paris,Sailing,Mixed Multihull,No medal,Mixed,SAL,False,True
+Martine Soffiatti,F,Brazil,BRA,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nataliya Shlemova,F,Tajikistan,TJK,1996,Atlanta,Diving,Diving Women's Springboard,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nataliya Shlemova,F,Tajikistan,TJK,1996,Atlanta,Diving,Diving Women's Springboard,No medal,Diving,DIV,False,True

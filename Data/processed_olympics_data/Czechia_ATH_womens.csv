@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tereza Hrochova,F,Czechia,CZE,2024,Paris,Athletics,Women's Marathon,No medal,Women's,ATH,False
-Michaela Hruba,F,Czechia,CZE,2024,Paris,Athletics,Women's High Jump,No medal,Women's,ATH,False
-Nikoleta Jichova,F,Czechia,CZE,2024,Paris,Athletics,Women's 400m Hurdles,No medal,Women's,ATH,False
-Gloria Manuel,F,Czechia,CZE,2024,Paris,Athletics,Women's 400m,No medal,Women's,ATH,False
-Karolina Manasova,F,Czechia,CZE,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False
-Eliska Martinkova,F,Czechia,CZE,2024,Paris,Athletics,Women's 20km Race Walk,No medal,Women's,ATH,True
-Eliska Martinkova,F,Czechia,CZE,2024,Paris,Athletics,Marathon Race Walk Relay Mixed,No medal,Marathon,ATH,True
-Nikola Ogrodnikova,F,Czechia,CZE,2024,Paris,Athletics,Women's Javelin Throw,Bronze,Women's,ATH,False
-Tereza Petrzilkova,F,Czechia,CZE,2024,Paris,Athletics,Women's 400m,No medal,Women's,ATH,False
-Kristiina Sasinek,F,Czechia,CZE,2024,Paris,Athletics,Women's 1500m,No medal,Women's,ATH,False
-Petra Sicakova,F,Czechia,CZE,2024,Paris,Athletics,Women's Javelin Throw,No medal,Women's,ATH,False
-Moira Stewartova,F,Czechia,CZE,2024,Paris,Athletics,Women's Marathon,No medal,Women's,ATH,False
-Amalie Svabikova,F,Czechia,CZE,2024,Paris,Athletics,Women's Pole Vault,No medal,Women's,ATH,False
-Lada Vondrova,F,Czechia,CZE,2024,Paris,Athletics,Women's 400m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tereza Hrochova,F,Czechia,CZE,2024,Paris,Athletics,Women's Marathon,No medal,Women's,ATH,False,True
+Michaela Hruba,F,Czechia,CZE,2024,Paris,Athletics,Women's High Jump,No medal,Women's,ATH,False,True
+Nikoleta Jichova,F,Czechia,CZE,2024,Paris,Athletics,Women's 400m Hurdles,No medal,Women's,ATH,False,True
+Gloria Manuel,F,Czechia,CZE,2024,Paris,Athletics,Women's 400m,No medal,Women's,ATH,False,True
+Karolina Manasova,F,Czechia,CZE,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False,True
+Eliska Martinkova,F,Czechia,CZE,2024,Paris,Athletics,Women's 20km Race Walk,No medal,Women's,ATH,True,True
+Eliska Martinkova,F,Czechia,CZE,2024,Paris,Athletics,Marathon Race Walk Relay Mixed,No medal,Marathon,ATH,True,True
+Nikola Ogrodnikova,F,Czechia,CZE,2024,Paris,Athletics,Women's Javelin Throw,Bronze,Women's,ATH,False,True
+Tereza Petrzilkova,F,Czechia,CZE,2024,Paris,Athletics,Women's 400m,No medal,Women's,ATH,False,True
+Kristiina Sasinek,F,Czechia,CZE,2024,Paris,Athletics,Women's 1500m,No medal,Women's,ATH,False,True
+Petra Sicakova,F,Czechia,CZE,2024,Paris,Athletics,Women's Javelin Throw,No medal,Women's,ATH,False,True
+Moira Stewartova,F,Czechia,CZE,2024,Paris,Athletics,Women's Marathon,No medal,Women's,ATH,False,True
+Amalie Svabikova,F,Czechia,CZE,2024,Paris,Athletics,Women's Pole Vault,No medal,Women's,ATH,False,True
+Lada Vondrova,F,Czechia,CZE,2024,Paris,Athletics,Women's 400m,No medal,Women's,ATH,False,True

@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mara Franco,F,Venezuela,VEN,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Mara Franco,F,Venezuela,VEN,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Francis Gorrin,F,Venezuela,VEN,2004,Athina,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Francis Gorrin,F,Venezuela,VEN,2004,Athina,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Diliana Mndez,F,Venezuela,VEN,2008,Beijing,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Diliana Mndez,F,Venezuela,VEN,2008,Beijing,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Maribel Pieda,F,Venezuela,VEN,2012,London,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Maribel Pieda,F,Venezuela,VEN,2012,London,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mara Franco,F,Venezuela,VEN,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Mara Franco,F,Venezuela,VEN,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Francis Gorrin,F,Venezuela,VEN,2004,Athina,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Francis Gorrin,F,Venezuela,VEN,2004,Athina,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Diliana Mndez,F,Venezuela,VEN,2008,Beijing,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Diliana Mndez,F,Venezuela,VEN,2008,Beijing,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Maribel Pieda,F,Venezuela,VEN,2012,London,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Maribel Pieda,F,Venezuela,VEN,2012,London,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True

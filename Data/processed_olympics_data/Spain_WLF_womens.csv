@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mnica Esteban,F,Spain,ESP,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False
-Josefa Carmona,F,Spain,ESP,2000,Sydney,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
-Gema Revert,F,Spain,ESP,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Lidia Prez,F,Spain,ESP,2008,Beijing,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True
-Lidia Prez,F,Spain,ESP,2012,London,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True
-Lidia Prez,F,Spain,ESP,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,Bronze,Weightlifting,WLF,True
-Lidia Valentin,F,Spain,ESP,2020,Tokyo,Weightlifting,Women's 87kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mnica Esteban,F,Spain,ESP,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False,True
+Josefa Carmona,F,Spain,ESP,2000,Sydney,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True
+Gema Revert,F,Spain,ESP,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Lidia Prez,F,Spain,ESP,2008,Beijing,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True,True
+Lidia Prez,F,Spain,ESP,2012,London,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,True,False
+Lidia Prez,F,Spain,ESP,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,Bronze,Weightlifting,WLF,True,False
+Lidia Valentin,F,Spain,ESP,2020,Tokyo,Weightlifting,Women's 87kg,No medal,Women's,WLF,False,True

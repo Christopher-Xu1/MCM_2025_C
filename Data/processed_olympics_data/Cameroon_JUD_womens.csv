@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Judith Abolo,F,Cameroon,CMR,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Hortence Atangana,F,Cameroon,CMR,2016,Rio de Janeiro,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Franoise Nguele,F,Cameroon,CMR,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Otay Arrey,F,Cameroon,CMR,2020,Tokyo,Judo,Women -70 kg,No medal,Women,JUD,False
-Vanessa Mballa,F,Cameroon,CMR,2020,Tokyo,Judo,Women +78 kg,No medal,Women,JUD,False
-Anita Soppi,F,Cameroon,CMR,2024,Paris,Judo,Women +78 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Judith Abolo,F,Cameroon,CMR,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Hortence Atangana,F,Cameroon,CMR,2016,Rio de Janeiro,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Franoise Nguele,F,Cameroon,CMR,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Otay Arrey,F,Cameroon,CMR,2020,Tokyo,Judo,Women -70 kg,No medal,Women,JUD,False,True
+Vanessa Mballa,F,Cameroon,CMR,2020,Tokyo,Judo,Women +78 kg,No medal,Women,JUD,False,True
+Anita Soppi,F,Cameroon,CMR,2024,Paris,Judo,Women +78 kg,No medal,Women,JUD,False,True

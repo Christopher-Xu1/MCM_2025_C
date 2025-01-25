@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Thyra Boldsen,F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Thyra Boldsen,F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Anne (brodersen-),F,Denmark,DEN,1936,Berlin,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True
-Sonja (-meyer),F,Denmark,DEN,1924,Paris,Art Competitions,Art Competitions Mixed Architecture,No medal,Art,ART,False
-Aase -hoffman-madsen),F,Denmark,DEN,1924,Paris,Art Competitions,Art Competitions Mixed Painting,No medal,Art,ART,True
-Aase -hoffman-madsen),F,Denmark,DEN,1924,Paris,Art Competitions,Art Competitions Mixed Painting,No medal,Art,ART,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Thyra Boldsen,F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Thyra Boldsen,F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Anne (brodersen-),F,Denmark,DEN,1932,Los Angeles,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,True
+Anne (brodersen-),F,Denmark,DEN,1936,Berlin,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",No medal,Art,ART,True,False
+Sonja (-meyer),F,Denmark,DEN,1924,Paris,Art Competitions,Art Competitions Mixed Architecture,No medal,Art,ART,False,True
+Aase -hoffman-madsen),F,Denmark,DEN,1924,Paris,Art Competitions,Art Competitions Mixed Painting,No medal,Art,ART,True,True
+Aase -hoffman-madsen),F,Denmark,DEN,1924,Paris,Art Competitions,Art Competitions Mixed Painting,No medal,Art,ART,True,True

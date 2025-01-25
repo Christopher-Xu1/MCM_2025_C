@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ejner Augsburg,M,Denmark,DEN,1920,Antwerpen,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Harry Bjrnholm,M,Denmark,DEN,1920,Antwerpen,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Marius Christensen,M,Denmark,DEN,1920,Antwerpen,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Marius Christensen,M,Denmark,DEN,1924,Paris,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Ren Heitmann,M,Denmark,DEN,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Ren Heitmann,M,Denmark,DEN,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Tue Hellstern,M,Denmark,DEN,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Helge Jensen,M,Denmark,DEN,1924,Paris,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Helge Jensen,M,Denmark,DEN,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Kai Jlver,M,Denmark,DEN,1912,Stockholm,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Vilhelm Laybourn,M,Denmark,DEN,1912,Stockholm,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Otto Olsen,M,Denmark,DEN,1924,Paris,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Otto Olsen,M,Denmark,DEN,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Klaus Petersen,M,Denmark,DEN,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Klaus Petersen,M,Denmark,DEN,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Klaus Petersen,M,Denmark,DEN,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Benny Schmidt,M,Denmark,DEN,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Johan Skjoldager,M,Denmark,DEN,1920,Antwerpen,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Jrn Steffensen,M,Denmark,DEN,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jrn Steffensen,M,Denmark,DEN,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jrn Steffensen,M,Denmark,DEN,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Jrn Steffensen,M,Denmark,DEN,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Johannes Ussing,M,Denmark,DEN,1912,Stockholm,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Theodor Zeilau,M,Denmark,DEN,1912,Stockholm,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ejner Augsburg,M,Denmark,DEN,1920,Antwerpen,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Harry Bjrnholm,M,Denmark,DEN,1920,Antwerpen,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Marius Christensen,M,Denmark,DEN,1920,Antwerpen,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Marius Christensen,M,Denmark,DEN,1924,Paris,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Ren Heitmann,M,Denmark,DEN,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Ren Heitmann,M,Denmark,DEN,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Tue Hellstern,M,Denmark,DEN,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Helge Jensen,M,Denmark,DEN,1924,Paris,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Helge Jensen,M,Denmark,DEN,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Kai Jlver,M,Denmark,DEN,1912,Stockholm,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Vilhelm Laybourn,M,Denmark,DEN,1912,Stockholm,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Otto Olsen,M,Denmark,DEN,1924,Paris,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Otto Olsen,M,Denmark,DEN,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Klaus Petersen,M,Denmark,DEN,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Klaus Petersen,M,Denmark,DEN,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Klaus Petersen,M,Denmark,DEN,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Benny Schmidt,M,Denmark,DEN,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Johan Skjoldager,M,Denmark,DEN,1920,Antwerpen,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Jrn Steffensen,M,Denmark,DEN,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Jrn Steffensen,M,Denmark,DEN,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Jrn Steffensen,M,Denmark,DEN,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Jrn Steffensen,M,Denmark,DEN,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Johannes Ussing,M,Denmark,DEN,1912,Stockholm,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Theodor Zeilau,M,Denmark,DEN,1912,Stockholm,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True

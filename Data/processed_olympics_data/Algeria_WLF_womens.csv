@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bouchra Hirech,F,Algeria,ALG,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Leila Lassouani,F,Algeria,ALG,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True
-Leila Lassouani,F,Algeria,ALG,2004,Athina,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True
-Leila Lassouani,F,Algeria,ALG,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bouchra Hirech,F,Algeria,ALG,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Leila Lassouani,F,Algeria,ALG,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,True,True
+Leila Lassouani,F,Algeria,ALG,2004,Athina,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True,False
+Leila Lassouani,F,Algeria,ALG,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,True,False

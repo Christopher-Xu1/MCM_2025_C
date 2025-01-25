@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-William Burgess,M,Scram,CAN,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-William West,M,Scram,CAN,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+William Burgess,M,Scram,CAN,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+William West,M,Scram,CAN,1960,Roma,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True

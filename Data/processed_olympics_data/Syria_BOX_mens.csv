@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Khadour Adnan,M,Syria,SYR,1996,Atlanta,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Naasan Ajjoub,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True
-Naasan Ajjoub,M,Syria,SYR,1984,Los Angeles,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True
-Naser Shami,M,Syria,SYR,2004,Athina,Boxing,Boxing Men's Heavyweight,Bronze,Boxing,BOX,False
-Talal El-chawa,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Mohamed El-dahan,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Mohamed El-dahan,M,Syria,SYR,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Ihab El-youssef,M,Syria,SYR,2000,Sydney,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Khaled Falah,M,Syria,SYR,1996,Atlanta,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Mohamed Haddad,M,Syria,SYR,1988,Seoul,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Nihal Haddad,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Farez Halabi,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Hamed Halbouni,M,Syria,SYR,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Adel Hammoude,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False
-Imad Idriss,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Ahmad Khanji,M,Syria,SYR,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Yousif Massas,M,Syria,SYR,2000,Sydney,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-Wessam Slamana,M,Syria,SYR,2012,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Fayez Zaghloul,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Khadour Adnan,M,Syria,SYR,1996,Atlanta,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Naasan Ajjoub,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True,True
+Naasan Ajjoub,M,Syria,SYR,1984,Los Angeles,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True,False
+Naser Shami,M,Syria,SYR,2004,Athina,Boxing,Boxing Men's Heavyweight,Bronze,Boxing,BOX,False,True
+Talal El-chawa,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Mohamed El-dahan,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,True
+Mohamed El-dahan,M,Syria,SYR,1984,Los Angeles,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,False
+Ihab El-youssef,M,Syria,SYR,2000,Sydney,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Khaled Falah,M,Syria,SYR,1996,Atlanta,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Mohamed Haddad,M,Syria,SYR,1988,Seoul,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Nihal Haddad,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Farez Halabi,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Hamed Halbouni,M,Syria,SYR,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Adel Hammoude,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Light-Flyweight,No medal,Boxing,BOX,False,True
+Imad Idriss,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Ahmad Khanji,M,Syria,SYR,1988,Seoul,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Yousif Massas,M,Syria,SYR,2000,Sydney,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+Wessam Slamana,M,Syria,SYR,2012,London,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Fayez Zaghloul,M,Syria,SYR,1980,Moskva,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True

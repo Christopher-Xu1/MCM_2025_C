@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Charlotte Worthington,F,United Kingdom,GBR,2020,Tokyo,Cycling BMX Freestyle,Women's Park,Gold,Women's,BMF,False
-Elizabeth Worthington,F,United Kingdom,GBR,2024,Paris,Cycling BMX Freestyle,Women's Park,No medal,Women's,BMF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Charlotte Worthington,F,United Kingdom,GBR,2020,Tokyo,Cycling BMX Freestyle,Women's Park,Gold,Women's,BMF,False,True
+Elizabeth Worthington,F,United Kingdom,GBR,2024,Paris,Cycling BMX Freestyle,Women's Park,No medal,Women's,BMF,False,True

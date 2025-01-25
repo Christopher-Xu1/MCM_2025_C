@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marcel Plane-),M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Bronze,Rowing,ROW,True
-Marcel Plane-),M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,True
-Charles Delaporte,M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Bronze,Rowing,ROW,True
-Charles Delaporte,M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,True
-Lon Delignires,M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,False
-Paul Chard,M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,False
-Marcel Frbourg,M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Bronze,Rowing,ROW,True
-Marcel Frbourg,M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marcel Plane-),M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Bronze,Rowing,ROW,True,True
+Marcel Plane-),M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,True,True
+Charles Delaporte,M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Bronze,Rowing,ROW,True,True
+Charles Delaporte,M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,True,True
+Lon Delignires,M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,False,True
+Paul Chard,M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,False,True
+Marcel Frbourg,M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),Bronze,Rowing,ROW,True,True
+Marcel Frbourg,M,Socit Nautique De La Basse Seine-1,FRA,1906,Athina,Rowing,Rowing Men's Coxed Fours,Silver,Rowing,ROW,True,True

@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vernica Royg,F,Paraguay,PAR,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Vernica Royg,F,Paraguay,PAR,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Rossana Ros,F,Paraguay,PAR,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Rossana Ros,F,Paraguay,PAR,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Larissa Schaerer,F,Paraguay,PAR,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Veronica Cepede,F,Paraguay,PAR,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vernica Royg,F,Paraguay,PAR,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Vernica Royg,F,Paraguay,PAR,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Rossana Ros,F,Paraguay,PAR,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Rossana Ros,F,Paraguay,PAR,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Larissa Schaerer,F,Paraguay,PAR,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Veronica Cepede,F,Paraguay,PAR,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False,True

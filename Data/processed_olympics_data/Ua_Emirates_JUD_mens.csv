@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aram Grigorian,M,Ua Emirates,UAE,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,False
-Dzhafar Kostoev,M,Ua Emirates,UAE,2024,Paris,Judo,Men -100 kg,No medal,Men,JUD,False
-Magomedomar Magomedomarov,M,Ua Emirates,UAE,2024,Paris,Judo,Men +100 kg,No medal,Men,JUD,False
-Nugzari Tatalashvili,M,Ua Emirates,UAE,2024,Paris,Judo,Men -81 kg,No medal,Men,JUD,False
-Narmandakh Bayanmunkh,M,Ua Emirates,UAE,2024,Paris,Judo,Men -66 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aram Grigorian,M,Ua Emirates,UAE,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,False,True
+Dzhafar Kostoev,M,Ua Emirates,UAE,2024,Paris,Judo,Men -100 kg,No medal,Men,JUD,False,True
+Magomedomar Magomedomarov,M,Ua Emirates,UAE,2024,Paris,Judo,Men +100 kg,No medal,Men,JUD,False,True
+Nugzari Tatalashvili,M,Ua Emirates,UAE,2024,Paris,Judo,Men -81 kg,No medal,Men,JUD,False,True
+Narmandakh Bayanmunkh,M,Ua Emirates,UAE,2024,Paris,Judo,Men -66 kg,No medal,Men,JUD,False,True

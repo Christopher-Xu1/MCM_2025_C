@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Woongtae Jun,M,Korea,KOR,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False
-Changwan Seo,M,Korea,KOR,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Woongtae Jun,M,Korea,KOR,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False,True
+Changwan Seo,M,Korea,KOR,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False,True

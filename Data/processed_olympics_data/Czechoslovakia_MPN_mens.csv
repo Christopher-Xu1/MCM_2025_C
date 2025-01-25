@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ji Adam,M,Czechoslovakia,TCH,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Ji Adam,M,Czechoslovakia,TCH,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Team,Silver,Modern,MPN,True
-Jan Brt,M,Czechoslovakia,TCH,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Individual,Bronze,Modern,MPN,True
-Jan Brt,M,Czechoslovakia,TCH,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Team,Silver,Modern,MPN,True
-Jan Brt,M,Czechoslovakia,TCH,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jan Brt,M,Czechoslovakia,TCH,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Karel Brt,M,Czechoslovakia,TCH,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Petr Blaek,M,Czechoslovakia,TCH,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Petr Blaek,M,Czechoslovakia,TCH,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Vladimr Ern,M,Czechoslovakia,TCH,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Tom Fleissner,M,Czechoslovakia,TCH,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Tom Fleissner,M,Czechoslovakia,TCH,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Tom Fleissner,M,Czechoslovakia,TCH,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Tom Fleissner,M,Czechoslovakia,TCH,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Kamil Gampe,M,Czechoslovakia,TCH,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Otto Jemelka,M,Czechoslovakia,TCH,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Milan Kadlec,M,Czechoslovakia,TCH,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Milan Kadlec,M,Czechoslovakia,TCH,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Milan Kadlec,M,Czechoslovakia,TCH,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Milan Kadlec,M,Czechoslovakia,TCH,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Pavel Kupka,M,Czechoslovakia,TCH,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Jindich Lepiere,M,Czechoslovakia,TCH,1924,Paris,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Ji Prokopius,M,Czechoslovakia,TCH,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Ji Prokopius,M,Czechoslovakia,TCH,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Ji Prokopius,M,Czechoslovakia,TCH,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Ji Prokopius,M,Czechoslovakia,TCH,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Rudolf Rika,M,Czechoslovakia,TCH,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Josef Schejbal,M,Czechoslovakia,TCH,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Bohumil Starnovsk,M,Czechoslovakia,TCH,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Bohumil Starnovsk,M,Czechoslovakia,TCH,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Team,Silver,Modern,MPN,True
-Bohumil Starnovsk,M,Czechoslovakia,TCH,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Bohumil Starnovsk,M,Czechoslovakia,TCH,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Karel Tma,M,Czechoslovakia,TCH,1924,Paris,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ji Adam,M,Czechoslovakia,TCH,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Ji Adam,M,Czechoslovakia,TCH,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Team,Silver,Modern,MPN,True,True
+Jan Brt,M,Czechoslovakia,TCH,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Individual,Bronze,Modern,MPN,True,True
+Jan Brt,M,Czechoslovakia,TCH,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Team,Silver,Modern,MPN,True,True
+Jan Brt,M,Czechoslovakia,TCH,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Jan Brt,M,Czechoslovakia,TCH,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Karel Brt,M,Czechoslovakia,TCH,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Petr Blaek,M,Czechoslovakia,TCH,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Petr Blaek,M,Czechoslovakia,TCH,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Vladimr Ern,M,Czechoslovakia,TCH,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Tom Fleissner,M,Czechoslovakia,TCH,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Tom Fleissner,M,Czechoslovakia,TCH,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Tom Fleissner,M,Czechoslovakia,TCH,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Tom Fleissner,M,Czechoslovakia,TCH,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Kamil Gampe,M,Czechoslovakia,TCH,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Otto Jemelka,M,Czechoslovakia,TCH,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Milan Kadlec,M,Czechoslovakia,TCH,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Milan Kadlec,M,Czechoslovakia,TCH,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Milan Kadlec,M,Czechoslovakia,TCH,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Milan Kadlec,M,Czechoslovakia,TCH,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Pavel Kupka,M,Czechoslovakia,TCH,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Jindich Lepiere,M,Czechoslovakia,TCH,1924,Paris,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Ji Prokopius,M,Czechoslovakia,TCH,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Ji Prokopius,M,Czechoslovakia,TCH,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Ji Prokopius,M,Czechoslovakia,TCH,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Ji Prokopius,M,Czechoslovakia,TCH,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Rudolf Rika,M,Czechoslovakia,TCH,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Josef Schejbal,M,Czechoslovakia,TCH,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Bohumil Starnovsk,M,Czechoslovakia,TCH,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Bohumil Starnovsk,M,Czechoslovakia,TCH,1976,Montreal,Modern Pentathlon,Modern Pentathlon Men's Team,Silver,Modern,MPN,True,True
+Bohumil Starnovsk,M,Czechoslovakia,TCH,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Bohumil Starnovsk,M,Czechoslovakia,TCH,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Karel Tma,M,Czechoslovakia,TCH,1924,Paris,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bonar Hardie,M,Johan,GBR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Hamish Hardie,M,Johan,GBR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-James Hume,M,Johan,GBR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,True
-James Hume,M,Johan,GBR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,True
-Harry Hunter,M,Johan,GBR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bonar Hardie,M,Johan,GBR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Hamish Hardie,M,Johan,GBR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+James Hume,M,Johan,GBR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,True,True
+James Hume,M,Johan,GBR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,True,True
+Harry Hunter,M,Johan,GBR,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

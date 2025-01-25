@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sandra Aleksejeva,F,Latvia,LAT,2012,London,Cycling,Cycling Women's BMX,No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sandra Aleksejeva,F,Latvia,LAT,2012,London,Cycling,Cycling Women's BMX,No medal,Cycling,CTR,False,True

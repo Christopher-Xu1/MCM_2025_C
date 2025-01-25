@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohammed Al-alaoui,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Allal Caid,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Abdel Gnaoui,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Fathallah Bouazzaoui,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Noureddine Cherradi,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Farouk Al-dioury,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Khalil El-yamani,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Abderraouf Laghrissi,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Abdel Mimun,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Moulay Riadh,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Moukhtar Sayed,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Abderrahmane Sebbar,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohammed Al-alaoui,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Allal Caid,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Abdel Gnaoui,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Fathallah Bouazzaoui,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Noureddine Cherradi,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Farouk Al-dioury,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Khalil El-yamani,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Abderraouf Laghrissi,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Abdel Mimun,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Moulay Riadh,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Moukhtar Sayed,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Abderrahmane Sebbar,M,Morocco,MAR,1968,Mexico City,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True

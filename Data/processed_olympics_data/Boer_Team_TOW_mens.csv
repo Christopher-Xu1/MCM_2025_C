@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pieter Hillense,M,Boer Team,RSA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Pieter Lombard,M,Boer Team,RSA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Johannes Schutte,M,Boer Team,RSA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Paulus Visser,M,Boer Team,RSA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
-Christopher Walker,M,Boer Team,RSA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pieter Hillense,M,Boer Team,RSA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Pieter Lombard,M,Boer Team,RSA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Johannes Schutte,M,Boer Team,RSA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Paulus Visser,M,Boer Team,RSA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True
+Christopher Walker,M,Boer Team,RSA,1904,St. Louis,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,No medal,Tug-Of-War,TOW,False,True

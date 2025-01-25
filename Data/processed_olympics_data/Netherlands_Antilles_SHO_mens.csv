@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eduardo Adriana,M,Netherlands Antilles,AHO,1972,Munich,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Michel Daou,M,Netherlands Antilles,AHO,1992,Barcelona,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True
-Michel Daou,M,Netherlands Antilles,AHO,1996,Atlanta,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True
-Michel Daou,M,Netherlands Antilles,AHO,1996,Atlanta,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True
-Michel Daou,M,Netherlands Antilles,AHO,2000,Sydney,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True
-Philip Elhage,M,Netherlands Antilles,AHO,2008,Beijing,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eduardo Adriana,M,Netherlands Antilles,AHO,1972,Munich,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Michel Daou,M,Netherlands Antilles,AHO,1992,Barcelona,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True,True
+Michel Daou,M,Netherlands Antilles,AHO,1996,Atlanta,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True,False
+Michel Daou,M,Netherlands Antilles,AHO,1996,Atlanta,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True,False
+Michel Daou,M,Netherlands Antilles,AHO,2000,Sydney,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,True,False
+Philip Elhage,M,Netherlands Antilles,AHO,2008,Beijing,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True

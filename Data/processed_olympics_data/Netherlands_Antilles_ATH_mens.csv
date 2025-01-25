@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Caimin Douglas,M,Netherlands Antilles,AHO,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Geronimo Goeloe,M,Netherlands Antilles,AHO,2004,Athina,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
-Raymond Heerenveen,M,Netherlands Antilles,AHO,1976,Montreal,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Ellsworth Manuel,M,Netherlands Antilles,AHO,1996,Atlanta,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,False
-Churandy Martina,M,Netherlands Antilles,AHO,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Churandy Martina,M,Netherlands Antilles,AHO,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Churandy Martina,M,Netherlands Antilles,AHO,2008,Beijing,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Siegfried Regales,M,Netherlands Antilles,AHO,1976,Montreal,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-James Sharpe,M,Netherlands Antilles,AHO,1992,Barcelona,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,False
-Julien Thode,M,Netherlands Antilles,AHO,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Julien Thode,M,Netherlands Antilles,AHO,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Caimin Douglas,M,Netherlands Antilles,AHO,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Geronimo Goeloe,M,Netherlands Antilles,AHO,2004,Athina,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False,True
+Raymond Heerenveen,M,Netherlands Antilles,AHO,1976,Montreal,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Ellsworth Manuel,M,Netherlands Antilles,AHO,1996,Atlanta,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,False,True
+Churandy Martina,M,Netherlands Antilles,AHO,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Churandy Martina,M,Netherlands Antilles,AHO,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Churandy Martina,M,Netherlands Antilles,AHO,2008,Beijing,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Siegfried Regales,M,Netherlands Antilles,AHO,1976,Montreal,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+James Sharpe,M,Netherlands Antilles,AHO,1992,Barcelona,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,False,True
+Julien Thode,M,Netherlands Antilles,AHO,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Julien Thode,M,Netherlands Antilles,AHO,1984,Los Angeles,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True

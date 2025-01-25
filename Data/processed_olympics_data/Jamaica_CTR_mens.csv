@@ -1,36 +1,36 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Peter Aldridge,M,Jamaica,JAM,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Peter Aldridge,M,Jamaica,JAM,1984,Los Angeles,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Peter Aldridge,M,Jamaica,JAM,1988,Seoul,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Honson Chin,M,Jamaica,JAM,1972,Munich,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Honson Chin,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",No medal,Cycling,CTR,True
-Kenneth Farnum,M,Jamaica,JAM,1952,Helsinki,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Kenneth Farnum,M,Jamaica,JAM,1952,Helsinki,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Howard Fenton,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Howard Fenton,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Howard Fenton,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",No medal,Cycling,CTR,True
-Howard Fenton,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Maurice Hugh-sam,M,Jamaica,JAM,1972,Munich,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Maurice Hugh-sam,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Radcliffe Lawrence,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Radcliffe Lawrence,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Michael Lecky,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Michael Lecky,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Michael Lecky,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Ricardo Lynch,M,Jamaica,JAM,2008,Beijing,Cycling,Cycling Men's Keirin,No medal,Cycling,CTR,False
-Michael Mckay,M,Jamaica,JAM,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Rudolph Mirander,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Rudolph Mirander,M,Jamaica,JAM,1976,Montreal,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Lorenzo Murdock,M,Jamaica,JAM,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Andrew Myers,M,Jamaica,JAM,1992,Barcelona,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Andrew Myers,M,Jamaica,JAM,1992,Barcelona,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Ian Stanley,M,Jamaica,JAM,1984,Los Angeles,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Ian Stanley,M,Jamaica,JAM,1984,Los Angeles,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Arthur Tenn,M,Jamaica,JAM,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Arthur Tenn,M,Jamaica,JAM,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Arthur Tenn,M,Jamaica,JAM,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Raymond Thomas,M,Jamaica,JAM,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Errol Walters,M,Jamaica,JAM,1976,Montreal,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-David Weller,M,Jamaica,JAM,1976,Montreal,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-David Weller,M,Jamaica,JAM,1980,Moskva,Cycling,"Cycling Men's 1,000 metres Time Trial",Bronze,Cycling,CTR,True
-David Weller,M,Jamaica,JAM,1984,Los Angeles,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Peter Aldridge,M,Jamaica,JAM,1980,Moskva,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Peter Aldridge,M,Jamaica,JAM,1984,Los Angeles,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,False
+Peter Aldridge,M,Jamaica,JAM,1988,Seoul,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,False
+Honson Chin,M,Jamaica,JAM,1972,Munich,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Honson Chin,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",No medal,Cycling,CTR,True,True
+Kenneth Farnum,M,Jamaica,JAM,1952,Helsinki,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Kenneth Farnum,M,Jamaica,JAM,1952,Helsinki,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Howard Fenton,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Howard Fenton,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Howard Fenton,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",No medal,Cycling,CTR,True,True
+Howard Fenton,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Maurice Hugh-sam,M,Jamaica,JAM,1972,Munich,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Maurice Hugh-sam,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Radcliffe Lawrence,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Radcliffe Lawrence,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Michael Lecky,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Michael Lecky,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Michael Lecky,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Ricardo Lynch,M,Jamaica,JAM,2008,Beijing,Cycling,Cycling Men's Keirin,No medal,Cycling,CTR,False,True
+Michael Mckay,M,Jamaica,JAM,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Rudolph Mirander,M,Jamaica,JAM,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Rudolph Mirander,M,Jamaica,JAM,1976,Montreal,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,False
+Lorenzo Murdock,M,Jamaica,JAM,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Andrew Myers,M,Jamaica,JAM,1992,Barcelona,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Andrew Myers,M,Jamaica,JAM,1992,Barcelona,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Ian Stanley,M,Jamaica,JAM,1984,Los Angeles,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Ian Stanley,M,Jamaica,JAM,1984,Los Angeles,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,True
+Arthur Tenn,M,Jamaica,JAM,1984,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Arthur Tenn,M,Jamaica,JAM,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Arthur Tenn,M,Jamaica,JAM,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Raymond Thomas,M,Jamaica,JAM,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Errol Walters,M,Jamaica,JAM,1976,Montreal,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+David Weller,M,Jamaica,JAM,1976,Montreal,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+David Weller,M,Jamaica,JAM,1980,Moskva,Cycling,"Cycling Men's 1,000 metres Time Trial",Bronze,Cycling,CTR,True,False
+David Weller,M,Jamaica,JAM,1984,Los Angeles,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,False

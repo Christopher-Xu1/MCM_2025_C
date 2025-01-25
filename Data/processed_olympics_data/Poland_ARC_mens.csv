@@ -1,24 +1,24 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rafa Dobrowolski,M,Poland,POL,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Rafa Dobrowolski,M,Poland,POL,2008,Beijing,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Rafa Dobrowolski,M,Poland,POL,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Jacek Gilewski,M,Poland,POL,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Jacek Gilewski,M,Poland,POL,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Konrad Kwiecie,M,Poland,POL,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Konrad Kwiecie,M,Poland,POL,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Tomasz Leaski,M,Poland,POL,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Bartosz Mikos,M,Poland,POL,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Sawomir Naposzek,M,Poland,POL,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Sawomir Naposzek,M,Poland,POL,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Piotr Pitek,M,Poland,POL,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Piotr Pitek,M,Poland,POL,2008,Beijing,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Jan Popowicz,M,Poland,POL,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Jacek Pro,M,Poland,POL,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Jacek Pro,M,Poland,POL,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Jacek Pro,M,Poland,POL,2008,Beijing,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Wojciech Szymaczyk,M,Poland,POL,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Pawe Szymczak,M,Poland,POL,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Grzegorz Targoski,M,Poland,POL,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Krzysztof Wosik,M,Poland,POL,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Slawomir Naploszek,M,Poland,POL,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True
-Slawomir Naploszek,M,Poland,POL,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rafa Dobrowolski,M,Poland,POL,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Rafa Dobrowolski,M,Poland,POL,2008,Beijing,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Rafa Dobrowolski,M,Poland,POL,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Jacek Gilewski,M,Poland,POL,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Jacek Gilewski,M,Poland,POL,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Konrad Kwiecie,M,Poland,POL,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Konrad Kwiecie,M,Poland,POL,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Tomasz Leaski,M,Poland,POL,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Bartosz Mikos,M,Poland,POL,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Sawomir Naposzek,M,Poland,POL,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Sawomir Naposzek,M,Poland,POL,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Piotr Pitek,M,Poland,POL,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Piotr Pitek,M,Poland,POL,2008,Beijing,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Jan Popowicz,M,Poland,POL,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Jacek Pro,M,Poland,POL,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Jacek Pro,M,Poland,POL,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Jacek Pro,M,Poland,POL,2008,Beijing,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Wojciech Szymaczyk,M,Poland,POL,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Pawe Szymczak,M,Poland,POL,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Grzegorz Targoski,M,Poland,POL,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Krzysztof Wosik,M,Poland,POL,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Slawomir Naploszek,M,Poland,POL,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True,True
+Slawomir Naploszek,M,Poland,POL,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True

@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jlia Bendeov,F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Vra (derflov-),F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Dorota (-hbnerov),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Darina (-halkov),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Mria (-javorikov),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Hilda (-pisarkov),F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Hilda (-pisarkov),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Anna Mifkov,F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Anna Mifkov,F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Elena Moskalov-polkov,F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Elena Moskalov-polkov,F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Ivana Moulisov,F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Karla Akov,F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Jana Semeck,F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Jitka Seneck,F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Eva Irok,F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Pavlna (-kohtov),F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Vra (linhartov-),F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Irena (-pettinari),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Irena (hrdkov-),F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Jana (hlkov-),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Ludmila (-pltenkov),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Hana (-marcoliniov),F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
-Hana (-marcoliniov),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jlia Bendeov,F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Vra (derflov-),F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Dorota (-hbnerov),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Darina (-halkov),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Mria (-javorikov),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Hilda (-pisarkov),F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Hilda (-pisarkov),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,False
+Anna Mifkov,F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Anna Mifkov,F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,False
+Elena Moskalov-polkov,F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Elena Moskalov-polkov,F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,False
+Ivana Moulisov,F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Karla Akov,F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Jana Semeck,F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Jitka Seneck,F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Eva Irok,F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Pavlna (-kohtov),F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Vra (linhartov-),F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Irena (-pettinari),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Irena (hrdkov-),F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Jana (hlkov-),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Ludmila (-pltenkov),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Hana (-marcoliniov),F,Czechoslovakia,TCH,1968,Mexico City,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,True
+Hana (-marcoliniov),F,Czechoslovakia,TCH,1972,Munich,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,True,False

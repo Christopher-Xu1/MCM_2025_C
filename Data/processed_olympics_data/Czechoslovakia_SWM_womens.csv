@@ -1,33 +1,33 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elika Boubelov,F,Czechoslovakia,TCH,1936,Berlin,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Hana (-netrefov),F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Hana (-netrefov),F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Hana (-netrefov),F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Eva Chaloupkov,F,Czechoslovakia,TCH,1924,Paris,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
-Bla Drkov,F,Czechoslovakia,TCH,1924,Paris,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Vra Faitlov,F,Czechoslovakia,TCH,1972,Munich,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Vra Faitlov,F,Czechoslovakia,TCH,1972,Munich,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Irena Fleissnerov,F,Czechoslovakia,TCH,1980,Moskva,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Irena Fleissnerov,F,Czechoslovakia,TCH,1980,Moskva,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Marta (-skupilov),F,Czechoslovakia,TCH,1960,Roma,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Oga (-gubzov),F,Czechoslovakia,TCH,1968,Mexico City,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Oga (-gubzov),F,Czechoslovakia,TCH,1968,Mexico City,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Lenka Mahalov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Lenka Mahalov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Zuzana Markov,F,Czechoslovakia,TCH,1972,Munich,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Zuzana Markov,F,Czechoslovakia,TCH,1972,Munich,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Martina Moravcov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Martina Moravcov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Martina Moravcov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Martina Moravcov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Jarmila (-sukov),F,Czechoslovakia,TCH,1924,Paris,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Irma Schramkov,F,Czechoslovakia,TCH,1936,Berlin,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Irma Schramkov,F,Czechoslovakia,TCH,1936,Berlin,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Marta Skupilov,F,Czechoslovakia,TCH,1956,Melbourne,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False
-Jaroslava Slavkov,F,Czechoslovakia,TCH,1972,Munich,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Jaroslava Slavkov,F,Czechoslovakia,TCH,1972,Munich,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Jaroslava Slavkov,F,Czechoslovakia,TCH,1972,Munich,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Olga Plchalov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Olga Plchalov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Helena Strakov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Helena Strakov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elika Boubelov,F,Czechoslovakia,TCH,1936,Berlin,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Hana (-netrefov),F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Hana (-netrefov),F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Hana (-netrefov),F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Eva Chaloupkov,F,Czechoslovakia,TCH,1924,Paris,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False,True
+Bla Drkov,F,Czechoslovakia,TCH,1924,Paris,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Vra Faitlov,F,Czechoslovakia,TCH,1972,Munich,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Vra Faitlov,F,Czechoslovakia,TCH,1972,Munich,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Irena Fleissnerov,F,Czechoslovakia,TCH,1980,Moskva,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Irena Fleissnerov,F,Czechoslovakia,TCH,1980,Moskva,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Marta (-skupilov),F,Czechoslovakia,TCH,1960,Roma,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Oga (-gubzov),F,Czechoslovakia,TCH,1968,Mexico City,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Oga (-gubzov),F,Czechoslovakia,TCH,1968,Mexico City,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Lenka Mahalov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Lenka Mahalov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Zuzana Markov,F,Czechoslovakia,TCH,1972,Munich,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Zuzana Markov,F,Czechoslovakia,TCH,1972,Munich,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Martina Moravcov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Martina Moravcov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Martina Moravcov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Martina Moravcov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Jarmila (-sukov),F,Czechoslovakia,TCH,1924,Paris,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Irma Schramkov,F,Czechoslovakia,TCH,1936,Berlin,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Irma Schramkov,F,Czechoslovakia,TCH,1936,Berlin,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Marta Skupilov,F,Czechoslovakia,TCH,1956,Melbourne,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Jaroslava Slavkov,F,Czechoslovakia,TCH,1972,Munich,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Jaroslava Slavkov,F,Czechoslovakia,TCH,1972,Munich,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Jaroslava Slavkov,F,Czechoslovakia,TCH,1972,Munich,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Olga Plchalov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Olga Plchalov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Helena Strakov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Helena Strakov,F,Czechoslovakia,TCH,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True

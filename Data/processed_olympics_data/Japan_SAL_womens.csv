@@ -1,41 +1,41 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Manami Doi,F,Japan,JPN,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Manami Doi,F,Japan,JPN,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Masako Imai,F,Japan,JPN,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Masako Imai,F,Japan,JPN,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Masako Imai,F,Japan,JPN,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Megumi Iseda,F,Japan,JPN,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Naoko Kamata,F,Japan,JPN,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Yurie Kinoshita,F,Japan,JPN,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Yurie Kinoshita,F,Japan,JPN,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,True
-Yurie Kinoshita,F,Japan,JPN,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Ai Yoshida,F,Japan,JPN,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Ai Yoshida,F,Japan,JPN,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Ai Yoshida,F,Japan,JPN,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Yasuko Kosuge,F,Japan,JPN,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Keiko Miyagawa,F,Japan,JPN,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False
-Keiko Nogami,F,Japan,JPN,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Aiko Saito,F,Japan,JPN,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Aiko Saito,F,Japan,JPN,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Mitsuko Satake,F,Japan,JPN,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Maiko Sato,F,Japan,JPN,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Maiko Sato,F,Japan,JPN,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Yumiko Shige,F,Japan,JPN,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Yumiko Shige,F,Japan,JPN,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,True
-Yumiko Shige,F,Japan,JPN,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Yuki Sunaga,F,Japan,JPN,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Wakako Tabata,F,Japan,JPN,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Sena Takano,F,Japan,JPN,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,True
-Miho Yoshioka,F,Japan,JPN,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Yuka Yoshisako,F,Japan,JPN,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Manami Doi,F,Japan,JPN,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,True
-Eri Hatayama,F,Japan,JPN,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,False
-Ai Kondo,F,Japan,JPN,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False
-Yuki Sunaga,F,Japan,JPN,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,True
-Sena Takano,F,Japan,JPN,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,True
-Anna Yamazaki,F,Japan,JPN,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False
-Miho Yoshioka,F,Japan,JPN,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,True
-Oura Nishida,F,Japan,JPN,2024,Paris,Sailing,Mixed Multihull,No medal,Mixed,SAL,False
-Sera Nagamatsu,F,Japan,JPN,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,False
-Misaki Tanaka,F,Japan,JPN,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,False
-Miho Yoshioka,F,Japan,JPN,2024,Paris,Sailing,Mixed Dinghy,Silver,Mixed,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Manami Doi,F,Japan,JPN,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Manami Doi,F,Japan,JPN,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Masako Imai,F,Japan,JPN,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Masako Imai,F,Japan,JPN,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Masako Imai,F,Japan,JPN,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Megumi Iseda,F,Japan,JPN,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Naoko Kamata,F,Japan,JPN,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Yurie Kinoshita,F,Japan,JPN,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Yurie Kinoshita,F,Japan,JPN,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,True,False
+Yurie Kinoshita,F,Japan,JPN,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Ai Yoshida,F,Japan,JPN,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Ai Yoshida,F,Japan,JPN,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Ai Yoshida,F,Japan,JPN,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Yasuko Kosuge,F,Japan,JPN,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Keiko Miyagawa,F,Japan,JPN,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False,True
+Keiko Nogami,F,Japan,JPN,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Aiko Saito,F,Japan,JPN,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Aiko Saito,F,Japan,JPN,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Mitsuko Satake,F,Japan,JPN,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Maiko Sato,F,Japan,JPN,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Maiko Sato,F,Japan,JPN,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Yumiko Shige,F,Japan,JPN,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Yumiko Shige,F,Japan,JPN,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,True,False
+Yumiko Shige,F,Japan,JPN,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Yuki Sunaga,F,Japan,JPN,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Wakako Tabata,F,Japan,JPN,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Sena Takano,F,Japan,JPN,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,True,True
+Miho Yoshioka,F,Japan,JPN,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Yuka Yoshisako,F,Japan,JPN,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Manami Doi,F,Japan,JPN,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,True,False
+Eri Hatayama,F,Japan,JPN,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,False,True
+Ai Kondo,F,Japan,JPN,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False,True
+Yuki Sunaga,F,Japan,JPN,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,True,False
+Sena Takano,F,Japan,JPN,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,True,False
+Anna Yamazaki,F,Japan,JPN,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False,True
+Miho Yoshioka,F,Japan,JPN,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,True,False
+Oura Nishida,F,Japan,JPN,2024,Paris,Sailing,Mixed Multihull,No medal,Mixed,SAL,False,True
+Sera Nagamatsu,F,Japan,JPN,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,False,True
+Misaki Tanaka,F,Japan,JPN,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,False,True
+Miho Yoshioka,F,Japan,JPN,2024,Paris,Sailing,Mixed Dinghy,Silver,Mixed,SAL,True,False

@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Manfred Barth,M,West Germany,FRG,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Manfred Barth,M,West Germany,FRG,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Willi Gabriel,M,West Germany,FRG,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Armin Garnreiter,M,West Germany,FRG,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Detlef Kahlert,M,West Germany,FRG,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Detlef Kahlert,M,West Germany,FRG,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Detlef Kahlert,M,West Germany,FRG,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Richard Krust,M,West Germany,FRG,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Siegfried Ortmann,M,West Germany,FRG,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Rudolf Schiffl,M,West Germany,FRG,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Bernhard Schulkowski,M,West Germany,FRG,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Bernhard Schulkowski,M,West Germany,FRG,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Harry Wittig,M,West Germany,FRG,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Manfred Barth,M,West Germany,FRG,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Manfred Barth,M,West Germany,FRG,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Willi Gabriel,M,West Germany,FRG,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Armin Garnreiter,M,West Germany,FRG,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Detlef Kahlert,M,West Germany,FRG,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Detlef Kahlert,M,West Germany,FRG,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Detlef Kahlert,M,West Germany,FRG,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Richard Krust,M,West Germany,FRG,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Siegfried Ortmann,M,West Germany,FRG,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Rudolf Schiffl,M,West Germany,FRG,1976,Montreal,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Bernhard Schulkowski,M,West Germany,FRG,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Bernhard Schulkowski,M,West Germany,FRG,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Harry Wittig,M,West Germany,FRG,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Victor Marcari,M,Brazil,BRA,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Victor Marcari,M,Brazil,BRA,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Victor Marcari,M,Brazil,BRA,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Victor Marcari,M,Brazil,BRA,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,False

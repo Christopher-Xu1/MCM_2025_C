@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ali Al-baluchi,M,Kuwait,KUW,1988,Seoul,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False
-Husain Al-mutairi,M,Kuwait,KUW,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Saud Al-muwaizri,M,Kuwait,KUW,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ali Al-baluchi,M,Kuwait,KUW,1988,Seoul,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False,True
+Husain Al-mutairi,M,Kuwait,KUW,1988,Seoul,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Saud Al-muwaizri,M,Kuwait,KUW,1988,Seoul,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True

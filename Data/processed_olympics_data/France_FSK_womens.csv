@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Simone (roussel-),F,France,FRA,1920,Antwerpen,Figure Skating,Figure Skating Mixed Pairs,No medal,Figure,FSK,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Simone (roussel-),F,France,FRA,1920,Antwerpen,Figure Skating,Figure Skating Mixed Pairs,No medal,Figure,FSK,False,True

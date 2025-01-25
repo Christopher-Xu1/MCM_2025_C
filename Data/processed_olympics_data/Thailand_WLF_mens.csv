@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tairat Bunsuk,M,Thailand,THA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Chatuphum Chinnawong,M,Thailand,THA,2012,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Chatuphum Chinnawong,M,Thailand,THA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Preecha Chiocharn,M,Thailand,THA,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Sermbhan Chongrak,M,Thailand,THA,1964,Tokyo,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Atthaphon Daengchanthuek,M,Thailand,THA,2012,London,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Suriya Dattuyawat,M,Thailand,THA,2004,Athina,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Phaisan Hansawong,M,Thailand,THA,2008,Beijing,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Niras Haroon,M,Thailand,THA,1964,Tokyo,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Sinphet Kruaithong,M,Thailand,THA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Bantamweight,Bronze,Weightlifting,WLF,False
-Pongsak Maneetong,M,Thailand,THA,2008,Beijing,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Witoon Mingmoon,M,Thailand,THA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Chom Singnoi,M,Thailand,THA,2000,Sydney,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Chaiya Sukchinda,M,Thailand,THA,1964,Tokyo,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Chaiya Sukchinda,M,Thailand,THA,1968,Mexico City,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Chaiya Sukchinda,M,Thailand,THA,1972,Munich,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True
-Prasert Sumpradit,M,Thailand,THA,1992,Barcelona,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Sarat Sumpradit,M,Thailand,THA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Sitthisak Suphalak,M,Thailand,THA,2008,Beijing,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Sanun Tiamsert,M,Thailand,THA,1964,Tokyo,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Sanun Tiamsert,M,Thailand,THA,1968,Mexico City,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Pitaya Tibnoke,M,Thailand,THA,2012,London,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Nopadol Wanwang,M,Thailand,THA,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False
-Theerapong Silachai,M,Thailand,THA,2024,Paris,Weightlifting,Men's 61kg,Silver,Men's,WLF,False
-Weeraphon Wichuma,M,Thailand,THA,2024,Paris,Weightlifting,Men's 73kg,Silver,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tairat Bunsuk,M,Thailand,THA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Chatuphum Chinnawong,M,Thailand,THA,2012,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,True
+Chatuphum Chinnawong,M,Thailand,THA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,False
+Preecha Chiocharn,M,Thailand,THA,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Sermbhan Chongrak,M,Thailand,THA,1964,Tokyo,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Atthaphon Daengchanthuek,M,Thailand,THA,2012,London,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Suriya Dattuyawat,M,Thailand,THA,2004,Athina,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Phaisan Hansawong,M,Thailand,THA,2008,Beijing,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Niras Haroon,M,Thailand,THA,1964,Tokyo,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Sinphet Kruaithong,M,Thailand,THA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Bantamweight,Bronze,Weightlifting,WLF,False,True
+Pongsak Maneetong,M,Thailand,THA,2008,Beijing,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Witoon Mingmoon,M,Thailand,THA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Chom Singnoi,M,Thailand,THA,2000,Sydney,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Chaiya Sukchinda,M,Thailand,THA,1964,Tokyo,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,True
+Chaiya Sukchinda,M,Thailand,THA,1968,Mexico City,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,False
+Chaiya Sukchinda,M,Thailand,THA,1972,Munich,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True,False
+Prasert Sumpradit,M,Thailand,THA,1992,Barcelona,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Sarat Sumpradit,M,Thailand,THA,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Sitthisak Suphalak,M,Thailand,THA,2008,Beijing,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Sanun Tiamsert,M,Thailand,THA,1964,Tokyo,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,True
+Sanun Tiamsert,M,Thailand,THA,1968,Mexico City,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,False
+Pitaya Tibnoke,M,Thailand,THA,2012,London,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Nopadol Wanwang,M,Thailand,THA,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False,True
+Theerapong Silachai,M,Thailand,THA,2024,Paris,Weightlifting,Men's 61kg,Silver,Men's,WLF,False,True
+Weeraphon Wichuma,M,Thailand,THA,2024,Paris,Weightlifting,Men's 73kg,Silver,Men's,WLF,False,True

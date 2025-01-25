@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Javier Llorens,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False
-Pablo Ugalde,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False
-Pablo Castro,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False
-Igor Sistiaga,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False
-Francisco Jimnez,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False
-ngel Vzquez,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False
-Joan Gifra,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False
-Ignacio Goenaga,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False
-Pol Vegu,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False
-Marcos Ranwez,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False
-Csar Padilla,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False
-Matas Perret,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False
-Ignacio Martn,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Javier Llorens,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False,True
+Pablo Ugalde,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False,True
+Pablo Castro,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False,True
+Igor Sistiaga,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False,True
+Francisco Jimnez,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False,True
+ngel Vzquez,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False,True
+Joan Gifra,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False,True
+Ignacio Goenaga,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False,True
+Pol Vegu,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False,True
+Marcos Ranwez,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False,True
+Csar Padilla,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False,True
+Matas Perret,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False,True
+Ignacio Martn,M,Spain,ESP,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,No medal,Rugby,RU7,False,True

@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lydia Czuckermann-hatuel,F,Israel,ISR,1984,Los Angeles,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Lydia Czuckermann-hatuel,F,Israel,ISR,1992,Barcelona,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Lydia Czuckermann-hatuel,F,Israel,ISR,1996,Atlanta,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Lydia Czuckermann-hatuel,F,Israel,ISR,1996,Atlanta,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
-Nili Drori,F,Israel,ISR,1976,Montreal,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Nili Drori,F,Israel,ISR,1984,Los Angeles,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Delila Hatuel,F,Israel,ISR,2008,Beijing,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Noam Mills,F,Israel,ISR,2008,Beijing,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,False
-Ayelet Ohayon,F,Israel,ISR,1996,Atlanta,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Ayelet Ohayon,F,Israel,ISR,1996,Atlanta,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
-Ayelet Ohayon,F,Israel,ISR,2000,Sydney,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Ayelet Ohayon,F,Israel,ISR,2004,Athina,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Lilach Parisky,F,Israel,ISR,1996,Atlanta,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
-Lilach Parisky,F,Israel,ISR,1996,Atlanta,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lydia Czuckermann-hatuel,F,Israel,ISR,1984,Los Angeles,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Lydia Czuckermann-hatuel,F,Israel,ISR,1992,Barcelona,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,False
+Lydia Czuckermann-hatuel,F,Israel,ISR,1996,Atlanta,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,False
+Lydia Czuckermann-hatuel,F,Israel,ISR,1996,Atlanta,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True,False
+Nili Drori,F,Israel,ISR,1976,Montreal,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Nili Drori,F,Israel,ISR,1984,Los Angeles,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,False
+Delila Hatuel,F,Israel,ISR,2008,Beijing,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Noam Mills,F,Israel,ISR,2008,Beijing,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,False,True
+Ayelet Ohayon,F,Israel,ISR,1996,Atlanta,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Ayelet Ohayon,F,Israel,ISR,1996,Atlanta,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True,True
+Ayelet Ohayon,F,Israel,ISR,2000,Sydney,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,False
+Ayelet Ohayon,F,Israel,ISR,2004,Athina,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,False
+Lilach Parisky,F,Israel,ISR,1996,Atlanta,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True,True
+Lilach Parisky,F,Israel,ISR,1996,Atlanta,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True,True

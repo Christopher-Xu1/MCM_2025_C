@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zourah Ali,F,Djibouti,DJI,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Fathia Bouraleh,F,Djibouti,DJI,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Roda Wais,F,Djibouti,DJI,2000,Sydney,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False
-Kadra Dembil,F,Djibouti,DJI,2016,Rio de Janeiro,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,False
-Souhra Ali,F,Djibouti,DJI,2020,Tokyo,Athletics,Women's 1500m,No medal,Women's,ATH,False
-Samiyah Hassan,F,Djibouti,DJI,2024,Paris,Athletics,Women's 5000m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zourah Ali,F,Djibouti,DJI,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Fathia Bouraleh,F,Djibouti,DJI,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Roda Wais,F,Djibouti,DJI,2000,Sydney,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False,True
+Kadra Dembil,F,Djibouti,DJI,2016,Rio de Janeiro,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,False,True
+Souhra Ali,F,Djibouti,DJI,2020,Tokyo,Athletics,Women's 1500m,No medal,Women's,ATH,False,True
+Samiyah Hassan,F,Djibouti,DJI,2024,Paris,Athletics,Women's 5000m,No medal,Women's,ATH,False,True

@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Henri Copponex,M,Ylliam Vii,SUI,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Andr-Frdric Firmenich,M,Ylliam Vii,SUI,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-mile Lachapelle,M,Ylliam Vii,SUI,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Louis Noverraz,M,Ylliam Vii,SUI,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Charles Stern,M,Ylliam Vii,SUI,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Marcel Stern,M,Ylliam Vii,SUI,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Henri Copponex,M,Ylliam Vii,SUI,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Andr-Frdric Firmenich,M,Ylliam Vii,SUI,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+mile Lachapelle,M,Ylliam Vii,SUI,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Louis Noverraz,M,Ylliam Vii,SUI,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Charles Stern,M,Ylliam Vii,SUI,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Marcel Stern,M,Ylliam Vii,SUI,1948,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

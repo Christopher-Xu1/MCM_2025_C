@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Donald Christian,M,Antigua And Barbuda,ANT,1976,Montreal,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Donald Christian,M,Antigua And Barbuda,ANT,1976,Montreal,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Charles Fabian,M,Antigua And Barbuda,ANT,1988,Seoul,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,False
-Rory Gonsalves,M,Antigua And Barbuda,ANT,1996,Atlanta,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
-Elisha Hughes,M,Antigua And Barbuda,ANT,1984,Los Angeles,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,False
-Nigel Lloyd,M,Antigua And Barbuda,ANT,1988,Seoul,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Nigel Lloyd,M,Antigua And Barbuda,ANT,1988,Seoul,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Nigel Lloyd,M,Antigua And Barbuda,ANT,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Nigel Lloyd,M,Antigua And Barbuda,ANT,1992,Barcelona,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Nigel Lloyd,M,Antigua And Barbuda,ANT,1992,Barcelona,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Brian Lyn,M,Antigua And Barbuda,ANT,1984,Los Angeles,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,False
-Robert Marsh,M,Antigua And Barbuda,ANT,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Robert Peters,M,Antigua And Barbuda,ANT,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Robert Peters,M,Antigua And Barbuda,ANT,1992,Barcelona,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Leonard Richardson,M,Antigua And Barbuda,ANT,1984,Los Angeles,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Leonard Richardson,M,Antigua And Barbuda,ANT,1984,Los Angeles,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Patrick Spencer,M,Antigua And Barbuda,ANT,1976,Montreal,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Donald Christian,M,Antigua And Barbuda,ANT,1976,Montreal,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Donald Christian,M,Antigua And Barbuda,ANT,1976,Montreal,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Charles Fabian,M,Antigua And Barbuda,ANT,1988,Seoul,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,False,True
+Rory Gonsalves,M,Antigua And Barbuda,ANT,1996,Atlanta,Cycling,"Cycling Men's Mountainbike, Cross-Country",No medal,Cycling,CTR,False,True
+Elisha Hughes,M,Antigua And Barbuda,ANT,1984,Los Angeles,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,False,True
+Nigel Lloyd,M,Antigua And Barbuda,ANT,1988,Seoul,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Nigel Lloyd,M,Antigua And Barbuda,ANT,1988,Seoul,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,True
+Nigel Lloyd,M,Antigua And Barbuda,ANT,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Nigel Lloyd,M,Antigua And Barbuda,ANT,1992,Barcelona,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,False
+Nigel Lloyd,M,Antigua And Barbuda,ANT,1992,Barcelona,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,False
+Brian Lyn,M,Antigua And Barbuda,ANT,1984,Los Angeles,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,False,True
+Robert Marsh,M,Antigua And Barbuda,ANT,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Robert Peters,M,Antigua And Barbuda,ANT,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Robert Peters,M,Antigua And Barbuda,ANT,1992,Barcelona,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Leonard Richardson,M,Antigua And Barbuda,ANT,1984,Los Angeles,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Leonard Richardson,M,Antigua And Barbuda,ANT,1984,Los Angeles,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Patrick Spencer,M,Antigua And Barbuda,ANT,1976,Montreal,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,False,True

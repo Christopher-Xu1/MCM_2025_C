@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gabriele (-preiler),F,West Germany,FRG,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Ute Enzenauer,F,West Germany,FRG,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Judith (-tiemann),F,West Germany,FRG,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",Silver,Cycling,CTR,False
-Viola Paulitz,F,West Germany,FRG,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
-Sandra Schumacher,F,West Germany,FRG,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",Bronze,Cycling,CTR,False
-Ines (-carlsen),F,West Germany,FRG,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
-Ines (-carlsen),F,West Germany,FRG,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gabriele (-preiler),F,West Germany,FRG,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Ute Enzenauer,F,West Germany,FRG,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Judith (-tiemann),F,West Germany,FRG,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",Silver,Cycling,CTR,False,True
+Viola Paulitz,F,West Germany,FRG,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False,True
+Sandra Schumacher,F,West Germany,FRG,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",Bronze,Cycling,CTR,False,True
+Ines (-carlsen),F,West Germany,FRG,1984,Los Angeles,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,True
+Ines (-carlsen),F,West Germany,FRG,1988,Seoul,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True,False

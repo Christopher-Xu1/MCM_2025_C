@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abeiku Jackson,M,Ghana,GHA,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Abeku Jackson,M,Ghana,GHA,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False
-Harry Stacey,M,Ghana,GHA,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abeiku Jackson,M,Ghana,GHA,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Abeku Jackson,M,Ghana,GHA,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False,True
+Harry Stacey,M,Ghana,GHA,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True

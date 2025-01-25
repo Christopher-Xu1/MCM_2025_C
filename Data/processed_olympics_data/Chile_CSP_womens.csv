@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maria Mailliard,F,Chile,CHI,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Maria Mailliard,F,Chile,CHI,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True
-Karen Roco,F,Chile,CHI,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True
-Paula Gomez,F,Chile,CHI,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,False
-Jose Mailliard,F,Chile,CHI,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
-Jose Mailliard,F,Chile,CHI,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,True
-Karen Roco,F,Chile,CHI,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maria Mailliard,F,Chile,CHI,2020,Tokyo,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Maria Mailliard,F,Chile,CHI,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True,True
+Karen Roco,F,Chile,CHI,2020,Tokyo,Canoe Sprint,Women's Canoe Double 500m Team,No medal,Women's,CSP,True,True
+Paula Gomez,F,Chile,CHI,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,False,True
+Jose Mailliard,F,Chile,CHI,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,True
+Jose Mailliard,F,Chile,CHI,2024,Paris,Canoe Sprint,Women's Canoe Double 500m,No medal,Women's,CSP,True,True
+Karen Roco,F,Chile,CHI,2024,Paris,Canoe Sprint,Women's Canoe Single 200m,No medal,Women's,CSP,True,False

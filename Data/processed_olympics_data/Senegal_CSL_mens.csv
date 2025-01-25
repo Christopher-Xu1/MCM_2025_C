@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jean-Pierre Bourhis,M,Senegal,SEN,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,False
-Assane Fall,M,Senegal,SEN,2008,Beijing,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True
-Assane Fall,M,Senegal,SEN,2008,Beijing,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True
-Ndiatte Gueye,M,Senegal,SEN,2012,London,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,Canoeing,CSL,True
-Ndiatte Gueye,M,Senegal,SEN,2012,London,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",No medal,Canoeing,CSL,True
-Pierre Bourhis,M,Senegal,SEN,2020,Tokyo,Canoe Slalom,Men's Canoe,No medal,Men's,CSL,False
-Yves Bourhis,M,Senegal,SEN,2024,Paris,Canoe Slalom,Men's Canoe Single,No medal,Men's,CSL,True
-Yves Bourhis,M,Senegal,SEN,2024,Paris,Canoe Slalom,Men's Kayak Single,No medal,Men's,CSL,True
-Yves Bourhis,M,Senegal,SEN,2024,Paris,Canoe Slalom,Men's Kayak Cross,No medal,Men's,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jean-Pierre Bourhis,M,Senegal,SEN,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, Slalom",No medal,Canoeing,CSL,False,True
+Assane Fall,M,Senegal,SEN,2008,Beijing,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",No medal,Canoeing,CSL,True,True
+Assane Fall,M,Senegal,SEN,2008,Beijing,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True,True
+Ndiatte Gueye,M,Senegal,SEN,2012,London,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,Canoeing,CSL,True,True
+Ndiatte Gueye,M,Senegal,SEN,2012,London,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",No medal,Canoeing,CSL,True,True
+Pierre Bourhis,M,Senegal,SEN,2020,Tokyo,Canoe Slalom,Men's Canoe,No medal,Men's,CSL,False,True
+Yves Bourhis,M,Senegal,SEN,2024,Paris,Canoe Slalom,Men's Canoe Single,No medal,Men's,CSL,True,True
+Yves Bourhis,M,Senegal,SEN,2024,Paris,Canoe Slalom,Men's Kayak Single,No medal,Men's,CSL,True,True
+Yves Bourhis,M,Senegal,SEN,2024,Paris,Canoe Slalom,Men's Kayak Cross,No medal,Men's,CSL,True,True

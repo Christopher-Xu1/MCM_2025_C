@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Choe Hyong-gil,M,North Korea,PRK,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Choe Hyong-gil,M,North Korea,PRK,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Choe Hyong-gil,M,North Korea,PRK,2004,Athina,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Kim Chon-man,M,North Korea,PRK,2008,Beijing,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Pak Yong-ryong,M,North Korea,PRK,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Pak Yong-ryong,M,North Korea,PRK,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Pak Yong-ryong,M,North Korea,PRK,2004,Athina,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Ri Hyun-ju,M,North Korea,PRK,2012,London,Diving,Diving Men's Platform,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Choe Hyong-gil,M,North Korea,PRK,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Choe Hyong-gil,M,North Korea,PRK,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Choe Hyong-gil,M,North Korea,PRK,2004,Athina,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Kim Chon-man,M,North Korea,PRK,2008,Beijing,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Pak Yong-ryong,M,North Korea,PRK,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Pak Yong-ryong,M,North Korea,PRK,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Pak Yong-ryong,M,North Korea,PRK,2004,Athina,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Ri Hyun-ju,M,North Korea,PRK,2012,London,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True

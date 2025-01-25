@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Khristos Brisimitzakis,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,True
-Khristos Brisimitzakis,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 mile),No medal,Rowing,ROW,True
-Khristos Brisimitzakis,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Dimitrios Kountouris,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,True
-Dimitrios Kountouris,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Parmenios Nomikos,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 mile),No medal,Rowing,ROW,True
-Parmenios Nomikos,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Georgios Tsakonas,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False
-Ioannis Venieris,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,False
-Nikolaos Vianginis,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 mile),No medal,Rowing,ROW,True
-Nikolaos Vianginis,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Khristos Brisimitzakis,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,True,True
+Khristos Brisimitzakis,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 mile),No medal,Rowing,ROW,True,True
+Khristos Brisimitzakis,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Dimitrios Kountouris,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,True,True
+Dimitrios Kountouris,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Parmenios Nomikos,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 mile),No medal,Rowing,ROW,True,True
+Parmenios Nomikos,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Georgios Tsakonas,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,False,True
+Ioannis Venieris,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 kilometres),No medal,Rowing,ROW,False,True
+Nikolaos Vianginis,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Pairs (1 mile),No medal,Rowing,ROW,True,True
+Nikolaos Vianginis,M,Panhellenios Gymnastikos Syllogos-1,GRE,1906,Athina,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True

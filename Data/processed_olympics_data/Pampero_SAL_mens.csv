@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Boris Belada,M,Pampero,ARG,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Horacio Campi,M,Pampero,ARG,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Jorge Slas,M,Pampero,ARG,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Jorge Slas,M,Pampero,ARG,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Arnoldo Pekelharing,M,Pampero,ARG,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Jorge Chvez,M,Pampero,ARG,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Jorge Chvez,M,Pampero,ARG,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Roberto Safoure,M,Pampero,ARG,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Roberto Safoure,M,Pampero,ARG,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Boris Belada,M,Pampero,ARG,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Horacio Campi,M,Pampero,ARG,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Jorge Slas,M,Pampero,ARG,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,True
+Jorge Slas,M,Pampero,ARG,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Arnoldo Pekelharing,M,Pampero,ARG,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Jorge Chvez,M,Pampero,ARG,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,True
+Jorge Chvez,M,Pampero,ARG,1956,Melbourne,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Roberto Safoure,M,Pampero,ARG,1948,London,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,True
+Roberto Safoure,M,Pampero,ARG,1952,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False

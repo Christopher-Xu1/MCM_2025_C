@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Samuel Alegada,M,Philippines,PHI,1988,Seoul,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Alberto Canlas,M,Philippines,PHI,1960,Roma,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Gregorio Colonia,M,Philippines,PHI,1988,Seoul,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Nestor Colonia,M,Philippines,PHI,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Arturo Dandan,M,Philippines,PHI,1968,Mexico City,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Arturo Rosario,M,Philippines,PHI,1972,Munich,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Arturo Rosario,M,Philippines,PHI,1976,Montreal,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Rodrigo Rosario,M,Philippines,PHI,1948,London,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Rodrigo Rosario,M,Philippines,PHI,1952,Helsinki,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Rodrigo Rosario,M,Philippines,PHI,1956,Melbourne,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Salvador Rosario,M,Philippines,PHI,1968,Mexico City,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Salvador Rosario,M,Philippines,PHI,1972,Munich,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True
-Salvador Rosario,M,Philippines,PHI,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True
-Pedro Landero,M,Philippines,PHI,1952,Helsinki,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Pedro Landero,M,Philippines,PHI,1956,Melbourne,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Alberto Nogar,M,Philippines,PHI,1960,Roma,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Noe Rinonos,M,Philippines,PHI,1968,Mexico City,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Artemio Rocamora,M,Philippines,PHI,1964,Tokyo,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Ramn Solis,M,Philippines,PHI,1988,Seoul,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Nigel Trance,M,Philippines,PHI,1972,Munich,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Febuar Ceniza,M,Philippines,PHI,2024,Paris,Weightlifting,Men's 61kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Samuel Alegada,M,Philippines,PHI,1988,Seoul,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Alberto Canlas,M,Philippines,PHI,1960,Roma,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Gregorio Colonia,M,Philippines,PHI,1988,Seoul,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Nestor Colonia,M,Philippines,PHI,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Arturo Dandan,M,Philippines,PHI,1968,Mexico City,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Arturo Rosario,M,Philippines,PHI,1972,Munich,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,True
+Arturo Rosario,M,Philippines,PHI,1976,Montreal,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,False
+Rodrigo Rosario,M,Philippines,PHI,1948,London,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,True
+Rodrigo Rosario,M,Philippines,PHI,1952,Helsinki,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,False
+Rodrigo Rosario,M,Philippines,PHI,1956,Melbourne,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,False
+Salvador Rosario,M,Philippines,PHI,1968,Mexico City,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,True
+Salvador Rosario,M,Philippines,PHI,1972,Munich,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True,False
+Salvador Rosario,M,Philippines,PHI,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True,False
+Pedro Landero,M,Philippines,PHI,1952,Helsinki,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,True
+Pedro Landero,M,Philippines,PHI,1956,Melbourne,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,False
+Alberto Nogar,M,Philippines,PHI,1960,Roma,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Noe Rinonos,M,Philippines,PHI,1968,Mexico City,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Artemio Rocamora,M,Philippines,PHI,1964,Tokyo,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Ramn Solis,M,Philippines,PHI,1988,Seoul,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Nigel Trance,M,Philippines,PHI,1972,Munich,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Febuar Ceniza,M,Philippines,PHI,2024,Paris,Weightlifting,Men's 61kg,No medal,Men's,WLF,False,True

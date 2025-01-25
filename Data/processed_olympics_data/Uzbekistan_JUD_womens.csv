@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zinnura Dzhurayeva,F,Uzbekistan,UZB,2008,Beijing,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
-Gulnoza Matniyazova,F,Uzbekistan,UZB,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Mariya Shekirova,F,Uzbekistan,UZB,2008,Beijing,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
-Diyora Keldiyorova,F,Uzbekistan,UZB,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,True
-Diyora Keldiyorova,F,Uzbekistan,UZB,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
-Farangiz Khojieva,F,Uzbekistan,UZB,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,True
-Farangiz Khojieva,F,Uzbekistan,UZB,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
-Gulnoza Matniyazova,F,Uzbekistan,UZB,2020,Tokyo,Judo,Women -70 kg,No medal,Women,JUD,True
-Gulnoza Matniyazova,F,Uzbekistan,UZB,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
-Khalimajon Kurbonova,F,Uzbekistan,UZB,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,True
-Khalimajon Kurbonova,F,Uzbekistan,UZB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Diyora Keldiyorova,F,Uzbekistan,UZB,2024,Paris,Judo,Women -52 kg,Gold,Women,JUD,True
-Diyora Keldiyorova,F,Uzbekistan,UZB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Shukurjon Aminova,F,Uzbekistan,UZB,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,True
-Shukurjon Aminova,F,Uzbekistan,UZB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Gulnoza Matniyazova,F,Uzbekistan,UZB,2024,Paris,Judo,Women -70 kg,No medal,Women,JUD,True
-Gulnoza Matniyazova,F,Uzbekistan,UZB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
-Iriskhon Kurbanbaeva,F,Uzbekistan,UZB,2024,Paris,Judo,Women -78 kg,No medal,Women,JUD,True
-Iriskhon Kurbanbaeva,F,Uzbekistan,UZB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zinnura Dzhurayeva,F,Uzbekistan,UZB,2008,Beijing,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True
+Gulnoza Matniyazova,F,Uzbekistan,UZB,2016,Rio de Janeiro,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,True
+Mariya Shekirova,F,Uzbekistan,UZB,2008,Beijing,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False,True
+Diyora Keldiyorova,F,Uzbekistan,UZB,2020,Tokyo,Judo,Women -52 kg,No medal,Women,JUD,True,True
+Diyora Keldiyorova,F,Uzbekistan,UZB,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Farangiz Khojieva,F,Uzbekistan,UZB,2020,Tokyo,Judo,Women -63 kg,No medal,Women,JUD,True,True
+Farangiz Khojieva,F,Uzbekistan,UZB,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Gulnoza Matniyazova,F,Uzbekistan,UZB,2020,Tokyo,Judo,Women -70 kg,No medal,Women,JUD,True,False
+Gulnoza Matniyazova,F,Uzbekistan,UZB,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True,False
+Khalimajon Kurbonova,F,Uzbekistan,UZB,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,True,True
+Khalimajon Kurbonova,F,Uzbekistan,UZB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Diyora Keldiyorova,F,Uzbekistan,UZB,2024,Paris,Judo,Women -52 kg,Gold,Women,JUD,True,False
+Diyora Keldiyorova,F,Uzbekistan,UZB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,False
+Shukurjon Aminova,F,Uzbekistan,UZB,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,True,True
+Shukurjon Aminova,F,Uzbekistan,UZB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,True
+Gulnoza Matniyazova,F,Uzbekistan,UZB,2024,Paris,Judo,Women -70 kg,No medal,Women,JUD,True,False
+Gulnoza Matniyazova,F,Uzbekistan,UZB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,False
+Iriskhon Kurbanbaeva,F,Uzbekistan,UZB,2024,Paris,Judo,Women -78 kg,No medal,Women,JUD,True,True
+Iriskhon Kurbanbaeva,F,Uzbekistan,UZB,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True,True

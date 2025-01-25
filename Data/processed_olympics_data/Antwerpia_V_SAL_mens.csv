@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fernand Carlier,M,Antwerpia V,BEL,1924,Paris,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Guillaume L'arbre,M,Antwerpia V,BEL,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Bronze,Sailing,SAL,False
-Albert Grisar,M,Antwerpia V,BEL,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Bronze,Sailing,SAL,False
-Georges Sr.,M,Antwerpia V,BEL,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Bronze,Sailing,SAL,False
-Maurice Passelecq,M,Antwerpia V,BEL,1924,Paris,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Emmanuel Pauwels,M,Antwerpia V,BEL,1924,Paris,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Lopold Standaert,M,Antwerpia V,BEL,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Bronze,Sailing,SAL,False
-Paul Halteren,M,Antwerpia V,BEL,1924,Paris,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Victor Vandersleyen,M,Antwerpia V,BEL,1924,Paris,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Henri Weewauters,M,Antwerpia V,BEL,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fernand Carlier,M,Antwerpia V,BEL,1924,Paris,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Guillaume L'arbre,M,Antwerpia V,BEL,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Bronze,Sailing,SAL,False,True
+Albert Grisar,M,Antwerpia V,BEL,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Bronze,Sailing,SAL,False,True
+Georges Sr.,M,Antwerpia V,BEL,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Bronze,Sailing,SAL,False,True
+Maurice Passelecq,M,Antwerpia V,BEL,1924,Paris,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Emmanuel Pauwels,M,Antwerpia V,BEL,1924,Paris,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Lopold Standaert,M,Antwerpia V,BEL,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Bronze,Sailing,SAL,False,True
+Paul Halteren,M,Antwerpia V,BEL,1924,Paris,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Victor Vandersleyen,M,Antwerpia V,BEL,1924,Paris,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Henri Weewauters,M,Antwerpia V,BEL,1920,Antwerpen,Sailing,Sailing Mixed 8 metres,Bronze,Sailing,SAL,False,True

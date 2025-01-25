@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rami Anis,M,Refugee Olympic Athletes,ROT,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Rami Anis,M,Refugee Olympic Athletes,ROT,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rami Anis,M,Refugee Olympic Athletes,ROT,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Rami Anis,M,Refugee Olympic Athletes,ROT,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True

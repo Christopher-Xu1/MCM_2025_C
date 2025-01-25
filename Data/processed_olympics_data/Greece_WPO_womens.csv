@@ -1,40 +1,40 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Stavroula Antonakou,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Dimitra Asilian,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,False
-Alexandra Asimaki,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True
-Georgia Ellinaki,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,True
-Georgia Ellinaki,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True
-Angeliki Gerolymou,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Sofia Iosifidou,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Eftykhia Karagianni,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,False
-Angeliki Karapataki,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,False
-Stavroula Kozomboli,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,True
-Stavroula Kozomboli,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True
-Giouli Lara,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,True
-Giouli Lara,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True
-Kyriaki Liosi,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,True
-Kyriaki Liosi,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True
-Antiopi Melidoni,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,False
-Antonia Moraiti,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,False
-Evangelia Moraitidou,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,True
-Evangelia Moraitidou,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True
-Anthoula Mylonaki,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,False
-Katerina Oikonomopoulou,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,True
-Katerina Oikonomopoulou,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True
-Antigoni Roumbesi,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,True
-Antigoni Roumbesi,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True
-Christina Tsoukala,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Maria Tsouri,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False
-Chrysoula Diamantopoulou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False
-Nikoleta Eleftheriadou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False
-Maria Myriokefalitaki,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False
-Eirini Ninou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False
-Maria Patra,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False
-Margarita Plevritou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False
-Eleftheria Plevritou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False
-Alexandra Asimaki,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,True
-Ioanna Stamatopoulou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False
-Ioanna Chydirioti,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False
-Dimitra Giannopoulou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False
-Vasiliki Plevritou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False
-Eleni Xenaki,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Stavroula Antonakou,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Dimitra Asilian,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,False,True
+Alexandra Asimaki,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True,True
+Georgia Ellinaki,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,True,True
+Georgia Ellinaki,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True,False
+Angeliki Gerolymou,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Sofia Iosifidou,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Eftykhia Karagianni,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,False,True
+Angeliki Karapataki,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,False,True
+Stavroula Kozomboli,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,True,True
+Stavroula Kozomboli,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True,False
+Giouli Lara,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,True,True
+Giouli Lara,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True,False
+Kyriaki Liosi,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,True,True
+Kyriaki Liosi,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True,False
+Antiopi Melidoni,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,False,True
+Antonia Moraiti,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,False,True
+Evangelia Moraitidou,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,True,True
+Evangelia Moraitidou,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True,False
+Anthoula Mylonaki,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,False,True
+Katerina Oikonomopoulou,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,True,True
+Katerina Oikonomopoulou,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True,False
+Antigoni Roumbesi,F,Greece,GRE,2004,Athina,Water Polo,Water Polo Women's Water Polo,Silver,Water,WPO,True,True
+Antigoni Roumbesi,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,True,False
+Christina Tsoukala,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Maria Tsouri,F,Greece,GRE,2008,Beijing,Water Polo,Water Polo Women's Water Polo,No medal,Water,WPO,False,True
+Chrysoula Diamantopoulou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False,True
+Nikoleta Eleftheriadou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False,True
+Maria Myriokefalitaki,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False,True
+Eirini Ninou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False,True
+Maria Patra,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False,True
+Margarita Plevritou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False,True
+Eleftheria Plevritou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False,True
+Alexandra Asimaki,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,True,False
+Ioanna Stamatopoulou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False,True
+Ioanna Chydirioti,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False,True
+Dimitra Giannopoulou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False,True
+Vasiliki Plevritou,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False,True
+Eleni Xenaki,F,Greece,GRE,2024,Paris,Water Polo,Women,No medal,Women,WPO,False,True

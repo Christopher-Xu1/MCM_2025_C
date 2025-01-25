@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Paul Barth,M,West Germany,FRG,1972,Munich,Judo,Judo Men's Half-Heavyweight,Bronze,Judo,JUD,False
-Michael Bazynski,M,West Germany,FRG,1988,Seoul,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Helmut Dietz,M,West Germany,FRG,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Engelbert Drbrandt,M,West Germany,FRG,1972,Munich,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Gerd Egger,M,West Germany,FRG,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Klaus Glahn,M,West Germany,FRG,1972,Munich,Judo,Judo Men's Heavyweight,Silver,Judo,JUD,True
-Klaus Glahn,M,West Germany,FRG,1972,Munich,Judo,Judo Men's Open Class,No medal,Judo,JUD,True
-Peter Jupke,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Wolfram Koppen,M,West Germany,FRG,1972,Munich,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Alexander Leibkind,M,West Germany,FRG,1976,Montreal,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Alfred Marhenke,M,West Germany,FRG,1976,Montreal,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Marcus Meiling,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Marcus Meiling,M,West Germany,FRG,1988,Seoul,Judo,Judo Men's Half-Heavyweight,Silver,Judo,JUD,True
-Gnther Neureuther,M,West Germany,FRG,1976,Montreal,Judo,Judo Men's Heavyweight,Silver,Judo,JUD,True
-Gnther Neureuther,M,West Germany,FRG,1976,Montreal,Judo,Judo Men's Open Class,No medal,Judo,JUD,True
-Gnther Neureuther,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Half-Heavyweight,Bronze,Judo,JUD,True
-James Rohleder,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Arthur Schnabel,M,West Germany,FRG,1976,Montreal,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Arthur Schnabel,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Open Class,Bronze,Judo,JUD,True
-Guido Schumacher,M,West Germany,FRG,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Steffen Stranz,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Steffen Stranz,M,West Germany,FRG,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Alexander Groeben,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Alexander Groeben,M,West Germany,FRG,1988,Seoul,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Frank Wieneke,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,Gold,Judo,JUD,True
-Frank Wieneke,M,West Germany,FRG,1988,Seoul,Judo,Judo Men's Half-Middleweight,Silver,Judo,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Paul Barth,M,West Germany,FRG,1972,Munich,Judo,Judo Men's Half-Heavyweight,Bronze,Judo,JUD,False,True
+Michael Bazynski,M,West Germany,FRG,1988,Seoul,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Helmut Dietz,M,West Germany,FRG,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Engelbert Drbrandt,M,West Germany,FRG,1972,Munich,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Gerd Egger,M,West Germany,FRG,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Klaus Glahn,M,West Germany,FRG,1972,Munich,Judo,Judo Men's Heavyweight,Silver,Judo,JUD,True,True
+Klaus Glahn,M,West Germany,FRG,1972,Munich,Judo,Judo Men's Open Class,No medal,Judo,JUD,True,True
+Peter Jupke,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Wolfram Koppen,M,West Germany,FRG,1972,Munich,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Alexander Leibkind,M,West Germany,FRG,1976,Montreal,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Alfred Marhenke,M,West Germany,FRG,1976,Montreal,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Marcus Meiling,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,True
+Marcus Meiling,M,West Germany,FRG,1988,Seoul,Judo,Judo Men's Half-Heavyweight,Silver,Judo,JUD,True,False
+Gnther Neureuther,M,West Germany,FRG,1976,Montreal,Judo,Judo Men's Heavyweight,Silver,Judo,JUD,True,True
+Gnther Neureuther,M,West Germany,FRG,1976,Montreal,Judo,Judo Men's Open Class,No medal,Judo,JUD,True,True
+Gnther Neureuther,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Half-Heavyweight,Bronze,Judo,JUD,True,False
+James Rohleder,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Arthur Schnabel,M,West Germany,FRG,1976,Montreal,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,True
+Arthur Schnabel,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Open Class,Bronze,Judo,JUD,True,False
+Guido Schumacher,M,West Germany,FRG,1988,Seoul,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Steffen Stranz,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Steffen Stranz,M,West Germany,FRG,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False
+Alexander Groeben,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,True
+Alexander Groeben,M,West Germany,FRG,1988,Seoul,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Frank Wieneke,M,West Germany,FRG,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,Gold,Judo,JUD,True,True
+Frank Wieneke,M,West Germany,FRG,1988,Seoul,Judo,Judo Men's Half-Middleweight,Silver,Judo,JUD,True,False

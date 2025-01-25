@@ -1,54 +1,54 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Guido Torales,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Francisco Roln,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Celso Gaviln,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Fredy Gamarra,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False
-Diego Cceres,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False
-dgar Cceres,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False
-Arsenio Zarza,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Pedro Domnguez,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False
-Harles Molinas,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Mauro Lpez,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Jorge Velsquez,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Jos Otaz,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False
-Ernesto Cruz,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False
-Jos Snchez,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False
-Osvaldo Gimnez,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False
-Andrs Villamayor,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Julio Ferreira,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,True
-Celso Gonzlez,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False
-Francisco Romero,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Diego Matiauda,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False
-Carlos Pavon,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,True
-Carlos Pavon,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,True
-Pablo Gimnez,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False
-Julio Ferreira,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,True
-Juan Martnez,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Julio Caffarena,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False
-Juan Talavera,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Emilio Martnez,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False
-Gustavo Rodrguez,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Rubn Romero,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Ricardo Acua,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Hugo Franco,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Aureliano Romn,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False
-Julio Torres,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False
-Alan Nunez,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Alexis Cantero,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Enso Gonzalez,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Fernando Roman,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Gilberto Flores,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Kevin Parzajuk,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Daniel Rivas,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Lucena Cardozo,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Marcelo Fernandez,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Marcelo Perez,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Gatito Fernandez,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Rodrigo Frutos,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-de Ronaldo,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Wilder Viera,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Fabian Balbuena,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Diego Gomez,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Julio Enciso,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Marcos Gomez,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
-Gustavo Caballero,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Guido Torales,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Francisco Roln,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Celso Gaviln,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Fredy Gamarra,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False,True
+Diego Cceres,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False,True
+dgar Cceres,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False,True
+Arsenio Zarza,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Pedro Domnguez,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False,True
+Harles Molinas,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Mauro Lpez,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Jorge Velsquez,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Jos Otaz,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False,True
+Ernesto Cruz,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False,True
+Jos Snchez,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False,True
+Osvaldo Gimnez,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False,True
+Andrs Villamayor,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Julio Ferreira,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,True,True
+Celso Gonzlez,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False,True
+Francisco Romero,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Diego Matiauda,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False,True
+Carlos Pavon,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,True,True
+Carlos Pavon,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,True,False
+Pablo Gimnez,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False,True
+Julio Ferreira,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,True,True
+Juan Martnez,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Julio Caffarena,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False,True
+Juan Talavera,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Emilio Martnez,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False,True
+Gustavo Rodrguez,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Rubn Romero,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Ricardo Acua,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Hugo Franco,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Aureliano Romn,M,Paraguay,PAR,2004,Athina,Football,Football Men's Football,Silver,Football,FBL,False,True
+Julio Torres,M,Paraguay,PAR,1992,Barcelona,Football,Football Men's Football,No medal,Football,FBL,False,True
+Alan Nunez,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Alexis Cantero,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Enso Gonzalez,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Fernando Roman,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Gilberto Flores,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Kevin Parzajuk,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Daniel Rivas,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Lucena Cardozo,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Marcelo Fernandez,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Marcelo Perez,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Gatito Fernandez,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Rodrigo Frutos,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+de Ronaldo,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Wilder Viera,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Fabian Balbuena,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Diego Gomez,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Julio Enciso,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Marcos Gomez,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True
+Gustavo Caballero,M,Paraguay,PAR,2024,Paris,Football,Men,No medal,Men,FBL,False,True

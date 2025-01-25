@@ -1,48 +1,48 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ai Fujinuma,F,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Ai Fujinuma,F,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Ai Fukuhara,F,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Ai Fukuhara,F,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Ai Fukuhara,F,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Ai Fukuhara,F,Japan,JPN,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Ai Fukuhara,F,Japan,JPN,2012,London,Table Tennis,Table Tennis Women's Team,Silver,Table,TTE,True
-Ai Fukuhara,F,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Ai Fukuhara,F,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Bronze,Table,TTE,True
-Haruna Fukuoka,F,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Haruna Fukuoka,F,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Sayaka Hirano,F,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Sayaka Hirano,F,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True
-Sayaka Hirano,F,Japan,JPN,2012,London,Table Tennis,Table Tennis Women's Team,Silver,Table,TTE,True
-Mika Hoshino,F,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Mika Hoshino,F,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Mika Hoshino,F,Japan,JPN,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Kiyomi Ishida,F,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Kiyomi Ishida,F,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Kasumi Ishikawa,F,Japan,JPN,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Kasumi Ishikawa,F,Japan,JPN,2012,London,Table Tennis,Table Tennis Women's Team,Silver,Table,TTE,True
-Kasumi Ishikawa,F,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Kasumi Ishikawa,F,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Bronze,Table,TTE,True
-Mima Ito,F,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Bronze,Table,TTE,True
-An Konishi,F,Japan,JPN,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Chire Koyama,F,Japan,JPN,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Chire Koyama,F,Japan,JPN,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Rinko Sakata,F,Japan,JPN,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Rika Sato,F,Japan,JPN,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Rika Sato,F,Japan,JPN,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Taeko Todo,F,Japan,JPN,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Kyoko Uchiyama,F,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Aya Umemura,F,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Aya Umemura,F,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Fumiyo Yamashita-kaizu,F,Japan,JPN,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Miu Hirano,F,Japan,JPN,2020,Tokyo,Table Tennis,Women's Team,Silver,Women's,TTE,True
-Kasumi Ishikawa,F,Japan,JPN,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Kasumi Ishikawa,F,Japan,JPN,2020,Tokyo,Table Tennis,Women's Team,Silver,Women's,TTE,True
-Mima Ito,F,Japan,JPN,2020,Tokyo,Table Tennis,Women's Singles,Bronze,Women's,TTE,True
-Mima Ito,F,Japan,JPN,2020,Tokyo,Table Tennis,Mixed Doubles Team,Gold,Mixed,TTE,True
-Mima Ito,F,Japan,JPN,2020,Tokyo,Table Tennis,Women's Team,Silver,Women's,TTE,True
-Miwa Harimoto,F,Japan,JPN,2024,Paris,Table Tennis,Women's Team,Silver,Women's,TTE,False
-Hina Hayata,F,Japan,JPN,2024,Paris,Table Tennis,Women's Singles,Bronze,Women's,TTE,True
-Hina Hayata,F,Japan,JPN,2024,Paris,Table Tennis,Women's Team,Silver,Women's,TTE,True
-Hina Hayata,F,Japan,JPN,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True
-Miu Hirano,F,Japan,JPN,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Miu Hirano,F,Japan,JPN,2024,Paris,Table Tennis,Women's Team,Silver,Women's,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ai Fujinuma,F,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Ai Fujinuma,F,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Ai Fukuhara,F,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Ai Fukuhara,F,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Ai Fukuhara,F,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,False
+Ai Fukuhara,F,Japan,JPN,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Ai Fukuhara,F,Japan,JPN,2012,London,Table Tennis,Table Tennis Women's Team,Silver,Table,TTE,True,False
+Ai Fukuhara,F,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Ai Fukuhara,F,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Bronze,Table,TTE,True,False
+Haruna Fukuoka,F,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Haruna Fukuoka,F,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Sayaka Hirano,F,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Sayaka Hirano,F,Japan,JPN,2008,Beijing,Table Tennis,Table Tennis Women's Team,No medal,Table,TTE,True,True
+Sayaka Hirano,F,Japan,JPN,2012,London,Table Tennis,Table Tennis Women's Team,Silver,Table,TTE,True,False
+Mika Hoshino,F,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Mika Hoshino,F,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Mika Hoshino,F,Japan,JPN,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Kiyomi Ishida,F,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Kiyomi Ishida,F,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Kasumi Ishikawa,F,Japan,JPN,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Kasumi Ishikawa,F,Japan,JPN,2012,London,Table Tennis,Table Tennis Women's Team,Silver,Table,TTE,True,True
+Kasumi Ishikawa,F,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Kasumi Ishikawa,F,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Bronze,Table,TTE,True,False
+Mima Ito,F,Japan,JPN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Bronze,Table,TTE,True,True
+An Konishi,F,Japan,JPN,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Chire Koyama,F,Japan,JPN,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Chire Koyama,F,Japan,JPN,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Rinko Sakata,F,Japan,JPN,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Rika Sato,F,Japan,JPN,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Rika Sato,F,Japan,JPN,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Taeko Todo,F,Japan,JPN,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Kyoko Uchiyama,F,Japan,JPN,1988,Seoul,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Aya Umemura,F,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Aya Umemura,F,Japan,JPN,2004,Athina,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Fumiyo Yamashita-kaizu,F,Japan,JPN,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Miu Hirano,F,Japan,JPN,2020,Tokyo,Table Tennis,Women's Team,Silver,Women's,TTE,True,True
+Kasumi Ishikawa,F,Japan,JPN,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False
+Kasumi Ishikawa,F,Japan,JPN,2020,Tokyo,Table Tennis,Women's Team,Silver,Women's,TTE,True,False
+Mima Ito,F,Japan,JPN,2020,Tokyo,Table Tennis,Women's Singles,Bronze,Women's,TTE,True,False
+Mima Ito,F,Japan,JPN,2020,Tokyo,Table Tennis,Mixed Doubles Team,Gold,Mixed,TTE,True,False
+Mima Ito,F,Japan,JPN,2020,Tokyo,Table Tennis,Women's Team,Silver,Women's,TTE,True,False
+Miwa Harimoto,F,Japan,JPN,2024,Paris,Table Tennis,Women's Team,Silver,Women's,TTE,False,True
+Hina Hayata,F,Japan,JPN,2024,Paris,Table Tennis,Women's Singles,Bronze,Women's,TTE,True,True
+Hina Hayata,F,Japan,JPN,2024,Paris,Table Tennis,Women's Team,Silver,Women's,TTE,True,True
+Hina Hayata,F,Japan,JPN,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True,True
+Miu Hirano,F,Japan,JPN,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,False
+Miu Hirano,F,Japan,JPN,2024,Paris,Table Tennis,Women's Team,Silver,Women's,TTE,True,False

@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Frances Cryan,F,Ireland,IRL,1980,Moskva,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False
-Claire Lambe,F,Ireland,IRL,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Sinad (jennings-),F,Ireland,IRL,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Sanita Pupure,F,Ireland,IRL,2012,London,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Sanita Pupure,F,Ireland,IRL,2016,Rio de Janeiro,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Aoife Casey,F,Ireland,IRL,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,True
-Margaret Cremen,F,Ireland,IRL,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,True
-Aileen Crowley,F,Ireland,IRL,2020,Tokyo,Rowing,Women's Pair Team,No medal,Women's,ROW,False
-Monika Dukarska,F,Ireland,IRL,2020,Tokyo,Rowing,Women's Pair Team,No medal,Women's,ROW,False
-Emily Hegarty,F,Ireland,IRL,2020,Tokyo,Rowing,Women's Four Team,Bronze,Women's,ROW,True
-Aifric Keogh,F,Ireland,IRL,2020,Tokyo,Rowing,Women's Four Team,Bronze,Women's,ROW,True
-Eimear Lambe,F,Ireland,IRL,2020,Tokyo,Rowing,Women's Four Team,Bronze,Women's,ROW,True
-Fiona Murtagh,F,Ireland,IRL,2020,Tokyo,Rowing,Women's Four Team,Bronze,Women's,ROW,True
-Sanita Puspure,F,Ireland,IRL,2020,Tokyo,Rowing,Women's Single Sculls,No medal,Women's,ROW,False
-Fiona Murtagh,F,Ireland,IRL,2024,Paris,Rowing,Women's Pair,No medal,Women's,ROW,True
-Imogen Magner,F,Ireland,IRL,2024,Paris,Rowing,Women's Four,No medal,Women's,ROW,False
-Natalie Long,F,Ireland,IRL,2024,Paris,Rowing,Women's Four,No medal,Women's,ROW,False
-Aoife Casey,F,Ireland,IRL,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,True
-Aifric Keogh,F,Ireland,IRL,2024,Paris,Rowing,Women's Pair,No medal,Women's,ROW,True
-Emily Hegarty,F,Ireland,IRL,2024,Paris,Rowing,Women's Four,No medal,Women's,ROW,True
-Alison Bergin,F,Ireland,IRL,2024,Paris,Rowing,Women's Double Sculls,No medal,Women's,ROW,False
-Eimear Lambe,F,Ireland,IRL,2024,Paris,Rowing,Women's Four,No medal,Women's,ROW,True
-Zoe Hyde,F,Ireland,IRL,2024,Paris,Rowing,Women's Double Sculls,No medal,Women's,ROW,False
-Margaret Cremen,F,Ireland,IRL,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Frances Cryan,F,Ireland,IRL,1980,Moskva,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,False,True
+Claire Lambe,F,Ireland,IRL,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Sinad (jennings-),F,Ireland,IRL,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Sanita Pupure,F,Ireland,IRL,2012,London,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,True
+Sanita Pupure,F,Ireland,IRL,2016,Rio de Janeiro,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,False
+Aoife Casey,F,Ireland,IRL,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,True,True
+Margaret Cremen,F,Ireland,IRL,2020,Tokyo,Rowing,Lightweight Women's Double Sculls Team,No medal,Lightweight,ROW,True,True
+Aileen Crowley,F,Ireland,IRL,2020,Tokyo,Rowing,Women's Pair Team,No medal,Women's,ROW,False,True
+Monika Dukarska,F,Ireland,IRL,2020,Tokyo,Rowing,Women's Pair Team,No medal,Women's,ROW,False,True
+Emily Hegarty,F,Ireland,IRL,2020,Tokyo,Rowing,Women's Four Team,Bronze,Women's,ROW,True,True
+Aifric Keogh,F,Ireland,IRL,2020,Tokyo,Rowing,Women's Four Team,Bronze,Women's,ROW,True,True
+Eimear Lambe,F,Ireland,IRL,2020,Tokyo,Rowing,Women's Four Team,Bronze,Women's,ROW,True,True
+Fiona Murtagh,F,Ireland,IRL,2020,Tokyo,Rowing,Women's Four Team,Bronze,Women's,ROW,True,True
+Sanita Puspure,F,Ireland,IRL,2020,Tokyo,Rowing,Women's Single Sculls,No medal,Women's,ROW,False,True
+Fiona Murtagh,F,Ireland,IRL,2024,Paris,Rowing,Women's Pair,No medal,Women's,ROW,True,False
+Imogen Magner,F,Ireland,IRL,2024,Paris,Rowing,Women's Four,No medal,Women's,ROW,False,True
+Natalie Long,F,Ireland,IRL,2024,Paris,Rowing,Women's Four,No medal,Women's,ROW,False,True
+Aoife Casey,F,Ireland,IRL,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,True,False
+Aifric Keogh,F,Ireland,IRL,2024,Paris,Rowing,Women's Pair,No medal,Women's,ROW,True,False
+Emily Hegarty,F,Ireland,IRL,2024,Paris,Rowing,Women's Four,No medal,Women's,ROW,True,False
+Alison Bergin,F,Ireland,IRL,2024,Paris,Rowing,Women's Double Sculls,No medal,Women's,ROW,False,True
+Eimear Lambe,F,Ireland,IRL,2024,Paris,Rowing,Women's Four,No medal,Women's,ROW,True,False
+Zoe Hyde,F,Ireland,IRL,2024,Paris,Rowing,Women's Double Sculls,No medal,Women's,ROW,False,True
+Margaret Cremen,F,Ireland,IRL,2024,Paris,Rowing,Lightweight Women's Double Sculls,No medal,Lightweight,ROW,True,False

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anastasija Mojsovska,F,North Macedonia,MKD,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anastasija Mojsovska,F,North Macedonia,MKD,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,False,True

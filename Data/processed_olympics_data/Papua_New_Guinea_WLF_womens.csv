@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dika Toua,F,Papua New Guinea,PNG,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True
-Dika Toua,F,Papua New Guinea,PNG,2004,Athina,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True
-Dika Toua,F,Papua New Guinea,PNG,2008,Beijing,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True
-Dika Toua,F,Papua New Guinea,PNG,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True
-Dika Toua,F,Papua New Guinea,PNG,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dika Toua,F,Papua New Guinea,PNG,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True,True
+Dika Toua,F,Papua New Guinea,PNG,2004,Athina,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True,False
+Dika Toua,F,Papua New Guinea,PNG,2008,Beijing,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True,False
+Dika Toua,F,Papua New Guinea,PNG,2012,London,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,True,False
+Dika Toua,F,Papua New Guinea,PNG,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,True,False

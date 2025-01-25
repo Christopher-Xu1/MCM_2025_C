@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Margarita Kalmikova,F,Latvia,LAT,1996,Atlanta,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Margarita Kalmikova,F,Latvia,LAT,2000,Sydney,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Gabriela Ikitina,F,Latvia,LAT,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Agnese Ozolia,F,Latvia,LAT,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Agnese Ozolia,F,Latvia,LAT,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Agnese Ozolia,F,Latvia,LAT,2000,Sydney,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Agnese Ozolia,F,Latvia,LAT,2004,Athina,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Aona Ribakova,F,Latvia,LAT,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Ieva Maluka,F,Latvia,LAT,2020,Tokyo,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,True
-Ieva Maluka,F,Latvia,LAT,2020,Tokyo,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True
-Ieva Maluka,F,Latvia,LAT,2024,Paris,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Margarita Kalmikova,F,Latvia,LAT,1996,Atlanta,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Margarita Kalmikova,F,Latvia,LAT,2000,Sydney,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Gabriela Ikitina,F,Latvia,LAT,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Agnese Ozolia,F,Latvia,LAT,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Agnese Ozolia,F,Latvia,LAT,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Agnese Ozolia,F,Latvia,LAT,2000,Sydney,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Agnese Ozolia,F,Latvia,LAT,2004,Athina,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Aona Ribakova,F,Latvia,LAT,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Ieva Maluka,F,Latvia,LAT,2020,Tokyo,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,True,True
+Ieva Maluka,F,Latvia,LAT,2020,Tokyo,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True,True
+Ieva Maluka,F,Latvia,LAT,2024,Paris,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,True,False

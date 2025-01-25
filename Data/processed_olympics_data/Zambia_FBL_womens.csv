@@ -1,43 +1,43 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Babra Banda,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Margaret Belemu,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Grace Chanda,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True
-Hellen Chanda,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True
-Avell Chitundu,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True
-Evarine Katongo,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Fikile Khosa,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Racheal Kundananji,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True
-Ochumba Lubandji,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True
-Ireen Lungu,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Hellen Mubanga,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Esther Mukwasa,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Anita Mulenga,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Agness Musase,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Ngambo Musole,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True
-Catherine Musonda,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True
-Lushomo Mweemba,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True
-Hazel Nali,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Vast Phiri,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False
-Esther Siamfuko,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True
-Martha Tembo,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True
-Mary Wilombe,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True
-Avell Chitundu,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True
-Barbra Banda,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False
-Grace Chanda,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True
-Misozi Zulu,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False
-Hellen Chanda,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True
-Kabange Mupopo,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False
-Lushomo Mweemba,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True
-Martha Tembo,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True
-Ngambo Musole,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True
-Pauline Zulu,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False
-Racheal Kundananji,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True
-Racheal Nachula,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False
-Diana Banda,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False
-Esther Muchinga,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False
-Rhoda Chileshe,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False
-Esther Siamfuko,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True
-Prisca Chilufya,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False
-Ochumba Lubandji,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True
-Catherine Musonda,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True
-Mary Wilombe,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Babra Banda,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Margaret Belemu,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Grace Chanda,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True,True
+Hellen Chanda,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True,True
+Avell Chitundu,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True,True
+Evarine Katongo,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Fikile Khosa,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Racheal Kundananji,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True,True
+Ochumba Lubandji,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True,True
+Ireen Lungu,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Hellen Mubanga,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Esther Mukwasa,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Anita Mulenga,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Agness Musase,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Ngambo Musole,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True,True
+Catherine Musonda,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True,True
+Lushomo Mweemba,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True,True
+Hazel Nali,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Vast Phiri,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,False,True
+Esther Siamfuko,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True,True
+Martha Tembo,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True,True
+Mary Wilombe,F,Zambia,ZAM,2020,Tokyo,Football,Women Team,No medal,Women,FBL,True,True
+Avell Chitundu,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True,False
+Barbra Banda,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False,True
+Grace Chanda,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True,False
+Misozi Zulu,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False,True
+Hellen Chanda,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True,False
+Kabange Mupopo,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False,True
+Lushomo Mweemba,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True,False
+Martha Tembo,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True,False
+Ngambo Musole,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True,False
+Pauline Zulu,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False,True
+Racheal Kundananji,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True,False
+Racheal Nachula,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False,True
+Diana Banda,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False,True
+Esther Muchinga,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False,True
+Rhoda Chileshe,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False,True
+Esther Siamfuko,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True,False
+Prisca Chilufya,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,False,True
+Ochumba Lubandji,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True,False
+Catherine Musonda,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True,False
+Mary Wilombe,F,Zambia,ZAM,2024,Paris,Football,Women,No medal,Women,FBL,True,False

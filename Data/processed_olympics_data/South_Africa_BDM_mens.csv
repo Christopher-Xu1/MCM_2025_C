@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Stewart Carson,M,South Africa,RSA,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Christoffel Dednam,M,South Africa,RSA,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Christoffel Dednam,M,South Africa,RSA,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Christoffel Dednam,M,South Africa,RSA,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Roelof Dednam,M,South Africa,RSA,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Dorian James,M,South Africa,RSA,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Dorian James,M,South Africa,RSA,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Anton Kriel,M,South Africa,RSA,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Anton Kriel,M,South Africa,RSA,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Jacob Maliekal,M,South Africa,RSA,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Nico Meerholz,M,South Africa,RSA,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Nico Meerholz,M,South Africa,RSA,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Willem Viljoen,M,South Africa,RSA,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Stewart Carson,M,South Africa,RSA,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Christoffel Dednam,M,South Africa,RSA,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Christoffel Dednam,M,South Africa,RSA,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Christoffel Dednam,M,South Africa,RSA,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Roelof Dednam,M,South Africa,RSA,2008,Beijing,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Dorian James,M,South Africa,RSA,2004,Athina,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Dorian James,M,South Africa,RSA,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,False
+Anton Kriel,M,South Africa,RSA,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Anton Kriel,M,South Africa,RSA,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Jacob Maliekal,M,South Africa,RSA,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Nico Meerholz,M,South Africa,RSA,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Nico Meerholz,M,South Africa,RSA,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Willem Viljoen,M,South Africa,RSA,2012,London,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True

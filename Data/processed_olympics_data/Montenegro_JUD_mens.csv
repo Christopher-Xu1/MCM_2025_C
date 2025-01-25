@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sran Mrvaljevi,M,Montenegro,MNE,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Sran Mrvaljevi,M,Montenegro,MNE,2012,London,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Sran Mrvaljevi,M,Montenegro,MNE,2016,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sran Mrvaljevi,M,Montenegro,MNE,2008,Beijing,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Sran Mrvaljevi,M,Montenegro,MNE,2012,London,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Sran Mrvaljevi,M,Montenegro,MNE,2016,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False

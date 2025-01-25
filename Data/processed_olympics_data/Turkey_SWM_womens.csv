@@ -1,41 +1,41 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ekaterina Avramova,F,Turkey,TUR,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,False
-Ayse Diker,F,Turkey,TUR,2000,Sydney,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False
-lkay Dikmen,F,Turkey,TUR,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-lkay Dikmen,F,Turkey,TUR,2000,Sydney,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-lkay Dikmen,F,Turkey,TUR,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-lkay Dikmen,F,Turkey,TUR,2004,Athina,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Burcu Dolunay,F,Turkey,TUR,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Burcu Dolunay,F,Turkey,TUR,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-adan Erke,F,Turkey,TUR,2000,Sydney,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-adan Erke,F,Turkey,TUR,2000,Sydney,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-adan Erke,F,Turkey,TUR,2004,Athina,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-adan Erke,F,Turkey,TUR,2004,Athina,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Dilara Gnaydn,F,Turkey,TUR,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Dilara Gnaydn,F,Turkey,TUR,2008,Beijing,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Dilara Gnaydn,F,Turkey,TUR,2012,London,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Dilara Gnaydn,F,Turkey,TUR,2012,London,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Glah Gnen,F,Turkey,TUR,2004,Athina,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Glah Gnen,F,Turkey,TUR,2004,Athina,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Glah Gnen,F,Turkey,TUR,2008,Beijing,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Viktoria Gne,F,Turkey,TUR,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Viktoria Gne,F,Turkey,TUR,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Viktoria Gne,F,Turkey,TUR,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Iris Rosenberger,F,Turkey,TUR,2008,Beijing,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False
-Hazal Sarkaya,F,Turkey,TUR,2012,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Yasemin Takn,F,Turkey,TUR,2004,Athina,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
-Nida Stnda,F,Turkey,TUR,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,False
-Nida Zuhal,F,Turkey,TUR,1996,Atlanta,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Nida Zuhal,F,Turkey,TUR,1996,Atlanta,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Beril Bocekler,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 400m Freestyle,No medal,Women's,SWM,True
-Beril Bocekler,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 4 x 200m Freestyle Relay Team,No medal,Women's,SWM,True
-Deniz Ertan,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,True
-Deniz Ertan,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 1500m Freestyle,No medal,Women's,SWM,True
-Deniz Ertan,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 4 x 200m Freestyle Relay Team,No medal,Women's,SWM,True
-Viktoria Gunes,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,True
-Viktoria Gunes,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 4 x 200m Freestyle Relay Team,No medal,Women's,SWM,True
-Defne Tacyildiz,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 200m Butterfly,No medal,Women's,SWM,False
-Merve Tuncel,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 400m Freestyle,No medal,Women's,SWM,True
-Merve Tuncel,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,True
-Merve Tuncel,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 1500m Freestyle,No medal,Women's,SWM,True
-Merve Tuncel,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 4 x 200m Freestyle Relay Team,No medal,Women's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ekaterina Avramova,F,Turkey,TUR,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,False,True
+Ayse Diker,F,Turkey,TUR,2000,Sydney,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+lkay Dikmen,F,Turkey,TUR,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+lkay Dikmen,F,Turkey,TUR,2000,Sydney,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+lkay Dikmen,F,Turkey,TUR,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+lkay Dikmen,F,Turkey,TUR,2004,Athina,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Burcu Dolunay,F,Turkey,TUR,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Burcu Dolunay,F,Turkey,TUR,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+adan Erke,F,Turkey,TUR,2000,Sydney,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+adan Erke,F,Turkey,TUR,2000,Sydney,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+adan Erke,F,Turkey,TUR,2004,Athina,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,False
+adan Erke,F,Turkey,TUR,2004,Athina,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,False
+Dilara Gnaydn,F,Turkey,TUR,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Dilara Gnaydn,F,Turkey,TUR,2008,Beijing,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Dilara Gnaydn,F,Turkey,TUR,2012,London,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Dilara Gnaydn,F,Turkey,TUR,2012,London,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Glah Gnen,F,Turkey,TUR,2004,Athina,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Glah Gnen,F,Turkey,TUR,2004,Athina,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Glah Gnen,F,Turkey,TUR,2008,Beijing,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,False
+Viktoria Gne,F,Turkey,TUR,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Viktoria Gne,F,Turkey,TUR,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Viktoria Gne,F,Turkey,TUR,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Iris Rosenberger,F,Turkey,TUR,2008,Beijing,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Hazal Sarkaya,F,Turkey,TUR,2012,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Yasemin Takn,F,Turkey,TUR,2004,Athina,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False,True
+Nida Stnda,F,Turkey,TUR,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,False,True
+Nida Zuhal,F,Turkey,TUR,1996,Atlanta,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Nida Zuhal,F,Turkey,TUR,1996,Atlanta,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Beril Bocekler,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 400m Freestyle,No medal,Women's,SWM,True,True
+Beril Bocekler,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 4 x 200m Freestyle Relay Team,No medal,Women's,SWM,True,True
+Deniz Ertan,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,True,True
+Deniz Ertan,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 1500m Freestyle,No medal,Women's,SWM,True,True
+Deniz Ertan,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 4 x 200m Freestyle Relay Team,No medal,Women's,SWM,True,True
+Viktoria Gunes,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,True,True
+Viktoria Gunes,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 4 x 200m Freestyle Relay Team,No medal,Women's,SWM,True,True
+Defne Tacyildiz,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 200m Butterfly,No medal,Women's,SWM,False,True
+Merve Tuncel,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 400m Freestyle,No medal,Women's,SWM,True,True
+Merve Tuncel,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,True,True
+Merve Tuncel,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 1500m Freestyle,No medal,Women's,SWM,True,True
+Merve Tuncel,F,Turkey,TUR,2020,Tokyo,Swimming,Women's 4 x 200m Freestyle Relay Team,No medal,Women's,SWM,True,True

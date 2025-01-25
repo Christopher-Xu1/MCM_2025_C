@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Boko Drakovi,M,Montenegro,MNE,2012,London,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Milorad Gajovi,M,Montenegro,MNE,2008,Beijing,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Boko Drakovi,M,Montenegro,MNE,2012,London,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Milorad Gajovi,M,Montenegro,MNE,2008,Beijing,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True

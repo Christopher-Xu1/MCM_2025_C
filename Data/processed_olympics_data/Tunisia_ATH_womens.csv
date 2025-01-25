@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Amira Amor,F,Tunisia,TUN,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Awatef Hassine,F,Tunisia,TUN,2000,Sydney,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Leila Youssef,F,Tunisia,TUN,2008,Beijing,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,False
-Habiba Al-ghribi-boudra,F,Tunisia,TUN,2008,Beijing,Athletics,"Athletics Women's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
-Habiba Al-ghribi-boudra,F,Tunisia,TUN,2012,London,Athletics,"Athletics Women's 3,000 metres Steeplechase",Silver,Athletics,ATH,True
-Habiba Al-ghribi-boudra,F,Tunisia,TUN,2016,Rio de Janeiro,Athletics,"Athletics Women's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
-Monia Kari,F,Tunisia,TUN,1996,Atlanta,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True
-Monia Kari,F,Tunisia,TUN,2000,Sydney,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True
-Fatma Lanouar,F,Tunisia,TUN,2000,Sydney,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,False
-Chahinez Nasri,F,Tunisia,TUN,2016,Rio de Janeiro,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,False
-Ada Sellam,F,Tunisia,TUN,2004,Athina,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False
-Marwa Bouzayani,F,Tunisia,TUN,2020,Tokyo,Athletics,Women's 3000m Steeplechase,No medal,Women's,ATH,True
-Marwa Bouzayani,F,Tunisia,TUN,2024,Paris,Athletics,Women's 3000m Steeplechase,No medal,Women's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Amira Amor,F,Tunisia,TUN,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Awatef Hassine,F,Tunisia,TUN,2000,Sydney,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Leila Youssef,F,Tunisia,TUN,2008,Beijing,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,False,True
+Habiba Al-ghribi-boudra,F,Tunisia,TUN,2008,Beijing,Athletics,"Athletics Women's 3,000 metres Steeplechase",No medal,Athletics,ATH,True,True
+Habiba Al-ghribi-boudra,F,Tunisia,TUN,2012,London,Athletics,"Athletics Women's 3,000 metres Steeplechase",Silver,Athletics,ATH,True,False
+Habiba Al-ghribi-boudra,F,Tunisia,TUN,2016,Rio de Janeiro,Athletics,"Athletics Women's 3,000 metres Steeplechase",No medal,Athletics,ATH,True,False
+Monia Kari,F,Tunisia,TUN,1996,Atlanta,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True,True
+Monia Kari,F,Tunisia,TUN,2000,Sydney,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True,False
+Fatma Lanouar,F,Tunisia,TUN,2000,Sydney,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,False,True
+Chahinez Nasri,F,Tunisia,TUN,2016,Rio de Janeiro,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,False,True
+Ada Sellam,F,Tunisia,TUN,2004,Athina,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False,True
+Marwa Bouzayani,F,Tunisia,TUN,2020,Tokyo,Athletics,Women's 3000m Steeplechase,No medal,Women's,ATH,True,True
+Marwa Bouzayani,F,Tunisia,TUN,2024,Paris,Athletics,Women's 3000m Steeplechase,No medal,Women's,ATH,True,False

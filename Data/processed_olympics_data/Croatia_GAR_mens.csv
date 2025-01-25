@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aleksej Demjanov,M,Croatia,CRO,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Aleksej Demjanov,M,Croatia,CRO,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Aleksej Demjanov,M,Croatia,CRO,1996,Atlanta,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Aleksej Demjanov,M,Croatia,CRO,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Aleksej Demjanov,M,Croatia,CRO,1996,Atlanta,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Aleksej Demjanov,M,Croatia,CRO,1996,Atlanta,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Aleksej Demjanov,M,Croatia,CRO,1996,Atlanta,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Filip Ude,M,Croatia,CRO,2008,Beijing,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Filip Ude,M,Croatia,CRO,2008,Beijing,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Filip Ude,M,Croatia,CRO,2008,Beijing,Gymnastics,Gymnastics Men's Pommelled Horse,Silver,Gymnastics,GAR,True
-Filip Ude,M,Croatia,CRO,2012,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Filip Ude,M,Croatia,CRO,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Tin Srbic,M,Croatia,CRO,2020,Tokyo,Artistic Gymnastics,Men's Horizontal Bar,Silver,Men's,GAR,True
-Tin Srbic,M,Croatia,CRO,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True
-Tin Srbic,M,Croatia,CRO,2024,Paris,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True
-Aurel Benovic,M,Croatia,CRO,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True
-Aurel Benovic,M,Croatia,CRO,2024,Paris,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True
-Aurel Benovic,M,Croatia,CRO,2024,Paris,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aleksej Demjanov,M,Croatia,CRO,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Aleksej Demjanov,M,Croatia,CRO,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Aleksej Demjanov,M,Croatia,CRO,1996,Atlanta,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+Aleksej Demjanov,M,Croatia,CRO,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Aleksej Demjanov,M,Croatia,CRO,1996,Atlanta,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Aleksej Demjanov,M,Croatia,CRO,1996,Atlanta,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Aleksej Demjanov,M,Croatia,CRO,1996,Atlanta,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Filip Ude,M,Croatia,CRO,2008,Beijing,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Filip Ude,M,Croatia,CRO,2008,Beijing,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Filip Ude,M,Croatia,CRO,2008,Beijing,Gymnastics,Gymnastics Men's Pommelled Horse,Silver,Gymnastics,GAR,True,True
+Filip Ude,M,Croatia,CRO,2012,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,False
+Filip Ude,M,Croatia,CRO,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,False
+Tin Srbic,M,Croatia,CRO,2020,Tokyo,Artistic Gymnastics,Men's Horizontal Bar,Silver,Men's,GAR,True,True
+Tin Srbic,M,Croatia,CRO,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True,False
+Tin Srbic,M,Croatia,CRO,2024,Paris,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True,False
+Aurel Benovic,M,Croatia,CRO,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True,True
+Aurel Benovic,M,Croatia,CRO,2024,Paris,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True,True
+Aurel Benovic,M,Croatia,CRO,2024,Paris,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True,True

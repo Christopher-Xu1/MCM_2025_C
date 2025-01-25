@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eliahu Amiel,M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Menahem (kurman-),M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Dan (buxenbaum-),M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Yehuda (wiener-),M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Mordechai Hefez,M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Rolf Klein,M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Moshe Levy,M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Amos (linkovsky-),M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Zekaarya Ofri,M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Reuben (fecher-),M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Shimon (schmuckler-),M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Abraham Shneior,M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eliahu Amiel,M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Menahem (kurman-),M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Dan (buxenbaum-),M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Yehuda (wiener-),M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Mordechai Hefez,M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Rolf Klein,M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Moshe Levy,M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Amos (linkovsky-),M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Zekaarya Ofri,M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Reuben (fecher-),M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Shimon (schmuckler-),M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Abraham Shneior,M,Israel,ISR,1952,Helsinki,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True

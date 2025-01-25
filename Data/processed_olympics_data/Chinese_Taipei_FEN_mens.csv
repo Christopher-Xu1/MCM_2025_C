@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lee Tai-chung,M,Chinese Taipei,TPE,1984,Los Angeles,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True
-Lee Tai-chung,M,Chinese Taipei,TPE,1984,Los Angeles,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Tsai Shing-hsiang,M,Chinese Taipei,TPE,1984,Los Angeles,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True
-Tsai Shing-hsiang,M,Chinese Taipei,TPE,1984,Los Angeles,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Wang San-tsai,M,Chinese Taipei,TPE,1988,Seoul,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True
-Wang San-tsai,M,Chinese Taipei,TPE,1988,Seoul,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Yan Wing-shean,M,Chinese Taipei,TPE,1988,Seoul,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True
-Yan Wing-shean,M,Chinese Taipei,TPE,1988,Seoul,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True
-Yi-tung Chen,M,Chinese Taipei,TPE,2024,Paris,Fencing,Men's Foil Individual,No medal,Men's,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lee Tai-chung,M,Chinese Taipei,TPE,1984,Los Angeles,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True,True
+Lee Tai-chung,M,Chinese Taipei,TPE,1984,Los Angeles,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Tsai Shing-hsiang,M,Chinese Taipei,TPE,1984,Los Angeles,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True,True
+Tsai Shing-hsiang,M,Chinese Taipei,TPE,1984,Los Angeles,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Wang San-tsai,M,Chinese Taipei,TPE,1988,Seoul,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True,True
+Wang San-tsai,M,Chinese Taipei,TPE,1988,Seoul,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Yan Wing-shean,M,Chinese Taipei,TPE,1988,Seoul,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True,True
+Yan Wing-shean,M,Chinese Taipei,TPE,1988,Seoul,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True,True
+Yi-tung Chen,M,Chinese Taipei,TPE,2024,Paris,Fencing,Men's Foil Individual,No medal,Men's,FEN,False,True

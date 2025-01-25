@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aissatou Barry,F,Guinea,GUI,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Djene Barry,F,Guinea,GUI,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Dede Camara,F,Guinea,GUI,2012,London,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Mariama Sow,F,Guinea,GUI,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Mariama Toure,F,Guinea,GUI,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False
-Jolie Bah,F,Guinea,GUI,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aissatou Barry,F,Guinea,GUI,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Djene Barry,F,Guinea,GUI,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Dede Camara,F,Guinea,GUI,2012,London,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Mariama Sow,F,Guinea,GUI,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Mariama Toure,F,Guinea,GUI,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False,True
+Jolie Bah,F,Guinea,GUI,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True

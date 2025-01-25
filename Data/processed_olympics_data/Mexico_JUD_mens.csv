@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cristobal Tinoco,M,Mexico,MEX,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Ricardo Acua,M,Mexico,MEX,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Luis Cepeda,M,Mexico,MEX,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Ren Cepeda,M,Mexico,MEX,1964,Tokyo,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Nabor Prez,M,Mexico,MEX,2012,London,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Epigmenio Exiga,M,Mexico,MEX,1972,Munich,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Epigmenio Exiga,M,Mexico,MEX,1972,Munich,Judo,Judo Men's Open Class,No medal,Judo,JUD,True
-Ral Foullon,M,Mexico,MEX,1972,Munich,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Gabriel Rodrguez,M,Mexico,MEX,1964,Tokyo,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Jos Stoupignan,M,Mexico,MEX,2004,Athina,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Sergio Rodrguez,M,Mexico,MEX,1964,Tokyo,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Mario Aguilera,M,Mexico,MEX,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Rafael Vega,M,Mexico,MEX,1980,Moskva,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Rafael Vega,M,Mexico,MEX,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Arturo Gutirrez,M,Mexico,MEX,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Salvador Hernndez,M,Mexico,MEX,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Carlos Moreno,M,Mexico,MEX,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Carlos Moreno,M,Mexico,MEX,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Arturo Rivera,M,Mexico,MEX,2008,Beijing,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Gerardo Vallejo,M,Mexico,MEX,1976,Montreal,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Gerardo Vallejo,M,Mexico,MEX,1980,Moskva,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Gerardo Vallejo,M,Mexico,MEX,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Federico Carrillo,M,Mexico,MEX,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Federico Carrillo,M,Mexico,MEX,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cristobal Tinoco,M,Mexico,MEX,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Ricardo Acua,M,Mexico,MEX,1996,Atlanta,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Luis Cepeda,M,Mexico,MEX,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Ren Cepeda,M,Mexico,MEX,1964,Tokyo,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Nabor Prez,M,Mexico,MEX,2012,London,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Epigmenio Exiga,M,Mexico,MEX,1972,Munich,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,True
+Epigmenio Exiga,M,Mexico,MEX,1972,Munich,Judo,Judo Men's Open Class,No medal,Judo,JUD,True,True
+Ral Foullon,M,Mexico,MEX,1972,Munich,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Gabriel Rodrguez,M,Mexico,MEX,1964,Tokyo,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Jos Stoupignan,M,Mexico,MEX,2004,Athina,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Sergio Rodrguez,M,Mexico,MEX,1964,Tokyo,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Mario Aguilera,M,Mexico,MEX,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Rafael Vega,M,Mexico,MEX,1980,Moskva,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Rafael Vega,M,Mexico,MEX,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False
+Arturo Gutirrez,M,Mexico,MEX,1996,Atlanta,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Salvador Hernndez,M,Mexico,MEX,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Carlos Moreno,M,Mexico,MEX,1984,Los Angeles,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Carlos Moreno,M,Mexico,MEX,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Arturo Rivera,M,Mexico,MEX,2008,Beijing,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Gerardo Vallejo,M,Mexico,MEX,1976,Montreal,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Gerardo Vallejo,M,Mexico,MEX,1980,Moskva,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False
+Gerardo Vallejo,M,Mexico,MEX,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False
+Federico Carrillo,M,Mexico,MEX,1984,Los Angeles,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Federico Carrillo,M,Mexico,MEX,1988,Seoul,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,False

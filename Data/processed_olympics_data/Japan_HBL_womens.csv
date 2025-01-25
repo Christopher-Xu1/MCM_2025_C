@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mihoko Hozumi,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Mikiko Kato,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Eiko Kawada,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Nanami Kino,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Kuriko Komori,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Hiroko Kosahara,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Tokuko Kubo,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Terumi Kurata,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Hitomi Matsushita,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Natsue Shimada,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Shoko Wada,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Emiko Yamashita,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Shio Fujii,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Nozomi Hara,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Mana Horikawa,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Ayaka Ikehara,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Mayuko Ishitate,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Minami Itano,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Sakura Kametani,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Maharu Kondo,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Shiori Nagata,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Mana Ohyama,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Haruno Sasaki,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Sayo Shiota,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Kaho Sunami,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Yui Sunami,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Yuki Tanabe,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
-Aya Yokoshima,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mihoko Hozumi,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Mikiko Kato,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Eiko Kawada,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Nanami Kino,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Kuriko Komori,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Hiroko Kosahara,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Tokuko Kubo,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Terumi Kurata,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Hitomi Matsushita,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Natsue Shimada,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Shoko Wada,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Emiko Yamashita,F,Japan,JPN,1976,Montreal,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Shio Fujii,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Nozomi Hara,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Mana Horikawa,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Ayaka Ikehara,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Mayuko Ishitate,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Minami Itano,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Sakura Kametani,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Maharu Kondo,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Shiori Nagata,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Mana Ohyama,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Haruno Sasaki,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Sayo Shiota,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Kaho Sunami,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Yui Sunami,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Yuki Tanabe,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True
+Aya Yokoshima,F,Japan,JPN,2020,Tokyo,Handball,Women Team,No medal,Women,HBL,False,True

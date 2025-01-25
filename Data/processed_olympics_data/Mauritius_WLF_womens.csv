@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marie Dalou,F,Mauritius,MRI,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False
-Marie Ranaivosoa,F,Mauritius,MRI,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Roilya Ranaivosoa,F,Mauritius,MRI,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marie Dalou,F,Mauritius,MRI,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False,True
+Marie Ranaivosoa,F,Mauritius,MRI,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Roilya Ranaivosoa,F,Mauritius,MRI,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,False,True

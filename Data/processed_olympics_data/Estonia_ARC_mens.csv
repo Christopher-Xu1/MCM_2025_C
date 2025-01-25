@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Raul Kivilo,M,Estonia,EST,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Raul Kivilo,M,Estonia,EST,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Raul Kivilo,M,Estonia,EST,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Raul Kivilo,M,Estonia,EST,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False

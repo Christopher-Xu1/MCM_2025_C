@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marthe Koala,F,Burkina Faso,BUR,2012,London,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Marthe Koala,F,Burkina Faso,BUR,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Mariama Ouiminga,F,Burkina Faso,BUR,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Mariama Ouiminga,F,Burkina Faso,BUR,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Chantal Ouoba,F,Burkina Faso,BUR,1996,Atlanta,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,False
-Assata Soulama,F,Burkina Faso,BUR,2004,Athina,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True
-Assata Soulama,F,Burkina Faso,BUR,2008,Beijing,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True
-Irne Tiendrbogo,F,Burkina Faso,BUR,1996,Atlanta,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False
-Sarah Tond,F,Burkina Faso,BUR,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Marthe Koala,F,Burkina Faso,BUR,2020,Tokyo,Athletics,Women's 100m Hurdles,No medal,Women's,ATH,True
-Marthe Koala,F,Burkina Faso,BUR,2020,Tokyo,Athletics,Women's Heptathlon,No medal,Women's,ATH,True
-Marthe Koala,F,Burkina Faso,BUR,2024,Paris,Athletics,Women's Long Jump,No medal,Women's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marthe Koala,F,Burkina Faso,BUR,2012,London,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,True
+Marthe Koala,F,Burkina Faso,BUR,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,False
+Mariama Ouiminga,F,Burkina Faso,BUR,1988,Seoul,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Mariama Ouiminga,F,Burkina Faso,BUR,1988,Seoul,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Chantal Ouoba,F,Burkina Faso,BUR,1996,Atlanta,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,False,True
+Assata Soulama,F,Burkina Faso,BUR,2004,Athina,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True,True
+Assata Soulama,F,Burkina Faso,BUR,2008,Beijing,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True,False
+Irne Tiendrbogo,F,Burkina Faso,BUR,1996,Atlanta,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False,True
+Sarah Tond,F,Burkina Faso,BUR,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Marthe Koala,F,Burkina Faso,BUR,2020,Tokyo,Athletics,Women's 100m Hurdles,No medal,Women's,ATH,True,False
+Marthe Koala,F,Burkina Faso,BUR,2020,Tokyo,Athletics,Women's Heptathlon,No medal,Women's,ATH,True,False
+Marthe Koala,F,Burkina Faso,BUR,2024,Paris,Athletics,Women's Long Jump,No medal,Women's,ATH,True,False

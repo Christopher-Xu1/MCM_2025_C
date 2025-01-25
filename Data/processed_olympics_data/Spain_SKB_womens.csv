@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Julia Benedetti,F,Spain,ESP,2020,Tokyo,Skateboarding,Women's Park,No medal,Women's,SKB,True
-Andrea Benitez,F,Spain,ESP,2020,Tokyo,Skateboarding,Women's Street,No medal,Women's,SKB,False
-Julia Benedetti,F,Spain,ESP,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,True
-Naia Laso,F,Spain,ESP,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,False
-Natalia Munoz,F,Spain,ESP,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,False
-Daniela Terol,F,Spain,ESP,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Julia Benedetti,F,Spain,ESP,2020,Tokyo,Skateboarding,Women's Park,No medal,Women's,SKB,True,True
+Andrea Benitez,F,Spain,ESP,2020,Tokyo,Skateboarding,Women's Street,No medal,Women's,SKB,False,True
+Julia Benedetti,F,Spain,ESP,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,True,False
+Naia Laso,F,Spain,ESP,2024,Paris,Skateboarding,Women's Park,No medal,Women's,SKB,False,True
+Natalia Munoz,F,Spain,ESP,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,False,True
+Daniela Terol,F,Spain,ESP,2024,Paris,Skateboarding,Women's Street,No medal,Women's,SKB,False,True

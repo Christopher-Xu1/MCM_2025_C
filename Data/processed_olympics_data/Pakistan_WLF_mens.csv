@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohammad Arshad,M,Pakistan,PAK,1972,Munich,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Mohammad Arshad,M,Pakistan,PAK,1976,Montreal,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Muhammad Mian,M,Pakistan,PAK,1960,Roma,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Muhammad Mian,M,Pakistan,PAK,1964,Tokyo,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Muhammad Bashir,M,Pakistan,PAK,1956,Melbourne,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Abdul Butt,M,Pakistan,PAK,1960,Roma,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Muhammad Butt,M,Pakistan,PAK,1948,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Muhammad Butt,M,Pakistan,PAK,1952,Helsinki,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Muhammad Butt,M,Pakistan,PAK,1956,Melbourne,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Muhammad Butt,M,Pakistan,PAK,1948,London,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-Muhammad Manzoor,M,Pakistan,PAK,1976,Montreal,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Habib Rahman,M,Pakistan,PAK,1956,Melbourne,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Talha Talib,M,Pakistan,PAK,2020,Tokyo,Weightlifting,Men's 67kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohammad Arshad,M,Pakistan,PAK,1972,Munich,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,True
+Mohammad Arshad,M,Pakistan,PAK,1976,Montreal,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,False
+Muhammad Mian,M,Pakistan,PAK,1960,Roma,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,True
+Muhammad Mian,M,Pakistan,PAK,1964,Tokyo,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,False
+Muhammad Bashir,M,Pakistan,PAK,1956,Melbourne,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Abdul Butt,M,Pakistan,PAK,1960,Roma,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Muhammad Butt,M,Pakistan,PAK,1948,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,True
+Muhammad Butt,M,Pakistan,PAK,1952,Helsinki,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,False
+Muhammad Butt,M,Pakistan,PAK,1956,Melbourne,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True,False
+Muhammad Butt,M,Pakistan,PAK,1948,London,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,True
+Muhammad Manzoor,M,Pakistan,PAK,1976,Montreal,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Habib Rahman,M,Pakistan,PAK,1956,Melbourne,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Talha Talib,M,Pakistan,PAK,2020,Tokyo,Weightlifting,Men's 67kg,No medal,Men's,WLF,False,True

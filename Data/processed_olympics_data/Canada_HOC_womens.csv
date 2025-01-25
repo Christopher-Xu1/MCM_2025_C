@@ -1,46 +1,46 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Shelley Andrews,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Wendy Baker,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Sara Ballantyne,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Lisa Bauer,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Sharon (-speers),F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Sharon (-speers),F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Lynne Beecroft,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Bernadette (casey-),F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Laura Branchaud,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Laura Branchaud,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Joel Brough,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Nancy Charlton,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Nancy Charlton,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Mary Conn,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Mary Conn,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Deborah (-barnett),F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Deborah (-barnett),F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Sharon Creelman,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Sharon Creelman,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Sharon Creelman,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Tara Croxford,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Elizabeth Czenczek,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Phyllis (-gavin),F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Sherri Field,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Sheila Forshaw,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Sheila Forshaw,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Milena Gaiga,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Karen Hewlett,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Kathryn (macdougall-),F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Heather Jones,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Laurelee Kopeck,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Laurie Lambert,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Sandra Levy,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Sandra Levy,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True
-Rochelle Low,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Lisa (-mcrae),F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Zoe Mackinnon,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Jean Major,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Susan (-schellinck),F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Shona Schleppe,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Darlene Stoyka,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Candy Thomson,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Diane (mahy-),F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Florence (-magee),F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
-Deborah Whitten,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Shelley Andrews,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Wendy Baker,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Sara Ballantyne,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Lisa Bauer,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Sharon (-speers),F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,True
+Sharon (-speers),F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,False
+Lynne Beecroft,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Bernadette (casey-),F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Laura Branchaud,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,True
+Laura Branchaud,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,False
+Joel Brough,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Nancy Charlton,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,True
+Nancy Charlton,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,False
+Mary Conn,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,True
+Mary Conn,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,False
+Deborah (-barnett),F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,True
+Deborah (-barnett),F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,False
+Sharon Creelman,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,True
+Sharon Creelman,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,False
+Sharon Creelman,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,False
+Tara Croxford,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Elizabeth Czenczek,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Phyllis (-gavin),F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Sherri Field,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Sheila Forshaw,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,True
+Sheila Forshaw,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,False
+Milena Gaiga,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Karen Hewlett,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Kathryn (macdougall-),F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Heather Jones,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Laurelee Kopeck,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Laurie Lambert,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Sandra Levy,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,True
+Sandra Levy,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,True,False
+Rochelle Low,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Lisa (-mcrae),F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Zoe Mackinnon,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Jean Major,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Susan (-schellinck),F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Shona Schleppe,F,Canada,CAN,1988,Seoul,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Darlene Stoyka,F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Candy Thomson,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Diane (mahy-),F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Florence (-magee),F,Canada,CAN,1984,Los Angeles,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True
+Deborah Whitten,F,Canada,CAN,1992,Barcelona,Hockey,Hockey Women's Hockey,No medal,Hockey,HOC,False,True

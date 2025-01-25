@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Armando Silva,M,Brazil,BRA,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Reinaldo Colucci,M,Brazil,BRA,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Reinaldo Colucci,M,Brazil,BRA,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Leandro Macedo,M,Brazil,BRA,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Leandro Macedo,M,Brazil,BRA,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Paulo Abreu,M,Brazil,BRA,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Juraci Jnior,M,Brazil,BRA,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Juraci Jnior,M,Brazil,BRA,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Juraci Jnior,M,Brazil,BRA,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Diogo Sclebin,M,Brazil,BRA,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Diogo Sclebin,M,Brazil,BRA,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Manoel Messias,M,Brazil,BRA,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Manoel Messias,M,Brazil,BRA,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Miguel Hidalgo,M,Brazil,BRA,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Armando Silva,M,Brazil,BRA,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Reinaldo Colucci,M,Brazil,BRA,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Reinaldo Colucci,M,Brazil,BRA,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Leandro Macedo,M,Brazil,BRA,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Leandro Macedo,M,Brazil,BRA,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Paulo Abreu,M,Brazil,BRA,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Juraci Jnior,M,Brazil,BRA,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Juraci Jnior,M,Brazil,BRA,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Juraci Jnior,M,Brazil,BRA,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Diogo Sclebin,M,Brazil,BRA,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Diogo Sclebin,M,Brazil,BRA,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Manoel Messias,M,Brazil,BRA,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Manoel Messias,M,Brazil,BRA,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True,False
+Miguel Hidalgo,M,Brazil,BRA,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True

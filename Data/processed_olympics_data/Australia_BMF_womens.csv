@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Natalya Diehm,F,Australia,AUS,2020,Tokyo,Cycling BMX Freestyle,Women's Park,No medal,Women's,BMF,True
-Natalya Diehm,F,Australia,AUS,2024,Paris,Cycling BMX Freestyle,Women's Park,Bronze,Women's,BMF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Natalya Diehm,F,Australia,AUS,2020,Tokyo,Cycling BMX Freestyle,Women's Park,No medal,Women's,BMF,True,True
+Natalya Diehm,F,Australia,AUS,2024,Paris,Cycling BMX Freestyle,Women's Park,Bronze,Women's,BMF,True,False

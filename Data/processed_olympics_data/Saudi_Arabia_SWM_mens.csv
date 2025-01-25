@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ahmed Al-kudmani,M,Saudi Arabia,KSA,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Ahmed Al-kudmani,M,Saudi Arabia,KSA,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Bader Al-muhana,M,Saudi Arabia,KSA,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Hussein Al-sadiq,M,Saudi Arabia,KSA,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Hussein Al-sadiq,M,Saudi Arabia,KSA,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Hussein Al-sadiq,M,Saudi Arabia,KSA,1992,Barcelona,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Hussein Al-sadiq,M,Saudi Arabia,KSA,1992,Barcelona,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
-Ziyad Kashmiri,M,Saudi Arabia,KSA,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Ziyad Kashmiri,M,Saudi Arabia,KSA,1992,Barcelona,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Yousif Bu,M,Saudi Arabia,KSA,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False
-M Alsarraj,M,Saudi Arabia,KSA,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ahmed Al-kudmani,M,Saudi Arabia,KSA,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Ahmed Al-kudmani,M,Saudi Arabia,KSA,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Bader Al-muhana,M,Saudi Arabia,KSA,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Hussein Al-sadiq,M,Saudi Arabia,KSA,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Hussein Al-sadiq,M,Saudi Arabia,KSA,1992,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Hussein Al-sadiq,M,Saudi Arabia,KSA,1992,Barcelona,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Hussein Al-sadiq,M,Saudi Arabia,KSA,1992,Barcelona,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True,True
+Ziyad Kashmiri,M,Saudi Arabia,KSA,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Ziyad Kashmiri,M,Saudi Arabia,KSA,1992,Barcelona,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Yousif Bu,M,Saudi Arabia,KSA,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False,True
+M Alsarraj,M,Saudi Arabia,KSA,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True

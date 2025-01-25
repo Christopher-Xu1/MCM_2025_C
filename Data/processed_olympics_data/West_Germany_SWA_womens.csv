@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Doris Eisenhofer,F,West Germany,FRG,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False
-Heike Friedrich,F,West Germany,FRG,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Heike Friedrich,F,West Germany,FRG,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Gudrun Hnisch,F,West Germany,FRG,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Gudrun Hnisch,F,West Germany,FRG,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Christine Lang,F,West Germany,FRG,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False
-Gerlind Scheller,F,West Germany,FRG,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Gerlind Scheller,F,West Germany,FRG,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Gerlind Scheller,F,West Germany,FRG,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Gerlind Scheller,F,West Germany,FRG,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Doris Eisenhofer,F,West Germany,FRG,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False,True
+Heike Friedrich,F,West Germany,FRG,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Heike Friedrich,F,West Germany,FRG,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Gudrun Hnisch,F,West Germany,FRG,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Gudrun Hnisch,F,West Germany,FRG,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Christine Lang,F,West Germany,FRG,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False,True
+Gerlind Scheller,F,West Germany,FRG,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Gerlind Scheller,F,West Germany,FRG,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Gerlind Scheller,F,West Germany,FRG,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,False
+Gerlind Scheller,F,West Germany,FRG,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False

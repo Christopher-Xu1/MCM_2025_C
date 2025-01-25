@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fiona Porta,F,Andorra,AND,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fiona Porta,F,Andorra,AND,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True

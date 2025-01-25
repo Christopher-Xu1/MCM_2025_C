@@ -1,112 +1,112 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Orlando Azinhais,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True
-Orlando Azinhais,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True
-Orlando Azinhais,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True
-Jos Bandeira,M,Portugal,POR,1988,Seoul,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True
-Jos Bandeira,M,Portugal,POR,1988,Seoul,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Jos Bandeira,M,Portugal,POR,1992,Barcelona,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Augusto Barreto,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,False
-Manuel Borrego,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True
-Manuel Borrego,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Gustavo Carinhas,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Gustavo Carinhas,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Jos Castro,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,False
-Manuel Chagas,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Manuel Chagas,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Fernando Correia,M,Portugal,POR,1912,Stockholm,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Fernando Correia,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Joo Costa,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Joo Costa,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Francisco Silva,M,Portugal,POR,1968,Mexico City,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Francisco Silva,M,Portugal,POR,1968,Mexico City,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Henrique Silveira,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Henrique Silveira,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Henrique Silveira,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Henrique Silveira,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Henrique Silveira,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Team",Bronze,Fencing,FEN,True
-Henrique Silveira,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Henrique Silveira,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Joo Abreu,M,Portugal,POR,1968,Mexico City,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Joo Abreu,M,Portugal,POR,1968,Mexico City,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Jos Albuquerque,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Jos Albuquerque,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Geraldo Andrade,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,False
-Sebastio Herdia,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,False
-Antnio Menezes,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Antnio Menezes,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Antnio Menezes,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Antnio Menezes,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Antnio Menezes,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Mrio Noronha,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Mrio Noronha,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Mrio Noronha,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Team",Bronze,Fencing,FEN,True
-Jorge Paiva,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Jorge Paiva,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Jorge Paiva,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Jorge Paiva,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Team",Bronze,Fencing,FEN,True
-Carlos Dias,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Carlos Dias,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Carlos Dias,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Roberto Duro,M,Portugal,POR,1988,Seoul,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False
-Jos Fernandes,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Jos Fernandes,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Jos Fernandes,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True
-Jos Ferreira,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True
-Jos Ferreira,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True
-Jos Ferreira,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Jos Ferreira,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Jos Ferreira,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True
-Jorge Franco,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,False
-Nuno Frazo,M,Portugal,POR,1996,Atlanta,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False
-Rui Frazo,M,Portugal,POR,1992,Barcelona,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False
-Joo Gomes,M,Portugal,POR,2000,Sydney,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True
-Joo Gomes,M,Portugal,POR,2004,Athina,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True
-Jos Guimares,M,Portugal,POR,1992,Barcelona,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,False
-Paulo Leal,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Paulo Leal,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Paulo Leal,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Team",Bronze,Fencing,FEN,True
-Paulo Leal,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Paulo Leal,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Antnio Leite,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,False
-Emlio Lino,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Emlio Lino,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Pedro Maral,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,False
-Antnio Marquilhas,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True
-Antnio Marquilhas,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True
-Joo Marquilhas,M,Portugal,POR,1984,Los Angeles,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,False
-Ruimondo Mayer,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Ruimondo Mayer,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Ruimondo Mayer,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Ruimondo Mayer,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-lvaro Mouro,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-lvaro Mouro,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Frederico Paredes,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Frederico Paredes,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Frederico Paredes,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Frederico Paredes,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Frederico Paredes,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Frederico Paredes,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Team",Bronze,Fencing,FEN,True
-Joo Pessanha,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True
-Joo Pessanha,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True
-Jos Pinheiro,M,Portugal,POR,1968,Mexico City,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Jos Pinheiro,M,Portugal,POR,1968,Mexico City,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-lvaro Pinto,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-lvaro Pinto,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-lvaro Pinto,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-lvaro Pinto,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-scar Pinto,M,Portugal,POR,1988,Seoul,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False
-Manuel Queirz,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Manuel Queirz,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Manuel Queirz,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True
-Hlder Reis,M,Portugal,POR,1968,Mexico City,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,False
-Joaquim Rodrigues,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True
-Joaquim Rodrigues,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True
-Joo Sassetti,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
-Joo Sassetti,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-Joo Sassetti,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Team",Bronze,Fencing,FEN,True
-Joo Sassetti,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True
-lvaro Silva,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True
-lvaro Silva,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True
-Lus Silva,M,Portugal,POR,1992,Barcelona,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,False
-Francisco Uva,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,False
-Joaquim Videira,M,Portugal,POR,2008,Beijing,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Orlando Azinhais,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True,True
+Orlando Azinhais,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True,True
+Orlando Azinhais,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True,True
+Jos Bandeira,M,Portugal,POR,1988,Seoul,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True,True
+Jos Bandeira,M,Portugal,POR,1988,Seoul,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Jos Bandeira,M,Portugal,POR,1992,Barcelona,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Augusto Barreto,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,False,True
+Manuel Borrego,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True,True
+Manuel Borrego,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Gustavo Carinhas,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Gustavo Carinhas,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Jos Castro,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,False,True
+Manuel Chagas,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Manuel Chagas,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Fernando Correia,M,Portugal,POR,1912,Stockholm,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Fernando Correia,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Joo Costa,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Joo Costa,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+Francisco Silva,M,Portugal,POR,1968,Mexico City,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Francisco Silva,M,Portugal,POR,1968,Mexico City,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Henrique Silveira,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Henrique Silveira,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Henrique Silveira,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+Henrique Silveira,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Henrique Silveira,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Team",Bronze,Fencing,FEN,True,False
+Henrique Silveira,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Henrique Silveira,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+Joo Abreu,M,Portugal,POR,1968,Mexico City,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Joo Abreu,M,Portugal,POR,1968,Mexico City,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Jos Albuquerque,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Jos Albuquerque,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Geraldo Andrade,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,False,True
+Sebastio Herdia,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,False,True
+Antnio Menezes,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Antnio Menezes,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Antnio Menezes,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Antnio Menezes,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+Antnio Menezes,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+Mrio Noronha,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Mrio Noronha,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Mrio Noronha,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Team",Bronze,Fencing,FEN,True,False
+Jorge Paiva,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Jorge Paiva,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Jorge Paiva,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+Jorge Paiva,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Team",Bronze,Fencing,FEN,True,False
+Carlos Dias,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Carlos Dias,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Carlos Dias,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+Roberto Duro,M,Portugal,POR,1988,Seoul,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False,True
+Jos Fernandes,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Jos Fernandes,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Jos Fernandes,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True,True
+Jos Ferreira,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True,True
+Jos Ferreira,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True,True
+Jos Ferreira,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Jos Ferreira,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+Jos Ferreira,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True,False
+Jorge Franco,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,False,True
+Nuno Frazo,M,Portugal,POR,1996,Atlanta,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False,True
+Rui Frazo,M,Portugal,POR,1992,Barcelona,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False,True
+Joo Gomes,M,Portugal,POR,2000,Sydney,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True,True
+Joo Gomes,M,Portugal,POR,2004,Athina,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True,False
+Jos Guimares,M,Portugal,POR,1992,Barcelona,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,False,True
+Paulo Leal,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Paulo Leal,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Paulo Leal,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Team",Bronze,Fencing,FEN,True,False
+Paulo Leal,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Paulo Leal,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+Antnio Leite,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,False,True
+Emlio Lino,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Emlio Lino,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Pedro Maral,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,False,True
+Antnio Marquilhas,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True,True
+Antnio Marquilhas,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True,True
+Joo Marquilhas,M,Portugal,POR,1984,Los Angeles,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,False,True
+Ruimondo Mayer,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Ruimondo Mayer,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Ruimondo Mayer,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Ruimondo Mayer,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+lvaro Mouro,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+lvaro Mouro,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Frederico Paredes,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Frederico Paredes,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Frederico Paredes,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Frederico Paredes,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+Frederico Paredes,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+Frederico Paredes,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Team",Bronze,Fencing,FEN,True,False
+Joo Pessanha,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True,True
+Joo Pessanha,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True,True
+Jos Pinheiro,M,Portugal,POR,1968,Mexico City,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Jos Pinheiro,M,Portugal,POR,1968,Mexico City,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+lvaro Pinto,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+lvaro Pinto,M,Portugal,POR,1948,London,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+lvaro Pinto,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,False
+lvaro Pinto,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+scar Pinto,M,Portugal,POR,1988,Seoul,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False,True
+Manuel Queirz,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Manuel Queirz,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Manuel Queirz,M,Portugal,POR,1924,Paris,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True,False
+Hlder Reis,M,Portugal,POR,1968,Mexico City,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,False,True
+Joaquim Rodrigues,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True,True
+Joaquim Rodrigues,M,Portugal,POR,1960,Roma,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True,True
+Joo Sassetti,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True,True
+Joo Sassetti,M,Portugal,POR,1920,Antwerpen,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,True
+Joo Sassetti,M,Portugal,POR,1928,Amsterdam,Fencing,"Fencing Men's epee, Team",Bronze,Fencing,FEN,True,False
+Joo Sassetti,M,Portugal,POR,1936,Berlin,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,True,False
+lvaro Silva,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True,True
+lvaro Silva,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's Sabre, Team",No medal,Fencing,FEN,True,True
+Lus Silva,M,Portugal,POR,1992,Barcelona,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,False,True
+Francisco Uva,M,Portugal,POR,1952,Helsinki,Fencing,"Fencing Men's epee, Team",No medal,Fencing,FEN,False,True
+Joaquim Videira,M,Portugal,POR,2008,Beijing,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False,True

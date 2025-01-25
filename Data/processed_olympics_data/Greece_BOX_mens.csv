@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Georgios Agrimanakis,M,Greece,GRE,1976,Montreal,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Efstathios Alexopoulos,M,Greece,GRE,1968,Mexico City,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Nikolaos Fexis,M,Greece,GRE,1928,Amsterdam,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Georgios Gazis,M,Greece,GRE,2004,Athina,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Georgios Gazis,M,Greece,GRE,2008,Beijing,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True
-Athanasios Giannopoulos,M,Greece,GRE,1972,Munich,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Antonios Giannoulas,M,Greece,GRE,2000,Sydney,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Emmanouil Gneytos,M,Greece,GRE,1924,Paris,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Athanasios Iliadis,M,Greece,GRE,1976,Montreal,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Georgios Ioannidis,M,Greece,GRE,1988,Seoul,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Spyridon Ioannidis,M,Greece,GRE,2004,Athina,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Marios Kaperonis,M,Greece,GRE,2004,Athina,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Athanasios Khouliaras,M,Greece,GRE,1976,Montreal,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Georgios Kladis,M,Greece,GRE,1928,Amsterdam,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Spyridon Kladoukhas,M,Greece,GRE,2004,Athina,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Stamatios Kolethras,M,Greece,GRE,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Panagiotis Kostarellos,M,Greece,GRE,1960,Roma,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Theodoros Kotakos,M,Greece,GRE,2004,Athina,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Nikolaos Mastoridis,M,Greece,GRE,1932,Los Angeles,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Artour Mikaelian,M,Greece,GRE,2000,Sydney,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Dimitrios Mikhail,M,Greece,GRE,1960,Roma,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Evangelos Oikonomakos,M,Greece,GRE,1968,Mexico City,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Evangelos Oikonomakos,M,Greece,GRE,1972,Munich,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True
-Tingran Ouzlian,M,Greece,GRE,1996,Atlanta,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True
-Tingran Ouzlian,M,Greece,GRE,2000,Sydney,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Ilias Pavlidis,M,Greece,GRE,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Ilias Pavlidis,M,Greece,GRE,2008,Beijing,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True
-Georgios Stefanopoulos,M,Greece,GRE,1984,Los Angeles,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True
-Georgios Stefanopoulos,M,Greece,GRE,1992,Barcelona,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True
-Angelos Theotokatos,M,Greece,GRE,1968,Mexico City,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True
-Angelos Theotokatos,M,Greece,GRE,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True
-Panagiotis Therianos,M,Greece,GRE,1972,Munich,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Agathangelos Tsiripidis,M,Greece,GRE,1996,Atlanta,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Georgios Agrimanakis,M,Greece,GRE,1976,Montreal,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Efstathios Alexopoulos,M,Greece,GRE,1968,Mexico City,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Nikolaos Fexis,M,Greece,GRE,1928,Amsterdam,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Georgios Gazis,M,Greece,GRE,2004,Athina,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,True
+Georgios Gazis,M,Greece,GRE,2008,Beijing,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,True,False
+Athanasios Giannopoulos,M,Greece,GRE,1972,Munich,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Antonios Giannoulas,M,Greece,GRE,2000,Sydney,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Emmanouil Gneytos,M,Greece,GRE,1924,Paris,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Athanasios Iliadis,M,Greece,GRE,1976,Montreal,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Georgios Ioannidis,M,Greece,GRE,1988,Seoul,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Spyridon Ioannidis,M,Greece,GRE,2004,Athina,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Marios Kaperonis,M,Greece,GRE,2004,Athina,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Athanasios Khouliaras,M,Greece,GRE,1976,Montreal,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Georgios Kladis,M,Greece,GRE,1928,Amsterdam,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Spyridon Kladoukhas,M,Greece,GRE,2004,Athina,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Stamatios Kolethras,M,Greece,GRE,1984,Los Angeles,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Panagiotis Kostarellos,M,Greece,GRE,1960,Roma,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Theodoros Kotakos,M,Greece,GRE,2004,Athina,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Nikolaos Mastoridis,M,Greece,GRE,1932,Los Angeles,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Artour Mikaelian,M,Greece,GRE,2000,Sydney,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Dimitrios Mikhail,M,Greece,GRE,1960,Roma,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Evangelos Oikonomakos,M,Greece,GRE,1968,Mexico City,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,True
+Evangelos Oikonomakos,M,Greece,GRE,1972,Munich,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True,False
+Tingran Ouzlian,M,Greece,GRE,1996,Atlanta,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True,True
+Tingran Ouzlian,M,Greece,GRE,2000,Sydney,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,False
+Ilias Pavlidis,M,Greece,GRE,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,True
+Ilias Pavlidis,M,Greece,GRE,2008,Beijing,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True,False
+Georgios Stefanopoulos,M,Greece,GRE,1984,Los Angeles,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True,True
+Georgios Stefanopoulos,M,Greece,GRE,1992,Barcelona,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True,False
+Angelos Theotokatos,M,Greece,GRE,1968,Mexico City,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True,True
+Angelos Theotokatos,M,Greece,GRE,1972,Munich,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True,False
+Panagiotis Therianos,M,Greece,GRE,1972,Munich,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Agathangelos Tsiripidis,M,Greece,GRE,1996,Atlanta,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True

@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Emilio Mulet,M,Djinn,ARG,1948,London,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Horacio Monti,M,Djinn,ARG,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Hrcules Morini,M,Djinn,ARG,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Rodolfo Bravo,M,Djinn,ARG,1948,London,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Rufino Newton,M,Djinn,ARG,1948,London,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,True
-Rufino Newton,M,Djinn,ARG,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,True
-Julio Hadler,M,Djinn,ARG,1948,London,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False
-Enrique Sr.,M,Djinn,ARG,1948,London,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,True
-Enrique Sr.,M,Djinn,ARG,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,True
-Werner Foerster,M,Djinn,ARG,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Emilio Mulet,M,Djinn,ARG,1948,London,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Horacio Monti,M,Djinn,ARG,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Hrcules Morini,M,Djinn,ARG,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Rodolfo Bravo,M,Djinn,ARG,1948,London,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Rufino Newton,M,Djinn,ARG,1948,London,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,True,True
+Rufino Newton,M,Djinn,ARG,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,True,False
+Julio Hadler,M,Djinn,ARG,1948,London,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,False,True
+Enrique Sr.,M,Djinn,ARG,1948,London,Sailing,Sailing Mixed 6 metres,Silver,Sailing,SAL,True,True
+Enrique Sr.,M,Djinn,ARG,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,True,False
+Werner Foerster,M,Djinn,ARG,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

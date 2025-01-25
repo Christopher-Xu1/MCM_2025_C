@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alannah Yip,F,Canada,CAN,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alannah Yip,F,Canada,CAN,2020,Tokyo,Sport Climbing,Women's Combined,No medal,Women's,CLB,False,True

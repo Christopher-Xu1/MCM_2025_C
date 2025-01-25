@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chen Chih-hao,M,Chinese Taipei,TPE,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Deng Chueng-hwai,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Deng Chueng-hwai,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Deng Chueng-hwai,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Deng Chueng-hwai,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Fan Yue-tao,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Fan Yue-tao,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Feng Chun-kai,M,Chinese Taipei,TPE,2008,Beijing,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,False
-Her Jong-chau,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Her Jong-chau,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Hsu Chin-te,M,Chinese Taipei,TPE,1984,Los Angeles,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,False
-Hsu Jui-te,M,Chinese Taipei,TPE,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Hsu Jui-te,M,Chinese Taipei,TPE,1988,Seoul,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Jiang Guang-nan,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
-Lee Fu-hsiang,M,Chinese Taipei,TPE,1984,Los Angeles,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Lee Fu-hsiang,M,Chinese Taipei,TPE,1984,Los Angeles,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Lee Fu-hsiang,M,Chinese Taipei,TPE,1988,Seoul,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Lee Fu-hsiang,M,Chinese Taipei,TPE,1988,Seoul,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Lin Chih-hsun,M,Chinese Taipei,TPE,2004,Athina,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,False
-Liu Cheng-tao,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Liu Cheng-tao,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Shue Ming-fa,M,Chinese Taipei,TPE,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Shue Ming-fa,M,Chinese Taipei,TPE,1972,Munich,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
-Shue Ming-fa,M,Chinese Taipei,TPE,1972,Munich,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Shue Ming-shu,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Shue Ming-shu,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Shue Ming-shu,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
-Shue Ming-shu,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Shue Ming-shu,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True
-Weng Yu-yi,M,Chinese Taipei,TPE,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Weng Yu-yi,M,Chinese Taipei,TPE,1992,Barcelona,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Weng Yu-yi,M,Chinese Taipei,TPE,1992,Barcelona,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Yang Rong-hwa,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chen Chih-hao,M,Chinese Taipei,TPE,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Deng Chueng-hwai,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Deng Chueng-hwai,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Deng Chueng-hwai,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Deng Chueng-hwai,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Fan Yue-tao,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Fan Yue-tao,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Feng Chun-kai,M,Chinese Taipei,TPE,2008,Beijing,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,False,True
+Her Jong-chau,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Her Jong-chau,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Hsu Chin-te,M,Chinese Taipei,TPE,1984,Los Angeles,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,False,True
+Hsu Jui-te,M,Chinese Taipei,TPE,1988,Seoul,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Hsu Jui-te,M,Chinese Taipei,TPE,1988,Seoul,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,True
+Jiang Guang-nan,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True
+Lee Fu-hsiang,M,Chinese Taipei,TPE,1984,Los Angeles,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Lee Fu-hsiang,M,Chinese Taipei,TPE,1984,Los Angeles,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Lee Fu-hsiang,M,Chinese Taipei,TPE,1988,Seoul,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,False
+Lee Fu-hsiang,M,Chinese Taipei,TPE,1988,Seoul,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,False
+Lin Chih-hsun,M,Chinese Taipei,TPE,2004,Athina,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,False,True
+Liu Cheng-tao,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Liu Cheng-tao,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Shue Ming-fa,M,Chinese Taipei,TPE,1972,Munich,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Shue Ming-fa,M,Chinese Taipei,TPE,1972,Munich,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True,True
+Shue Ming-fa,M,Chinese Taipei,TPE,1972,Munich,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Shue Ming-shu,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Shue Ming-shu,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,True
+Shue Ming-shu,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True,True
+Shue Ming-shu,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Shue Ming-shu,M,Chinese Taipei,TPE,1968,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,True,False
+Weng Yu-yi,M,Chinese Taipei,TPE,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Weng Yu-yi,M,Chinese Taipei,TPE,1992,Barcelona,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Weng Yu-yi,M,Chinese Taipei,TPE,1992,Barcelona,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,True
+Yang Rong-hwa,M,Chinese Taipei,TPE,1964,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,No medal,Cycling,CTR,False,True

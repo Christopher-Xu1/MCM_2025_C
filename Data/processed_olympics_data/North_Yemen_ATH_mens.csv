@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fahmi Al-tahri,M,North Yemen,YAR,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Abdul Al-ghadi,M,North Yemen,YAR,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Ali Al-ghadi,M,North Yemen,YAR,1984,Los Angeles,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Ali Al-ghadi,M,North Yemen,YAR,1984,Los Angeles,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
-Anwar Al-harazi,M,North Yemen,YAR,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
-Abdul Daoud,M,North Yemen,YAR,1988,Seoul,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,False
-Awad Ahmed,M,North Yemen,YAR,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fahmi Al-tahri,M,North Yemen,YAR,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Abdul Al-ghadi,M,North Yemen,YAR,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Ali Al-ghadi,M,North Yemen,YAR,1984,Los Angeles,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Ali Al-ghadi,M,North Yemen,YAR,1984,Los Angeles,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True,True
+Anwar Al-harazi,M,North Yemen,YAR,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False,True
+Abdul Daoud,M,North Yemen,YAR,1988,Seoul,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,False,True
+Awad Ahmed,M,North Yemen,YAR,1988,Seoul,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True

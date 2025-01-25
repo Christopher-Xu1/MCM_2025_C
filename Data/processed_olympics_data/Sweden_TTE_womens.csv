@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Matilda Ekholm,F,Sweden,SWE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Charlotte (-wallbom),F,Sweden,SWE,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Charlotte (-wallbom),F,Sweden,SWE,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Fen Li,F,Sweden,SWE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
-Pernilla (-andersson),F,Sweden,SWE,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False
-sa (-karlsson),F,Sweden,SWE,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-sa (-karlsson),F,Sweden,SWE,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-sa (-karlsson),F,Sweden,SWE,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-sa (-karlsson),F,Sweden,SWE,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Marie Svensson,F,Sweden,SWE,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Marie Svensson,F,Sweden,SWE,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Marie Svensson,F,Sweden,SWE,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Marie Svensson,F,Sweden,SWE,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True
-Linda Bergstroem,F,Sweden,SWE,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,False
-Christina Kaellberg,F,Sweden,SWE,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,False
-Filippa Bergand,F,Sweden,SWE,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,False
-Christina Kallberg,F,Sweden,SWE,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Christina Kallberg,F,Sweden,SWE,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True
-Christina Kallberg,F,Sweden,SWE,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True
-Linda Bergstrom,F,Sweden,SWE,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True
-Linda Bergstrom,F,Sweden,SWE,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Matilda Ekholm,F,Sweden,SWE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Charlotte (-wallbom),F,Sweden,SWE,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Charlotte (-wallbom),F,Sweden,SWE,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Fen Li,F,Sweden,SWE,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False,True
+Pernilla (-andersson),F,Sweden,SWE,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,False,True
+sa (-karlsson),F,Sweden,SWE,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+sa (-karlsson),F,Sweden,SWE,1996,Atlanta,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+sa (-karlsson),F,Sweden,SWE,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+sa (-karlsson),F,Sweden,SWE,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Marie Svensson,F,Sweden,SWE,1992,Barcelona,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,True
+Marie Svensson,F,Sweden,SWE,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Marie Svensson,F,Sweden,SWE,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Marie Svensson,F,Sweden,SWE,2000,Sydney,Table Tennis,Table Tennis Women's Doubles,No medal,Table,TTE,True,False
+Linda Bergstroem,F,Sweden,SWE,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,False,True
+Christina Kaellberg,F,Sweden,SWE,2020,Tokyo,Table Tennis,Women's Singles,No medal,Women's,TTE,False,True
+Filippa Bergand,F,Sweden,SWE,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,False,True
+Christina Kallberg,F,Sweden,SWE,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Christina Kallberg,F,Sweden,SWE,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True,True
+Christina Kallberg,F,Sweden,SWE,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True,True
+Linda Bergstrom,F,Sweden,SWE,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,True,True
+Linda Bergstrom,F,Sweden,SWE,2024,Paris,Table Tennis,Women's Team,No medal,Women's,TTE,True,True

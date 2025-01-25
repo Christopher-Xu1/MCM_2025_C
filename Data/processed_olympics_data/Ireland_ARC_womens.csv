@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hazel Greene-pereira,F,Ireland,IRL,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Hazel Greene-pereira,F,Ireland,IRL,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Hazel Greene-pereira,F,Ireland,IRL,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Mary Vaughan,F,Ireland,IRL,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hazel Greene-pereira,F,Ireland,IRL,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Hazel Greene-pereira,F,Ireland,IRL,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Hazel Greene-pereira,F,Ireland,IRL,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Mary Vaughan,F,Ireland,IRL,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True

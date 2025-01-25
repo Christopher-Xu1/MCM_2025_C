@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hesham Al-shehabi,M,Bahrain,BRN,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Khalid Baba,M,Bahrain,BRN,2012,London,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Hamad Jassim,M,Bahrain,BRN,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Esa Al-muqla,M,Bahrain,BRN,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Farhan Farhan,M,Bahrain,BRN,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Omar Al-maaliki,M,Bahrain,BRN,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Dawood Al-maaliki,M,Bahrain,BRN,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Essa Ahmed,M,Bahrain,BRN,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False
-Saud Ghali,M,Bahrain,BRN,2024,Paris,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hesham Al-shehabi,M,Bahrain,BRN,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Khalid Baba,M,Bahrain,BRN,2012,London,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Hamad Jassim,M,Bahrain,BRN,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Esa Al-muqla,M,Bahrain,BRN,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Farhan Farhan,M,Bahrain,BRN,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Omar Al-maaliki,M,Bahrain,BRN,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Dawood Al-maaliki,M,Bahrain,BRN,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Essa Ahmed,M,Bahrain,BRN,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False,True
+Saud Ghali,M,Bahrain,BRN,2024,Paris,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,False,True

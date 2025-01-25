@@ -1,35 +1,35 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Agneta Andersson,F,Sweden,SWE,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Agneta Andersson,F,Sweden,SWE,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Agneta Andersson,F,Sweden,SWE,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Christa Bckman,F,Sweden,SWE,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Christa Bckman,F,Sweden,SWE,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Kerstin Berglund,F,Sweden,SWE,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Kerstin Berglund,F,Sweden,SWE,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Kerstin Berglund,F,Sweden,SWE,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Christine Bjerendal,F,Sweden,SWE,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Christine Bjerendal,F,Sweden,SWE,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Marie (svensson-),F,Sweden,SWE,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Marie (svensson-),F,Sweden,SWE,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Petra Ericsson,F,Sweden,SWE,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Petra Ericsson,F,Sweden,SWE,2000,Sydney,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Gun (-haglund),F,Sweden,SWE,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Svea Johansson,F,Sweden,SWE,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Carina (sundstrm-),F,Sweden,SWE,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Carina (sundstrm-),F,Sweden,SWE,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Karin Larsson,F,Sweden,SWE,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Karin Larsson,F,Sweden,SWE,2000,Sydney,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Erika Persson-nordlander,F,Sweden,SWE,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Erika Persson-nordlander,F,Sweden,SWE,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Erika Persson-nordlander,F,Sweden,SWE,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Erika Persson-nordlander,F,Sweden,SWE,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Erika Persson-nordlander,F,Sweden,SWE,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Erika Persson-nordlander,F,Sweden,SWE,2000,Sydney,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Birgit (svensson-),F,Sweden,SWE,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Jenny Sjwall,F,Sweden,SWE,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Jenny Sjwall,F,Sweden,SWE,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Jenny Sjwall,F,Sweden,SWE,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Jenny Sjwall,F,Sweden,SWE,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Jenny Sjwall,F,Sweden,SWE,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Jenny Sjwall,F,Sweden,SWE,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Christine Bjerendal,F,Sweden,SWE,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Agneta Andersson,F,Sweden,SWE,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Agneta Andersson,F,Sweden,SWE,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Agneta Andersson,F,Sweden,SWE,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Christa Bckman,F,Sweden,SWE,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Christa Bckman,F,Sweden,SWE,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Kerstin Berglund,F,Sweden,SWE,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Kerstin Berglund,F,Sweden,SWE,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Kerstin Berglund,F,Sweden,SWE,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Christine Bjerendal,F,Sweden,SWE,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Christine Bjerendal,F,Sweden,SWE,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Marie (svensson-),F,Sweden,SWE,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Marie (svensson-),F,Sweden,SWE,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Petra Ericsson,F,Sweden,SWE,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Petra Ericsson,F,Sweden,SWE,2000,Sydney,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Gun (-haglund),F,Sweden,SWE,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Svea Johansson,F,Sweden,SWE,1972,Munich,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Carina (sundstrm-),F,Sweden,SWE,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Carina (sundstrm-),F,Sweden,SWE,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Karin Larsson,F,Sweden,SWE,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Karin Larsson,F,Sweden,SWE,2000,Sydney,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Erika Persson-nordlander,F,Sweden,SWE,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Erika Persson-nordlander,F,Sweden,SWE,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Erika Persson-nordlander,F,Sweden,SWE,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Erika Persson-nordlander,F,Sweden,SWE,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Erika Persson-nordlander,F,Sweden,SWE,2000,Sydney,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Erika Persson-nordlander,F,Sweden,SWE,2000,Sydney,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Birgit (svensson-),F,Sweden,SWE,1976,Montreal,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Jenny Sjwall,F,Sweden,SWE,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Jenny Sjwall,F,Sweden,SWE,1988,Seoul,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Jenny Sjwall,F,Sweden,SWE,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Jenny Sjwall,F,Sweden,SWE,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Jenny Sjwall,F,Sweden,SWE,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Jenny Sjwall,F,Sweden,SWE,1996,Atlanta,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Christine Bjerendal,F,Sweden,SWE,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,False

@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nicola Adams,F,United Kingdom,GBR,2012,London,Boxing,Boxing Women's Flyweight,Gold,Boxing,BOX,True
-Nicola Adams,F,United Kingdom,GBR,2016,Rio de Janeiro,Boxing,Boxing Women's Flyweight,Gold,Boxing,BOX,True
-Natasha Jonas,F,United Kingdom,GBR,2012,London,Boxing,Boxing Women's Lightweight,No medal,Boxing,BOX,False
-Savannah Marshall,F,United Kingdom,GBR,2012,London,Boxing,Boxing Women's Middleweight,No medal,Boxing,BOX,True
-Savannah Marshall,F,United Kingdom,GBR,2016,Rio de Janeiro,Boxing,Boxing Women's Middleweight,No medal,Boxing,BOX,True
-Karriss Artingstall,F,United Kingdom,GBR,2020,Tokyo,Boxing,Women's Feather (54-57kg),Bronze,Women's,BOX,False
-Charley-sian Davison,F,United Kingdom,GBR,2020,Tokyo,Boxing,Women's Fly (48-51kg),No medal,Women's,BOX,False
-Caroline Dubois,F,United Kingdom,GBR,2020,Tokyo,Boxing,Women's Light (57-60kg),No medal,Women's,BOX,False
-Lauren Price,F,United Kingdom,GBR,2020,Tokyo,Boxing,Women's Middle (69-75kg),Gold,Women's,BOX,False
-Rosie Eccles,F,United Kingdom,GBR,2024,Paris,Boxing,Women's 66kg,No medal,Women's,BOX,False
-Charley Davison,F,United Kingdom,GBR,2024,Paris,Boxing,Women's 54kg,No medal,Women's,BOX,False
-Jordan Reid,F,United Kingdom,GBR,2024,Paris,Boxing,Women's 75kg,No medal,Women's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nicola Adams,F,United Kingdom,GBR,2012,London,Boxing,Boxing Women's Flyweight,Gold,Boxing,BOX,True,True
+Nicola Adams,F,United Kingdom,GBR,2016,Rio de Janeiro,Boxing,Boxing Women's Flyweight,Gold,Boxing,BOX,True,False
+Natasha Jonas,F,United Kingdom,GBR,2012,London,Boxing,Boxing Women's Lightweight,No medal,Boxing,BOX,False,True
+Savannah Marshall,F,United Kingdom,GBR,2012,London,Boxing,Boxing Women's Middleweight,No medal,Boxing,BOX,True,True
+Savannah Marshall,F,United Kingdom,GBR,2016,Rio de Janeiro,Boxing,Boxing Women's Middleweight,No medal,Boxing,BOX,True,False
+Karriss Artingstall,F,United Kingdom,GBR,2020,Tokyo,Boxing,Women's Feather (54-57kg),Bronze,Women's,BOX,False,True
+Charley-sian Davison,F,United Kingdom,GBR,2020,Tokyo,Boxing,Women's Fly (48-51kg),No medal,Women's,BOX,False,True
+Caroline Dubois,F,United Kingdom,GBR,2020,Tokyo,Boxing,Women's Light (57-60kg),No medal,Women's,BOX,False,True
+Lauren Price,F,United Kingdom,GBR,2020,Tokyo,Boxing,Women's Middle (69-75kg),Gold,Women's,BOX,False,True
+Rosie Eccles,F,United Kingdom,GBR,2024,Paris,Boxing,Women's 66kg,No medal,Women's,BOX,False,True
+Charley Davison,F,United Kingdom,GBR,2024,Paris,Boxing,Women's 54kg,No medal,Women's,BOX,False,True
+Jordan Reid,F,United Kingdom,GBR,2024,Paris,Boxing,Women's 75kg,No medal,Women's,BOX,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abdou Bo,M,Niger,NIG,2004,Athina,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Ahmed Goumar,M,Niger,NIG,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Zakari Gourouza,M,Niger,NIG,2012,London,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Ismael Alhassane,M,Niger,NIG,2020,Tokyo,Judo,Men -66 kg,No medal,Men,JUD,True
-Ismael Alhassane,M,Niger,NIG,2024,Paris,Judo,Men -66 kg,No medal,Men,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abdou Bo,M,Niger,NIG,2004,Athina,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Ahmed Goumar,M,Niger,NIG,2016,Rio de Janeiro,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Zakari Gourouza,M,Niger,NIG,2012,London,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Ismael Alhassane,M,Niger,NIG,2020,Tokyo,Judo,Men -66 kg,No medal,Men,JUD,True,True
+Ismael Alhassane,M,Niger,NIG,2024,Paris,Judo,Men -66 kg,No medal,Men,JUD,True,False

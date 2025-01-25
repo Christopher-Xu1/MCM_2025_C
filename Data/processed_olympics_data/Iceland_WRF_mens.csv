@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jhannes Borg),M,Iceland,ISL,1908,London,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False
-Sigurjn Ptursson,M,Iceland,ISL,1912,Stockholm,Wrestling,"Wrestling Men's Middleweight B, Greco-Roman",No medal,Wrestling,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jhannes Borg),M,Iceland,ISL,1908,London,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Sigurjn Ptursson,M,Iceland,ISL,1912,Stockholm,Wrestling,"Wrestling Men's Middleweight B, Greco-Roman",No medal,Wrestling,WRF,False,True

@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Slobodan Gruji,M,Serbia And Montenegro,SCG,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Slobodan Gruji,M,Serbia And Montenegro,SCG,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Slobodan Gruji,M,Serbia And Montenegro,SCG,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Slobodan Gruji,M,Serbia And Montenegro,SCG,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Slobodan Gruji,M,Serbia And Montenegro,SCG,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Slobodan Gruji,M,Serbia And Montenegro,SCG,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Aleksandar Karakaevi,M,Serbia And Montenegro,SCG,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Aleksandar Karakaevi,M,Serbia And Montenegro,SCG,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Aleksandar Karakaevi,M,Serbia And Montenegro,SCG,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Ilija Lupulesku,M,Serbia And Montenegro,SCG,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Ilija Lupulesku,M,Serbia And Montenegro,SCG,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Ilija Lupulesku,M,Serbia And Montenegro,SCG,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Slobodan Gruji,M,Serbia And Montenegro,SCG,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Slobodan Gruji,M,Serbia And Montenegro,SCG,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Slobodan Gruji,M,Serbia And Montenegro,SCG,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Slobodan Gruji,M,Serbia And Montenegro,SCG,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Slobodan Gruji,M,Serbia And Montenegro,SCG,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Slobodan Gruji,M,Serbia And Montenegro,SCG,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Aleksandar Karakaevi,M,Serbia And Montenegro,SCG,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Aleksandar Karakaevi,M,Serbia And Montenegro,SCG,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Aleksandar Karakaevi,M,Serbia And Montenegro,SCG,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Ilija Lupulesku,M,Serbia And Montenegro,SCG,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Ilija Lupulesku,M,Serbia And Montenegro,SCG,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Ilija Lupulesku,M,Serbia And Montenegro,SCG,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False

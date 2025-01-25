@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Froelund Funch,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
-Froelund Funch,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True
-Nyvang Iversen,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True
-Nyvang Iversen,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True
-Aastrand Jorgensen,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,Bronze,Women's,CSP,True
-Aastrand Jorgensen,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,Bronze,Women's,CSP,True
-Aastrand Jorgensen,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True
-Corfixsen Milthers,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True
-Corfixsen Milthers,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True
-Aastrand Jorgensen,F,Denmark,DEN,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,Bronze,Women's,CSP,True
-Aastrand Jorgensen,F,Denmark,DEN,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True
-Hauge Matthiesen,F,Denmark,DEN,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Froelund Funch,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True
+Froelund Funch,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True,True
+Nyvang Iversen,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Double 500m Team,No medal,Women's,CSP,True,True
+Nyvang Iversen,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True,True
+Aastrand Jorgensen,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,Bronze,Women's,CSP,True,True
+Aastrand Jorgensen,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Single 500m,Bronze,Women's,CSP,True,True
+Aastrand Jorgensen,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True,True
+Corfixsen Milthers,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Single 200m,No medal,Women's,CSP,True,True
+Corfixsen Milthers,F,Denmark,DEN,2020,Tokyo,Canoe Sprint,Women's Kayak Four 500m Team,No medal,Women's,CSP,True,True
+Aastrand Jorgensen,F,Denmark,DEN,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,Bronze,Women's,CSP,True,False
+Aastrand Jorgensen,F,Denmark,DEN,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True,False
+Hauge Matthiesen,F,Denmark,DEN,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,False,True

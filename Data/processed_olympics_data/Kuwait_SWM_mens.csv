@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohamed Al-salah,M,Kuwait,KUW,1980,Moskva,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Mohamed Al-salah,M,Kuwait,KUW,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Abdullah Zeyab,M,Kuwait,KUW,1972,Munich,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Yousef Al-askari,M,Kuwait,KUW,2012,London,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False
-Jarrah Al-asmawi,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Jarrah Al-asmawi,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
-Jarrah Al-asmawi,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
-Khaled Al-assaf,M,Kuwait,KUW,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Ayman Al-enazy,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Ayman Al-enazy,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Adel Al-ghaith,M,Kuwait,KUW,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Ahmad Al-hahdoud,M,Kuwait,KUW,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Ahmad Al-hahdoud,M,Kuwait,KUW,1984,Los Angeles,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Faisal Al-mahmeed,M,Kuwait,KUW,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Fahad Al-otaibi,M,Kuwait,KUW,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
-Sultan Al-otaibi,M,Kuwait,KUW,1988,Seoul,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
-Sultan Al-otaibi,M,Kuwait,KUW,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Sultan Al-otaibi,M,Kuwait,KUW,1988,Seoul,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Sultan Al-otaibi,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
-Sultan Al-otaibi,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Sultan Al-otaibi,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Sultan Al-otaibi,M,Kuwait,KUW,1996,Atlanta,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Sultan Al-otaibi,M,Kuwait,KUW,1996,Atlanta,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Sultan Al-otaibi,M,Kuwait,KUW,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Hasan Al-shammari,M,Kuwait,KUW,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
-Hasan Al-shammari,M,Kuwait,KUW,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Thamer Al-shamroukh,M,Kuwait,KUW,1996,Atlanta,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
-Fawzi Burhma,M,Kuwait,KUW,1972,Munich,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
-Adham Yussuf,M,Kuwait,KUW,1980,Moskva,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
-Adham Yussuf,M,Kuwait,KUW,1980,Moskva,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Mohammad Madwa,M,Kuwait,KUW,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Faisal Marzouk,M,Kuwait,KUW,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Saleh Al-hbish,M,Kuwait,KUW,1980,Moskva,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False
-Isaac Wa-el,M,Kuwait,KUW,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Abbas Qali,M,Kuwait,KUW,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False
-Mohamad Zubaid,M,Kuwait,KUW,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohamed Al-salah,M,Kuwait,KUW,1980,Moskva,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Mohamed Al-salah,M,Kuwait,KUW,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Abdullah Zeyab,M,Kuwait,KUW,1972,Munich,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Yousef Al-askari,M,Kuwait,KUW,2012,London,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False,True
+Jarrah Al-asmawi,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Jarrah Al-asmawi,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Jarrah Al-asmawi,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Khaled Al-assaf,M,Kuwait,KUW,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Ayman Al-enazy,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Ayman Al-enazy,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Adel Al-ghaith,M,Kuwait,KUW,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Ahmad Al-hahdoud,M,Kuwait,KUW,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Ahmad Al-hahdoud,M,Kuwait,KUW,1984,Los Angeles,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Faisal Al-mahmeed,M,Kuwait,KUW,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Fahad Al-otaibi,M,Kuwait,KUW,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Sultan Al-otaibi,M,Kuwait,KUW,1988,Seoul,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Sultan Al-otaibi,M,Kuwait,KUW,1988,Seoul,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Sultan Al-otaibi,M,Kuwait,KUW,1988,Seoul,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Sultan Al-otaibi,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True,False
+Sultan Al-otaibi,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Sultan Al-otaibi,M,Kuwait,KUW,1992,Barcelona,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Sultan Al-otaibi,M,Kuwait,KUW,1996,Atlanta,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Sultan Al-otaibi,M,Kuwait,KUW,1996,Atlanta,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Sultan Al-otaibi,M,Kuwait,KUW,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,False
+Hasan Al-shammari,M,Kuwait,KUW,1988,Seoul,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Hasan Al-shammari,M,Kuwait,KUW,1988,Seoul,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Thamer Al-shamroukh,M,Kuwait,KUW,1996,Atlanta,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Fawzi Burhma,M,Kuwait,KUW,1972,Munich,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False,True
+Adham Yussuf,M,Kuwait,KUW,1980,Moskva,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Adham Yussuf,M,Kuwait,KUW,1980,Moskva,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Mohammad Madwa,M,Kuwait,KUW,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Faisal Marzouk,M,Kuwait,KUW,1984,Los Angeles,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Saleh Al-hbish,M,Kuwait,KUW,1980,Moskva,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,False,True
+Isaac Wa-el,M,Kuwait,KUW,1984,Los Angeles,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Abbas Qali,M,Kuwait,KUW,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False,True
+Mohamad Zubaid,M,Kuwait,KUW,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,False,True

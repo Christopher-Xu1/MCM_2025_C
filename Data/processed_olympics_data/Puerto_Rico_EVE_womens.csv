@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lauren Billys,F,Puerto Rico,PUR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Libby Hernndez,F,Puerto Rico,PUR,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False
-Lauren Billys,F,Puerto Rico,PUR,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lauren Billys,F,Puerto Rico,PUR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Libby Hernndez,F,Puerto Rico,PUR,1984,Los Angeles,Equestrianism,"Equestrianism Mixed Dressage, Individual",No medal,Equestrianism,EVE,False,True
+Lauren Billys,F,Puerto Rico,PUR,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,True,False

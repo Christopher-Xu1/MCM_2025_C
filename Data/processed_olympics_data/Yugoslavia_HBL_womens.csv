@@ -1,45 +1,45 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Svetlana Anastasovski-obuina,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,True
-Svetlana Anastasovski-obuina,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True
-Svetlana Anastasovski-obuina,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Alenka Cuderman,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,False
-Svetlana Dai-kiti,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,True
-Svetlana Dai-kiti,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True
-Slavica Djuki,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True
-Slavica Djuki,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Radmila (-savi),F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False
-Dragica Uri,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True
-Dragica Uri,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Mirjana Urica,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,True
-Mirjana Urica,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True
-Mirjana Urica,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Emilija Eri,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,False
-Zita Galic,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Katica Ile,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False
-Ljubinka (erdevicki-),F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True
-Ljubinka (erdevicki-),F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Slavica Jeremi,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False
-Jasna Kolar-merdan,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,True
-Jasna Kolar-merdan,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True
-Nataa Kolega,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Mirjana Krsti,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Ljiljana Markovi,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Svetlana Mii,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Vesna (-petrovi),F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False
-Ljiljana (-vuevi),F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True
-Ljiljana (-vuevi),F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Svetlana Mugoa-anti,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True
-Svetlana Mugoa-anti,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,True
-Mirjana Ognjenovi,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,True
-Mirjana Ognjenovi,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True
-Zorica Pavievi,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,False
-Dragana (-vuji),F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Jasna Ptujec,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,False
-Vesna Radovi,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False
-Slavica Rini,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Radmila Savi,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False
-Desanka Stojanovi,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Ana Titli,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False
-Biserka Vinji,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,True
-Biserka Vinji,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True
-Zorica Vojinovi,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Svetlana Anastasovski-obuina,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,True,True
+Svetlana Anastasovski-obuina,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True,False
+Svetlana Anastasovski-obuina,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,True,False
+Alenka Cuderman,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,False,True
+Svetlana Dai-kiti,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,True,True
+Svetlana Dai-kiti,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True,False
+Slavica Djuki,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True,True
+Slavica Djuki,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,True,False
+Radmila (-savi),F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False,True
+Dragica Uri,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True,True
+Dragica Uri,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,True,False
+Mirjana Urica,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,True,True
+Mirjana Urica,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True,False
+Mirjana Urica,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,True,False
+Emilija Eri,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,False,True
+Zita Galic,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Katica Ile,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False,True
+Ljubinka (erdevicki-),F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True,True
+Ljubinka (erdevicki-),F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,True,False
+Slavica Jeremi,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False,True
+Jasna Kolar-merdan,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,True,True
+Jasna Kolar-merdan,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True,False
+Nataa Kolega,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Mirjana Krsti,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Ljiljana Markovi,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Svetlana Mii,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Vesna (-petrovi),F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False,True
+Ljiljana (-vuevi),F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True,True
+Ljiljana (-vuevi),F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,True,False
+Svetlana Mugoa-anti,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True,True
+Svetlana Mugoa-anti,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,True,False
+Mirjana Ognjenovi,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,True,True
+Mirjana Ognjenovi,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True,False
+Zorica Pavievi,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,False,True
+Dragana (-vuji),F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Jasna Ptujec,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,False,True
+Vesna Radovi,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False,True
+Slavica Rini,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Radmila Savi,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False,True
+Desanka Stojanovi,F,Yugoslavia,YUG,1988,Seoul,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Ana Titli,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False,True
+Biserka Vinji,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,True,True
+Biserka Vinji,F,Yugoslavia,YUG,1984,Los Angeles,Handball,Handball Women's Handball,Gold,Handball,HBL,True,False
+Zorica Vojinovi,F,Yugoslavia,YUG,1980,Moskva,Handball,Handball Women's Handball,Silver,Handball,HBL,False,True

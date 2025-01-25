@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elna Babkina,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Gunta Bako,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Aija Brumermane,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Zane Eglte,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Anda Eibele,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Liene Jansone,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Anete Jkabsone-ogota,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Dita Krmberga,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Ieva Kublia,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Aija Putnia,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Zane Teilane-tamane,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
-Ieva Tre,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elna Babkina,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Gunta Bako,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Aija Brumermane,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Zane Eglte,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Anda Eibele,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Liene Jansone,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Anete Jkabsone-ogota,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Dita Krmberga,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Ieva Kublia,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Aija Putnia,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Zane Teilane-tamane,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True
+Ieva Tre,F,Latvia,LAT,2008,Beijing,Basketball,Basketball Women's Basketball,No medal,Basketball,BKB,False,True

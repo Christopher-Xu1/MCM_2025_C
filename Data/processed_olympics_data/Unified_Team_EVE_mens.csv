@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sandro Chikhladze,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Sandro Chikhladze,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Oleg Karpov,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Oleg Karpov,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Mikhail Rybak,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Mikhail Rybak,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Vasiliu Tanas,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True
-Vasiliu Tanas,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True
-Anatoly Timoshenko,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sandro Chikhladze,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Sandro Chikhladze,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Oleg Karpov,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Oleg Karpov,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Mikhail Rybak,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Mikhail Rybak,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Vasiliu Tanas,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,True,True
+Vasiliu Tanas,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",No medal,Equestrianism,EVE,True,True
+Anatoly Timoshenko,M,Unified Team,EUN,1992,Barcelona,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,False,True

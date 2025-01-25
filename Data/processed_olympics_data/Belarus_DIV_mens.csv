@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Timofey Gordeychik,M,Belarus,BLR,2012,London,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Vadim Kaptur,M,Belarus,BLR,2008,Beijing,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Vadim Kaptur,M,Belarus,BLR,2012,London,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Vadim Kaptur,M,Belarus,BLR,2016,Rio de Janeiro,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Vyacheslav Khamulkin,M,Belarus,BLR,1996,Atlanta,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Vyacheslav Khamulkin,M,Belarus,BLR,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Yevgeny Korolyov,M,Belarus,BLR,2016,Rio de Janeiro,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Sergey Kuchmasov,M,Belarus,BLR,2004,Athina,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Sergey Kuchmasov,M,Belarus,BLR,2008,Beijing,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Sergey Kudrevich,M,Belarus,BLR,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Andrey Kvochinsky,M,Belarus,BLR,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Andrey Mamontov,M,Belarus,BLR,2004,Athina,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Andrey Semenyuk,M,Belarus,BLR,1996,Atlanta,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Aleksandr Varlamov,M,Belarus,BLR,2004,Athina,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Aleksandr Varlamov,M,Belarus,BLR,2004,Athina,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Aleksandr Varlamov,M,Belarus,BLR,2008,Beijing,Diving,Diving Men's Platform,No medal,Diving,DIV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Timofey Gordeychik,M,Belarus,BLR,2012,London,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Vadim Kaptur,M,Belarus,BLR,2008,Beijing,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Vadim Kaptur,M,Belarus,BLR,2012,London,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Vadim Kaptur,M,Belarus,BLR,2016,Rio de Janeiro,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Vyacheslav Khamulkin,M,Belarus,BLR,1996,Atlanta,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Vyacheslav Khamulkin,M,Belarus,BLR,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Yevgeny Korolyov,M,Belarus,BLR,2016,Rio de Janeiro,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Sergey Kuchmasov,M,Belarus,BLR,2004,Athina,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Sergey Kuchmasov,M,Belarus,BLR,2008,Beijing,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Sergey Kudrevich,M,Belarus,BLR,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Andrey Kvochinsky,M,Belarus,BLR,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Andrey Mamontov,M,Belarus,BLR,2004,Athina,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Andrey Semenyuk,M,Belarus,BLR,1996,Atlanta,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Aleksandr Varlamov,M,Belarus,BLR,2004,Athina,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Aleksandr Varlamov,M,Belarus,BLR,2004,Athina,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Aleksandr Varlamov,M,Belarus,BLR,2008,Beijing,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False

@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chafik Bouaoud,M,Algeria,ALG,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Fateh Ziadi,M,Algeria,ALG,2012,London,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Koceila Adoul,M,Algeria,ALG,2024,Paris,Shooting,10m Air Rifle Men,No medal,10m,SHO,False
-Samir Bouchireb,M,Algeria,ALG,2024,Paris,Shooting,10m Air Pistol Men,No medal,10m,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chafik Bouaoud,M,Algeria,ALG,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Fateh Ziadi,M,Algeria,ALG,2012,London,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Koceila Adoul,M,Algeria,ALG,2024,Paris,Shooting,10m Air Rifle Men,No medal,10m,SHO,False,True
+Samir Bouchireb,M,Algeria,ALG,2024,Paris,Shooting,10m Air Pistol Men,No medal,10m,SHO,False,True

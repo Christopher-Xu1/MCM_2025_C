@@ -1,38 +1,38 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Laura (-hobbs),F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False
-Militza Morales,F,Puerto Rico,PUR,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Grace Claxton,F,Puerto Rico,PUR,2016,Rio de Janeiro,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True
-Beatriz Nazario,F,Puerto Rico,PUR,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Madeline (-simon),F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Madeline (-simon),F,Puerto Rico,PUR,1988,Seoul,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Margaret Jess,F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Alysbeth Boyer,F,Puerto Rico,PUR,2016,Rio de Janeiro,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,False
-Yvonne Castro,F,Puerto Rico,PUR,2004,Athina,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,False
-Ileana Hocking,F,Puerto Rico,PUR,1976,Montreal,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Ileana Hocking,F,Puerto Rico,PUR,1976,Montreal,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Angelita (-olivera),F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Angelita (-olivera),F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Evelyn Mathieu,F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Marie Mathieu,F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Marie Mathieu,F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Myra Mayberry-wilkinson,F,Puerto Rico,PUR,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Myra Mayberry-wilkinson,F,Puerto Rico,PUR,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Myra Mayberry-wilkinson,F,Puerto Rico,PUR,1996,Atlanta,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Myra Mayberry-wilkinson,F,Puerto Rico,PUR,1996,Atlanta,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Celiangeli Melndez,F,Puerto Rico,PUR,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Sandra (-cablayan),F,Puerto Rico,PUR,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Naydi Nazario,F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Diamara Cruz,F,Puerto Rico,PUR,2016,Rio de Janeiro,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,False
-Jasmine Camacho-quinn,F,Puerto Rico,PUR,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Beverly Ramos,F,Puerto Rico,PUR,2012,London,Athletics,"Athletics Women's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
-Beverly Ramos,F,Puerto Rico,PUR,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Carol Taylor,F,Puerto Rico,PUR,2008,Beijing,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Carol Taylor,F,Puerto Rico,PUR,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Carol Taylor,F,Puerto Rico,PUR,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Maritza Kelly,F,Puerto Rico,PUR,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Jasmine Camacho-quinn,F,Puerto Rico,PUR,2020,Tokyo,Athletics,Women's 100m Hurdles,Gold,Women's,ATH,True
-de Rachelle,F,Puerto Rico,PUR,2024,Paris,Athletics,Women's 20km Race Walk,No medal,Women's,ATH,False
-Gabby Scott,F,Puerto Rico,PUR,2024,Paris,Athletics,Women's 400m,No medal,Women's,ATH,False
-Jasmine Camacho-quinn,F,Puerto Rico,PUR,2024,Paris,Athletics,Women's 100m Hurdles,Bronze,Women's,ATH,True
-Gladymar Torres,F,Puerto Rico,PUR,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False
-Grace Claxton,F,Puerto Rico,PUR,2024,Paris,Athletics,Women's 400m Hurdles,No medal,Women's,ATH,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Laura (-hobbs),F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,False,True
+Militza Morales,F,Puerto Rico,PUR,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Grace Claxton,F,Puerto Rico,PUR,2016,Rio de Janeiro,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,True,True
+Beatriz Nazario,F,Puerto Rico,PUR,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Madeline (-simon),F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,True
+Madeline (-simon),F,Puerto Rico,PUR,1988,Seoul,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,False
+Margaret Jess,F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Alysbeth Boyer,F,Puerto Rico,PUR,2016,Rio de Janeiro,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,False,True
+Yvonne Castro,F,Puerto Rico,PUR,2004,Athina,Athletics,Athletics Women's 400 metres Hurdles,No medal,Athletics,ATH,False,True
+Ileana Hocking,F,Puerto Rico,PUR,1976,Montreal,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Ileana Hocking,F,Puerto Rico,PUR,1976,Montreal,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Angelita (-olivera),F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Angelita (-olivera),F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Evelyn Mathieu,F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Marie Mathieu,F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Marie Mathieu,F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Myra Mayberry-wilkinson,F,Puerto Rico,PUR,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Myra Mayberry-wilkinson,F,Puerto Rico,PUR,1992,Barcelona,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Myra Mayberry-wilkinson,F,Puerto Rico,PUR,1996,Atlanta,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,False
+Myra Mayberry-wilkinson,F,Puerto Rico,PUR,1996,Atlanta,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,False
+Celiangeli Melndez,F,Puerto Rico,PUR,2016,Rio de Janeiro,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Sandra (-cablayan),F,Puerto Rico,PUR,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Naydi Nazario,F,Puerto Rico,PUR,1984,Los Angeles,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Diamara Cruz,F,Puerto Rico,PUR,2016,Rio de Janeiro,Athletics,Athletics Women's Pole Vault,No medal,Athletics,ATH,False,True
+Jasmine Camacho-quinn,F,Puerto Rico,PUR,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,True
+Beverly Ramos,F,Puerto Rico,PUR,2012,London,Athletics,"Athletics Women's 3,000 metres Steeplechase",No medal,Athletics,ATH,True,True
+Beverly Ramos,F,Puerto Rico,PUR,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Carol Taylor,F,Puerto Rico,PUR,2008,Beijing,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Carol Taylor,F,Puerto Rico,PUR,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Carol Taylor,F,Puerto Rico,PUR,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,False
+Maritza Kelly,F,Puerto Rico,PUR,2000,Sydney,Athletics,Athletics Women's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Jasmine Camacho-quinn,F,Puerto Rico,PUR,2020,Tokyo,Athletics,Women's 100m Hurdles,Gold,Women's,ATH,True,False
+de Rachelle,F,Puerto Rico,PUR,2024,Paris,Athletics,Women's 20km Race Walk,No medal,Women's,ATH,False,True
+Gabby Scott,F,Puerto Rico,PUR,2024,Paris,Athletics,Women's 400m,No medal,Women's,ATH,False,True
+Jasmine Camacho-quinn,F,Puerto Rico,PUR,2024,Paris,Athletics,Women's 100m Hurdles,Bronze,Women's,ATH,True,False
+Gladymar Torres,F,Puerto Rico,PUR,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False,True
+Grace Claxton,F,Puerto Rico,PUR,2024,Paris,Athletics,Women's 400m Hurdles,No medal,Women's,ATH,True,False

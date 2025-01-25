@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Isabelle Forrer,F,Switzerland-2,SUI,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Anouk Verg-dpr,F,Switzerland-2,SUI,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Isabelle Forrer,F,Switzerland-2,SUI,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Anouk Verg-dpr,F,Switzerland-2,SUI,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True

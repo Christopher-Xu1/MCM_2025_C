@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jrgen Freiwald,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Horst Hagen,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,False
-Manfred Heine,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Jrgen Kessel,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Wolfgang Lwe,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,False
-Wolfgang Maibohm,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,False
-Jrgen Maune,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,False
-Horst Peter,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True
-Horst Peter,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,True
-Eckehard Pietzsch,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True
-Eckehard Pietzsch,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,True
-Siegfried Schneider,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True
-Siegfried Schneider,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,True
-Arnold Schulz,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True
-Arnold Schulz,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,True
-Rudi Schumann,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True
-Rudi Schumann,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,True
-Eckhard Tielscher,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Walter Toussaint,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Rainer Tscharke,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True
-Rainer Tscharke,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,True
-Wolfgang Webner,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True
-Wolfgang Webner,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,True
-Wolfgang Weise,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jrgen Freiwald,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Horst Hagen,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,False,True
+Manfred Heine,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Jrgen Kessel,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Wolfgang Lwe,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,False,True
+Wolfgang Maibohm,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,False,True
+Jrgen Maune,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,False,True
+Horst Peter,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True,True
+Horst Peter,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,True,False
+Eckehard Pietzsch,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True,True
+Eckehard Pietzsch,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,True,False
+Siegfried Schneider,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True,True
+Siegfried Schneider,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,True,False
+Arnold Schulz,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True,True
+Arnold Schulz,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,True,False
+Rudi Schumann,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True,True
+Rudi Schumann,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,True,False
+Eckhard Tielscher,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Walter Toussaint,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Rainer Tscharke,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True,True
+Rainer Tscharke,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,True,False
+Wolfgang Webner,M,East Germany,GDR,1968,Mexico City,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,True,True
+Wolfgang Webner,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,True,False
+Wolfgang Weise,M,East Germany,GDR,1972,Munich,Volleyball,Volleyball Men's Volleyball,Silver,Volleyball,VVO,False,True

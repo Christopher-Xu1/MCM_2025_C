@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Karl-Robert Ameln,M,May Be Vii,SWE,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Martin Hindorff,M,May Be Vii,SWE,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Torsten Lord,M,May Be Vii,SWE,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Jacob Lundstrm,M,May Be Vii,SWE,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Sven Saln,M,May Be Vii,SWE,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Karl-Robert Ameln,M,May Be Vii,SWE,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Martin Hindorff,M,May Be Vii,SWE,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Torsten Lord,M,May Be Vii,SWE,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Jacob Lundstrm,M,May Be Vii,SWE,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Sven Saln,M,May Be Vii,SWE,1952,Helsinki,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

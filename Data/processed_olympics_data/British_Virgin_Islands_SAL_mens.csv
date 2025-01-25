@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Matthew Arneborg,M,British Virgin Islands,IVB,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,False
-Keith Barker,M,British Virgin Islands,IVB,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False
-Peter Barker,M,British Virgin Islands,IVB,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False
-Robert Hirst,M,British Virgin Islands,IVB,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Robert Hirst,M,British Virgin Islands,IVB,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Elvet Meyers,M,British Virgin Islands,IVB,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-John Shirley,M,British Virgin Islands,IVB,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Robin Tattersall,M,British Virgin Islands,IVB,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Robin Tattersall,M,British Virgin Islands,IVB,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True
-Keith Thomas,M,British Virgin Islands,IVB,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Matthew Arneborg,M,British Virgin Islands,IVB,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,False,True
+Keith Barker,M,British Virgin Islands,IVB,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False,True
+Peter Barker,M,British Virgin Islands,IVB,1984,Los Angeles,Sailing,Sailing Mixed Two Person Dinghy,No medal,Sailing,SAL,False,True
+Robert Hirst,M,British Virgin Islands,IVB,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,True
+Robert Hirst,M,British Virgin Islands,IVB,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Elvet Meyers,M,British Virgin Islands,IVB,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+John Shirley,M,British Virgin Islands,IVB,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Robin Tattersall,M,British Virgin Islands,IVB,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,True
+Robin Tattersall,M,British Virgin Islands,IVB,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,True,False
+Keith Thomas,M,British Virgin Islands,IVB,1984,Los Angeles,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

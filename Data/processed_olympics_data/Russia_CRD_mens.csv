@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pavel Sivakov,M,Russia,ROC,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Aleksandr Vlasov,M,Russia,ROC,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Aleksandr Vlasov,M,Russia,ROC,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Ilnur Zakarin,M,Russia,ROC,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Gleb Syritsa,M,Russia,AIN,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Gleb Syritsa,M,Russia,AIN,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pavel Sivakov,M,Russia,ROC,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Aleksandr Vlasov,M,Russia,ROC,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Aleksandr Vlasov,M,Russia,ROC,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Ilnur Zakarin,M,Russia,ROC,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Gleb Syritsa,M,Russia,AIN,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Gleb Syritsa,M,Russia,AIN,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True

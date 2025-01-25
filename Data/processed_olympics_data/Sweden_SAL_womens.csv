@@ -1,35 +1,35 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Birgitta Bengtsson,F,Sweden,SWE,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,False
-Boel (-bessemer-clark),F,Sweden,SWE,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Ingrid Brodin,F,Sweden,SWE,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Lena (-wilton),F,Sweden,SWE,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Lena (-wilton),F,Sweden,SWE,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Karin Engstrm,F,Sweden,SWE,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Berit Ericson,F,Sweden,SWE,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Berit Ericson,F,Sweden,SWE,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,True
-Astrid Gabrielsson,F,Sweden,SWE,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Eva-Lisa Gullberg,F,Sweden,SWE,1992,Barcelona,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Lise-Lotte (mikkelsen-),F,Sweden,SWE,2012,London,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Anna (hultn-),F,Sweden,SWE,2012,London,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Anna (-stling),F,Sweden,SWE,2012,London,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Hanna Klinga,F,Sweden,SWE,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False
-Malin Milbourn,F,Sweden,SWE,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Josefin Olsson,F,Sweden,SWE,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Josefin Olsson,F,Sweden,SWE,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Karin Sderstrm,F,Sweden,SWE,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Marit (-nord),F,Sweden,SWE,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,False
-Therese Torgersson,F,Sweden,SWE,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Therese Torgersson,F,Sweden,SWE,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True
-Therese Torgersson,F,Sweden,SWE,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Vendela Zachrisson-santn,F,Sweden,SWE,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True
-Vendela Zachrisson-santn,F,Sweden,SWE,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Olivia Bergstrom,F,Sweden,SWE,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False
-Cecilia Jonsson,F,Sweden,SWE,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,False
-Lovisa Karlsson,F,Sweden,SWE,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,True
-Josefin Olsson,F,Sweden,SWE,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,Silver,Women's,SAL,True
-Lovisa Karlsson,F,Sweden,SWE,2024,Paris,Sailing,Mixed Dinghy,Bronze,Mixed,SAL,True
-Vilma Bobeck,F,Sweden,SWE,2024,Paris,Sailing,Women's Skiff,Silver,Women's,SAL,False
-Josefin Olsson,F,Sweden,SWE,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,True
-Hanna Jonsson,F,Sweden,SWE,2024,Paris,Sailing,Mixed Multihull,No medal,Mixed,SAL,False
-Rebecca Netzler,F,Sweden,SWE,2024,Paris,Sailing,Women's Skiff,Silver,Women's,SAL,False
-Johanna Hjertberg,F,Sweden,SWE,2024,Paris,Sailing,Women's Windsurfing,No medal,Women's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Birgitta Bengtsson,F,Sweden,SWE,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,False,True
+Boel (-bessemer-clark),F,Sweden,SWE,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Ingrid Brodin,F,Sweden,SWE,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Lena (-wilton),F,Sweden,SWE,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Lena (-wilton),F,Sweden,SWE,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Karin Engstrm,F,Sweden,SWE,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Berit Ericson,F,Sweden,SWE,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Berit Ericson,F,Sweden,SWE,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,True,False
+Astrid Gabrielsson,F,Sweden,SWE,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Eva-Lisa Gullberg,F,Sweden,SWE,1992,Barcelona,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Lise-Lotte (mikkelsen-),F,Sweden,SWE,2012,London,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Anna (hultn-),F,Sweden,SWE,2012,London,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Anna (-stling),F,Sweden,SWE,2012,London,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Hanna Klinga,F,Sweden,SWE,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False,True
+Malin Milbourn,F,Sweden,SWE,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Josefin Olsson,F,Sweden,SWE,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Josefin Olsson,F,Sweden,SWE,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Karin Sderstrm,F,Sweden,SWE,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Marit (-nord),F,Sweden,SWE,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,False,True
+Therese Torgersson,F,Sweden,SWE,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Therese Torgersson,F,Sweden,SWE,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True,False
+Therese Torgersson,F,Sweden,SWE,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Vendela Zachrisson-santn,F,Sweden,SWE,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,Bronze,Sailing,SAL,True,True
+Vendela Zachrisson-santn,F,Sweden,SWE,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Olivia Bergstrom,F,Sweden,SWE,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False,True
+Cecilia Jonsson,F,Sweden,SWE,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,False,True
+Lovisa Karlsson,F,Sweden,SWE,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,True,True
+Josefin Olsson,F,Sweden,SWE,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,Silver,Women's,SAL,True,False
+Lovisa Karlsson,F,Sweden,SWE,2024,Paris,Sailing,Mixed Dinghy,Bronze,Mixed,SAL,True,False
+Vilma Bobeck,F,Sweden,SWE,2024,Paris,Sailing,Women's Skiff,Silver,Women's,SAL,False,True
+Josefin Olsson,F,Sweden,SWE,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,True,False
+Hanna Jonsson,F,Sweden,SWE,2024,Paris,Sailing,Mixed Multihull,No medal,Mixed,SAL,False,True
+Rebecca Netzler,F,Sweden,SWE,2024,Paris,Sailing,Women's Skiff,Silver,Women's,SAL,False,True
+Johanna Hjertberg,F,Sweden,SWE,2024,Paris,Sailing,Women's Windsurfing,No medal,Women's,SAL,False,True

@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zdenk Chldek,M,Czech Republic,CZE,2012,London,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Petr Horek,M,Czech Republic,CZE,1996,Atlanta,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False
-Jaroslav Konen,M,Czech Republic,CZE,1996,Atlanta,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Luk Konen,M,Czech Republic,CZE,2000,Sydney,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Rudolf Kraj,M,Czech Republic,CZE,2000,Sydney,Boxing,Boxing Men's Light-Heavyweight,Silver,Boxing,BOX,False
-udovt Plachetka,M,Czech Republic,CZE,1996,Atlanta,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Pavel Polakovi,M,Czech Republic,CZE,1996,Atlanta,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zdenk Chldek,M,Czech Republic,CZE,2012,London,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Petr Horek,M,Czech Republic,CZE,1996,Atlanta,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False,True
+Jaroslav Konen,M,Czech Republic,CZE,1996,Atlanta,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Luk Konen,M,Czech Republic,CZE,2000,Sydney,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Rudolf Kraj,M,Czech Republic,CZE,2000,Sydney,Boxing,Boxing Men's Light-Heavyweight,Silver,Boxing,BOX,False,True
+udovt Plachetka,M,Czech Republic,CZE,1996,Atlanta,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Pavel Polakovi,M,Czech Republic,CZE,1996,Atlanta,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True

@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Paula Ruiz,F,Spain,ESP,2020,Tokyo,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False
-de Maria,F,Spain,ESP,2024,Paris,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False
-Angela Martinez,F,Spain,ESP,2024,Paris,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Paula Ruiz,F,Spain,ESP,2020,Tokyo,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False,True
+de Maria,F,Spain,ESP,2024,Paris,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False,True
+Angela Martinez,F,Spain,ESP,2024,Paris,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False,True

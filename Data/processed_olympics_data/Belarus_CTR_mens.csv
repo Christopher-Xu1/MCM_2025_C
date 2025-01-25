@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Oleg Bondarik,M,Belarus,BLR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Vyacheslav German,M,Belarus,BLR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Yevgeny Golovanov,M,Belarus,BLR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Yevgeny Gutarovich,M,Belarus,BLR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Pavel Kavetsky,M,Belarus,BLR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Vasily Kiriyenko,M,Belarus,BLR,2004,Athina,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True
-Vasily Kiriyenko,M,Belarus,BLR,2008,Beijing,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Vasily Kiriyenko,M,Belarus,BLR,2008,Beijing,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
-Vasily Kiriyenko,M,Belarus,BLR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Vasily Kiriyenko,M,Belarus,BLR,2012,London,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Vasily Kiriyenko,M,Belarus,BLR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Vasily Kiriyenko,M,Belarus,BLR,2016,Rio de Janeiro,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Aleksandr Kuchinsky,M,Belarus,BLR,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Bronislav Samoylov,M,Belarus,BLR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Aleksandr Sharapov,M,Belarus,BLR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
-Konstantin Sivtsov,M,Belarus,BLR,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Konstantin Sivtsov,M,Belarus,BLR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Konstantin Sivtsov,M,Belarus,BLR,2016,Rio de Janeiro,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
-Yevgeny Sobol,M,Belarus,BLR,2004,Athina,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,False
-Aleksandr Usov,M,Belarus,BLR,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Aleksandr Usov,M,Belarus,BLR,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
-Yauheni Karaliok,M,Belarus,BLR,2020,Tokyo,Cycling Track,Men's Omnium,No medal,Men's,CTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Oleg Bondarik,M,Belarus,BLR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Vyacheslav German,M,Belarus,BLR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Yevgeny Golovanov,M,Belarus,BLR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Yevgeny Gutarovich,M,Belarus,BLR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Pavel Kavetsky,M,Belarus,BLR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Vasily Kiriyenko,M,Belarus,BLR,2004,Athina,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",No medal,Cycling,CTR,True,True
+Vasily Kiriyenko,M,Belarus,BLR,2008,Beijing,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False
+Vasily Kiriyenko,M,Belarus,BLR,2008,Beijing,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True,False
+Vasily Kiriyenko,M,Belarus,BLR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Vasily Kiriyenko,M,Belarus,BLR,2012,London,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False
+Vasily Kiriyenko,M,Belarus,BLR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Vasily Kiriyenko,M,Belarus,BLR,2016,Rio de Janeiro,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False
+Aleksandr Kuchinsky,M,Belarus,BLR,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Bronislav Samoylov,M,Belarus,BLR,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Aleksandr Sharapov,M,Belarus,BLR,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False,True
+Konstantin Sivtsov,M,Belarus,BLR,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Konstantin Sivtsov,M,Belarus,BLR,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Konstantin Sivtsov,M,Belarus,BLR,2016,Rio de Janeiro,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True,False
+Yevgeny Sobol,M,Belarus,BLR,2004,Athina,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,False,True
+Aleksandr Usov,M,Belarus,BLR,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,True
+Aleksandr Usov,M,Belarus,BLR,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True,False
+Yauheni Karaliok,M,Belarus,BLR,2020,Tokyo,Cycling Track,Men's Omnium,No medal,Men's,CTR,False,True

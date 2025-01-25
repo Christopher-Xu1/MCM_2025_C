@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mara Caldern,F,Peru,PER,2008,Beijing,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
-Luisa Doig,F,Peru,PER,2020,Tokyo,Fencing,Women's Épée Individual,No medal,Women's,FEN,True
-Luisa Doig,F,Peru,PER,2024,Paris,Fencing,Women's Épée Individual,No medal,Women's,FEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mara Caldern,F,Peru,PER,2008,Beijing,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True
+Luisa Doig,F,Peru,PER,2020,Tokyo,Fencing,Women's Épée Individual,No medal,Women's,FEN,True,True
+Luisa Doig,F,Peru,PER,2024,Paris,Fencing,Women's Épée Individual,No medal,Women's,FEN,True,False

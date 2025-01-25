@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bunturabie Jalloh,F,Sierra Leone,SLE,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Tity Dumbuya,F,Sierra Leone,SLE,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
-Olamide Sam,F,Sierra Leone,SLE,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bunturabie Jalloh,F,Sierra Leone,SLE,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Tity Dumbuya,F,Sierra Leone,SLE,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True
+Olamide Sam,F,Sierra Leone,SLE,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jayla Pina,F,Cape Verde,CPV,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jayla Pina,F,Cape Verde,CPV,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,False,True

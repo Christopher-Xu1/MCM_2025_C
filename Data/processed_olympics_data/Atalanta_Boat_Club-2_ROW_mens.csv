@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Mulcahy,M,Atalanta Boat Club-2,USA,1904,St. Louis,Rowing,Rowing Men's Coxless Pairs,Silver,Rowing,ROW,False
-William Varley,M,Atalanta Boat Club-2,USA,1904,St. Louis,Rowing,Rowing Men's Coxless Pairs,Silver,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Mulcahy,M,Atalanta Boat Club-2,USA,1904,St. Louis,Rowing,Rowing Men's Coxless Pairs,Silver,Rowing,ROW,False,True
+William Varley,M,Atalanta Boat Club-2,USA,1904,St. Louis,Rowing,Rowing Men's Coxless Pairs,Silver,Rowing,ROW,False,True

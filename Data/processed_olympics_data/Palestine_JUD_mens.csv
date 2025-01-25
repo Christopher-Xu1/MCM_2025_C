@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maher Rmilah,M,Palestine,PLE,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Simon Yacoub,M,Palestine,PLE,2016,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Wesam Abu,M,Palestine,PLE,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,False
-Fares Badawi,M,Palestine,PLE,2024,Paris,Judo,Men -81 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maher Rmilah,M,Palestine,PLE,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Simon Yacoub,M,Palestine,PLE,2016,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Wesam Abu,M,Palestine,PLE,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,False,True
+Fares Badawi,M,Palestine,PLE,2024,Paris,Judo,Men -81 kg,No medal,Men,JUD,False,True

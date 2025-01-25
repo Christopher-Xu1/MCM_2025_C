@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Remi Cavagna,M,France,FRA,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Remi Cavagna,M,France,FRA,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Benoit Cosnefroy,M,France,FRA,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Kenny Elissonde,M,France,FRA,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-David Gaudu,M,France,FRA,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Guillaume Martin,M,France,FRA,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Julian Alaphilippe,M,France,FRA,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Christophe Laporte,M,France,FRA,2024,Paris,Cycling Road,Men's Road Race,Bronze,Men's,CRD,False
-Valentin Madouas,M,France,FRA,2024,Paris,Cycling Road,Men's Road Race,Silver,Men's,CRD,False
-Kevin Vauquelin,M,France,FRA,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Kevin Vauquelin,M,France,FRA,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Remi Cavagna,M,France,FRA,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Remi Cavagna,M,France,FRA,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Benoit Cosnefroy,M,France,FRA,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Kenny Elissonde,M,France,FRA,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+David Gaudu,M,France,FRA,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Guillaume Martin,M,France,FRA,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Julian Alaphilippe,M,France,FRA,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Christophe Laporte,M,France,FRA,2024,Paris,Cycling Road,Men's Road Race,Bronze,Men's,CRD,False,True
+Valentin Madouas,M,France,FRA,2024,Paris,Cycling Road,Men's Road Race,Silver,Men's,CRD,False,True
+Kevin Vauquelin,M,France,FRA,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Kevin Vauquelin,M,France,FRA,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True

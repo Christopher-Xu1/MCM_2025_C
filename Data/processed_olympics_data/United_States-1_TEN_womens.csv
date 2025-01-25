@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lindsay Davenport,F,United States-1,USA,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Liezel Horn-huber,F,United States-1,USA,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Lisa Raymond,F,United States-1,USA,2012,London,Tennis,Tennis Mixed Doubles,Bronze,Tennis,TEN,False
-Chanda Rubin,F,United States-1,USA,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Hazel (hotchkiss-),F,United States-1,USA,1924,Paris,Tennis,Tennis Mixed Doubles,Gold,Tennis,TEN,True
-Hazel (hotchkiss-),F,United States-1,USA,1924,Paris,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,True
-Serena Williams,F,United States-1,USA,2012,London,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,True
-Serena Williams,F,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Venus Williams,F,United States-1,USA,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Venus Williams,F,United States-1,USA,2012,London,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,True
-Venus Williams,F,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,Silver,Tennis,TEN,True
-Venus Williams,F,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Helen -roark),F,United States-1,USA,1924,Paris,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lindsay Davenport,F,United States-1,USA,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Liezel Horn-huber,F,United States-1,USA,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Lisa Raymond,F,United States-1,USA,2012,London,Tennis,Tennis Mixed Doubles,Bronze,Tennis,TEN,False,True
+Chanda Rubin,F,United States-1,USA,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Hazel (hotchkiss-),F,United States-1,USA,1924,Paris,Tennis,Tennis Mixed Doubles,Gold,Tennis,TEN,True,True
+Hazel (hotchkiss-),F,United States-1,USA,1924,Paris,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,True,True
+Serena Williams,F,United States-1,USA,2012,London,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,True,True
+Serena Williams,F,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Venus Williams,F,United States-1,USA,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Venus Williams,F,United States-1,USA,2012,London,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,True,False
+Venus Williams,F,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,Silver,Tennis,TEN,True,False
+Venus Williams,F,United States-1,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Helen -roark),F,United States-1,USA,1924,Paris,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,False,True

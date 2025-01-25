@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kuan-chieh Lai,M,Chinese Taipei,TPE,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kuan-chieh Lai,M,Chinese Taipei,TPE,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,False,True

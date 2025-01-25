@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Noel Borshi,F,Albania,ALB,2012,London,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False
-Rovena Marku,F,Albania,ALB,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Rovena Marku,F,Albania,ALB,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Nikol Merizaj,F,Albania,ALB,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Nikol Merizaj,F,Albania,ALB,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True
-Kaltra Meca,F,Albania,ALB,2024,Paris,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Noel Borshi,F,Albania,ALB,2012,London,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Rovena Marku,F,Albania,ALB,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Rovena Marku,F,Albania,ALB,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Nikol Merizaj,F,Albania,ALB,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Nikol Merizaj,F,Albania,ALB,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True,False
+Kaltra Meca,F,Albania,ALB,2024,Paris,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,False,True

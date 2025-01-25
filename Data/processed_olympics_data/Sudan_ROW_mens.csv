@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abdalla Ahmed,M,Sudan,SUD,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abdalla Ahmed,M,Sudan,SUD,2024,Paris,Rowing,Men's Single Sculls,No medal,Men's,ROW,False,True

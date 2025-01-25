@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ornella Havyarimana,F,Burundi,BDI,2020,Tokyo,Boxing,Women's Fly (48-51kg),No medal,Women's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ornella Havyarimana,F,Burundi,BDI,2020,Tokyo,Boxing,Women's Fly (48-51kg),No medal,Women's,BOX,False,True

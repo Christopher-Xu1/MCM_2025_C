@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sebastien Edgar,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Robin Garnham,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Martin Hare,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Mark Hawkins,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Steven Larsson,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Christopher Mcdermott,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Daniel Mcmillan,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Christopher Mohr,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Jesper Parker,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-John Pearce,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Sebastian Prieto,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Gawain Vincent,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Robert White,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False
-Ciaran Williams,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sebastien Edgar,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Robin Garnham,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Martin Hare,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Mark Hawkins,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Steven Larsson,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Christopher Mcdermott,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Daniel Mcmillan,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Christopher Mohr,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Jesper Parker,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+John Pearce,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Sebastian Prieto,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Gawain Vincent,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Robert White,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True
+Ciaran Williams,M,United Kingdom,GBR,2012,London,Handball,Handball Men's Handball,No medal,Handball,HBL,False,True

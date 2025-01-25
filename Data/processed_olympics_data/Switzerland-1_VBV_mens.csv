@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sbastien Chevallier,M,Switzerland-1,SUI,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Sascha Heyer,M,Switzerland-1,SUI,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Martin Laciga,M,Switzerland-1,SUI,2004,Athina,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True
-Martin Laciga,M,Switzerland-1,SUI,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True
-Paul Laciga,M,Switzerland-1,SUI,2004,Athina,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
-Jan Schnider,M,Switzerland-1,SUI,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sbastien Chevallier,M,Switzerland-1,SUI,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Sascha Heyer,M,Switzerland-1,SUI,2012,London,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Martin Laciga,M,Switzerland-1,SUI,2004,Athina,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True,True
+Martin Laciga,M,Switzerland-1,SUI,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,True,False
+Paul Laciga,M,Switzerland-1,SUI,2004,Athina,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True
+Jan Schnider,M,Switzerland-1,SUI,2008,Beijing,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,No medal,Beach,VBV,False,True

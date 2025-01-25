@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Erynn Ballard,F,Canada,CAN,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Erynn Ballard,F,Canada,CAN,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Tiffany Foster,F,Canada,CAN,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Tiffany Foster,F,Canada,CAN,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Amy Millar,F,Canada,CAN,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Amy Millar,F,Canada,CAN,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Erynn Ballard,F,Canada,CAN,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Erynn Ballard,F,Canada,CAN,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Tiffany Foster,F,Canada,CAN,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Tiffany Foster,F,Canada,CAN,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Amy Millar,F,Canada,CAN,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Amy Millar,F,Canada,CAN,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True

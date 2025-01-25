@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Agate Rasmane,F,Latvia,LAT,2020,Tokyo,Shooting,10m Air Pistol Women,No medal,10m,SHO,True
-Agate Rasmane,F,Latvia,LAT,2020,Tokyo,Shooting,25m Pistol Women,No medal,25m,SHO,True
-Agate Rasmane,F,Latvia,LAT,2024,Paris,Shooting,10m Air Pistol Women,No medal,10m,SHO,True
-Agate Rasmane,F,Latvia,LAT,2024,Paris,Shooting,25m Pistol Women,No medal,25m,SHO,True
-Agate Rasmane,F,Latvia,LAT,2024,Paris,Shooting,10m Air Pistol Mixed Team,No medal,10m,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Agate Rasmane,F,Latvia,LAT,2020,Tokyo,Shooting,10m Air Pistol Women,No medal,10m,SHO,True,True
+Agate Rasmane,F,Latvia,LAT,2020,Tokyo,Shooting,25m Pistol Women,No medal,25m,SHO,True,True
+Agate Rasmane,F,Latvia,LAT,2024,Paris,Shooting,10m Air Pistol Women,No medal,10m,SHO,True,False
+Agate Rasmane,F,Latvia,LAT,2024,Paris,Shooting,25m Pistol Women,No medal,25m,SHO,True,False
+Agate Rasmane,F,Latvia,LAT,2024,Paris,Shooting,10m Air Pistol Mixed Team,No medal,10m,SHO,True,False

@@ -1,35 +1,35 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aleksandr Anishchenko,M,Belarus,BLR,2004,Athina,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Andrey Aryamnov,M,Belarus,BLR,2008,Beijing,Weightlifting,Weightlifting Men's Heavyweight,Gold,Weightlifting,WLF,False
-Pyotr Asayonok,M,Belarus,BLR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Mikhail Avdeyev,M,Belarus,BLR,2004,Athina,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False
-Pavel Bazuk,M,Belarus,BLR,2000,Sydney,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Viktor Belyatsky,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Aleksandr Bersanov,M,Belarus,BLR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Oleg Chiritsa,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False
-Vitaly Derbenyov,M,Belarus,BLR,2000,Sydney,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Vitaly Derbenyov,M,Belarus,BLR,2004,Athina,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Vitaly Derbenyov,M,Belarus,BLR,2008,Beijing,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-Oleg Kechko,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Vladimir Khlud,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Pavel Khodasevich,M,Belarus,BLR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Aleksandr Kurlovich,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Sergey Lagun,M,Belarus,BLR,2008,Beijing,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Sergey Lavrenov,M,Belarus,BLR,2000,Sydney,Weightlifting,Weightlifting Men's Lightweight,Bronze,Weightlifting,WLF,True
-Sergey Lavrenov,M,Belarus,BLR,2004,Athina,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Leonid Lobachov,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Aleksandr Makarenko,M,Belarus,BLR,2012,London,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Gennady Makhveyenya,M,Belarus,BLR,2008,Beijing,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Aleksey Mzhachik,M,Belarus,BLR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Nikolay Novikov,M,Belarus,BLR,2012,London,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Gennady Oleshchuk,M,Belarus,BLR,2000,Sydney,Weightlifting,Weightlifting Men's Featherweight,Bronze,Weightlifting,WLF,False
-Andrey Rybakov,M,Belarus,BLR,2004,Athina,Weightlifting,Weightlifting Men's Light-Heavyweight,Silver,Weightlifting,WLF,True
-Andrey Rybakov,M,Belarus,BLR,2008,Beijing,Weightlifting,Weightlifting Men's Light-Heavyweight,Silver,Weightlifting,WLF,True
-Andrey Rybakov,M,Belarus,BLR,2012,London,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Gennady Shchekalo,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False
-Viktor Sinyak,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Vadim Streltsov,M,Belarus,BLR,2008,Beijing,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True
-Vadim Streltsov,M,Belarus,BLR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middle-Heavyweight,Silver,Weightlifting,WLF,True
-Vladimir Yemelyanov,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False
-Yevgeny Zhernosek,M,Belarus,BLR,2012,London,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Yauheni Tsikhantsou,M,Belarus,BLR,2020,Tokyo,Weightlifting,Men's 96kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aleksandr Anishchenko,M,Belarus,BLR,2004,Athina,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Andrey Aryamnov,M,Belarus,BLR,2008,Beijing,Weightlifting,Weightlifting Men's Heavyweight,Gold,Weightlifting,WLF,False,True
+Pyotr Asayonok,M,Belarus,BLR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Mikhail Avdeyev,M,Belarus,BLR,2004,Athina,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False,True
+Pavel Bazuk,M,Belarus,BLR,2000,Sydney,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Viktor Belyatsky,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Aleksandr Bersanov,M,Belarus,BLR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Oleg Chiritsa,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False,True
+Vitaly Derbenyov,M,Belarus,BLR,2000,Sydney,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,True
+Vitaly Derbenyov,M,Belarus,BLR,2004,Athina,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,False
+Vitaly Derbenyov,M,Belarus,BLR,2008,Beijing,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,False
+Oleg Kechko,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Vladimir Khlud,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Pavel Khodasevich,M,Belarus,BLR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Aleksandr Kurlovich,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Sergey Lagun,M,Belarus,BLR,2008,Beijing,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Sergey Lavrenov,M,Belarus,BLR,2000,Sydney,Weightlifting,Weightlifting Men's Lightweight,Bronze,Weightlifting,WLF,True,True
+Sergey Lavrenov,M,Belarus,BLR,2004,Athina,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Leonid Lobachov,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Aleksandr Makarenko,M,Belarus,BLR,2012,London,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Gennady Makhveyenya,M,Belarus,BLR,2008,Beijing,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Aleksey Mzhachik,M,Belarus,BLR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Nikolay Novikov,M,Belarus,BLR,2012,London,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Gennady Oleshchuk,M,Belarus,BLR,2000,Sydney,Weightlifting,Weightlifting Men's Featherweight,Bronze,Weightlifting,WLF,False,True
+Andrey Rybakov,M,Belarus,BLR,2004,Athina,Weightlifting,Weightlifting Men's Light-Heavyweight,Silver,Weightlifting,WLF,True,True
+Andrey Rybakov,M,Belarus,BLR,2008,Beijing,Weightlifting,Weightlifting Men's Light-Heavyweight,Silver,Weightlifting,WLF,True,False
+Andrey Rybakov,M,Belarus,BLR,2012,London,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True,False
+Gennady Shchekalo,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False,True
+Viktor Sinyak,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Vadim Streltsov,M,Belarus,BLR,2008,Beijing,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,True,True
+Vadim Streltsov,M,Belarus,BLR,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Middle-Heavyweight,Silver,Weightlifting,WLF,True,False
+Vladimir Yemelyanov,M,Belarus,BLR,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False,True
+Yevgeny Zhernosek,M,Belarus,BLR,2012,London,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Yauheni Tsikhantsou,M,Belarus,BLR,2020,Tokyo,Weightlifting,Men's 96kg,No medal,Men's,WLF,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Damir Akhmetbekov,M,Kazakhstan,KAZ,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Damir Akhmetbekov,M,Kazakhstan,KAZ,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Aleksey Gurman,M,Kazakhstan,KAZ,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Samat Muratov,M,Kazakhstan,KAZ,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Alisher Seitov,M,Kazakhstan,KAZ,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Damir Akhmetbekov,M,Kazakhstan,KAZ,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Damir Akhmetbekov,M,Kazakhstan,KAZ,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Aleksey Gurman,M,Kazakhstan,KAZ,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Samat Muratov,M,Kazakhstan,KAZ,1996,Atlanta,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Alisher Seitov,M,Kazakhstan,KAZ,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True

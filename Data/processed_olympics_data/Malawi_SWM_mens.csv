@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Brave Lifa,M,Malawi,MAW,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Charlton Nyirenda,M,Malawi,MAW,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Yona Walesi,M,Malawi,MAW,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Filipe Gomes,M,Malawi,MAW,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True
-Filipe Gomes,M,Malawi,MAW,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Brave Lifa,M,Malawi,MAW,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Charlton Nyirenda,M,Malawi,MAW,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Yona Walesi,M,Malawi,MAW,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Filipe Gomes,M,Malawi,MAW,2020,Tokyo,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True,True
+Filipe Gomes,M,Malawi,MAW,2024,Paris,Swimming,Men's 50m Freestyle,No medal,Men's,SWM,True,False

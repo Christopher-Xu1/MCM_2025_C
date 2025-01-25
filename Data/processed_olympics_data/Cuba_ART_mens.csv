@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abelardo Rodrguez,M,Cuba,CUB,1932,Los Angeles,Art Competitions,Art Competitions Mixed Music,No medal,Art,ART,False
-Lenva,M,Cuba,CUB,1932,Los Angeles,Art Competitions,Art Competitions Mixed Music,No medal,Art,ART,False
-Rogelio Pazquez,M,Cuba,CUB,1932,Los Angeles,Art Competitions,Art Competitions Mixed Music,No medal,Art,ART,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abelardo Rodrguez,M,Cuba,CUB,1932,Los Angeles,Art Competitions,Art Competitions Mixed Music,No medal,Art,ART,False,True
+Lenva,M,Cuba,CUB,1932,Los Angeles,Art Competitions,Art Competitions Mixed Music,No medal,Art,ART,False,True
+Rogelio Pazquez,M,Cuba,CUB,1932,Los Angeles,Art Competitions,Art Competitions Mixed Music,No medal,Art,ART,False,True

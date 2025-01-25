@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Moonika Aava,F,Estonia,EST,2004,Athina,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True
-Moonika Aava,F,Estonia,EST,2008,Beijing,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True
-Ksenija Balta,F,Estonia,EST,2008,Beijing,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Ksenija Balta,F,Estonia,EST,2016,Rio de Janeiro,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Anna Iljutenko,F,Estonia,EST,2008,Beijing,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True
-Anna Iljutenko,F,Estonia,EST,2012,London,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True
-Anu Kaljurand,F,Estonia,EST,1992,Barcelona,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Anu Kaljurand,F,Estonia,EST,1992,Barcelona,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True
-Kaie Kand,F,Estonia,EST,2008,Beijing,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,False
-Liina Laasma,F,Estonia,EST,2016,Rio de Janeiro,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False
-Kaire Leibak,F,Estonia,EST,2008,Beijing,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,False
-Leila Luik,F,Estonia,EST,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Liina Luik,F,Estonia,EST,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Lily Luik,F,Estonia,EST,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Virge Naeris,F,Estonia,EST,1996,Atlanta,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Virge Naeris,F,Estonia,EST,1996,Atlanta,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,True
-Eha Rnne,F,Estonia,EST,1996,Atlanta,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True
-Eha Rnne,F,Estonia,EST,2004,Athina,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True
-Grit Adeiko,F,Estonia,EST,2012,London,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True
-Grit Adeiko,F,Estonia,EST,2016,Rio de Janeiro,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True
-Jane Salume,F,Estonia,EST,1996,Atlanta,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Jane Salume,F,Estonia,EST,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Evelin Talts,F,Estonia,EST,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Egle Uljas,F,Estonia,EST,2004,Athina,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Ksenija Balta,F,Estonia,EST,2020,Tokyo,Athletics,Women's Long Jump,No medal,Women's,ATH,True
-Elisabeth Pihela,F,Estonia,EST,2024,Paris,Athletics,Women's High Jump,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Moonika Aava,F,Estonia,EST,2004,Athina,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True,True
+Moonika Aava,F,Estonia,EST,2008,Beijing,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,True,False
+Ksenija Balta,F,Estonia,EST,2008,Beijing,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,True
+Ksenija Balta,F,Estonia,EST,2016,Rio de Janeiro,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,False
+Anna Iljutenko,F,Estonia,EST,2008,Beijing,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True,True
+Anna Iljutenko,F,Estonia,EST,2012,London,Athletics,Athletics Women's High Jump,No medal,Athletics,ATH,True,False
+Anu Kaljurand,F,Estonia,EST,1992,Barcelona,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,True
+Anu Kaljurand,F,Estonia,EST,1992,Barcelona,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True,True
+Kaie Kand,F,Estonia,EST,2008,Beijing,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,False,True
+Liina Laasma,F,Estonia,EST,2016,Rio de Janeiro,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False,True
+Kaire Leibak,F,Estonia,EST,2008,Beijing,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,False,True
+Leila Luik,F,Estonia,EST,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Liina Luik,F,Estonia,EST,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Lily Luik,F,Estonia,EST,2016,Rio de Janeiro,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Virge Naeris,F,Estonia,EST,1996,Atlanta,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,True
+Virge Naeris,F,Estonia,EST,1996,Atlanta,Athletics,Athletics Women's Triple Jump,No medal,Athletics,ATH,True,True
+Eha Rnne,F,Estonia,EST,1996,Atlanta,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True,True
+Eha Rnne,F,Estonia,EST,2004,Athina,Athletics,Athletics Women's Discus Throw,No medal,Athletics,ATH,True,False
+Grit Adeiko,F,Estonia,EST,2012,London,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True,True
+Grit Adeiko,F,Estonia,EST,2016,Rio de Janeiro,Athletics,Athletics Women's Heptathlon,No medal,Athletics,ATH,True,False
+Jane Salume,F,Estonia,EST,1996,Atlanta,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,True
+Jane Salume,F,Estonia,EST,2004,Athina,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Evelin Talts,F,Estonia,EST,2012,London,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Egle Uljas,F,Estonia,EST,2004,Athina,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Ksenija Balta,F,Estonia,EST,2020,Tokyo,Athletics,Women's Long Jump,No medal,Women's,ATH,True,False
+Elisabeth Pihela,F,Estonia,EST,2024,Paris,Athletics,Women's High Jump,No medal,Women's,ATH,False,True

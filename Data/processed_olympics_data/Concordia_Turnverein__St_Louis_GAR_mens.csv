@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Jr.,M,"Concordia Turnverein, St Louis",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-George Eyser,M,"Concordia Turnverein, St Louis",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-William Merz,M,"Concordia Turnverein, St Louis",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-George Stapf,M,"Concordia Turnverein, St Louis",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Emil Voigt,M,"Concordia Turnverein, St Louis",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
-Henry Weyland,M,"Concordia Turnverein, St Louis",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Jr.,M,"Concordia Turnverein, St Louis",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+George Eyser,M,"Concordia Turnverein, St Louis",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+William Merz,M,"Concordia Turnverein, St Louis",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+George Stapf,M,"Concordia Turnverein, St Louis",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Emil Voigt,M,"Concordia Turnverein, St Louis",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True
+Henry Weyland,M,"Concordia Turnverein, St Louis",USA,1904,St. Louis,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,False,True

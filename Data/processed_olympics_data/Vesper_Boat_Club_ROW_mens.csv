@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Louis Abell,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,True
-Louis Abell,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,True
-Charles Armstrong,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False
-William Carr,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False
-Frederick Cresser,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False
-Harry Debaecke,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False
-Joseph Dempsey,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False
-John Jr.,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,True
-John Jr.,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,True
-James Flanigan,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False
-John Geiger,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False
-Michael Gleason,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False
-Edwin Hedley,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False
-James Juvenal,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False
-Roscoe Lockwood,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False
-Harry Lott,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False
-Edward Marsh,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False
-Frank Schell,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Louis Abell,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,True,True
+Louis Abell,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,True,False
+Charles Armstrong,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False,True
+William Carr,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False,True
+Frederick Cresser,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False,True
+Harry Debaecke,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False,True
+Joseph Dempsey,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False,True
+John Jr.,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,True,True
+John Jr.,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,True,False
+James Flanigan,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False,True
+John Geiger,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False,True
+Michael Gleason,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False,True
+Edwin Hedley,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False,True
+James Juvenal,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False,True
+Roscoe Lockwood,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False,True
+Harry Lott,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False,True
+Edward Marsh,M,Vesper Boat Club,USA,1900,Paris,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False,True
+Frank Schell,M,Vesper Boat Club,USA,1904,St. Louis,Rowing,Rowing Men's Coxed Eights,Gold,Rowing,ROW,False,True

@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Soha Elaal,F,Egypt,EGY,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Lamia Al-bahnasawy,F,Egypt,EGY,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Nada Kamel,F,Egypt,EGY,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-May Mansour,F,Egypt,EGY,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Reem Mansour,F,Egypt,EGY,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Amal Adam,F,Egypt,EGY,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Amal Adam,F,Egypt,EGY,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
-Jana Ali,F,Egypt,EGY,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Jana Ali,F,Egypt,EGY,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Soha Elaal,F,Egypt,EGY,2008,Beijing,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Lamia Al-bahnasawy,F,Egypt,EGY,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Nada Kamel,F,Egypt,EGY,2012,London,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+May Mansour,F,Egypt,EGY,2004,Athina,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Reem Mansour,F,Egypt,EGY,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Amal Adam,F,Egypt,EGY,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Amal Adam,F,Egypt,EGY,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True
+Jana Ali,F,Egypt,EGY,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Jana Ali,F,Egypt,EGY,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True,True

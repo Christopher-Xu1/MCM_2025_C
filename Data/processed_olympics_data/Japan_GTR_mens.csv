@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Masaki Ito,M,Japan,JPN,2012,London,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Masaki Ito,M,Japan,JPN,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Ginga Munetomo,M,Japan,JPN,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False
-Daisuke Nakata,M,Japan,JPN,2000,Sydney,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False
-Tetsuya Sotomura,M,Japan,JPN,2008,Beijing,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False
-Yasuhiro Ueyama,M,Japan,JPN,2008,Beijing,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Yasuhiro Ueyama,M,Japan,JPN,2012,London,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True
-Daiki Kishi,M,Japan,JPN,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,False
-Ryosuke Sakai,M,Japan,JPN,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,False
-Ryusei Nishioka,M,Japan,JPN,2024,Paris,Trampoline Gymnastics,Men,No medal,Men,GTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Masaki Ito,M,Japan,JPN,2012,London,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,True
+Masaki Ito,M,Japan,JPN,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,False
+Ginga Munetomo,M,Japan,JPN,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False,True
+Daisuke Nakata,M,Japan,JPN,2000,Sydney,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False,True
+Tetsuya Sotomura,M,Japan,JPN,2008,Beijing,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False,True
+Yasuhiro Ueyama,M,Japan,JPN,2008,Beijing,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,True
+Yasuhiro Ueyama,M,Japan,JPN,2012,London,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,True,False
+Daiki Kishi,M,Japan,JPN,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,False,True
+Ryosuke Sakai,M,Japan,JPN,2020,Tokyo,Trampoline Gymnastics,Men,No medal,Men,GTR,False,True
+Ryusei Nishioka,M,Japan,JPN,2024,Paris,Trampoline Gymnastics,Men,No medal,Men,GTR,False,True

@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mechteld Manumua,F,Tonga,TGA,2020,Tokyo,Weightlifting,Women's +87kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mechteld Manumua,F,Tonga,TGA,2020,Tokyo,Weightlifting,Women's +87kg,No medal,Women's,WLF,False,True

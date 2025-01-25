@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jos Flores,M,Mexico,MEX,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,False
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True
-ngel Argelles,M,Mexico,MEX,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jos Flores,M,Mexico,MEX,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,False,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1928,Amsterdam,Art Competitions,"Art Competitions Mixed Painting, Paintings",No medal,Art,ART,True,True
+ngel Argelles,M,Mexico,MEX,1932,Los Angeles,Art Competitions,Art Competitions Mixed Unknown Event,No medal,Art,ART,True,False

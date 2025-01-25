@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Olaf Dahll,M,Studenternes Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
-ivin Davidsen,M,Studenternes Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
-Einar Eriksen,M,Studenternes Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
-Leif Rode,M,Studenternes Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
-Thomas Schjth,M,Studenternes Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Olaf Dahll,M,Studenternes Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True
+ivin Davidsen,M,Studenternes Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True
+Einar Eriksen,M,Studenternes Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True
+Leif Rode,M,Studenternes Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True
+Thomas Schjth,M,Studenternes Roklub-2,NOR,1912,Stockholm,Rowing,"Rowing Men's Coxed Fours, Outriggers",No medal,Rowing,ROW,False,True

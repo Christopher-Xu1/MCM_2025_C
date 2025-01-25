@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Miroslav Janek,M,Slovakia,SVK,2004,Athina,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Jaroslav Joke,M,Slovakia,SVK,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False
-Ondrej Kruel,M,Slovakia,SVK,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Ondrej Kutlk,M,Slovakia,SVK,2008,Beijing,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Rudolf Luk,M,Slovakia,SVK,1996,Atlanta,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Rudolf Luk,M,Slovakia,SVK,2004,Athina,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Martin Teovi,M,Slovakia,SVK,1996,Atlanta,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Martin Teovi,M,Slovakia,SVK,2004,Athina,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-Martin Teovi,M,Slovakia,SVK,2012,London,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Miroslav Janek,M,Slovakia,SVK,2004,Athina,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Jaroslav Joke,M,Slovakia,SVK,1996,Atlanta,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False,True
+Ondrej Kruel,M,Slovakia,SVK,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Ondrej Kutlk,M,Slovakia,SVK,2008,Beijing,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Rudolf Luk,M,Slovakia,SVK,1996,Atlanta,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,True
+Rudolf Luk,M,Slovakia,SVK,2004,Athina,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,False
+Martin Teovi,M,Slovakia,SVK,1996,Atlanta,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,True
+Martin Teovi,M,Slovakia,SVK,2004,Athina,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,False
+Martin Teovi,M,Slovakia,SVK,2012,London,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,False

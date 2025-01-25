@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Neroli Fairhall,F,New Zealand,NZL,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Faye Johnstone,F,New Zealand,NZL,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Margaret Shurrock,F,New Zealand,NZL,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Margaret Shurrock,F,New Zealand,NZL,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Neroli Fairhall,F,New Zealand,NZL,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Faye Johnstone,F,New Zealand,NZL,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Margaret Shurrock,F,New Zealand,NZL,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Margaret Shurrock,F,New Zealand,NZL,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False

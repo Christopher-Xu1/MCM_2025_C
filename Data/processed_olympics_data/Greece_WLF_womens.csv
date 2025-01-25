@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Khristina Ioannidi,F,Greece,GRE,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False
-Vasiliki Kasapi,F,Greece,GRE,2004,Athina,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Kharikleia Kastritsi,F,Greece,GRE,2004,Athina,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Ioanna Khatziioannou,F,Greece,GRE,2000,Sydney,Weightlifting,Weightlifting Women's Middleweight,Bronze,Weightlifting,WLF,False
-Victoria Mavridou,F,Greece,GRE,2008,Beijing,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Maria Tatsi,F,Greece,GRE,2000,Sydney,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Anastasia Tsakiri,F,Greece,GRE,2004,Athina,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Khristina Ioannidi,F,Greece,GRE,2004,Athina,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False,True
+Vasiliki Kasapi,F,Greece,GRE,2004,Athina,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Kharikleia Kastritsi,F,Greece,GRE,2004,Athina,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Ioanna Khatziioannou,F,Greece,GRE,2000,Sydney,Weightlifting,Weightlifting Women's Middleweight,Bronze,Weightlifting,WLF,False,True
+Victoria Mavridou,F,Greece,GRE,2008,Beijing,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Maria Tatsi,F,Greece,GRE,2000,Sydney,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Anastasia Tsakiri,F,Greece,GRE,2004,Athina,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True

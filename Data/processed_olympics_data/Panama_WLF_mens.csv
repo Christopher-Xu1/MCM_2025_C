@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alexi Batista,M,Panama,PAN,1996,Atlanta,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Alexi Batista,M,Panama,PAN,2000,Sydney,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Guillermo Mora,M,Panama,PAN,1968,Mexico City,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-J. Jimnez,M,Panama,PAN,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Carlos Chvez,M,Panama,PAN,1952,Helsinki,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Jos Lpez,M,Panama,PAN,1984,Los Angeles,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True
-Jos Lpez,M,Panama,PAN,1988,Seoul,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True
-ngel Famiglietti,M,Panama,PAN,1960,Roma,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Pablo Justiniani,M,Panama,PAN,1976,Montreal,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Ildefonso Valdes,M,Panama,PAN,1964,Tokyo,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Ildefonso Valdes,M,Panama,PAN,1968,Mexico City,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Ildefonso Valdes,M,Panama,PAN,1972,Munich,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Narcisco Orn,M,Panama,PAN,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Henry Phillips,M,Panama,PAN,1972,Munich,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False
-Tmas Ortz,M,Panama,PAN,1984,Los Angeles,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Tmas Ortz,M,Panama,PAN,1988,Seoul,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Ricardo Espinoza,M,Panama,PAN,1984,Los Angeles,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alexi Batista,M,Panama,PAN,1996,Atlanta,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,True
+Alexi Batista,M,Panama,PAN,2000,Sydney,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Guillermo Mora,M,Panama,PAN,1968,Mexico City,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+J. Jimnez,M,Panama,PAN,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Carlos Chvez,M,Panama,PAN,1952,Helsinki,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Jos Lpez,M,Panama,PAN,1984,Los Angeles,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,True,True
+Jos Lpez,M,Panama,PAN,1988,Seoul,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,True,False
+ngel Famiglietti,M,Panama,PAN,1960,Roma,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Pablo Justiniani,M,Panama,PAN,1976,Montreal,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Ildefonso Valdes,M,Panama,PAN,1964,Tokyo,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,True
+Ildefonso Valdes,M,Panama,PAN,1968,Mexico City,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,False
+Ildefonso Valdes,M,Panama,PAN,1972,Munich,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Narcisco Orn,M,Panama,PAN,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Henry Phillips,M,Panama,PAN,1972,Munich,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False,True
+Tmas Ortz,M,Panama,PAN,1984,Los Angeles,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,True
+Tmas Ortz,M,Panama,PAN,1988,Seoul,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Ricardo Espinoza,M,Panama,PAN,1984,Los Angeles,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True

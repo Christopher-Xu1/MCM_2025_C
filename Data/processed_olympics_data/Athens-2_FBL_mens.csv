@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Konstantinos Botasis,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Panagiotis Botasis,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Nikolaos Dekavalas,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Georgios Gerontakis,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Omiros Iosifoglou,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Alexandros Kalafatis,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Georgios Merkouris,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Georgios Pantos,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Konstantinos Siriotis,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Grigorios Vryonis,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False
-Panagiotis Vryonis,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Konstantinos Botasis,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Panagiotis Botasis,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Nikolaos Dekavalas,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Georgios Gerontakis,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Omiros Iosifoglou,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Alexandros Kalafatis,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Georgios Merkouris,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Georgios Pantos,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Konstantinos Siriotis,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Grigorios Vryonis,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True
+Panagiotis Vryonis,M,Athens-2,GRE,1906,Athina,Football,Football Men's Football,No medal,Football,FBL,False,True

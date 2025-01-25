@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Daunt,M,United Kingdom,GBR,1900,Paris,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-William Dove,M,United Kingdom,GBR,1900,Paris,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Simpson Foulis,M,United Kingdom,GBR,1904,St. Louis,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Frederick Newbery,M,United Kingdom,GBR,1904,St. Louis,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-David Robertson,M,United Kingdom,GBR,1900,Paris,Golf,Golf Men's Individual,Bronze,Golf,GLF,False
-Justin Rose,M,United Kingdom,GBR,2016,Rio de Janeiro,Golf,Golf Men's Individual,Gold,Golf,GLF,False
-Walter Rutherford,M,United Kingdom,GBR,1900,Paris,Golf,Golf Men's Individual,Silver,Golf,GLF,False
-George Thorne,M,United Kingdom,GBR,1900,Paris,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Daniel Willett,M,United Kingdom,GBR,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Paul Casey,M,United Kingdom,GBR,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Tommy Fleetwood,M,United Kingdom,GBR,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
-Matt Fitzpatrick,M,United Kingdom,GBR,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False
-Tommy Fleetwood,M,United Kingdom,GBR,2024,Paris,Golf,Men's Individual Stroke Play,Silver,Men's,GLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Daunt,M,United Kingdom,GBR,1900,Paris,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+William Dove,M,United Kingdom,GBR,1900,Paris,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Simpson Foulis,M,United Kingdom,GBR,1904,St. Louis,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Frederick Newbery,M,United Kingdom,GBR,1904,St. Louis,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+David Robertson,M,United Kingdom,GBR,1900,Paris,Golf,Golf Men's Individual,Bronze,Golf,GLF,False,True
+Justin Rose,M,United Kingdom,GBR,2016,Rio de Janeiro,Golf,Golf Men's Individual,Gold,Golf,GLF,False,True
+Walter Rutherford,M,United Kingdom,GBR,1900,Paris,Golf,Golf Men's Individual,Silver,Golf,GLF,False,True
+George Thorne,M,United Kingdom,GBR,1900,Paris,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Daniel Willett,M,United Kingdom,GBR,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Paul Casey,M,United Kingdom,GBR,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Tommy Fleetwood,M,United Kingdom,GBR,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,True
+Matt Fitzpatrick,M,United Kingdom,GBR,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,False,True
+Tommy Fleetwood,M,United Kingdom,GBR,2024,Paris,Golf,Men's Individual Stroke Play,Silver,Men's,GLF,True,False

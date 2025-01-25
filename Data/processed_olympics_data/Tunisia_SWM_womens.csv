@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Senda Al-gharbi,F,Tunisia,TUN,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Senda Al-gharbi,F,Tunisia,TUN,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Senda Al-gharbi,F,Tunisia,TUN,1988,Seoul,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Senda Al-gharbi,F,Tunisia,TUN,1988,Seoul,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Faten Ghattas,F,Tunisia,TUN,1984,Los Angeles,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Faten Ghattas,F,Tunisia,TUN,1984,Los Angeles,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Faten Ghattas,F,Tunisia,TUN,1984,Los Angeles,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Faten Ghattas,F,Tunisia,TUN,1984,Los Angeles,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Sarra Lajnef,F,Tunisia,TUN,2012,London,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
-Myriam Cherni,F,Tunisia,TUN,1976,Montreal,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Myriam Cherni,F,Tunisia,TUN,1976,Montreal,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Jamila Boulakbech,F,Tunisia,TUN,2024,Paris,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Senda Al-gharbi,F,Tunisia,TUN,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Senda Al-gharbi,F,Tunisia,TUN,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Senda Al-gharbi,F,Tunisia,TUN,1988,Seoul,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Senda Al-gharbi,F,Tunisia,TUN,1988,Seoul,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Faten Ghattas,F,Tunisia,TUN,1984,Los Angeles,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Faten Ghattas,F,Tunisia,TUN,1984,Los Angeles,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Faten Ghattas,F,Tunisia,TUN,1984,Los Angeles,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Faten Ghattas,F,Tunisia,TUN,1984,Los Angeles,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Sarra Lajnef,F,Tunisia,TUN,2012,London,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False,True
+Myriam Cherni,F,Tunisia,TUN,1976,Montreal,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Myriam Cherni,F,Tunisia,TUN,1976,Montreal,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Jamila Boulakbech,F,Tunisia,TUN,2024,Paris,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,False,True

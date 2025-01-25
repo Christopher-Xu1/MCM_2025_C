@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Alexandre Arthus,M,Guyoni,FRA,1908,London,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
-Louis Potheau,M,Guyoni,FRA,1908,London,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
-Pierre Rabot,M,Guyoni,FRA,1908,London,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Alexandre Arthus,M,Guyoni,FRA,1908,London,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True
+Louis Potheau,M,Guyoni,FRA,1908,London,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True
+Pierre Rabot,M,Guyoni,FRA,1908,London,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True

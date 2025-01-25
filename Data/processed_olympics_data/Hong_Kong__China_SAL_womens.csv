@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-V Chan,F,"Hong Kong, China",HKG,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False
-Stephanie Norton,F,"Hong Kong, China",HKG,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,False
-Ching Ma,F,"Hong Kong, China",HKG,2024,Paris,Sailing,Women's Windsurfing,No medal,Women's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+V Chan,F,"Hong Kong, China",HKG,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False,True
+Stephanie Norton,F,"Hong Kong, China",HKG,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,False,True
+Ching Ma,F,"Hong Kong, China",HKG,2024,Paris,Sailing,Women's Windsurfing,No medal,Women's,SAL,False,True

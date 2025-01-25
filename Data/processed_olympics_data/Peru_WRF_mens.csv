@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sixto Ochoa,M,Peru,PER,2008,Beijing,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False
-Jol Bravo,M,Peru,PER,1996,Atlanta,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,False
-Enrique Ypanaque,M,Peru,PER,1996,Atlanta,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Sidney Guzman,M,Peru,PER,2004,Athina,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False
-Carlos Torres,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,True
-Carlos Torres,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True
-Carlos Torres,M,Peru,PER,1980,Moskva,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True
-Edmundo Ichillumpa,M,Peru,PER,1988,Seoul,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,True
-Edmundo Ichillumpa,M,Peru,PER,1988,Seoul,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Jos Inagaki,M,Peru,PER,1984,Los Angeles,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Flix Villalobos,M,Peru,PER,1996,Atlanta,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False
-Javier Garca,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Javier Garca,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Ivan Valladares,M,Peru,PER,1984,Los Angeles,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Lucio Vsquez,M,Peru,PER,1996,Atlanta,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False
-Juan Daz,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True
-Juan Daz,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True
-Jorge Mercado,M,Peru,PER,1996,Atlanta,Wrestling,"Wrestling Men's Light-Flyweight, Greco-Roman",No medal,Wrestling,WRF,False
-Miguel Cruz,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Miguel Cruz,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Miguel Cruz,M,Peru,PER,1980,Moskva,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Edinson Ambrocio,M,Peru,PER,2020,Tokyo,Wrestling,Men's Freestyle 86kg,No medal,Men's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sixto Ochoa,M,Peru,PER,2008,Beijing,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Jol Bravo,M,Peru,PER,1996,Atlanta,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Enrique Ypanaque,M,Peru,PER,1996,Atlanta,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Sidney Guzman,M,Peru,PER,2004,Athina,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Carlos Torres,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Carlos Torres,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True,True
+Carlos Torres,M,Peru,PER,1980,Moskva,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True,False
+Edmundo Ichillumpa,M,Peru,PER,1988,Seoul,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Edmundo Ichillumpa,M,Peru,PER,1988,Seoul,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True,True
+Jos Inagaki,M,Peru,PER,1984,Los Angeles,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Flix Villalobos,M,Peru,PER,1996,Atlanta,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Javier Garca,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Javier Garca,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Ivan Valladares,M,Peru,PER,1984,Los Angeles,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Lucio Vsquez,M,Peru,PER,1996,Atlanta,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Juan Daz,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Juan Daz,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True,True
+Jorge Mercado,M,Peru,PER,1996,Atlanta,Wrestling,"Wrestling Men's Light-Flyweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Miguel Cruz,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Miguel Cruz,M,Peru,PER,1972,Munich,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Miguel Cruz,M,Peru,PER,1980,Moskva,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Edinson Ambrocio,M,Peru,PER,2020,Tokyo,Wrestling,Men's Freestyle 86kg,No medal,Men's,WRF,False,True

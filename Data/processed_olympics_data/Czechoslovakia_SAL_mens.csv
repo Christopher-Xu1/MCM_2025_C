@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ivan Brandejs,M,Czechoslovakia,TCH,1980,Moskva,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Vclav Brandejs,M,Czechoslovakia,TCH,1980,Moskva,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False
-Miloslav Brepta,M,Czechoslovakia,TCH,1936,Berlin,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Eduard Brgmeister,M,Czechoslovakia,TCH,1924,Paris,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Patrik Hrdina,M,Czechoslovakia,TCH,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False
-Vtzslav Pavlousek,M,Czechoslovakia,TCH,1936,Berlin,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Josef Enk,M,Czechoslovakia,TCH,1980,Moskva,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Miroslav Vejvoda,M,Czechoslovakia,TCH,1964,Tokyo,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Miroslav Vejvoda,M,Czechoslovakia,TCH,1972,Munich,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True
-Rudolf Winter,M,Czechoslovakia,TCH,1928,Amsterdam,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ivan Brandejs,M,Czechoslovakia,TCH,1980,Moskva,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Vclav Brandejs,M,Czechoslovakia,TCH,1980,Moskva,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,No medal,Sailing,SAL,False,True
+Miloslav Brepta,M,Czechoslovakia,TCH,1936,Berlin,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Eduard Brgmeister,M,Czechoslovakia,TCH,1924,Paris,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Patrik Hrdina,M,Czechoslovakia,TCH,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,False,True
+Vtzslav Pavlousek,M,Czechoslovakia,TCH,1936,Berlin,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Josef Enk,M,Czechoslovakia,TCH,1980,Moskva,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Miroslav Vejvoda,M,Czechoslovakia,TCH,1964,Tokyo,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,True
+Miroslav Vejvoda,M,Czechoslovakia,TCH,1972,Munich,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,True,False
+Rudolf Winter,M,Czechoslovakia,TCH,1928,Amsterdam,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Antoni Cervellera,M,Andorra,AND,2004,Athina,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Daniel Gonzlez,M,Andorra,AND,2008,Beijing,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Daniel Gonzlez,M,Andorra,AND,2012,London,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
-Antoni Oviedo,M,Andorra,AND,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Antoni Oviedo,M,Andorra,AND,1996,Atlanta,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Antoni Cervellera,M,Andorra,AND,2004,Athina,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Daniel Gonzlez,M,Andorra,AND,2008,Beijing,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,True
+Daniel Gonzlez,M,Andorra,AND,2012,London,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False
+Antoni Oviedo,M,Andorra,AND,1992,Barcelona,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Antoni Oviedo,M,Andorra,AND,1996,Atlanta,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True,False

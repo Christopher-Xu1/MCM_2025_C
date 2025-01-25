@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marija Anzulovi,F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Patricia (-medac),F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Biljana Gligorovi,F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Barbara (-rui),F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Vesna (-peker),F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Gordana (-tomic),F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Nataa (-osmokrovi),F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Jelena Ovchinnikova-ebukina,F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Marijana Ribii,F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Beti (-muselinovi),F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
-Ingrid Ikovi,F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marija Anzulovi,F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Patricia (-medac),F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Biljana Gligorovi,F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Barbara (-rui),F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Vesna (-peker),F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Gordana (-tomic),F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Nataa (-osmokrovi),F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Jelena Ovchinnikova-ebukina,F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Marijana Ribii,F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Beti (-muselinovi),F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True
+Ingrid Ikovi,F,Croatia,CRO,2000,Sydney,Volleyball,Volleyball Women's Volleyball,No medal,Volleyball,VVO,False,True

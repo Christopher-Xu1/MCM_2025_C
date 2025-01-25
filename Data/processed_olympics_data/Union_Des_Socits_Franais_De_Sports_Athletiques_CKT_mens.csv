@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-William Anderson,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False
-William Attrill,M,Union Des Socits Franais De Sports Athletiques,FRA,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False
-J. Braid,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False
-W. Browning,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False
-Robert Horne,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False
-Timothe Jordan,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False
-Arthur Macevoy,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False
-Douglas Robinson,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False
-H. Roques,M,Union Des Socits Franais De Sports Athletiques,FRA,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False
-Alfred Schneidau,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False
-Henry Jr.,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False
-Philip Tomalin,M,Union Des Socits Franais De Sports Athletiques,FRA,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+William Anderson,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False,True
+William Attrill,M,Union Des Socits Franais De Sports Athletiques,FRA,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False,True
+J. Braid,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False,True
+W. Browning,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False,True
+Robert Horne,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False,True
+Timothe Jordan,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False,True
+Arthur Macevoy,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False,True
+Douglas Robinson,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False,True
+H. Roques,M,Union Des Socits Franais De Sports Athletiques,FRA,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False,True
+Alfred Schneidau,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False,True
+Henry Jr.,M,Union Des Socits Franais De Sports Athletiques,GBR,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False,True
+Philip Tomalin,M,Union Des Socits Franais De Sports Athletiques,FRA,1900,Paris,Cricket,Cricket Men's Cricket,Silver,Cricket,CKT,False,True

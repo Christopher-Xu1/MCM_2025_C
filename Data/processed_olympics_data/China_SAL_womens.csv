@@ -1,42 +1,42 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chen Peina,F,China,CHN,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,Silver,Sailing,SAL,False
-Chen Ruili,F,China,CHN,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Chen Xiumei,F,China,CHN,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Huang Lizhu,F,China,CHN,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Huang Xufeng,F,China,CHN,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Ji Fengqin,F,China,CHN,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Li Dongying,F,China,CHN,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Li Ke,F,China,CHN,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Li Ling,F,China,CHN,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Li Xiaoni,F,China,CHN,2008,Beijing,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Liu Haimei,F,China,CHN,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Shen Xiaoying,F,China,CHN,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Song Xiaqun,F,China,CHN,2008,Beijing,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Wang Xiaoli,F,China,CHN,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Wang Xiaoli,F,China,CHN,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Wen Yimei,F,China,CHN,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Xu Lijia,F,China,CHN,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,Bronze,Sailing,SAL,True
-Xu Lijia,F,China,CHN,2012,London,Sailing,Sailing Women's One Person Dinghy,Gold,Sailing,SAL,True
-Xu Lijia,F,China,CHN,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Yang Xiaoyan,F,China,CHN,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Yin Jian,F,China,CHN,2004,Athina,Sailing,Sailing Women's Windsurfer,Silver,Sailing,SAL,True
-Yin Jian,F,China,CHN,2008,Beijing,Sailing,Sailing Women's Windsurfer,Gold,Sailing,SAL,True
-Yu Chunyan,F,China,CHN,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Yu Yanli,F,China,CHN,2008,Beijing,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Zhang Chujun,F,China,CHN,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Zhang Shunfang,F,China,CHN,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Zhang Xiaodong,F,China,CHN,1992,Barcelona,Sailing,Sailing Women's Windsurfer,Silver,Sailing,SAL,False
-Shasha Chen,F,China,CHN,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False
-Haiyan Gao,F,China,CHN,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False
-Xiaoxiao Hu,F,China,CHN,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,False
-Ye Jin,F,China,CHN,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False
-Yunxiu Lu,F,China,CHN,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,Gold,Women's,SAL,False
-Mengxi Wei,F,China,CHN,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False
-Dongshuang Zhang,F,China,CHN,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,False
-Zheng Yan,F,China,CHN,2024,Paris,Sailing,Women's Windsurfing,No medal,Women's,SAL,False
-Jingyue Chen,F,China,CHN,2024,Paris,Sailing,Women's Kite,No medal,Women's,SAL,False
-Xiaoyu Hu,F,China,CHN,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,False
-Mengyuan Shan,F,China,CHN,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,False
-Min Gu,F,China,CHN,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False
-Linlin Chen,F,China,CHN,2024,Paris,Sailing,Mixed Multihull,No medal,Mixed,SAL,False
-Yixiao Lv,F,China,CHN,2024,Paris,Sailing,Mixed Dinghy,No medal,Mixed,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chen Peina,F,China,CHN,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,Silver,Sailing,SAL,False,True
+Chen Ruili,F,China,CHN,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Chen Xiumei,F,China,CHN,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Huang Lizhu,F,China,CHN,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Huang Xufeng,F,China,CHN,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Ji Fengqin,F,China,CHN,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Li Dongying,F,China,CHN,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Li Ke,F,China,CHN,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Li Ling,F,China,CHN,2012,London,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Li Xiaoni,F,China,CHN,2008,Beijing,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Liu Haimei,F,China,CHN,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Shen Xiaoying,F,China,CHN,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Song Xiaqun,F,China,CHN,2008,Beijing,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Wang Xiaoli,F,China,CHN,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Wang Xiaoli,F,China,CHN,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Wen Yimei,F,China,CHN,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Xu Lijia,F,China,CHN,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,Bronze,Sailing,SAL,True,True
+Xu Lijia,F,China,CHN,2012,London,Sailing,Sailing Women's One Person Dinghy,Gold,Sailing,SAL,True,False
+Xu Lijia,F,China,CHN,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Yang Xiaoyan,F,China,CHN,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Yin Jian,F,China,CHN,2004,Athina,Sailing,Sailing Women's Windsurfer,Silver,Sailing,SAL,True,True
+Yin Jian,F,China,CHN,2008,Beijing,Sailing,Sailing Women's Windsurfer,Gold,Sailing,SAL,True,False
+Yu Chunyan,F,China,CHN,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Yu Yanli,F,China,CHN,2008,Beijing,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Zhang Chujun,F,China,CHN,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Zhang Shunfang,F,China,CHN,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Zhang Xiaodong,F,China,CHN,1992,Barcelona,Sailing,Sailing Women's Windsurfer,Silver,Sailing,SAL,False,True
+Shasha Chen,F,China,CHN,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False,True
+Haiyan Gao,F,China,CHN,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False,True
+Xiaoxiao Hu,F,China,CHN,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,False,True
+Ye Jin,F,China,CHN,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False,True
+Yunxiu Lu,F,China,CHN,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,Gold,Women's,SAL,False,True
+Mengxi Wei,F,China,CHN,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,False,True
+Dongshuang Zhang,F,China,CHN,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,False,True
+Zheng Yan,F,China,CHN,2024,Paris,Sailing,Women's Windsurfing,No medal,Women's,SAL,False,True
+Jingyue Chen,F,China,CHN,2024,Paris,Sailing,Women's Kite,No medal,Women's,SAL,False,True
+Xiaoyu Hu,F,China,CHN,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,False,True
+Mengyuan Shan,F,China,CHN,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,False,True
+Min Gu,F,China,CHN,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False,True
+Linlin Chen,F,China,CHN,2024,Paris,Sailing,Mixed Multihull,No medal,Mixed,SAL,False,True
+Yixiao Lv,F,China,CHN,2024,Paris,Sailing,Mixed Dinghy,No medal,Mixed,SAL,False,True

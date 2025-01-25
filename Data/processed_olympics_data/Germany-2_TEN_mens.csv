@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Luis Heyden,M,Germany-2,GER,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Oskar Kreuzer,M,Germany-2,GER,1908,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Philipp Petzschner,M,Germany-2,GER,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,False
-Friedrich-Wilhelm Rahe,M,Germany-2,GER,1908,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Robert Spiess,M,Germany-2,GER,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Luis Heyden,M,Germany-2,GER,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Oskar Kreuzer,M,Germany-2,GER,1908,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Philipp Petzschner,M,Germany-2,GER,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,False,True
+Friedrich-Wilhelm Rahe,M,Germany-2,GER,1908,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Robert Spiess,M,Germany-2,GER,1912,Stockholm,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

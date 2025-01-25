@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hunyoung Jeon,F,Korea,KOR,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Hunyoung Jeon,F,Korea,KOR,2024,Paris,Archery,Women's Team,Gold,Women's,ARC,True
-Sihyeon Lim,F,Korea,KOR,2024,Paris,Archery,Women's Individual,Gold,Women's,ARC,True
-Sihyeon Lim,F,Korea,KOR,2024,Paris,Archery,Women's Team,Gold,Women's,ARC,True
-Sihyeon Lim,F,Korea,KOR,2024,Paris,Archery,Mixed Team,Gold,Mixed,ARC,True
-Suhyeon Nam,F,Korea,KOR,2024,Paris,Archery,Women's Individual,Silver,Women's,ARC,True
-Suhyeon Nam,F,Korea,KOR,2024,Paris,Archery,Women's Team,Gold,Women's,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hunyoung Jeon,F,Korea,KOR,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Hunyoung Jeon,F,Korea,KOR,2024,Paris,Archery,Women's Team,Gold,Women's,ARC,True,True
+Sihyeon Lim,F,Korea,KOR,2024,Paris,Archery,Women's Individual,Gold,Women's,ARC,True,True
+Sihyeon Lim,F,Korea,KOR,2024,Paris,Archery,Women's Team,Gold,Women's,ARC,True,True
+Sihyeon Lim,F,Korea,KOR,2024,Paris,Archery,Mixed Team,Gold,Mixed,ARC,True,True
+Suhyeon Nam,F,Korea,KOR,2024,Paris,Archery,Women's Individual,Silver,Women's,ARC,True,True
+Suhyeon Nam,F,Korea,KOR,2024,Paris,Archery,Women's Team,Gold,Women's,ARC,True,True

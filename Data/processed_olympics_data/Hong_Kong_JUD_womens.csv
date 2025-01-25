@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Law Wah,F,Hong Kong,HKG,1992,Barcelona,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False
-Wu Hui,F,Hong Kong,HKG,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
-Yu Seung,F,Hong Kong,HKG,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Law Wah,F,Hong Kong,HKG,1992,Barcelona,Judo,Judo Women's Lightweight,No medal,Judo,JUD,False,True
+Wu Hui,F,Hong Kong,HKG,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False,True
+Yu Seung,F,Hong Kong,HKG,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True

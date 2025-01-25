@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Birgit (-beck),F,Liechtenstein,LIE,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Birgit (-beck),F,Liechtenstein,LIE,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Ulrike Kaiser,F,Liechtenstein,LIE,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Birgit (-beck),F,Liechtenstein,LIE,1992,Barcelona,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,True
+Birgit (-beck),F,Liechtenstein,LIE,1996,Atlanta,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False
+Ulrike Kaiser,F,Liechtenstein,LIE,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,False,True

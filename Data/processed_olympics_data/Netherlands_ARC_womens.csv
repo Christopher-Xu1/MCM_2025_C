@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Loedmila Arzjannikova,F,Netherlands,NED,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Adriana Smits,F,Netherlands,NED,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Adriana (-huybrehts),F,Netherlands,NED,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Adriana (-huybrehts),F,Netherlands,NED,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Catharina Gool-floris,F,Netherlands,NED,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Catharina Gool-floris,F,Netherlands,NED,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Jacqueline Gerven,F,Netherlands,NED,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Jacqueline Gerven,F,Netherlands,NED,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Jacqueline Gerven,F,Netherlands,NED,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Christel Verstegen,F,Netherlands,NED,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Christel Verstegen,F,Netherlands,NED,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Christel Verstegen,F,Netherlands,NED,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Gabriela Schloesser,F,Netherlands,NED,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-Gabriela Schloesser,F,Netherlands,NED,2020,Tokyo,Archery,Mixed Team,Silver,Mixed,ARC,True
-Quinty Roeffen,F,Netherlands,NED,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Quinty Roeffen,F,Netherlands,NED,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True
-van Laura,F,Netherlands,NED,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-van Laura,F,Netherlands,NED,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True
-Gaby Schloesser,F,Netherlands,NED,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Gaby Schloesser,F,Netherlands,NED,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True
-Gaby Schloesser,F,Netherlands,NED,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Loedmila Arzjannikova,F,Netherlands,NED,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Adriana Smits,F,Netherlands,NED,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Adriana (-huybrehts),F,Netherlands,NED,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Adriana (-huybrehts),F,Netherlands,NED,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Catharina Gool-floris,F,Netherlands,NED,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Catharina Gool-floris,F,Netherlands,NED,1984,Los Angeles,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Jacqueline Gerven,F,Netherlands,NED,1988,Seoul,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Jacqueline Gerven,F,Netherlands,NED,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Jacqueline Gerven,F,Netherlands,NED,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,False
+Christel Verstegen,F,Netherlands,NED,1992,Barcelona,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Christel Verstegen,F,Netherlands,NED,1992,Barcelona,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Christel Verstegen,F,Netherlands,NED,1996,Atlanta,Archery,Archery Women's Individual,No medal,Archery,ARC,True,False
+Gabriela Schloesser,F,Netherlands,NED,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Gabriela Schloesser,F,Netherlands,NED,2020,Tokyo,Archery,Mixed Team,Silver,Mixed,ARC,True,True
+Quinty Roeffen,F,Netherlands,NED,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Quinty Roeffen,F,Netherlands,NED,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True,True
+van Laura,F,Netherlands,NED,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+van Laura,F,Netherlands,NED,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True,True
+Gaby Schloesser,F,Netherlands,NED,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Gaby Schloesser,F,Netherlands,NED,2024,Paris,Archery,Women's Team,No medal,Women's,ARC,True,True
+Gaby Schloesser,F,Netherlands,NED,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True,True

@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Manuel Barroso,M,Portugal,POR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Manuel Barroso,M,Portugal,POR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Manuel Barroso,M,Portugal,POR,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Manuel Barroso,M,Portugal,POR,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Manuel Barroso,M,Portugal,POR,1996,Atlanta,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Sebastio Herdia,M,Portugal,POR,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Sebastio Herdia,M,Portugal,POR,1932,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Rafael Sousa,M,Portugal,POR,1932,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Ricardo Duro,M,Portugal,POR,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Ricardo Duro,M,Portugal,POR,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Roberto Duro,M,Portugal,POR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Roberto Duro,M,Portugal,POR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Antnio Jonet,M,Portugal,POR,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Antnio Jonet,M,Portugal,POR,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Lus Monteiro,M,Portugal,POR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Lus Monteiro,M,Portugal,POR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Jos Pereira,M,Portugal,POR,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jos Pereira,M,Portugal,POR,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Manuel Barroso,M,Portugal,POR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Manuel Barroso,M,Portugal,POR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Manuel Barroso,M,Portugal,POR,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Manuel Barroso,M,Portugal,POR,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Manuel Barroso,M,Portugal,POR,1996,Atlanta,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Sebastio Herdia,M,Portugal,POR,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Sebastio Herdia,M,Portugal,POR,1932,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Rafael Sousa,M,Portugal,POR,1932,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Ricardo Duro,M,Portugal,POR,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Ricardo Duro,M,Portugal,POR,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Roberto Duro,M,Portugal,POR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Roberto Duro,M,Portugal,POR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Antnio Jonet,M,Portugal,POR,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Antnio Jonet,M,Portugal,POR,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Lus Monteiro,M,Portugal,POR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Lus Monteiro,M,Portugal,POR,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Jos Pereira,M,Portugal,POR,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Jos Pereira,M,Portugal,POR,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True

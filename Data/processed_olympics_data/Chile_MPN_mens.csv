@@ -1,26 +1,26 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cristin Rodrguez,M,Chile,CHI,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Esteban Rodrguez,M,Chile,CHI,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Hctor Barrales,M,Chile,CHI,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Hctor Barrales,M,Chile,CHI,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Luis Barrales,M,Chile,CHI,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Luis Barrales,M,Chile,CHI,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Gerardo Jr.,M,Chile,CHI,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Gerardo Jr.,M,Chile,CHI,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Gerardo Sr.,M,Chile,CHI,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Gerardo Sr.,M,Chile,CHI,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Ricardo Falconi,M,Chile,CHI,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Ricardo Falconi,M,Chile,CHI,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Nilo Buxton,M,Chile,CHI,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Nilo Buxton,M,Chile,CHI,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Nilo Buxton,M,Chile,CHI,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Nilo Buxton,M,Chile,CHI,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Nilo Buxton,M,Chile,CHI,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Hernn Jr.,M,Chile,CHI,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Hernn Jr.,M,Chile,CHI,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Hernn Jr.,M,Chile,CHI,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Julio Sr.,M,Chile,CHI,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Julio Sr.,M,Chile,CHI,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Aquiles Ovalle,M,Chile,CHI,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Esteban Bustos,M,Chile,CHI,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True
-Esteban Bustos,M,Chile,CHI,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cristin Rodrguez,M,Chile,CHI,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Esteban Rodrguez,M,Chile,CHI,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Hctor Barrales,M,Chile,CHI,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Hctor Barrales,M,Chile,CHI,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Luis Barrales,M,Chile,CHI,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Luis Barrales,M,Chile,CHI,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Gerardo Jr.,M,Chile,CHI,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Gerardo Jr.,M,Chile,CHI,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Gerardo Sr.,M,Chile,CHI,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Gerardo Sr.,M,Chile,CHI,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Ricardo Falconi,M,Chile,CHI,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Ricardo Falconi,M,Chile,CHI,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Nilo Buxton,M,Chile,CHI,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Nilo Buxton,M,Chile,CHI,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Nilo Buxton,M,Chile,CHI,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Nilo Buxton,M,Chile,CHI,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Nilo Buxton,M,Chile,CHI,1956,Melbourne,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Hernn Jr.,M,Chile,CHI,1948,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Hernn Jr.,M,Chile,CHI,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Hernn Jr.,M,Chile,CHI,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Julio Sr.,M,Chile,CHI,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Julio Sr.,M,Chile,CHI,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Aquiles Ovalle,M,Chile,CHI,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Esteban Bustos,M,Chile,CHI,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True,True
+Esteban Bustos,M,Chile,CHI,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True,False

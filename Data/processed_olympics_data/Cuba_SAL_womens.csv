@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Anayansi Aragn,F,Cuba,CUB,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Anayansi Aragn,F,Cuba,CUB,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True

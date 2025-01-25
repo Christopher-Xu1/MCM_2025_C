@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Olivia Baker,F,New Zealand,NZL,2000,Sydney,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Tracey Lambrechs,F,New Zealand,NZL,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Kanah Andrews-nahu,F,New Zealand,NZL,2020,Tokyo,Weightlifting,Women's 87kg,No medal,Women's,WLF,False
-Laurel Hubbard,F,New Zealand,NZL,2020,Tokyo,Weightlifting,Women's +87kg,No medal,Women's,WLF,False
-Ann Signal,F,New Zealand,NZL,2020,Tokyo,Weightlifting,Women's 76kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Olivia Baker,F,New Zealand,NZL,2000,Sydney,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Tracey Lambrechs,F,New Zealand,NZL,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Kanah Andrews-nahu,F,New Zealand,NZL,2020,Tokyo,Weightlifting,Women's 87kg,No medal,Women's,WLF,False,True
+Laurel Hubbard,F,New Zealand,NZL,2020,Tokyo,Weightlifting,Women's +87kg,No medal,Women's,WLF,False,True
+Ann Signal,F,New Zealand,NZL,2020,Tokyo,Weightlifting,Women's 76kg,No medal,Women's,WLF,False,True

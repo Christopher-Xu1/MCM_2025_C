@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elaheh Ahmadi,F,Iran,IRI,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Elaheh Ahmadi,F,Iran,IRI,2012,London,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Elaheh Ahmadi,F,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Lida Fariman,F,Iran,IRI,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Nasim Nashid,F,Iran,IRI,2004,Athina,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Mahlagha Jambozorg,F,Iran,IRI,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Mahlagha Jambozorg,F,Iran,IRI,2012,London,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Mahlagha Jambozorg,F,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Manijeh Kazemi,F,Iran,IRI,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Najmeh Khedmati,F,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Najmeh Khedmati,F,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Golnoush Sebghatollahi,F,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Golnoush Sebghatollahi,F,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Fatemeh Karamzadeh,F,Iran,IRI,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,True
-Fatemeh Karamzadeh,F,Iran,IRI,2020,Tokyo,Shooting,50m Rifle 3 Positions Women,No medal,50m,SHO,True
-Najmeh Khedmati,F,Iran,IRI,2020,Tokyo,Shooting,50m Rifle 3 Positions Women,No medal,50m,SHO,True
-Najmeh Khedmati,F,Iran,IRI,2020,Tokyo,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True
-Haniyeh Rostamiyan,F,Iran,IRI,2020,Tokyo,Shooting,10m Air Pistol Women,No medal,10m,SHO,True
-Haniyeh Rostamiyan,F,Iran,IRI,2020,Tokyo,Shooting,25m Pistol Women,No medal,25m,SHO,True
-Haniyeh Rostamiyan,F,Iran,IRI,2020,Tokyo,Shooting,10m Air Pistol Mixed Team,No medal,10m,SHO,True
-Armina Sadeghian,F,Iran,IRI,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elaheh Ahmadi,F,Iran,IRI,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Elaheh Ahmadi,F,Iran,IRI,2012,London,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Elaheh Ahmadi,F,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Lida Fariman,F,Iran,IRI,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Nasim Nashid,F,Iran,IRI,2004,Athina,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Mahlagha Jambozorg,F,Iran,IRI,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Mahlagha Jambozorg,F,Iran,IRI,2012,London,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Mahlagha Jambozorg,F,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Manijeh Kazemi,F,Iran,IRI,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Najmeh Khedmati,F,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Najmeh Khedmati,F,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Golnoush Sebghatollahi,F,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Golnoush Sebghatollahi,F,Iran,IRI,2016,Rio de Janeiro,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Fatemeh Karamzadeh,F,Iran,IRI,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,True,True
+Fatemeh Karamzadeh,F,Iran,IRI,2020,Tokyo,Shooting,50m Rifle 3 Positions Women,No medal,50m,SHO,True,True
+Najmeh Khedmati,F,Iran,IRI,2020,Tokyo,Shooting,50m Rifle 3 Positions Women,No medal,50m,SHO,True,False
+Najmeh Khedmati,F,Iran,IRI,2020,Tokyo,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True,False
+Haniyeh Rostamiyan,F,Iran,IRI,2020,Tokyo,Shooting,10m Air Pistol Women,No medal,10m,SHO,True,True
+Haniyeh Rostamiyan,F,Iran,IRI,2020,Tokyo,Shooting,25m Pistol Women,No medal,25m,SHO,True,True
+Haniyeh Rostamiyan,F,Iran,IRI,2020,Tokyo,Shooting,10m Air Pistol Mixed Team,No medal,10m,SHO,True,True
+Armina Sadeghian,F,Iran,IRI,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,False,True

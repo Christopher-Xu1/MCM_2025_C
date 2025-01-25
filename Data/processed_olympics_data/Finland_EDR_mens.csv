@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Henri Ruoste,M,Finland,FIN,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Henri Ruoste,M,Finland,FIN,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Henri Ruoste,M,Finland,FIN,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Henri Ruoste,M,Finland,FIN,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Henri Ruoste,M,Finland,FIN,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,False
+Henri Ruoste,M,Finland,FIN,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True,False

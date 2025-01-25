@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Amira Edrahi,F,Libya,LBA,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Asmahan Farhat,F,Libya,LBA,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Nadia Fezzani,F,Libya,LBA,1980,Moskva,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Nadia Fezzani,F,Libya,LBA,1980,Moskva,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Soad Fezzani,F,Libya,LBA,1980,Moskva,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Soad Fezzani,F,Libya,LBA,1980,Moskva,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Soad Fezzani,F,Libya,LBA,1980,Moskva,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Daniah Hagul,F,Libya,LBA,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Mek Almukhtar,F,Libya,LBA,2024,Paris,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Amira Edrahi,F,Libya,LBA,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Asmahan Farhat,F,Libya,LBA,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Nadia Fezzani,F,Libya,LBA,1980,Moskva,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Nadia Fezzani,F,Libya,LBA,1980,Moskva,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Soad Fezzani,F,Libya,LBA,1980,Moskva,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Soad Fezzani,F,Libya,LBA,1980,Moskva,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Soad Fezzani,F,Libya,LBA,1980,Moskva,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Daniah Hagul,F,Libya,LBA,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Mek Almukhtar,F,Libya,LBA,2024,Paris,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,False,True

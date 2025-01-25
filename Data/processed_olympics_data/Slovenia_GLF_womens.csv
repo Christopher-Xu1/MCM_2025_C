@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pia Babnik,F,Slovenia,SLO,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
-Ana Belac,F,Slovenia,SLO,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
-Pia Babnik,F,Slovenia,SLO,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pia Babnik,F,Slovenia,SLO,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,True
+Ana Belac,F,Slovenia,SLO,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True
+Pia Babnik,F,Slovenia,SLO,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,False

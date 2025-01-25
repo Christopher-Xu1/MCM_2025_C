@@ -1,44 +1,44 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jo Aleh,F,New Zealand,NZL,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Jo Aleh,F,New Zealand,NZL,2012,London,Sailing,Sailing Women's Two Person Dinghy,Gold,Sailing,SAL,True
-Jo Aleh,F,New Zealand,NZL,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,True
-Jennifer Armstrong,F,New Zealand,NZL,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Linda Dickson,F,New Zealand,NZL,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Jenny Egnot,F,New Zealand,NZL,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Leslie Egnot,F,New Zealand,NZL,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,True
-Leslie Egnot,F,New Zealand,NZL,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Sharon Ferris,F,New Zealand,NZL,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Sharon Ferris,F,New Zealand,NZL,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,True
-Fiona Galloway,F,New Zealand,NZL,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Jenna Hansen,F,New Zealand,NZL,2012,London,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Stephanie Hazard,F,New Zealand,NZL,2012,London,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Melinda Henshaw,F,New Zealand,NZL,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Shelley Hesson,F,New Zealand,NZL,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Kylie Jameson,F,New Zealand,NZL,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Gemma Jones,F,New Zealand,NZL,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False
-Barbara Kendall,F,New Zealand,NZL,1992,Barcelona,Sailing,Sailing Women's Windsurfer,Gold,Sailing,SAL,True
-Barbara Kendall,F,New Zealand,NZL,1996,Atlanta,Sailing,Sailing Women's Windsurfer,Silver,Sailing,SAL,True
-Barbara Kendall,F,New Zealand,NZL,2000,Sydney,Sailing,Sailing Women's Windsurfer,Bronze,Sailing,SAL,True
-Barbara Kendall,F,New Zealand,NZL,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Barbara Kendall,F,New Zealand,NZL,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Sarah (-dunn),F,New Zealand,NZL,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Sarah (-dunn),F,New Zealand,NZL,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Alexandra Maloney,F,New Zealand,NZL,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,Silver,Sailing,SAL,False
-Molly Meech,F,New Zealand,NZL,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,Silver,Sailing,SAL,True
-Olivia Powrie,F,New Zealand,NZL,2012,London,Sailing,Sailing Women's Two Person Dinghy,Gold,Sailing,SAL,True
-Olivia Powrie,F,New Zealand,NZL,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,True
-Susannah Pyatt,F,New Zealand,NZL,2012,London,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Janet (-jones),F,New Zealand,NZL,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Janet (-jones),F,New Zealand,NZL,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,True
-Janet (-jones),F,New Zealand,NZL,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Joanna (-wilce),F,New Zealand,NZL,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False
-Sara Winther,F,New Zealand,NZL,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Erica Dawson,F,New Zealand,NZL,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,True
-Alex Maloney,F,New Zealand,NZL,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False
-Molly Meech,F,New Zealand,NZL,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,True
-Erica Dawson,F,New Zealand,NZL,2024,Paris,Sailing,Mixed Multihull,Bronze,Mixed,SAL,True
-Greta Pilkington,F,New Zealand,NZL,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False
-Jo Aleh,F,New Zealand,NZL,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,True
-Molly Meech,F,New Zealand,NZL,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,True
-Veerle Ten,F,New Zealand,NZL,2024,Paris,Sailing,Women's Windsurfing,No medal,Women's,SAL,False
-Justina Kitchen,F,New Zealand,NZL,2024,Paris,Sailing,Women's Kite,No medal,Women's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jo Aleh,F,New Zealand,NZL,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Jo Aleh,F,New Zealand,NZL,2012,London,Sailing,Sailing Women's Two Person Dinghy,Gold,Sailing,SAL,True,False
+Jo Aleh,F,New Zealand,NZL,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,True,False
+Jennifer Armstrong,F,New Zealand,NZL,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Linda Dickson,F,New Zealand,NZL,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Jenny Egnot,F,New Zealand,NZL,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Leslie Egnot,F,New Zealand,NZL,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,True,True
+Leslie Egnot,F,New Zealand,NZL,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Sharon Ferris,F,New Zealand,NZL,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Sharon Ferris,F,New Zealand,NZL,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,True,False
+Fiona Galloway,F,New Zealand,NZL,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Jenna Hansen,F,New Zealand,NZL,2012,London,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Stephanie Hazard,F,New Zealand,NZL,2012,London,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Melinda Henshaw,F,New Zealand,NZL,2000,Sydney,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Shelley Hesson,F,New Zealand,NZL,2004,Athina,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Kylie Jameson,F,New Zealand,NZL,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Gemma Jones,F,New Zealand,NZL,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,False,True
+Barbara Kendall,F,New Zealand,NZL,1992,Barcelona,Sailing,Sailing Women's Windsurfer,Gold,Sailing,SAL,True,True
+Barbara Kendall,F,New Zealand,NZL,1996,Atlanta,Sailing,Sailing Women's Windsurfer,Silver,Sailing,SAL,True,False
+Barbara Kendall,F,New Zealand,NZL,2000,Sydney,Sailing,Sailing Women's Windsurfer,Bronze,Sailing,SAL,True,False
+Barbara Kendall,F,New Zealand,NZL,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Barbara Kendall,F,New Zealand,NZL,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Sarah (-dunn),F,New Zealand,NZL,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Sarah (-dunn),F,New Zealand,NZL,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Alexandra Maloney,F,New Zealand,NZL,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,Silver,Sailing,SAL,False,True
+Molly Meech,F,New Zealand,NZL,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,Silver,Sailing,SAL,True,True
+Olivia Powrie,F,New Zealand,NZL,2012,London,Sailing,Sailing Women's Two Person Dinghy,Gold,Sailing,SAL,True,True
+Olivia Powrie,F,New Zealand,NZL,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,True,False
+Susannah Pyatt,F,New Zealand,NZL,2012,London,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Janet (-jones),F,New Zealand,NZL,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Janet (-jones),F,New Zealand,NZL,1992,Barcelona,Sailing,Sailing Women's Two Person Dinghy,Silver,Sailing,SAL,True,False
+Janet (-jones),F,New Zealand,NZL,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Joanna (-wilce),F,New Zealand,NZL,2004,Athina,Sailing,Sailing Women's Three Person Keelboat,No medal,Sailing,SAL,False,True
+Sara Winther,F,New Zealand,NZL,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Erica Dawson,F,New Zealand,NZL,2020,Tokyo,Sailing,Mixed Multihull - Nacra 17 Foiling Team,No medal,Mixed,SAL,True,True
+Alex Maloney,F,New Zealand,NZL,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False,True
+Molly Meech,F,New Zealand,NZL,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,True,False
+Erica Dawson,F,New Zealand,NZL,2024,Paris,Sailing,Mixed Multihull,Bronze,Mixed,SAL,True,False
+Greta Pilkington,F,New Zealand,NZL,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False,True
+Jo Aleh,F,New Zealand,NZL,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,True,False
+Molly Meech,F,New Zealand,NZL,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,True,False
+Veerle Ten,F,New Zealand,NZL,2024,Paris,Sailing,Women's Windsurfing,No medal,Women's,SAL,False,True
+Justina Kitchen,F,New Zealand,NZL,2024,Paris,Sailing,Women's Kite,No medal,Women's,SAL,False,True

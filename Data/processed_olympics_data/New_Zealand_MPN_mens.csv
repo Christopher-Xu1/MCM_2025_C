@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Brian Newth,M,New Zealand,NZL,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Brian Newth,M,New Zealand,NZL,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True

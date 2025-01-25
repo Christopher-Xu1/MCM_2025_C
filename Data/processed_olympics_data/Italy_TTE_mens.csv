@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mihai Bobocica,M,Italy,ITA,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Mihai Bobocica,M,Italy,ITA,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Massimo Costantini,M,Italy,ITA,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Massimiliano Mondello,M,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False
-Min Yang,M,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Min Yang,M,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mihai Bobocica,M,Italy,ITA,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Mihai Bobocica,M,Italy,ITA,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Massimo Costantini,M,Italy,ITA,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Massimiliano Mondello,M,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,False,True
+Min Yang,M,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Min Yang,M,Italy,ITA,2004,Athina,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True

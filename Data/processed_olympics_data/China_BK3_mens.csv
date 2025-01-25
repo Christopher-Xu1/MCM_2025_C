@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Shiyan Gao,M,China,CHN,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False
-Jinqiu Hu,M,China,CHN,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False
-Haonan Li,M,China,CHN,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False
-Peng Yan,M,China,CHN,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False
-Ning Zhang,M,China,CHN,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,False
-Yuanbo Zhu,M,China,CHN,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,False
-Wenbo Lu,M,China,CHN,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,False
-Jiaren Zhao,M,China,CHN,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Shiyan Gao,M,China,CHN,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False,True
+Jinqiu Hu,M,China,CHN,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False,True
+Haonan Li,M,China,CHN,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False,True
+Peng Yan,M,China,CHN,2020,Tokyo,3x3 Basketball,Men Team,No medal,Men,BK3,False,True
+Ning Zhang,M,China,CHN,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,False,True
+Yuanbo Zhu,M,China,CHN,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,False,True
+Wenbo Lu,M,China,CHN,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,False,True
+Jiaren Zhao,M,China,CHN,2024,Paris,3x3 Basketball,Men,No medal,Men,BK3,False,True

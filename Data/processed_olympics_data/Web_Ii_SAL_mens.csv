@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-William Berntsen,M,Web Ii,DEN,1960,Roma,Sailing,Sailing Mixed 5.5 metres,Silver,Sailing,SAL,False
-Steen Christensen,M,Web Ii,DEN,1960,Roma,Sailing,Sailing Mixed 5.5 metres,Silver,Sailing,SAL,False
-Sren Hancke,M,Web Ii,DEN,1960,Roma,Sailing,Sailing Mixed 5.5 metres,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+William Berntsen,M,Web Ii,DEN,1960,Roma,Sailing,Sailing Mixed 5.5 metres,Silver,Sailing,SAL,False,True
+Steen Christensen,M,Web Ii,DEN,1960,Roma,Sailing,Sailing Mixed 5.5 metres,Silver,Sailing,SAL,False,True
+Sren Hancke,M,Web Ii,DEN,1960,Roma,Sailing,Sailing Mixed 5.5 metres,Silver,Sailing,SAL,False,True

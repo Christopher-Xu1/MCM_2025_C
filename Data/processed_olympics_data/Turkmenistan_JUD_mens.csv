@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Guvanch Nurmuhammedov,M,Turkmenistan,TKM,2008,Beijing,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Serdar Rahimov,M,Turkmenistan,TKM,2024,Paris,Judo,Men -66 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Guvanch Nurmuhammedov,M,Turkmenistan,TKM,2008,Beijing,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Serdar Rahimov,M,Turkmenistan,TKM,2024,Paris,Judo,Men -66 kg,No medal,Men,JUD,False,True

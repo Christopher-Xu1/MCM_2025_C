@@ -1,45 +1,45 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jenny Byrne,F,Australia,AUS,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Casey Dellacqua,F,Australia,AUS,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Jelena Dokic,F,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Jelena Dokic,F,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Daria Gavrilova,F,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Rachel Mcquillan,F,Australia,AUS,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Rachel Mcquillan,F,Australia,AUS,1992,Barcelona,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,True
-Rachel Mcquillan,F,Australia,AUS,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Anne (-harris),F,Australia,AUS,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Alicia Molik,F,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Alicia Molik,F,Australia,AUS,2004,Athina,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,True
-Alicia Molik,F,Australia,AUS,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Nicole Pratt,F,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Nicole Pratt,F,Australia,AUS,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Nicole Provis-bradtke,F,Australia,AUS,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Nicole Provis-bradtke,F,Australia,AUS,1992,Barcelona,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,True
-Nicole Provis-bradtke,F,Australia,AUS,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Elizabeth (sayers-),F,Australia,AUS,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Elizabeth (sayers-),F,Australia,AUS,1988,Seoul,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,True
-Samantha Stosur,F,Australia,AUS,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Samantha Stosur,F,Australia,AUS,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Samantha Stosur,F,Australia,AUS,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Samantha Stosur,F,Australia,AUS,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Samantha Stosur,F,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Samantha Stosur,F,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Rennae Stubbs,F,Australia,AUS,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Rennae Stubbs,F,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
-Wendy Turnbull,F,Australia,AUS,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Wendy Turnbull,F,Australia,AUS,1988,Seoul,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,True
-Ashleigh Barty,F,Australia,AUS,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
-Ashleigh Barty,F,Australia,AUS,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
-Ashleigh Barty,F,Australia,AUS,2020,Tokyo,Tennis,Mixed Doubles Team,Bronze,Mixed,TEN,True
-Ellen Perez,F,Australia,AUS,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
-Storm Sanders,F,Australia,AUS,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False
-Samantha Stosur,F,Australia,AUS,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
-Samantha Stosur,F,Australia,AUS,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
-Ajla Tomljanovic,F,Australia,AUS,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
-Ajla Tomljanovic,F,Australia,AUS,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Ajla Tomljanovic,F,Australia,AUS,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
-Daria Saville,F,Australia,AUS,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,False
-Ellen Perez,F,Australia,AUS,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Ellen Perez,F,Australia,AUS,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True
-Olivia Gadecki,F,Australia,AUS,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Olivia Gadecki,F,Australia,AUS,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jenny Byrne,F,Australia,AUS,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Casey Dellacqua,F,Australia,AUS,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Jelena Dokic,F,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Jelena Dokic,F,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,True
+Daria Gavrilova,F,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Rachel Mcquillan,F,Australia,AUS,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Rachel Mcquillan,F,Australia,AUS,1992,Barcelona,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,True,True
+Rachel Mcquillan,F,Australia,AUS,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Anne (-harris),F,Australia,AUS,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Alicia Molik,F,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Alicia Molik,F,Australia,AUS,2004,Athina,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,True,False
+Alicia Molik,F,Australia,AUS,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Nicole Pratt,F,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Nicole Pratt,F,Australia,AUS,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Nicole Provis-bradtke,F,Australia,AUS,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Nicole Provis-bradtke,F,Australia,AUS,1992,Barcelona,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,True,True
+Nicole Provis-bradtke,F,Australia,AUS,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Elizabeth (sayers-),F,Australia,AUS,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Elizabeth (sayers-),F,Australia,AUS,1988,Seoul,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,True,True
+Samantha Stosur,F,Australia,AUS,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Samantha Stosur,F,Australia,AUS,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Samantha Stosur,F,Australia,AUS,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Samantha Stosur,F,Australia,AUS,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,False
+Samantha Stosur,F,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Samantha Stosur,F,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,False
+Rennae Stubbs,F,Australia,AUS,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Rennae Stubbs,F,Australia,AUS,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True,False
+Wendy Turnbull,F,Australia,AUS,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Wendy Turnbull,F,Australia,AUS,1988,Seoul,Tennis,Tennis Women's Doubles,Bronze,Tennis,TEN,True,True
+Ashleigh Barty,F,Australia,AUS,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Ashleigh Barty,F,Australia,AUS,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,True
+Ashleigh Barty,F,Australia,AUS,2020,Tokyo,Tennis,Mixed Doubles Team,Bronze,Mixed,TEN,True,True
+Ellen Perez,F,Australia,AUS,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,True
+Storm Sanders,F,Australia,AUS,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False,True
+Samantha Stosur,F,Australia,AUS,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True,False
+Samantha Stosur,F,Australia,AUS,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True,False
+Ajla Tomljanovic,F,Australia,AUS,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True,True
+Ajla Tomljanovic,F,Australia,AUS,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,False
+Ajla Tomljanovic,F,Australia,AUS,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True,False
+Daria Saville,F,Australia,AUS,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,False,True
+Ellen Perez,F,Australia,AUS,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,False
+Ellen Perez,F,Australia,AUS,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True,False
+Olivia Gadecki,F,Australia,AUS,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,True
+Olivia Gadecki,F,Australia,AUS,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True,True

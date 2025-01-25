@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Birger Gustafsson,M,Freja,SWE,1908,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Ernst Jonsson,M,Freja,SWE,1908,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
-Karl-Einar Sjgren,M,Freja,SWE,1908,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Birger Gustafsson,M,Freja,SWE,1908,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Ernst Jonsson,M,Freja,SWE,1908,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True
+Karl-Einar Sjgren,M,Freja,SWE,1908,London,Sailing,Sailing Mixed 6 metres,No medal,Sailing,SAL,False,True

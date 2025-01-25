@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Winner Djankeu,F,Eor,EOR,2024,Paris,Boxing,Women's 75kg,Bronze,Women's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Winner Djankeu,F,Eor,EOR,2024,Paris,Boxing,Women's 75kg,Bronze,Women's,BOX,False,True

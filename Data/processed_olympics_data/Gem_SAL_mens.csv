@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cecil Cooke,M,Gem,BAH,1964,Tokyo,Sailing,Sailing Mixed Two Person Keelboat,Gold,Sailing,SAL,False
-Durward Knowles,M,Gem,BAH,1964,Tokyo,Sailing,Sailing Mixed Two Person Keelboat,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cecil Cooke,M,Gem,BAH,1964,Tokyo,Sailing,Sailing Mixed Two Person Keelboat,Gold,Sailing,SAL,False,True
+Durward Knowles,M,Gem,BAH,1964,Tokyo,Sailing,Sailing Mixed Two Person Keelboat,Gold,Sailing,SAL,False,True

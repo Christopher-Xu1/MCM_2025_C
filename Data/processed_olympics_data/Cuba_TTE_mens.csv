@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Francisco Armas,M,Cuba,CUB,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Francisco Armas,M,Cuba,CUB,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Rubn Gonzlez,M,Cuba,CUB,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Rubn Gonzlez,M,Cuba,CUB,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Rubn Gonzlez,M,Cuba,CUB,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Jorge Valds,M,Cuba,CUB,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Andy Diez,M,Cuba,CUB,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Andy Diez,M,Cuba,CUB,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Santiago Penton,M,Cuba,CUB,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Santiago Penton,M,Cuba,CUB,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
-Renier Snchez,M,Cuba,CUB,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Jorge Campos,M,Cuba,CUB,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,True
-Jorge Campos,M,Cuba,CUB,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True
-Andy Pereira,M,Cuba,CUB,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Francisco Armas,M,Cuba,CUB,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Francisco Armas,M,Cuba,CUB,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Rubn Gonzlez,M,Cuba,CUB,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Rubn Gonzlez,M,Cuba,CUB,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Rubn Gonzlez,M,Cuba,CUB,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,False
+Jorge Valds,M,Cuba,CUB,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Andy Diez,M,Cuba,CUB,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Andy Diez,M,Cuba,CUB,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,False
+Santiago Penton,M,Cuba,CUB,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Santiago Penton,M,Cuba,CUB,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True,True
+Renier Snchez,M,Cuba,CUB,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Jorge Campos,M,Cuba,CUB,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,True,True
+Jorge Campos,M,Cuba,CUB,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True,False
+Andy Pereira,M,Cuba,CUB,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,False,True

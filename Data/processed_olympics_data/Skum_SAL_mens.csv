@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hans Fogh,M,Skum,DEN,1960,Roma,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Silver,Sailing,SAL,False
-Ole Petersen,M,Skum,DEN,1960,Roma,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hans Fogh,M,Skum,DEN,1960,Roma,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Silver,Sailing,SAL,False,True
+Ole Petersen,M,Skum,DEN,1960,Roma,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Silver,Sailing,SAL,False,True

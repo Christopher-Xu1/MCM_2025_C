@@ -1,30 +1,30 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jrgen Arenholt,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Einar Bache,M,Denmark,DEN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Kenneth Carlsen,M,Denmark,DEN,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Kenneth Carlsen,M,Denmark,DEN,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Kenneth Carlsen,M,Denmark,DEN,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Kenneth Carlsen,M,Denmark,DEN,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Morten Christensen,M,Denmark,DEN,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Morten Christensen,M,Denmark,DEN,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Frederik Fetterlein,M,Denmark,DEN,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Frederik Fetterlein,M,Denmark,DEN,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Frederik Fetterlein,M,Denmark,DEN,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Ove Frederiksen,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Ernst Frigast,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Victor Hansen,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Vagn Ingerslev,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Erik Larsen,M,Denmark,DEN,1912,Stockholm,Tennis,"Tennis Mixed Doubles, Covered Courts",No medal,Tennis,TEN,True
-Erik Larsen,M,Denmark,DEN,1912,Stockholm,Tennis,"Tennis Men's Singles, Covered Courts",No medal,Tennis,TEN,True
-Aage Madsen,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Kristian Pless,M,Denmark,DEN,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Ludvig Rovsing,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Michael Tauson,M,Denmark,DEN,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Michael Tauson,M,Denmark,DEN,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Erik Tegner,M,Denmark,DEN,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Erik Tegner,M,Denmark,DEN,1920,Antwerpen,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Erik Tegner,M,Denmark,DEN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Erik Tegner,M,Denmark,DEN,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
-Bjrn (guldbrandsen-),M,Denmark,DEN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Axel Thayssen,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Einer Ulrich,M,Denmark,DEN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jrgen Arenholt,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Einar Bache,M,Denmark,DEN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Kenneth Carlsen,M,Denmark,DEN,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Kenneth Carlsen,M,Denmark,DEN,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Kenneth Carlsen,M,Denmark,DEN,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Kenneth Carlsen,M,Denmark,DEN,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Morten Christensen,M,Denmark,DEN,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Morten Christensen,M,Denmark,DEN,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Frederik Fetterlein,M,Denmark,DEN,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Frederik Fetterlein,M,Denmark,DEN,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Frederik Fetterlein,M,Denmark,DEN,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False
+Ove Frederiksen,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Ernst Frigast,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Victor Hansen,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Vagn Ingerslev,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Erik Larsen,M,Denmark,DEN,1912,Stockholm,Tennis,"Tennis Mixed Doubles, Covered Courts",No medal,Tennis,TEN,True,True
+Erik Larsen,M,Denmark,DEN,1912,Stockholm,Tennis,"Tennis Men's Singles, Covered Courts",No medal,Tennis,TEN,True,True
+Aage Madsen,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Kristian Pless,M,Denmark,DEN,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Ludvig Rovsing,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Michael Tauson,M,Denmark,DEN,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Michael Tauson,M,Denmark,DEN,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Erik Tegner,M,Denmark,DEN,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Erik Tegner,M,Denmark,DEN,1920,Antwerpen,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,True
+Erik Tegner,M,Denmark,DEN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Erik Tegner,M,Denmark,DEN,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True,False
+Bjrn (guldbrandsen-),M,Denmark,DEN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Axel Thayssen,M,Denmark,DEN,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Einer Ulrich,M,Denmark,DEN,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True

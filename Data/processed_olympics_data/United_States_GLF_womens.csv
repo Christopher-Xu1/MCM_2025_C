@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Margaret (-dunne),F,United States,USA,1900,Paris,Golf,Golf Women's Individual,Gold,Golf,GLF,False
-Mary (perkins-),F,United States,USA,1900,Paris,Golf,Golf Women's Individual,No medal,Golf,GLF,False
-Stacy (-chadwell),F,United States,USA,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False
-Gerina (mendoza-),F,United States,USA,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False
-Myra -karageorgevich),F,United States,USA,1900,Paris,Golf,Golf Women's Individual,Bronze,Golf,GLF,False
-Ellen (munroe-),F,United States,USA,1900,Paris,Golf,Golf Women's Individual,No medal,Golf,GLF,False
-Alexis Thompson,F,United States,USA,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False
-Pauline (-iselin),F,United States,USA,1900,Paris,Golf,Golf Women's Individual,Silver,Golf,GLF,False
-Danielle Kang,F,United States,USA,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
-Jessica Korda,F,United States,USA,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
-Nelly Korda,F,United States,USA,2020,Tokyo,Golf,Women's Individual Stroke Play,Gold,Women's,GLF,True
-Lexi Thompson,F,United States,USA,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
-Nelly Korda,F,United States,USA,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
-Lilia Vu,F,United States,USA,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
-Rose Zhang,F,United States,USA,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Margaret (-dunne),F,United States,USA,1900,Paris,Golf,Golf Women's Individual,Gold,Golf,GLF,False,True
+Mary (perkins-),F,United States,USA,1900,Paris,Golf,Golf Women's Individual,No medal,Golf,GLF,False,True
+Stacy (-chadwell),F,United States,USA,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False,True
+Gerina (mendoza-),F,United States,USA,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False,True
+Myra -karageorgevich),F,United States,USA,1900,Paris,Golf,Golf Women's Individual,Bronze,Golf,GLF,False,True
+Ellen (munroe-),F,United States,USA,1900,Paris,Golf,Golf Women's Individual,No medal,Golf,GLF,False,True
+Alexis Thompson,F,United States,USA,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,False,True
+Pauline (-iselin),F,United States,USA,1900,Paris,Golf,Golf Women's Individual,Silver,Golf,GLF,False,True
+Danielle Kang,F,United States,USA,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True
+Jessica Korda,F,United States,USA,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True
+Nelly Korda,F,United States,USA,2020,Tokyo,Golf,Women's Individual Stroke Play,Gold,Women's,GLF,True,True
+Lexi Thompson,F,United States,USA,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True
+Nelly Korda,F,United States,USA,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True,False
+Lilia Vu,F,United States,USA,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True
+Rose Zhang,F,United States,USA,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False,True

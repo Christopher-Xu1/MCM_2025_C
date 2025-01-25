@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Manu Attri,M,India,IND,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Deepankar Bhattacharya,M,India,IND,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Deepankar Bhattacharya,M,India,IND,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Deepankar Bhattacharya,M,India,IND,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Valiyaveetil Diju,M,India,IND,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Pulella Gopichand,M,India,IND,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Abhinn Gupta,M,India,IND,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Nikhil Kanetkar,M,India,IND,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Parupalli Kashyap,M,India,IND,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Srikanth Kidambi,M,India,IND,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Vimal Kumar,M,India,IND,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Vimal Kumar,M,India,IND,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Buss Reddy,M,India,IND,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Anup Sridhar,M,India,IND,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Praneeth B.,M,India,IND,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,False
-Satwiksairaj Rankireddy,M,India,IND,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True
-Chirag Shetty,M,India,IND,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True
-S Prannoy,M,India,IND,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False
-Satwiksairaj Rankireddy,M,India,IND,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,True
-Chirag Shetty,M,India,IND,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,True
-Lakshya Sen,M,India,IND,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Manu Attri,M,India,IND,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Deepankar Bhattacharya,M,India,IND,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Deepankar Bhattacharya,M,India,IND,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Deepankar Bhattacharya,M,India,IND,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,False
+Valiyaveetil Diju,M,India,IND,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Pulella Gopichand,M,India,IND,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Abhinn Gupta,M,India,IND,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Nikhil Kanetkar,M,India,IND,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Parupalli Kashyap,M,India,IND,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Srikanth Kidambi,M,India,IND,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Vimal Kumar,M,India,IND,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Vimal Kumar,M,India,IND,1992,Barcelona,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Buss Reddy,M,India,IND,2016,Rio de Janeiro,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Anup Sridhar,M,India,IND,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Praneeth B.,M,India,IND,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,False,True
+Satwiksairaj Rankireddy,M,India,IND,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True,True
+Chirag Shetty,M,India,IND,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True,True
+S Prannoy,M,India,IND,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False,True
+Satwiksairaj Rankireddy,M,India,IND,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,True,False
+Chirag Shetty,M,India,IND,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,True,False
+Lakshya Sen,M,India,IND,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False,True

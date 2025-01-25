@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ginou Etienne,F,Haiti,HAI,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Nadine Faustin-parker,F,Haiti,HAI,2000,Sydney,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Nadine Faustin-parker,F,Haiti,HAI,2004,Athina,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Nadine Faustin-parker,F,Haiti,HAI,2008,Beijing,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Antoinette Gauthier,F,Haiti,HAI,1976,Montreal,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Rose-Marie Gauthier,F,Haiti,HAI,1976,Montreal,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Mulern Jean,F,Haiti,HAI,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True
-Mireille Joseph,F,Haiti,HAI,1972,Munich,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Barbara Pierre,F,Haiti,HAI,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Marie-Louise Pierre,F,Haiti,HAI,1976,Montreal,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False
-Deborah Phard,F,Haiti,HAI,1988,Seoul,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,False
-Marlena Wesh,F,Haiti,HAI,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False
-Mulern Jean,F,Haiti,HAI,2020,Tokyo,Athletics,Women's 100m Hurdles,No medal,Women's,ATH,True
-Emelia Chatfield,F,Haiti,HAI,2024,Paris,Athletics,Women's 100m Hurdles,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ginou Etienne,F,Haiti,HAI,2008,Beijing,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Nadine Faustin-parker,F,Haiti,HAI,2000,Sydney,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,True
+Nadine Faustin-parker,F,Haiti,HAI,2004,Athina,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,False
+Nadine Faustin-parker,F,Haiti,HAI,2008,Beijing,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,False
+Antoinette Gauthier,F,Haiti,HAI,1976,Montreal,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Rose-Marie Gauthier,F,Haiti,HAI,1976,Montreal,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Mulern Jean,F,Haiti,HAI,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres Hurdles,No medal,Athletics,ATH,True,True
+Mireille Joseph,F,Haiti,HAI,1972,Munich,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Barbara Pierre,F,Haiti,HAI,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Marie-Louise Pierre,F,Haiti,HAI,1976,Montreal,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,False,True
+Deborah Phard,F,Haiti,HAI,1988,Seoul,Athletics,Athletics Women's Shot Put,No medal,Athletics,ATH,False,True
+Marlena Wesh,F,Haiti,HAI,2012,London,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,False,True
+Mulern Jean,F,Haiti,HAI,2020,Tokyo,Athletics,Women's 100m Hurdles,No medal,Women's,ATH,True,False
+Emelia Chatfield,F,Haiti,HAI,2024,Paris,Athletics,Women's 100m Hurdles,No medal,Women's,ATH,False,True

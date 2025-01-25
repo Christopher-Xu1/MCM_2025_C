@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chen Qian,F,China,CHN,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Chen Qian,F,China,CHN,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Chen Qian,F,China,CHN,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Dong Lean,F,China,CHN,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Liang Caixia,F,China,CHN,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Miao Yihua,F,China,CHN,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Wang Jinlin,F,China,CHN,2000,Sydney,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Xiu Xiu,F,China,CHN,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Zhang Xiaonan,F,China,CHN,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Mingyu Zhang,F,China,CHN,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
-Xiaonan Zhang,F,China,CHN,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False
-Mingyu Zhang,F,China,CHN,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chen Qian,F,China,CHN,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,True
+Chen Qian,F,China,CHN,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Chen Qian,F,China,CHN,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Dong Lean,F,China,CHN,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Liang Caixia,F,China,CHN,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Miao Yihua,F,China,CHN,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Wang Jinlin,F,China,CHN,2000,Sydney,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Xiu Xiu,F,China,CHN,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Zhang Xiaonan,F,China,CHN,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Mingyu Zhang,F,China,CHN,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,True
+Xiaonan Zhang,F,China,CHN,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False,True
+Mingyu Zhang,F,China,CHN,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,False

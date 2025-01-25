@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nicole Branagh,F,United States-2,USA,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Annett Davis,F,United States-2,USA,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Lauren Fendrick,F,United States-2,USA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Jennifer Johnson-jordan,F,United States-2,USA,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Jennifer Kessy,F,United States-2,USA,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,False
-Holly (-armato),F,United States-2,USA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
-Holly (-armato),F,United States-2,USA,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Bronze,Beach,VBV,True
-Nancy Reno,F,United States-2,USA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-April Ross,F,United States-2,USA,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,False
-Brooke (youngquist-),F,United States-2,USA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Elaine Youngs,F,United States-2,USA,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Bronze,Beach,VBV,True
-Elaine Youngs,F,United States-2,USA,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nicole Branagh,F,United States-2,USA,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Annett Davis,F,United States-2,USA,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Lauren Fendrick,F,United States-2,USA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Jennifer Johnson-jordan,F,United States-2,USA,2000,Sydney,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Jennifer Kessy,F,United States-2,USA,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,False,True
+Holly (-armato),F,United States-2,USA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,True
+Holly (-armato),F,United States-2,USA,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Bronze,Beach,VBV,True,False
+Nancy Reno,F,United States-2,USA,1996,Atlanta,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+April Ross,F,United States-2,USA,2012,London,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Silver,Beach,VBV,False,True
+Brooke (youngquist-),F,United States-2,USA,2016,Rio de Janeiro,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Elaine Youngs,F,United States-2,USA,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,Bronze,Beach,VBV,True,True
+Elaine Youngs,F,United States-2,USA,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,True,False

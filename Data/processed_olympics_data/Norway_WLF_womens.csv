@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ruth Kasirye,F,Norway,NOR,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
-Amena Koanda,F,Norway,NOR,2024,Paris,Weightlifting,Women's 81kg,Gold,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ruth Kasirye,F,Norway,NOR,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True
+Amena Koanda,F,Norway,NOR,2024,Paris,Weightlifting,Women's 81kg,Gold,Women's,WLF,False,True

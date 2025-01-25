@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nathan Bailey,M,United Kingdom,GBR,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False
-Lee Brearley,M,United Kingdom,GBR,2000,Sydney,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False
-Gary Smith,M,United Kingdom,GBR,2004,Athina,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False
-Zak Perzamanos,M,United Kingdom,GBR,2024,Paris,Trampoline Gymnastics,Men,No medal,Men,GTR,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nathan Bailey,M,United Kingdom,GBR,2016,Rio de Janeiro,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False,True
+Lee Brearley,M,United Kingdom,GBR,2000,Sydney,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False,True
+Gary Smith,M,United Kingdom,GBR,2004,Athina,Trampolining,Trampolining Men's Individual,No medal,Trampolining,GTR,False,True
+Zak Perzamanos,M,United Kingdom,GBR,2024,Paris,Trampoline Gymnastics,Men,No medal,Men,GTR,False,True

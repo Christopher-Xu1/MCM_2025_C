@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Laury Perez,F,France,FRA,2024,Paris,Cycling BMX Freestyle,Women's Park,No medal,Women's,BMF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Laury Perez,F,France,FRA,2024,Paris,Cycling BMX Freestyle,Women's Park,No medal,Women's,BMF,False,True

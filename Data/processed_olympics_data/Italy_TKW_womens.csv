@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Veronica Calabrese,F,Italy,ITA,2008,Beijing,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,False
-Daniela Castrignan,F,Italy,ITA,2004,Athina,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False
-Cristiana Corsi,F,Italy,ITA,2000,Sydney,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True
-Cristiana Corsi,F,Italy,ITA,2004,Athina,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True
-Elisabetta Matonti,F,Italy,ITA,2024,Paris,Taekwondo,Women -49kg,No medal,Women,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Veronica Calabrese,F,Italy,ITA,2008,Beijing,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,False,True
+Daniela Castrignan,F,Italy,ITA,2004,Athina,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,False,True
+Cristiana Corsi,F,Italy,ITA,2000,Sydney,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True,True
+Cristiana Corsi,F,Italy,ITA,2004,Athina,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True,False
+Elisabetta Matonti,F,Italy,ITA,2024,Paris,Taekwondo,Women -49kg,No medal,Women,TKW,False,True

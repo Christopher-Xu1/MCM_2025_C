@@ -1,48 +1,48 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Matas Guruceaga,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Emiliano Antognazza,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Jos Andrade,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True
-Jos Andrade,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True
-Egidio Ros,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Ramn Quinteros,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Pedro Arispe,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True
-Pedro Arispe,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True
-Juan Arremn,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False
-Ren Borjas,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False
-Maximiliano Fuentes,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Martn Delgado,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Antonio Cmpolo,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False
-Adhemar Canavessi,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False
-Hctor Castro,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False
-Edinson Gmez,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Jos Urriza,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True
-Jos Urriza,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True
-Sebastin Nin,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Lorenzo Fernndez,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False
-Roberto Figueroa,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False
-Jos Pose,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False
-Alfredo Ghierra,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,False
-Abel Platero,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Marcelo Bentez,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Andrs Mazzali,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True
-Andrs Mazzali,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True
-Jos Yarza,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True
-Jos Yarza,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True
-Jos Naya,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,False
-Pedro Schiavone,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True
-Pedro Schiavone,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True
-Juan Priz,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False
-Gastn Pereyra,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Diego Berrini,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Germn Fernndez,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Alfredo Romano,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,False
-Hctor Beretta,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True
-Hctor Beretta,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True
-Luis Daz,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Humberto Tomassina,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,False
-Santos Barrena,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True
-Santos Barrena,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True
-Jonathan Luz,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Jos Vidal,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,False
-Tabar Mora,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False
-Alfredo Zibecchi,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Matas Guruceaga,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Emiliano Antognazza,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Jos Andrade,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True,True
+Jos Andrade,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True,False
+Egidio Ros,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Ramn Quinteros,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Pedro Arispe,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True,True
+Pedro Arispe,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True,False
+Juan Arremn,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False,True
+Ren Borjas,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False,True
+Maximiliano Fuentes,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Martn Delgado,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Antonio Cmpolo,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False,True
+Adhemar Canavessi,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False,True
+Hctor Castro,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False,True
+Edinson Gmez,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Jos Urriza,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True,True
+Jos Urriza,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True,False
+Sebastin Nin,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Lorenzo Fernndez,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False,True
+Roberto Figueroa,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False,True
+Jos Pose,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False,True
+Alfredo Ghierra,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,False,True
+Abel Platero,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Marcelo Bentez,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Andrs Mazzali,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True,True
+Andrs Mazzali,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True,False
+Jos Yarza,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True,True
+Jos Yarza,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True,False
+Jos Naya,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,False,True
+Pedro Schiavone,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True,True
+Pedro Schiavone,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True,False
+Juan Priz,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,False,True
+Gastn Pereyra,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Diego Berrini,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Germn Fernndez,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Alfredo Romano,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,False,True
+Hctor Beretta,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True,True
+Hctor Beretta,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True,False
+Luis Daz,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Humberto Tomassina,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,False,True
+Santos Barrena,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,True,True
+Santos Barrena,M,Uruguay,URU,1928,Amsterdam,Football,Football Men's Football,Gold,Football,FBL,True,False
+Jonathan Luz,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Jos Vidal,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,False,True
+Tabar Mora,M,Uruguay,URU,2012,London,Football,Football Men's Football,No medal,Football,FBL,False,True
+Alfredo Zibecchi,M,Uruguay,URU,1924,Paris,Football,Football Men's Football,Gold,Football,FBL,False,True

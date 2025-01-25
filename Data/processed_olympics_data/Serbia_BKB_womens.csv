@@ -1,37 +1,37 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Dajana Butulija,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True
-Saa Ao,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Aleksandra Crvendaki,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Ana Dabovi,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Milica Dabovi,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Nevena Jovanovi,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Sara Krnji,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Jelena Milovanovi,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Danielle Page,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Sonja Petrovi,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Tamara Radoaj,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Dragana Stankovi,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False
-Yvonne Anderson,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True
-Jelena Brooks,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False
-Dajana Butulija,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True
-Sasa Cado,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False
-Aleksandra Crvendakic,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False
-Ana Dabovic,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False
-Angela Dugalic,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True
-Nevena Jovanovic,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True
-Tina Krajisnik,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True
-Maja Skoric,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False
-Dragana Stankovic,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True
-Sonja Vasic,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False
-Yvonne Anderson,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,True
-Sasa Cadjo,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,False
-Mina Djordjevic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,False
-Angela Dugalic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,True
-Masa Jankovic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,False
-Nevena Jovanovic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,True
-Aleksandra Katanic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,False
-Tina Krajisnik,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,True
-Jovana Nogic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,False
-Ivana Raca,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,False
-Nadija Smailbegovic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,False
-Dragana Stankovic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Dajana Butulija,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,True,True
+Saa Ao,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Aleksandra Crvendaki,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Ana Dabovi,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Milica Dabovi,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Nevena Jovanovi,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Sara Krnji,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Jelena Milovanovi,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Danielle Page,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Sonja Petrovi,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Tamara Radoaj,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Dragana Stankovi,F,Serbia,SRB,2016,Rio de Janeiro,Basketball,Basketball Women's Basketball,Bronze,Basketball,BKB,False,True
+Yvonne Anderson,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True,True
+Jelena Brooks,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False,True
+Dajana Butulija,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True,False
+Sasa Cado,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False,True
+Aleksandra Crvendakic,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False,True
+Ana Dabovic,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False,True
+Angela Dugalic,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True,True
+Nevena Jovanovic,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True,True
+Tina Krajisnik,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True,True
+Maja Skoric,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False,True
+Dragana Stankovic,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,True,True
+Sonja Vasic,F,Serbia,SRB,2020,Tokyo,Basketball,Women Team,No medal,Women,BKB,False,True
+Yvonne Anderson,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,True,False
+Sasa Cadjo,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,False,True
+Mina Djordjevic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,False,True
+Angela Dugalic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,True,False
+Masa Jankovic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,False,True
+Nevena Jovanovic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,True,False
+Aleksandra Katanic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,False,True
+Tina Krajisnik,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,True,False
+Jovana Nogic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,False,True
+Ivana Raca,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,False,True
+Nadija Smailbegovic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,False,True
+Dragana Stankovic,F,Serbia,SRB,2024,Paris,Basketball,Women,No medal,Women,BKB,True,False

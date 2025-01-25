@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andrea Brewster,F,Ireland,IRL,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False
-Aisling Byrne-bowman,F,Ireland,IRL,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Aisling Byrne-bowman,F,Ireland,IRL,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Louise (-reeser),F,Ireland,IRL,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Maria Coleman,F,Ireland,IRL,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Maria Coleman,F,Ireland,IRL,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Denise Lyttle,F,Ireland,IRL,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Denise Lyttle,F,Ireland,IRL,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Catherine (-murphy),F,Ireland,IRL,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Annalise Murphy,F,Ireland,IRL,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Annalise Murphy,F,Ireland,IRL,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,Silver,Sailing,SAL,True
-Ciara Peelo,F,Ireland,IRL,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Saskia Tidey,F,Ireland,IRL,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False
-Annalise Murphy,F,Ireland,IRL,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,True
-McMAHON Eve,F,Ireland,IRL,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andrea Brewster,F,Ireland,IRL,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False,True
+Aisling Byrne-bowman,F,Ireland,IRL,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Aisling Byrne-bowman,F,Ireland,IRL,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Louise (-reeser),F,Ireland,IRL,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Maria Coleman,F,Ireland,IRL,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Maria Coleman,F,Ireland,IRL,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Denise Lyttle,F,Ireland,IRL,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Denise Lyttle,F,Ireland,IRL,1996,Atlanta,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Catherine (-murphy),F,Ireland,IRL,1988,Seoul,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Annalise Murphy,F,Ireland,IRL,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Annalise Murphy,F,Ireland,IRL,2016,Rio de Janeiro,Sailing,Sailing Women's One Person Dinghy,Silver,Sailing,SAL,True,False
+Ciara Peelo,F,Ireland,IRL,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Saskia Tidey,F,Ireland,IRL,2016,Rio de Janeiro,Sailing,Sailing Women's Skiff,No medal,Sailing,SAL,False,True
+Annalise Murphy,F,Ireland,IRL,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,True,False
+McMAHON Eve,F,Ireland,IRL,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False,True

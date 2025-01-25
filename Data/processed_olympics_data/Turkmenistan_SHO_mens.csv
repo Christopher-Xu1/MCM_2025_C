@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Igor Pirekeyev,M,Turkmenistan,TKM,1996,Atlanta,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Igor Pirekeyev,M,Turkmenistan,TKM,2000,Sydney,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Igor Pirekeyev,M,Turkmenistan,TKM,2004,Athina,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Igor Pirekeyev,M,Turkmenistan,TKM,2004,Athina,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Igor Pirekeyev,M,Turkmenistan,TKM,1996,Atlanta,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Igor Pirekeyev,M,Turkmenistan,TKM,2000,Sydney,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Igor Pirekeyev,M,Turkmenistan,TKM,2004,Athina,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Igor Pirekeyev,M,Turkmenistan,TKM,2004,Athina,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False

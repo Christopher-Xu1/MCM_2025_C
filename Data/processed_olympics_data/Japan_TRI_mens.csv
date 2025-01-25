@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hideo Fukui,M,Japan,JPN,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Yuichi Hosoda,M,Japan,JPN,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Hiroyuki Nishiuchi,M,Japan,JPN,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Hiroyuki Nishiuchi,M,Japan,JPN,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Takumi Obara,M,Japan,JPN,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Hirokatsu Tayama,M,Japan,JPN,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Hirokatsu Tayama,M,Japan,JPN,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Hirokatsu Tayama,M,Japan,JPN,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Hirokatsu Tayama,M,Japan,JPN,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Ryosuke Yamamoto,M,Japan,JPN,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Kenji Nener,M,Japan,JPN,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Kenji Nener,M,Japan,JPN,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Makoto Odakura,M,Japan,JPN,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Makoto Odakura,M,Japan,JPN,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True
-Kenji Nener,M,Japan,JPN,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Makoto Odakura,M,Japan,JPN,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hideo Fukui,M,Japan,JPN,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Yuichi Hosoda,M,Japan,JPN,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Hiroyuki Nishiuchi,M,Japan,JPN,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Hiroyuki Nishiuchi,M,Japan,JPN,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Takumi Obara,M,Japan,JPN,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Hirokatsu Tayama,M,Japan,JPN,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Hirokatsu Tayama,M,Japan,JPN,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Hirokatsu Tayama,M,Japan,JPN,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Hirokatsu Tayama,M,Japan,JPN,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Ryosuke Yamamoto,M,Japan,JPN,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Kenji Nener,M,Japan,JPN,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Kenji Nener,M,Japan,JPN,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Makoto Odakura,M,Japan,JPN,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,True
+Makoto Odakura,M,Japan,JPN,2020,Tokyo,Triathlon,Mixed Relay Team,No medal,Mixed,TRI,True,True
+Kenji Nener,M,Japan,JPN,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True,False
+Makoto Odakura,M,Japan,JPN,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True,False

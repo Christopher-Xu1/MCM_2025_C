@@ -1,38 +1,38 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Shakira Baker,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,False
-Kelly Brazier,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,True
-Gayle Broughton,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,True
-Theresa Fitzpatrick,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,True
-Sarah Goss,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,False
-Huriana Manuel,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,False
-Kayla Mcalister,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,False
-Tyla Nathan-wong,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,True
-Terina Tamaki,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,False
-Ruby Tui,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,True
-Niall Williams,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,False
-Portia Woodman,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,True
-Michaela Blyde,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True
-Kelly Brazier,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True
-Gayle Broughton,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True
-Theresa Fitzpatrick,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True
-Stacey Fluhler,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,False
-Sarah Hirini,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True
-Shiray Kaka,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,False
-Tyla Nathan-wong,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True
-Risi Pouri-lane,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True
-Alena Saili,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True
-Ruby Tui,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True
-Tenika Willison,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,False
-Portia Woodman,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True
-Stacey Waaka,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False
-Alena Saili,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,True
-Risi Pouri-lane,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,True
-Manaia Nuku,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False
-Sarah Hirini,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,True
-Jazmin Felix-hotham,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False
-Michaela Blyde,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,True
-Tyla King,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False
-Portia Woodman-wickliffe,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False
-Theresa Setefano,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False
-Jorja Miller,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False
-Mahina Paul,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Shakira Baker,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,False,True
+Kelly Brazier,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,True,True
+Gayle Broughton,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,True,True
+Theresa Fitzpatrick,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,True,True
+Sarah Goss,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,False,True
+Huriana Manuel,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,False,True
+Kayla Mcalister,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,False,True
+Tyla Nathan-wong,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,True,True
+Terina Tamaki,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,False,True
+Ruby Tui,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,True,True
+Niall Williams,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,False,True
+Portia Woodman,F,New Zealand,NZL,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Silver,Rugby,RU7,True,True
+Michaela Blyde,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True,True
+Kelly Brazier,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True,False
+Gayle Broughton,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True,False
+Theresa Fitzpatrick,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True,False
+Stacey Fluhler,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,False,True
+Sarah Hirini,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True,True
+Shiray Kaka,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,False,True
+Tyla Nathan-wong,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True,False
+Risi Pouri-lane,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True,True
+Alena Saili,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True,True
+Ruby Tui,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True,False
+Tenika Willison,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,False,True
+Portia Woodman,F,New Zealand,NZL,2020,Tokyo,Rugby Sevens,Women Team,Gold,Women,RU7,True,False
+Stacey Waaka,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False,True
+Alena Saili,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,True,False
+Risi Pouri-lane,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,True,False
+Manaia Nuku,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False,True
+Sarah Hirini,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,True,False
+Jazmin Felix-hotham,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False,True
+Michaela Blyde,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,True,False
+Tyla King,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False,True
+Portia Woodman-wickliffe,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False,True
+Theresa Setefano,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False,True
+Jorja Miller,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False,True
+Mahina Paul,F,New Zealand,NZL,2024,Paris,Rugby Sevens,Women,Gold,Women,RU7,False,True

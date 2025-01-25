@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yarie Camara,F,Guinea,GUI,2020,Tokyo,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yarie Camara,F,Guinea,GUI,2020,Tokyo,Wrestling,Women's Freestyle 57kg,No medal,Women's,WRF,False,True

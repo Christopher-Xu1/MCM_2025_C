@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rodolfo Rincn,M,Mexico,MEX,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False
-Abraham Ancer,M,Mexico,MEX,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
-Carlos Ortiz,M,Mexico,MEX,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
-Abraham Ancer,M,Mexico,MEX,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
-Carlos Ortiz,M,Mexico,MEX,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rodolfo Rincn,M,Mexico,MEX,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,False,True
+Abraham Ancer,M,Mexico,MEX,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,True
+Carlos Ortiz,M,Mexico,MEX,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,True
+Abraham Ancer,M,Mexico,MEX,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,False
+Carlos Ortiz,M,Mexico,MEX,2024,Paris,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,False

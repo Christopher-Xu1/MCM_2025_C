@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Petra Mandula,F,Hungary-2,HUN,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
-Kyra Nagy,F,Hungary-2,HUN,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Petra Mandula,F,Hungary-2,HUN,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True
+Kyra Nagy,F,Hungary-2,HUN,2004,Athina,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False,True

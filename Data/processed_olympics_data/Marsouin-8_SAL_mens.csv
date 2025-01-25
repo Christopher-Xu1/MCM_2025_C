@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pierre Moussette,M,Marsouin-8,FRA,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pierre Moussette,M,Marsouin-8,FRA,1900,Paris,Sailing,Sailing Mixed 3-10 Ton,No medal,Sailing,SAL,False,True

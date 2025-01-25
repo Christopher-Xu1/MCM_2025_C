@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nina Ligon,F,Thailand,THA,2012,London,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False
-Arinadtha Chavatanont,F,Thailand,THA,2020,Tokyo,Equestrian,Eventing Team,No medal,Eventing,EVE,True
-Arinadtha Chavatanont,F,Thailand,THA,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nina Ligon,F,Thailand,THA,2012,London,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",No medal,Equestrianism,EVE,False,True
+Arinadtha Chavatanont,F,Thailand,THA,2020,Tokyo,Equestrian,Eventing Team,No medal,Eventing,EVE,True,True
+Arinadtha Chavatanont,F,Thailand,THA,2020,Tokyo,Equestrian,Eventing Individual,No medal,Eventing,EVE,True,True

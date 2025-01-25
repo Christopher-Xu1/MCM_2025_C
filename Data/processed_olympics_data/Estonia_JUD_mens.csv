@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aleksei Budlin,M,Estonia,EST,2000,Sydney,Judo,Judo Men's Half-Middleweight,Bronze,Judo,JUD,True
-Aleksei Budlin,M,Estonia,EST,2004,Athina,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Grigori Minakin,M,Estonia,EST,2016,Rio de Janeiro,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Martin Padar,M,Estonia,EST,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Martin Padar,M,Estonia,EST,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Indrek Pertelson,M,Estonia,EST,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
-Indrek Pertelson,M,Estonia,EST,1996,Atlanta,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Indrek Pertelson,M,Estonia,EST,2000,Sydney,Judo,Judo Men's Heavyweight,Bronze,Judo,JUD,True
-Indrek Pertelson,M,Estonia,EST,2004,Athina,Judo,Judo Men's Heavyweight,Bronze,Judo,JUD,True
-Grigori Minaskin,M,Estonia,EST,2020,Tokyo,Judo,Men -100 kg,No medal,Men,JUD,False
-Kristofer Kaljulaid,M,Estonia,EST,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aleksei Budlin,M,Estonia,EST,2000,Sydney,Judo,Judo Men's Half-Middleweight,Bronze,Judo,JUD,True,True
+Aleksei Budlin,M,Estonia,EST,2004,Athina,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Grigori Minakin,M,Estonia,EST,2016,Rio de Janeiro,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Martin Padar,M,Estonia,EST,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,True
+Martin Padar,M,Estonia,EST,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Indrek Pertelson,M,Estonia,EST,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True,True
+Indrek Pertelson,M,Estonia,EST,1996,Atlanta,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Indrek Pertelson,M,Estonia,EST,2000,Sydney,Judo,Judo Men's Heavyweight,Bronze,Judo,JUD,True,False
+Indrek Pertelson,M,Estonia,EST,2004,Athina,Judo,Judo Men's Heavyweight,Bronze,Judo,JUD,True,False
+Grigori Minaskin,M,Estonia,EST,2020,Tokyo,Judo,Men -100 kg,No medal,Men,JUD,False,True
+Kristofer Kaljulaid,M,Estonia,EST,2024,Paris,Judo,Men -90 kg,No medal,Men,JUD,False,True

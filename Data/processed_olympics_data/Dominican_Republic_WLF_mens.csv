@@ -1,17 +1,17 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Emilio Berroa,M,Dominican Republic,DOM,1972,Munich,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Juan Ortega,M,Dominican Republic,DOM,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-San Cruz,M,Dominican Republic,DOM,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Lus Brito,M,Dominican Republic,DOM,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Alfonso Grullart,M,Dominican Republic,DOM,1996,Atlanta,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Francisco Reynoso,M,Dominican Republic,DOM,1988,Seoul,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Jos Reynoso,M,Dominican Republic,DOM,1988,Seoul,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Rafael Ortega,M,Dominican Republic,DOM,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False
-Frank Cepeda,M,Dominican Republic,DOM,1988,Seoul,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Jos Cruz,M,Dominican Republic,DOM,1968,Mexico City,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Playter Medina,M,Dominican Republic,DOM,2000,Sydney,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Cristian Gmez,M,Dominican Republic,DOM,1988,Seoul,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Mario Figueredo,M,Dominican Republic,DOM,1980,Moskva,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False
-Ramn Nuez,M,Dominican Republic,DOM,1968,Mexico City,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Zacarias Bonnat,M,Dominican Republic,DOM,2020,Tokyo,Weightlifting,Men's 81kg,Silver,Men's,WLF,False
-Alberto Garcia,M,Dominican Republic,DOM,2020,Tokyo,Weightlifting,Men's 61kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Emilio Berroa,M,Dominican Republic,DOM,1972,Munich,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Juan Ortega,M,Dominican Republic,DOM,1992,Barcelona,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+San Cruz,M,Dominican Republic,DOM,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Lus Brito,M,Dominican Republic,DOM,2016,Rio de Janeiro,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Alfonso Grullart,M,Dominican Republic,DOM,1996,Atlanta,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Francisco Reynoso,M,Dominican Republic,DOM,1988,Seoul,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Jos Reynoso,M,Dominican Republic,DOM,1988,Seoul,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Rafael Ortega,M,Dominican Republic,DOM,1976,Montreal,Weightlifting,Weightlifting Men's Flyweight,No medal,Weightlifting,WLF,False,True
+Frank Cepeda,M,Dominican Republic,DOM,1988,Seoul,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Jos Cruz,M,Dominican Republic,DOM,1968,Mexico City,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Playter Medina,M,Dominican Republic,DOM,2000,Sydney,Weightlifting,Weightlifting Men's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Cristian Gmez,M,Dominican Republic,DOM,1988,Seoul,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Mario Figueredo,M,Dominican Republic,DOM,1980,Moskva,Weightlifting,Weightlifting Men's Heavyweight II,No medal,Weightlifting,WLF,False,True
+Ramn Nuez,M,Dominican Republic,DOM,1968,Mexico City,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Zacarias Bonnat,M,Dominican Republic,DOM,2020,Tokyo,Weightlifting,Men's 81kg,Silver,Men's,WLF,False,True
+Alberto Garcia,M,Dominican Republic,DOM,2020,Tokyo,Weightlifting,Men's 61kg,No medal,Men's,WLF,False,True

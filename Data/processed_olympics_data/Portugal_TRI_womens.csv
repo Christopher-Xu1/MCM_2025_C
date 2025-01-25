@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vanessa Fernandes,F,Portugal,POR,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Vanessa Fernandes,F,Portugal,POR,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,Silver,Triathlon,TRI,True
-Melanie Santos,F,Portugal,POR,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Melanie Santos,F,Portugal,POR,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,True
-Maria Tome,F,Portugal,POR,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vanessa Fernandes,F,Portugal,POR,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Vanessa Fernandes,F,Portugal,POR,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,Silver,Triathlon,TRI,True,False
+Melanie Santos,F,Portugal,POR,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,True,True
+Melanie Santos,F,Portugal,POR,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,True,False
+Maria Tome,F,Portugal,POR,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False,True

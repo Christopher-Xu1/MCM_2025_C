@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chen Lin,F,China-1,CHN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Chen Ying,F,China-1,CHN,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Du Jing,F,China-1,CHN,2008,Beijing,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,False
-Gao Ling,F,China-1,CHN,2000,Sydney,Badminton,Badminton Women's Doubles,Bronze,Badminton,BDM,False
-Guan Weizhen,F,China-1,CHN,1992,Barcelona,Badminton,Badminton Women's Doubles,Silver,Badminton,BDM,False
-Nong Qunhua,F,China-1,CHN,1992,Barcelona,Badminton,Badminton Women's Doubles,Silver,Badminton,BDM,False
-Peng Xinyong,F,China-1,CHN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Peng Xinyong,F,China-1,CHN,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Qin Yiyuan,F,China-1,CHN,2000,Sydney,Badminton,Badminton Women's Doubles,Bronze,Badminton,BDM,False
-Tang Yuanting,F,China-1,CHN,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False
-Tian Qing,F,China-1,CHN,2012,London,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,False
-Yang Wei,F,China-1,CHN,2004,Athina,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,False
-Yu Yang,F,China-1,CHN,2008,Beijing,Badminton,Badminton Mixed Doubles,Bronze,Badminton,BDM,True
-Yu Yang,F,China-1,CHN,2008,Beijing,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,True
-Yu Yang,F,China-1,CHN,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True
-Zhang Jiewen,F,China-1,CHN,2004,Athina,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,False
-Zhao Tingting,F,China-1,CHN,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Zhao Yunlei,F,China-1,CHN,2012,London,Badminton,Badminton Mixed Doubles,Gold,Badminton,BDM,True
-Zhao Yunlei,F,China-1,CHN,2012,London,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,True
-Zhao Yunlei,F,China-1,CHN,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,Bronze,Badminton,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chen Lin,F,China-1,CHN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Chen Ying,F,China-1,CHN,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Du Jing,F,China-1,CHN,2008,Beijing,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,False,True
+Gao Ling,F,China-1,CHN,2000,Sydney,Badminton,Badminton Women's Doubles,Bronze,Badminton,BDM,False,True
+Guan Weizhen,F,China-1,CHN,1992,Barcelona,Badminton,Badminton Women's Doubles,Silver,Badminton,BDM,False,True
+Nong Qunhua,F,China-1,CHN,1992,Barcelona,Badminton,Badminton Women's Doubles,Silver,Badminton,BDM,False,True
+Peng Xinyong,F,China-1,CHN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Peng Xinyong,F,China-1,CHN,1996,Atlanta,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,True
+Qin Yiyuan,F,China-1,CHN,2000,Sydney,Badminton,Badminton Women's Doubles,Bronze,Badminton,BDM,False,True
+Tang Yuanting,F,China-1,CHN,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,False,True
+Tian Qing,F,China-1,CHN,2012,London,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,False,True
+Yang Wei,F,China-1,CHN,2004,Athina,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,False,True
+Yu Yang,F,China-1,CHN,2008,Beijing,Badminton,Badminton Mixed Doubles,Bronze,Badminton,BDM,True,True
+Yu Yang,F,China-1,CHN,2008,Beijing,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,True,True
+Yu Yang,F,China-1,CHN,2016,Rio de Janeiro,Badminton,Badminton Women's Doubles,No medal,Badminton,BDM,True,False
+Zhang Jiewen,F,China-1,CHN,2004,Athina,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,False,True
+Zhao Tingting,F,China-1,CHN,2004,Athina,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Zhao Yunlei,F,China-1,CHN,2012,London,Badminton,Badminton Mixed Doubles,Gold,Badminton,BDM,True,True
+Zhao Yunlei,F,China-1,CHN,2012,London,Badminton,Badminton Women's Doubles,Gold,Badminton,BDM,True,True
+Zhao Yunlei,F,China-1,CHN,2016,Rio de Janeiro,Badminton,Badminton Mixed Doubles,Bronze,Badminton,BDM,True,False

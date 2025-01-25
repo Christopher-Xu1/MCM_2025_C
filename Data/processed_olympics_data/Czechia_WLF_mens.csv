@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kamil Kucera,M,Czechia,CZE,2024,Paris,Weightlifting,Men's +102kg,No medal,Men's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kamil Kucera,M,Czechia,CZE,2024,Paris,Weightlifting,Men's +102kg,No medal,Men's,WLF,False,True

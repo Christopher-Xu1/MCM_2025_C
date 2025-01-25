@@ -1,41 +1,41 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maximiliano Salazar,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Maximiliano Salazar,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Ral Guerrero,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Rafael Lpez,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Vctorino Beristain,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Virgilio Medina,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Manuel Aparicio,M,Mexico,MEX,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Ricardo Galaviz,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Germn Martnez,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Rolando Martnez,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Arturo Albaradejo,M,Mexico,MEX,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Jorge Coste,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Oscar Trujillo,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Armando Alatorre,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Armando Alatorre,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Francisco Moreno,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Francisco Moreno,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Francisco Moreno,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Juan Moreno,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Juan Moreno,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Juan Moreno,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Vctor Moreno,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Daniel Bilbao,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Daniel Bilbao,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Daniel Bilbao,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Javier Cangas,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Luis Martnez,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Modesto Ramos,M,Mexico,MEX,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Carlos Nez,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Gustavo Rodrigo,M,Mexico,MEX,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Jos Rodrigo,M,Mexico,MEX,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Otilio Rodrigo,M,Mexico,MEX,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Sergio Orio,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Alfredo Martnez,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Alfred Ruke,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Juan Cid,M,Mexico,MEX,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Arturo Cadena,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Arturo Cadena,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Jos Vsquez,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Juan Resendiz,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maximiliano Salazar,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,True
+Maximiliano Salazar,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,False
+Ral Guerrero,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Rafael Lpez,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Vctorino Beristain,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Virgilio Medina,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Manuel Aparicio,M,Mexico,MEX,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Ricardo Galaviz,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Germn Martnez,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Rolando Martnez,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Arturo Albaradejo,M,Mexico,MEX,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Jorge Coste,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Oscar Trujillo,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Armando Alatorre,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,True
+Armando Alatorre,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,False
+Francisco Moreno,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,True
+Francisco Moreno,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,False
+Francisco Moreno,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,False
+Juan Moreno,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,True
+Juan Moreno,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,False
+Juan Moreno,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,False
+Vctor Moreno,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Daniel Bilbao,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,True
+Daniel Bilbao,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,False
+Daniel Bilbao,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,False
+Javier Cangas,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Luis Martnez,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Modesto Ramos,M,Mexico,MEX,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Carlos Nez,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Gustavo Rodrigo,M,Mexico,MEX,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Jos Rodrigo,M,Mexico,MEX,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Otilio Rodrigo,M,Mexico,MEX,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Sergio Orio,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Alfredo Martnez,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Alfred Ruke,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Juan Cid,M,Mexico,MEX,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Arturo Cadena,M,Mexico,MEX,1972,Munich,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,True
+Arturo Cadena,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,False
+Jos Vsquez,M,Mexico,MEX,1968,Mexico City,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Juan Resendiz,M,Mexico,MEX,1976,Montreal,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True

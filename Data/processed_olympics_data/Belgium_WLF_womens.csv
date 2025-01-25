@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ingeborg Marx,F,Belgium,BEL,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False
-Nina Sterckx,F,Belgium,BEL,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,True
-A Vanbellinghen,F,Belgium,BEL,2020,Tokyo,Weightlifting,Women's +87kg,No medal,Women's,WLF,False
-Nina Sterckx,F,Belgium,BEL,2024,Paris,Weightlifting,Women's 49kg,No medal,Women's,WLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ingeborg Marx,F,Belgium,BEL,2000,Sydney,Weightlifting,Weightlifting Women's Lightweight,No medal,Weightlifting,WLF,False,True
+Nina Sterckx,F,Belgium,BEL,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,True,True
+A Vanbellinghen,F,Belgium,BEL,2020,Tokyo,Weightlifting,Women's +87kg,No medal,Women's,WLF,False,True
+Nina Sterckx,F,Belgium,BEL,2024,Paris,Weightlifting,Women's 49kg,No medal,Women's,WLF,True,False

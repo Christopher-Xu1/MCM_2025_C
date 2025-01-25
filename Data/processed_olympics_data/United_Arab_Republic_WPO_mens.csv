@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohamed Hafiz,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Dorri Said,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Amin Rahman,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Ibrahim Rahman,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Mohamed Azmi,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Moustafa Bakri,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Moukhtar El-gamal,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Gamal El-nazer,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Abdel El-shafei,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Mohamed Khalifa,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohamed Hafiz,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Dorri Said,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Amin Rahman,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Ibrahim Rahman,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Mohamed Azmi,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Moustafa Bakri,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Moukhtar El-gamal,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Gamal El-nazer,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Abdel El-shafei,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Mohamed Khalifa,M,United Arab Republic,UAR,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True

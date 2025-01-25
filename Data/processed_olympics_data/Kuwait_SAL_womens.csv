@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ameena Shah,F,Kuwait,KUW,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ameena Shah,F,Kuwait,KUW,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False,True

@@ -1,27 +1,27 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aleksandr Apanasenok,M,Belarus,BLR,2004,Athina,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False
-Magomed Aripgadzhiyev,M,Belarus,BLR,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,Silver,Boxing,BOX,False
-Dmitry Asanov,M,Belarus,BLR,2016,Rio de Janeiro,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Mikhail Bernadsky,M,Belarus,BLR,2004,Athina,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
-Sergey Bykovsky,M,Belarus,BLR,1996,Atlanta,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Sergey Bykovsky,M,Belarus,BLR,2000,Sydney,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Mikhail Dolgolevets,M,Belarus,BLR,2012,London,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Mikhail Dolgolevets,M,Belarus,BLR,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True
-Sergey (-lyakhovich),M,Belarus,BLR,1996,Atlanta,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False
-Sergey Dychkov,M,Belarus,BLR,1996,Atlanta,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Khavazhi Khatsigov,M,Belarus,BLR,2004,Athina,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True
-Khavazhi Khatsigov,M,Belarus,BLR,2008,Beijing,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True
-Sergey Korneyev,M,Belarus,BLR,2012,London,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Pavel Kostromin,M,Belarus,BLR,2016,Rio de Janeiro,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Ramazan Magomedov,M,Belarus,BLR,2008,Beijing,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Vadim Mezga,M,Belarus,BLR,1996,Atlanta,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Magomed Nurutdinov,M,Belarus,BLR,2008,Beijing,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Sergey Ostroshapkin,M,Belarus,BLR,1996,Atlanta,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Vazgen Safaryants,M,Belarus,BLR,2012,London,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Bato-Munko Vankeyev,M,Belarus,BLR,2004,Athina,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False
-Viktor Zuyev,M,Belarus,BLR,2004,Athina,Boxing,Boxing Men's Heavyweight,Silver,Boxing,BOX,True
-Viktor Zuyev,M,Belarus,BLR,2008,Beijing,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True
-Dzmitry Asanau,M,Belarus,BLR,2020,Tokyo,Boxing,Men's Light (57-63kg),No medal,Men's,BOX,False
-Vitali Bandarenka,M,Belarus,BLR,2020,Tokyo,Boxing,Men's Middle (69-75kg),No medal,Men's,BOX,False
-Aliaksandr Radzionau,M,Belarus,BLR,2020,Tokyo,Boxing,Men's Welter (63-69kg),No medal,Men's,BOX,False
-Uladzislau Smiahlikau,M,Belarus,BLR,2020,Tokyo,Boxing,Men's Heavy (81-91kg),No medal,Men's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aleksandr Apanasenok,M,Belarus,BLR,2004,Athina,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False,True
+Magomed Aripgadzhiyev,M,Belarus,BLR,2004,Athina,Boxing,Boxing Men's Light-Heavyweight,Silver,Boxing,BOX,False,True
+Dmitry Asanov,M,Belarus,BLR,2016,Rio de Janeiro,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Mikhail Bernadsky,M,Belarus,BLR,2004,Athina,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False,True
+Sergey Bykovsky,M,Belarus,BLR,1996,Atlanta,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,True
+Sergey Bykovsky,M,Belarus,BLR,2000,Sydney,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,False
+Mikhail Dolgolevets,M,Belarus,BLR,2012,London,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,True
+Mikhail Dolgolevets,M,Belarus,BLR,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,True,False
+Sergey (-lyakhovich),M,Belarus,BLR,1996,Atlanta,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False,True
+Sergey Dychkov,M,Belarus,BLR,1996,Atlanta,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Khavazhi Khatsigov,M,Belarus,BLR,2004,Athina,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True,True
+Khavazhi Khatsigov,M,Belarus,BLR,2008,Beijing,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,True,False
+Sergey Korneyev,M,Belarus,BLR,2012,London,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Pavel Kostromin,M,Belarus,BLR,2016,Rio de Janeiro,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Ramazan Magomedov,M,Belarus,BLR,2008,Beijing,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Vadim Mezga,M,Belarus,BLR,1996,Atlanta,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Magomed Nurutdinov,M,Belarus,BLR,2008,Beijing,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Sergey Ostroshapkin,M,Belarus,BLR,1996,Atlanta,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Vazgen Safaryants,M,Belarus,BLR,2012,London,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Bato-Munko Vankeyev,M,Belarus,BLR,2004,Athina,Boxing,Boxing Men's Flyweight,No medal,Boxing,BOX,False,True
+Viktor Zuyev,M,Belarus,BLR,2004,Athina,Boxing,Boxing Men's Heavyweight,Silver,Boxing,BOX,True,True
+Viktor Zuyev,M,Belarus,BLR,2008,Beijing,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,True,False
+Dzmitry Asanau,M,Belarus,BLR,2020,Tokyo,Boxing,Men's Light (57-63kg),No medal,Men's,BOX,False,True
+Vitali Bandarenka,M,Belarus,BLR,2020,Tokyo,Boxing,Men's Middle (69-75kg),No medal,Men's,BOX,False,True
+Aliaksandr Radzionau,M,Belarus,BLR,2020,Tokyo,Boxing,Men's Welter (63-69kg),No medal,Men's,BOX,False,True
+Uladzislau Smiahlikau,M,Belarus,BLR,2020,Tokyo,Boxing,Men's Heavy (81-91kg),No medal,Men's,BOX,False,True

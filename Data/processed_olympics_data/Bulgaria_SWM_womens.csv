@@ -1,53 +1,53 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ekaterina Avramova,F,Bulgaria,BUL,2012,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Ekaterina Avramova,F,Bulgaria,BUL,2012,London,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Tanya Bogomilova-dangalakova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Tanya Bogomilova-dangalakova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Tanya Bogomilova-dangalakova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Tanya Bogomilova-dangalakova,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,Gold,Swimming,SWM,True
-Tanya Bogomilova-dangalakova,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Tanya Bogomilova-dangalakova,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Ana Dangalakova,F,Bulgaria,BUL,2004,Athina,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,False
-Sonya Dangalakova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Sonya Dangalakova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
-Sonya Dangalakova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Sonya Dangalakova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Rumyana Dobreva,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,False
-Antoaneta Frenkeva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,Silver,Swimming,SWM,True
-Antoaneta Frenkeva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 200 metres Breaststroke,Bronze,Swimming,SWM,True
-Bistra Gospodinova,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Bistra Gospodinova,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Natasha Khristova,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Natasha Khristova,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Mariya Kocheva,F,Bulgaria,BUL,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Mariya Kocheva,F,Bulgaria,BUL,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
-Ani Kostova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,False
-Dobrinka Mincheva,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Dobrinka Mincheva,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
-Dobrinka Mincheva,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Nevyana Miteva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
-Nevyana Miteva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
-Nevyana Miteva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
-Ani Moneva,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,False
-Ivanka Moralieva,F,Bulgaria,BUL,2000,Sydney,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Ivanka Moralieva,F,Bulgaria,BUL,2000,Sydney,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Ivanka Moralieva,F,Bulgaria,BUL,2000,Sydney,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Ivanka Moralieva,F,Bulgaria,BUL,2004,Athina,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Ivanka Moralieva,F,Bulgaria,BUL,2004,Athina,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Mariya Nikolova,F,Bulgaria,BUL,1968,Mexico City,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Mariya Nikolova,F,Bulgaria,BUL,1968,Mexico City,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Mariya Nikolova,F,Bulgaria,BUL,1968,Mexico City,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Khriska Peycheva,F,Bulgaria,BUL,1972,Munich,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
-Nina Rangelova,F,Bulgaria,BUL,2008,Beijing,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Nina Rangelova,F,Bulgaria,BUL,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Nina Rangelova,F,Bulgaria,BUL,2012,London,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Nina Rangelova,F,Bulgaria,BUL,2012,London,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Nina Rangelova,F,Bulgaria,BUL,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Nina Rangelova,F,Bulgaria,BUL,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Antoaneta Strumenlieva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Antoaneta Strumenlieva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Antoaneta Strumenlieva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Diana Petkova,F,Bulgaria,BUL,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,True
-Diana Petkova,F,Bulgaria,BUL,2020,Tokyo,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,True
-Gabriela Georgieva,F,Bulgaria,BUL,2024,Paris,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,True
-Gabriela Georgieva,F,Bulgaria,BUL,2024,Paris,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ekaterina Avramova,F,Bulgaria,BUL,2012,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Ekaterina Avramova,F,Bulgaria,BUL,2012,London,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Tanya Bogomilova-dangalakova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Tanya Bogomilova-dangalakova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Tanya Bogomilova-dangalakova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Tanya Bogomilova-dangalakova,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,Gold,Swimming,SWM,True,False
+Tanya Bogomilova-dangalakova,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Tanya Bogomilova-dangalakova,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,False
+Ana Dangalakova,F,Bulgaria,BUL,2004,Athina,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,False,True
+Sonya Dangalakova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Sonya Dangalakova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Sonya Dangalakova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Sonya Dangalakova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Rumyana Dobreva,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,False,True
+Antoaneta Frenkeva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,Silver,Swimming,SWM,True,True
+Antoaneta Frenkeva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 200 metres Breaststroke,Bronze,Swimming,SWM,True,True
+Bistra Gospodinova,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Bistra Gospodinova,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Natasha Khristova,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Natasha Khristova,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Mariya Kocheva,F,Bulgaria,BUL,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Mariya Kocheva,F,Bulgaria,BUL,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True,True
+Ani Kostova,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,False,True
+Dobrinka Mincheva,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Dobrinka Mincheva,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True,True
+Dobrinka Mincheva,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Nevyana Miteva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True,True
+Nevyana Miteva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True,True
+Nevyana Miteva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True,True
+Ani Moneva,F,Bulgaria,BUL,1980,Moskva,Swimming,Swimming Women's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,False,True
+Ivanka Moralieva,F,Bulgaria,BUL,2000,Sydney,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Ivanka Moralieva,F,Bulgaria,BUL,2000,Sydney,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Ivanka Moralieva,F,Bulgaria,BUL,2000,Sydney,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Ivanka Moralieva,F,Bulgaria,BUL,2004,Athina,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,False
+Ivanka Moralieva,F,Bulgaria,BUL,2004,Athina,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,False
+Mariya Nikolova,F,Bulgaria,BUL,1968,Mexico City,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Mariya Nikolova,F,Bulgaria,BUL,1968,Mexico City,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Mariya Nikolova,F,Bulgaria,BUL,1968,Mexico City,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Khriska Peycheva,F,Bulgaria,BUL,1972,Munich,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Nina Rangelova,F,Bulgaria,BUL,2008,Beijing,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Nina Rangelova,F,Bulgaria,BUL,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Nina Rangelova,F,Bulgaria,BUL,2012,London,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Nina Rangelova,F,Bulgaria,BUL,2012,London,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,False
+Nina Rangelova,F,Bulgaria,BUL,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Nina Rangelova,F,Bulgaria,BUL,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,False
+Antoaneta Strumenlieva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Antoaneta Strumenlieva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Antoaneta Strumenlieva,F,Bulgaria,BUL,1988,Seoul,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Diana Petkova,F,Bulgaria,BUL,2020,Tokyo,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,True,True
+Diana Petkova,F,Bulgaria,BUL,2020,Tokyo,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,True,True
+Gabriela Georgieva,F,Bulgaria,BUL,2024,Paris,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,True,True
+Gabriela Georgieva,F,Bulgaria,BUL,2024,Paris,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,True,True

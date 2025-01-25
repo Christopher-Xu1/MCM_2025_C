@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Elisabeth Brandau,F,Germany,GER,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,False
-Ronja Eibl,F,Germany,GER,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,False
-Nina Benz,F,Germany,GER,2024,Paris,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Elisabeth Brandau,F,Germany,GER,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,False,True
+Ronja Eibl,F,Germany,GER,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,False,True
+Nina Benz,F,Germany,GER,2024,Paris,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,False,True

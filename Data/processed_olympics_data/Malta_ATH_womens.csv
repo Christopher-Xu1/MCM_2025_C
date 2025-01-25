@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Charlene Attard,F,Malta,MLT,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Tanya-Gee Blake,F,Malta,MLT,2004,Athina,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False
-Diane Borg,F,Malta,MLT,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Deirdre (-farrugia),F,Malta,MLT,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Deirdre (-farrugia),F,Malta,MLT,1992,Barcelona,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Carol Galea,F,Malta,MLT,1992,Barcelona,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Carol Galea,F,Malta,MLT,1992,Barcelona,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True
-Carol Galea,F,Malta,MLT,1996,Atlanta,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True
-Jennifer (-hickey),F,Malta,MLT,1984,Los Angeles,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False
-Suzanne Spiteri,F,Malta,MLT,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Charlotte Wingfield,F,Malta,MLT,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False
-Carla Scicluna,F,Malta,MLT,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Charlene Attard,F,Malta,MLT,2008,Beijing,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Tanya-Gee Blake,F,Malta,MLT,2004,Athina,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,False,True
+Diane Borg,F,Malta,MLT,2012,London,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Deirdre (-farrugia),F,Malta,MLT,1992,Barcelona,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Deirdre (-farrugia),F,Malta,MLT,1992,Barcelona,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Carol Galea,F,Malta,MLT,1992,Barcelona,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Carol Galea,F,Malta,MLT,1992,Barcelona,Athletics,"Athletics Women's 1,500 metres",No medal,Athletics,ATH,True,True
+Carol Galea,F,Malta,MLT,1996,Atlanta,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,True,False
+Jennifer (-hickey),F,Malta,MLT,1984,Los Angeles,Athletics,Athletics Women's Javelin Throw,No medal,Athletics,ATH,False,True
+Suzanne Spiteri,F,Malta,MLT,2000,Sydney,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Charlotte Wingfield,F,Malta,MLT,2016,Rio de Janeiro,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,False,True
+Carla Scicluna,F,Malta,MLT,2020,Tokyo,Athletics,Women's 100m,No medal,Women's,ATH,False,True

@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ruidong Wang,M,China,CHN,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
-Xianjing Lyu,M,China,CHN,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ruidong Wang,M,China,CHN,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True
+Xianjing Lyu,M,China,CHN,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,False,True

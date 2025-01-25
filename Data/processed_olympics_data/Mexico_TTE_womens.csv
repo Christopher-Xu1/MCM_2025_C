@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Yadira Llorente,F,Mexico,MEX,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Yadira Llorente,F,Mexico,MEX,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Yadira Llorente,F,Mexico,MEX,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
-Arantxa Cossio,F,Mexico,MEX,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Yadira Llorente,F,Mexico,MEX,2008,Beijing,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,True
+Yadira Llorente,F,Mexico,MEX,2012,London,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Yadira Llorente,F,Mexico,MEX,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True,False
+Arantxa Cossio,F,Mexico,MEX,2024,Paris,Table Tennis,Women's Singles,No medal,Women's,TTE,False,True

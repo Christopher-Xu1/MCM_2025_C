@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Thinley Dorji,M,Bhutan,BHU,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Thinley Dorji,M,Bhutan,BHU,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Thinley Dorji,M,Bhutan,BHU,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Jubzang Jubzang,M,Bhutan,BHU,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Jubzang Jubzang,M,Bhutan,BHU,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Jubzang Jubzang,M,Bhutan,BHU,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Jubzang Jubzang,M,Bhutan,BHU,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Tashi Peljor,M,Bhutan,BHU,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Tashi Peljor,M,Bhutan,BHU,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Nawang-Dash Pelzang,M,Bhutan,BHU,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Karma Tenzin,M,Bhutan,BHU,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Karma Tenzin,M,Bhutan,BHU,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Jigme Tshering,M,Bhutan,BHU,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Jigme Tshering,M,Bhutan,BHU,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Lhendup Tshering,M,Bhutan,BHU,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
-Pema Tshering,M,Bhutan,BHU,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Pema Tshering,M,Bhutan,BHU,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Pema Tshering,M,Bhutan,BHU,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
-Pema Tshering,M,Bhutan,BHU,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True
-Lam Dorji,M,Bhutan,BHU,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Thinley Dorji,M,Bhutan,BHU,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Thinley Dorji,M,Bhutan,BHU,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Thinley Dorji,M,Bhutan,BHU,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Jubzang Jubzang,M,Bhutan,BHU,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Jubzang Jubzang,M,Bhutan,BHU,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Jubzang Jubzang,M,Bhutan,BHU,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Jubzang Jubzang,M,Bhutan,BHU,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Tashi Peljor,M,Bhutan,BHU,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Tashi Peljor,M,Bhutan,BHU,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Nawang-Dash Pelzang,M,Bhutan,BHU,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Karma Tenzin,M,Bhutan,BHU,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Karma Tenzin,M,Bhutan,BHU,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Jigme Tshering,M,Bhutan,BHU,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Jigme Tshering,M,Bhutan,BHU,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Lhendup Tshering,M,Bhutan,BHU,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True
+Pema Tshering,M,Bhutan,BHU,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True,True
+Pema Tshering,M,Bhutan,BHU,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True,True
+Pema Tshering,M,Bhutan,BHU,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True,False
+Pema Tshering,M,Bhutan,BHU,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True,False
+Lam Dorji,M,Bhutan,BHU,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,False,True

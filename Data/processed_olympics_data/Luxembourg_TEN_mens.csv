@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gilles Mller,M,Luxembourg,LUX,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Gilles Mller,M,Luxembourg,LUX,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Camille Wolff,M,Luxembourg,LUX,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gilles Mller,M,Luxembourg,LUX,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Gilles Mller,M,Luxembourg,LUX,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,False
+Camille Wolff,M,Luxembourg,LUX,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True

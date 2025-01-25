@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maarten Wit,M,Hollandia,NED,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False
-Lambertus Doedes,M,Hollandia,NED,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False
-Hendrik Kersken,M,Hollandia,NED,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False
-Johannes Hoolwerff,M,Hollandia,NED,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False
-Cornelis Staveren,M,Hollandia,NED,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False
-Gerardus Lentsch,M,Hollandia,NED,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maarten Wit,M,Hollandia,NED,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False,True
+Lambertus Doedes,M,Hollandia,NED,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False,True
+Hendrik Kersken,M,Hollandia,NED,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False,True
+Johannes Hoolwerff,M,Hollandia,NED,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False,True
+Cornelis Staveren,M,Hollandia,NED,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False,True
+Gerardus Lentsch,M,Hollandia,NED,1928,Amsterdam,Sailing,Sailing Mixed 8 metres,Silver,Sailing,SAL,False,True

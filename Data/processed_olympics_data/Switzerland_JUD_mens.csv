@@ -1,32 +1,32 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sergei Aschwanden,M,Switzerland,SUI,2000,Sydney,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Sergei Aschwanden,M,Switzerland,SUI,2004,Athina,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Sergei Aschwanden,M,Switzerland,SUI,2008,Beijing,Judo,Judo Men's Middleweight,Bronze,Judo,JUD,True
-Philippe Aubert,M,Switzerland,SUI,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Eric Born,M,Switzerland,SUI,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Marcel Burkhard,M,Switzerland,SUI,1972,Munich,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Marcel Burkhard,M,Switzerland,SUI,1980,Moskva,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Ludovic Chammartin,M,Switzerland,SUI,2012,London,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Ludovic Chammartin,M,Switzerland,SUI,2016,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Lucas Chanson,M,Switzerland,SUI,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Ulrich Falk,M,Switzerland,SUI,1972,Munich,Judo,Judo Men's Open Class,No medal,Judo,JUD,False
-Ciril Grossklaus,M,Switzerland,SUI,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Thomas Hagmann,M,Switzerland,SUI,1976,Montreal,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Thomas Hagmann,M,Switzerland,SUI,1980,Moskva,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Eric Hnni,M,Switzerland,SUI,1964,Tokyo,Judo,Judo Men's Lightweight,Silver,Judo,JUD,False
-Clemens Jehle,M,Switzerland,SUI,1984,Los Angeles,Judo,Judo Men's Open Class,No medal,Judo,JUD,True
-Clemens Jehle,M,Switzerland,SUI,1988,Seoul,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Daniel Kistler,M,Switzerland,SUI,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Frdric Kyburz,M,Switzerland,SUI,1972,Munich,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-David Moret,M,Switzerland,SUI,2000,Sydney,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Pierre Paris,M,Switzerland,SUI,1972,Munich,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Laurent Pellet,M,Switzerland,SUI,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Jrg Rthlisberger,M,Switzerland,SUI,1976,Montreal,Judo,Judo Men's Half-Heavyweight,Bronze,Judo,JUD,True
-Jrg Rthlisberger,M,Switzerland,SUI,1980,Moskva,Judo,Judo Men's Middleweight,Gold,Judo,JUD,True
-Olivier Schaffter,M,Switzerland,SUI,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Olivier Schaffter,M,Switzerland,SUI,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True
-Jean Zinniker,M,Switzerland,SUI,1980,Moskva,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
-Reto Zinsli,M,Switzerland,SUI,1972,Munich,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Nils Stump,M,Switzerland,SUI,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,True
-Daniel Eich,M,Switzerland,SUI,2024,Paris,Judo,Men -100 kg,No medal,Men,JUD,False
-Nils Stump,M,Switzerland,SUI,2024,Paris,Judo,Men -73 kg,No medal,Men,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sergei Aschwanden,M,Switzerland,SUI,2000,Sydney,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Sergei Aschwanden,M,Switzerland,SUI,2004,Athina,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Sergei Aschwanden,M,Switzerland,SUI,2008,Beijing,Judo,Judo Men's Middleweight,Bronze,Judo,JUD,True,False
+Philippe Aubert,M,Switzerland,SUI,1972,Munich,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Eric Born,M,Switzerland,SUI,1992,Barcelona,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Marcel Burkhard,M,Switzerland,SUI,1972,Munich,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Marcel Burkhard,M,Switzerland,SUI,1980,Moskva,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False
+Ludovic Chammartin,M,Switzerland,SUI,2012,London,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Ludovic Chammartin,M,Switzerland,SUI,2016,Rio de Janeiro,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False
+Lucas Chanson,M,Switzerland,SUI,1984,Los Angeles,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Ulrich Falk,M,Switzerland,SUI,1972,Munich,Judo,Judo Men's Open Class,No medal,Judo,JUD,False,True
+Ciril Grossklaus,M,Switzerland,SUI,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Thomas Hagmann,M,Switzerland,SUI,1976,Montreal,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Thomas Hagmann,M,Switzerland,SUI,1980,Moskva,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Eric Hnni,M,Switzerland,SUI,1964,Tokyo,Judo,Judo Men's Lightweight,Silver,Judo,JUD,False,True
+Clemens Jehle,M,Switzerland,SUI,1984,Los Angeles,Judo,Judo Men's Open Class,No medal,Judo,JUD,True,True
+Clemens Jehle,M,Switzerland,SUI,1988,Seoul,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Daniel Kistler,M,Switzerland,SUI,1992,Barcelona,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Frdric Kyburz,M,Switzerland,SUI,1972,Munich,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+David Moret,M,Switzerland,SUI,2000,Sydney,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Pierre Paris,M,Switzerland,SUI,1972,Munich,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Laurent Pellet,M,Switzerland,SUI,1992,Barcelona,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Jrg Rthlisberger,M,Switzerland,SUI,1976,Montreal,Judo,Judo Men's Half-Heavyweight,Bronze,Judo,JUD,True,True
+Jrg Rthlisberger,M,Switzerland,SUI,1980,Moskva,Judo,Judo Men's Middleweight,Gold,Judo,JUD,True,False
+Olivier Schaffter,M,Switzerland,SUI,1988,Seoul,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,True
+Olivier Schaffter,M,Switzerland,SUI,1992,Barcelona,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,True,False
+Jean Zinniker,M,Switzerland,SUI,1980,Moskva,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False,True
+Reto Zinsli,M,Switzerland,SUI,1972,Munich,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Nils Stump,M,Switzerland,SUI,2020,Tokyo,Judo,Men -73 kg,No medal,Men,JUD,True,True
+Daniel Eich,M,Switzerland,SUI,2024,Paris,Judo,Men -100 kg,No medal,Men,JUD,False,True
+Nils Stump,M,Switzerland,SUI,2024,Paris,Judo,Men -73 kg,No medal,Men,JUD,True,False

@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ronald Forbes,M,Cayman Islands,CAY,2008,Beijing,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Ronald Forbes,M,Cayman Islands,CAY,2012,London,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Ronald Forbes,M,Cayman Islands,CAY,2016,Rio de Janeiro,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Paul Hurlston,M,Cayman Islands,CAY,1988,Seoul,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,False
-Kemar Hyman,M,Cayman Islands,CAY,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Kemar Hyman,M,Cayman Islands,CAY,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Kareem Streete-thompson,M,Cayman Islands,CAY,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Kareem Streete-thompson,M,Cayman Islands,CAY,1992,Barcelona,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Kareem Streete-thompson,M,Cayman Islands,CAY,2000,Sydney,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Kareem Streete-thompson,M,Cayman Islands,CAY,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Kareem Streete-thompson,M,Cayman Islands,CAY,2004,Athina,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Kemar Hyman,M,Cayman Islands,CAY,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,True
-Davonte Howell,M,Cayman Islands,CAY,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ronald Forbes,M,Cayman Islands,CAY,2008,Beijing,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,True
+Ronald Forbes,M,Cayman Islands,CAY,2012,London,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,False
+Ronald Forbes,M,Cayman Islands,CAY,2016,Rio de Janeiro,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,False
+Paul Hurlston,M,Cayman Islands,CAY,1988,Seoul,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,False,True
+Kemar Hyman,M,Cayman Islands,CAY,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Kemar Hyman,M,Cayman Islands,CAY,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Kareem Streete-thompson,M,Cayman Islands,CAY,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Kareem Streete-thompson,M,Cayman Islands,CAY,1992,Barcelona,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,True
+Kareem Streete-thompson,M,Cayman Islands,CAY,2000,Sydney,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,False
+Kareem Streete-thompson,M,Cayman Islands,CAY,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Kareem Streete-thompson,M,Cayman Islands,CAY,2004,Athina,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,False
+Kemar Hyman,M,Cayman Islands,CAY,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,True,False
+Davonte Howell,M,Cayman Islands,CAY,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True

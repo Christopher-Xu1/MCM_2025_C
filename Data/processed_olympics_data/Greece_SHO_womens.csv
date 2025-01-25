@@ -1,24 +1,24 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Athina Douka,F,Greece,GRE,2012,London,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Maria Faka,F,Greece,GRE,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Marina Karaflou,F,Greece,GRE,2004,Athina,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Agathi Kasoumi,F,Greece,GRE,1984,Los Angeles,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Agathi Kasoumi,F,Greece,GRE,1988,Seoul,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Agathi Kasoumi,F,Greece,GRE,1988,Seoul,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Agathi Kasoumi,F,Greece,GRE,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Agathi Kasoumi,F,Greece,GRE,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Agathi Kasoumi,F,Greece,GRE,1996,Atlanta,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Agathi Kasoumi,F,Greece,GRE,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Agathi Kasoumi,F,Greece,GRE,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Agathi Kasoumi,F,Greece,GRE,2004,Athina,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Anna Korakaki,F,Greece,GRE,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Pistol, 10 metres",Bronze,Shooting,SHO,True
-Anna Korakaki,F,Greece,GRE,2016,Rio de Janeiro,Shooting,"Shooting Women's Sporting Pistol, 25 metres",Gold,Shooting,SHO,True
-Aikaterini Kotroni,F,Greece,GRE,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Alexia Smyrli,F,Greece,GRE,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Anna Korakaki,F,Greece,GRE,2020,Tokyo,Shooting,10m Air Pistol Women,No medal,10m,SHO,True
-Anna Korakaki,F,Greece,GRE,2020,Tokyo,Shooting,25m Pistol Women,No medal,25m,SHO,True
-Anna Korakaki,F,Greece,GRE,2024,Paris,Shooting,10m Air Pistol Women,No medal,10m,SHO,True
-Anna Korakaki,F,Greece,GRE,2024,Paris,Shooting,25m Pistol Women,No medal,25m,SHO,True
-Christina Moschi,F,Greece,GRE,2024,Paris,Shooting,10m Air Pistol Women,No medal,10m,SHO,False
-Emmanouela Katzouraki,F,Greece,GRE,2024,Paris,Shooting,Skeet Women,No medal,Skeet,SHO,True
-Emmanouela Katzouraki,F,Greece,GRE,2024,Paris,Shooting,Skeet Mixed Team,No medal,Skeet,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Athina Douka,F,Greece,GRE,2012,London,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Maria Faka,F,Greece,GRE,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Marina Karaflou,F,Greece,GRE,2004,Athina,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Agathi Kasoumi,F,Greece,GRE,1984,Los Angeles,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Agathi Kasoumi,F,Greece,GRE,1988,Seoul,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Agathi Kasoumi,F,Greece,GRE,1988,Seoul,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Agathi Kasoumi,F,Greece,GRE,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Agathi Kasoumi,F,Greece,GRE,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Agathi Kasoumi,F,Greece,GRE,1996,Atlanta,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Agathi Kasoumi,F,Greece,GRE,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Agathi Kasoumi,F,Greece,GRE,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Agathi Kasoumi,F,Greece,GRE,2004,Athina,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Anna Korakaki,F,Greece,GRE,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Pistol, 10 metres",Bronze,Shooting,SHO,True,True
+Anna Korakaki,F,Greece,GRE,2016,Rio de Janeiro,Shooting,"Shooting Women's Sporting Pistol, 25 metres",Gold,Shooting,SHO,True,True
+Aikaterini Kotroni,F,Greece,GRE,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Alexia Smyrli,F,Greece,GRE,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Anna Korakaki,F,Greece,GRE,2020,Tokyo,Shooting,10m Air Pistol Women,No medal,10m,SHO,True,False
+Anna Korakaki,F,Greece,GRE,2020,Tokyo,Shooting,25m Pistol Women,No medal,25m,SHO,True,False
+Anna Korakaki,F,Greece,GRE,2024,Paris,Shooting,10m Air Pistol Women,No medal,10m,SHO,True,False
+Anna Korakaki,F,Greece,GRE,2024,Paris,Shooting,25m Pistol Women,No medal,25m,SHO,True,False
+Christina Moschi,F,Greece,GRE,2024,Paris,Shooting,10m Air Pistol Women,No medal,10m,SHO,False,True
+Emmanouela Katzouraki,F,Greece,GRE,2024,Paris,Shooting,Skeet Women,No medal,Skeet,SHO,True,True
+Emmanouela Katzouraki,F,Greece,GRE,2024,Paris,Shooting,Skeet Mixed Team,No medal,Skeet,SHO,True,True

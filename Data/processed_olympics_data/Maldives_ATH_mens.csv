@@ -1,29 +1,29 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abdul Latheef,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Abdul Aboobakur,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Azneem Ahmed,M,Maldives,MDV,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Mohamed Amir,M,Maldives,MDV,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Mohamed Amir,M,Maldives,MDV,1996,Atlanta,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Mohamed Amir,M,Maldives,MDV,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Ismail Waheed,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Ismail Waheed,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Ismail Waheed,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Hussein Haleem,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Hussein Haleem,M,Maldives,MDV,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Mohamed Hanim,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Naseer Ismail,M,Maldives,MDV,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Naseer Ismail,M,Maldives,MDV,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Naseer Ismail,M,Maldives,MDV,2000,Sydney,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Ibrahim Manik,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Hussain Riyaz,M,Maldives,MDV,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Hussain Riyaz,M,Maldives,MDV,1996,Atlanta,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
-Hussain Riyaz,M,Maldives,MDV,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Hassan Saaid,M,Maldives,MDV,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Sultan Saeed,M,Maldives,MDV,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Ahmed Shageef,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Ahmed Shageef,M,Maldives,MDV,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Ahmed Shageef,M,Maldives,MDV,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Ahmed Shageef,M,Maldives,MDV,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Ali Shareef,M,Maldives,MDV,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Hassan Saaid,M,Maldives,MDV,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,True
-Ibadulla Adam,M,Maldives,MDV,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abdul Latheef,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Abdul Aboobakur,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Azneem Ahmed,M,Maldives,MDV,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Mohamed Amir,M,Maldives,MDV,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Mohamed Amir,M,Maldives,MDV,1996,Atlanta,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,False
+Mohamed Amir,M,Maldives,MDV,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,False
+Ismail Waheed,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Ismail Waheed,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Ismail Waheed,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Hussein Haleem,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,True
+Hussein Haleem,M,Maldives,MDV,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Mohamed Hanim,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Naseer Ismail,M,Maldives,MDV,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Naseer Ismail,M,Maldives,MDV,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Naseer Ismail,M,Maldives,MDV,2000,Sydney,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Ibrahim Manik,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Hussain Riyaz,M,Maldives,MDV,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Hussain Riyaz,M,Maldives,MDV,1996,Atlanta,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True,False
+Hussain Riyaz,M,Maldives,MDV,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,False
+Hassan Saaid,M,Maldives,MDV,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Sultan Saeed,M,Maldives,MDV,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Ahmed Shageef,M,Maldives,MDV,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Ahmed Shageef,M,Maldives,MDV,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Ahmed Shageef,M,Maldives,MDV,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Ahmed Shageef,M,Maldives,MDV,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,False
+Ali Shareef,M,Maldives,MDV,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Hassan Saaid,M,Maldives,MDV,2020,Tokyo,Athletics,Men's 100m,No medal,Men's,ATH,True,False
+Ibadulla Adam,M,Maldives,MDV,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True

@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Strand Amundsen,F,Norway,NOR,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,False
-Margrete Sletsjoee,F,Norway,NOR,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True
-Margrete Sletsjoee,F,Norway,NOR,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True
-Maria Virik,F,Norway,NOR,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True
-Maria Virik,F,Norway,NOR,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True
-Hedda Oritsland,F,Norway,NOR,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True
-Hedda Oritsland,F,Norway,NOR,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Strand Amundsen,F,Norway,NOR,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,False,True
+Margrete Sletsjoee,F,Norway,NOR,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True,True
+Margrete Sletsjoee,F,Norway,NOR,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True,True
+Maria Virik,F,Norway,NOR,2024,Paris,Canoe Sprint,Women's Kayak Double 500m,No medal,Women's,CSP,True,True
+Maria Virik,F,Norway,NOR,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True,True
+Hedda Oritsland,F,Norway,NOR,2024,Paris,Canoe Sprint,Women's Kayak Single 500m,No medal,Women's,CSP,True,True
+Hedda Oritsland,F,Norway,NOR,2024,Paris,Canoe Sprint,Women's Kayak Four 500m,No medal,Women's,CSP,True,True

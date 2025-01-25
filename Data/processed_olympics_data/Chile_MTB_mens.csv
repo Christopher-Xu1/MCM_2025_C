@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Martin Vidaurre,M,Chile,CHI,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,True
-Martin Vidaurre,M,Chile,CHI,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Martin Vidaurre,M,Chile,CHI,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,True,True
+Martin Vidaurre,M,Chile,CHI,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,True,False

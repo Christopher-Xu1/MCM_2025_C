@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Jr.,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Alphonse Jr.,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Kenneth Carey,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Owen Churchill,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,True
-Owen Churchill,M,Angelita,USA,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,True
-William Cooper,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Francis Davis,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Karl Dorsey,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,True
-Karl Dorsey,M,Angelita,USA,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,True
-John Huettner,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-William Jr.,M,Angelita,USA,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Richard Moore,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Alan Morgan,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Frederick Shick,M,Angelita,USA,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Robert Sutton,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,True
-Robert Sutton,M,Angelita,USA,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,True
-Thomas Webster,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Jr.,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Alphonse Jr.,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Kenneth Carey,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Owen Churchill,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,True,True
+Owen Churchill,M,Angelita,USA,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,True,False
+William Cooper,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Francis Davis,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Karl Dorsey,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,True,True
+Karl Dorsey,M,Angelita,USA,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,True,False
+John Huettner,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+William Jr.,M,Angelita,USA,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Richard Moore,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Alan Morgan,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Frederick Shick,M,Angelita,USA,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Robert Sutton,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,True,True
+Robert Sutton,M,Angelita,USA,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,True,False
+Thomas Webster,M,Angelita,USA,1932,Los Angeles,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True

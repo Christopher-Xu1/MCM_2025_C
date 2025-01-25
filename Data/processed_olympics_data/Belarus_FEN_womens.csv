@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vita (-schestnovich),F,Belarus,BLR,2004,Athina,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vita (-schestnovich),F,Belarus,BLR,2004,Athina,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False,True

@@ -1,39 +1,39 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Frank Battig,M,Austria,AUT,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Frank Battig,M,Austria,AUT,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Edmond Bernhardt,M,Austria,AUT,1912,Stockholm,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Michael Billwein,M,Austria,AUT,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Michael Billwein,M,Austria,AUT,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Udo Birnbaum,M,Austria,AUT,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Udo Birnbaum,M,Austria,AUT,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Udo Birnbaum,M,Austria,AUT,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Udo Birnbaum,M,Austria,AUT,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Thomas Daniel,M,Austria,AUT,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Alfred Guth,M,Austria,AUT,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Bruno Jerebicnik,M,Austria,AUT,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Bruno Jerebicnik,M,Austria,AUT,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Karl Leban,M,Austria,AUT,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Wolfgang Leu,M,Austria,AUT,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Wolfgang Leu,M,Austria,AUT,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Wolfgang Leu,M,Austria,AUT,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Wolfgang Leu,M,Austria,AUT,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Peter Lichtner-hoyer,M,Austria,AUT,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Peter Lichtner-hoyer,M,Austria,AUT,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Ingo Peirits,M,Austria,AUT,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Ingo Peirits,M,Austria,AUT,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Herbert Polzhuber,M,Austria,AUT,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Herbert Polzhuber,M,Austria,AUT,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Wolf-Dietrich Sonnleitner,M,Austria,AUT,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Wolf-Dietrich Sonnleitner,M,Austria,AUT,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Helmut Spannagl,M,Austria,AUT,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Siegfried Springer,M,Austria,AUT,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Siegfried Springer,M,Austria,AUT,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Horst Stocker,M,Austria,AUT,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Horst Stocker,M,Austria,AUT,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Alexander Topay,M,Austria,AUT,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Rudolf Trost,M,Austria,AUT,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Rudolf Trost,M,Austria,AUT,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Helmut Wieser,M,Austria,AUT,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
-Peter Zobl-wessely,M,Austria,AUT,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Peter Zobl-wessely,M,Austria,AUT,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Gustav Gustenau,M,Austria,AUT,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Frank Battig,M,Austria,AUT,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Frank Battig,M,Austria,AUT,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Edmond Bernhardt,M,Austria,AUT,1912,Stockholm,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Michael Billwein,M,Austria,AUT,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Michael Billwein,M,Austria,AUT,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Udo Birnbaum,M,Austria,AUT,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Udo Birnbaum,M,Austria,AUT,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Udo Birnbaum,M,Austria,AUT,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Udo Birnbaum,M,Austria,AUT,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Thomas Daniel,M,Austria,AUT,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Alfred Guth,M,Austria,AUT,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Bruno Jerebicnik,M,Austria,AUT,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Bruno Jerebicnik,M,Austria,AUT,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Karl Leban,M,Austria,AUT,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Wolfgang Leu,M,Austria,AUT,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Wolfgang Leu,M,Austria,AUT,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Wolfgang Leu,M,Austria,AUT,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False
+Wolfgang Leu,M,Austria,AUT,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,False
+Peter Lichtner-hoyer,M,Austria,AUT,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Peter Lichtner-hoyer,M,Austria,AUT,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Ingo Peirits,M,Austria,AUT,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Ingo Peirits,M,Austria,AUT,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Herbert Polzhuber,M,Austria,AUT,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Herbert Polzhuber,M,Austria,AUT,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Wolf-Dietrich Sonnleitner,M,Austria,AUT,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Wolf-Dietrich Sonnleitner,M,Austria,AUT,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Helmut Spannagl,M,Austria,AUT,1988,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Siegfried Springer,M,Austria,AUT,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Siegfried Springer,M,Austria,AUT,1968,Mexico City,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Horst Stocker,M,Austria,AUT,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Horst Stocker,M,Austria,AUT,1984,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Alexander Topay,M,Austria,AUT,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Rudolf Trost,M,Austria,AUT,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Rudolf Trost,M,Austria,AUT,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Helmut Wieser,M,Austria,AUT,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False,True
+Peter Zobl-wessely,M,Austria,AUT,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Peter Zobl-wessely,M,Austria,AUT,1972,Munich,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Gustav Gustenau,M,Austria,AUT,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False,True

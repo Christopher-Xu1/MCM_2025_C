@@ -1,21 +1,21 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ulrich Kirchhoff,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Ulrich Kirchhoff,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Bjrn Nagel,M,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Bjrn Nagel,M,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Bjrn Nagel,M,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Bjrn Nagel,M,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Oleksandr Onishchenko,M,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Oleksandr Onishchenko,M,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Oleksandr Onishchenko,M,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Oleksandr Onishchenko,M,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Cassio Rivetti,M,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Cassio Rivetti,M,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Cassio Rivetti,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Cassio Rivetti,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Ferenc Szentirmai,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Ferenc Szentirmai,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Ren Tebbel,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Ren Tebbel,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
-Jean-Claude Geenberghe,M,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True
-Jean-Claude Geenberghe,M,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ulrich Kirchhoff,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Ulrich Kirchhoff,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Bjrn Nagel,M,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Bjrn Nagel,M,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Bjrn Nagel,M,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,False
+Bjrn Nagel,M,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,False
+Oleksandr Onishchenko,M,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Oleksandr Onishchenko,M,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Oleksandr Onishchenko,M,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,False
+Oleksandr Onishchenko,M,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,False
+Cassio Rivetti,M,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Cassio Rivetti,M,Ukraine,UKR,2012,London,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Cassio Rivetti,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,False
+Cassio Rivetti,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,False
+Ferenc Szentirmai,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Ferenc Szentirmai,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Ren Tebbel,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Ren Tebbel,M,Ukraine,UKR,2016,Rio de Janeiro,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True
+Jean-Claude Geenberghe,M,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Individual",No medal,Equestrianism,EVE,True,True
+Jean-Claude Geenberghe,M,Ukraine,UKR,2008,Beijing,Equestrianism,"Equestrianism Mixed Jumping, Team",No medal,Equestrianism,EVE,True,True

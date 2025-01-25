@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Andrey Barbashinsky,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False
-Serhiy Bebeshko,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False
-Igor Chumak,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False
-Talant Duyshebayev,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False
-Valery Gopin,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False
-Oleg Grebnev,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False
-Yuriy Havrylov,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False
-Oleg Kiselyov,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False
-Vasily Kudinov,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False
-Andrey Lavrov,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False
-Igor Vasilyev,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False
-Mikhail Yakimovich,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Andrey Barbashinsky,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False,True
+Serhiy Bebeshko,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False,True
+Igor Chumak,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False,True
+Talant Duyshebayev,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False,True
+Valery Gopin,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False,True
+Oleg Grebnev,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False,True
+Yuriy Havrylov,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False,True
+Oleg Kiselyov,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False,True
+Vasily Kudinov,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False,True
+Andrey Lavrov,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False,True
+Igor Vasilyev,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False,True
+Mikhail Yakimovich,M,Unified Team,EUN,1992,Barcelona,Handball,Handball Men's Handball,Gold,Handball,HBL,False,True

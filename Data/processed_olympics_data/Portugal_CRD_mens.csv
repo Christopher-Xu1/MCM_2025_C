@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Joao Almeida,M,Portugal,POR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Joao Almeida,M,Portugal,POR,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Nelson Oliveira,M,Portugal,POR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Nelson Oliveira,M,Portugal,POR,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Nelson Oliveira,M,Portugal,POR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Nelson Oliveira,M,Portugal,POR,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
-Rui Costa,M,Portugal,POR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True
-Rui Costa,M,Portugal,POR,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Joao Almeida,M,Portugal,POR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Joao Almeida,M,Portugal,POR,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Nelson Oliveira,M,Portugal,POR,2020,Tokyo,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Nelson Oliveira,M,Portugal,POR,2020,Tokyo,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True
+Nelson Oliveira,M,Portugal,POR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,False
+Nelson Oliveira,M,Portugal,POR,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,False
+Rui Costa,M,Portugal,POR,2024,Paris,Cycling Road,Men's Road Race,No medal,Men's,CRD,True,True
+Rui Costa,M,Portugal,POR,2024,Paris,Cycling Road,Men's Individual Time Trial,No medal,Men's,CRD,True,True

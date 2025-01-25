@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Haley Anderson,F,United States,USA,2020,Tokyo,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False
-Ashley Twichell,F,United States,USA,2020,Tokyo,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False
-Mariah Denigan,F,United States,USA,2024,Paris,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Haley Anderson,F,United States,USA,2020,Tokyo,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False,True
+Ashley Twichell,F,United States,USA,2020,Tokyo,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False,True
+Mariah Denigan,F,United States,USA,2024,Paris,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False,True

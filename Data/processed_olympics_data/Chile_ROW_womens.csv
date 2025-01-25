@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Melita Schssler,F,Chile,CHI,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Soraya Arriaza,F,Chile,CHI,2000,Sydney,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Soraya Arriaza,F,Chile,CHI,2004,Athina,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Soraya Arriaza,F,Chile,CHI,2008,Beijing,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
-Josefa Betancourt,F,Chile,CHI,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
-Antonia Abraham,F,Chile,CHI,2024,Paris,Rowing,Women's Pair,No medal,Women's,ROW,False
-Melita Abraham,F,Chile,CHI,2024,Paris,Rowing,Women's Pair,No medal,Women's,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Melita Schssler,F,Chile,CHI,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Soraya Arriaza,F,Chile,CHI,2000,Sydney,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,True
+Soraya Arriaza,F,Chile,CHI,2004,Athina,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,False
+Soraya Arriaza,F,Chile,CHI,2008,Beijing,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True,False
+Josefa Betancourt,F,Chile,CHI,2016,Rio de Janeiro,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False,True
+Antonia Abraham,F,Chile,CHI,2024,Paris,Rowing,Women's Pair,No medal,Women's,ROW,False,True
+Melita Abraham,F,Chile,CHI,2024,Paris,Rowing,Women's Pair,No medal,Women's,ROW,False,True

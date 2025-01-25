@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Angelik Abebame,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Isabelle Azanga,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Pascaline Bobeka,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Germaine Djimbi,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Yolande Kada-gango,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Henriette Koula,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Anne (-ipolo),F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Pemba Lopez,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Yvonne Makouala,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Julienne Malaki,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Madeleine Mitsotso,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Nicole Oba,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Micheline Okemba,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False
-Viviane Okoula,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Angelik Abebame,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Isabelle Azanga,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Pascaline Bobeka,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Germaine Djimbi,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Yolande Kada-gango,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Henriette Koula,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Anne (-ipolo),F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Pemba Lopez,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Yvonne Makouala,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Julienne Malaki,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Madeleine Mitsotso,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Nicole Oba,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Micheline Okemba,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True
+Viviane Okoula,F,Congo (Brazzaville),CGO,1980,Moskva,Handball,Handball Women's Handball,No medal,Handball,HBL,False,True

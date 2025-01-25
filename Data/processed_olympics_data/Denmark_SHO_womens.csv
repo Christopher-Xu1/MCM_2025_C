@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Stine Andersen,F,Denmark,DEN,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Anni (-kildeberg),F,Denmark,DEN,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Anni (-kildeberg),F,Denmark,DEN,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Anni (-kildeberg),F,Denmark,DEN,2000,Sydney,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Anni (-kildeberg),F,Denmark,DEN,2000,Sydney,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Karen (jensen-),F,Denmark,DEN,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Karen (jensen-),F,Denmark,DEN,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Karen (jensen-),F,Denmark,DEN,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Majbritt Hjortshj,F,Denmark,DEN,1996,Atlanta,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False
-Susanne (-nielsen),F,Denmark,DEN,1996,Atlanta,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Susanne (-nielsen),F,Denmark,DEN,1996,Atlanta,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Susanne (-nielsen),F,Denmark,DEN,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Susanne (-nielsen),F,Denmark,DEN,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Susanne (-nielsen),F,Denmark,DEN,2004,Athina,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Stine Nielsen,F,Denmark,DEN,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Stine Nielsen,F,Denmark,DEN,2012,London,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Stine Nielsen,F,Denmark,DEN,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Stine Nielsen,F,Denmark,DEN,2016,Rio de Janeiro,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Ann (-thuesen),F,Denmark,DEN,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Maeng Ibsen,F,Denmark,DEN,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,True
-Maeng Ibsen,F,Denmark,DEN,2020,Tokyo,Shooting,50m Rifle 3 Positions Women,No medal,50m,SHO,True
-Anna Nielsen,F,Denmark,DEN,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,True
-Anna Nielsen,F,Denmark,DEN,2020,Tokyo,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True
-Scurrah Grundsoee,F,Denmark,DEN,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,True
-Scurrah Grundsoee,F,Denmark,DEN,2024,Paris,Shooting,50m Rifle 3 Positions Women,No medal,50m,SHO,True
-Maeng Ibsen,F,Denmark,DEN,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,True
-Maeng Ibsen,F,Denmark,DEN,2024,Paris,Shooting,50m Rifle 3 Positions Women,No medal,50m,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Stine Andersen,F,Denmark,DEN,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Anni (-kildeberg),F,Denmark,DEN,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Anni (-kildeberg),F,Denmark,DEN,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Anni (-kildeberg),F,Denmark,DEN,2000,Sydney,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Anni (-kildeberg),F,Denmark,DEN,2000,Sydney,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Karen (jensen-),F,Denmark,DEN,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Karen (jensen-),F,Denmark,DEN,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Karen (jensen-),F,Denmark,DEN,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Majbritt Hjortshj,F,Denmark,DEN,1996,Atlanta,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,False,True
+Susanne (-nielsen),F,Denmark,DEN,1996,Atlanta,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Susanne (-nielsen),F,Denmark,DEN,1996,Atlanta,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Susanne (-nielsen),F,Denmark,DEN,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Susanne (-nielsen),F,Denmark,DEN,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Susanne (-nielsen),F,Denmark,DEN,2004,Athina,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Stine Nielsen,F,Denmark,DEN,2012,London,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Stine Nielsen,F,Denmark,DEN,2012,London,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Stine Nielsen,F,Denmark,DEN,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,False
+Stine Nielsen,F,Denmark,DEN,2016,Rio de Janeiro,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Ann (-thuesen),F,Denmark,DEN,2004,Athina,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Maeng Ibsen,F,Denmark,DEN,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,True,True
+Maeng Ibsen,F,Denmark,DEN,2020,Tokyo,Shooting,50m Rifle 3 Positions Women,No medal,50m,SHO,True,True
+Anna Nielsen,F,Denmark,DEN,2020,Tokyo,Shooting,10m Air Rifle Women,No medal,10m,SHO,True,True
+Anna Nielsen,F,Denmark,DEN,2020,Tokyo,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True,True
+Scurrah Grundsoee,F,Denmark,DEN,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,True,True
+Scurrah Grundsoee,F,Denmark,DEN,2024,Paris,Shooting,50m Rifle 3 Positions Women,No medal,50m,SHO,True,True
+Maeng Ibsen,F,Denmark,DEN,2024,Paris,Shooting,10m Air Rifle Women,No medal,10m,SHO,True,False
+Maeng Ibsen,F,Denmark,DEN,2024,Paris,Shooting,50m Rifle 3 Positions Women,No medal,50m,SHO,True,False

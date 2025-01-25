@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sallah Cisse,M,Ivory Coast,CIV,2020,Tokyo,Taekwondo,Men -80kg,No medal,Men,TKW,False
-Seydou Gbane,M,Ivory Coast,CIV,2020,Tokyo,Taekwondo,Men +80kg,No medal,Men,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sallah Cisse,M,Ivory Coast,CIV,2020,Tokyo,Taekwondo,Men -80kg,No medal,Men,TKW,False,True
+Seydou Gbane,M,Ivory Coast,CIV,2020,Tokyo,Taekwondo,Men +80kg,No medal,Men,TKW,False,True

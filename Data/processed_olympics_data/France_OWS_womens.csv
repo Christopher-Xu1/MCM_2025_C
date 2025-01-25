@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lara Grangeon,F,France,FRA,2020,Tokyo,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False
-Oceane Cassignol,F,France,FRA,2024,Paris,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False
-Caroline Jouisse,F,France,FRA,2024,Paris,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lara Grangeon,F,France,FRA,2020,Tokyo,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False,True
+Oceane Cassignol,F,France,FRA,2024,Paris,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False,True
+Caroline Jouisse,F,France,FRA,2024,Paris,Marathon Swimming,Women's 10km,No medal,Women's,OWS,False,True

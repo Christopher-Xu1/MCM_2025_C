@@ -1,41 +1,41 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cristina Fernndez,F,Spain,ESP,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Cristina Fernndez,F,Spain,ESP,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Cristina Gonzlez,F,Spain,ESP,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Mara Julin,F,Spain,ESP,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Mara Julin,F,Spain,ESP,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Mara Julin,F,Spain,ESP,1996,Atlanta,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Mara Julin,F,Spain,ESP,1996,Atlanta,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Mara Julin,F,Spain,ESP,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Mara Julin,F,Spain,ESP,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Mara Julin,F,Spain,ESP,2004,Athina,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Mara Julin,F,Spain,ESP,2004,Athina,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Mara Julin,F,Spain,ESP,2008,Beijing,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Mara Julin,F,Spain,ESP,2008,Beijing,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Nieves Mata,F,Spain,ESP,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Nieves Mata,F,Spain,ESP,1992,Barcelona,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Sonia Calvente,F,Spain,ESP,2008,Beijing,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Sonia Calvente,F,Spain,ESP,2008,Beijing,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Sonia Calvente,F,Spain,ESP,2012,London,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Sonia Calvente,F,Spain,ESP,2012,London,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Sonia Calvente,F,Spain,ESP,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Sonia Calvente,F,Spain,ESP,2016,Rio de Janeiro,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Ftima Marn,F,Spain,ESP,2012,London,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True
-Ftima Marn,F,Spain,ESP,2016,Rio de Janeiro,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True
-Mara Pea,F,Spain,ESP,1984,Los Angeles,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,False
-Marina Garca,F,Spain,ESP,2000,Sydney,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Marina Garca,F,Spain,ESP,2000,Sydney,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Mara Zubizarreta,F,Spain,ESP,1996,Atlanta,Shooting,Shooting Women's Double Trap,No medal,Shooting,SHO,True
-Mara Zubizarreta,F,Spain,ESP,2004,Athina,Shooting,Shooting Women's Trap,Silver,Shooting,SHO,True
-Mara Zubizarreta,F,Spain,ESP,2004,Athina,Shooting,Shooting Women's Double Trap,No medal,Shooting,SHO,True
-Mara Garca,F,Spain,ESP,1988,Seoul,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Mara Garca,F,Spain,ESP,1988,Seoul,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Mara Garca,F,Spain,ESP,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Mara Garca,F,Spain,ESP,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Gemma Blzquez,F,Spain,ESP,1988,Seoul,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True
-Gemma Blzquez,F,Spain,ESP,1992,Barcelona,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True
-Gemma Blzquez,F,Spain,ESP,1996,Atlanta,Shooting,Shooting Women's Double Trap,No medal,Shooting,SHO,True
-Fatima Galvez,F,Spain,ESP,2020,Tokyo,Shooting,Trap Women,No medal,Trap,SHO,True
-Fatima Galvez,F,Spain,ESP,2020,Tokyo,Shooting,Trap Mixed Team,Gold,Trap,SHO,True
-Fatima Galvez,F,Spain,ESP,2024,Paris,Shooting,Trap Women,No medal,Trap,SHO,True
-Mar Molne,F,Spain,ESP,2024,Paris,Shooting,Trap Women,No medal,Trap,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cristina Fernndez,F,Spain,ESP,1996,Atlanta,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Cristina Fernndez,F,Spain,ESP,1996,Atlanta,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Cristina Gonzlez,F,Spain,ESP,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Mara Julin,F,Spain,ESP,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Mara Julin,F,Spain,ESP,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Mara Julin,F,Spain,ESP,1996,Atlanta,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Mara Julin,F,Spain,ESP,1996,Atlanta,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Mara Julin,F,Spain,ESP,2000,Sydney,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Mara Julin,F,Spain,ESP,2000,Sydney,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Mara Julin,F,Spain,ESP,2004,Athina,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Mara Julin,F,Spain,ESP,2004,Athina,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Mara Julin,F,Spain,ESP,2008,Beijing,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Mara Julin,F,Spain,ESP,2008,Beijing,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Nieves Mata,F,Spain,ESP,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Nieves Mata,F,Spain,ESP,1992,Barcelona,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Sonia Calvente,F,Spain,ESP,2008,Beijing,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Sonia Calvente,F,Spain,ESP,2008,Beijing,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Sonia Calvente,F,Spain,ESP,2012,London,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Sonia Calvente,F,Spain,ESP,2012,London,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Sonia Calvente,F,Spain,ESP,2016,Rio de Janeiro,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Sonia Calvente,F,Spain,ESP,2016,Rio de Janeiro,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Ftima Marn,F,Spain,ESP,2012,London,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True,True
+Ftima Marn,F,Spain,ESP,2016,Rio de Janeiro,Shooting,Shooting Women's Trap,No medal,Shooting,SHO,True,False
+Mara Pea,F,Spain,ESP,1984,Los Angeles,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,False,True
+Marina Garca,F,Spain,ESP,2000,Sydney,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Marina Garca,F,Spain,ESP,2000,Sydney,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Mara Zubizarreta,F,Spain,ESP,1996,Atlanta,Shooting,Shooting Women's Double Trap,No medal,Shooting,SHO,True,True
+Mara Zubizarreta,F,Spain,ESP,2004,Athina,Shooting,Shooting Women's Trap,Silver,Shooting,SHO,True,False
+Mara Zubizarreta,F,Spain,ESP,2004,Athina,Shooting,Shooting Women's Double Trap,No medal,Shooting,SHO,True,False
+Mara Garca,F,Spain,ESP,1988,Seoul,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Mara Garca,F,Spain,ESP,1988,Seoul,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Mara Garca,F,Spain,ESP,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,False
+Mara Garca,F,Spain,ESP,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Gemma Blzquez,F,Spain,ESP,1988,Seoul,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True,True
+Gemma Blzquez,F,Spain,ESP,1992,Barcelona,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True,False
+Gemma Blzquez,F,Spain,ESP,1996,Atlanta,Shooting,Shooting Women's Double Trap,No medal,Shooting,SHO,True,False
+Fatima Galvez,F,Spain,ESP,2020,Tokyo,Shooting,Trap Women,No medal,Trap,SHO,True,True
+Fatima Galvez,F,Spain,ESP,2020,Tokyo,Shooting,Trap Mixed Team,Gold,Trap,SHO,True,True
+Fatima Galvez,F,Spain,ESP,2024,Paris,Shooting,Trap Women,No medal,Trap,SHO,True,False
+Mar Molne,F,Spain,ESP,2024,Paris,Shooting,Trap Women,No medal,Trap,SHO,False,True

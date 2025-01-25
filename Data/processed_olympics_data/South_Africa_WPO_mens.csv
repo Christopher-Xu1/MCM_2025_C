@@ -1,31 +1,31 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-William Aucamp,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-William Aucamp,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Stephanus Botha,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Allan Brown,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Frank Butler,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Desmond Cohen,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Gerald Goddard,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Douglas Melville,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Ronald Meredith,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Ronald Meredith,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True
-Leon Nahon,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Dennis Pappas,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Robert Schwartz,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Ronald Tinkler,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-John Gent,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Wallace Voges,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Solomon Yach,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False
-Nardus Badenhorst,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False
-Devon Card,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False
-Jason Evezard,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False
-Bain Laurenson,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False
-Lwazi Madi,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False
-Yaseen Margro,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False
-Gareth May,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False
-Farouk Mayman,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False
-Liam Neill,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False
-Timothy Rezelman,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False
-Nicholas Rodda,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False
-Donn Stewart,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False
-Ross Stone,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+William Aucamp,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,True
+William Aucamp,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,False
+Stephanus Botha,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Allan Brown,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Frank Butler,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Desmond Cohen,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Gerald Goddard,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Douglas Melville,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Ronald Meredith,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,True
+Ronald Meredith,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,True,False
+Leon Nahon,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Dennis Pappas,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Robert Schwartz,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Ronald Tinkler,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+John Gent,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Wallace Voges,M,South Africa,RSA,1960,Roma,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Solomon Yach,M,South Africa,RSA,1952,Helsinki,Water Polo,Water Polo Men's Water Polo,No medal,Water,WPO,False,True
+Nardus Badenhorst,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False,True
+Devon Card,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False,True
+Jason Evezard,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False,True
+Bain Laurenson,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False,True
+Lwazi Madi,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False,True
+Yaseen Margro,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False,True
+Gareth May,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False,True
+Farouk Mayman,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False,True
+Liam Neill,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False,True
+Timothy Rezelman,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False,True
+Nicholas Rodda,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False,True
+Donn Stewart,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False,True
+Ross Stone,M,South Africa,RSA,2020,Tokyo,Water Polo,Men Team,No medal,Men,WPO,False,True

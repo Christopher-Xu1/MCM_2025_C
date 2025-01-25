@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Max Ammermann,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,False
-Wilhelm Carstens,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,True
-Wilhelm Carstens,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Richard Krner,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,True
-Richard Krner,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Adolf Mller,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,True
-Adolf Mller,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Gustav-Adolf Moths,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,True
-Gustav-Adolf Moths,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
-Carl Rster,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,True
-Carl Rster,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Max Ammermann,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,False,True
+Wilhelm Carstens,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,True,True
+Wilhelm Carstens,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Richard Krner,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,True,True
+Richard Krner,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Adolf Mller,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,True,True
+Adolf Mller,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Gustav-Adolf Moths,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,True,True
+Gustav-Adolf Moths,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True
+Carl Rster,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,Bronze,Rowing,ROW,True,True
+Carl Rster,M,Favorite Hammonia-3,GER,1900,Paris,Rowing,Rowing Men's Coxed Fours,No medal,Rowing,ROW,True,True

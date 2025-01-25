@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Britton Sr.,M,Complex Ii,USA,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Gold,Sailing,SAL,False
-Michael Schoettle,M,Complex Ii,USA,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Gold,Sailing,SAL,False
-Edgar White,M,Complex Ii,USA,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Gold,Sailing,SAL,False
-Sumner Iii,M,Complex Ii,USA,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Britton Sr.,M,Complex Ii,USA,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Gold,Sailing,SAL,False,True
+Michael Schoettle,M,Complex Ii,USA,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Gold,Sailing,SAL,False,True
+Edgar White,M,Complex Ii,USA,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Gold,Sailing,SAL,False,True
+Sumner Iii,M,Complex Ii,USA,1952,Helsinki,Sailing,Sailing Mixed 5.5 metres,Gold,Sailing,SAL,False,True

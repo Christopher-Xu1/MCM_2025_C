@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gordon Benson,M,United Kingdom,GBR,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Alistair Brownlee,M,United Kingdom,GBR,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Alistair Brownlee,M,United Kingdom,GBR,2012,London,Triathlon,Triathlon Men's Olympic Distance,Gold,Triathlon,TRI,True
-Alistair Brownlee,M,United Kingdom,GBR,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,Gold,Triathlon,TRI,True
-Jonathan Brownlee,M,United Kingdom,GBR,2012,London,Triathlon,Triathlon Men's Olympic Distance,Bronze,Triathlon,TRI,True
-Jonathan Brownlee,M,United Kingdom,GBR,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,Silver,Triathlon,TRI,True
-William Clarke,M,United Kingdom,GBR,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Timothy Don,M,United Kingdom,GBR,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Timothy Don,M,United Kingdom,GBR,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Timothy Don,M,United Kingdom,GBR,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Stuart Hayes,M,United Kingdom,GBR,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Marc Jenkins,M,United Kingdom,GBR,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Andrew Johns,M,United Kingdom,GBR,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Andrew Johns,M,United Kingdom,GBR,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
-Simon Lessing,M,United Kingdom,GBR,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
-Jonathan Brownlee,M,United Kingdom,GBR,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
-Jonathan Brownlee,M,United Kingdom,GBR,2020,Tokyo,Triathlon,Mixed Relay Team,Gold,Mixed,TRI,True
-Alex Yee,M,United Kingdom,GBR,2020,Tokyo,Triathlon,Men's Individual,Silver,Men's,TRI,True
-Alex Yee,M,United Kingdom,GBR,2020,Tokyo,Triathlon,Mixed Relay Team,Gold,Mixed,TRI,True
-Samuel Dickinson,M,United Kingdom,GBR,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False
-Alex Yee,M,United Kingdom,GBR,2024,Paris,Triathlon,Men's Individual,Gold,Men's,TRI,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gordon Benson,M,United Kingdom,GBR,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Alistair Brownlee,M,United Kingdom,GBR,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Alistair Brownlee,M,United Kingdom,GBR,2012,London,Triathlon,Triathlon Men's Olympic Distance,Gold,Triathlon,TRI,True,False
+Alistair Brownlee,M,United Kingdom,GBR,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,Gold,Triathlon,TRI,True,False
+Jonathan Brownlee,M,United Kingdom,GBR,2012,London,Triathlon,Triathlon Men's Olympic Distance,Bronze,Triathlon,TRI,True,True
+Jonathan Brownlee,M,United Kingdom,GBR,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,Silver,Triathlon,TRI,True,False
+William Clarke,M,United Kingdom,GBR,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Timothy Don,M,United Kingdom,GBR,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Timothy Don,M,United Kingdom,GBR,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Timothy Don,M,United Kingdom,GBR,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Stuart Hayes,M,United Kingdom,GBR,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Marc Jenkins,M,United Kingdom,GBR,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Andrew Johns,M,United Kingdom,GBR,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,True
+Andrew Johns,M,United Kingdom,GBR,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True,False
+Simon Lessing,M,United Kingdom,GBR,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False,True
+Jonathan Brownlee,M,United Kingdom,GBR,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True,False
+Jonathan Brownlee,M,United Kingdom,GBR,2020,Tokyo,Triathlon,Mixed Relay Team,Gold,Mixed,TRI,True,False
+Alex Yee,M,United Kingdom,GBR,2020,Tokyo,Triathlon,Men's Individual,Silver,Men's,TRI,True,True
+Alex Yee,M,United Kingdom,GBR,2020,Tokyo,Triathlon,Mixed Relay Team,Gold,Mixed,TRI,True,True
+Samuel Dickinson,M,United Kingdom,GBR,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False,True
+Alex Yee,M,United Kingdom,GBR,2024,Paris,Triathlon,Men's Individual,Gold,Men's,TRI,True,False

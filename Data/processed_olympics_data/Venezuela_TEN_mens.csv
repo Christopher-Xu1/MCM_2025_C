@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Juan Pacheco,M,Venezuela,VEN,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Jos Armas,M,Venezuela,VEN,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Nicols Pereira,M,Venezuela,VEN,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Nicols Pereira,M,Venezuela,VEN,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
-Jimy Ottaviano,M,Venezuela,VEN,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
-Jimy Ottaviano,M,Venezuela,VEN,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Juan Pacheco,M,Venezuela,VEN,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Jos Armas,M,Venezuela,VEN,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Nicols Pereira,M,Venezuela,VEN,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Nicols Pereira,M,Venezuela,VEN,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,True
+Jimy Ottaviano,M,Venezuela,VEN,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True,True
+Jimy Ottaviano,M,Venezuela,VEN,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True,False

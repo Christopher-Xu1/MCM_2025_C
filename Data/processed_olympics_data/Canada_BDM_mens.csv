@@ -1,22 +1,22 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mike Beres,M,Canada,CAN,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Mike Beres,M,Canada,CAN,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-J. Blanshard,M,Canada,CAN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Andrew Dabeka,M,Canada,CAN,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-James Dawson,M,Canada,CAN,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Martin Giuffre,M,Canada,CAN,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-David Humble,M,Canada,CAN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Anil Kaul,M,Canada,CAN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
-Anil Kaul,M,Canada,CAN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Bryan Moody,M,Canada,CAN,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False
-Tobias Ng,M,Canada,CAN,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
-Brent Olynyk,M,Canada,CAN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True
-Brent Olynyk,M,Canada,CAN,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True
-Iain Sydie,M,Canada,CAN,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
-Jason Ho-shue,M,Canada,CAN,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,False
-Joshua Hurlburt-yu,M,Canada,CAN,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,False
-Nyl Yakura,M,Canada,CAN,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True
-Brian Yang,M,Canada,CAN,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True
-Nyl Yakura,M,Canada,CAN,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,True
-Adam Dong,M,Canada,CAN,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False
-Brian Yang,M,Canada,CAN,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mike Beres,M,Canada,CAN,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Mike Beres,M,Canada,CAN,2008,Beijing,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+J. Blanshard,M,Canada,CAN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Andrew Dabeka,M,Canada,CAN,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+James Dawson,M,Canada,CAN,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Martin Giuffre,M,Canada,CAN,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+David Humble,M,Canada,CAN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Anil Kaul,M,Canada,CAN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True,True
+Anil Kaul,M,Canada,CAN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,False
+Bryan Moody,M,Canada,CAN,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,False,True
+Tobias Ng,M,Canada,CAN,2012,London,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False,True
+Brent Olynyk,M,Canada,CAN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,True,True
+Brent Olynyk,M,Canada,CAN,2000,Sydney,Badminton,Badminton Men's Doubles,No medal,Badminton,BDM,True,True
+Iain Sydie,M,Canada,CAN,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False,True
+Jason Ho-shue,M,Canada,CAN,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,False,True
+Joshua Hurlburt-yu,M,Canada,CAN,2020,Tokyo,Badminton,Mixed Doubles Team,No medal,Mixed,BDM,False,True
+Nyl Yakura,M,Canada,CAN,2020,Tokyo,Badminton,Men's Doubles Team,No medal,Men's,BDM,True,True
+Brian Yang,M,Canada,CAN,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True,True
+Nyl Yakura,M,Canada,CAN,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,True,False
+Adam Dong,M,Canada,CAN,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False,True
+Brian Yang,M,Canada,CAN,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True,False

@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hilde (-peters),F,Saar,SAA,1952,Helsinki,Athletics,Athletics Women's 80 metres Hurdles,No medal,Athletics,ATH,True
-Hilde (-peters),F,Saar,SAA,1952,Helsinki,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Inge (-sticher),F,Saar,SAA,1952,Helsinki,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
-Ursula (-morrison),F,Saar,SAA,1952,Helsinki,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True
-Ursula (-morrison),F,Saar,SAA,1952,Helsinki,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True
-Ingeburg (-perske),F,Saar,SAA,1952,Helsinki,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hilde (-peters),F,Saar,SAA,1952,Helsinki,Athletics,Athletics Women's 80 metres Hurdles,No medal,Athletics,ATH,True,True
+Hilde (-peters),F,Saar,SAA,1952,Helsinki,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Inge (-sticher),F,Saar,SAA,1952,Helsinki,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True
+Ursula (-morrison),F,Saar,SAA,1952,Helsinki,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,True,True
+Ursula (-morrison),F,Saar,SAA,1952,Helsinki,Athletics,Athletics Women's Long Jump,No medal,Athletics,ATH,True,True
+Ingeburg (-perske),F,Saar,SAA,1952,Helsinki,Athletics,Athletics Women's 4 x 100 metres Relay,No medal,Athletics,ATH,False,True

@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ghenadie Lisoconi,M,Moldova,MDA,1996,Atlanta,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,True
-Ghenadie Lisoconi,M,Moldova,MDA,2008,Beijing,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,True
-Oleg Moldovan,M,Moldova,MDA,1996,Atlanta,Shooting,"Shooting Men's Running Target, 10 metres",No medal,Shooting,SHO,True
-Oleg Moldovan,M,Moldova,MDA,2000,Sydney,Shooting,"Shooting Men's Running Target, 10 metres",Silver,Shooting,SHO,True
-Oleg Moldovan,M,Moldova,MDA,2004,Athina,Shooting,"Shooting Men's Running Target, 10 metres",No medal,Shooting,SHO,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ghenadie Lisoconi,M,Moldova,MDA,1996,Atlanta,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Ghenadie Lisoconi,M,Moldova,MDA,2008,Beijing,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Oleg Moldovan,M,Moldova,MDA,1996,Atlanta,Shooting,"Shooting Men's Running Target, 10 metres",No medal,Shooting,SHO,True,True
+Oleg Moldovan,M,Moldova,MDA,2000,Sydney,Shooting,"Shooting Men's Running Target, 10 metres",Silver,Shooting,SHO,True,False
+Oleg Moldovan,M,Moldova,MDA,2004,Athina,Shooting,"Shooting Men's Running Target, 10 metres",No medal,Shooting,SHO,True,False

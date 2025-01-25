@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kieran Behan,M,Ireland,IRL,2012,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Kieran Behan,M,Ireland,IRL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Kieran Behan,M,Ireland,IRL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Kieran Behan,M,Ireland,IRL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Kieran Behan,M,Ireland,IRL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Kieran Behan,M,Ireland,IRL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Kieran Behan,M,Ireland,IRL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Barry Mcdonald,M,Ireland,IRL,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
-Barry Mcdonald,M,Ireland,IRL,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
-Barry Mcdonald,M,Ireland,IRL,1996,Atlanta,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
-Barry Mcdonald,M,Ireland,IRL,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
-Barry Mcdonald,M,Ireland,IRL,1996,Atlanta,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
-Barry Mcdonald,M,Ireland,IRL,1996,Atlanta,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
-Barry Mcdonald,M,Ireland,IRL,1996,Atlanta,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
-Mc Rhys,M,Ireland,IRL,2020,Tokyo,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True
-Mc Rhys,M,Ireland,IRL,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True
-Mc Rhys,M,Ireland,IRL,2024,Paris,Artistic Gymnastics,Men's Pommel Horse,Gold,Men's,GAR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kieran Behan,M,Ireland,IRL,2012,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Kieran Behan,M,Ireland,IRL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,False
+Kieran Behan,M,Ireland,IRL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,False
+Kieran Behan,M,Ireland,IRL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,False
+Kieran Behan,M,Ireland,IRL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,False
+Kieran Behan,M,Ireland,IRL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,False
+Kieran Behan,M,Ireland,IRL,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,False
+Barry Mcdonald,M,Ireland,IRL,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True,True
+Barry Mcdonald,M,Ireland,IRL,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True,True
+Barry Mcdonald,M,Ireland,IRL,1996,Atlanta,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True,True
+Barry Mcdonald,M,Ireland,IRL,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True,True
+Barry Mcdonald,M,Ireland,IRL,1996,Atlanta,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True,True
+Barry Mcdonald,M,Ireland,IRL,1996,Atlanta,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True,True
+Barry Mcdonald,M,Ireland,IRL,1996,Atlanta,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True,True
+Mc Rhys,M,Ireland,IRL,2020,Tokyo,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True,True
+Mc Rhys,M,Ireland,IRL,2024,Paris,Artistic Gymnastics,Men,No medal,Men,GAR,True,False
+Mc Rhys,M,Ireland,IRL,2024,Paris,Artistic Gymnastics,Men's Pommel Horse,Gold,Men's,GAR,True,False

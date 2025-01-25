@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Eduards Andersons,M,Latvia,LAT,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Voldemrs Elmts,M,Latvia,LAT,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Mrti Grundmanis,M,Latvia,LAT,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Rdolfs Jrci,M,Latvia,LAT,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Maksis Kazks,M,Latvia,LAT,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-Visvaldis Melderis,M,Latvia,LAT,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
-ems Raudzi,M,Latvia,LAT,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Eduards Andersons,M,Latvia,LAT,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Voldemrs Elmts,M,Latvia,LAT,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Mrti Grundmanis,M,Latvia,LAT,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Rdolfs Jrci,M,Latvia,LAT,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Maksis Kazks,M,Latvia,LAT,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+Visvaldis Melderis,M,Latvia,LAT,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True
+ems Raudzi,M,Latvia,LAT,1936,Berlin,Basketball,Basketball Men's Basketball,No medal,Basketball,BKB,False,True

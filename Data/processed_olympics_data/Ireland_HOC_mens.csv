@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jonathan Bell,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Christopher Cargo,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Peter Caruth,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Michael Darling,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Paul Gleghorne,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Kyle Good,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Ronan Gormley,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Conor Harte,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-David Harte,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True
-John Jackson,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-John Jermyn,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Eugene Magee,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Shane O'donoghue,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True
-Kirk Shimmins,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Alan Sothern,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-Michael Watt,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False
-David Harte,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,True
-McKIBBIN Peter,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
-Kyle Marshall,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
-Shane O'donoghue,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,True
-Jonathan Lynch,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
-Sean Murray,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
-Peter Brown,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
-Michael Robson,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
-Daragh Walsh,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
-Benjamin Walker,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
-Jeremy Duncan,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
-McKEE John,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
-Ben Johnson,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
-Matthew Nelson,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
-Timothy Cross,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
-Lee Cole,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
-Nicholas Page,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jonathan Bell,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Christopher Cargo,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Peter Caruth,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Michael Darling,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Paul Gleghorne,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Kyle Good,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Ronan Gormley,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Conor Harte,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+David Harte,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True,True
+John Jackson,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+John Jermyn,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Eugene Magee,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Shane O'donoghue,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,True,True
+Kirk Shimmins,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Alan Sothern,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+Michael Watt,M,Ireland,IRL,2016,Rio de Janeiro,Hockey,Hockey Men's Hockey,No medal,Hockey,HOC,False,True
+David Harte,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,True,False
+McKIBBIN Peter,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True
+Kyle Marshall,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True
+Shane O'donoghue,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,True,False
+Jonathan Lynch,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True
+Sean Murray,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True
+Peter Brown,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True
+Michael Robson,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True
+Daragh Walsh,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True
+Benjamin Walker,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True
+Jeremy Duncan,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True
+McKEE John,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True
+Ben Johnson,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True
+Matthew Nelson,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True
+Timothy Cross,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True
+Lee Cole,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True
+Nicholas Page,M,Ireland,IRL,2024,Paris,Hockey,Men,No medal,Men,HOC,False,True

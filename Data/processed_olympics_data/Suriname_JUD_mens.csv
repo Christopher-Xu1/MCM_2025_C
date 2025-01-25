@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Iwan Blijd,M,Suriname,SUR,1972,Munich,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
-Ricardo Elmont,M,Suriname,SUR,1976,Montreal,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Yigal Kopinsky,M,Suriname,SUR,2016,Rio de Janeiro,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Mohamed Madhar,M,Suriname,SUR,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Mohamed Madhar,M,Suriname,SUR,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Iwan Blijd,M,Suriname,SUR,1972,Munich,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False,True
+Ricardo Elmont,M,Suriname,SUR,1976,Montreal,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Yigal Kopinsky,M,Suriname,SUR,2016,Rio de Janeiro,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Mohamed Madhar,M,Suriname,SUR,1984,Los Angeles,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,True
+Mohamed Madhar,M,Suriname,SUR,1988,Seoul,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False

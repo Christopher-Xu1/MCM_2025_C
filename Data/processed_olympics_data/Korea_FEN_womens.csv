@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Injeong Choi,F,Korea,KOR,2024,Paris,Fencing,Women's Épée Team,No medal,Women's,FEN,False
-Sebin Choi,F,Korea,KOR,2024,Paris,Fencing,Women's Sabre Individual,No medal,Women's,FEN,True
-Sebin Choi,F,Korea,KOR,2024,Paris,Fencing,Women's Sabre Team,Silver,Women's,FEN,True
-Eunhye Jeon,F,Korea,KOR,2024,Paris,Fencing,Women's Sabre Team,Silver,Women's,FEN,False
-Hayoung Jeon,F,Korea,KOR,2024,Paris,Fencing,Women's Sabre Individual,No medal,Women's,FEN,True
-Hayoung Jeon,F,Korea,KOR,2024,Paris,Fencing,Women's Sabre Team,Silver,Women's,FEN,True
-Mi Kang,F,Korea,KOR,2024,Paris,Fencing,Women's Épée Individual,No medal,Women's,FEN,True
-Mi Kang,F,Korea,KOR,2024,Paris,Fencing,Women's Épée Team,No medal,Women's,FEN,True
-Hyein Lee,F,Korea,KOR,2024,Paris,Fencing,Women's Épée Individual,No medal,Women's,FEN,True
-Hyein Lee,F,Korea,KOR,2024,Paris,Fencing,Women's Épée Team,No medal,Women's,FEN,True
-Sera Song,F,Korea,KOR,2024,Paris,Fencing,Women's Épée Individual,No medal,Women's,FEN,True
-Sera Song,F,Korea,KOR,2024,Paris,Fencing,Women's Épée Team,No medal,Women's,FEN,True
-Jisu Yoon,F,Korea,KOR,2024,Paris,Fencing,Women's Sabre Individual,No medal,Women's,FEN,True
-Jisu Yoon,F,Korea,KOR,2024,Paris,Fencing,Women's Sabre Team,Silver,Women's,FEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Injeong Choi,F,Korea,KOR,2024,Paris,Fencing,Women's Épée Team,No medal,Women's,FEN,False,True
+Sebin Choi,F,Korea,KOR,2024,Paris,Fencing,Women's Sabre Individual,No medal,Women's,FEN,True,True
+Sebin Choi,F,Korea,KOR,2024,Paris,Fencing,Women's Sabre Team,Silver,Women's,FEN,True,True
+Eunhye Jeon,F,Korea,KOR,2024,Paris,Fencing,Women's Sabre Team,Silver,Women's,FEN,False,True
+Hayoung Jeon,F,Korea,KOR,2024,Paris,Fencing,Women's Sabre Individual,No medal,Women's,FEN,True,True
+Hayoung Jeon,F,Korea,KOR,2024,Paris,Fencing,Women's Sabre Team,Silver,Women's,FEN,True,True
+Mi Kang,F,Korea,KOR,2024,Paris,Fencing,Women's Épée Individual,No medal,Women's,FEN,True,True
+Mi Kang,F,Korea,KOR,2024,Paris,Fencing,Women's Épée Team,No medal,Women's,FEN,True,True
+Hyein Lee,F,Korea,KOR,2024,Paris,Fencing,Women's Épée Individual,No medal,Women's,FEN,True,True
+Hyein Lee,F,Korea,KOR,2024,Paris,Fencing,Women's Épée Team,No medal,Women's,FEN,True,True
+Sera Song,F,Korea,KOR,2024,Paris,Fencing,Women's Épée Individual,No medal,Women's,FEN,True,True
+Sera Song,F,Korea,KOR,2024,Paris,Fencing,Women's Épée Team,No medal,Women's,FEN,True,True
+Jisu Yoon,F,Korea,KOR,2024,Paris,Fencing,Women's Sabre Individual,No medal,Women's,FEN,True,True
+Jisu Yoon,F,Korea,KOR,2024,Paris,Fencing,Women's Sabre Team,Silver,Women's,FEN,True,True

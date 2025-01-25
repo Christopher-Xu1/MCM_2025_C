@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chloe Magee,F,Ireland,IRL,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Chloe Magee,F,Ireland,IRL,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Chloe Magee,F,Ireland,IRL,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True
-Sonya Mcginn,F,Ireland,IRL,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False
-Rachael Darragh,F,Ireland,IRL,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chloe Magee,F,Ireland,IRL,2008,Beijing,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,True
+Chloe Magee,F,Ireland,IRL,2012,London,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Chloe Magee,F,Ireland,IRL,2016,Rio de Janeiro,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,True,False
+Sonya Mcginn,F,Ireland,IRL,2000,Sydney,Badminton,Badminton Women's Singles,No medal,Badminton,BDM,False,True
+Rachael Darragh,F,Ireland,IRL,2024,Paris,Badminton,Women's Singles,No medal,Women's,BDM,False,True

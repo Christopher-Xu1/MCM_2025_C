@@ -1,45 +1,45 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Toivo (ahlstedt-),M,Finland,FIN,1908,London,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Toivo (ahlstedt-),M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Toivo (ahlstedt-),M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,True
-Johan Elo,M,Finland,FIN,1924,Paris,Diving,Diving Men's Plain High,No medal,Diving,DIV,False
-Olavi Heinonen,M,Finland,FIN,1952,Helsinki,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Pekka Heinonen,M,Finland,FIN,1960,Roma,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Tauno (granit-),M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,False
-Kalle (ingberg-),M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Kalle (ingberg-),M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,True
-Kalle (ingberg-),M,Finland,FIN,1920,Antwerpen,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Kalle (ingberg-),M,Finland,FIN,1920,Antwerpen,Diving,Diving Men's Plain High,No medal,Diving,DIV,True
-Hannes Krkkinen,M,Finland,FIN,1924,Paris,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Jarl Kivel,M,Finland,FIN,1952,Helsinki,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Hugo Koivuniemi,M,Finland,FIN,1924,Paris,Diving,Diving Men's Plain High,No medal,Diving,DIV,False
-Pentti Koskinen,M,Finland,FIN,1964,Tokyo,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Pentti Koskinen,M,Finland,FIN,1968,Mexico City,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Pentti Koskinen,M,Finland,FIN,1972,Munich,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Lauri Kystil,M,Finland,FIN,1920,Antwerpen,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Lauri Kystil,M,Finland,FIN,1924,Paris,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Yrj Lampila,M,Finland,FIN,1928,Amsterdam,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Adolf (-launos),M,Finland,FIN,1924,Paris,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Heikki Niemelinen,M,Finland,FIN,1936,Berlin,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Heikki Niemelinen,M,Finland,FIN,1936,Berlin,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Heikki Niemelinen,M,Finland,FIN,1948,London,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Albert Nyman,M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,False
-Juha Ovaskainen,M,Finland,FIN,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Juha Ovaskainen,M,Finland,FIN,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Jukka Piekkanen,M,Finland,FIN,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Jukka Piekkanen,M,Finland,FIN,2004,Athina,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Joona Puhakka,M,Finland,FIN,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Joona Puhakka,M,Finland,FIN,2004,Athina,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Joona Puhakka,M,Finland,FIN,2008,Beijing,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Leo Suni,M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Leo Suni,M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,True
-Yrj (flaming-),M,Finland,FIN,1920,Antwerpen,Diving,Diving Men's Plain High,No medal,Diving,DIV,True
-Yrj (flaming-),M,Finland,FIN,1924,Paris,Diving,Diving Men's Plain High,No medal,Diving,DIV,True
-Helge (-wasenius),M,Finland,FIN,1952,Helsinki,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Helge (-wasenius),M,Finland,FIN,1956,Melbourne,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Helge (-wasenius),M,Finland,FIN,1956,Melbourne,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Oskar Wetzell,M,Finland,FIN,1908,London,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Oskar Wetzell,M,Finland,FIN,1908,London,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Oskar Wetzell,M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Oskar Wetzell,M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Oskar Wetzell,M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Toivo (ahlstedt-),M,Finland,FIN,1908,London,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Toivo (ahlstedt-),M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Toivo (ahlstedt-),M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,True,False
+Johan Elo,M,Finland,FIN,1924,Paris,Diving,Diving Men's Plain High,No medal,Diving,DIV,False,True
+Olavi Heinonen,M,Finland,FIN,1952,Helsinki,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Pekka Heinonen,M,Finland,FIN,1960,Roma,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Tauno (granit-),M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,False,True
+Kalle (ingberg-),M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Kalle (ingberg-),M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,True,True
+Kalle (ingberg-),M,Finland,FIN,1920,Antwerpen,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Kalle (ingberg-),M,Finland,FIN,1920,Antwerpen,Diving,Diving Men's Plain High,No medal,Diving,DIV,True,False
+Hannes Krkkinen,M,Finland,FIN,1924,Paris,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Jarl Kivel,M,Finland,FIN,1952,Helsinki,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Hugo Koivuniemi,M,Finland,FIN,1924,Paris,Diving,Diving Men's Plain High,No medal,Diving,DIV,False,True
+Pentti Koskinen,M,Finland,FIN,1964,Tokyo,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Pentti Koskinen,M,Finland,FIN,1968,Mexico City,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Pentti Koskinen,M,Finland,FIN,1972,Munich,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Lauri Kystil,M,Finland,FIN,1920,Antwerpen,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Lauri Kystil,M,Finland,FIN,1924,Paris,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Yrj Lampila,M,Finland,FIN,1928,Amsterdam,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Adolf (-launos),M,Finland,FIN,1924,Paris,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Heikki Niemelinen,M,Finland,FIN,1936,Berlin,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Heikki Niemelinen,M,Finland,FIN,1936,Berlin,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Heikki Niemelinen,M,Finland,FIN,1948,London,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Albert Nyman,M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,False,True
+Juha Ovaskainen,M,Finland,FIN,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Juha Ovaskainen,M,Finland,FIN,1988,Seoul,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Jukka Piekkanen,M,Finland,FIN,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Jukka Piekkanen,M,Finland,FIN,2004,Athina,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Joona Puhakka,M,Finland,FIN,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Joona Puhakka,M,Finland,FIN,2004,Athina,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Joona Puhakka,M,Finland,FIN,2008,Beijing,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Leo Suni,M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Leo Suni,M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,True,True
+Yrj (flaming-),M,Finland,FIN,1920,Antwerpen,Diving,Diving Men's Plain High,No medal,Diving,DIV,True,True
+Yrj (flaming-),M,Finland,FIN,1924,Paris,Diving,Diving Men's Plain High,No medal,Diving,DIV,True,False
+Helge (-wasenius),M,Finland,FIN,1952,Helsinki,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Helge (-wasenius),M,Finland,FIN,1956,Melbourne,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Helge (-wasenius),M,Finland,FIN,1956,Melbourne,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Oskar Wetzell,M,Finland,FIN,1908,London,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Oskar Wetzell,M,Finland,FIN,1908,London,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Oskar Wetzell,M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,False
+Oskar Wetzell,M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Oskar Wetzell,M,Finland,FIN,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,True,False

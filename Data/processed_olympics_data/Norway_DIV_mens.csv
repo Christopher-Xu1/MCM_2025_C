@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sigvard Andersen,M,Norway,NOR,1912,Stockholm,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Sigvard Andersen,M,Norway,NOR,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,True
-Sigvard Andersen,M,Norway,NOR,1920,Antwerpen,Diving,Diving Men's Platform,No medal,Diving,DIV,True
-Sigvard Andersen,M,Norway,NOR,1920,Antwerpen,Diving,Diving Men's Plain High,No medal,Diving,DIV,True
-Bernhard Dahl,M,Norway,NOR,1920,Antwerpen,Diving,Diving Men's Plain High,No medal,Diving,DIV,False
-Alfred Engelsen,M,Norway,NOR,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,False
-Amund Gismervik,M,Norway,NOR,2012,London,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Hkon Lken,M,Norway,NOR,1972,Munich,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Sam Melberg,M,Norway,NOR,1936,Berlin,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Rolf Stigersand,M,Norway,NOR,1948,London,Diving,Diving Men's Platform,No medal,Diving,DIV,False
-Christian Styren,M,Norway,NOR,1992,Barcelona,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
-Edvard Tvedt,M,Norway,NOR,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,False
-Jon Vegard,M,Norway,NOR,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
-Jon Vegard,M,Norway,NOR,1984,Los Angeles,Diving,Diving Men's Platform,No medal,Diving,DIV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sigvard Andersen,M,Norway,NOR,1912,Stockholm,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True
+Sigvard Andersen,M,Norway,NOR,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,True,True
+Sigvard Andersen,M,Norway,NOR,1920,Antwerpen,Diving,Diving Men's Platform,No medal,Diving,DIV,True,False
+Sigvard Andersen,M,Norway,NOR,1920,Antwerpen,Diving,Diving Men's Plain High,No medal,Diving,DIV,True,False
+Bernhard Dahl,M,Norway,NOR,1920,Antwerpen,Diving,Diving Men's Plain High,No medal,Diving,DIV,False,True
+Alfred Engelsen,M,Norway,NOR,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,False,True
+Amund Gismervik,M,Norway,NOR,2012,London,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Hkon Lken,M,Norway,NOR,1972,Munich,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Sam Melberg,M,Norway,NOR,1936,Berlin,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Rolf Stigersand,M,Norway,NOR,1948,London,Diving,Diving Men's Platform,No medal,Diving,DIV,False,True
+Christian Styren,M,Norway,NOR,1992,Barcelona,Diving,Diving Men's Springboard,No medal,Diving,DIV,False,True
+Edvard Tvedt,M,Norway,NOR,1912,Stockholm,Diving,Diving Men's Plain High,No medal,Diving,DIV,False,True
+Jon Vegard,M,Norway,NOR,1984,Los Angeles,Diving,Diving Men's Springboard,No medal,Diving,DIV,True,True
+Jon Vegard,M,Norway,NOR,1984,Los Angeles,Diving,Diving Men's Platform,No medal,Diving,DIV,True,True

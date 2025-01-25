@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tamsin Barnett-hinchley,F,Australia,AUS,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Natalie Cook,F,Australia,AUS,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False
-Mariafe Artacho,F,Australia,AUS,2020,Tokyo,Beach Volleyball,Women Team,Silver,Women,VBV,True
-Taliqua Clancy,F,Australia,AUS,2020,Tokyo,Beach Volleyball,Women Team,Silver,Women,VBV,True
-Mariafe Artacho,F,Australia,AUS,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,True
-Taliqua Clancy,F,Australia,AUS,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tamsin Barnett-hinchley,F,Australia,AUS,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Natalie Cook,F,Australia,AUS,2008,Beijing,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,No medal,Beach,VBV,False,True
+Mariafe Artacho,F,Australia,AUS,2020,Tokyo,Beach Volleyball,Women Team,Silver,Women,VBV,True,True
+Taliqua Clancy,F,Australia,AUS,2020,Tokyo,Beach Volleyball,Women Team,Silver,Women,VBV,True,True
+Mariafe Artacho,F,Australia,AUS,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,True,False
+Taliqua Clancy,F,Australia,AUS,2024,Paris,Beach Volleyball,Women,No medal,Women,VBV,True,False

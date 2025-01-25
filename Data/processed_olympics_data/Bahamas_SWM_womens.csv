@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nikia Deveaux,F,Bahamas,BAH,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Alana Dillette,F,Bahamas,BAH,2008,Beijing,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
-Joanna Evans,F,Bahamas,BAH,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
-Joanna Evans,F,Bahamas,BAH,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
-Joanna Evans,F,Bahamas,BAH,2016,Rio de Janeiro,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
-Arianna Vanderpool-wallace,F,Bahamas,BAH,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Arianna Vanderpool-wallace,F,Bahamas,BAH,2008,Beijing,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Arianna Vanderpool-wallace,F,Bahamas,BAH,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Arianna Vanderpool-wallace,F,Bahamas,BAH,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Arianna Vanderpool-wallace,F,Bahamas,BAH,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Arianna Vanderpool-wallace,F,Bahamas,BAH,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Joanna Evans,F,Bahamas,BAH,2020,Tokyo,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True
-Joanna Evans,F,Bahamas,BAH,2020,Tokyo,Swimming,Women's 400m Freestyle,No medal,Women's,SWM,True
-Rhanishka Gibbs,F,Bahamas,BAH,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nikia Deveaux,F,Bahamas,BAH,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Alana Dillette,F,Bahamas,BAH,2008,Beijing,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False,True
+Joanna Evans,F,Bahamas,BAH,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Joanna Evans,F,Bahamas,BAH,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Joanna Evans,F,Bahamas,BAH,2016,Rio de Janeiro,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True,True
+Arianna Vanderpool-wallace,F,Bahamas,BAH,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Arianna Vanderpool-wallace,F,Bahamas,BAH,2008,Beijing,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Arianna Vanderpool-wallace,F,Bahamas,BAH,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Arianna Vanderpool-wallace,F,Bahamas,BAH,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Arianna Vanderpool-wallace,F,Bahamas,BAH,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,False
+Arianna Vanderpool-wallace,F,Bahamas,BAH,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,False
+Joanna Evans,F,Bahamas,BAH,2020,Tokyo,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True,False
+Joanna Evans,F,Bahamas,BAH,2020,Tokyo,Swimming,Women's 400m Freestyle,No medal,Women's,SWM,True,False
+Rhanishka Gibbs,F,Bahamas,BAH,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True

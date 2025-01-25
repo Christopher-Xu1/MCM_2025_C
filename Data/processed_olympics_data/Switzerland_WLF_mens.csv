@@ -1,41 +1,41 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Albert Aeschmann,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Albert Aeschmann,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Albert Aeschmann,M,Switzerland,SUI,1936,Berlin,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Flix Bichsel,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Henri Blanc,M,Switzerland,SUI,1936,Berlin,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Michel Broillet,M,Switzerland,SUI,1976,Montreal,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Pierre Cottier,M,Switzerland,SUI,1936,Berlin,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Edmond Donz,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Walter Dossenbach,M,Switzerland,SUI,1952,Helsinki,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Hermann Eichholzer,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Roland Fidel,M,Switzerland,SUI,1960,Roma,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Ernst Fischer,M,Switzerland,SUI,1936,Berlin,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False
-Jacques Flury,M,Switzerland,SUI,1952,Helsinki,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Georges Freiburghaus,M,Switzerland,SUI,1960,Roma,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Otto Garnus,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Walter Gasser,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False
-Walter Hauser,M,Switzerland,SUI,1972,Munich,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Friedrich Hnenberger,M,Switzerland,SUI,1920,Antwerpen,Weightlifting,Weightlifting Men's Light-Heavyweight,Silver,Weightlifting,WLF,True
-Friedrich Hnenberger,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Light-Heavyweight,Silver,Weightlifting,WLF,True
-Joseph Jaquenoud,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Joseph Jaquenoud,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Edgar Juillerat,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Hans Kohler,M,Switzerland,SUI,1960,Roma,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Philippe Lab,M,Switzerland,SUI,1964,Tokyo,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
-Roland Magnenat,M,Switzerland,SUI,1952,Helsinki,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False
-Fritz Mast,M,Switzerland,SUI,1948,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Eugne Peney,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False
-Arthur Reinmann,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Featherweight,Bronze,Weightlifting,WLF,True
-Arthur Reinmann,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True
-Richard Rieder,M,Switzerland,SUI,1948,London,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Franz Riederer,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False
-Alois Rigert,M,Switzerland,SUI,1936,Berlin,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Roger Rubini,M,Switzerland,SUI,1948,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True
-Roger Rubini,M,Switzerland,SUI,1952,Helsinki,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True
-Eugne Ryter,M,Switzerland,SUI,1920,Antwerpen,Weightlifting,Weightlifting Men's Featherweight,Bronze,Weightlifting,WLF,False
-Anton Schrer,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-Justin Tissot,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False
-Ernst Trinkler,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False
-Daniel Tschan,M,Switzerland,SUI,1984,Los Angeles,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-Jules Gunten,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Albert Aeschmann,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,True
+Albert Aeschmann,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Albert Aeschmann,M,Switzerland,SUI,1936,Berlin,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,False
+Flix Bichsel,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Henri Blanc,M,Switzerland,SUI,1936,Berlin,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Michel Broillet,M,Switzerland,SUI,1976,Montreal,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Pierre Cottier,M,Switzerland,SUI,1936,Berlin,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Edmond Donz,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Walter Dossenbach,M,Switzerland,SUI,1952,Helsinki,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Hermann Eichholzer,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Roland Fidel,M,Switzerland,SUI,1960,Roma,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Ernst Fischer,M,Switzerland,SUI,1936,Berlin,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False,True
+Jacques Flury,M,Switzerland,SUI,1952,Helsinki,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Georges Freiburghaus,M,Switzerland,SUI,1960,Roma,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Otto Garnus,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Walter Gasser,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False,True
+Walter Hauser,M,Switzerland,SUI,1972,Munich,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Friedrich Hnenberger,M,Switzerland,SUI,1920,Antwerpen,Weightlifting,Weightlifting Men's Light-Heavyweight,Silver,Weightlifting,WLF,True,True
+Friedrich Hnenberger,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Light-Heavyweight,Silver,Weightlifting,WLF,True,False
+Joseph Jaquenoud,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,True
+Joseph Jaquenoud,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Edgar Juillerat,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Hans Kohler,M,Switzerland,SUI,1960,Roma,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Philippe Lab,M,Switzerland,SUI,1964,Tokyo,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True
+Roland Magnenat,M,Switzerland,SUI,1952,Helsinki,Weightlifting,Weightlifting Men's Bantamweight,No medal,Weightlifting,WLF,False,True
+Fritz Mast,M,Switzerland,SUI,1948,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Eugne Peney,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False,True
+Arthur Reinmann,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Featherweight,Bronze,Weightlifting,WLF,True,True
+Arthur Reinmann,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,True,False
+Richard Rieder,M,Switzerland,SUI,1948,London,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Franz Riederer,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,False,True
+Alois Rigert,M,Switzerland,SUI,1936,Berlin,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Roger Rubini,M,Switzerland,SUI,1948,London,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,True,True
+Roger Rubini,M,Switzerland,SUI,1952,Helsinki,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,True,False
+Eugne Ryter,M,Switzerland,SUI,1920,Antwerpen,Weightlifting,Weightlifting Men's Featherweight,Bronze,Weightlifting,WLF,False,True
+Anton Schrer,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+Justin Tissot,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Featherweight,No medal,Weightlifting,WLF,False,True
+Ernst Trinkler,M,Switzerland,SUI,1928,Amsterdam,Weightlifting,Weightlifting Men's Middleweight,No medal,Weightlifting,WLF,False,True
+Daniel Tschan,M,Switzerland,SUI,1984,Los Angeles,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+Jules Gunten,M,Switzerland,SUI,1924,Paris,Weightlifting,Weightlifting Men's Lightweight,No medal,Weightlifting,WLF,False,True

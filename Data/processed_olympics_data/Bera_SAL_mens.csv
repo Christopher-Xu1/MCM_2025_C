@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Rich Bockelie,M,Bera,NOR,1924,Paris,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Harald Jr.,M,Bera,NOR,1924,Paris,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Ingar Nielsen,M,Bera,NOR,1924,Paris,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Carl Jr.,M,Bera,NOR,1924,Paris,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
-Carl Sr.,M,Bera,NOR,1924,Paris,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Rich Bockelie,M,Bera,NOR,1924,Paris,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Harald Jr.,M,Bera,NOR,1924,Paris,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Ingar Nielsen,M,Bera,NOR,1924,Paris,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Carl Jr.,M,Bera,NOR,1924,Paris,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True
+Carl Sr.,M,Bera,NOR,1924,Paris,Sailing,Sailing Mixed 8 metres,Gold,Sailing,SAL,False,True

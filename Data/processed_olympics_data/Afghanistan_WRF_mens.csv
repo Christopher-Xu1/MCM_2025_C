@@ -1,43 +1,43 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Mohammad Aktar,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Mohammad Anwary,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False
-Mohammad Arref,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Mohammad Aynutdin,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Kayum Ayub,M,Afghanistan,AFG,1968,Mexico City,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False
-Ali Dad,M,Afghanistan,AFG,1988,Seoul,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Aka-Jahan Dastagir,M,Afghanistan,AFG,1968,Mexico City,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Ghulam Dastagir,M,Afghanistan,AFG,1968,Mexico City,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Ghulam Dastagir,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Ahmad Djan,M,Afghanistan,AFG,1968,Mexico City,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True
-Ahmad Djan,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True
-Djan-Aka Djan,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Djan-Aka Djan,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,True
-Sultan Dost,M,Afghanistan,AFG,1960,Roma,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False
-Mohammad Ebrahimi,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True
-Mohammad Ebrahimi,M,Afghanistan,AFG,1968,Mexico City,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True
-Mohammad Ebrahimi,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,True
-Ghulam Gunga,M,Afghanistan,AFG,1960,Roma,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Mohammad Halilula,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False
-Sakhidad Hamidi,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False
-Mohammad Kederi,M,Afghanistan,AFG,1960,Roma,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Faiz Khakshar,M,Afghanistan,AFG,1960,Roma,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Faiz Khakshar,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Amir Khalunder,M,Afghanistan,AFG,1960,Roma,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Ahmadjan Khasan,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Mohammad Khokan,M,Afghanistan,AFG,1960,Roma,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False
-Alam Mir,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,False
-Ahmad Nasir,M,Afghanistan,AFG,1988,Seoul,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Nour Noor,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,False
-Bashir Rahmati,M,Afghanistan,AFG,2004,Athina,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Mohammad Razigul,M,Afghanistan,AFG,1988,Seoul,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Ghulam Sanay,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Nour Sayed,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Shakar Shakar,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,True
-Shakar Shakar,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,True
-Mohammad Shir,M,Afghanistan,AFG,1988,Seoul,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False
-Ibrahim Shudzandin,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Ghulam Sideer,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False
-Nizam-ud-din Subhani,M,Afghanistan,AFG,1960,Roma,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Mohammad Taj,M,Afghanistan,AFG,1988,Seoul,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Khojawahid Zahedi,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False
-Wahid Zaid,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Mohammad Aktar,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Mohammad Anwary,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False,True
+Mohammad Arref,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Mohammad Aynutdin,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Kayum Ayub,M,Afghanistan,AFG,1968,Mexico City,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False,True
+Ali Dad,M,Afghanistan,AFG,1988,Seoul,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Aka-Jahan Dastagir,M,Afghanistan,AFG,1968,Mexico City,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Ghulam Dastagir,M,Afghanistan,AFG,1968,Mexico City,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True,True
+Ghulam Dastagir,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True,False
+Ahmad Djan,M,Afghanistan,AFG,1968,Mexico City,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True,True
+Ahmad Djan,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True,False
+Djan-Aka Djan,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True,True
+Djan-Aka Djan,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Sultan Dost,M,Afghanistan,AFG,1960,Roma,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False,True
+Mohammad Ebrahimi,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True,True
+Mohammad Ebrahimi,M,Afghanistan,AFG,1968,Mexico City,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True,False
+Mohammad Ebrahimi,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,True,False
+Ghulam Gunga,M,Afghanistan,AFG,1960,Roma,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Mohammad Halilula,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False,True
+Sakhidad Hamidi,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Mohammad Kederi,M,Afghanistan,AFG,1960,Roma,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Faiz Khakshar,M,Afghanistan,AFG,1960,Roma,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Faiz Khakshar,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Amir Khalunder,M,Afghanistan,AFG,1960,Roma,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Ahmadjan Khasan,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Mohammad Khokan,M,Afghanistan,AFG,1960,Roma,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,False,True
+Alam Mir,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Ahmad Nasir,M,Afghanistan,AFG,1988,Seoul,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Nour Noor,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Bashir Rahmati,M,Afghanistan,AFG,2004,Athina,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Mohammad Razigul,M,Afghanistan,AFG,1988,Seoul,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Ghulam Sanay,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Nour Sayed,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Shakar Shakar,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,True,True
+Shakar Shakar,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,True,False
+Mohammad Shir,M,Afghanistan,AFG,1988,Seoul,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,False,True
+Ibrahim Shudzandin,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Ghulam Sideer,M,Afghanistan,AFG,1972,Munich,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False,True
+Nizam-ud-din Subhani,M,Afghanistan,AFG,1960,Roma,Wrestling,"Wrestling Men's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Mohammad Taj,M,Afghanistan,AFG,1988,Seoul,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Khojawahid Zahedi,M,Afghanistan,AFG,1980,Moskva,Wrestling,"Wrestling Men's Welterweight, Freestyle",No medal,Wrestling,WRF,False,True
+Wahid Zaid,M,Afghanistan,AFG,1964,Tokyo,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,False,True

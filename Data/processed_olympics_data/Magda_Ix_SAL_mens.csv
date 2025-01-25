@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Johan Anker,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Nils Berthelsen,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Eilert Falch-lund,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Halfdan Hansen,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Arnfinn Heje,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Magnus Konow,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Alfred Larsen,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Petter Larsen,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Christian Staib,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
-Carl Thaulow,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Johan Anker,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Nils Berthelsen,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Eilert Falch-lund,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Halfdan Hansen,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Arnfinn Heje,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Magnus Konow,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Alfred Larsen,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Petter Larsen,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Christian Staib,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True
+Carl Thaulow,M,Magda Ix,NOR,1912,Stockholm,Sailing,Sailing Mixed 12 metres,Gold,Sailing,SAL,False,True

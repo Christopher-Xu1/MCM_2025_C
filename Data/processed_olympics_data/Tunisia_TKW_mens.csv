@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hichem Al-hamdouni,M,Tunisia,TUN,2004,Athina,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False
-Mohammed Al-omrani,M,Tunisia,TUN,2004,Athina,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False
-Oussama Al-oueslati,M,Tunisia,TUN,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Welterweight,Bronze,Taekwondo,TKW,False
-Yassine Al-trabelsi,M,Tunisia,TUN,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False
-Khalil Jendoubi,M,Tunisia,TUN,2020,Tokyo,Taekwondo,Men -58kg,Silver,Men,TKW,True
-Khalil Jendoubi,M,Tunisia,TUN,2024,Paris,Taekwondo,Men -58kg,Bronze,Men,TKW,True
-Firas Katoussi,M,Tunisia,TUN,2024,Paris,Taekwondo,Men -80kg,Gold,Men,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hichem Al-hamdouni,M,Tunisia,TUN,2004,Athina,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False,True
+Mohammed Al-omrani,M,Tunisia,TUN,2004,Athina,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False,True
+Oussama Al-oueslati,M,Tunisia,TUN,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Welterweight,Bronze,Taekwondo,TKW,False,True
+Yassine Al-trabelsi,M,Tunisia,TUN,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False,True
+Khalil Jendoubi,M,Tunisia,TUN,2020,Tokyo,Taekwondo,Men -58kg,Silver,Men,TKW,True,True
+Khalil Jendoubi,M,Tunisia,TUN,2024,Paris,Taekwondo,Men -58kg,Bronze,Men,TKW,True,False
+Firas Katoussi,M,Tunisia,TUN,2024,Paris,Taekwondo,Men -80kg,Gold,Men,TKW,False,True

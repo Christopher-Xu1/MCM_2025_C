@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ella Nicholas,F,Cook Islands,COK,2012,London,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Ella Nicholas,F,Cook Islands,COK,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True
-Jane Nicholas,F,Cook Islands,COK,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,True
-Jane Nicholas,F,Cook Islands,COK,2020,Tokyo,Canoe Slalom,Women's Canoe,No medal,Women's,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ella Nicholas,F,Cook Islands,COK,2012,London,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,True
+Ella Nicholas,F,Cook Islands,COK,2016,Rio de Janeiro,Canoeing,"Canoeing Women's Kayak Singles, Slalom",No medal,Canoeing,CSL,True,False
+Jane Nicholas,F,Cook Islands,COK,2020,Tokyo,Canoe Slalom,Women's Kayak,No medal,Women's,CSL,True,True
+Jane Nicholas,F,Cook Islands,COK,2020,Tokyo,Canoe Slalom,Women's Canoe,No medal,Women's,CSL,True,True

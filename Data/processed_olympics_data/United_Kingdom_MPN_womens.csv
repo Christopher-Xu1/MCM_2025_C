@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Katherine Allenby,F,United Kingdom,GBR,2000,Sydney,Modern Pentathlon,Modern Pentathlon Women's Individual,Bronze,Modern,MPN,True
-Katherine Allenby,F,United Kingdom,GBR,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Stephanie Cook,F,United Kingdom,GBR,2000,Sydney,Modern Pentathlon,Modern Pentathlon Women's Individual,Gold,Modern,MPN,False
-Heather Fell,F,United Kingdom,GBR,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,Silver,Modern,MPN,False
-Katherine French,F,United Kingdom,GBR,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Georgina (-seccombe),F,United Kingdom,GBR,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,Bronze,Modern,MPN,False
-Katherine Livingston,F,United Kingdom,GBR,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Samantha Murray,F,United Kingdom,GBR,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,Silver,Modern,MPN,True
-Samantha Murray,F,United Kingdom,GBR,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True
-Mhairi Spence,F,United Kingdom,GBR,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False
-Kate French,F,United Kingdom,GBR,2020,Tokyo,Modern Pentathlon,Women's Individual,Gold,Women's,MPN,True
-Joanna Muir,F,United Kingdom,GBR,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False
-Kerenza Bryson,F,United Kingdom,GBR,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False
-Kate French,F,United Kingdom,GBR,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Katherine Allenby,F,United Kingdom,GBR,2000,Sydney,Modern Pentathlon,Modern Pentathlon Women's Individual,Bronze,Modern,MPN,True,True
+Katherine Allenby,F,United Kingdom,GBR,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Stephanie Cook,F,United Kingdom,GBR,2000,Sydney,Modern Pentathlon,Modern Pentathlon Women's Individual,Gold,Modern,MPN,False,True
+Heather Fell,F,United Kingdom,GBR,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,Silver,Modern,MPN,False,True
+Katherine French,F,United Kingdom,GBR,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Georgina (-seccombe),F,United Kingdom,GBR,2004,Athina,Modern Pentathlon,Modern Pentathlon Women's Individual,Bronze,Modern,MPN,False,True
+Katherine Livingston,F,United Kingdom,GBR,2008,Beijing,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Samantha Murray,F,United Kingdom,GBR,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,Silver,Modern,MPN,True,True
+Samantha Murray,F,United Kingdom,GBR,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,True,False
+Mhairi Spence,F,United Kingdom,GBR,2012,London,Modern Pentathlon,Modern Pentathlon Women's Individual,No medal,Modern,MPN,False,True
+Kate French,F,United Kingdom,GBR,2020,Tokyo,Modern Pentathlon,Women's Individual,Gold,Women's,MPN,True,True
+Joanna Muir,F,United Kingdom,GBR,2020,Tokyo,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False,True
+Kerenza Bryson,F,United Kingdom,GBR,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,False,True
+Kate French,F,United Kingdom,GBR,2024,Paris,Modern Pentathlon,Women's Individual,No medal,Women's,MPN,True,False

@@ -1,28 +1,28 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Magorzata Biaecka,F,Poland,POL,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Monika Bronicka,F,Poland,POL,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Monika Bronicka,F,Poland,POL,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Joanna Burzyska,F,Poland,POL,1992,Barcelona,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Anna Gaecka,F,Poland,POL,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Weronika Glinkiewicz,F,Poland,POL,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Irmina Mrzek-gliszczyska,F,Poland,POL,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Zofia Noceti-klepacka,F,Poland,POL,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Zofia Noceti-klepacka,F,Poland,POL,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Zofia Noceti-klepacka,F,Poland,POL,2012,London,Sailing,Sailing Women's Windsurfer,Bronze,Sailing,SAL,True
-Jolanta Ogar,F,Poland,POL,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Agnieszka Skrzypulec,F,Poland,POL,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Agnieszka Skrzypulec,F,Poland,POL,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Dorota (-kumiszcze),F,Poland,POL,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False
-Katarzyna (-deberny),F,Poland,POL,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Anna Weinzieher,F,Poland,POL,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False
-Magdalena Kwasna,F,Poland,POL,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,False
-Kinga Loboda,F,Poland,POL,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False
-Aleksandra Melzacka,F,Poland,POL,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,True
-Zofia Noceti,F,Poland,POL,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False
-Jolanta Ogar,F,Poland,POL,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,Silver,Women's,SAL,True
-Agnieszka Skrzypulec,F,Poland,POL,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,Silver,Women's,SAL,True
-Agata Barwinska,F,Poland,POL,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False
-Maja Dziarnowska,F,Poland,POL,2024,Paris,Sailing,Women's Windsurfing,No medal,Women's,SAL,False
-Aleksandra Melzacka,F,Poland,POL,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,True
-Julia Damasiewicz,F,Poland,POL,2024,Paris,Sailing,Women's Kite,No medal,Women's,SAL,False
-Sandra Jankowiak,F,Poland,POL,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Magorzata Biaecka,F,Poland,POL,2016,Rio de Janeiro,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Monika Bronicka,F,Poland,POL,2000,Sydney,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Monika Bronicka,F,Poland,POL,2004,Athina,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Joanna Burzyska,F,Poland,POL,1992,Barcelona,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Anna Gaecka,F,Poland,POL,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Weronika Glinkiewicz,F,Poland,POL,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Irmina Mrzek-gliszczyska,F,Poland,POL,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Zofia Noceti-klepacka,F,Poland,POL,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Zofia Noceti-klepacka,F,Poland,POL,2008,Beijing,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Zofia Noceti-klepacka,F,Poland,POL,2012,London,Sailing,Sailing Women's Windsurfer,Bronze,Sailing,SAL,True,False
+Jolanta Ogar,F,Poland,POL,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Agnieszka Skrzypulec,F,Poland,POL,2012,London,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Agnieszka Skrzypulec,F,Poland,POL,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,False
+Dorota (-kumiszcze),F,Poland,POL,1996,Atlanta,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,False,True
+Katarzyna (-deberny),F,Poland,POL,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Anna Weinzieher,F,Poland,POL,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,False,True
+Magdalena Kwasna,F,Poland,POL,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,False,True
+Kinga Loboda,F,Poland,POL,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,False,True
+Aleksandra Melzacka,F,Poland,POL,2020,Tokyo,Sailing,Women's Skiff - 49er  Team,No medal,Women's,SAL,True,True
+Zofia Noceti,F,Poland,POL,2020,Tokyo,Sailing,Women's Windsurfer - RS:X,No medal,Women's,SAL,False,True
+Jolanta Ogar,F,Poland,POL,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,Silver,Women's,SAL,True,False
+Agnieszka Skrzypulec,F,Poland,POL,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,Silver,Women's,SAL,True,False
+Agata Barwinska,F,Poland,POL,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,False,True
+Maja Dziarnowska,F,Poland,POL,2024,Paris,Sailing,Women's Windsurfing,No medal,Women's,SAL,False,True
+Aleksandra Melzacka,F,Poland,POL,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,True,False
+Julia Damasiewicz,F,Poland,POL,2024,Paris,Sailing,Women's Kite,No medal,Women's,SAL,False,True
+Sandra Jankowiak,F,Poland,POL,2024,Paris,Sailing,Women's Skiff,No medal,Women's,SAL,False,True

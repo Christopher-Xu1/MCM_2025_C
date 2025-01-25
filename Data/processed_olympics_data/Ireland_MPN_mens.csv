@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sackville Currie,M,Ireland,IRL,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Sackville Currie,M,Ireland,IRL,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Jerome Hartigan,M,Ireland,IRL,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Jerome Hartigan,M,Ireland,IRL,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Marcus Hartigan,M,Ireland,IRL,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Marcus Hartigan,M,Ireland,IRL,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
-Arthur Lanigan-o'keeffe,M,Ireland,IRL,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
-Arthur Lanigan-o'keeffe,M,Ireland,IRL,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sackville Currie,M,Ireland,IRL,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Sackville Currie,M,Ireland,IRL,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Jerome Hartigan,M,Ireland,IRL,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Jerome Hartigan,M,Ireland,IRL,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Marcus Hartigan,M,Ireland,IRL,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Marcus Hartigan,M,Ireland,IRL,1980,Moskva,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True,True
+Arthur Lanigan-o'keeffe,M,Ireland,IRL,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,True
+Arthur Lanigan-o'keeffe,M,Ireland,IRL,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True,False

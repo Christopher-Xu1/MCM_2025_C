@@ -1,71 +1,71 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Marta Romagosa,F,Spain,ESP,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Marta Romagosa,F,Spain,ESP,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Marta Romagosa,F,Spain,ESP,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Mnica Antich,F,Spain,ESP,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Mnica Antich,F,Spain,ESP,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Nuria Mitjavila,F,Spain,ESP,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Nuria Mitjavila,F,Spain,ESP,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Nuria Mitjavila,F,Spain,ESP,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Clara Caellas,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,False
-Alba Rodilla,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,True
-Alba Rodilla,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,True
-Ona Ballestero,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,Silver,Synchronized,SWA,True
-Ona Ballestero,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,True
-Ona Ballestero,F,Spain,ESP,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Raquel Aznar,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Raquel Aznar,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,True
-Rosa Soler,F,Spain,ESP,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False
-Margalida Jaume,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,False
-Andrea Fache,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Andrea Fache,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,Silver,Synchronized,SWA,True
-Andrea Fache,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,True
-Andrea Fache,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,Silver,Synchronized,SWA,True
-Andrea Fache,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,True
-Tina Fache,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Thais Torres,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,True
-Thais Torres,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,True
-Paula Roque,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,False
-Eva Morales,F,Spain,ESP,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Eva Morales,F,Spain,ESP,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Eva Morales,F,Spain,ESP,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Eva Morales,F,Spain,ESP,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Laura Valle,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,False
-Gemma Civil,F,Spain,ESP,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Gemma Civil,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Gemma Civil,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Gemma Civil,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,Silver,Synchronized,SWA,True
-Gemma Civil,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,True
-Gemma Civil,F,Spain,ESP,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Ana Pacheco,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Laia Areas,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,False
-Irina Lvarez,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Irina Lvarez,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,True
-Saray Alfonso,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
-Ana Campa,F,Spain,ESP,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
-Ana Campa,F,Spain,ESP,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Paola Snchez,F,Spain,ESP,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Paola Snchez,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
-Paola Snchez,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
-Paola Snchez,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,True
-Ona Carbonell,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False
-Berta Ferreras,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False
-Meritxell Mas,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True
-Alisa Ozhogina,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True
-Alisa Ozhogina,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True
-Paula Ramirez,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True
-Sara Saldana,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True
-Iris Tio,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True
-Iris Tio,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True
-Blanca Toledano,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True
-Txell Ferre,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,False
-Marina Garcia,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,False
-Lilou Lluis,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,False
-Meritxell Mas,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,True
-Alisa Ozhogina,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,True
-Alisa Ozhogina,F,Spain,ESP,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True
-Paula Ramirez,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,True
-Sara Saldana,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,True
-Iris Tio,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,True
-Iris Tio,F,Spain,ESP,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True
-Blanca Toledano,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Marta Romagosa,F,Spain,ESP,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Marta Romagosa,F,Spain,ESP,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,False
+Marta Romagosa,F,Spain,ESP,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Mnica Antich,F,Spain,ESP,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Mnica Antich,F,Spain,ESP,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Nuria Mitjavila,F,Spain,ESP,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Nuria Mitjavila,F,Spain,ESP,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Nuria Mitjavila,F,Spain,ESP,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,False
+Clara Caellas,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,False,True
+Alba Rodilla,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,True,True
+Alba Rodilla,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,True,False
+Ona Ballestero,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,Silver,Synchronized,SWA,True,True
+Ona Ballestero,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,True,True
+Ona Ballestero,F,Spain,ESP,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Raquel Aznar,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,True
+Raquel Aznar,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,True,False
+Rosa Soler,F,Spain,ESP,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False,True
+Margalida Jaume,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,False,True
+Andrea Fache,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,True
+Andrea Fache,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,Silver,Synchronized,SWA,True,False
+Andrea Fache,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,True,False
+Andrea Fache,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,Silver,Synchronized,SWA,True,False
+Andrea Fache,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,True,False
+Tina Fache,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Thais Torres,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,True,True
+Thais Torres,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,True,False
+Paula Roque,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,False,True
+Eva Morales,F,Spain,ESP,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Eva Morales,F,Spain,ESP,1988,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Eva Morales,F,Spain,ESP,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,False
+Eva Morales,F,Spain,ESP,1992,Barcelona,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Laura Valle,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,False,True
+Gemma Civil,F,Spain,ESP,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Gemma Civil,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Gemma Civil,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,False
+Gemma Civil,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,Silver,Synchronized,SWA,True,False
+Gemma Civil,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,True,False
+Gemma Civil,F,Spain,ESP,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Ana Pacheco,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Laia Areas,F,Spain,ESP,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,Bronze,Synchronized,SWA,False,True
+Irina Lvarez,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,True
+Irina Lvarez,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,True,False
+Saray Alfonso,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False,True
+Ana Campa,F,Spain,ESP,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True,True
+Ana Campa,F,Spain,ESP,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Paola Snchez,F,Spain,ESP,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,True
+Paola Snchez,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True,False
+Paola Snchez,F,Spain,ESP,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True,False
+Paola Snchez,F,Spain,ESP,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,Silver,Synchronized,SWA,True,False
+Ona Carbonell,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False,True
+Berta Ferreras,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False,True
+Meritxell Mas,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True,True
+Alisa Ozhogina,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True,True
+Alisa Ozhogina,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True,True
+Paula Ramirez,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True,True
+Sara Saldana,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True,True
+Iris Tio,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True,True
+Iris Tio,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True,True
+Blanca Toledano,F,Spain,ESP,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True,True
+Txell Ferre,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,False,True
+Marina Garcia,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,False,True
+Lilou Lluis,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,False,True
+Meritxell Mas,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,True,False
+Alisa Ozhogina,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,True,False
+Alisa Ozhogina,F,Spain,ESP,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True,False
+Paula Ramirez,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,True,False
+Sara Saldana,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,True,False
+Iris Tio,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,True,False
+Iris Tio,F,Spain,ESP,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True,False
+Blanca Toledano,F,Spain,ESP,2024,Paris,Artistic Swimming,Team,Bronze,Team,SWA,True,False

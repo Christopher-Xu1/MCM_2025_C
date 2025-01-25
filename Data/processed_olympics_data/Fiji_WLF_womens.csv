@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Maria Liku,F,Fiji,FIJ,2012,London,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
-Asenaca Shaw,F,Fiji,FIJ,2004,Athina,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Kesaia Tawai,F,Fiji,FIJ,2000,Sydney,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
-Apolonia Vaivai,F,Fiji,FIJ,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Maria Liku,F,Fiji,FIJ,2012,London,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True
+Asenaca Shaw,F,Fiji,FIJ,2004,Athina,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Kesaia Tawai,F,Fiji,FIJ,2000,Sydney,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True
+Apolonia Vaivai,F,Fiji,FIJ,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Light-Heavyweight,No medal,Weightlifting,WLF,False,True

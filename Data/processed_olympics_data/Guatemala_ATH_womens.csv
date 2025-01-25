@@ -1,20 +1,20 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Teresita Ramos,F,Guatemala,GUA,2000,Sydney,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,True
-Teresita Ramos,F,Guatemala,GUA,2004,Athina,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,True
-Mara Cox,F,Guatemala,GUA,1988,Seoul,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False
-Graviola Ewing,F,Guatemala,GUA,1952,Helsinki,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Graviola Ewing,F,Guatemala,GUA,1952,Helsinki,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Jamy Nez,F,Guatemala,GUA,2012,London,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,False
-Mayra Prez,F,Guatemala,GUA,2012,London,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,True
-Mayra Prez,F,Guatemala,GUA,2016,Rio de Janeiro,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,True
-Zonia Jurez,F,Guatemala,GUA,1984,Los Angeles,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True
-Zonia Jurez,F,Guatemala,GUA,1984,Los Angeles,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True
-Evelyn Fuentes,F,Guatemala,GUA,2008,Beijing,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,False
-Mirna Flores,F,Guatemala,GUA,2012,London,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,True
-Mirna Flores,F,Guatemala,GUA,2016,Rio de Janeiro,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,True
-Maritza Tzul,F,Guatemala,GUA,2016,Rio de Janeiro,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,False
-Christa Schumann-lottmann,F,Guatemala,GUA,1984,Los Angeles,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True
-Christa Schumann-lottmann,F,Guatemala,GUA,1984,Los Angeles,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True
-Mirna Ortiz,F,Guatemala,GUA,2020,Tokyo,Athletics,Women's 20km Race Walk,No medal,Women's,ATH,False
-Mayra Perez,F,Guatemala,GUA,2020,Tokyo,Athletics,Women's 20km Race Walk,No medal,Women's,ATH,False
-Mariandree Chacon,F,Guatemala,GUA,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Teresita Ramos,F,Guatemala,GUA,2000,Sydney,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,True,True
+Teresita Ramos,F,Guatemala,GUA,2004,Athina,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,True,False
+Mara Cox,F,Guatemala,GUA,1988,Seoul,Athletics,Athletics Women's Marathon,No medal,Athletics,ATH,False,True
+Graviola Ewing,F,Guatemala,GUA,1952,Helsinki,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Graviola Ewing,F,Guatemala,GUA,1952,Helsinki,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Jamy Nez,F,Guatemala,GUA,2012,London,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,False,True
+Mayra Prez,F,Guatemala,GUA,2012,London,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,True,True
+Mayra Prez,F,Guatemala,GUA,2016,Rio de Janeiro,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,True,False
+Zonia Jurez,F,Guatemala,GUA,1984,Los Angeles,Athletics,Athletics Women's 400 metres,No medal,Athletics,ATH,True,True
+Zonia Jurez,F,Guatemala,GUA,1984,Los Angeles,Athletics,Athletics Women's 800 metres,No medal,Athletics,ATH,True,True
+Evelyn Fuentes,F,Guatemala,GUA,2008,Beijing,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,False,True
+Mirna Flores,F,Guatemala,GUA,2012,London,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,True,True
+Mirna Flores,F,Guatemala,GUA,2016,Rio de Janeiro,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,True,False
+Maritza Tzul,F,Guatemala,GUA,2016,Rio de Janeiro,Athletics,Athletics Women's 20 kilometres Walk,No medal,Athletics,ATH,False,True
+Christa Schumann-lottmann,F,Guatemala,GUA,1984,Los Angeles,Athletics,Athletics Women's 100 metres,No medal,Athletics,ATH,True,True
+Christa Schumann-lottmann,F,Guatemala,GUA,1984,Los Angeles,Athletics,Athletics Women's 200 metres,No medal,Athletics,ATH,True,True
+Mirna Ortiz,F,Guatemala,GUA,2020,Tokyo,Athletics,Women's 20km Race Walk,No medal,Women's,ATH,False,True
+Mayra Perez,F,Guatemala,GUA,2020,Tokyo,Athletics,Women's 20km Race Walk,No medal,Women's,ATH,False,True
+Mariandree Chacon,F,Guatemala,GUA,2024,Paris,Athletics,Women's 100m,No medal,Women's,ATH,False,True

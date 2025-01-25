@@ -1,31 +1,31 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Sara Dosho,F,Japan,JPN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Light-Heavyweight, Freestyle",Gold,Wrestling,WRF,True
-Kyoko Hamaguchi,F,Japan,JPN,2004,Athina,Wrestling,"Wrestling Women's Heavyweight, Freestyle",Bronze,Wrestling,WRF,True
-Kyoko Hamaguchi,F,Japan,JPN,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",Bronze,Wrestling,WRF,True
-Kyoko Hamaguchi,F,Japan,JPN,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True
-Chiharu Icho,F,Japan,JPN,2004,Athina,Wrestling,"Wrestling Women's Flyweight, Freestyle",Silver,Wrestling,WRF,True
-Chiharu Icho,F,Japan,JPN,2008,Beijing,Wrestling,"Wrestling Women's Flyweight, Freestyle",Silver,Wrestling,WRF,True
-Kaori Icho,F,Japan,JPN,2004,Athina,Wrestling,"Wrestling Women's Middleweight, Freestyle",Gold,Wrestling,WRF,True
-Kaori Icho,F,Japan,JPN,2008,Beijing,Wrestling,"Wrestling Women's Middleweight, Freestyle",Gold,Wrestling,WRF,True
-Kaori Icho,F,Japan,JPN,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",Gold,Wrestling,WRF,True
-Kaori Icho,F,Japan,JPN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",Gold,Wrestling,WRF,True
-Risako Kawai,F,Japan,JPN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",Gold,Wrestling,WRF,True
-Hitomi (sakamoto-),F,Japan,JPN,2012,London,Wrestling,"Wrestling Women's Flyweight, Freestyle",Gold,Wrestling,WRF,False
-Eri Tosaka,F,Japan,JPN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",Gold,Wrestling,WRF,False
-Rio Watari,F,Japan,JPN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False
-Saori Yoshida,F,Japan,JPN,2004,Athina,Wrestling,"Wrestling Women's Lightweight, Freestyle",Gold,Wrestling,WRF,True
-Saori Yoshida,F,Japan,JPN,2008,Beijing,Wrestling,"Wrestling Women's Lightweight, Freestyle",Gold,Wrestling,WRF,True
-Saori Yoshida,F,Japan,JPN,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",Gold,Wrestling,WRF,True
-Saori Yoshida,F,Japan,JPN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",Silver,Wrestling,WRF,True
-Sara Dosho,F,Japan,JPN,2020,Tokyo,Wrestling,Women's Freestyle 68kg,No medal,Women's,WRF,True
-Risako Kawai,F,Japan,JPN,2020,Tokyo,Wrestling,Women's Freestyle 57kg,Gold,Women's,WRF,True
-Yukako Kawai,F,Japan,JPN,2020,Tokyo,Wrestling,Women's Freestyle 62kg,Gold,Women's,WRF,False
-Hiroe Minagawa,F,Japan,JPN,2020,Tokyo,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,False
-Mayu Mukaida,F,Japan,JPN,2020,Tokyo,Wrestling,Women's Freestyle 53kg,Gold,Women's,WRF,False
-Yui Susaki,F,Japan,JPN,2020,Tokyo,Wrestling,Women's Freestyle 50kg,Gold,Women's,WRF,True
-Yuka Kagami,F,Japan,JPN,2024,Paris,Wrestling,Women's Freestyle 76kg,Gold,Women's,WRF,False
-Sakura Motoki,F,Japan,JPN,2024,Paris,Wrestling,Women's Freestyle 62kg,Gold,Women's,WRF,False
-Nonoka Ozaki,F,Japan,JPN,2024,Paris,Wrestling,Women's Freestyle 68kg,Bronze,Women's,WRF,False
-Tsugumi Sakurai,F,Japan,JPN,2024,Paris,Wrestling,Women's Freestyle 57kg,Gold,Women's,WRF,False
-Akari Fujinami,F,Japan,JPN,2024,Paris,Wrestling,Women's Freestyle 53kg,Gold,Women's,WRF,False
-Yui Susaki,F,Japan,JPN,2024,Paris,Wrestling,Women's Freestyle 50kg,Bronze,Women's,WRF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Sara Dosho,F,Japan,JPN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Light-Heavyweight, Freestyle",Gold,Wrestling,WRF,True,True
+Kyoko Hamaguchi,F,Japan,JPN,2004,Athina,Wrestling,"Wrestling Women's Heavyweight, Freestyle",Bronze,Wrestling,WRF,True,True
+Kyoko Hamaguchi,F,Japan,JPN,2008,Beijing,Wrestling,"Wrestling Women's Heavyweight, Freestyle",Bronze,Wrestling,WRF,True,False
+Kyoko Hamaguchi,F,Japan,JPN,2012,London,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Chiharu Icho,F,Japan,JPN,2004,Athina,Wrestling,"Wrestling Women's Flyweight, Freestyle",Silver,Wrestling,WRF,True,True
+Chiharu Icho,F,Japan,JPN,2008,Beijing,Wrestling,"Wrestling Women's Flyweight, Freestyle",Silver,Wrestling,WRF,True,False
+Kaori Icho,F,Japan,JPN,2004,Athina,Wrestling,"Wrestling Women's Middleweight, Freestyle",Gold,Wrestling,WRF,True,True
+Kaori Icho,F,Japan,JPN,2008,Beijing,Wrestling,"Wrestling Women's Middleweight, Freestyle",Gold,Wrestling,WRF,True,False
+Kaori Icho,F,Japan,JPN,2012,London,Wrestling,"Wrestling Women's Middleweight, Freestyle",Gold,Wrestling,WRF,True,False
+Kaori Icho,F,Japan,JPN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Lightweight, Freestyle",Gold,Wrestling,WRF,True,False
+Risako Kawai,F,Japan,JPN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Middleweight, Freestyle",Gold,Wrestling,WRF,True,True
+Hitomi (sakamoto-),F,Japan,JPN,2012,London,Wrestling,"Wrestling Women's Flyweight, Freestyle",Gold,Wrestling,WRF,False,True
+Eri Tosaka,F,Japan,JPN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Flyweight, Freestyle",Gold,Wrestling,WRF,False,True
+Rio Watari,F,Japan,JPN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Heavyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Saori Yoshida,F,Japan,JPN,2004,Athina,Wrestling,"Wrestling Women's Lightweight, Freestyle",Gold,Wrestling,WRF,True,True
+Saori Yoshida,F,Japan,JPN,2008,Beijing,Wrestling,"Wrestling Women's Lightweight, Freestyle",Gold,Wrestling,WRF,True,False
+Saori Yoshida,F,Japan,JPN,2012,London,Wrestling,"Wrestling Women's Lightweight, Freestyle",Gold,Wrestling,WRF,True,False
+Saori Yoshida,F,Japan,JPN,2016,Rio de Janeiro,Wrestling,"Wrestling Women's Featherweight, Freestyle",Silver,Wrestling,WRF,True,False
+Sara Dosho,F,Japan,JPN,2020,Tokyo,Wrestling,Women's Freestyle 68kg,No medal,Women's,WRF,True,False
+Risako Kawai,F,Japan,JPN,2020,Tokyo,Wrestling,Women's Freestyle 57kg,Gold,Women's,WRF,True,False
+Yukako Kawai,F,Japan,JPN,2020,Tokyo,Wrestling,Women's Freestyle 62kg,Gold,Women's,WRF,False,True
+Hiroe Minagawa,F,Japan,JPN,2020,Tokyo,Wrestling,Women's Freestyle 76kg,No medal,Women's,WRF,False,True
+Mayu Mukaida,F,Japan,JPN,2020,Tokyo,Wrestling,Women's Freestyle 53kg,Gold,Women's,WRF,False,True
+Yui Susaki,F,Japan,JPN,2020,Tokyo,Wrestling,Women's Freestyle 50kg,Gold,Women's,WRF,True,True
+Yuka Kagami,F,Japan,JPN,2024,Paris,Wrestling,Women's Freestyle 76kg,Gold,Women's,WRF,False,True
+Sakura Motoki,F,Japan,JPN,2024,Paris,Wrestling,Women's Freestyle 62kg,Gold,Women's,WRF,False,True
+Nonoka Ozaki,F,Japan,JPN,2024,Paris,Wrestling,Women's Freestyle 68kg,Bronze,Women's,WRF,False,True
+Tsugumi Sakurai,F,Japan,JPN,2024,Paris,Wrestling,Women's Freestyle 57kg,Gold,Women's,WRF,False,True
+Akari Fujinami,F,Japan,JPN,2024,Paris,Wrestling,Women's Freestyle 53kg,Gold,Women's,WRF,False,True
+Yui Susaki,F,Japan,JPN,2024,Paris,Wrestling,Women's Freestyle 50kg,Bronze,Women's,WRF,True,False

@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bernard Pourtals,M,Lerina,SUI,1900,Paris,Sailing,Sailing Mixed Open,No medal,Sailing,SAL,True
-Bernard Pourtals,M,Lerina,SUI,1900,Paris,Sailing,Sailing Mixed 1-2 Ton,Gold,Sailing,SAL,True
-Bernard Pourtals,M,Lerina,SUI,1900,Paris,Sailing,Sailing Mixed 1-2 Ton,Silver,Sailing,SAL,True
-Hermann Pourtals,M,Lerina,SUI,1900,Paris,Sailing,Sailing Mixed Open,No medal,Sailing,SAL,True
-Hermann Pourtals,M,Lerina,SUI,1900,Paris,Sailing,Sailing Mixed 1-2 Ton,Gold,Sailing,SAL,True
-Hermann Pourtals,M,Lerina,SUI,1900,Paris,Sailing,Sailing Mixed 1-2 Ton,Silver,Sailing,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bernard Pourtals,M,Lerina,SUI,1900,Paris,Sailing,Sailing Mixed Open,No medal,Sailing,SAL,True,True
+Bernard Pourtals,M,Lerina,SUI,1900,Paris,Sailing,Sailing Mixed 1-2 Ton,Gold,Sailing,SAL,True,True
+Bernard Pourtals,M,Lerina,SUI,1900,Paris,Sailing,Sailing Mixed 1-2 Ton,Silver,Sailing,SAL,True,True
+Hermann Pourtals,M,Lerina,SUI,1900,Paris,Sailing,Sailing Mixed Open,No medal,Sailing,SAL,True,True
+Hermann Pourtals,M,Lerina,SUI,1900,Paris,Sailing,Sailing Mixed 1-2 Ton,Gold,Sailing,SAL,True,True
+Hermann Pourtals,M,Lerina,SUI,1900,Paris,Sailing,Sailing Mixed 1-2 Ton,Silver,Sailing,SAL,True,True

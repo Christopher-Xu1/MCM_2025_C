@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Johan Carp,M,Willem-Six,NED,1924,Paris,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
-Anthonij Gupin,M,Willem-Six,NED,1924,Paris,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
-Jan Vreede,M,Willem-Six,NED,1924,Paris,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Johan Carp,M,Willem-Six,NED,1924,Paris,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True
+Anthonij Gupin,M,Willem-Six,NED,1924,Paris,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True
+Jan Vreede,M,Willem-Six,NED,1924,Paris,Sailing,Sailing Mixed 6 metres,Bronze,Sailing,SAL,False,True

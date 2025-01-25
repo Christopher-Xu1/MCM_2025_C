@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Pauline Ferrand,F,France,FRA,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,True
-Loana Lecomte,F,France,FRA,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,True
-Pauline Ferrand,F,France,FRA,2024,Paris,Cycling Mountain Bike,Women's Cross-country,Gold,Women's,MTB,True
-Loana Lecomte,F,France,FRA,2024,Paris,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Pauline Ferrand,F,France,FRA,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,True,True
+Loana Lecomte,F,France,FRA,2020,Tokyo,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,True,True
+Pauline Ferrand,F,France,FRA,2024,Paris,Cycling Mountain Bike,Women's Cross-country,Gold,Women's,MTB,True,False
+Loana Lecomte,F,France,FRA,2024,Paris,Cycling Mountain Bike,Women's Cross-country,No medal,Women's,MTB,True,False

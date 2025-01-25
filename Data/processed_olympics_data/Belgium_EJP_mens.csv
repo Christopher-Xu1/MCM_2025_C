@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Niels Bruynseels,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Team,Bronze,Jumping,EJP,True
-Niels Bruynseels,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Pieter Devos,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Team,Bronze,Jumping,EJP,True
-Pieter Devos,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Jerome Guery,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Team,Bronze,Jumping,EJP,True
-Jerome Guery,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Yves Vanderhasselt,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,False
-Gregory Wathelet,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Team,Bronze,Jumping,EJP,True
-Gregory Wathelet,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Jerome Guery,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Jerome Guery,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Gilles Thomas,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Gilles Thomas,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Gregory Wathelet,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Gregory Wathelet,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
-Wilm Vermeir,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True
-Wilm Vermeir,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Niels Bruynseels,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Team,Bronze,Jumping,EJP,True,True
+Niels Bruynseels,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Pieter Devos,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Team,Bronze,Jumping,EJP,True,True
+Pieter Devos,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Jerome Guery,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Team,Bronze,Jumping,EJP,True,True
+Jerome Guery,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Yves Vanderhasselt,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Team,No medal,Jumping,EJP,False,True
+Gregory Wathelet,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Team,Bronze,Jumping,EJP,True,True
+Gregory Wathelet,M,Belgium,BEL,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Jerome Guery,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+Jerome Guery,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,False
+Gilles Thomas,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Gilles Thomas,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True
+Gregory Wathelet,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,False
+Gregory Wathelet,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,False
+Wilm Vermeir,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Individual,No medal,Jumping,EJP,True,True
+Wilm Vermeir,M,Belgium,BEL,2024,Paris,Equestrian,Jumping Team,No medal,Jumping,EJP,True,True

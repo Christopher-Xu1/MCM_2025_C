@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Belinda Cordwell,F,New Zealand,NZL,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
-Marina Erakovic,F,New Zealand,NZL,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Marina Erakovic,F,New Zealand,NZL,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
-Erin Routliffe,F,New Zealand,NZL,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,False
-Lulu Sun,F,New Zealand,NZL,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
-Lulu Sun,F,New Zealand,NZL,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Belinda Cordwell,F,New Zealand,NZL,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False,True
+Marina Erakovic,F,New Zealand,NZL,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,True
+Marina Erakovic,F,New Zealand,NZL,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True,False
+Erin Routliffe,F,New Zealand,NZL,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,False,True
+Lulu Sun,F,New Zealand,NZL,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True,True
+Lulu Sun,F,New Zealand,NZL,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True,True

@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Aybek Abdymomunov,M,Kyrgyzstan,KGZ,2004,Athina,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Erkin Uulu,M,Kyrgyzstan,KGZ,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Taalaybek Kadyraliyev,M,Kyrgyzstan,KGZ,2000,Sydney,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False
-Nurbek Kasenov,M,Kyrgyzstan,KGZ,1996,Atlanta,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
-Nurbek Kasenov,M,Kyrgyzstan,KGZ,2000,Sydney,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True
-Aleksey Katulevsky,M,Kyrgyzstan,KGZ,2000,Sydney,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Sergey Kopenkin,M,Kyrgyzstan,KGZ,1996,Atlanta,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Andrey Kurnyavka,M,Kyrgyzstan,KGZ,1996,Atlanta,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False
-Almazbek Raimkulov,M,Kyrgyzstan,KGZ,2000,Sydney,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False
-Asylbek Talasbayev,M,Kyrgyzstan,KGZ,2004,Athina,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True
-Asylbek Talasbayev,M,Kyrgyzstan,KGZ,2008,Beijing,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Vladislav Vizilter,M,Kyrgyzstan,KGZ,2000,Sydney,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Munarbek Seiitbek,M,Kyrgyzstan,KGZ,2024,Paris,Boxing,Men's 57kg,Silver,Men's,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Aybek Abdymomunov,M,Kyrgyzstan,KGZ,2004,Athina,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Erkin Uulu,M,Kyrgyzstan,KGZ,2016,Rio de Janeiro,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Taalaybek Kadyraliyev,M,Kyrgyzstan,KGZ,2000,Sydney,Boxing,Boxing Men's Bantamweight,No medal,Boxing,BOX,False,True
+Nurbek Kasenov,M,Kyrgyzstan,KGZ,1996,Atlanta,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True,True
+Nurbek Kasenov,M,Kyrgyzstan,KGZ,2000,Sydney,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,True,False
+Aleksey Katulevsky,M,Kyrgyzstan,KGZ,2000,Sydney,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Sergey Kopenkin,M,Kyrgyzstan,KGZ,1996,Atlanta,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Andrey Kurnyavka,M,Kyrgyzstan,KGZ,1996,Atlanta,Boxing,Boxing Men's Heavyweight,No medal,Boxing,BOX,False,True
+Almazbek Raimkulov,M,Kyrgyzstan,KGZ,2000,Sydney,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,False,True
+Asylbek Talasbayev,M,Kyrgyzstan,KGZ,2004,Athina,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,True,True
+Asylbek Talasbayev,M,Kyrgyzstan,KGZ,2008,Beijing,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,False
+Vladislav Vizilter,M,Kyrgyzstan,KGZ,2000,Sydney,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Munarbek Seiitbek,M,Kyrgyzstan,KGZ,2024,Paris,Boxing,Men's 57kg,Silver,Men's,BOX,False,True

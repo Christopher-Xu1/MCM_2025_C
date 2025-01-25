@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Fritz Kopperschmidt,M,Subbnboana,GER,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-Uwe Mares,M,Subbnboana,GER,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-Herbert Reich,M,Subbnboana,GER,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
-Eckart Wagner,M,Subbnboana,GER,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Fritz Kopperschmidt,M,Subbnboana,GER,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+Uwe Mares,M,Subbnboana,GER,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+Herbert Reich,M,Subbnboana,GER,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True
+Eckart Wagner,M,Subbnboana,GER,1964,Tokyo,Sailing,Sailing Mixed 5.5 metres,No medal,Sailing,SAL,False,True

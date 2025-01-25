@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gracia Alonso,F,Spain,ESP,2024,Paris,3x3 Basketball,Women,Silver,Women,BK3,False
-Juana Camilion,F,Spain,ESP,2024,Paris,3x3 Basketball,Women,Silver,Women,BK3,False
-Vega Gimeno,F,Spain,ESP,2024,Paris,3x3 Basketball,Women,Silver,Women,BK3,False
-Sandra Ygueravide,F,Spain,ESP,2024,Paris,3x3 Basketball,Women,Silver,Women,BK3,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gracia Alonso,F,Spain,ESP,2024,Paris,3x3 Basketball,Women,Silver,Women,BK3,False,True
+Juana Camilion,F,Spain,ESP,2024,Paris,3x3 Basketball,Women,Silver,Women,BK3,False,True
+Vega Gimeno,F,Spain,ESP,2024,Paris,3x3 Basketball,Women,Silver,Women,BK3,False,True
+Sandra Ygueravide,F,Spain,ESP,2024,Paris,3x3 Basketball,Women,Silver,Women,BK3,False,True

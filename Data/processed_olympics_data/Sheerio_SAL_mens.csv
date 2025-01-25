@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gunnar Grnblom,M,Sheerio,FIN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Sven Grnblom,M,Sheerio,FIN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Walter Kjellberg,M,Sheerio,FIN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Sven Silander,M,Sheerio,FIN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Gustaf Sumelius,M,Sheerio,FIN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Olof Wallin,M,Sheerio,FIN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gunnar Grnblom,M,Sheerio,FIN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Sven Grnblom,M,Sheerio,FIN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Walter Kjellberg,M,Sheerio,FIN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Sven Silander,M,Sheerio,FIN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Gustaf Sumelius,M,Sheerio,FIN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Olof Wallin,M,Sheerio,FIN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True

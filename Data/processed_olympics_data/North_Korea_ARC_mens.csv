@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Kim Gye-jong,M,North Korea,PRK,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Kim Gye-jong,M,North Korea,PRK,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False,True

@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Heidemarie Brtov-grck,F,Czechoslovakia,TCH,1980,Moskva,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Heidemarie Brtov-grck,F,Czechoslovakia,TCH,1992,Barcelona,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Dana Chmelaov,F,Czechoslovakia,TCH,1980,Moskva,Diving,Diving Women's Platform,No medal,Diving,DIV,False
-Milena (-neveklovsk),F,Czechoslovakia,TCH,1968,Mexico City,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Milena (-neveklovsk),F,Czechoslovakia,TCH,1968,Mexico City,Diving,Diving Women's Platform,Gold,Diving,DIV,True
-Milena (-neveklovsk),F,Czechoslovakia,TCH,1972,Munich,Diving,Diving Women's Springboard,No medal,Diving,DIV,True
-Milena (-neveklovsk),F,Czechoslovakia,TCH,1972,Munich,Diving,Diving Women's Platform,Silver,Diving,DIV,True
-Milena (-neveklovsk),F,Czechoslovakia,TCH,1976,Montreal,Diving,Diving Women's Platform,No medal,Diving,DIV,True
-Aloisie Krongeigerov,F,Czechoslovakia,TCH,1924,Paris,Diving,Diving Women's Springboard,No medal,Diving,DIV,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Heidemarie Brtov-grck,F,Czechoslovakia,TCH,1980,Moskva,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Heidemarie Brtov-grck,F,Czechoslovakia,TCH,1992,Barcelona,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Dana Chmelaov,F,Czechoslovakia,TCH,1980,Moskva,Diving,Diving Women's Platform,No medal,Diving,DIV,False,True
+Milena (-neveklovsk),F,Czechoslovakia,TCH,1968,Mexico City,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,True
+Milena (-neveklovsk),F,Czechoslovakia,TCH,1968,Mexico City,Diving,Diving Women's Platform,Gold,Diving,DIV,True,True
+Milena (-neveklovsk),F,Czechoslovakia,TCH,1972,Munich,Diving,Diving Women's Springboard,No medal,Diving,DIV,True,False
+Milena (-neveklovsk),F,Czechoslovakia,TCH,1972,Munich,Diving,Diving Women's Platform,Silver,Diving,DIV,True,False
+Milena (-neveklovsk),F,Czechoslovakia,TCH,1976,Montreal,Diving,Diving Women's Platform,No medal,Diving,DIV,True,False
+Aloisie Krongeigerov,F,Czechoslovakia,TCH,1924,Paris,Diving,Diving Women's Springboard,No medal,Diving,DIV,False,True

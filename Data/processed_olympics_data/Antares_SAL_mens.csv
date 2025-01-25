@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gastn Lanne,M,Antares,ARG,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Silvio Marzi,M,Antares,ARG,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gastn Lanne,M,Antares,ARG,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Silvio Marzi,M,Antares,ARG,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True

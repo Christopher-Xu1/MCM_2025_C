@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jahvid Best,M,Saint Lucia,LCA,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Maxime Charlemagne,M,Saint Lucia,LCA,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Darvin Edwards,M,Saint Lucia,LCA,2012,London,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
-Ivan Jean-marie,M,Saint Lucia,LCA,1996,Atlanta,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-Ivan Jean-marie,M,Saint Lucia,LCA,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Dominic Johnson,M,Saint Lucia,LCA,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
-Dominic Johnson,M,Saint Lucia,LCA,1996,Atlanta,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True
-Dominic Johnson,M,Saint Lucia,LCA,2000,Sydney,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True
-Dominic Johnson,M,Saint Lucia,LCA,2008,Beijing,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True
-Zepherinus Joseph,M,Saint Lucia,LCA,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Ronald Promesse,M,Saint Lucia,LCA,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Maxwell Seales,M,Saint Lucia,LCA,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False
-Michael Joseph,M,Saint Lucia,LCA,2024,Paris,Athletics,Men's 400m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jahvid Best,M,Saint Lucia,LCA,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Maxime Charlemagne,M,Saint Lucia,LCA,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Darvin Edwards,M,Saint Lucia,LCA,2012,London,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False,True
+Ivan Jean-marie,M,Saint Lucia,LCA,1996,Atlanta,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+Ivan Jean-marie,M,Saint Lucia,LCA,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Dominic Johnson,M,Saint Lucia,LCA,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True,True
+Dominic Johnson,M,Saint Lucia,LCA,1996,Atlanta,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True,True
+Dominic Johnson,M,Saint Lucia,LCA,2000,Sydney,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True,False
+Dominic Johnson,M,Saint Lucia,LCA,2008,Beijing,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True,False
+Zepherinus Joseph,M,Saint Lucia,LCA,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Ronald Promesse,M,Saint Lucia,LCA,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Maxwell Seales,M,Saint Lucia,LCA,1996,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False,True
+Michael Joseph,M,Saint Lucia,LCA,2024,Paris,Athletics,Men's 400m,No medal,Men's,ATH,False,True

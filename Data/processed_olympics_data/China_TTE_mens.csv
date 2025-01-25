@@ -1,44 +1,44 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Chen Longcan,M,China,CHN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Jiang Jialiang,M,China,CHN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Kong Linghui,M,China,CHN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Kong Linghui,M,China,CHN,2000,Sydney,Table Tennis,Table Tennis Men's Singles,Gold,Table,TTE,True
-Liu Guoliang,M,China,CHN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,Gold,Table,TTE,True
-Liu Guoliang,M,China,CHN,2000,Sydney,Table Tennis,Table Tennis Men's Singles,Bronze,Table,TTE,True
-Liu Guozheng,M,China,CHN,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Lu Lin,M,China,CHN,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Ma Lin,M,China,CHN,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Ma Lin,M,China,CHN,2008,Beijing,Table Tennis,Table Tennis Men's Singles,Gold,Table,TTE,True
-Ma Lin,M,China,CHN,2008,Beijing,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True
-Ma Long,M,China,CHN,2012,London,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True
-Ma Long,M,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,Gold,Table,TTE,True
-Ma Long,M,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True
-Ma Wenge,M,China,CHN,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,Bronze,Table,TTE,False
-Wang Hao,M,China,CHN,2004,Athina,Table Tennis,Table Tennis Men's Singles,Silver,Table,TTE,True
-Wang Hao,M,China,CHN,2008,Beijing,Table Tennis,Table Tennis Men's Singles,Silver,Table,TTE,True
-Wang Hao,M,China,CHN,2008,Beijing,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True
-Wang Hao,M,China,CHN,2012,London,Table Tennis,Table Tennis Men's Singles,Silver,Table,TTE,True
-Wang Hao,M,China,CHN,2012,London,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True
-Wang Liqin,M,China,CHN,2004,Athina,Table Tennis,Table Tennis Men's Singles,Bronze,Table,TTE,True
-Wang Liqin,M,China,CHN,2008,Beijing,Table Tennis,Table Tennis Men's Singles,Bronze,Table,TTE,True
-Wang Liqin,M,China,CHN,2008,Beijing,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True
-Wang Tao,M,China,CHN,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
-Wang Tao,M,China,CHN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,Silver,Table,TTE,True
-Xu Xin,M,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,False
-Xu Zengcai,M,China,CHN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
-Zhang Jike,M,China,CHN,2012,London,Table Tennis,Table Tennis Men's Singles,Gold,Table,TTE,True
-Zhang Jike,M,China,CHN,2012,London,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True
-Zhang Jike,M,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,Silver,Table,TTE,True
-Zhang Jike,M,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True
-Zhendong Fan,M,China,CHN,2020,Tokyo,Table Tennis,Men's Singles,Silver,Men's,TTE,True
-Zhendong Fan,M,China,CHN,2020,Tokyo,Table Tennis,Men's Team,Gold,Men's,TTE,True
-Long Ma,M,China,CHN,2020,Tokyo,Table Tennis,Men's Singles,Gold,Men's,TTE,True
-Long Ma,M,China,CHN,2020,Tokyo,Table Tennis,Men's Team,Gold,Men's,TTE,True
-Xin Xu,M,China,CHN,2020,Tokyo,Table Tennis,Mixed Doubles Team,Silver,Mixed,TTE,True
-Xin Xu,M,China,CHN,2020,Tokyo,Table Tennis,Men's Team,Gold,Men's,TTE,True
-Zhendong Fan,M,China,CHN,2024,Paris,Table Tennis,Men's Singles,Gold,Men's,TTE,True
-Zhendong Fan,M,China,CHN,2024,Paris,Table Tennis,Men's Team,Gold,Men's,TTE,True
-Long Ma,M,China,CHN,2024,Paris,Table Tennis,Men's Team,Gold,Men's,TTE,True
-Chuqin Wang,M,China,CHN,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True
-Chuqin Wang,M,China,CHN,2024,Paris,Table Tennis,Men's Team,Gold,Men's,TTE,True
-Chuqin Wang,M,China,CHN,2024,Paris,Table Tennis,Mixed Doubles,Gold,Mixed,TTE,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Chen Longcan,M,China,CHN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Jiang Jialiang,M,China,CHN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Kong Linghui,M,China,CHN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Kong Linghui,M,China,CHN,2000,Sydney,Table Tennis,Table Tennis Men's Singles,Gold,Table,TTE,True,False
+Liu Guoliang,M,China,CHN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,Gold,Table,TTE,True,True
+Liu Guoliang,M,China,CHN,2000,Sydney,Table Tennis,Table Tennis Men's Singles,Bronze,Table,TTE,True,False
+Liu Guozheng,M,China,CHN,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Lu Lin,M,China,CHN,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Ma Lin,M,China,CHN,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Ma Lin,M,China,CHN,2008,Beijing,Table Tennis,Table Tennis Men's Singles,Gold,Table,TTE,True,False
+Ma Lin,M,China,CHN,2008,Beijing,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True,False
+Ma Long,M,China,CHN,2012,London,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True,True
+Ma Long,M,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,Gold,Table,TTE,True,False
+Ma Long,M,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True,False
+Ma Wenge,M,China,CHN,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,Bronze,Table,TTE,False,True
+Wang Hao,M,China,CHN,2004,Athina,Table Tennis,Table Tennis Men's Singles,Silver,Table,TTE,True,True
+Wang Hao,M,China,CHN,2008,Beijing,Table Tennis,Table Tennis Men's Singles,Silver,Table,TTE,True,False
+Wang Hao,M,China,CHN,2008,Beijing,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True,False
+Wang Hao,M,China,CHN,2012,London,Table Tennis,Table Tennis Men's Singles,Silver,Table,TTE,True,False
+Wang Hao,M,China,CHN,2012,London,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True,False
+Wang Liqin,M,China,CHN,2004,Athina,Table Tennis,Table Tennis Men's Singles,Bronze,Table,TTE,True,True
+Wang Liqin,M,China,CHN,2008,Beijing,Table Tennis,Table Tennis Men's Singles,Bronze,Table,TTE,True,False
+Wang Liqin,M,China,CHN,2008,Beijing,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True,False
+Wang Tao,M,China,CHN,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True,True
+Wang Tao,M,China,CHN,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,Silver,Table,TTE,True,False
+Xu Xin,M,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,False,True
+Xu Zengcai,M,China,CHN,1988,Seoul,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False,True
+Zhang Jike,M,China,CHN,2012,London,Table Tennis,Table Tennis Men's Singles,Gold,Table,TTE,True,True
+Zhang Jike,M,China,CHN,2012,London,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True,True
+Zhang Jike,M,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,Silver,Table,TTE,True,False
+Zhang Jike,M,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Gold,Table,TTE,True,False
+Zhendong Fan,M,China,CHN,2020,Tokyo,Table Tennis,Men's Singles,Silver,Men's,TTE,True,True
+Zhendong Fan,M,China,CHN,2020,Tokyo,Table Tennis,Men's Team,Gold,Men's,TTE,True,True
+Long Ma,M,China,CHN,2020,Tokyo,Table Tennis,Men's Singles,Gold,Men's,TTE,True,True
+Long Ma,M,China,CHN,2020,Tokyo,Table Tennis,Men's Team,Gold,Men's,TTE,True,True
+Xin Xu,M,China,CHN,2020,Tokyo,Table Tennis,Mixed Doubles Team,Silver,Mixed,TTE,True,True
+Xin Xu,M,China,CHN,2020,Tokyo,Table Tennis,Men's Team,Gold,Men's,TTE,True,True
+Zhendong Fan,M,China,CHN,2024,Paris,Table Tennis,Men's Singles,Gold,Men's,TTE,True,False
+Zhendong Fan,M,China,CHN,2024,Paris,Table Tennis,Men's Team,Gold,Men's,TTE,True,False
+Long Ma,M,China,CHN,2024,Paris,Table Tennis,Men's Team,Gold,Men's,TTE,True,False
+Chuqin Wang,M,China,CHN,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True,True
+Chuqin Wang,M,China,CHN,2024,Paris,Table Tennis,Men's Team,Gold,Men's,TTE,True,True
+Chuqin Wang,M,China,CHN,2024,Paris,Table Tennis,Mixed Doubles,Gold,Mixed,TTE,True,True

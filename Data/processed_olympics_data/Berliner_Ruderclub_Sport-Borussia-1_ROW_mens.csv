@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Otto Charlet,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Fritz Eggebrecht,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Carl Eichhorn,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Richard Friesicke,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Gottfried Gelfort,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Heinrich Landrock,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Egbert Reimsfeld,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Andreas Wegener,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
-Ludwig Weinacht,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Otto Charlet,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Fritz Eggebrecht,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Carl Eichhorn,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Richard Friesicke,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Gottfried Gelfort,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Heinrich Landrock,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Egbert Reimsfeld,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Andreas Wegener,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True
+Ludwig Weinacht,M,Berliner Ruderclub Sport-Borussia-1,GER,1912,Stockholm,Rowing,Rowing Men's Coxed Eights,No medal,Rowing,ROW,False,True

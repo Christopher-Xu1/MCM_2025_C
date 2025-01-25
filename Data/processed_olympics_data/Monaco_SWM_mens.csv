@@ -1,14 +1,14 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jean-Luc Adorno,M,Monaco,MON,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Sylvain Faur,M,Monaco,MON,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False
-Patrick Novaretti,M,Monaco,MON,1976,Montreal,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
-Patrick Novaretti,M,Monaco,MON,1976,Montreal,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
-Patrick Novaretti,M,Monaco,MON,1976,Montreal,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
-Jean-Laurent Ravera,M,Monaco,MON,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
-Christophe Verdino,M,Monaco,MON,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Christophe Verdino,M,Monaco,MON,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Christophe Verdino,M,Monaco,MON,1992,Barcelona,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
-Christophe Verdino,M,Monaco,MON,1996,Atlanta,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
-Christophe Verdino,M,Monaco,MON,1996,Atlanta,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
-Theo Druenne,M,Monaco,MON,2020,Tokyo,Swimming,Men's 1500m Freestyle,No medal,Men's,SWM,True
-Theo Druenne,M,Monaco,MON,2024,Paris,Swimming,Men's 800m Freestyle,No medal,Men's,SWM,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jean-Luc Adorno,M,Monaco,MON,1984,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Sylvain Faur,M,Monaco,MON,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,False,True
+Patrick Novaretti,M,Monaco,MON,1976,Montreal,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True,True
+Patrick Novaretti,M,Monaco,MON,1976,Montreal,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True,True
+Patrick Novaretti,M,Monaco,MON,1976,Montreal,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True,True
+Jean-Laurent Ravera,M,Monaco,MON,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False,True
+Christophe Verdino,M,Monaco,MON,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,True
+Christophe Verdino,M,Monaco,MON,1992,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,True
+Christophe Verdino,M,Monaco,MON,1992,Barcelona,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True,True
+Christophe Verdino,M,Monaco,MON,1996,Atlanta,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True,False
+Christophe Verdino,M,Monaco,MON,1996,Atlanta,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True,False
+Theo Druenne,M,Monaco,MON,2020,Tokyo,Swimming,Men's 1500m Freestyle,No medal,Men's,SWM,True,True
+Theo Druenne,M,Monaco,MON,2024,Paris,Swimming,Men's 800m Freestyle,No medal,Men's,SWM,True,False

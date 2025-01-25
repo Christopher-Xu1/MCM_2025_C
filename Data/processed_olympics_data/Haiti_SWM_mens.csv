@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Frantz Dorsainvil,M,Haiti,HAI,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
-Alain Sergile,M,Haiti,HAI,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
-Davidson Vincent,M,Haiti,HAI,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False
-Alexandre Grand'pierre,M,Haiti,HAI,2024,Paris,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Frantz Dorsainvil,M,Haiti,HAI,2016,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Alain Sergile,M,Haiti,HAI,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Davidson Vincent,M,Haiti,HAI,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,False,True
+Alexandre Grand'pierre,M,Haiti,HAI,2024,Paris,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,False,True

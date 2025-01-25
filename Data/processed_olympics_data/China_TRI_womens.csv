@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Shi Meng,F,China,CHN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Wang Dan,F,China,CHN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Wang Hongni,F,China,CHN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Wang Lianyuan,F,China,CHN,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False
-Xing Lin,F,China,CHN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Xing Lin,F,China,CHN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Zhang Yi,F,China,CHN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Zhang Yi,F,China,CHN,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True
-Mengying Zhong,F,China,CHN,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,False
-Xinyu Lin,F,China,CHN,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Shi Meng,F,China,CHN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Wang Dan,F,China,CHN,2000,Sydney,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Wang Hongni,F,China,CHN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Wang Lianyuan,F,China,CHN,2016,Rio de Janeiro,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,False,True
+Xing Lin,F,China,CHN,2004,Athina,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Xing Lin,F,China,CHN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Zhang Yi,F,China,CHN,2008,Beijing,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,True
+Zhang Yi,F,China,CHN,2012,London,Triathlon,Triathlon Women's Olympic Distance,No medal,Triathlon,TRI,True,False
+Mengying Zhong,F,China,CHN,2020,Tokyo,Triathlon,Women's Individual,No medal,Women's,TRI,False,True
+Xinyu Lin,F,China,CHN,2024,Paris,Triathlon,Women's Individual,No medal,Women's,TRI,False,True

@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vladimir Bogoevski,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Ivica Jeli,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Boro Jovi,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Mladen Kai,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Zdravko Kulji,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Slobodan Lozani,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Radovan Malevi,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Miodrag Miti,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Goran Srbinovski,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Aleksandar Tasevski,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Ljubomir Travica,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
-Vladimir Trifunovi,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vladimir Bogoevski,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Ivica Jeli,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Boro Jovi,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Mladen Kai,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Zdravko Kulji,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Slobodan Lozani,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Radovan Malevi,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Miodrag Miti,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Goran Srbinovski,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Aleksandar Tasevski,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Ljubomir Travica,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True
+Vladimir Trifunovi,M,Yugoslavia,YUG,1980,Moskva,Volleyball,Volleyball Men's Volleyball,No medal,Volleyball,VVO,False,True

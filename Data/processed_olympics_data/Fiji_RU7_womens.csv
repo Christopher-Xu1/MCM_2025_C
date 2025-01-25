@@ -1,40 +1,40 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Merewai Cumu,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Raijieli Daveua,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True
-Rusila Nagasau,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True
-Litia Naiqato,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Timaima Ravisa,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Viniana Riwai,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True
-Asena Rokomarama,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Ana Roqica,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True
-Jiowana Sauto,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Timaima Tamoi,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Rebecca Tavo,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Lavenia Tinai,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True
-Luisa Tisolo,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False
-Lavena Cavuru,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True
-Raijieli Daveua,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True
-Sesenieli Donu,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True
-Laisana Likuceva,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True
-Rusila Nagasau,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True
-Maria Naimasi,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True
-Alowesi Nakoci,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True
-Roela Radiniyavuni,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,False
-Viniana Riwai,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True
-Ana Roqica,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True
-Vasiti Solikoviti,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,False
-Lavenia Tinai,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True
-Reapi Ulunisau,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True
-Reapi Ulunisau,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Laisana Likuceva,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Maria Naimasi,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Maria Rokotuisiga,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Sesenieli Donu,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Raijieli Daveua,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Ilisapeci Delaiwau,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Vani Buleki,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Verenaisi Ditavutu,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Talei Wilson,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
-Alowesi Nakoci,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Lavena Cavuru,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True
-Kolora Lomani,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Merewai Cumu,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Raijieli Daveua,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True,True
+Rusila Nagasau,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True,True
+Litia Naiqato,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Timaima Ravisa,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Viniana Riwai,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True,True
+Asena Rokomarama,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Ana Roqica,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True,True
+Jiowana Sauto,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Timaima Tamoi,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Rebecca Tavo,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Lavenia Tinai,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,True,True
+Luisa Tisolo,F,Fiji,FIJ,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,No medal,Rugby,RU7,False,True
+Lavena Cavuru,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True,True
+Raijieli Daveua,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True,False
+Sesenieli Donu,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True,True
+Laisana Likuceva,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True,True
+Rusila Nagasau,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True,False
+Maria Naimasi,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True,True
+Alowesi Nakoci,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True,True
+Roela Radiniyavuni,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,False,True
+Viniana Riwai,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True,False
+Ana Roqica,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True,False
+Vasiti Solikoviti,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,False,True
+Lavenia Tinai,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True,False
+Reapi Ulunisau,F,Fiji,FIJ,2020,Tokyo,Rugby Sevens,Women Team,Bronze,Women,RU7,True,True
+Reapi Ulunisau,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Laisana Likuceva,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Maria Naimasi,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Maria Rokotuisiga,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Sesenieli Donu,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Raijieli Daveua,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Ilisapeci Delaiwau,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Vani Buleki,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Verenaisi Ditavutu,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Talei Wilson,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True
+Alowesi Nakoci,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Lavena Cavuru,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,True,False
+Kolora Lomani,F,Fiji,FIJ,2024,Paris,Rugby Sevens,Women,No medal,Women,RU7,False,True

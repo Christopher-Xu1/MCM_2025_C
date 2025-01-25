@@ -1,15 +1,15 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lorena Briceo,F,Argentina,ARG,2008,Beijing,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False
-Elizabeth Copes,F,Argentina,ARG,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Daniela Krukower,F,Argentina,ARG,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
-Daniela Krukower,F,Argentina,ARG,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Daniela Krukower,F,Argentina,ARG,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
-Claudia Ambrueso,F,Argentina,ARG,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Claudia Ambrueso,F,Argentina,ARG,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Claudia Ambrueso,F,Argentina,ARG,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
-Laura Acua,F,Argentina,ARG,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
-Paula Pareto,F,Argentina,ARG,2008,Beijing,Judo,Judo Women's Extra-Lightweight,Bronze,Judo,JUD,True
-Paula Pareto,F,Argentina,ARG,2012,London,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
-Paula Pareto,F,Argentina,ARG,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,Gold,Judo,JUD,True
-Paula Pareto,F,Argentina,ARG,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,True
-Sofia Fiora,F,Argentina,ARG,2024,Paris,Judo,Women -52 kg,No medal,Women,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lorena Briceo,F,Argentina,ARG,2008,Beijing,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,False,True
+Elizabeth Copes,F,Argentina,ARG,2004,Athina,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Daniela Krukower,F,Argentina,ARG,2000,Sydney,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True,True
+Daniela Krukower,F,Argentina,ARG,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False
+Daniela Krukower,F,Argentina,ARG,2008,Beijing,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True,False
+Claudia Ambrueso,F,Argentina,ARG,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,True
+Claudia Ambrueso,F,Argentina,ARG,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,False
+Claudia Ambrueso,F,Argentina,ARG,2000,Sydney,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True,False
+Laura Acua,F,Argentina,ARG,1992,Barcelona,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False,True
+Paula Pareto,F,Argentina,ARG,2008,Beijing,Judo,Judo Women's Extra-Lightweight,Bronze,Judo,JUD,True,True
+Paula Pareto,F,Argentina,ARG,2012,London,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True,False
+Paula Pareto,F,Argentina,ARG,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,Gold,Judo,JUD,True,False
+Paula Pareto,F,Argentina,ARG,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,True,False
+Sofia Fiora,F,Argentina,ARG,2024,Paris,Judo,Women -52 kg,No medal,Women,JUD,False,True

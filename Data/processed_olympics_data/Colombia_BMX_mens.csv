@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Vincent Pelluard,M,Colombia,COL,2020,Tokyo,Cycling BMX Racing,Men,No medal,Men,BMX,False
-Alberto Ramirez,M,Colombia,COL,2020,Tokyo,Cycling BMX Racing,Men,Bronze,Men,BMX,True
-Alejandro Arboleda,M,Colombia,COL,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False
-Alberto Ramirez,M,Colombia,COL,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,True
-Mateo Carmona,M,Colombia,COL,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Vincent Pelluard,M,Colombia,COL,2020,Tokyo,Cycling BMX Racing,Men,No medal,Men,BMX,False,True
+Alberto Ramirez,M,Colombia,COL,2020,Tokyo,Cycling BMX Racing,Men,Bronze,Men,BMX,True,True
+Alejandro Arboleda,M,Colombia,COL,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False,True
+Alberto Ramirez,M,Colombia,COL,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,True,False
+Mateo Carmona,M,Colombia,COL,2024,Paris,Cycling BMX Racing,Men,No medal,Men,BMX,False,True

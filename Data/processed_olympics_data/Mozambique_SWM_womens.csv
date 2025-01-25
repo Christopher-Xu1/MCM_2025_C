@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Tnia Grgorio,F,Mozambique,MOZ,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Carolina Araujo,F,Mozambique,MOZ,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
-Carolina Araujo,F,Mozambique,MOZ,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
-Carolina Araujo,F,Mozambique,MOZ,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
-Ximene Gomes,F,Mozambique,MOZ,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Mariza Gregorio,F,Mozambique,MOZ,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False
-Jannah Sonnenschein,F,Mozambique,MOZ,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False
-Jessica Vieira,F,Mozambique,MOZ,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Ermelinda Zamba,F,Mozambique,MOZ,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
-Alicia Mateus,F,Mozambique,MOZ,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False
-Denise Donelli,F,Mozambique,MOZ,2024,Paris,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Tnia Grgorio,F,Mozambique,MOZ,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Carolina Araujo,F,Mozambique,MOZ,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True,True
+Carolina Araujo,F,Mozambique,MOZ,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True,True
+Carolina Araujo,F,Mozambique,MOZ,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True,True
+Ximene Gomes,F,Mozambique,MOZ,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Mariza Gregorio,F,Mozambique,MOZ,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Jannah Sonnenschein,F,Mozambique,MOZ,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,False,True
+Jessica Vieira,F,Mozambique,MOZ,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Ermelinda Zamba,F,Mozambique,MOZ,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False,True
+Alicia Mateus,F,Mozambique,MOZ,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,False,True
+Denise Donelli,F,Mozambique,MOZ,2024,Paris,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,False,True

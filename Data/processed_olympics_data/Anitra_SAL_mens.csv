@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Carl Berntsen,M,Anitra,DEN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Otto Danielsen,M,Anitra,DEN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Niels Hansen,M,Anitra,DEN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Vagn Kastrup,M,Anitra,DEN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Niels Schibbye,M,Anitra,DEN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
-Hans Tholstrup,M,Anitra,DEN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Carl Berntsen,M,Anitra,DEN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Otto Danielsen,M,Anitra,DEN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Niels Hansen,M,Anitra,DEN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Vagn Kastrup,M,Anitra,DEN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Niels Schibbye,M,Anitra,DEN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True
+Hans Tholstrup,M,Anitra,DEN,1936,Berlin,Sailing,Sailing Mixed 8 metres,No medal,Sailing,SAL,False,True

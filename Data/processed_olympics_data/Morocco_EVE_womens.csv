@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Noor Slaoui,F,Morocco,MAR,2024,Paris,Equestrian,Eventing Individual,No medal,Eventing,EVE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Noor Slaoui,F,Morocco,MAR,2024,Paris,Equestrian,Eventing Individual,No medal,Eventing,EVE,False,True

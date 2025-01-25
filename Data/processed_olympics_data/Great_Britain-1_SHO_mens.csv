@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Peter Easte,M,Great Britain-1,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Gold,Shooting,SHO,False
-Alexander Maunder,M,Great Britain-1,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Gold,Shooting,SHO,False
-Frank Moore,M,Great Britain-1,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Gold,Shooting,SHO,False
-Charles Palmer,M,Great Britain-1,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Gold,Shooting,SHO,False
-James Pike,M,Great Britain-1,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Gold,Shooting,SHO,False
-John Postans,M,Great Britain-1,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Gold,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Peter Easte,M,Great Britain-1,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Gold,Shooting,SHO,False,True
+Alexander Maunder,M,Great Britain-1,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Gold,Shooting,SHO,False,True
+Frank Moore,M,Great Britain-1,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Gold,Shooting,SHO,False,True
+Charles Palmer,M,Great Britain-1,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Gold,Shooting,SHO,False,True
+James Pike,M,Great Britain-1,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Gold,Shooting,SHO,False,True
+John Postans,M,Great Britain-1,GBR,1908,London,Shooting,"Shooting Men's Trap, Team",Gold,Shooting,SHO,False,True

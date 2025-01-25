@@ -1,12 +1,12 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Zlia Arci,F,Brazil,BRA,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,False
-Marina Gobbi,F,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Marina Gobbi,F,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Ane Santos,F,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Ane Santos,F,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True
-Sarah Nikitin,F,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True
-Sarah Nikitin,F,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True
-dos Marcelle,F,Brazil,BRA,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True
-dos Marcelle,F,Brazil,BRA,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
-Luiza Sliachticas,F,Brazil,BRA,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True
-Luiza Sliachticas,F,Brazil,BRA,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Zlia Arci,F,Brazil,BRA,1980,Moskva,Archery,Archery Women's Individual,No medal,Archery,ARC,False,True
+Marina Gobbi,F,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Marina Gobbi,F,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Ane Santos,F,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Ane Santos,F,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+Sarah Nikitin,F,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Women's Individual,No medal,Archery,ARC,True,True
+Sarah Nikitin,F,Brazil,BRA,2016,Rio de Janeiro,Archery,Archery Women's Team,No medal,Archery,ARC,True,True
+dos Marcelle,F,Brazil,BRA,2020,Tokyo,Archery,Women's Individual,No medal,Women's,ARC,True,True
+dos Marcelle,F,Brazil,BRA,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True,True
+Luiza Sliachticas,F,Brazil,BRA,2024,Paris,Archery,Women's Individual,No medal,Women's,ARC,True,True
+Luiza Sliachticas,F,Brazil,BRA,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True,True

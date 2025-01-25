@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bianca Buitendag,F,South Africa,RSA,2020,Tokyo,Surfing,Women,Silver,Women,SRF,False
-Sarah Baum,F,South Africa,RSA,2024,Paris,Surfing,Women,No medal,Women,SRF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bianca Buitendag,F,South Africa,RSA,2020,Tokyo,Surfing,Women,Silver,Women,SRF,False,True
+Sarah Baum,F,South Africa,RSA,2024,Paris,Surfing,Women,No medal,Women,SRF,False,True

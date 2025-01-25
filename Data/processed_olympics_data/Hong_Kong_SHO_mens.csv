@@ -1,34 +1,34 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-"Cheng ""micky""",M,Hong Kong,HKG,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True
-"Cheng ""micky""",M,Hong Kong,HKG,1996,Atlanta,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True
-Chow Man,M,Hong Kong,HKG,1976,Montreal,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True
-Chow Man,M,Hong Kong,HKG,1984,Los Angeles,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True
-Anthony Chuang,M,Hong Kong,HKG,1984,Los Angeles,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-Reginald Remedios,M,Hong Kong,HKG,1964,Tokyo,Shooting,"Shooting Men's Free Rifle, Three Positions, 300 metres",No medal,Shooting,SHO,True
-Reginald Remedios,M,Hong Kong,HKG,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Reginald Remedios,M,Hong Kong,HKG,1976,Montreal,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-William Gillies,M,Hong Kong,HKG,1960,Roma,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
-William Gillies,M,Hong Kong,HKG,1964,Tokyo,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
-Ho Kin,M,Hong Kong,HKG,1984,Los Angeles,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False
-Hoo Chiu,M,Hong Kong,HKG,1964,Tokyo,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False
-Kui Lee,M,Hong Kong,HKG,1976,Montreal,Shooting,"Shooting Mixed Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,True
-Kui Lee,M,Hong Kong,HKG,1984,Los Angeles,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,True
-Jos Lei,M,Hong Kong,HKG,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Jos Lei,M,Hong Kong,HKG,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Li Jian,M,Hong Kong,HKG,2000,Sydney,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False
-Camilo Pedro,M,Hong Kong,HKG,1976,Montreal,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,False
-Peter Jr.,M,Hong Kong,HKG,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False
-Peter Sr.,M,Hong Kong,HKG,1960,Roma,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Peter Sr.,M,Hong Kong,HKG,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Peter Sr.,M,Hong Kong,HKG,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Peter Sr.,M,Hong Kong,HKG,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Peter Sr.,M,Hong Kong,HKG,1972,Munich,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Peter Sr.,M,Hong Kong,HKG,1976,Montreal,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Henry Souza,M,Hong Kong,HKG,1960,Roma,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Henry Souza,M,Hong Kong,HKG,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Tso Young,M,Hong Kong,HKG,1976,Montreal,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False
-King U,M,Hong Kong,HKG,1984,Los Angeles,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
-King U,M,Hong Kong,HKG,1988,Seoul,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
-King U,M,Hong Kong,HKG,1992,Barcelona,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
-Wong Fai,M,Hong Kong,HKG,2008,Beijing,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False
-Young Wai,M,Hong Kong,HKG,1968,Mexico City,Shooting,"Shooting Mixed Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+"Cheng ""micky""",M,Hong Kong,HKG,1984,Los Angeles,Shooting,Shooting Mixed Trap,No medal,Shooting,SHO,True,True
+"Cheng ""micky""",M,Hong Kong,HKG,1996,Atlanta,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,True,False
+Chow Man,M,Hong Kong,HKG,1976,Montreal,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True,True
+Chow Man,M,Hong Kong,HKG,1984,Los Angeles,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,True,False
+Anthony Chuang,M,Hong Kong,HKG,1984,Los Angeles,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+Reginald Remedios,M,Hong Kong,HKG,1964,Tokyo,Shooting,"Shooting Men's Free Rifle, Three Positions, 300 metres",No medal,Shooting,SHO,True,True
+Reginald Remedios,M,Hong Kong,HKG,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Reginald Remedios,M,Hong Kong,HKG,1976,Montreal,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+William Gillies,M,Hong Kong,HKG,1960,Roma,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True,True
+William Gillies,M,Hong Kong,HKG,1964,Tokyo,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True,False
+Ho Kin,M,Hong Kong,HKG,1984,Los Angeles,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False,True
+Hoo Chiu,M,Hong Kong,HKG,1964,Tokyo,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,False,True
+Kui Lee,M,Hong Kong,HKG,1976,Montreal,Shooting,"Shooting Mixed Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Kui Lee,M,Hong Kong,HKG,1984,Los Angeles,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,True,False
+Jos Lei,M,Hong Kong,HKG,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Jos Lei,M,Hong Kong,HKG,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Li Jian,M,Hong Kong,HKG,2000,Sydney,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False,True
+Camilo Pedro,M,Hong Kong,HKG,1976,Montreal,Shooting,"Shooting Mixed Free Pistol, 50 metres",No medal,Shooting,SHO,False,True
+Peter Jr.,M,Hong Kong,HKG,1984,Los Angeles,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,False,True
+Peter Sr.,M,Hong Kong,HKG,1960,Roma,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Peter Sr.,M,Hong Kong,HKG,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,False
+Peter Sr.,M,Hong Kong,HKG,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Peter Sr.,M,Hong Kong,HKG,1968,Mexico City,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Peter Sr.,M,Hong Kong,HKG,1972,Munich,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Peter Sr.,M,Hong Kong,HKG,1976,Montreal,Shooting,"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Henry Souza,M,Hong Kong,HKG,1960,Roma,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Henry Souza,M,Hong Kong,HKG,1964,Tokyo,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,False
+Tso Young,M,Hong Kong,HKG,1976,Montreal,Shooting,Shooting Mixed Skeet,No medal,Shooting,SHO,False,True
+King U,M,Hong Kong,HKG,1984,Los Angeles,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True,True
+King U,M,Hong Kong,HKG,1988,Seoul,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True,False
+King U,M,Hong Kong,HKG,1992,Barcelona,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True,False
+Wong Fai,M,Hong Kong,HKG,2008,Beijing,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False,True
+Young Wai,M,Hong Kong,HKG,1968,Mexico City,Shooting,"Shooting Mixed Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,False,True

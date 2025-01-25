@@ -1,11 +1,11 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Gilberto Brown,M,United States Virgin Islands,ISV,1992,Barcelona,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
-Clifton Charleswell,M,United States Virgin Islands,ISV,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False
-Laurent Jr.,M,United States Virgin Islands,ISV,2016,Rio de Janeiro,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False
-Jacobo Garcia,M,United States Virgin Islands,ISV,1992,Barcelona,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True
-Jacobo Garcia,M,United States Virgin Islands,ISV,1996,Atlanta,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True
-Marcelino Garcia,M,United States Virgin Islands,ISV,1976,Montreal,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-John Jackson,M,United States Virgin Islands,ISV,2008,Beijing,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False
-Julius Jackson,M,United States Virgin Islands,ISV,2008,Beijing,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False
-Earl Liburd,M,United States Virgin Islands,ISV,1976,Montreal,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False
-William Peets,M,United States Virgin Islands,ISV,1972,Munich,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Gilberto Brown,M,United States Virgin Islands,ISV,1992,Barcelona,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True
+Clifton Charleswell,M,United States Virgin Islands,ISV,1984,Los Angeles,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,False,True
+Laurent Jr.,M,United States Virgin Islands,ISV,2016,Rio de Janeiro,Boxing,Boxing Men's Super-Heavyweight,No medal,Boxing,BOX,False,True
+Jacobo Garcia,M,United States Virgin Islands,ISV,1992,Barcelona,Boxing,Boxing Men's Lightweight,No medal,Boxing,BOX,True,True
+Jacobo Garcia,M,United States Virgin Islands,ISV,1996,Atlanta,Boxing,Boxing Men's Light-Welterweight,No medal,Boxing,BOX,True,False
+Marcelino Garcia,M,United States Virgin Islands,ISV,1976,Montreal,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+John Jackson,M,United States Virgin Islands,ISV,2008,Beijing,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,False,True
+Julius Jackson,M,United States Virgin Islands,ISV,2008,Beijing,Boxing,Boxing Men's Light-Heavyweight,No medal,Boxing,BOX,False,True
+Earl Liburd,M,United States Virgin Islands,ISV,1976,Montreal,Boxing,Boxing Men's Light-Middleweight,No medal,Boxing,BOX,False,True
+William Peets,M,United States Virgin Islands,ISV,1972,Munich,Boxing,Boxing Men's Middleweight,No medal,Boxing,BOX,False,True

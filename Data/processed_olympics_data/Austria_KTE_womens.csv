@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Bettina Plank,F,Austria,AUT,2020,Tokyo,Karate,Women's Kumite -55kg,Bronze,Women's,KTE,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Bettina Plank,F,Austria,AUT,2020,Tokyo,Karate,Women's Kumite -55kg,Bronze,Women's,KTE,False,True

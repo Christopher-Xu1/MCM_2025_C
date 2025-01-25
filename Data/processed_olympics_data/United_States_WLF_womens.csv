@@ -1,23 +1,23 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jenny Arthur,F,United States,USA,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False
-Robin (byrd-),F,United States,USA,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Carissa (gordon-),F,United States,USA,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
-Cheryl Haworth,F,United States,USA,2000,Sydney,Weightlifting,Weightlifting Women's Super-Heavyweight,Bronze,Weightlifting,WLF,True
-Cheryl Haworth,F,United States,USA,2004,Athina,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Cheryl Haworth,F,United States,USA,2008,Beijing,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Cara Heads-lane,F,United States,USA,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False
-Morghan King,F,United States,USA,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False
-Holley Mangold,F,United States,USA,2012,London,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False
-Tara Nott-cunningham,F,United States,USA,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,Gold,Weightlifting,WLF,True
-Tara Nott-cunningham,F,United States,USA,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True
-Melanie Roach,F,United States,USA,2008,Beijing,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False
-Sarah Robles,F,United States,USA,2012,London,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True
-Sarah Robles,F,United States,USA,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,Bronze,Weightlifting,WLF,True
-Natalie (-burgener),F,United States,USA,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False
-Elizabeth Delacruz,F,United States,USA,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,False
-Elizabeth Nye,F,United States,USA,2020,Tokyo,Weightlifting,Women's 76kg,Silver,Women's,WLF,False
-Elizabeth Robles,F,United States,USA,2020,Tokyo,Weightlifting,Women's +87kg,Bronze,Women's,WLF,False
-Ann Rogers,F,United States,USA,2020,Tokyo,Weightlifting,Women's 87kg,No medal,Women's,WLF,False
-Jourdan Delacruz,F,United States,USA,2024,Paris,Weightlifting,Women's 49kg,No medal,Women's,WLF,False
-Olivia Reeves,F,United States,USA,2024,Paris,Weightlifting,Women's 71kg,Gold,Women's,WLF,False
-Mary Theisen,F,United States,USA,2024,Paris,Weightlifting,Women's +81kg,No medal,Women's,WLF,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jenny Arthur,F,United States,USA,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False,True
+Robin (byrd-),F,United States,USA,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Carissa (gordon-),F,United States,USA,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True
+Cheryl Haworth,F,United States,USA,2000,Sydney,Weightlifting,Weightlifting Women's Super-Heavyweight,Bronze,Weightlifting,WLF,True,True
+Cheryl Haworth,F,United States,USA,2004,Athina,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True,False
+Cheryl Haworth,F,United States,USA,2008,Beijing,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True,False
+Cara Heads-lane,F,United States,USA,2000,Sydney,Weightlifting,Weightlifting Women's Heavyweight,No medal,Weightlifting,WLF,False,True
+Morghan King,F,United States,USA,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,False,True
+Holley Mangold,F,United States,USA,2012,London,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,False,True
+Tara Nott-cunningham,F,United States,USA,2000,Sydney,Weightlifting,Weightlifting Women's Flyweight,Gold,Weightlifting,WLF,True,True
+Tara Nott-cunningham,F,United States,USA,2004,Athina,Weightlifting,Weightlifting Women's Flyweight,No medal,Weightlifting,WLF,True,False
+Melanie Roach,F,United States,USA,2008,Beijing,Weightlifting,Weightlifting Women's Featherweight,No medal,Weightlifting,WLF,False,True
+Sarah Robles,F,United States,USA,2012,London,Weightlifting,Weightlifting Women's Super-Heavyweight,No medal,Weightlifting,WLF,True,True
+Sarah Robles,F,United States,USA,2016,Rio de Janeiro,Weightlifting,Weightlifting Women's Super-Heavyweight,Bronze,Weightlifting,WLF,True,False
+Natalie (-burgener),F,United States,USA,2008,Beijing,Weightlifting,Weightlifting Women's Middleweight,No medal,Weightlifting,WLF,False,True
+Elizabeth Delacruz,F,United States,USA,2020,Tokyo,Weightlifting,Women's 49kg,No medal,Women's,WLF,False,True
+Elizabeth Nye,F,United States,USA,2020,Tokyo,Weightlifting,Women's 76kg,Silver,Women's,WLF,False,True
+Elizabeth Robles,F,United States,USA,2020,Tokyo,Weightlifting,Women's +87kg,Bronze,Women's,WLF,False,True
+Ann Rogers,F,United States,USA,2020,Tokyo,Weightlifting,Women's 87kg,No medal,Women's,WLF,False,True
+Jourdan Delacruz,F,United States,USA,2024,Paris,Weightlifting,Women's 49kg,No medal,Women's,WLF,False,True
+Olivia Reeves,F,United States,USA,2024,Paris,Weightlifting,Women's 71kg,Gold,Women's,WLF,False,True
+Mary Theisen,F,United States,USA,2024,Paris,Weightlifting,Women's +81kg,No medal,Women's,WLF,False,True

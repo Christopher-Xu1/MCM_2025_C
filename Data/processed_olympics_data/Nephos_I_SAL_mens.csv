@@ -1,5 +1,5 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Georgios Kalambokidis,M,Nephos I,GRE,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Khristoforos Karolou,M,Nephos I,GRE,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Kharalambos Potamianos,M,Nephos I,GRE,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Nikolaos Vlangalis,M,Nephos I,GRE,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Georgios Kalambokidis,M,Nephos I,GRE,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Khristoforos Karolou,M,Nephos I,GRE,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Kharalambos Potamianos,M,Nephos I,GRE,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Nikolaos Vlangalis,M,Nephos I,GRE,1948,London,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True

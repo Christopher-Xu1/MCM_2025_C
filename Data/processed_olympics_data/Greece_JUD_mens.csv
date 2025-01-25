@@ -1,18 +1,18 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Lavrentis Alexanidis,M,Greece,GRE,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
-Lavrentis Alexanidis,M,Greece,GRE,2008,Beijing,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
-Dionysios Iliadis,M,Greece,GRE,2004,Athina,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False
-Ilias Iliadis,M,Greece,GRE,2004,Athina,Judo,Judo Men's Half-Middleweight,Gold,Judo,JUD,True
-Ilias Iliadis,M,Greece,GRE,2008,Beijing,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Ilias Iliadis,M,Greece,GRE,2012,London,Judo,Judo Men's Middleweight,Bronze,Judo,JUD,True
-Ilias Iliadis,M,Greece,GRE,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
-Vasileios Iliadis,M,Greece,GRE,2004,Athina,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Roman Moustopoulos,M,Greece,GRE,2016,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
-Ilias Nikas,M,Greece,GRE,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
-Kharalambos Papaioannou,M,Greece,GRE,1996,Atlanta,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Kharalambos Papaioannou,M,Greece,GRE,2004,Athina,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
-Georgios Vazagkasvili,M,Greece,GRE,2004,Athina,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Revaz Zintiridis,M,Greece,GRE,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
-Tariel Zintiridis,M,Greece,GRE,2008,Beijing,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
-Alexios Ntanatsidis,M,Greece,GRE,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,False
-Theodoros Tselidis,M,Greece,GRE,2024,Paris,Judo,Men -90 kg,Bronze,Men,JUD,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Lavrentis Alexanidis,M,Greece,GRE,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True,True
+Lavrentis Alexanidis,M,Greece,GRE,2008,Beijing,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True,False
+Dionysios Iliadis,M,Greece,GRE,2004,Athina,Judo,Judo Men's Middleweight,No medal,Judo,JUD,False,True
+Ilias Iliadis,M,Greece,GRE,2004,Athina,Judo,Judo Men's Half-Middleweight,Gold,Judo,JUD,True,True
+Ilias Iliadis,M,Greece,GRE,2008,Beijing,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,False
+Ilias Iliadis,M,Greece,GRE,2012,London,Judo,Judo Men's Middleweight,Bronze,Judo,JUD,True,False
+Ilias Iliadis,M,Greece,GRE,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True,False
+Vasileios Iliadis,M,Greece,GRE,2004,Athina,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Roman Moustopoulos,M,Greece,GRE,2016,Rio de Janeiro,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False,True
+Ilias Nikas,M,Greece,GRE,1992,Barcelona,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False,True
+Kharalambos Papaioannou,M,Greece,GRE,1996,Atlanta,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,True
+Kharalambos Papaioannou,M,Greece,GRE,2004,Athina,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True,False
+Georgios Vazagkasvili,M,Greece,GRE,2004,Athina,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Revaz Zintiridis,M,Greece,GRE,2004,Athina,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False,True
+Tariel Zintiridis,M,Greece,GRE,2008,Beijing,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False,True
+Alexios Ntanatsidis,M,Greece,GRE,2020,Tokyo,Judo,Men -81 kg,No medal,Men,JUD,False,True
+Theodoros Tselidis,M,Greece,GRE,2024,Paris,Judo,Men -90 kg,Bronze,Men,JUD,False,True

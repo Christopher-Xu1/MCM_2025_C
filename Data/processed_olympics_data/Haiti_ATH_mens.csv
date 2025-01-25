@@ -1,49 +1,49 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-douard Armand,M,Haiti,HAI,1924,Paris,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
-douard Armand,M,Haiti,HAI,1924,Paris,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-douard Armand,M,Haiti,HAI,1924,Paris,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True
-Sylvio Cator,M,Haiti,HAI,1924,Paris,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True
-Sylvio Cator,M,Haiti,HAI,1924,Paris,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Sylvio Cator,M,Haiti,HAI,1928,Amsterdam,Athletics,Athletics Men's Long Jump,Silver,Athletics,ATH,True
-Sylvio Cator,M,Haiti,HAI,1932,Los Angeles,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
-Olmeus Charles,M,Haiti,HAI,1976,Montreal,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,False
-Maurice Charlotin,M,Haiti,HAI,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Gerald Clervil,M,Haiti,HAI,2000,Sydney,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Wilfrid Cyriaque,M,Haiti,HAI,1976,Montreal,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Dadi Denis,M,Haiti,HAI,2004,Athina,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Jean-Marc Destine,M,Haiti,HAI,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Thancule Dezart,M,Haiti,HAI,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
-Dudley Dorival,M,Haiti,HAI,2000,Sydney,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Dudley Dorival,M,Haiti,HAI,2004,Athina,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Dudley Dorival,M,Haiti,HAI,2008,Beijing,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Philippe Tienne,M,Haiti,HAI,1976,Montreal,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Philippe Tienne,M,Haiti,HAI,1976,Montreal,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Jean-Max Faustin,M,Haiti,HAI,1972,Munich,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
-Pierre-Richard Gaetjens,M,Haiti,HAI,1972,Munich,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Gary Georges,M,Haiti,HAI,1972,Munich,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
-Anilus Joseph,M,Haiti,HAI,1972,Munich,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,False
-Moise Joseph,M,Haiti,HAI,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Moise Joseph,M,Haiti,HAI,2012,London,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
-Wilnor Joseph,M,Haiti,HAI,1976,Montreal,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Jeffrey Julmis,M,Haiti,HAI,2012,London,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Jeffrey Julmis,M,Haiti,HAI,2016,Rio de Janeiro,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
-Samyr Laine,M,Haiti,HAI,2012,London,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False
-Dieudonn Lamothe,M,Haiti,HAI,1976,Montreal,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
-Dieudonn Lamothe,M,Haiti,HAI,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Dieudonn Lamothe,M,Haiti,HAI,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Dieudonn Lamothe,M,Haiti,HAI,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
-Wagner Marseille,M,Haiti,HAI,1996,Atlanta,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,False
-Fritz Pierre,M,Haiti,HAI,1972,Munich,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
-Claude Roumain,M,Haiti,HAI,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Claude Roumain,M,Haiti,HAI,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Claude Roumain,M,Haiti,HAI,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Claude Roumain,M,Haiti,HAI,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Emmanuel Saint-hilaire,M,Haiti,HAI,1976,Montreal,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
-Valry Thard,M,Haiti,HAI,1924,Paris,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Valry Thard,M,Haiti,HAI,1924,Paris,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Valry Thard,M,Haiti,HAI,1928,Amsterdam,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Valry Thard,M,Haiti,HAI,1928,Amsterdam,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
-Valry Thard,M,Haiti,HAI,1932,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
-Anderson Vilien,M,Haiti,HAI,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
-Darrell Wesh,M,Haiti,HAI,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
-Christopher Borzor,M,Haiti,HAI,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+douard Armand,M,Haiti,HAI,1924,Paris,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True,True
+douard Armand,M,Haiti,HAI,1924,Paris,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+douard Armand,M,Haiti,HAI,1924,Paris,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True,True
+Sylvio Cator,M,Haiti,HAI,1924,Paris,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True,True
+Sylvio Cator,M,Haiti,HAI,1924,Paris,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,True
+Sylvio Cator,M,Haiti,HAI,1928,Amsterdam,Athletics,Athletics Men's Long Jump,Silver,Athletics,ATH,True,False
+Sylvio Cator,M,Haiti,HAI,1932,Los Angeles,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True,False
+Olmeus Charles,M,Haiti,HAI,1976,Montreal,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,False,True
+Maurice Charlotin,M,Haiti,HAI,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Gerald Clervil,M,Haiti,HAI,2000,Sydney,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Wilfrid Cyriaque,M,Haiti,HAI,1976,Montreal,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Dadi Denis,M,Haiti,HAI,2004,Athina,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Jean-Marc Destine,M,Haiti,HAI,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Thancule Dezart,M,Haiti,HAI,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False,True
+Dudley Dorival,M,Haiti,HAI,2000,Sydney,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,True
+Dudley Dorival,M,Haiti,HAI,2004,Athina,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,False
+Dudley Dorival,M,Haiti,HAI,2008,Beijing,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,False
+Philippe Tienne,M,Haiti,HAI,1976,Montreal,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Philippe Tienne,M,Haiti,HAI,1976,Montreal,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Jean-Max Faustin,M,Haiti,HAI,1972,Munich,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False,True
+Pierre-Richard Gaetjens,M,Haiti,HAI,1972,Munich,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Gary Georges,M,Haiti,HAI,1972,Munich,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False,True
+Anilus Joseph,M,Haiti,HAI,1972,Munich,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,False,True
+Moise Joseph,M,Haiti,HAI,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,True
+Moise Joseph,M,Haiti,HAI,2012,London,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True,False
+Wilnor Joseph,M,Haiti,HAI,1976,Montreal,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Jeffrey Julmis,M,Haiti,HAI,2012,London,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,True
+Jeffrey Julmis,M,Haiti,HAI,2016,Rio de Janeiro,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True,False
+Samyr Laine,M,Haiti,HAI,2012,London,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False,True
+Dieudonn Lamothe,M,Haiti,HAI,1976,Montreal,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True,True
+Dieudonn Lamothe,M,Haiti,HAI,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Dieudonn Lamothe,M,Haiti,HAI,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Dieudonn Lamothe,M,Haiti,HAI,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True,False
+Wagner Marseille,M,Haiti,HAI,1996,Atlanta,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,False,True
+Fritz Pierre,M,Haiti,HAI,1972,Munich,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False,True
+Claude Roumain,M,Haiti,HAI,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Claude Roumain,M,Haiti,HAI,1988,Seoul,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Claude Roumain,M,Haiti,HAI,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Claude Roumain,M,Haiti,HAI,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Emmanuel Saint-hilaire,M,Haiti,HAI,1976,Montreal,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False,True
+Valry Thard,M,Haiti,HAI,1924,Paris,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,True
+Valry Thard,M,Haiti,HAI,1924,Paris,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,True
+Valry Thard,M,Haiti,HAI,1928,Amsterdam,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Valry Thard,M,Haiti,HAI,1928,Amsterdam,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True,False
+Valry Thard,M,Haiti,HAI,1932,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True,False
+Anderson Vilien,M,Haiti,HAI,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False,True
+Darrell Wesh,M,Haiti,HAI,2016,Rio de Janeiro,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False,True
+Christopher Borzor,M,Haiti,HAI,2024,Paris,Athletics,Men's 100m,No medal,Men's,ATH,False,True

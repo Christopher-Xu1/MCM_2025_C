@@ -1,13 +1,13 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Ahmad Al-afasi,M,Individual Olympic Athletes,IOA,2016,Rio de Janeiro,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,False
-Fehaid Al-deehani,M,Individual Olympic Athletes,IOA,2016,Rio de Janeiro,Shooting,Shooting Men's Double Trap,Gold,Shooting,SHO,False
-Abdulrahman Al-faihan,M,Individual Olympic Athletes,IOA,2016,Rio de Janeiro,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False
-Khaled Al-mudhaf,M,Individual Olympic Athletes,IOA,2016,Rio de Janeiro,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False
-Abdullah Al-rashidi,M,Individual Olympic Athletes,IOA,2016,Rio de Janeiro,Shooting,Shooting Men's Skeet,Bronze,Shooting,SHO,False
-Saud Habib,M,Individual Olympic Athletes,IOA,2016,Rio de Janeiro,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False
-Goran Maksimovi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Goran Maksimovi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Goran Maksimovi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
-Nemanja Mirosavljev,M,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Nemanja Mirosavljev,M,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Stevan Pletikosi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",Bronze,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Ahmad Al-afasi,M,Individual Olympic Athletes,IOA,2016,Rio de Janeiro,Shooting,Shooting Men's Double Trap,No medal,Shooting,SHO,False,True
+Fehaid Al-deehani,M,Individual Olympic Athletes,IOA,2016,Rio de Janeiro,Shooting,Shooting Men's Double Trap,Gold,Shooting,SHO,False,True
+Abdulrahman Al-faihan,M,Individual Olympic Athletes,IOA,2016,Rio de Janeiro,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False,True
+Khaled Al-mudhaf,M,Individual Olympic Athletes,IOA,2016,Rio de Janeiro,Shooting,Shooting Men's Trap,No medal,Shooting,SHO,False,True
+Abdullah Al-rashidi,M,Individual Olympic Athletes,IOA,2016,Rio de Janeiro,Shooting,Shooting Men's Skeet,Bronze,Shooting,SHO,False,True
+Saud Habib,M,Individual Olympic Athletes,IOA,2016,Rio de Janeiro,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False,True
+Goran Maksimovi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Goran Maksimovi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Goran Maksimovi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True,True
+Nemanja Mirosavljev,M,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Nemanja Mirosavljev,M,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Stevan Pletikosi,M,Individual Olympic Athletes,IOA,1992,Barcelona,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",Bronze,Shooting,SHO,False,True

@@ -1,8 +1,8 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Birgir Borgrsson,M,Iceland,ISL,1980,Moskva,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False
-Gumundur Helgason,M,Iceland,ISL,1980,Moskva,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False
-orsteinn Leifsson,M,Iceland,ISL,1980,Moskva,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False
-skar Sigurplsson,M,Iceland,ISL,1968,Mexico City,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-skar Sigurplsson,M,Iceland,ISL,1972,Munich,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True
-Gumundur Sigursson,M,Iceland,ISL,1972,Munich,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
-Gumundur Sigursson,M,Iceland,ISL,1976,Montreal,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Birgir Borgrsson,M,Iceland,ISL,1980,Moskva,Weightlifting,Weightlifting Men's Heavyweight I,No medal,Weightlifting,WLF,False,True
+Gumundur Helgason,M,Iceland,ISL,1980,Moskva,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,False,True
+orsteinn Leifsson,M,Iceland,ISL,1980,Moskva,Weightlifting,Weightlifting Men's Light-Heavyweight,No medal,Weightlifting,WLF,False,True
+skar Sigurplsson,M,Iceland,ISL,1968,Mexico City,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,True
+skar Sigurplsson,M,Iceland,ISL,1972,Munich,Weightlifting,Weightlifting Men's Heavyweight,No medal,Weightlifting,WLF,True,False
+Gumundur Sigursson,M,Iceland,ISL,1972,Munich,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,True
+Gumundur Sigursson,M,Iceland,ISL,1976,Montreal,Weightlifting,Weightlifting Men's Middle-Heavyweight,No medal,Weightlifting,WLF,True,False

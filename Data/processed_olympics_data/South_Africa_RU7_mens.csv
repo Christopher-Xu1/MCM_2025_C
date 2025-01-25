@@ -1,40 +1,40 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Cecil Afrika,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False
-Timothy Agaba,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False
-Kyle Brown,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False
-Juan Jongh,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False
-Justin Geduld,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,True
-Franois Hougaard,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False
-Werner Kok,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False
-Cheslin Kolbe,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False
-Dylan Sage,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False
-Seabelo Senatla,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False
-Albertus Smith,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False
-Philippus Snyman,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False
-Roscko Specman,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False
-Kurt-lee Arendse,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Ronald Brown,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,True
-Angelo Davids,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Selvyn Davids,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,True
-Zain Davids,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,True
-Chris Dry,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-du Branco,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Stedman Gans,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Justin Geduld,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,True
-Sakoyisa Makata,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Jc Pretorius,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False
-Siviwe Soyizwapi,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,True
-Impi Visser,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,True
-Christie Grobbelaar,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False
-Ryan Oosthuizen,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False
-Impi Visser,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,True
-Zain Davids,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,True
-Tiaan Pretorius,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False
-Ronald Brown,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,True
-Shaun Williams,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False
-Siviwe Soyizwapi,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,True
-van Shilton,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False
-Rosko Specman,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False
-Tristan Leyds,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False
-Selvyn Davids,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,True
-Quewin Nortje,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Cecil Afrika,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False,True
+Timothy Agaba,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False,True
+Kyle Brown,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False,True
+Juan Jongh,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False,True
+Justin Geduld,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,True,True
+Franois Hougaard,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False,True
+Werner Kok,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False,True
+Cheslin Kolbe,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False,True
+Dylan Sage,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False,True
+Seabelo Senatla,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False,True
+Albertus Smith,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False,True
+Philippus Snyman,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False,True
+Roscko Specman,M,South Africa,RSA,2016,Rio de Janeiro,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,Bronze,Rugby,RU7,False,True
+Kurt-lee Arendse,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Ronald Brown,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,True,True
+Angelo Davids,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Selvyn Davids,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,True,True
+Zain Davids,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,True,True
+Chris Dry,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+du Branco,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Stedman Gans,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Justin Geduld,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,True,False
+Sakoyisa Makata,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Jc Pretorius,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,False,True
+Siviwe Soyizwapi,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,True,True
+Impi Visser,M,South Africa,RSA,2020,Tokyo,Rugby Sevens,Men Team,No medal,Men,RU7,True,True
+Christie Grobbelaar,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False,True
+Ryan Oosthuizen,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False,True
+Impi Visser,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,True,False
+Zain Davids,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,True,False
+Tiaan Pretorius,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False,True
+Ronald Brown,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,True,False
+Shaun Williams,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False,True
+Siviwe Soyizwapi,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,True,False
+van Shilton,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False,True
+Rosko Specman,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False,True
+Tristan Leyds,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False,True
+Selvyn Davids,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,True,False
+Quewin Nortje,M,South Africa,RSA,2024,Paris,Rugby Sevens,Men,Bronze,Men,RU7,False,True

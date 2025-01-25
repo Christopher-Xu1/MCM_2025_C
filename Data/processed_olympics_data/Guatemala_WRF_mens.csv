@@ -1,25 +1,25 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-ngel Mejia,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,True
-ngel Mejia,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Joseph House,M,Guatemala,GUA,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False
-Juan Daz,M,Guatemala,GUA,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False
-Luis Gonzlez,M,Guatemala,GUA,1972,Munich,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False
-Jos Cruz,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,True
-Jos Cruz,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True
-Marco Girn,M,Guatemala,GUA,1952,Helsinki,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,True
-Marco Girn,M,Guatemala,GUA,1952,Helsinki,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True
-Jos Ortiz,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,True
-Jos Ortiz,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True
-Jos Snchez,M,Guatemala,GUA,1952,Helsinki,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True
-Jos Snchez,M,Guatemala,GUA,1952,Helsinki,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True
-Arstides Prez,M,Guatemala,GUA,1952,Helsinki,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,True
-Arstides Prez,M,Guatemala,GUA,1952,Helsinki,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True
-Pedro Pedroza,M,Guatemala,GUA,1972,Munich,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False
-Gustavo Ramrez,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Gustavo Ramrez,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Mynor Fuentes,M,Guatemala,GUA,1992,Barcelona,Wrestling,"Wrestling Men's Light-Flyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Mynor Fuentes,M,Guatemala,GUA,1996,Atlanta,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,True
-Javier Tubac,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True
-Javier Tubac,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True
-Edvin Vzquez,M,Guatemala,GUA,1988,Seoul,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True
-Edvin Vzquez,M,Guatemala,GUA,1988,Seoul,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+ngel Mejia,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+ngel Mejia,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True,True
+Joseph House,M,Guatemala,GUA,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,False,True
+Juan Daz,M,Guatemala,GUA,1972,Munich,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,False,True
+Luis Gonzlez,M,Guatemala,GUA,1972,Munich,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,False,True
+Jos Cruz,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Jos Cruz,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True,True
+Marco Girn,M,Guatemala,GUA,1952,Helsinki,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Marco Girn,M,Guatemala,GUA,1952,Helsinki,Wrestling,"Wrestling Men's Featherweight, Freestyle",No medal,Wrestling,WRF,True,True
+Jos Ortiz,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Jos Ortiz,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Middleweight, Freestyle",No medal,Wrestling,WRF,True,True
+Jos Snchez,M,Guatemala,GUA,1952,Helsinki,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Jos Snchez,M,Guatemala,GUA,1952,Helsinki,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True,True
+Arstides Prez,M,Guatemala,GUA,1952,Helsinki,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Arstides Prez,M,Guatemala,GUA,1952,Helsinki,Wrestling,"Wrestling Men's Lightweight, Freestyle",No medal,Wrestling,WRF,True,True
+Pedro Pedroza,M,Guatemala,GUA,1972,Munich,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,False,True
+Gustavo Ramrez,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Gustavo Ramrez,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True,True
+Mynor Fuentes,M,Guatemala,GUA,1992,Barcelona,Wrestling,"Wrestling Men's Light-Flyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Mynor Fuentes,M,Guatemala,GUA,1996,Atlanta,Wrestling,"Wrestling Men's Light-Flyweight, Freestyle",No medal,Wrestling,WRF,True,False
+Javier Tubac,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Javier Tubac,M,Guatemala,GUA,1968,Mexico City,Wrestling,"Wrestling Men's Bantamweight, Freestyle",No medal,Wrestling,WRF,True,True
+Edvin Vzquez,M,Guatemala,GUA,1988,Seoul,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",No medal,Wrestling,WRF,True,True
+Edvin Vzquez,M,Guatemala,GUA,1988,Seoul,Wrestling,"Wrestling Men's Flyweight, Freestyle",No medal,Wrestling,WRF,True,True

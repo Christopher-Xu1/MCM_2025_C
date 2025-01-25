@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jhonattan Vegas,M,Venezuela,VEN,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,True
-Jhonattan Vegas,M,Venezuela,VEN,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jhonattan Vegas,M,Venezuela,VEN,2016,Rio de Janeiro,Golf,Golf Men's Individual,No medal,Golf,GLF,True,True
+Jhonattan Vegas,M,Venezuela,VEN,2020,Tokyo,Golf,Men's Individual Stroke Play,No medal,Men's,GLF,True,False

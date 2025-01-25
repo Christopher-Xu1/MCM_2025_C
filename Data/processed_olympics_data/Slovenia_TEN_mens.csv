@@ -1,4 +1,4 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Iztok Boic,M,Slovenia,SLO,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Bla Kavi,M,Slovenia,SLO,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
-Bla Trupej,M,Slovenia,SLO,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Iztok Boic,M,Slovenia,SLO,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Bla Kavi,M,Slovenia,SLO,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False,True
+Bla Trupej,M,Slovenia,SLO,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

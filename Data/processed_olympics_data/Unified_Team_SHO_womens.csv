@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Valentina Cherkasova,F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False
-Marina Dobrancheva-logvinenko,F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",Gold,Shooting,SHO,True
-Marina Dobrancheva-logvinenko,F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",Gold,Shooting,SHO,True
-Anna (malakhova-),F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True
-Anna (malakhova-),F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
-Nino (-machavariani),F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True
-Nino (-machavariani),F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True
-Irina Shilova,F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Valentina Cherkasova,F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,False,True
+Marina Dobrancheva-logvinenko,F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",Gold,Shooting,SHO,True,True
+Marina Dobrancheva-logvinenko,F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",Gold,Shooting,SHO,True,True
+Anna (malakhova-),F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Air Rifle, 10 metres",No medal,Shooting,SHO,True,True
+Anna (malakhova-),F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True,True
+Nino (-machavariani),F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Air Pistol, 10 metres",No medal,Shooting,SHO,True,True
+Nino (-machavariani),F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Sporting Pistol, 25 metres",No medal,Shooting,SHO,True,True
+Irina Shilova,F,Unified Team,EUN,1992,Barcelona,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,False,True

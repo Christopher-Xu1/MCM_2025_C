@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Abdullah Sediqi,M,Refugee Olympic Team,EOR,2020,Tokyo,Taekwondo,Men -68kg,No medal,Men,TKW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Abdullah Sediqi,M,Refugee Olympic Team,EOR,2020,Tokyo,Taekwondo,Men -68kg,No medal,Men,TKW,False,True

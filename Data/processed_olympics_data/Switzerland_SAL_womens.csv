@@ -1,19 +1,19 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Nathalie Brugger,F,Switzerland,SUI,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Nathalie Brugger,F,Switzerland,SUI,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Nathalie Brugger,F,Switzerland,SUI,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True
-Linda Fahrni,F,Switzerland,SUI,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Anja Kser,F,Switzerland,SUI,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Anja Kser,F,Switzerland,SUI,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True
-Ella Maillart,F,Switzerland,SUI,1924,Paris,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Nicole Meylan-levecque,F,Switzerland,SUI,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Nicole Meylan-levecque,F,Switzerland,SUI,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True
-Emmanuelle Rol,F,Switzerland,SUI,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Maja Siegenthaler,F,Switzerland,SUI,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True
-Anne-Sophie Thilo,F,Switzerland,SUI,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False
-Linda Fahrni,F,Switzerland,SUI,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,True
-Maud Jayet,F,Switzerland,SUI,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,True
-Maja Siegenthaler,F,Switzerland,SUI,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,True
-Maud Jayet,F,Switzerland,SUI,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,True
-Elena Lengwiler,F,Switzerland,SUI,2024,Paris,Sailing,Women's Kite,No medal,Women's,SAL,False
-Maja Siegenthaler,F,Switzerland,SUI,2024,Paris,Sailing,Mixed Dinghy,No medal,Mixed,SAL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Nathalie Brugger,F,Switzerland,SUI,2008,Beijing,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Nathalie Brugger,F,Switzerland,SUI,2012,London,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Nathalie Brugger,F,Switzerland,SUI,2016,Rio de Janeiro,Sailing,Sailing Mixed Multihull,No medal,Sailing,SAL,True,False
+Linda Fahrni,F,Switzerland,SUI,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Anja Kser,F,Switzerland,SUI,2000,Sydney,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,True
+Anja Kser,F,Switzerland,SUI,2004,Athina,Sailing,Sailing Women's Windsurfer,No medal,Sailing,SAL,True,False
+Ella Maillart,F,Switzerland,SUI,1924,Paris,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Nicole Meylan-levecque,F,Switzerland,SUI,1992,Barcelona,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,True
+Nicole Meylan-levecque,F,Switzerland,SUI,1996,Atlanta,Sailing,Sailing Women's One Person Dinghy,No medal,Sailing,SAL,True,False
+Emmanuelle Rol,F,Switzerland,SUI,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Maja Siegenthaler,F,Switzerland,SUI,2016,Rio de Janeiro,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,True,True
+Anne-Sophie Thilo,F,Switzerland,SUI,2008,Beijing,Sailing,Sailing Women's Two Person Dinghy,No medal,Sailing,SAL,False,True
+Linda Fahrni,F,Switzerland,SUI,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,True,False
+Maud Jayet,F,Switzerland,SUI,2020,Tokyo,Sailing,Women's One Person Dinghy - Laser Radial,No medal,Women's,SAL,True,True
+Maja Siegenthaler,F,Switzerland,SUI,2020,Tokyo,Sailing,Women's Two Person Dinghy - 470 Team,No medal,Women's,SAL,True,False
+Maud Jayet,F,Switzerland,SUI,2024,Paris,Sailing,Women's Dinghy,No medal,Women's,SAL,True,False
+Elena Lengwiler,F,Switzerland,SUI,2024,Paris,Sailing,Women's Kite,No medal,Women's,SAL,False,True
+Maja Siegenthaler,F,Switzerland,SUI,2024,Paris,Sailing,Mixed Dinghy,No medal,Mixed,SAL,True,False

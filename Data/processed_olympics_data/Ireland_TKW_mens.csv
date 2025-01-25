@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Jack Woolley,M,Ireland,IRL,2020,Tokyo,Taekwondo,Men -58kg,No medal,Men,TKW,True
-Jack Woolley,M,Ireland,IRL,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Jack Woolley,M,Ireland,IRL,2020,Tokyo,Taekwondo,Men -58kg,No medal,Men,TKW,True,True
+Jack Woolley,M,Ireland,IRL,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,True,False

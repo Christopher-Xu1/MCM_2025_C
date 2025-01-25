@@ -1,6 +1,6 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Xenophon Casdagli,M,Greece-2,GRE,1906,Athina,Tennis,Tennis Mixed Doubles,Bronze,Tennis,TEN,False
-Khios Paspatis,M,Greece-2,GRE,1896,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Evangelos Rallis,M,Greece-2,GRE,1896,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Georgios Simiriotis,M,Greece-2,GRE,1906,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
-Nikolaos Zarifis,M,Greece-2,GRE,1906,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Xenophon Casdagli,M,Greece-2,GRE,1906,Athina,Tennis,Tennis Mixed Doubles,Bronze,Tennis,TEN,False,True
+Khios Paspatis,M,Greece-2,GRE,1896,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Evangelos Rallis,M,Greece-2,GRE,1896,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Georgios Simiriotis,M,Greece-2,GRE,1906,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True
+Nikolaos Zarifis,M,Greece-2,GRE,1906,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False,True

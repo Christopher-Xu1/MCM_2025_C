@@ -1,16 +1,16 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Shane Atwell,M,Barbados,BAR,1988,Seoul,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-Bruce Bayley,M,Barbados,BAR,1984,Los Angeles,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Owen Burke,M,Barbados,BAR,1992,Barcelona,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False
-Gregory Douglas,M,Barbados,BAR,2008,Beijing,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False
-Michael Green,M,Barbados,BAR,1988,Seoul,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False
-Richard Hoad,M,Barbados,BAR,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-O'Neal Marshall,M,Barbados,BAR,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-O'Neal Marshall,M,Barbados,BAR,2000,Sydney,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Howard Palmer,M,Barbados,BAR,1984,Los Angeles,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Howard Palmer,M,Barbados,BAR,1988,Seoul,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True
-Rodney Reader,M,Barbados,BAR,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False
-David Staples,M,Barbados,BAR,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
-Brian Talma,M,Barbados,BAR,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,True
-Brian Talma,M,Barbados,BAR,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True
-Jason Teller,M,Barbados,BAR,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Shane Atwell,M,Barbados,BAR,1988,Seoul,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+Bruce Bayley,M,Barbados,BAR,1984,Los Angeles,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Owen Burke,M,Barbados,BAR,1992,Barcelona,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False,True
+Gregory Douglas,M,Barbados,BAR,2008,Beijing,Sailing,Sailing Men's One Person Dinghy,No medal,Sailing,SAL,False,True
+Michael Green,M,Barbados,BAR,1988,Seoul,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,False,True
+Richard Hoad,M,Barbados,BAR,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+O'Neal Marshall,M,Barbados,BAR,1996,Atlanta,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,True
+O'Neal Marshall,M,Barbados,BAR,2000,Sydney,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Howard Palmer,M,Barbados,BAR,1984,Los Angeles,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,True
+Howard Palmer,M,Barbados,BAR,1988,Seoul,Sailing,Sailing Mixed Two Person Keelboat,No medal,Sailing,SAL,True,False
+Rodney Reader,M,Barbados,BAR,1996,Atlanta,Sailing,Sailing Mixed One Person Dinghy,No medal,Sailing,SAL,False,True
+David Staples,M,Barbados,BAR,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True
+Brian Talma,M,Barbados,BAR,1988,Seoul,Sailing,Sailing Mixed Windsurfer,No medal,Sailing,SAL,True,True
+Brian Talma,M,Barbados,BAR,1992,Barcelona,Sailing,Sailing Men's Windsurfer,No medal,Sailing,SAL,True,False
+Jason Teller,M,Barbados,BAR,1992,Barcelona,Sailing,Sailing Mixed Three Person Keelboat,No medal,Sailing,SAL,False,True

@@ -1,7 +1,7 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Adrienne Lyle,F,United States,USA,2020,Tokyo,Equestrian,Dressage Team,Silver,Dressage,EDR,True
-Adrienne Lyle,F,United States,USA,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Sabine Schut-kery,F,United States,USA,2020,Tokyo,Equestrian,Dressage Team,Silver,Dressage,EDR,True
-Sabine Schut-kery,F,United States,USA,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Adrienne Lyle,F,United States,USA,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True
-Adrienne Lyle,F,United States,USA,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Adrienne Lyle,F,United States,USA,2020,Tokyo,Equestrian,Dressage Team,Silver,Dressage,EDR,True,True
+Adrienne Lyle,F,United States,USA,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Sabine Schut-kery,F,United States,USA,2020,Tokyo,Equestrian,Dressage Team,Silver,Dressage,EDR,True,True
+Sabine Schut-kery,F,United States,USA,2020,Tokyo,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,True
+Adrienne Lyle,F,United States,USA,2024,Paris,Equestrian,Dressage Individual,No medal,Dressage,EDR,True,False
+Adrienne Lyle,F,United States,USA,2024,Paris,Equestrian,Dressage Team,No medal,Dressage,EDR,True,False

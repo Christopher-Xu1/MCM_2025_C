@@ -1,10 +1,10 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Long Cheung,M,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Men's Foil Individual,Gold,Men's,FEN,True
-Long Cheung,M,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Men's Foil Team,No medal,Men's,FEN,True
-Lun Cheung,M,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Men's Foil Individual,No medal,Men's,FEN,True
-Lun Cheung,M,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Men's Foil Team,No medal,Men's,FEN,True
-Ryan Choi,M,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Men's Foil Individual,No medal,Men's,FEN,True
-Ryan Choi,M,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Men's Foil Team,No medal,Men's,FEN,True
-Lawrence Ng,M,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Men's Foil Team,No medal,Men's,FEN,False
-Long Cheung,M,"Hong Kong, China",HKG,2024,Paris,Fencing,Men's Foil Individual,Gold,Men's,FEN,True
-Hang Ho,M,"Hong Kong, China",HKG,2024,Paris,Fencing,Men's Épée Individual,No medal,Men's,FEN,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Long Cheung,M,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Men's Foil Individual,Gold,Men's,FEN,True,True
+Long Cheung,M,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Men's Foil Team,No medal,Men's,FEN,True,True
+Lun Cheung,M,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Men's Foil Individual,No medal,Men's,FEN,True,True
+Lun Cheung,M,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Men's Foil Team,No medal,Men's,FEN,True,True
+Ryan Choi,M,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Men's Foil Individual,No medal,Men's,FEN,True,True
+Ryan Choi,M,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Men's Foil Team,No medal,Men's,FEN,True,True
+Lawrence Ng,M,"Hong Kong, China",HKG,2020,Tokyo,Fencing,Men's Foil Team,No medal,Men's,FEN,False,True
+Long Cheung,M,"Hong Kong, China",HKG,2024,Paris,Fencing,Men's Foil Individual,Gold,Men's,FEN,True,False
+Hang Ho,M,"Hong Kong, China",HKG,2024,Paris,Fencing,Men's Épée Individual,No medal,Men's,FEN,False,True

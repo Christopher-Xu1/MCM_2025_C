@@ -1,2 +1,2 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Hector Florentino,M,Dominican Republic,DOM,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Hector Florentino,M,Dominican Republic,DOM,2020,Tokyo,Equestrian,Jumping Individual,No medal,Jumping,EJP,False,True

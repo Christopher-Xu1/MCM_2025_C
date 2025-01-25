@@ -1,9 +1,9 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-Khaled Houcine,M,Tunisia,TUN,2012,London,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,Canoeing,CSL,True
-Khaled Houcine,M,Tunisia,TUN,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,Canoeing,CSL,True
-Mohamed Mrabet,M,Tunisia,TUN,2012,London,Canoeing,"Canoeing Men's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True
-Mohamed Mrabet,M,Tunisia,TUN,2012,London,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True
-Mohamed Mrabet,M,Tunisia,TUN,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True
-Salim Jemai,M,Tunisia,TUN,2024,Paris,Canoe Slalom,Men's Canoe Single,No medal,Men's,CSL,True
-Salim Jemai,M,Tunisia,TUN,2024,Paris,Canoe Slalom,Men's Kayak Single,No medal,Men's,CSL,True
-Salim Jemai,M,Tunisia,TUN,2024,Paris,Canoe Slalom,Men's Kayak Cross,No medal,Men's,CSL,True
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+Khaled Houcine,M,Tunisia,TUN,2012,London,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,Canoeing,CSL,True,True
+Khaled Houcine,M,Tunisia,TUN,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Canadian Singles, 200 metres",No medal,Canoeing,CSL,True,False
+Mohamed Mrabet,M,Tunisia,TUN,2012,London,Canoeing,"Canoeing Men's Kayak Singles, 200 metres",No medal,Canoeing,CSL,True,True
+Mohamed Mrabet,M,Tunisia,TUN,2012,London,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True,True
+Mohamed Mrabet,M,Tunisia,TUN,2016,Rio de Janeiro,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",No medal,Canoeing,CSL,True,False
+Salim Jemai,M,Tunisia,TUN,2024,Paris,Canoe Slalom,Men's Canoe Single,No medal,Men's,CSL,True,True
+Salim Jemai,M,Tunisia,TUN,2024,Paris,Canoe Slalom,Men's Kayak Single,No medal,Men's,CSL,True,True
+Salim Jemai,M,Tunisia,TUN,2024,Paris,Canoe Slalom,Men's Kayak Cross,No medal,Men's,CSL,True,True

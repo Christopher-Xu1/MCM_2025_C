@@ -1,3 +1,3 @@
-Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
-John Hoben,M,Ravenswood Boat Club-2,USA,1904,St. Louis,Rowing,Rowing Men's Double Sculls,Silver,Rowing,ROW,False
-Joseph Mcloughlin,M,Ravenswood Boat Club-2,USA,1904,St. Louis,Rowing,Rowing Men's Double Sculls,Silver,Rowing,ROW,False
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events,First Event
+John Hoben,M,Ravenswood Boat Club-2,USA,1904,St. Louis,Rowing,Rowing Men's Double Sculls,Silver,Rowing,ROW,False,True
+Joseph Mcloughlin,M,Ravenswood Boat Club-2,USA,1904,St. Louis,Rowing,Rowing Men's Double Sculls,Silver,Rowing,ROW,False,True
