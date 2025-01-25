@@ -26,23 +26,24 @@ for file in folder_path.iterdir():
         event = row['Event']
         medal = row['Medal']
 
-
-        if athlete == prev:
-            continue
-
-        else:
+        if row['First Event'] == True:
             if medal == "Bronze": bronze_count += 1
             elif medal == "Silver": silver_count += 1
             elif medal == "Gold": gold_count += 1
+
 
     prob_b = bronze_count/rows
     prob_s = silver_count/rows
     prob_g = gold_count/rows 
 
     df = df.reset_index(drop=True)
-    event_r = df['Event'].iloc[0]
-    if event_r == "Men":
-        print(file)
+    # event_r = df['Event'].iloc[0]
+    # if event_r == "Men":
+    #     print(file)
+
+    headers = str(file).split("/")[-1]
+    parts = headers.split("_")
+    event_t = ' '.join(parts[1:-1])
 
     country = df['Country'].iloc[0]
     gender = df['Gender'].iloc[0]
@@ -50,10 +51,11 @@ for file in folder_path.iterdir():
     data_list.append({
             'Country': country,
             'Gender': gender,
-            'Event': event_r,
+            'Event': event_t,
             'prob_bronze': prob_b,
             'prob_silver': prob_s,
-            'prob_gold': prob_g
+            'prob_gold': prob_g,
+            'raw medals': bronze_count + silver_count + gold_count
         })
 
     # if file.is_file():
