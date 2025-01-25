@@ -3,7 +3,7 @@ from pathlib import Path
 
 folder_path = Path('../Data/processed_olympics_data/')
 
-output_file = 'new_athlete_probabilities.csv'
+output_file = 'repeat_athlete_probabilities.csv'
 output_df = pd.DataFrame(columns=['Country', 'Gender', 'Event', 'prob_bronze', 'prob_silver', 'prob_gold'])
 data_list = []
 
@@ -109,7 +109,7 @@ for file in folder_path.iterdir():
             rows -= 1
             continue
 
-        if row['First Event'] == True:
+        if row['First Event'] == False:
             if medal == "Bronze": bronze_count += 1
             elif medal == "Silver": silver_count += 1
             elif medal == "Gold": gold_count += 1
