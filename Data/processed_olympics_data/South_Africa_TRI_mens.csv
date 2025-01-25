@@ -1,0 +1,9 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Richard Murray,M,South Africa,RSA,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
+Richard Murray,M,South Africa,RSA,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
+Henri Schoeman,M,South Africa,RSA,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,Bronze,Triathlon,TRI,True
+Conrad Stoltz,M,South Africa,RSA,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
+Conrad Stoltz,M,South Africa,RSA,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
+Henri Schoeman,M,South Africa,RSA,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
+Henri Schoeman,M,South Africa,RSA,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True
+Jamie Riddle,M,South Africa,RSA,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False

@@ -1,0 +1,11 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Liu Xiaobo,M,China,CHN,2008,Beijing,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,True
+Liu Xiaobo,M,China,CHN,2012,London,Taekwondo,Taekwondo Men's Heavyweight,Bronze,Taekwondo,TKW,True
+Qiao Sen,M,China,CHN,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False
+Zhao Shuai,M,China,CHN,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Flyweight,Gold,Taekwondo,TKW,False
+Zhu Feng,M,China,CHN,2000,Sydney,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False
+Zhu Guo,M,China,CHN,2008,Beijing,Taekwondo,Taekwondo Men's Welterweight,Bronze,Taekwondo,TKW,False
+Hongyi Sun,M,China,CHN,2020,Tokyo,Taekwondo,Men +80kg,No medal,Men,TKW,False
+Shuai Zhao,M,China,CHN,2020,Tokyo,Taekwondo,Men -68kg,Bronze,Men,TKW,False
+Zhaoxiang Song,M,China,CHN,2024,Paris,Taekwondo,Men +80kg,No medal,Men,TKW,False
+Yushuai Liang,M,China,CHN,2024,Paris,Taekwondo,Men -68kg,Bronze,Men,TKW,False

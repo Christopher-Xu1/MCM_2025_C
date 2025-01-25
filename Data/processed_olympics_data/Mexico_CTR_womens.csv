@@ -1,0 +1,25 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Daniela Pen,F,Mexico,MEX,2016,Rio de Janeiro,Cycling,"Cycling Women's Mountainbike, Cross-Country",No medal,Cycling,CTR,False
+Nancy Reyes,F,Mexico,MEX,1996,Atlanta,Cycling,Cycling Women's Sprint,No medal,Cycling,CTR,True
+Nancy Reyes,F,Mexico,MEX,2004,Athina,Cycling,Cycling Women's 500 metres Time Trial,No medal,Cycling,CTR,True
+Ingrid Clouthier,F,Mexico,MEX,2012,London,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
+Alessandra Herrera,F,Mexico,MEX,2008,Beijing,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
+Belem Mndez,F,Mexico,MEX,1996,Atlanta,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True
+Belem Mndez,F,Mexico,MEX,2000,Sydney,Cycling,Cycling Women's Points Race,No medal,Cycling,CTR,True
+Belem Mndez,F,Mexico,MEX,2004,Athina,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,True
+Belem Mndez,F,Mexico,MEX,2004,Athina,Cycling,Cycling Women's Points Race,Silver,Cycling,CTR,True
+Carolina Gutirrez,F,Mexico,MEX,2016,Rio de Janeiro,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
+Daniela Gaxiola,F,Mexico,MEX,2020,Tokyo,Cycling Track,Women's Team Sprint Team,No medal,Women's,CTR,True
+Daniela Gaxiola,F,Mexico,MEX,2020,Tokyo,Cycling Track,Women's Sprint,No medal,Women's,CTR,True
+Daniela Gaxiola,F,Mexico,MEX,2020,Tokyo,Cycling Track,Women's Keirin,No medal,Women's,CTR,True
+Yuli Verdugo,F,Mexico,MEX,2020,Tokyo,Cycling Track,Women's Team Sprint Team,No medal,Women's,CTR,True
+Yuli Verdugo,F,Mexico,MEX,2020,Tokyo,Cycling Track,Women's Sprint,No medal,Women's,CTR,True
+Yuli Verdugo,F,Mexico,MEX,2020,Tokyo,Cycling Track,Women's Keirin,No medal,Women's,CTR,True
+Victoria Velasco,F,Mexico,MEX,2024,Paris,Cycling Track,Women's Omnium,No medal,Women's,CTR,False
+Daniela Gaxiola,F,Mexico,MEX,2024,Paris,Cycling Track,Women's Keirin,No medal,Women's,CTR,True
+Daniela Gaxiola,F,Mexico,MEX,2024,Paris,Cycling Track,Women's Sprint,No medal,Women's,CTR,True
+Daniela Gaxiola,F,Mexico,MEX,2024,Paris,Cycling Track,Women's Team Sprint,No medal,Women's,CTR,True
+Yuli Verdugo,F,Mexico,MEX,2024,Paris,Cycling Track,Women's Keirin,No medal,Women's,CTR,True
+Yuli Verdugo,F,Mexico,MEX,2024,Paris,Cycling Track,Women's Sprint,No medal,Women's,CTR,True
+Yuli Verdugo,F,Mexico,MEX,2024,Paris,Cycling Track,Women's Team Sprint,No medal,Women's,CTR,True
+Jessica Salazar,F,Mexico,MEX,2024,Paris,Cycling Track,Women's Team Sprint,No medal,Women's,CTR,False

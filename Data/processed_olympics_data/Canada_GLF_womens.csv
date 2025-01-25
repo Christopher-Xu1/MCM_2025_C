@@ -1,0 +1,7 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Brooke Henderson,F,Canada,CAN,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,True
+Alena Sharp,F,Canada,CAN,2016,Rio de Janeiro,Golf,Golf Women's Individual,No medal,Golf,GLF,True
+Brooke Henderson,F,Canada,CAN,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
+Alena Sharp,F,Canada,CAN,2020,Tokyo,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True
+M Henderson,F,Canada,CAN,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,False
+Alena Sharp,F,Canada,CAN,2024,Paris,Golf,Women's Individual Stroke Play,No medal,Women's,GLF,True

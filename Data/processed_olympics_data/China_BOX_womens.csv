@@ -1,0 +1,16 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Dong Cheng,F,China,CHN,2012,London,Boxing,Boxing Women's Lightweight,No medal,Boxing,BOX,False
+Li Jinzi,F,China,CHN,2012,London,Boxing,Boxing Women's Middleweight,Bronze,Boxing,BOX,False
+Li Qian,F,China,CHN,2016,Rio de Janeiro,Boxing,Boxing Women's Middleweight,Bronze,Boxing,BOX,False
+Ren Cancan,F,China,CHN,2012,London,Boxing,Boxing Women's Flyweight,Silver,Boxing,BOX,True
+Ren Cancan,F,China,CHN,2016,Rio de Janeiro,Boxing,Boxing Women's Flyweight,Bronze,Boxing,BOX,True
+Yin Junhua,F,China,CHN,2016,Rio de Janeiro,Boxing,Boxing Women's Lightweight,Silver,Boxing,BOX,False
+Yuan Chang,F,China,CHN,2020,Tokyo,Boxing,Women's Fly (48-51kg),No medal,Women's,BOX,True
+Hong Gu,F,China,CHN,2020,Tokyo,Boxing,Women's Welter (64-69kg),Silver,Women's,BOX,False
+Qian Li,F,China,CHN,2020,Tokyo,Boxing,Women's Middle (69-75kg),Silver,Women's,BOX,True
+Qian Li,F,China,CHN,2024,Paris,Boxing,Women's 75kg,Gold,Women's,BOX,True
+Liu Yang,F,China,CHN,2024,Paris,Boxing,Women's 66kg,Silver,Women's,BOX,False
+Wenlu Yang,F,China,CHN,2024,Paris,Boxing,Women's 60kg,Silver,Women's,BOX,False
+Zichun Xu,F,China,CHN,2024,Paris,Boxing,Women's 57kg,No medal,Women's,BOX,False
+Yuan Chang,F,China,CHN,2024,Paris,Boxing,Women's 54kg,Gold,Women's,BOX,True
+Yu Wu,F,China,CHN,2024,Paris,Boxing,Women's 50kg,Gold,Women's,BOX,False

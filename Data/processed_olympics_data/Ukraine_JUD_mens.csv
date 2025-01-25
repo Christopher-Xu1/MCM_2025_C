@@ -1,0 +1,35 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Karen Balaian,M,Ukraine,UKR,1996,Atlanta,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
+Hennadiy Bilodid,M,Ukraine,UKR,2000,Sydney,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
+Hennadiy Bilodid,M,Ukraine,UKR,2004,Athina,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
+Hennadiy Bilodid,M,Ukraine,UKR,2008,Beijing,Judo,Judo Men's Lightweight,No medal,Judo,JUD,True
+Artem Bloshenko,M,Ukraine,UKR,2012,London,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
+Artem Bloshenko,M,Ukraine,UKR,2016,Rio de Janeiro,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,True
+Stanislav Bondarenko,M,Ukraine,UKR,2012,London,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
+Vitaliy Bubon,M,Ukraine,UKR,2004,Athina,Judo,Judo Men's Half-Heavyweight,No medal,Judo,JUD,False
+Serhiy Drebot,M,Ukraine,UKR,2012,London,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
+Roman Hontiuk,M,Ukraine,UKR,2004,Athina,Judo,Judo Men's Half-Middleweight,Silver,Judo,JUD,True
+Roman Hontiuk,M,Ukraine,UKR,2008,Beijing,Judo,Judo Men's Half-Middleweight,Bronze,Judo,JUD,True
+Roman Hontiuk,M,Ukraine,UKR,2012,London,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
+Valentyn Hrekov,M,Ukraine,UKR,2004,Athina,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
+Valentyn Hrekov,M,Ukraine,UKR,2008,Beijing,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
+Yakiv Khammo,M,Ukraine,UKR,2016,Rio de Janeiro,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,True
+Maksym Korotun,M,Ukraine,UKR,2008,Beijing,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
+Ruslan Mashurenko,M,Ukraine,UKR,1996,Atlanta,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
+Ruslan Mashurenko,M,Ukraine,UKR,2000,Sydney,Judo,Judo Men's Middleweight,Bronze,Judo,JUD,True
+Ruslan Mirzaliyev,M,Ukraine,UKR,2000,Sydney,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,False
+Musa Nastuiev,M,Ukraine,UKR,2004,Athina,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,False
+Quedjau Nhabali,M,Ukraine,UKR,2016,Rio de Janeiro,Judo,Judo Men's Middleweight,No medal,Judo,JUD,True
+Vitaliy Polianskiy,M,Ukraine,UKR,2004,Athina,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
+Valentyn Rusliakov,M,Ukraine,UKR,2000,Sydney,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
+Volodymyr Soroka,M,Ukraine,UKR,2012,London,Judo,Judo Men's Lightweight,No medal,Judo,JUD,False
+Yevhen Sotnykov,M,Ukraine,UKR,2008,Beijing,Judo,Judo Men's Heavyweight,No medal,Judo,JUD,False
+Artem Vasylenko,M,Ukraine,UKR,2012,London,Judo,Judo Men's Half-Middleweight,No medal,Judo,JUD,False
+Heorhiy Zantaraia,M,Ukraine,UKR,2012,London,Judo,Judo Men's Extra-Lightweight,No medal,Judo,JUD,True
+Heorhiy Zantaraia,M,Ukraine,UKR,2016,Rio de Janeiro,Judo,Judo Men's Half-Lightweight,No medal,Judo,JUD,True
+Yakiv Khammo,M,Ukraine,UKR,2020,Tokyo,Judo,Men +100 kg,No medal,Men,JUD,True
+Artem Lesiuk,M,Ukraine,UKR,2020,Tokyo,Judo,Men -60 kg,No medal,Men,JUD,False
+Quedjau Nhabali,M,Ukraine,UKR,2020,Tokyo,Judo,Men -90 kg,No medal,Men,JUD,True
+Georgii Zantaraia,M,Ukraine,UKR,2020,Tokyo,Judo,Men -66 kg,No medal,Men,JUD,False
+Dilshot Khalmatov,M,Ukraine,UKR,2024,Paris,Judo,Men -60 kg,No medal,Men,JUD,False
+Bogdan Iadov,M,Ukraine,UKR,2024,Paris,Judo,Men -66 kg,No medal,Men,JUD,False

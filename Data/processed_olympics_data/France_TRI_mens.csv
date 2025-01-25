@@ -1,0 +1,25 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Frdric Belaubre,M,France,FRA,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
+Frdric Belaubre,M,France,FRA,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
+Stphan Bignet,M,France,FRA,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
+Carl Blasco,M,France,FRA,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
+Carl Blasco,M,France,FRA,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
+Dorian Coninx,M,France,FRA,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
+David Hauss,M,France,FRA,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
+Pierre Corre,M,France,FRA,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
+Vincent Luis,M,France,FRA,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
+Vincent Luis,M,France,FRA,2016,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
+Olivier Marceau,M,France,FRA,2000,Sydney,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
+Tony Moulay,M,France,FRA,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
+Stphane Poulat,M,France,FRA,2004,Athina,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,False
+Laurent Vidal,M,France,FRA,2008,Beijing,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
+Laurent Vidal,M,France,FRA,2012,London,Triathlon,Triathlon Men's Olympic Distance,No medal,Triathlon,TRI,True
+Leo Bergere,M,France,FRA,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
+Leo Bergere,M,France,FRA,2020,Tokyo,Triathlon,Mixed Relay Team,Bronze,Mixed,TRI,True
+Dorian Coninx,M,France,FRA,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
+Dorian Coninx,M,France,FRA,2020,Tokyo,Triathlon,Mixed Relay Team,Bronze,Mixed,TRI,True
+Vincent Luis,M,France,FRA,2020,Tokyo,Triathlon,Men's Individual,No medal,Men's,TRI,True
+Vincent Luis,M,France,FRA,2020,Tokyo,Triathlon,Mixed Relay Team,Bronze,Mixed,TRI,True
+Dorian Coninx,M,France,FRA,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,True
+Leo Bergere,M,France,FRA,2024,Paris,Triathlon,Men's Individual,Bronze,Men's,TRI,True
+le Pierre,M,France,FRA,2024,Paris,Triathlon,Men's Individual,No medal,Men's,TRI,False

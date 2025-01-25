@@ -1,0 +1,61 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Wayne Arthurs,M,Australia,AUS,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Wayne Arthurs,M,Australia,AUS,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+John Bayley,M,Australia,AUS,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+John Bayley,M,Australia,AUS,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Darren Cahill,M,Australia,AUS,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Darren Cahill,M,Australia,AUS,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+John Fitzgerald,M,Australia,AUS,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+John Fitzgerald,M,Australia,AUS,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+John Fitzgerald,M,Australia,AUS,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Edwin Flack,M,Australia,AUS,1896,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Richard Fromberg,M,Australia,AUS,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Samuel Groth,M,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Christopher Guccione,M,Australia,AUS,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Christopher Guccione,M,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Lleyton Hewitt,M,Australia,AUS,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Lleyton Hewitt,M,Australia,AUS,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Lleyton Hewitt,M,Australia,AUS,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Lleyton Hewitt,M,Australia,AUS,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
+Andrew Ilie,M,Australia,AUS,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Thanasi Kokkinakis,M,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Wallace Masur,M,Australia,AUS,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Wallace Masur,M,Australia,AUS,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+John Millman,M,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+John Peers,M,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
+John Peers,M,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Mark Philippoussis,M,Australia,AUS,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Mark Philippoussis,M,Australia,AUS,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Mark Philippoussis,M,Australia,AUS,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Patrick Rafter,M,Australia,AUS,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Jason Stoltenberg,M,Australia,AUS,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Ronald Thomas,M,Australia,AUS,1920,Antwerpen,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Jordan Thompson,M,Australia,AUS,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Bernard Tomic,M,Australia,AUS,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Arthur Willard,M,Australia,AUS,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Arthur Willard,M,Australia,AUS,1924,Paris,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Todd Woodbridge,M,Australia,AUS,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Todd Woodbridge,M,Australia,AUS,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Todd Woodbridge,M,Australia,AUS,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Todd Woodbridge,M,Australia,AUS,1996,Atlanta,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,True
+Todd Woodbridge,M,Australia,AUS,2000,Sydney,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,True
+Todd Woodbridge,M,Australia,AUS,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Mark Woodforde,M,Australia,AUS,1996,Atlanta,Tennis,Tennis Men's Doubles,Gold,Tennis,TEN,True
+Mark Woodforde,M,Australia,AUS,2000,Sydney,Tennis,Tennis Men's Doubles,Silver,Tennis,TEN,True
+James Duckworth,M,Australia,AUS,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,False
+John Millman,M,Australia,AUS,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True
+John Millman,M,Australia,AUS,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
+John Peers,M,Australia,AUS,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
+John Peers,M,Australia,AUS,2020,Tokyo,Tennis,Mixed Doubles Team,Bronze,Mixed,TEN,True
+Max Purcell,M,Australia,AUS,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True
+Max Purcell,M,Australia,AUS,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
+Luke Saville,M,Australia,AUS,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True
+Luke Saville,M,Australia,AUS,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
+de Alex,M,Australia,AUS,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,False
+Alexei Popyrin,M,Australia,AUS,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
+Alexei Popyrin,M,Australia,AUS,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True
+John Peers,M,Australia,AUS,2024,Paris,Tennis,Men's Doubles,Gold,Men's,TEN,True
+Matthew Ebden,M,Australia,AUS,2024,Paris,Tennis,Men's Doubles,Gold,Men's,TEN,True
+Matthew Ebden,M,Australia,AUS,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True
+Matthew Ebden,M,Australia,AUS,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True
+Rinky Hijikata,M,Australia,AUS,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,False

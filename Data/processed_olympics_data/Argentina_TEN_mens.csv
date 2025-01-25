@@ -1,0 +1,62 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Carlos Berlocq,M,Argentina,ARG,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Agustn Shaal,M,Argentina,ARG,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Agustn Shaal,M,Argentina,ARG,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Guillermo Caas,M,Argentina,ARG,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Hctor Cattaruzza,M,Argentina,ARG,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Juan Chela,M,Argentina,ARG,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Juan Chela,M,Argentina,ARG,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Juan Chela,M,Argentina,ARG,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Juan Potro,M,Argentina,ARG,2012,London,Tennis,Tennis Men's Singles,Bronze,Tennis,TEN,True
+Juan Potro,M,Argentina,ARG,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
+Juan Potro,M,Argentina,ARG,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,Silver,Tennis,TEN,True
+Federico Delbonis,M,Argentina,ARG,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Carlos Dumas,M,Argentina,ARG,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Gastn Etlis,M,Argentina,ARG,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Javier Maggi,M,Argentina,ARG,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Javier Maggi,M,Argentina,ARG,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Javier Maggi,M,Argentina,ARG,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Javier Maggi,M,Argentina,ARG,1992,Barcelona,Tennis,Tennis Men's Doubles,Bronze,Tennis,TEN,True
+Javier Maggi,M,Argentina,ARG,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Javier Maggi,M,Argentina,ARG,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Gastn Gaudio,M,Argentina,ARG,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Hernn Gumy,M,Argentina,ARG,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Arturo Hortal,M,Argentina,ARG,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Martn Jaite,M,Argentina,ARG,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Martn Jaite,M,Argentina,ARG,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Lus Lobo,M,Argentina,ARG,1996,Atlanta,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Alberto Mancini,M,Argentina,ARG,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Christian Ventureira,M,Argentina,ARG,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Christian Ventureira,M,Argentina,ARG,1992,Barcelona,Tennis,Tennis Men's Doubles,Bronze,Tennis,TEN,True
+Juan Mnaco,M,Argentina,ARG,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Juan Mnaco,M,Argentina,ARG,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Juan Mnaco,M,Argentina,ARG,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+David Nalbandian,M,Argentina,ARG,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+David Nalbandian,M,Argentina,ARG,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+David Nalbandian,M,Argentina,ARG,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Guido Pella,M,Argentina,ARG,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Guillermo Lennon,M,Argentina,ARG,1924,Paris,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Eduardo Schwank,M,Argentina,ARG,2012,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Franco Squillari,M,Argentina,ARG,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Mariano Zabaleta,M,Argentina,ARG,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Mariano Zabaleta,M,Argentina,ARG,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Mariano Zabaleta,M,Argentina,ARG,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Facundo Bagnis,M,Argentina,ARG,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True
+Facundo Bagnis,M,Argentina,ARG,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
+Francisco Cerundolo,M,Argentina,ARG,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True
+Federico Coria,M,Argentina,ARG,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,False
+Andres Molteni,M,Argentina,ARG,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
+Diego Schwartzman,M,Argentina,ARG,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True
+Diego Schwartzman,M,Argentina,ARG,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
+Horacio Zeballos,M,Argentina,ARG,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
+Horacio Zeballos,M,Argentina,ARG,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,Mixed,TEN,True
+Sebastian Baez,M,Argentina,ARG,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,False
+Francisco Cerundolo,M,Argentina,ARG,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
+Francisco Cerundolo,M,Argentina,ARG,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True
+Martin Etcheverry,M,Argentina,ARG,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
+Martin Etcheverry,M,Argentina,ARG,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True
+Maximo Gonzalez,M,Argentina,ARG,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
+Maximo Gonzalez,M,Argentina,ARG,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True
+Andres Molteni,M,Argentina,ARG,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
+Mariano Navone,M,Argentina,ARG,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
+Mariano Navone,M,Argentina,ARG,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True

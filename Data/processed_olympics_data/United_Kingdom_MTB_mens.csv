@@ -1,0 +1,5 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Thomas Pidcock,M,United Kingdom,GBR,2020,Tokyo,Cycling Mountain Bike,Men's Cross-country,Gold,Men's,MTB,True
+Charlie Aldridge,M,United Kingdom,GBR,2024,Paris,Cycling Mountain Bike,Men's Cross-country,No medal,Men's,MTB,False
+Thomas Pidcock,M,United Kingdom,GBR,2024,Paris,"Cycling Road, Cycling Mountain Bike",Men's Road Race,No medal,Men's,MTB,True
+Thomas Pidcock,M,United Kingdom,GBR,2024,Paris,"Cycling Road, Cycling Mountain Bike",Men's Cross-country,No medal,Men's,MTB,True

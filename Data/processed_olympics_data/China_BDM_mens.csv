@@ -1,0 +1,37 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Bao Chunlai,M,China,CHN,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
+Bao Chunlai,M,China,CHN,2008,Beijing,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
+Chen Hong,M,China,CHN,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
+Chen Jin,M,China,CHN,2008,Beijing,Badminton,Badminton Men's Singles,Bronze,Badminton,BDM,True
+Chen Jin,M,China,CHN,2012,London,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
+Chen Long,M,China,CHN,2012,London,Badminton,Badminton Men's Singles,Bronze,Badminton,BDM,True
+Chen Long,M,China,CHN,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,Gold,Badminton,BDM,True
+Dong Jiong,M,China,CHN,1996,Atlanta,Badminton,Badminton Men's Singles,Silver,Badminton,BDM,False
+Ji Xinpeng,M,China,CHN,2000,Sydney,Badminton,Badminton Men's Singles,Gold,Badminton,BDM,False
+Lin Dan,M,China,CHN,2004,Athina,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
+Lin Dan,M,China,CHN,2008,Beijing,Badminton,Badminton Men's Singles,Gold,Badminton,BDM,True
+Lin Dan,M,China,CHN,2012,London,Badminton,Badminton Men's Singles,Gold,Badminton,BDM,True
+Lin Dan,M,China,CHN,2016,Rio de Janeiro,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
+Liu Jun,M,China,CHN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
+Liu Yong,M,China,CHN,2000,Sydney,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
+Sun Jun,M,China,CHN,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
+Sun Jun,M,China,CHN,2000,Sydney,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,True
+Tao Xiaoqiang,M,China,CHN,1996,Atlanta,Badminton,Badminton Mixed Doubles,No medal,Badminton,BDM,False
+Wu Wenkai,M,China,CHN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
+Xia Xuanze,M,China,CHN,2000,Sydney,Badminton,Badminton Men's Singles,Bronze,Badminton,BDM,False
+Yu Lizhi,M,China,CHN,1996,Atlanta,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
+Zhao Jianhua,M,China,CHN,1992,Barcelona,Badminton,Badminton Men's Singles,No medal,Badminton,BDM,False
+Long Chen,M,China,CHN,2020,Tokyo,Badminton,Men's Singles,Silver,Men's,BDM,False
+Hui Li,M,China,CHN,2020,Tokyo,Badminton,Men's Doubles Team,Silver,Men's,BDM,False
+Chen Liu,M,China,CHN,2020,Tokyo,Badminton,Men's Doubles Team,Silver,Men's,BDM,True
+Qi Shi,M,China,CHN,2020,Tokyo,Badminton,Men's Singles,No medal,Men's,BDM,True
+Lyu Wang,M,China,CHN,2020,Tokyo,Badminton,Mixed Doubles Team,Gold,Mixed,BDM,False
+Wei Zheng,M,China,CHN,2020,Tokyo,Badminton,Mixed Doubles Team,Silver,Mixed,BDM,True
+Zhe Feng,M,China,CHN,2024,Paris,Badminton,Mixed Doubles,No medal,Mixed,BDM,False
+Wei Zheng,M,China,CHN,2024,Paris,Badminton,Mixed Doubles,Gold,Mixed,BDM,True
+Feng Li,M,China,CHN,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,False
+Qi Shi,M,China,CHN,2024,Paris,Badminton,Men's Singles,No medal,Men's,BDM,True
+Keng Liang,M,China,CHN,2024,Paris,Badminton,Men's Doubles,Silver,Men's,BDM,False
+Chen Liu,M,China,CHN,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,True
+Yi Ou,M,China,CHN,2024,Paris,Badminton,Men's Doubles,No medal,Men's,BDM,False
+Chang Wang,M,China,CHN,2024,Paris,Badminton,Men's Doubles,Silver,Men's,BDM,False

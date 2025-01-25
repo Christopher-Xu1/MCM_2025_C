@@ -1,0 +1,53 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Vitaly Anichkin,M,Kazakhstan,KAZ,2012,London,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,False
+Sergey Arzamasov,M,Kazakhstan,KAZ,1996,Atlanta,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True
+Sergey Arzamasov,M,Kazakhstan,KAZ,2000,Sydney,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True
+Valery Borisov,M,Kazakhstan,KAZ,1996,Atlanta,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Valery Borisov,M,Kazakhstan,KAZ,2000,Sydney,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Valery Borisov,M,Kazakhstan,KAZ,2000,Sydney,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Valery Borisov,M,Kazakhstan,KAZ,2004,Athina,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Gennady Chernovol,M,Kazakhstan,KAZ,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Gennady Chernovol,M,Kazakhstan,KAZ,2004,Athina,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Yevgeny Ektov,M,Kazakhstan,KAZ,2012,London,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False
+Nikita Filippov,M,Kazakhstan,KAZ,2012,London,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,False
+Ivan Ivanov,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,False
+Dmitry Karpov,M,Kazakhstan,KAZ,2004,Athina,Athletics,Athletics Men's Decathlon,Bronze,Athletics,ATH,True
+Dmitry Karpov,M,Kazakhstan,KAZ,2008,Beijing,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True
+Dmitry Karpov,M,Kazakhstan,KAZ,2012,London,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True
+Dmitry Koblov,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
+Mikhail Kolganov,M,Kazakhstan,KAZ,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Sergey Korepanov,M,Kazakhstan,KAZ,1996,Atlanta,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Sergey Korepanov,M,Kazakhstan,KAZ,2000,Sydney,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Sergey Korepanov,M,Kazakhstan,KAZ,2004,Athina,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Artyom Kosinov,M,Kazakhstan,KAZ,2012,London,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
+Mikhail Krasilov,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Rustam Kuvatov,M,Kazakhstan,KAZ,2004,Athina,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Rustam Kuvatov,M,Kazakhstan,KAZ,2008,Beijing,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Yevgeny Labutov,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,False
+Viktor Leptikov,M,Kazakhstan,KAZ,2012,London,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
+Takhir Mamashayev,M,Kazakhstan,KAZ,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Vitaly Medvedev,M,Kazakhstan,KAZ,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Vitaly Medvedev,M,Kazakhstan,KAZ,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Yevgeny Meleshchenko,M,Kazakhstan,KAZ,2004,Athina,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True
+Yevgeny Meleshchenko,M,Kazakhstan,KAZ,2008,Beijing,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True
+Vyacheslav Muravyov,M,Kazakhstan,KAZ,2008,Beijing,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Vyacheslav Muravyov,M,Kazakhstan,KAZ,2012,London,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Yury Pakhlyayev,M,Kazakhstan,KAZ,2000,Sydney,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
+Igor Potapovich,M,Kazakhstan,KAZ,1996,Atlanta,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True
+Igor Potapovich,M,Kazakhstan,KAZ,2000,Sydney,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True
+Sergey Rubtsov,M,Kazakhstan,KAZ,1996,Atlanta,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,True
+Sergey Rubtsov,M,Kazakhstan,KAZ,2000,Sydney,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,True
+Oleg Sakirkin,M,Kazakhstan,KAZ,2000,Sydney,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False
+Vitaly Savin,M,Kazakhstan,KAZ,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
+Georgy Sheyko,M,Kazakhstan,KAZ,2012,London,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Georgy Sheyko,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Roman Valiyev,M,Kazakhstan,KAZ,2004,Athina,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True
+Roman Valiyev,M,Kazakhstan,KAZ,2008,Beijing,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True
+Roman Valiyev,M,Kazakhstan,KAZ,2012,London,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True
+Roman Valiyev,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True
+Grigory Yegorov,M,Kazakhstan,KAZ,2004,Athina,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,False
+Sergey Zasimovich,M,Kazakhstan,KAZ,2008,Beijing,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
+Sergey Zaykov,M,Kazakhstan,KAZ,2012,London,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
+Mikhail Litvin,M,Kazakhstan,KAZ,2020,Tokyo,Athletics,Men's 400m,No medal,Men's,ATH,False
+Georgiy Sheiko,M,Kazakhstan,KAZ,2020,Tokyo,Athletics,Men's 20km Race Walk,No medal,Men's,ATH,False
+David Yefremov,M,Kazakhstan,KAZ,2024,Paris,Athletics,Men's 110m Hurdles,No medal,Men's,ATH,False

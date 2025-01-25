@@ -1,0 +1,4 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Ana Barros,F,Portugal,POR,1996,Atlanta,Cycling,"Cycling Women's Road Race, Individual",No medal,Cycling,CTR,False
+Maria Martins,F,Portugal,POR,2020,Tokyo,Cycling Track,Women's Omnium,No medal,Women's,CTR,True
+Maria Martins,F,Portugal,POR,2024,Paris,Cycling Track,Women's Omnium,No medal,Women's,CTR,True

@@ -1,0 +1,53 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Barbara Andolina,F,Italy,ITA,2004,Athina,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
+Erica Barbieri,F,Italy,ITA,2012,London,Judo,Judo Women's Middleweight,No medal,Judo,JUD,False
+Donata Burgatta,F,Italy,ITA,1996,Atlanta,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
+Cinzia Cavazzuti,F,Italy,ITA,2000,Sydney,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
+Cinzia Cavazzuti,F,Italy,ITA,2004,Athina,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
+Rosalba Forciniti,F,Italy,ITA,2012,London,Judo,Judo Women's Half-Lightweight,Bronze,Judo,JUD,False
+Jennifer Gal,F,Italy,ITA,2000,Sydney,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,False
+Odette Giuffrida,F,Italy,ITA,2016,Rio de Janeiro,Judo,Judo Women's Half-Lightweight,Silver,Judo,JUD,True
+Alessandra Giungi,F,Italy,ITA,1992,Barcelona,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
+Alessandra Giungi,F,Italy,ITA,1996,Atlanta,Judo,Judo Women's Half-Lightweight,No medal,Judo,JUD,True
+Edwige Gwend,F,Italy,ITA,2012,London,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
+Edwige Gwend,F,Italy,ITA,2016,Rio de Janeiro,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
+Giuseppina Macr,F,Italy,ITA,2004,Athina,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
+Elena Moretti,F,Italy,ITA,2012,London,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
+Lucia Morico,F,Italy,ITA,2004,Athina,Judo,Judo Women's Half-Heavyweight,Bronze,Judo,JUD,True
+Lucia Morico,F,Italy,ITA,2008,Beijing,Judo,Judo Women's Half-Heavyweight,No medal,Judo,JUD,True
+Valentina Moscatt,F,Italy,ITA,2016,Rio de Janeiro,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,False
+Maria Motta,F,Italy,ITA,1992,Barcelona,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
+Emanuela Pierantozzi,F,Italy,ITA,1992,Barcelona,Judo,Judo Women's Middleweight,Silver,Judo,JUD,True
+Emanuela Pierantozzi,F,Italy,ITA,1996,Atlanta,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
+Emanuela Pierantozzi,F,Italy,ITA,2000,Sydney,Judo,Judo Women's Half-Heavyweight,Bronze,Judo,JUD,True
+Giulia Quintavalle,F,Italy,ITA,2008,Beijing,Judo,Judo Women's Lightweight,Gold,Judo,JUD,True
+Giulia Quintavalle,F,Italy,ITA,2012,London,Judo,Judo Women's Lightweight,No medal,Judo,JUD,True
+Ylenia Scapin,F,Italy,ITA,1996,Atlanta,Judo,Judo Women's Half-Heavyweight,Bronze,Judo,JUD,True
+Ylenia Scapin,F,Italy,ITA,2000,Sydney,Judo,Judo Women's Middleweight,Bronze,Judo,JUD,True
+Ylenia Scapin,F,Italy,ITA,2004,Athina,Judo,Judo Women's Half-Middleweight,No medal,Judo,JUD,True
+Ylenia Scapin,F,Italy,ITA,2008,Beijing,Judo,Judo Women's Middleweight,No medal,Judo,JUD,True
+Michela Torrenti,F,Italy,ITA,2008,Beijing,Judo,Judo Women's Heavyweight,No medal,Judo,JUD,False
+Giovanna Tortora,F,Italy,ITA,1992,Barcelona,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
+Giovanna Tortora,F,Italy,ITA,1996,Atlanta,Judo,Judo Women's Extra-Lightweight,No medal,Judo,JUD,True
+Alice Bellandi,F,Italy,ITA,2020,Tokyo,Judo,Women -70 kg,No medal,Women,JUD,True
+Alice Bellandi,F,Italy,ITA,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
+Maria Centracchio,F,Italy,ITA,2020,Tokyo,Judo,Women -63 kg,Bronze,Women,JUD,True
+Maria Centracchio,F,Italy,ITA,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
+Odette Giuffrida,F,Italy,ITA,2020,Tokyo,Judo,Women -52 kg,Bronze,Women,JUD,True
+Odette Giuffrida,F,Italy,ITA,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
+Francesca Milani,F,Italy,ITA,2020,Tokyo,Judo,Women -48 kg,No medal,Women,JUD,True
+Francesca Milani,F,Italy,ITA,2020,Tokyo,Judo,Mixed Team,No medal,Mixed,JUD,True
+Assunta Scutto,F,Italy,ITA,2024,Paris,Judo,Women -48 kg,No medal,Women,JUD,True
+Assunta Scutto,F,Italy,ITA,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
+Odette Giuffrida,F,Italy,ITA,2024,Paris,Judo,Women -52 kg,No medal,Women,JUD,True
+Odette Giuffrida,F,Italy,ITA,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
+Veronica Toniolo,F,Italy,ITA,2024,Paris,Judo,Women -57 kg,No medal,Women,JUD,True
+Veronica Toniolo,F,Italy,ITA,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
+Alice Bellandi,F,Italy,ITA,2024,Paris,Judo,Women -78 kg,Gold,Women,JUD,True
+Alice Bellandi,F,Italy,ITA,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
+Asya Tavano,F,Italy,ITA,2024,Paris,Judo,Women +78 kg,No medal,Women,JUD,True
+Asya Tavano,F,Italy,ITA,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
+Savita Russo,F,Italy,ITA,2024,Paris,Judo,Women -63 kg,No medal,Women,JUD,True
+Savita Russo,F,Italy,ITA,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True
+Kim Polling,F,Italy,ITA,2024,Paris,Judo,Women -70 kg,No medal,Women,JUD,True
+Kim Polling,F,Italy,ITA,2024,Paris,Judo,Mixed Team,No medal,Mixed,JUD,True

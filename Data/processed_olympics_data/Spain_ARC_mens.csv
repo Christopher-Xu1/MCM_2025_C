@@ -1,0 +1,32 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Miguel Garca,M,Spain,ESP,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Miguel Garca,M,Spain,ESP,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True
+Elias Cobo,M,Spain,ESP,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Antonio Fernndez,M,Spain,ESP,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Antonio Fernndez,M,Spain,ESP,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True
+Juan Romero,M,Spain,ESP,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Juan Romero,M,Spain,ESP,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
+Juan Romero,M,Spain,ESP,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Juan Romero,M,Spain,ESP,1992,Barcelona,Archery,Archery Men's Team,Gold,Archery,ARC,True
+Manuel Taravilla,M,Spain,ESP,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Manuel Taravilla,M,Spain,ESP,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
+Felipe Garrido,M,Spain,ESP,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Alfonso Valln,M,Spain,ESP,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Alfonso Valln,M,Spain,ESP,1992,Barcelona,Archery,Archery Men's Team,Gold,Archery,ARC,True
+Daniel Prats,M,Spain,ESP,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Francisco Osorno,M,Spain,ESP,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Jos Escaso,M,Spain,ESP,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Emilio Delgado,M,Spain,ESP,1972,Munich,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Juan Libana,M,Spain,ESP,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Juan Libana,M,Spain,ESP,2016,Rio de Janeiro,Archery,Archery Men's Team,No medal,Archery,ARC,True
+Manuel Estrugas,M,Spain,ESP,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Antonio Megido,M,Spain,ESP,1980,Moskva,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Antonio Megido,M,Spain,ESP,1988,Seoul,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Antonio Megido,M,Spain,ESP,1988,Seoul,Archery,Archery Men's Team,No medal,Archery,ARC,True
+Antonio Megido,M,Spain,ESP,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Antonio Megido,M,Spain,ESP,1992,Barcelona,Archery,Archery Men's Team,Gold,Archery,ARC,True
+Antonio Megido,M,Spain,ESP,1996,Atlanta,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Daniel Castro,M,Spain,ESP,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True
+Daniel Castro,M,Spain,ESP,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
+Pablo Acha,M,Spain,ESP,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True
+Pablo Acha,M,Spain,ESP,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True

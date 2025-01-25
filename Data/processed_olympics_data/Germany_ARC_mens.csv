@@ -1,0 +1,16 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Florian Floto,M,Germany,GER,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Michael Frankenberg,M,Germany,GER,2004,Athina,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Andreas Lippoldt,M,Germany,GER,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Andreas Lippoldt,M,Germany,GER,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True
+Frank Marzoch,M,Germany,GER,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Frank Marzoch,M,Germany,GER,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True
+Camilo Mayr,M,Germany,GER,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Jens Pieper,M,Germany,GER,2008,Beijing,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Marc Rsicke,M,Germany,GER,1992,Barcelona,Archery,Archery Men's Individual,No medal,Archery,ARC,True
+Marc Rsicke,M,Germany,GER,1992,Barcelona,Archery,Archery Men's Team,No medal,Archery,ARC,True
+Christian Stubbe,M,Germany,GER,2000,Sydney,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Florian Unruh,M,Germany,GER,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True
+Florian Unruh,M,Germany,GER,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
+Florian Unruh,M,Germany,GER,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True
+Florian Unruh,M,Germany,GER,2024,Paris,Archery,Mixed Team,Silver,Mixed,ARC,True

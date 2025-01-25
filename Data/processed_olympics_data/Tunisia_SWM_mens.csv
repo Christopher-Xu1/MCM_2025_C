@@ -1,0 +1,26 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Anouar Naceur,M,Tunisia,TUN,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
+Ali Gharbi,M,Tunisia,TUN,1976,Montreal,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
+Ahmed Al-mathlouthi,M,Tunisia,TUN,2012,London,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
+Ahmed Al-mathlouthi,M,Tunisia,TUN,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
+Ahmed Al-mathlouthi,M,Tunisia,TUN,2016,Rio de Janeiro,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
+Ahmed Al-mathlouthi,M,Tunisia,TUN,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Oussama Mellouli,M,Tunisia,TUN,2000,Sydney,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Oussama Mellouli,M,Tunisia,TUN,2004,Athina,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
+Oussama Mellouli,M,Tunisia,TUN,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Oussama Mellouli,M,Tunisia,TUN,2004,Athina,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Oussama Mellouli,M,Tunisia,TUN,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
+Oussama Mellouli,M,Tunisia,TUN,2008,Beijing,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
+Oussama Mellouli,M,Tunisia,TUN,2008,Beijing,Swimming,"Swimming Men's 1,500 metres Freestyle",Gold,Swimming,SWM,True
+Oussama Mellouli,M,Tunisia,TUN,2012,London,Swimming,"Swimming Men's 1,500 metres Freestyle",Bronze,Swimming,SWM,True
+Oussama Mellouli,M,Tunisia,TUN,2012,London,Swimming,Swimming Men's 10 kilometres Open Water,Gold,Swimming,SWM,True
+Oussama Mellouli,M,Tunisia,TUN,2016,Rio de Janeiro,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
+Oussama Mellouli,M,Tunisia,TUN,2016,Rio de Janeiro,Swimming,Swimming Men's 10 kilometres Open Water,No medal,Swimming,SWM,True
+Taki Mrabet,M,Tunisia,TUN,2012,London,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Taki Mrabet,M,Tunisia,TUN,2012,London,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Ahmed Hafnaoui,M,Tunisia,TUN,2020,Tokyo,Swimming,Men's 400m Freestyle,Gold,Men's,SWM,True
+Ahmed Hafnaoui,M,Tunisia,TUN,2020,Tokyo,Swimming,Men's 800m Freestyle,No medal,Men's,SWM,True
+Ahmed Jaouadi,M,Tunisia,TUN,2024,Paris,"Marathon Swimming, Swimming",Men's 10km,No medal,Men's,SWM,True
+Ahmed Jaouadi,M,Tunisia,TUN,2024,Paris,"Marathon Swimming, Swimming",Men's 1500m Freestyle,No medal,Men's,SWM,True
+Ahmed Jaouadi,M,Tunisia,TUN,2024,Paris,"Marathon Swimming, Swimming",Men's 400m Freestyle,No medal,Men's,SWM,True
+Ahmed Jaouadi,M,Tunisia,TUN,2024,Paris,"Marathon Swimming, Swimming",Men's 800m Freestyle,No medal,Men's,SWM,True

@@ -1,0 +1,40 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Martti Aljand,M,Estonia,EST,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Martti Aljand,M,Estonia,EST,2008,Beijing,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Martin Allikvee,M,Estonia,EST,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Aleksandr Baldin,M,Estonia,EST,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Aleksandr Baldin,M,Estonia,EST,2004,Athina,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Danil Haustov,M,Estonia,EST,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
+Danil Haustov,M,Estonia,EST,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
+Danil Haustov,M,Estonia,EST,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
+Martin Liivamgi,M,Estonia,EST,2008,Beijing,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Martin Liivamgi,M,Estonia,EST,2012,London,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Martin Liivamgi,M,Estonia,EST,2012,London,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Miko Mlberg,M,Estonia,EST,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
+Ilmar Ojase,M,Estonia,EST,1992,Barcelona,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
+Ilmar Ojase,M,Estonia,EST,1992,Barcelona,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
+Ilmar Ojase,M,Estonia,EST,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
+Andres Olvik,M,Estonia,EST,2008,Beijing,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,False
+Marko Pachel,M,Estonia,EST,1992,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Marko Pachel,M,Estonia,EST,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
+Raiko Pachel,M,Estonia,EST,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Raiko Pachel,M,Estonia,EST,2000,Sydney,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Boris (rosenberg-),M,Estonia,EST,1936,Berlin,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,False
+Egon (rosenberg-),M,Estonia,EST,1936,Berlin,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
+Indrek Sei,M,Estonia,EST,1992,Barcelona,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
+Indrek Sei,M,Estonia,EST,1992,Barcelona,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
+Indrek Sei,M,Estonia,EST,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
+Indrek Sei,M,Estonia,EST,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
+Indrek Sei,M,Estonia,EST,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
+Indrek Sei,M,Estonia,EST,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
+Indrek Sei,M,Estonia,EST,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
+Vladimir Sidorkin,M,Estonia,EST,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
+Aldo Suurvli,M,Estonia,EST,1992,Barcelona,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
+Aldo Suurvli,M,Estonia,EST,1992,Barcelona,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
+Martin Allikvee,M,Estonia,EST,2020,Tokyo,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True
+Kregor Zirk,M,Estonia,EST,2020,Tokyo,Swimming,Men's 200m Freestyle,No medal,Men's,SWM,True
+Kregor Zirk,M,Estonia,EST,2020,Tokyo,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,True
+Kregor Zirk,M,Estonia,EST,2020,Tokyo,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,True
+Kregor Zirk,M,Estonia,EST,2020,Tokyo,Swimming,Men's 200m Butterfly,No medal,Men's,SWM,True
+Kregor Zirk,M,Estonia,EST,2024,Paris,Swimming,Men's 200m Butterfly,No medal,Men's,SWM,True
+Kregor Zirk,M,Estonia,EST,2024,Paris,Swimming,Men's 400m Freestyle,No medal,Men's,SWM,True

@@ -1,0 +1,33 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Mona Barthel,F,Germany,GER,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Annika Beck,F,Germany,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Julia Grges,F,Germany,GER,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Stefanie Graf,F,Germany,GER,1992,Barcelona,Tennis,Tennis Women's Singles,Silver,Tennis,TEN,True
+Stefanie Graf,F,Germany,GER,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
+Anke Huber,F,Germany,GER,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Anke Huber,F,Germany,GER,1992,Barcelona,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
+Anke Huber,F,Germany,GER,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Jana Kandarr,F,Germany,GER,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Angelique Kerber,F,Germany,GER,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Angelique Kerber,F,Germany,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,Silver,Tennis,TEN,True
+Dorothea Kring,F,Germany,GER,1912,Stockholm,Tennis,Tennis Women's Singles,Silver,Tennis,TEN,True
+Dorothea Kring,F,Germany,GER,1912,Stockholm,Tennis,Tennis Mixed Doubles,Gold,Tennis,TEN,True
+Sabine Lisicki,F,Germany,GER,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Andrea Petkovic,F,Germany,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Barbara (-diehl-),F,Germany,GER,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Laura Siegemund,F,Germany,GER,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Mona Barthel,F,Germany,GER,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
+Anna-lena Friedsam,F,Germany,GER,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
+Anna-lena Friedsam,F,Germany,GER,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
+Laura Siegemund,F,Germany,GER,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
+Laura Siegemund,F,Germany,GER,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
+Laura Siegemund,F,Germany,GER,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,Mixed,TEN,True
+Angelique Kerber,F,Germany,GER,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
+Angelique Kerber,F,Germany,GER,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
+Laura Siegemund,F,Germany,GER,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
+Laura Siegemund,F,Germany,GER,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
+Laura Siegemund,F,Germany,GER,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True
+Tatjana Maria,F,Germany,GER,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
+Tatjana Maria,F,Germany,GER,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
+Tamara Korpatsch,F,Germany,GER,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
+Tamara Korpatsch,F,Germany,GER,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True

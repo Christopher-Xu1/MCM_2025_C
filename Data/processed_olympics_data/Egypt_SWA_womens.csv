@@ -1,0 +1,69 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Reem El-bossaty,F,Egypt,EGY,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
+Reem El-bossaty,F,Egypt,EGY,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
+Reem El-bossaty,F,Egypt,EGY,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
+Heba Gawad,F,Egypt,EGY,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
+Heba Gawad,F,Egypt,EGY,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
+Sara Gawad,F,Egypt,EGY,2000,Sydney,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
+Aziza Abdelfattah,F,Egypt,EGY,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
+Leila Abdelmoez,F,Egypt,EGY,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
+Shaza El-sayed,F,Egypt,EGY,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
+Shaza El-sayed,F,Egypt,EGY,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
+Shaza El-sayed,F,Egypt,EGY,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
+Samia Ahmed,F,Egypt,EGY,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
+Samia Ahmed,F,Egypt,EGY,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
+Dalia Allam,F,Egypt,EGY,2004,Athina,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,False
+Nariman Aly,F,Egypt,EGY,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
+Hagar Badran,F,Egypt,EGY,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
+Aya Darwish,F,Egypt,EGY,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
+Nour El-afandi,F,Egypt,EGY,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
+Nour El-ayoubi,F,Egypt,EGY,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
+Dalia El-gebaly,F,Egypt,EGY,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
+Dalia El-gebaly,F,Egypt,EGY,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
+Dalia El-gebaly,F,Egypt,EGY,2012,London,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
+Dalia El-gebaly,F,Egypt,EGY,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
+Jomana El-maghrabi,F,Egypt,EGY,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
+Dara Hassanien,F,Egypt,EGY,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
+Dara Hassanien,F,Egypt,EGY,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
+Samar Hassounah,F,Egypt,EGY,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
+Sahar Helal,F,Egypt,EGY,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,False
+Youmna Khallaf,F,Egypt,EGY,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
+Youmna Khallaf,F,Egypt,EGY,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
+Mai Mohamed,F,Egypt,EGY,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
+Mai Mohamed,F,Egypt,EGY,2012,London,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,True
+Dahlia Mokbel,F,Egypt,EGY,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
+Dahlia Mokbel,F,Egypt,EGY,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
+Salma Negmeldin,F,Egypt,EGY,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
+Nada Saafan,F,Egypt,EGY,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
+Nehal Saafan,F,Egypt,EGY,2016,Rio de Janeiro,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
+Nouran Saleh,F,Egypt,EGY,2008,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,No medal,Synchronized,SWA,False
+Sahar Youssef,F,Egypt,EGY,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Solo,No medal,Synchronized,SWA,True
+Sahar Youssef,F,Egypt,EGY,1984,Los Angeles,Synchronized Swimming,Synchronized Swimming Women's Duet,No medal,Synchronized,SWA,True
+Laila Ali,F,Egypt,EGY,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True
+Laila Ali,F,Egypt,EGY,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True
+Nora Azmy,F,Egypt,EGY,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False
+Hanna Hiekal,F,Egypt,EGY,2020,Tokyo,Artistic Swimming,Duet Team,No medal,Duet,SWA,True
+Hanna Hiekal,F,Egypt,EGY,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True
+Maryam Maghraby,F,Egypt,EGY,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False
+Farida Radwan,F,Egypt,EGY,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False
+Nihal Saafan,F,Egypt,EGY,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,True
+Shahd Samer,F,Egypt,EGY,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False
+Jayda Sharaf,F,Egypt,EGY,2020,Tokyo,Artistic Swimming,Team,No medal,Team,SWA,False
+Amina Elfeky,F,Egypt,EGY,2024,Paris,Artistic Swimming,Team,No medal,Team,SWA,True
+Amina Elfeky,F,Egypt,EGY,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True
+Farida Abdelbary,F,Egypt,EGY,2024,Paris,Artistic Swimming,Team,No medal,Team,SWA,True
+Farida Abdelbary,F,Egypt,EGY,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True
+Hana Hiekal,F,Egypt,EGY,2024,Paris,Artistic Swimming,Team,No medal,Team,SWA,True
+Hana Hiekal,F,Egypt,EGY,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True
+Malak Toson,F,Egypt,EGY,2024,Paris,Artistic Swimming,Team,No medal,Team,SWA,True
+Malak Toson,F,Egypt,EGY,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True
+Mariam Ahmed,F,Egypt,EGY,2024,Paris,Artistic Swimming,Team,No medal,Team,SWA,True
+Mariam Ahmed,F,Egypt,EGY,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True
+Nadine Barsoum,F,Egypt,EGY,2024,Paris,Artistic Swimming,Team,No medal,Team,SWA,True
+Nadine Barsoum,F,Egypt,EGY,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True
+Nihal Saafan,F,Egypt,EGY,2024,Paris,Artistic Swimming,Team,No medal,Team,SWA,True
+Nihal Saafan,F,Egypt,EGY,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True
+Salma Marei,F,Egypt,EGY,2024,Paris,Artistic Swimming,Team,No medal,Team,SWA,True
+Salma Marei,F,Egypt,EGY,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True
+Sondos Mohamed,F,Egypt,EGY,2024,Paris,Artistic Swimming,Team,No medal,Team,SWA,True
+Sondos Mohamed,F,Egypt,EGY,2024,Paris,Artistic Swimming,Duet,No medal,Duet,SWA,True

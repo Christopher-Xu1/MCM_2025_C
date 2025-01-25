@@ -1,0 +1,16 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Rushmi Chakravarthi,F,India,IND,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
+Manisha Malhotra,F,India,IND,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
+Sania Mirza,F,India,IND,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Sania Mirza,F,India,IND,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
+Sania Mirza,F,India,IND,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
+Sania Mirza,F,India,IND,2012,London,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
+Sania Mirza,F,India,IND,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
+Sania Mirza,F,India,IND,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
+Nora (fischer-),F,India,IND,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Nora (fischer-),F,India,IND,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
+Sunitha Rao,F,India,IND,2008,Beijing,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
+Prarthana Thombare,F,India,IND,2016,Rio de Janeiro,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
+Nirupama (-sanjeev),F,India,IND,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,False
+Sania Mirza,F,India,IND,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
+Ankita Raina,F,India,IND,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False

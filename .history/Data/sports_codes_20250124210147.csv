@@ -1,0 +1,71 @@
+Sport,Discipline,Code,Sports Governing Body
+Aquatics,Artistic Swimming,SWA,World Aquatics
+Aquatics,Diving,DIV,World Aquatics
+Aquatics,Marathon Swimming,OWS,World Aquatics
+Aquatics,Swimming,SWM,World Aquatics
+Aquatics,Water Polo,WPO,World Aquatics
+Archery,Archery,ARC,World Archery
+Athletics,Athletics,ATH,World Athletics
+Badminton,Badminton,BDM,BWF
+Baseball and Softball,Baseball,BSB,WBSC
+Baseball and Softball,Softball,SBL,WBSC
+Basketball,3x3,BK3,FIBA
+Basketball,Basketball,BKB,FIBA
+Basque Pelota,Basque Pelota,PEL,FIPV
+Boxing,Boxing,BOX,AIBA/IBA
+Breaking,Breaking,BKG,WDSF
+Canoeing,Sprint,CSP,ICF
+Canoeing,Slalom,CSL,ICF
+Cricket,Cricket,CKT,ICC
+Croquet,Croquet,CQT,WCF
+Cycling,BMX Freestyle,BMF,UCI
+Cycling,BMX Racing,BMX,UCI
+Cycling,Mountain Bike,MTB,UCI
+Cycling,Road,CRD,UCI
+Cycling,Track,CTR,UCI
+Equestrian,Dressage,EDR,FEI
+Equestrian,Eventing,EVE,FEI
+Equestrian,Jumping,EJP,FEI
+Equestrian,Vaulting,EVL,FEI
+Equestrian,Driving,EDV,FEI
+Fencing,Fencing,FEN,FIE
+Field hockey,Field hockey,HOC,FIH
+Flag football,Flag football,AFB,IFAF
+Football,Football,FBL,FIFA
+Golf,Golf,GLF,IGF
+Gymnastics,Artistic,GAR,FIG
+Gymnastics,Rhythmic,GRY,FIG
+Gymnastics,Trampoline,GTR,FIG
+Handball,Indoor,HBL,IHF
+Handball,Field,HBL,IHF
+Judo,Judo,JUD,IJF
+Karate,Karate,KTE,WKF
+Lacrosse,Sixes,LAX,WL
+Lacrosse,Field,LAX,WL
+Modern Pentathlon,Modern Pentathlon,MPN,UIPM
+Polo,Polo,POL,FIP
+Rackets,Rackets,RQT, ,  # Note: Missing Governing Body
+Roque,Roque,,, and Governing Body
+Rowing,Coastal,ROC,World Rowing
+Rowing,Rowing,ROW,World Rowing
+Rugby,Sevens,RU7,World Rugby
+Rugby,Union,RUG,World Rugby
+Sailing,Sailing,SAL,World Sailing
+Shooting,Shooting,SHO,ISSF
+Skateboarding,Skateboarding,SKB,World Skate
+Sport Climbing,Sport Climbing,CLB,IFSC
+Squash,Squash,SQU,WSF
+Surfing,Surfing,SRF,ISA
+Table Tennis,Table Tennis,TTE,ITTF
+Taekwondo,Taekwondo,TKW,World Taekwondo
+Tennis,Tennis,TEN,ITF
+Triathlon,Triathlon,TRI,World Triathlon
+Tug of War,Tug of War,TOW,TWIF
+Volleyball,Beach,VBV,FIVB
+Volleyball,Indoor,VVO,FIVB
+Water Motorsports,,PBT,UIM  # Note: Missing Discipline
+Weightlifting,Weightlifting,WLF,IWF
+Wrestling,Freestyle,WRF,UWW
+Wrestling,Greco-Roman,WRG,UWW
+Skating,Figure,FSK,ISU
+Ice Hockey,Ice Hockey,IHO,IIHF

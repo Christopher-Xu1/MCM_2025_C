@@ -1,0 +1,60 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Dmitry Balandin,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Dmitry Balandin,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Swimming,Swimming Men's 200 metres Breaststroke,Gold,Swimming,SWM,True
+Sergey Borisenko,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
+Sergey Borisenko,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
+Sergey Borisenko,M,Kazakhstan,KAZ,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
+Sergey Borisenko,M,Kazakhstan,KAZ,2000,Sydney,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
+Artur Dilman,M,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
+Andrey Gavrilov,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
+Andrey Gavrilov,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
+Andrey Gavrilov,M,Kazakhstan,KAZ,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
+Dmitry Gordiyenko,M,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Dmitry Gordiyenko,M,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Vitaly Khan,M,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,False
+Aleksey Khovrin,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,False
+Rustam Khudiyev,M,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
+Rustam Khudiyev,M,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
+Vitaly Khudyakov,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Swimming,Swimming Men's 10 kilometres Open Water,No medal,Swimming,SWM,False
+Yury Kudinov,M,Kazakhstan,KAZ,2012,London,Swimming,Swimming Men's 10 kilometres Open Water,No medal,Swimming,SWM,False
+Stanislav Kuzmin,M,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
+Andrey Kvasov,M,Kazakhstan,KAZ,2000,Sydney,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
+Andrey Kvasov,M,Kazakhstan,KAZ,2000,Sydney,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
+Grigory Matuzkov,M,Kazakhstan,KAZ,2000,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Grigory Matuzkov,M,Kazakhstan,KAZ,2000,Sydney,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Stanislav Osinsky,M,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
+Stanislav Osinsky,M,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
+Vladislav Polyakov,M,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Vladislav Polyakov,M,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Vladislav Polyakov,M,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Vladislav Polyakov,M,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Vladislav Polyakov,M,Kazakhstan,KAZ,2012,London,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Oleg Rabota,M,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
+Oleg Rabota,M,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
+Yevgeny Ryzhkov,M,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Yevgeny Ryzhkov,M,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Yevgeny Ryzhkov,M,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Men's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Aleksandr Savitsky,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Aleksandr Savitsky,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Aleksandr Savitsky,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
+Aleksandr Savitsky,M,Kazakhstan,KAZ,2000,Sydney,Swimming,Swimming Men's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Oleg Shteynikov,M,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,False
+Pavel Sidorov,M,Kazakhstan,KAZ,2000,Sydney,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
+Pavel Sidorov,M,Kazakhstan,KAZ,2000,Sydney,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
+Igor Sitnikov,M,Kazakhstan,KAZ,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
+Igor Sitnikov,M,Kazakhstan,KAZ,2000,Sydney,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
+Aleksandr Sklyar,M,Kazakhstan,KAZ,2008,Beijing,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
+Aleksandr Tarabrin,M,Kazakhstan,KAZ,2012,London,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
+Aleksandr Tarabrin,M,Kazakhstan,KAZ,2012,London,Swimming,Swimming Men's 200 metres Backstroke,No medal,Swimming,SWM,True
+Vyacheslav Titarenko,M,Kazakhstan,KAZ,2004,Athina,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,False
+Sergey Ushkalov,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
+Sergey Ushkalov,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 100 metres Backstroke,No medal,Swimming,SWM,True
+Sergey Ushkalov,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
+Aleksey Yegorov,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
+Aleksey Yegorov,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
+Aleksey Yegorov,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
+Aleksey Yegorov,M,Kazakhstan,KAZ,1996,Atlanta,Swimming,Swimming Men's 4 x 100 metres Medley Relay,No medal,Swimming,SWM,True
+Dmitriy Balandin,M,Kazakhstan,KAZ,2020,Tokyo,Swimming,Men's 100m Breaststroke,No medal,Men's,SWM,True
+Dmitriy Balandin,M,Kazakhstan,KAZ,2020,Tokyo,Swimming,Men's 200m Breaststroke,No medal,Men's,SWM,True
+Adilbek Mussin,M,Kazakhstan,KAZ,2024,Paris,Swimming,Men's 100m Butterfly,No medal,Men's,SWM,True
+Adilbek Mussin,M,Kazakhstan,KAZ,2024,Paris,Swimming,Men's 100m Freestyle,No medal,Men's,SWM,True

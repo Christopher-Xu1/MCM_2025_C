@@ -1,0 +1,5 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Valter Palm,M,Estonia,EST,1924,Paris,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
+Valter Palm,M,Estonia,EST,1928,Amsterdam,Boxing,Boxing Men's Welterweight,No medal,Boxing,BOX,True
+Evald (-seepere),M,Estonia,EST,1936,Berlin,Boxing,Boxing Men's Featherweight,No medal,Boxing,BOX,False
+Nikolai Stepulov,M,Estonia,EST,1936,Berlin,Boxing,Boxing Men's Lightweight,Silver,Boxing,BOX,False

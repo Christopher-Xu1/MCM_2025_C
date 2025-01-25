@@ -1,0 +1,43 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Marco Gonzlez,M,Ecuador,ECU,2008,Beijing,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,False
+Felipe Martillo,M,Ecuador,ECU,1996,Atlanta,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
+Felipe Martillo,M,Ecuador,ECU,1996,Atlanta,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
+Felipe Martillo,M,Ecuador,ECU,1996,Atlanta,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
+Felipe Martillo,M,Ecuador,ECU,1996,Atlanta,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
+Felipe Martillo,M,Ecuador,ECU,2000,Sydney,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
+Roberto Martillo,M,Ecuador,ECU,1996,Atlanta,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
+Roberto Martillo,M,Ecuador,ECU,1996,Atlanta,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True
+Roberto Martillo,M,Ecuador,ECU,1996,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
+Roberto Martillo,M,Ecuador,ECU,2000,Sydney,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
+Roberto Martillo,M,Ecuador,ECU,2000,Sydney,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
+Jorge Jr.,M,Ecuador,ECU,1972,Munich,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
+Jorge Jr.,M,Ecuador,ECU,1972,Munich,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
+Jorge Jr.,M,Ecuador,ECU,1972,Munich,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Jorge Jr.,M,Ecuador,ECU,1976,Montreal,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
+Jorge Jr.,M,Ecuador,ECU,1976,Montreal,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
+Jorge Jr.,M,Ecuador,ECU,1976,Montreal,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
+Jorge Jr.,M,Ecuador,ECU,1976,Montreal,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
+Esteban Salgado,M,Ecuador,ECU,2012,London,Swimming,Swimming Men's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Esteban Salgado,M,Ecuador,ECU,2016,Rio de Janeiro,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
+Esteban Salgado,M,Ecuador,ECU,2016,Rio de Janeiro,Swimming,Swimming Men's 10 kilometres Open Water,No medal,Swimming,SWM,True
+Ivan Ochoa,M,Ecuador,ECU,2012,London,Swimming,Swimming Men's 10 kilometres Open Water,No medal,Swimming,SWM,False
+Fernando Gonzlez,M,Ecuador,ECU,1968,Mexico City,Swimming,Swimming Men's 100 metres Freestyle,No medal,Swimming,SWM,True
+Fernando Gonzlez,M,Ecuador,ECU,1968,Mexico City,Swimming,Swimming Men's 200 metres Freestyle,No medal,Swimming,SWM,True
+Fernando Gonzlez,M,Ecuador,ECU,1968,Mexico City,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
+Enrique Ledesma,M,Ecuador,ECU,1980,Moskva,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
+Enrique Ledesma,M,Ecuador,ECU,1980,Moskva,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
+Eduardo Orejuela,M,Ecuador,ECU,1968,Mexico City,Swimming,Swimming Men's 100 metres Butterfly,No medal,Swimming,SWM,True
+Eduardo Orejuela,M,Ecuador,ECU,1968,Mexico City,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
+Diego Ferri,M,Ecuador,ECU,1980,Moskva,Swimming,Swimming Men's 400 metres Freestyle,No medal,Swimming,SWM,True
+Diego Ferri,M,Ecuador,ECU,1980,Moskva,Swimming,"Swimming Men's 1,500 metres Freestyle",No medal,Swimming,SWM,True
+Javier Santos,M,Ecuador,ECU,1996,Atlanta,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
+Javier Santos,M,Ecuador,ECU,1996,Atlanta,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True
+Julio Masas,M,Ecuador,ECU,1996,Atlanta,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,No medal,Swimming,SWM,True
+Julio Masas,M,Ecuador,ECU,1996,Atlanta,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True
+Julio Masas,M,Ecuador,ECU,2000,Sydney,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
+Julio Masas,M,Ecuador,ECU,2004,Athina,Swimming,Swimming Men's 50 metres Freestyle,No medal,Swimming,SWM,True
+Andrs Mathieu,M,Ecuador,ECU,1996,Atlanta,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,No medal,Swimming,SWM,True
+Andrs Mathieu,M,Ecuador,ECU,1996,Atlanta,Swimming,Swimming Men's 200 metres Butterfly,No medal,Swimming,SWM,True
+Tomas Peribonio,M,Ecuador,ECU,2020,Tokyo,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,True
+Tomas Peribonio,M,Ecuador,ECU,2020,Tokyo,Swimming,Men's 400m Individual Medley,No medal,Men's,SWM,True
+Tomas Peribonio,M,Ecuador,ECU,2024,Paris,Swimming,Men's 200m Individual Medley,No medal,Men's,SWM,True

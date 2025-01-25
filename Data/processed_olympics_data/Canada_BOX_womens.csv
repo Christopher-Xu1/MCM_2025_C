@@ -1,0 +1,9 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Mandy Bujold,F,Canada,CAN,2016,Rio de Janeiro,Boxing,Boxing Women's Flyweight,No medal,Boxing,BOX,True
+Ariane Fortin,F,Canada,CAN,2016,Rio de Janeiro,Boxing,Boxing Women's Middleweight,No medal,Boxing,BOX,False
+Mary Spencer,F,Canada,CAN,2012,London,Boxing,Boxing Women's Middleweight,No medal,Boxing,BOX,False
+Mandy Bujold,F,Canada,CAN,2020,Tokyo,Boxing,Women's Fly (48-51kg),No medal,Women's,BOX,True
+da Myriam,F,Canada,CAN,2020,Tokyo,Boxing,Women's Welter (64-69kg),No medal,Women's,BOX,False
+Tammara Thibeault,F,Canada,CAN,2020,Tokyo,Boxing,Women's Middle (69-75kg),No medal,Women's,BOX,False
+Caroline Veyre,F,Canada,CAN,2020,Tokyo,Boxing,Women's Feather (54-57kg),No medal,Women's,BOX,False
+Amanda Thibeault,F,Canada,CAN,2024,Paris,Boxing,Women's 75kg,No medal,Women's,BOX,False

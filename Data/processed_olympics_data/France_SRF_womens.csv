@@ -1,0 +1,5 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Pauline Ado,F,France,FRA,2020,Tokyo,Surfing,Women,No medal,Women,SRF,False
+Johanne Defay,F,France,FRA,2020,Tokyo,Surfing,Women,No medal,Women,SRF,True
+Johanne Defay,F,France,FRA,2024,Paris,Surfing,Women,Bronze,Women,SRF,True
+Vahine Fierro,F,France,FRA,2024,Paris,Surfing,Women,No medal,Women,SRF,False

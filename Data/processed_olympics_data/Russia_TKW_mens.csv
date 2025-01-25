@@ -1,0 +1,10 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Aleksey Denisenko,M,Russia,RUS,2012,London,Taekwondo,Taekwondo Men's Flyweight,Bronze,Taekwondo,TKW,True
+Aleksey Denisenko,M,Russia,RUS,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Featherweight,Silver,Taekwondo,TKW,True
+Aslanbek Dzitiyev,M,Russia,RUS,2000,Sydney,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False
+Albert Gaun,M,Russia,RUS,2016,Rio de Janeiro,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False
+Seyfula Magomedov,M,Russia,RUS,2004,Athina,Taekwondo,Taekwondo Men's Flyweight,No medal,Taekwondo,TKW,False
+Gadzhi Umarov,M,Russia,RUS,2012,London,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False
+Mikhail Artamonov,M,Russia,ROC,2020,Tokyo,Taekwondo,Men -58kg,Bronze,Men,TKW,False
+Maksim Khramtcov,M,Russia,ROC,2020,Tokyo,Taekwondo,Men -80kg,Gold,Men,TKW,False
+Vladislav Larin,M,Russia,ROC,2020,Tokyo,Taekwondo,Men +80kg,Gold,Men,TKW,False

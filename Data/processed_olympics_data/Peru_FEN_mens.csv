@@ -1,0 +1,8 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Enrique Lecaros,M,Peru,PER,1968,Mexico City,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True
+Enrique Lecaros,M,Peru,PER,1972,Munich,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,True
+Carlos Rivero,M,Peru,PER,1900,Paris,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,True
+Carlos Rivero,M,Peru,PER,1900,Paris,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,True
+Hugo Ureta,M,Peru,PER,1948,London,Fencing,"Fencing Men's Foil, Individual",No medal,Fencing,FEN,False
+Carlos Quevedo,M,Peru,PER,1948,London,Fencing,"Fencing Men's epee, Individual",No medal,Fencing,FEN,False
+Jorge Goicoechea,M,Peru,PER,1948,London,Fencing,"Fencing Men's Sabre, Individual",No medal,Fencing,FEN,False

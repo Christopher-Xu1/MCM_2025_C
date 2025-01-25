@@ -1,0 +1,45 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Timo Boll,M,Germany,GER,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Timo Boll,M,Germany,GER,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
+Timo Boll,M,Germany,GER,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Timo Boll,M,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Timo Boll,M,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Men's Team,Silver,Table,TTE,True
+Timo Boll,M,Germany,GER,2012,London,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Timo Boll,M,Germany,GER,2012,London,Table Tennis,Table Tennis Men's Team,Bronze,Table,TTE,True
+Timo Boll,M,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Timo Boll,M,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Bronze,Table,TTE,True
+Steffen Fetzner,M,Germany,GER,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Steffen Fetzner,M,Germany,GER,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,Silver,Table,TTE,True
+Steffen Fetzner,M,Germany,GER,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
+Peter Franz,M,Germany,GER,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Peter Franz,M,Germany,GER,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Dimitrij Ovtcharov,M,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Dimitrij Ovtcharov,M,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Men's Team,Silver,Table,TTE,True
+Dimitrij Ovtcharov,M,Germany,GER,2012,London,Table Tennis,Table Tennis Men's Singles,Bronze,Table,TTE,True
+Dimitrij Ovtcharov,M,Germany,GER,2012,London,Table Tennis,Table Tennis Men's Team,Bronze,Table,TTE,True
+Dimitrij Ovtcharov,M,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Dimitrij Ovtcharov,M,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Bronze,Table,TTE,True
+Jrg Rokopf,M,Germany,GER,1992,Barcelona,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Jrg Rokopf,M,Germany,GER,1992,Barcelona,Table Tennis,Table Tennis Men's Doubles,Silver,Table,TTE,True
+Jrg Rokopf,M,Germany,GER,1996,Atlanta,Table Tennis,Table Tennis Men's Singles,Bronze,Table,TTE,True
+Jrg Rokopf,M,Germany,GER,1996,Atlanta,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
+Jrg Rokopf,M,Germany,GER,2000,Sydney,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Jrg Rokopf,M,Germany,GER,2000,Sydney,Table Tennis,Table Tennis Men's Doubles,No medal,Table,TTE,True
+Jrg Rokopf,M,Germany,GER,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Bastian Steger,M,Germany,GER,2012,London,Table Tennis,Table Tennis Men's Team,Bronze,Table,TTE,True
+Bastian Steger,M,Germany,GER,2016,Rio de Janeiro,Table Tennis,Table Tennis Men's Team,Bronze,Table,TTE,True
+Christian S,M,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,True
+Christian S,M,Germany,GER,2008,Beijing,Table Tennis,Table Tennis Men's Team,Silver,Table,TTE,True
+Torben Wosik,M,Germany,GER,2004,Athina,Table Tennis,Table Tennis Men's Singles,No medal,Table,TTE,False
+Timo Boll,M,Germany,GER,2020,Tokyo,Table Tennis,Men's Singles,No medal,Men's,TTE,True
+Timo Boll,M,Germany,GER,2020,Tokyo,Table Tennis,Men's Team,Silver,Men's,TTE,True
+Patrick Franziska,M,Germany,GER,2020,Tokyo,Table Tennis,Mixed Doubles Team,No medal,Mixed,TTE,True
+Patrick Franziska,M,Germany,GER,2020,Tokyo,Table Tennis,Men's Team,Silver,Men's,TTE,True
+Dimitrij Ovtcharov,M,Germany,GER,2020,Tokyo,Table Tennis,Men's Singles,Bronze,Men's,TTE,True
+Dimitrij Ovtcharov,M,Germany,GER,2020,Tokyo,Table Tennis,Men's Team,Silver,Men's,TTE,True
+Timo Boll,M,Germany,GER,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True
+Dimitrij Ovtcharov,M,Germany,GER,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True
+Dimitrij Ovtcharov,M,Germany,GER,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True
+Dang Qiu,M,Germany,GER,2024,Paris,Table Tennis,Men's Singles,No medal,Men's,TTE,True
+Dang Qiu,M,Germany,GER,2024,Paris,Table Tennis,Men's Team,No medal,Men's,TTE,True
+Dang Qiu,M,Germany,GER,2024,Paris,Table Tennis,Mixed Doubles,No medal,Mixed,TTE,True

@@ -1,0 +1,59 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Jennifer Capriati,F,United States,USA,1992,Barcelona,Tennis,Tennis Women's Singles,Gold,Tennis,TEN,False
+Jill Craybas,F,United States,USA,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Lindsay Davenport,F,United States,USA,1996,Atlanta,Tennis,Tennis Women's Singles,Gold,Tennis,TEN,True
+Lindsay Davenport,F,United States,USA,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Christine -norman),F,United States,USA,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Beatriz Fernandez,F,United States,USA,1992,Barcelona,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,True
+Beatriz Fernandez,F,United States,USA,1996,Atlanta,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,True
+Maria (-godsick),F,United States,USA,1992,Barcelona,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,True
+Maria (-godsick),F,United States,USA,1992,Barcelona,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,True
+Maria (-godsick),F,United States,USA,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Maria (-godsick),F,United States,USA,1996,Atlanta,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,True
+Zina (-jackson),F,United States,USA,1988,Seoul,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,True
+Zina (-jackson),F,United States,USA,1988,Seoul,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,True
+Zina (-jackson),F,United States,USA,1992,Barcelona,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Eleanor (-lanning),F,United States,USA,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Marion -maclure),F,United States,USA,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Georgina (-walton),F,United States,USA,1900,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Georgina (-walton),F,United States,USA,1900,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
+Marion (-farquhar),F,United States,USA,1900,Paris,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,False
+Madison Keys,F,United States,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Varvara Lepchenko,F,United States,USA,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Christina Mchale,F,United States,USA,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Lisa Raymond,F,United States,USA,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Chanda Rubin,F,United States,USA,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Lillian (-hester),F,United States,USA,1924,Paris,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Monica Seles,F,United States,USA,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Monica Seles,F,United States,USA,2000,Sydney,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,True
+Pamela -lazenby),F,United States,USA,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Pamela -lazenby),F,United States,USA,1988,Seoul,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,True
+Sloane Stephens,F,United States,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Serena Williams,F,United States,USA,2000,Sydney,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,True
+Serena Williams,F,United States,USA,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Serena Williams,F,United States,USA,2012,London,Tennis,Tennis Women's Singles,Gold,Tennis,TEN,True
+Serena Williams,F,United States,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Venus Williams,F,United States,USA,2000,Sydney,Tennis,Tennis Women's Singles,Gold,Tennis,TEN,True
+Venus Williams,F,United States,USA,2000,Sydney,Tennis,Tennis Women's Doubles,Gold,Tennis,TEN,True
+Venus Williams,F,United States,USA,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Venus Williams,F,United States,USA,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Venus Williams,F,United States,USA,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Venus Williams,F,United States,USA,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Helen -roark),F,United States,USA,1924,Paris,Tennis,Tennis Women's Singles,Gold,Tennis,TEN,False
+Jennifer Brady,F,United States,USA,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False
+Bethanie Mattek-sands,F,United States,USA,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
+Bethanie Mattek-sands,F,United States,USA,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,Mixed,TEN,True
+Nicole Melichar,F,United States,USA,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,False
+Jessica Pegula,F,United States,USA,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
+Jessica Pegula,F,United States,USA,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
+Alison Riske,F,United States,USA,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
+Alison Riske,F,United States,USA,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
+Danielle Collins,F,United States,USA,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
+Danielle Collins,F,United States,USA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
+Emma Navarro,F,United States,USA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,False
+Coco Gauff,F,United States,USA,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
+Coco Gauff,F,United States,USA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True
+Coco Gauff,F,United States,USA,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True
+Desirae Krawczyk,F,United States,USA,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,False
+Jessica Pegula,F,United States,USA,2024,Paris,Tennis,Women's Doubles,No medal,Women's,TEN,True
+Jessica Pegula,F,United States,USA,2024,Paris,Tennis,Women's Singles,No medal,Women's,TEN,True

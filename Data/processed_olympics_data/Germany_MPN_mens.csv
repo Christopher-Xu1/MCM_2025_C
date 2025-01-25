@@ -1,0 +1,48 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Uwe Adler,M,Germany,GER,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Uwe Adler,M,Germany,GER,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Ralf Berckhan,M,Germany,GER,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Ralf Berckhan,M,Germany,GER,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Herbert Bramfeld,M,Germany,GER,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
+Ulrich Czermak,M,Germany,GER,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Ulrich Czermak,M,Germany,GER,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Patrick Dogue,M,Germany,GER,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Elmar Frings,M,Germany,GER,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Elmar Frings,M,Germany,GER,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Steffen Gebhardt,M,Germany,GER,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Steffen Gebhardt,M,Germany,GER,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Steffen Gebhardt,M,Germany,GER,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Wolfgang Gdicke,M,Germany,GER,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Wolfgang Gdicke,M,Germany,GER,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Wolfgang Gdicke,M,Germany,GER,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Wolfgang Gdicke,M,Germany,GER,1964,Tokyo,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Karl Handrick,M,Germany,GER,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,Gold,Modern,MPN,False
+Adolf Harder,M,Germany,GER,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Adolf Harder,M,Germany,GER,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Heinrich-Georg Hax,M,Germany,GER,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
+Hermann Hlter,M,Germany,GER,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
+Helmut Kahl,M,Germany,GER,1928,Amsterdam,Modern Pentathlon,Modern Pentathlon Men's Individual,Bronze,Modern,MPN,False
+Dietloff Kapp,M,Germany,GER,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Dietloff Kapp,M,Germany,GER,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Dirk Knappheide,M,Germany,GER,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Dirk Knappheide,M,Germany,GER,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Stefan Kllner,M,Germany,GER,2012,London,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
+Dietrich Krickow,M,Germany,GER,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Dietrich Krickow,M,Germany,GER,1960,Roma,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Hermann Lemp,M,Germany,GER,1936,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
+Konrad Miersch,M,Germany,GER,1932,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
+Helmuth Naud,M,Germany,GER,1932,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
+Pawel Olszewski,M,Germany,GER,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Pawel Olszewski,M,Germany,GER,1992,Barcelona,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Johann Pauen,M,Germany,GER,1912,Stockholm,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
+Ernst Remer,M,Germany,GER,1932,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
+Berthold Slupik,M,Germany,GER,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Berthold Slupik,M,Germany,GER,1952,Helsinki,Modern Pentathlon,Modern Pentathlon Men's Team,No medal,Modern,MPN,True
+Eric Walther,M,Germany,GER,2000,Sydney,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Eric Walther,M,Germany,GER,2004,Athina,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Eric Walther,M,Germany,GER,2008,Beijing,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,True
+Christian Zillekens,M,Germany,GER,2016,Rio de Janeiro,Modern Pentathlon,Modern Pentathlon Men's Individual,No medal,Modern,MPN,False
+Patrick Dogue,M,Germany,GER,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True
+Fabian Liebig,M,Germany,GER,2020,Tokyo,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True
+Marvin Dogue,M,Germany,GER,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,False
+Fabian Liebig,M,Germany,GER,2024,Paris,Modern Pentathlon,Men's Individual,No medal,Men's,MPN,True

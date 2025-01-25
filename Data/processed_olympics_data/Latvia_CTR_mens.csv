@@ -1,0 +1,62 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Andrejs Apstis,M,Latvia,LAT,1924,Paris,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
+Raivis Belohvoiks,M,Latvia,LAT,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Raivis Belohvoiks,M,Latvia,LAT,2000,Sydney,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
+Raivis Belohvoiks,M,Latvia,LAT,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Raivis Belohvoiks,M,Latvia,LAT,2008,Beijing,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
+Viesturs Brzi,M,Latvia,LAT,1996,Atlanta,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
+Viesturs Brzi,M,Latvia,LAT,2000,Sydney,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
+Viesturs Brzi,M,Latvia,LAT,2000,Sydney,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True
+Arvds Immermanis,M,Latvia,LAT,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Arvds Immermanis,M,Latvia,LAT,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
+Aleksejs Jurjevs,M,Latvia,LAT,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Aleksejs Jurjevs,M,Latvia,LAT,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
+Ainrs Iksis,M,Latvia,LAT,1992,Barcelona,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
+Ainrs Iksis,M,Latvia,LAT,1996,Atlanta,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,True
+Ainrs Iksis,M,Latvia,LAT,2000,Sydney,Cycling,Cycling Men's Keirin,No medal,Cycling,CTR,True
+Ainrs Iksis,M,Latvia,LAT,2000,Sydney,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True
+Ivo Lakus,M,Latvia,LAT,2000,Sydney,Cycling,Cycling Men's Team Sprint,No medal,Cycling,CTR,True
+Ivo Lakus,M,Latvia,LAT,2008,Beijing,Cycling,Cycling Men's BMX,No medal,Cycling,CTR,True
+Ernests Mlers,M,Latvia,LAT,1928,Amsterdam,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
+Artrs Matisons,M,Latvia,LAT,2008,Beijing,Cycling,Cycling Men's BMX,No medal,Cycling,CTR,False
+Mrti Mazrs,M,Latvia,LAT,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Mrti Mazrs,M,Latvia,LAT,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
+Gvido Miezis,M,Latvia,LAT,2000,Sydney,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,False
+Andris Naudus,M,Latvia,LAT,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Andris Naudus,M,Latvia,LAT,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Kaspars Ozers,M,Latvia,LAT,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Dainis Ozols,M,Latvia,LAT,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",Bronze,Cycling,CTR,True
+Dainis Ozols,M,Latvia,LAT,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Dainis Ozols,M,Latvia,LAT,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Dainis Ozols,M,Latvia,LAT,2000,Sydney,Cycling,Cycling Men's Individual Time Trial,No medal,Cycling,CTR,True
+Roberts Ozols,M,Latvia,LAT,1928,Amsterdam,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
+Arvis Piziks,M,Latvia,LAT,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Arvis Piziks,M,Latvia,LAT,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Arvis Piziks,M,Latvia,LAT,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Roberts Plme,M,Latvia,LAT,1924,Paris,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
+Roberts Plme,M,Latvia,LAT,1924,Paris,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True
+Roberts Plme,M,Latvia,LAT,1928,Amsterdam,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
+Zenons Popovs,M,Latvia,LAT,1928,Amsterdam,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,False
+Andris Reiss,M,Latvia,LAT,2000,Sydney,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Aleksejs Saramotins,M,Latvia,LAT,2012,London,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Aleksejs Saramotins,M,Latvia,LAT,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Juris Silovs,M,Latvia,LAT,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Toms Skuji,M,Latvia,LAT,2016,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Gatis Smukulis,M,Latvia,LAT,2008,Beijing,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,False
+Mris Trombergs,M,Latvia,LAT,2008,Beijing,Cycling,Cycling Men's BMX,Gold,Cycling,CTR,True
+Mris Trombergs,M,Latvia,LAT,2012,London,Cycling,Cycling Men's BMX,Gold,Cycling,CTR,True
+Mris Trombergs,M,Latvia,LAT,2016,Rio de Janeiro,Cycling,Cycling Men's BMX,No medal,Cycling,CTR,True
+Edus Treimanis,M,Latvia,LAT,2012,London,Cycling,Cycling Men's BMX,No medal,Cycling,CTR,True
+Edus Treimanis,M,Latvia,LAT,2016,Rio de Janeiro,Cycling,Cycling Men's BMX,No medal,Cycling,CTR,True
+Arnolds Dris,M,Latvia,LAT,1992,Barcelona,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Arnolds Dris,M,Latvia,LAT,1992,Barcelona,Cycling,Cycling Men's Points Race,No medal,Cycling,CTR,True
+Fridrihs Uksti,M,Latvia,LAT,1924,Paris,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True
+Fridrihs Uksti,M,Latvia,LAT,1928,Amsterdam,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True
+Romns Vainteins,M,Latvia,LAT,1996,Atlanta,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Romns Vainteins,M,Latvia,LAT,2004,Athina,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Rihards Veide,M,Latvia,LAT,2012,London,Cycling,Cycling Men's BMX,No medal,Cycling,CTR,False
+Ingus Veips,M,Latvia,LAT,1992,Barcelona,Cycling,"Cycling Men's 1,000 metres Time Trial",No medal,Cycling,CTR,False
+Jnis Vtols,M,Latvia,LAT,1936,Berlin,Cycling,"Cycling Men's Road Race, Individual",No medal,Cycling,CTR,True
+Jnis Vtols,M,Latvia,LAT,1936,Berlin,Cycling,"Cycling Men's Road Race, Team",No medal,Cycling,CTR,True
+Artrs Zeiberli,M,Latvia,LAT,1924,Paris,Cycling,Cycling Men's Sprint,No medal,Cycling,CTR,True
+Artrs Zeiberli,M,Latvia,LAT,1924,Paris,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",No medal,Cycling,CTR,True

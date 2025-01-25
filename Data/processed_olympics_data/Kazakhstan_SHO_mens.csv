@@ -1,0 +1,43 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Sergey Belyayev,M,Kazakhstan,KAZ,1996,Atlanta,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True
+Sergey Belyayev,M,Kazakhstan,KAZ,1996,Atlanta,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",Silver,Shooting,SHO,True
+Sergey Belyayev,M,Kazakhstan,KAZ,1996,Atlanta,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",Silver,Shooting,SHO,True
+Vitaly Dovgun,M,Kazakhstan,KAZ,2008,Beijing,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True
+Vitaly Dovgun,M,Kazakhstan,KAZ,2008,Beijing,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
+Vitaly Dovgun,M,Kazakhstan,KAZ,2008,Beijing,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
+Andrey Gurov,M,Kazakhstan,KAZ,2004,Athina,Shooting,"Shooting Men's Running Target, 10 metres",No medal,Shooting,SHO,False
+Vladimir Gushcha,M,Kazakhstan,KAZ,2000,Sydney,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True
+Vladimir Gushcha,M,Kazakhstan,KAZ,2000,Sydney,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
+Vladimir Isachenko,M,Kazakhstan,KAZ,2004,Athina,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True
+Vladimir Isachenko,M,Kazakhstan,KAZ,2004,Athina,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
+Vladimir Isachenko,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True
+Vladimir Isachenko,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
+Vyacheslav Podlesny,M,Kazakhstan,KAZ,2012,London,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True
+Vyacheslav Podlesny,M,Kazakhstan,KAZ,2012,London,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
+Yury Rodnov,M,Kazakhstan,KAZ,1996,Atlanta,Shooting,"Shooting Men's Running Target, 10 metres",No medal,Shooting,SHO,False
+Vladimir Vokhmyanin,M,Kazakhstan,KAZ,1996,Atlanta,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",Bronze,Shooting,SHO,True
+Vladimir Vokhmyanin,M,Kazakhstan,KAZ,2000,Sydney,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",No medal,Shooting,SHO,True
+Sergey Yakshin,M,Kazakhstan,KAZ,2000,Sydney,Shooting,Shooting Men's Skeet,No medal,Shooting,SHO,False
+Rashid Yunusmetov,M,Kazakhstan,KAZ,2008,Beijing,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True
+Rashid Yunusmetov,M,Kazakhstan,KAZ,2008,Beijing,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
+Rashid Yunusmetov,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Pistol, 10 metres",No medal,Shooting,SHO,True
+Rashid Yunusmetov,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Shooting,"Shooting Men's Free Pistol, 50 metres",No medal,Shooting,SHO,True
+Yury Yurkov,M,Kazakhstan,KAZ,2008,Beijing,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True
+Yury Yurkov,M,Kazakhstan,KAZ,2008,Beijing,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
+Yury Yurkov,M,Kazakhstan,KAZ,2008,Beijing,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
+Yury Yurkov,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Shooting,"Shooting Men's Air Rifle, 10 metres",No medal,Shooting,SHO,True
+Yury Yurkov,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",No medal,Shooting,SHO,True
+Yury Yurkov,M,Kazakhstan,KAZ,2016,Rio de Janeiro,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",No medal,Shooting,SHO,True
+Yuriy Yurkov,M,Kazakhstan,KAZ,2020,Tokyo,Shooting,10m Air Rifle Men,No medal,10m,SHO,True
+Yuriy Yurkov,M,Kazakhstan,KAZ,2020,Tokyo,Shooting,50m Rifle 3 Positions Men,No medal,50m,SHO,True
+Nikita Chiryukin,M,Kazakhstan,KAZ,2024,Paris,Shooting,10m Air Pistol Men,No medal,10m,SHO,True
+Nikita Chiryukin,M,Kazakhstan,KAZ,2024,Paris,Shooting,25m Rapid Fire Pistol Men,No medal,25m,SHO,True
+Nikita Chiryukin,M,Kazakhstan,KAZ,2024,Paris,Shooting,10m Air Pistol Mixed Team,No medal,10m,SHO,True
+Konstantin Malinovskiy,M,Kazakhstan,KAZ,2024,Paris,Shooting,10m Air Rifle Men,No medal,10m,SHO,True
+Konstantin Malinovskiy,M,Kazakhstan,KAZ,2024,Paris,Shooting,50m Rifle 3 Positions Men,No medal,50m,SHO,True
+Konstantin Malinovskiy,M,Kazakhstan,KAZ,2024,Paris,Shooting,10m Air Rifle Mixed Team,No medal,10m,SHO,True
+Islam Satpayev,M,Kazakhstan,KAZ,2024,Paris,Shooting,10m Air Rifle Men,No medal,10m,SHO,True
+Islam Satpayev,M,Kazakhstan,KAZ,2024,Paris,Shooting,50m Rifle 3 Positions Men,No medal,50m,SHO,True
+Islam Satpayev,M,Kazakhstan,KAZ,2024,Paris,Shooting,10m Air Rifle Mixed Team,Bronze,10m,SHO,True
+Eduard Yechshenko,M,Kazakhstan,KAZ,2024,Paris,Shooting,Skeet Men,No medal,Skeet,SHO,True
+Eduard Yechshenko,M,Kazakhstan,KAZ,2024,Paris,Shooting,Skeet Mixed Team,No medal,Skeet,SHO,True

@@ -1,0 +1,34 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Ricardo Acioly,M,Brazil,BRA,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,False
+Thomaz Bellucci,M,Brazil,BRA,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Thomaz Bellucci,M,Brazil,BRA,2012,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Thomaz Bellucci,M,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Marcos Daniel,M,Brazil,BRA,2008,Beijing,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Rogrio Silva,M,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Gustavo Kuerten,M,Brazil,BRA,2000,Sydney,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Gustavo Kuerten,M,Brazil,BRA,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Gustavo Kuerten,M,Brazil,BRA,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Luiz Mattar,M,Brazil,BRA,1988,Seoul,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Luiz Mattar,M,Brazil,BRA,1988,Seoul,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Luiz Mattar,M,Brazil,BRA,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Luiz Mattar,M,Brazil,BRA,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Fernando Meligeni,M,Brazil,BRA,1996,Atlanta,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Marcelo Melo,M,Brazil,BRA,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Marcelo Melo,M,Brazil,BRA,2016,Rio de Janeiro,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
+Jaime Oncins,M,Brazil,BRA,1992,Barcelona,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Jaime Oncins,M,Brazil,BRA,1992,Barcelona,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Jaime Oncins,M,Brazil,BRA,2000,Sydney,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Andr S,M,Brazil,BRA,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Andr S,M,Brazil,BRA,2008,Beijing,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Flvio Filho,M,Brazil,BRA,2004,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Flvio Filho,M,Brazil,BRA,2004,Athina,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Marcelo Demoliner,M,Brazil,BRA,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,False
+Marcelo Melo,M,Brazil,BRA,2020,Tokyo,Tennis,Men's Doubles Team,No medal,Men's,TEN,True
+Marcelo Melo,M,Brazil,BRA,2020,Tokyo,Tennis,Mixed Doubles Team,No medal,Mixed,TEN,True
+Joao Menezes,M,Brazil,BRA,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,False
+Thiago Monteiro,M,Brazil,BRA,2020,Tokyo,Tennis,Men's Singles,No medal,Men's,TEN,True
+Thiago Monteiro,M,Brazil,BRA,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
+Thiago Monteiro,M,Brazil,BRA,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True
+Thiago Seyboth,M,Brazil,BRA,2024,Paris,Tennis,Men's Doubles,No medal,Men's,TEN,True
+Thiago Seyboth,M,Brazil,BRA,2024,Paris,Tennis,Men's Singles,No medal,Men's,TEN,True
+Thiago Seyboth,M,Brazil,BRA,2024,Paris,Tennis,Mixed Doubles,No medal,Mixed,TEN,True

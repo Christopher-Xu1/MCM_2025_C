@@ -1,0 +1,15 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Anna Abella,F,Spain,ESP,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
+Anna Peir,F,Spain,ESP,2016,Rio de Janeiro,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False
+Aina Centelles,F,Spain,ESP,2016,Rio de Janeiro,Rowing,Rowing Women's Coxless Pairs,No medal,Rowing,ROW,False
+Nuria Asensio,F,Spain,ESP,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,True
+Nuria Asensio,F,Spain,ESP,2004,Athina,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
+Nuria Asensio,F,Spain,ESP,2008,Beijing,Rowing,Rowing Women's Single Sculls,No medal,Rowing,ROW,True
+Esperanza Escudero,F,Spain,ESP,1996,Atlanta,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
+Mara Rivero,F,Spain,ESP,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
+Eva Sola,F,Spain,ESP,2004,Athina,Rowing,Rowing Women's Lightweight Double Sculls,No medal,Rowing,ROW,False
+Aina Cid,F,Spain,ESP,2020,Tokyo,Rowing,Women's Pair Team,No medal,Women's,ROW,True
+Virginia Diaz,F,Spain,ESP,2020,Tokyo,Rowing,Women's Pair Team,No medal,Women's,ROW,True
+Esther Briz,F,Spain,ESP,2024,Paris,Rowing,Women's Pair,No medal,Women's,ROW,False
+Aina Cid,F,Spain,ESP,2024,Paris,Rowing,Women's Pair,No medal,Women's,ROW,True
+Virginia Diaz,F,Spain,ESP,2024,Paris,Rowing,Women's Single Sculls,No medal,Women's,ROW,True

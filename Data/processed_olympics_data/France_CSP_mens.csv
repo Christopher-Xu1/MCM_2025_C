@@ -1,0 +1,11 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Adrien Bart,M,France,FRA,2020,Tokyo,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True
+Maxime Beaumont,M,France,FRA,2020,Tokyo,Canoe Sprint,Men's Kayak Single 200m,No medal,Men's,CSP,True
+Guillaume Burger,M,France,FRA,2020,Tokyo,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
+Guillaume Burger,M,France,FRA,2020,Tokyo,Canoe Sprint,Men's Kayak Double 1000m Team,No medal,Men's,CSP,True
+Etienne Hubert,M,France,FRA,2020,Tokyo,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
+Etienne Hubert,M,France,FRA,2020,Tokyo,Canoe Sprint,Men's Kayak Double 1000m Team,No medal,Men's,CSP,True
+Adrien Bart,M,France,FRA,2024,Paris,Canoe Sprint,Men's Canoe Single 1000m,No medal,Men's,CSP,True
+Adrien Bart,M,France,FRA,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,True
+Maxime Beaumont,M,France,FRA,2024,Paris,Canoe Sprint,Men's Kayak Single 1000m,No medal,Men's,CSP,True
+Loic Leonard,M,France,FRA,2024,Paris,Canoe Sprint,Men's Canoe Double 500m,No medal,Men's,CSP,False

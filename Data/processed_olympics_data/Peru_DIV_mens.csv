@@ -1,0 +1,4 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Alfredo Wells,M,Peru,PER,1936,Berlin,Diving,Diving Men's Springboard,No medal,Diving,DIV,False
+Abel Vargas,M,Peru,PER,2000,Sydney,Diving,Diving Men's Springboard,No medal,Diving,DIV,True
+Abel Vargas,M,Peru,PER,2000,Sydney,Diving,Diving Men's Platform,No medal,Diving,DIV,True

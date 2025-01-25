@@ -1,0 +1,46 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Chen Jing,F,China,CHN,1988,Seoul,Table Tennis,Table Tennis Women's Singles,Gold,Table,TTE,True
+Chen Jing,F,China,CHN,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,Silver,Table,TTE,True
+Chen Zihe,F,China,CHN,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
+Deng Yaping,F,China,CHN,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,Gold,Table,TTE,True
+Deng Yaping,F,China,CHN,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,Gold,Table,TTE,True
+Ding Ning,F,China,CHN,2012,London,Table Tennis,Table Tennis Women's Singles,Silver,Table,TTE,True
+Ding Ning,F,China,CHN,2012,London,Table Tennis,Table Tennis Women's Team,Gold,Table,TTE,True
+Ding Ning,F,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,Gold,Table,TTE,True
+Ding Ning,F,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Gold,Table,TTE,True
+Guo Yue,F,China,CHN,2008,Beijing,Table Tennis,Table Tennis Women's Singles,Bronze,Table,TTE,True
+Guo Yue,F,China,CHN,2008,Beijing,Table Tennis,Table Tennis Women's Team,Gold,Table,TTE,True
+Guo Yue,F,China,CHN,2012,London,Table Tennis,Table Tennis Women's Team,Gold,Table,TTE,True
+Jiao Zhimin,F,China,CHN,1988,Seoul,Table Tennis,Table Tennis Women's Singles,Bronze,Table,TTE,True
+Jiao Zhimin,F,China,CHN,1988,Seoul,Table Tennis,Table Tennis Women's Doubles,Silver,Table,TTE,True
+Li Huifen,F,China,CHN,1988,Seoul,Table Tennis,Table Tennis Women's Singles,Silver,Table,TTE,False
+Li Ju,F,China,CHN,2000,Sydney,Table Tennis,Table Tennis Women's Singles,Silver,Table,TTE,False
+Li Xiaoxia,F,China,CHN,2012,London,Table Tennis,Table Tennis Women's Singles,Gold,Table,TTE,True
+Li Xiaoxia,F,China,CHN,2012,London,Table Tennis,Table Tennis Women's Team,Gold,Table,TTE,True
+Li Xiaoxia,F,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Singles,Silver,Table,TTE,True
+Li Xiaoxia,F,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Gold,Table,TTE,True
+Liu Shiwen,F,China,CHN,2016,Rio de Janeiro,Table Tennis,Table Tennis Women's Team,Gold,Table,TTE,False
+Liu Wei,F,China,CHN,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
+Niu Jianfeng,F,China,CHN,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
+Qiao Hong,F,China,CHN,1992,Barcelona,Table Tennis,Table Tennis Women's Singles,Silver,Table,TTE,True
+Qiao Hong,F,China,CHN,1996,Atlanta,Table Tennis,Table Tennis Women's Singles,Bronze,Table,TTE,True
+Sun Jin,F,China,CHN,2000,Sydney,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,False
+Wang Nan,F,China,CHN,2000,Sydney,Table Tennis,Table Tennis Women's Singles,Gold,Table,TTE,True
+Wang Nan,F,China,CHN,2004,Athina,Table Tennis,Table Tennis Women's Singles,No medal,Table,TTE,True
+Wang Nan,F,China,CHN,2008,Beijing,Table Tennis,Table Tennis Women's Singles,Silver,Table,TTE,True
+Wang Nan,F,China,CHN,2008,Beijing,Table Tennis,Table Tennis Women's Team,Gold,Table,TTE,True
+Zhang Yining,F,China,CHN,2004,Athina,Table Tennis,Table Tennis Women's Singles,Gold,Table,TTE,True
+Zhang Yining,F,China,CHN,2008,Beijing,Table Tennis,Table Tennis Women's Singles,Gold,Table,TTE,True
+Zhang Yining,F,China,CHN,2008,Beijing,Table Tennis,Table Tennis Women's Team,Gold,Table,TTE,True
+Meng Chen,F,China,CHN,2020,Tokyo,Table Tennis,Women's Singles,Gold,Women's,TTE,True
+Meng Chen,F,China,CHN,2020,Tokyo,Table Tennis,Women's Team,Gold,Women's,TTE,True
+Shiwen Liu,F,China,CHN,2020,Tokyo,Table Tennis,Mixed Doubles Team,Silver,Mixed,TTE,False
+Yingsha Sun,F,China,CHN,2020,Tokyo,Table Tennis,Women's Singles,Silver,Women's,TTE,True
+Yingsha Sun,F,China,CHN,2020,Tokyo,Table Tennis,Women's Team,Gold,Women's,TTE,True
+Manyu Wang,F,China,CHN,2020,Tokyo,Table Tennis,Women's Team,Gold,Women's,TTE,True
+Meng Chen,F,China,CHN,2024,Paris,Table Tennis,Women's Singles,Gold,Women's,TTE,True
+Meng Chen,F,China,CHN,2024,Paris,Table Tennis,Women's Team,Gold,Women's,TTE,True
+Yingsha Sun,F,China,CHN,2024,Paris,Table Tennis,Women's Singles,Silver,Women's,TTE,True
+Yingsha Sun,F,China,CHN,2024,Paris,Table Tennis,Women's Team,Gold,Women's,TTE,True
+Yingsha Sun,F,China,CHN,2024,Paris,Table Tennis,Mixed Doubles,Gold,Mixed,TTE,True
+Manyu Wang,F,China,CHN,2024,Paris,Table Tennis,Women's Team,Gold,Women's,TTE,True

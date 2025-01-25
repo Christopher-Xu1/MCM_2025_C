@@ -1,0 +1,45 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Mona Hassanein,F,Egypt,EGY,2012,London,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,False
+Eman El-gammal,F,Egypt,EGY,2008,Beijing,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
+Eman El-gammal,F,Egypt,EGY,2008,Beijing,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
+Eman El-gammal,F,Egypt,EGY,2012,London,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
+Eman El-gammal,F,Egypt,EGY,2012,London,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
+Shaimaa El-gammal,F,Egypt,EGY,2000,Sydney,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
+Shaimaa El-gammal,F,Egypt,EGY,2004,Athina,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
+Shaimaa El-gammal,F,Egypt,EGY,2008,Beijing,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
+Shaimaa El-gammal,F,Egypt,EGY,2008,Beijing,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
+Shaimaa El-gammal,F,Egypt,EGY,2012,London,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
+Shaimaa El-gammal,F,Egypt,EGY,2012,London,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
+Rana El-husseiny,F,Egypt,EGY,2012,London,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,False
+Aya El-sayed,F,Egypt,EGY,2008,Beijing,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,False
+Nada Hafez,F,Egypt,EGY,2016,Rio de Janeiro,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,True
+Noura Mohamed,F,Egypt,EGY,2016,Rio de Janeiro,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,False
+May Moustafa,F,Egypt,EGY,2000,Sydney,Fencing,"Fencing Women's epee, Individual",No medal,Fencing,FEN,False
+Iman Gaber,F,Egypt,EGY,2008,Beijing,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
+Iman Gaber,F,Egypt,EGY,2008,Beijing,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
+Iman Gaber,F,Egypt,EGY,2012,London,Fencing,"Fencing Women's Foil, Individual",No medal,Fencing,FEN,True
+Iman Gaber,F,Egypt,EGY,2012,London,Fencing,"Fencing Women's Foil, Team",No medal,Fencing,FEN,True
+Salma Mahran,F,Egypt,EGY,2012,London,Fencing,"Fencing Women's Sabre, Individual",No medal,Fencing,FEN,False
+Yara Elsharkawy,F,Egypt,EGY,2020,Tokyo,Fencing,Women's Foil Individual,No medal,Women's,FEN,True
+Yara Elsharkawy,F,Egypt,EGY,2020,Tokyo,Fencing,Women's Foil Team,No medal,Women's,FEN,True
+Mariam Elzoheiry,F,Egypt,EGY,2020,Tokyo,Fencing,Women's Foil Team,No medal,Women's,FEN,False
+Nada Hafez,F,Egypt,EGY,2020,Tokyo,Fencing,Women's Sabre Individual,No medal,Women's,FEN,True
+Noha Hany,F,Egypt,EGY,2020,Tokyo,Fencing,Women's Foil Individual,No medal,Women's,FEN,True
+Noha Hany,F,Egypt,EGY,2020,Tokyo,Fencing,Women's Foil Team,No medal,Women's,FEN,True
+Nora Mohamed,F,Egypt,EGY,2020,Tokyo,Fencing,Women's Foil Individual,No medal,Women's,FEN,True
+Nora Mohamed,F,Egypt,EGY,2020,Tokyo,Fencing,Women's Foil Team,No medal,Women's,FEN,True
+Aya Hussein,F,Egypt,EGY,2024,Paris,Fencing,Women's Épée Individual,No medal,Women's,FEN,True
+Aya Hussein,F,Egypt,EGY,2024,Paris,Fencing,Women's Épée Team,No medal,Women's,FEN,True
+Sara Amr,F,Egypt,EGY,2024,Paris,Fencing,Women's Foil Individual,No medal,Women's,FEN,True
+Sara Amr,F,Egypt,EGY,2024,Paris,Fencing,Women's Foil Team,No medal,Women's,FEN,True
+Loulwa Soliman,F,Egypt,EGY,2024,Paris,Fencing,Women's Épée Team,No medal,Women's,FEN,False
+Nardin Ehab,F,Egypt,EGY,2024,Paris,Fencing,Women's Épée Individual,No medal,Women's,FEN,True
+Nardin Ehab,F,Egypt,EGY,2024,Paris,Fencing,Women's Épée Team,No medal,Women's,FEN,True
+Malak Hamza,F,Egypt,EGY,2024,Paris,Fencing,Women's Foil Individual,No medal,Women's,FEN,True
+Malak Hamza,F,Egypt,EGY,2024,Paris,Fencing,Women's Foil Team,No medal,Women's,FEN,True
+Noha Hany,F,Egypt,EGY,2024,Paris,Fencing,Women's Foil Team,No medal,Women's,FEN,True
+Yara Elsharkawy,F,Egypt,EGY,2024,Paris,Fencing,Women's Foil Individual,No medal,Women's,FEN,True
+Yara Elsharkawy,F,Egypt,EGY,2024,Paris,Fencing,Women's Foil Team,No medal,Women's,FEN,True
+Shirwit Gaber,F,Egypt,EGY,2024,Paris,Fencing,Women's Épée Individual,No medal,Women's,FEN,True
+Shirwit Gaber,F,Egypt,EGY,2024,Paris,Fencing,Women's Épée Team,No medal,Women's,FEN,True
+Nada Hafez,F,Egypt,EGY,2024,Paris,Fencing,Women's Sabre Individual,No medal,Women's,FEN,True

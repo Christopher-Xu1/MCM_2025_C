@@ -1,0 +1,5 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Edith (lasch-),F,Sweden-1,SWE,1912,Stockholm,Tennis,"Tennis Mixed Doubles, Covered Courts",No medal,Tennis,TEN,False
+Sigrid (frenckell-),F,Sweden-1,SWE,1912,Stockholm,Tennis,Tennis Mixed Doubles,Silver,Tennis,TEN,False
+Lily Essen,F,Sweden-1,SWE,1920,Antwerpen,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True
+Lily Essen,F,Sweden-1,SWE,1924,Paris,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,True

@@ -1,0 +1,41 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Yelena (-afinogenova),F,Russia,RUS,2000,Sydney,Tennis,Tennis Women's Singles,Silver,Tennis,TEN,True
+Yelena (-afinogenova),F,Russia,RUS,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Yelena (-afinogenova),F,Russia,RUS,2008,Beijing,Tennis,Tennis Women's Singles,Gold,Tennis,TEN,True
+Darya Kasatkina,F,Russia,RUS,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Mariya Kirilenko,F,Russia,RUS,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Anna Kournikova,F,Russia,RUS,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Anna Kournikova,F,Russia,RUS,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
+Svetlana Kuznetsova,F,Russia,RUS,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Svetlana Kuznetsova,F,Russia,RUS,2008,Beijing,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Svetlana Kuznetsova,F,Russia,RUS,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Yelena Likhovtseva,F,Russia,RUS,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Yelena Likhovtseva,F,Russia,RUS,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Yelena Likhovtseva,F,Russia,RUS,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
+Yekaterina Makarova,F,Russia,RUS,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Yelena Makarova,F,Russia,RUS,1996,Atlanta,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Yelena Makarova,F,Russia,RUS,1996,Atlanta,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
+Leila (-nadibaidze),F,Russia,URS,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Anastasiya Myskina,F,Russia,RUS,2000,Sydney,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Anastasiya Myskina,F,Russia,RUS,2000,Sydney,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
+Anastasiya Myskina,F,Russia,RUS,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Anastasiya Pavlyuchenkova,F,Russia,RUS,2016,Rio de Janeiro,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,False
+Nadezhda Petrova,F,Russia,RUS,2004,Athina,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Nadezhda Petrova,F,Russia,RUS,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Dinara Safina,F,Russia,RUS,2008,Beijing,Tennis,Tennis Women's Singles,Silver,Tennis,TEN,False
+Larisa Savenko-neilande,F,Russia,URS,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Larisa Savenko-neilande,F,Russia,URS,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
+Mariya Sharapova,F,Russia,RUS,2012,London,Tennis,Tennis Women's Singles,Silver,Tennis,TEN,False
+Yelena Vesnina,F,Russia,RUS,2012,London,Tennis,Tennis Mixed Doubles,No medal,Tennis,TEN,False
+Nataliya Zvereva,F,Russia,URS,1988,Seoul,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Nataliya Zvereva,F,Russia,URS,1988,Seoul,Tennis,Tennis Women's Doubles,No medal,Tennis,TEN,True
+Vera Zvonaryova,F,Russia,RUS,2008,Beijing,Tennis,Tennis Women's Singles,Bronze,Tennis,TEN,True
+Vera Zvonaryova,F,Russia,RUS,2012,London,Tennis,Tennis Women's Singles,No medal,Tennis,TEN,True
+Ekaterina Aleksandrova,F,Russia,ROC,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,False
+Veronika Kudermetova,F,Russia,ROC,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
+Veronika Kudermetova,F,Russia,ROC,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
+Anastasia Pavlyuchenkova,F,Russia,ROC,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
+Anastasia Pavlyuchenkova,F,Russia,ROC,2020,Tokyo,Tennis,Mixed Doubles Team,Gold,Mixed,TEN,True
+Elena Vesnina,F,Russia,ROC,2020,Tokyo,Tennis,Women's Singles,No medal,Women's,TEN,True
+Elena Vesnina,F,Russia,ROC,2020,Tokyo,Tennis,Women's Doubles Team,No medal,Women's,TEN,True
+Elena Vesnina,F,Russia,ROC,2020,Tokyo,Tennis,Mixed Doubles Team,Silver,Mixed,TEN,True

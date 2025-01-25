@@ -1,0 +1,728 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Denis Ablyazin,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Denis Ablyazin,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Floor Exercise,Bronze,Gymnastics,GAR,True
+Denis Ablyazin,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Horse Vault,Silver,Gymnastics,GAR,True
+Denis Ablyazin,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Denis Ablyazin,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Denis Ablyazin,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Denis Ablyazin,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Denis Ablyazin,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Denis Ablyazin,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horse Vault,Silver,Gymnastics,GAR,True
+Denis Ablyazin,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,Bronze,Gymnastics,GAR,True
+Aleksandr Akhyun,M,Russia,RUS,1912,Stockholm,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,False
+Maksim Alyoshin,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Maksim Alyoshin,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,True
+Maksim Alyoshin,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Maksim Alyoshin,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Maksim Alyoshin,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Maksim Alyoshin,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Maksim Alyoshin,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Maksim Alyoshin,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Floor Exercise,Gold,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Horse Vault,Bronze,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Individual All-Around,Gold,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Floor Exercise,Gold,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Horse Vault,Gold,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Parallel Bars,Silver,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Rings,Gold,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Pommelled Horse,Bronze,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Individual All-Around,Silver,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Floor Exercise,Silver,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Horse Vault,Gold,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Horizontal Bar,Bronze,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Nikolay Andrianov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Vladimir Artyomov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Individual All-Around,Gold,Gymnastics,GAR,True
+Vladimir Artyomov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Vladimir Artyomov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Floor Exercise,Silver,Gymnastics,GAR,True
+Vladimir Artyomov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Vladimir Artyomov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Parallel Bars,Gold,Gymnastics,GAR,True
+Vladimir Artyomov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Horizontal Bar,Gold,Gymnastics,GAR,True
+Vladimir Artyomov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Vladimir Artyomov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,Gold,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Rings,Gold,Gymnastics,GAR,True
+Albert Azaryan,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Eduard Azaryan,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Eduard Azaryan,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Eduard Azaryan,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Eduard Azaryan,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Eduard Azaryan,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Eduard Azaryan,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Eduard Azaryan,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Eduard Azaryan,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Aleksandr Balandin,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Aleksandr Balandin,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Aleksandr Balandin,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Aleksandr Balandin,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Vladimir Belyakov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Vladimir Belyakov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Vladimir Belyakov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Vladimir Belyakov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Vladimir Belyakov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Vladimir Belyakov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Vladimir Belyakov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Vladimir Belyakov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+David Belyavsky,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+David Belyavsky,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+David Belyavsky,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+David Belyavsky,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+David Belyavsky,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+David Belyavsky,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+David Belyavsky,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+David Belyavsky,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+David Belyavsky,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+David Belyavsky,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+David Belyavsky,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,Bronze,Gymnastics,GAR,True
+David Belyavsky,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+David Belyavsky,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+David Belyavsky,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Iosif Berdiyev,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Iosif Berdiyev,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Iosif Berdiyev,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Iosif Berdiyev,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Iosif Berdiyev,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Iosif Berdiyev,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Iosif Berdiyev,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Iosif Berdiyev,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Dmitry Bilozerchev,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Individual All-Around,Bronze,Gymnastics,GAR,True
+Dmitry Bilozerchev,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Dmitry Bilozerchev,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Dmitry Bilozerchev,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Dmitry Bilozerchev,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Dmitry Bilozerchev,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Dmitry Bilozerchev,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Rings,Gold,Gymnastics,GAR,True
+Dmitry Bilozerchev,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Pommelled Horse,Gold,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Horse Vault,Silver,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Aleksey Bondarenko,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,Gold,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,Gold,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,Silver,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,Silver,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,Gold,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,Gold,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,Silver,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,Gold,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Viktor Chukarin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,Bronze,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Maksim Devyatovsky,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Horse Vault,Bronze,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Sergey Diomidov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Rings,Silver,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Individual All-Around,Gold,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Floor Exercise,Bronze,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Horse Vault,Silver,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Parallel Bars,Silver,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Horizontal Bar,Silver,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Rings,Gold,Gymnastics,GAR,True
+Aleksandr Dityatin,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Pommelled Horse,Silver,Gymnastics,GAR,True
+Dmitry Drevin,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Dmitry Drevin,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,True
+Dmitry Drevin,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Emin Garibov,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Emin Garibov,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Emin Garibov,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Emin Garibov,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Emin Garibov,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Emin Garibov,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Emin Garibov,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Vladimer Gogoladze,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Vladimer Gogoladze,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Vladimer Gogoladze,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Vladimer Gogoladze,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Vladimer Gogoladze,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Vladimer Gogoladze,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Vladimer Gogoladze,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Vladimer Gogoladze,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Anton Golotsutskov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Anton Golotsutskov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Anton Golotsutskov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Anton Golotsutskov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Anton Golotsutskov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Anton Golotsutskov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Anton Golotsutskov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Anton Golotsutskov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Anton Golotsutskov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Anton Golotsutskov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Floor Exercise,Bronze,Gymnastics,GAR,True
+Anton Golotsutskov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Horse Vault,Bronze,Gymnastics,GAR,True
+Anton Golotsutskov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Anton Golotsutskov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Anton Golotsutskov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Georgy Grebenkov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Georgy Grebenkov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Georgy Grebenkov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Georgy Grebenkov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Georgy Grebenkov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Georgy Grebenkov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Georgy Grebenkov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Georgy Grebenkov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Valery Ilyinykh,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Valery Ilyinykh,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Valery Ilyinykh,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Valery Ilyinykh,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Valery Ilyinykh,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Valery Ilyinykh,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Valery Ilyinykh,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Valery Ilyinykh,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Valery Karasyov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Valery Karasyov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Valery Karasyov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Valery Karasyov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Valery Karasyov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Valery Karasyov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Valery Karasyov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Valery Karasyov,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Valery Kerdemelidi,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Valery Kerdemelidi,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Valery Kerdemelidi,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Valery Kerdemelidi,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Valery Kerdemelidi,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Valery Kerdemelidi,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Valery Kerdemelidi,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Valery Kerdemelidi,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Floor Exercise,Gold,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Sergey Kharkov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Sergey Khorokhordin,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Sergey Khorokhordin,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Sergey Khorokhordin,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Sergey Khorokhordin,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Sergey Khorokhordin,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Sergey Khorokhordin,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Sergey Khorokhordin,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Parallel Bars,Bronze,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Horse Vault,Silver,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Viktor Klimenko,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Pommelled Horse,Gold,Gymnastics,GAR,True
+Yevgeny Korolkov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Yevgeny Korolkov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Yevgeny Korolkov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Yevgeny Korolkov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Yevgeny Korolkov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Yevgeny Korolkov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Yevgeny Korolkov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Yevgeny Korolkov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,Silver,Gymnastics,GAR,True
+Gennady Krysin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Gennady Krysin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Gennady Krysin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Gennady Krysin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Gennady Krysin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Gennady Krysin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Gennady Krysin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Gennady Krysin,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Nikolay Kryukov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Nikolay Kuksenkov,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Nikolay Kuksenkov,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Nikolay Kuksenkov,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Nikolay Kuksenkov,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Nikolay Kuksenkov,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Nikolay Kuksenkov,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Nikolay Kuksenkov,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Semyon Kulikov,M,Russia,RUS,1912,Stockholm,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,False
+Pavel Kushnikov,M,Russia,RUS,1912,Stockholm,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,False
+Dmytro Leonkin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Dmytro Leonkin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Dmytro Leonkin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Dmytro Leonkin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Dmytro Leonkin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Dmytro Leonkin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Dmytro Leonkin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,Bronze,Gymnastics,GAR,True
+Dmytro Leonkin,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Viktor Leontyev,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Viktor Leontyev,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Viktor Leontyev,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Viktor Leontyev,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Viktor Leontyev,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Viktor Leontyev,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Viktor Leontyev,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Viktor Leontyev,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Individual All-Around,Silver,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Floor Exercise,Silver,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Horse Vault,Silver,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Viktor Lisitsky,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Valery Lyukin,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Individual All-Around,Silver,Gymnastics,GAR,True
+Valery Lyukin,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Valery Lyukin,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Valery Lyukin,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Valery Lyukin,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Parallel Bars,Silver,Gymnastics,GAR,True
+Valery Lyukin,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Horizontal Bar,Gold,Gymnastics,GAR,True
+Valery Lyukin,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Valery Lyukin,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Bohdan Makuts,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Bohdan Makuts,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Bohdan Makuts,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Bohdan Makuts,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Bohdan Makuts,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Bohdan Makuts,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Bohdan Makuts,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Bohdan Makuts,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Aleksandr Maleyev,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Aleksandr Maleyev,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Aleksandr Maleyev,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Aleksandr Maleyev,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Aleksandr Maleyev,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Aleksandr Maleyev,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Aleksandr Maleyev,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Aleksandr Maleyev,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Vladimir Marchenko,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Vladimir Marchenko,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Vladimir Marchenko,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Floor Exercise,Silver,Gymnastics,GAR,True
+Vladimir Marchenko,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Vladimir Marchenko,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Vladimir Marchenko,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Vladimir Marchenko,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Vladimir Marchenko,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Vladimir Markelov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Edvard Mikayelyan,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Edvard Mikayelyan,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Edvard Mikayelyan,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Edvard Mikayelyan,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Edvard Mikayelyan,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Edvard Mikayelyan,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Edvard Mikayelyan,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Edvard Mikayelyan,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Nikolay Miligulo,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Nikolay Miligulo,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Nikolay Miligulo,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Nikolay Miligulo,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Nikolay Miligulo,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Nikolay Miligulo,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Nikolay Miligulo,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Nikolay Miligulo,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,Gold,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,Gold,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,Silver,Gymnastics,GAR,True
+Valentin Muratov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Nikita Nagorny,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Nikita Nagorny,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Nikita Nagorny,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Nikita Nagorny,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Nikita Nagorny,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Nikita Nagorny,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Nikita Nagorny,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Nikita Nagorny,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,Silver,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,Bronze,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Horse Vault,Gold,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Horizontal Bar,Bronze,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Pommelled Horse,Bronze,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,Gold,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Floor Exercise,Silver,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Parallel Bars,Bronze,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Horizontal Bar,Gold,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Pommelled Horse,Bronze,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Aleksey Nemov,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Vladimir Novikov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Vladimir Novikov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Vladimir Novikov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Vladimir Novikov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Vladimir Novikov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Vladimir Novikov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Vladimir Novikov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Vladimir Novikov,M,Russia,URS,1988,Seoul,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Igor Pakhomenko,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Igor Pakhomenko,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Igor Pakhomenko,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Igor Pakhomenko,M,Russia,RUS,2012,London,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Mikhail Perlman,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Mikhail Perlman,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Mikhail Perlman,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Mikhail Perlman,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Mikhail Perlman,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Mikhail Perlman,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Mikhail Perlman,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Mikhail Perlman,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Konstantin Pluzhnikov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Konstantin Pluzhnikov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Konstantin Pluzhnikov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Konstantin Pluzhnikov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Konstantin Pluzhnikov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Team All-Around,Bronze,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Yevgeny Podgorny,M,Russia,RUS,2000,Sydney,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Vladimir Portnoy,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Vladimir Portnoy,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Vladimir Portnoy,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Vladimir Portnoy,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Horse Vault,Bronze,Gymnastics,GAR,True
+Vladimir Portnoy,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Vladimir Portnoy,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Vladimir Portnoy,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Vladimir Portnoy,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Yury Ryazanov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Yury Ryazanov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Yury Ryazanov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Yury Ryazanov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Yury Ryazanov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Yury Ryazanov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Yury Ryazanov,M,Russia,RUS,2008,Beijing,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Aleksandr Safoshkin,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Aleksandr Safoshkin,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Team All-Around,No medal,Gymnastics,GAR,True
+Aleksandr Safoshkin,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Aleksandr Safoshkin,M,Russia,RUS,2004,Athina,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Hrant Shahinyan,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Individual All-Around,Silver,Gymnastics,GAR,True
+Hrant Shahinyan,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Hrant Shahinyan,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Hrant Shahinyan,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Hrant Shahinyan,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Hrant Shahinyan,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Hrant Shahinyan,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Rings,Gold,Gymnastics,GAR,True
+Hrant Shahinyan,M,Russia,URS,1952,Helsinki,Gymnastics,Gymnastics Men's Pommelled Horse,Silver,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,Gold,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Individual All-Around,Gold,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Horse Vault,Gold,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Parallel Bars,Gold,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Horizontal Bar,Bronze,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Rings,Silver,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,Gold,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Individual All-Around,Silver,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Horizontal Bar,Gold,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Rings,Bronze,Gymnastics,GAR,True
+Borys Shakhlin,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Vladimir Shchukin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Vladimir Shchukin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Vladimir Shchukin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Vladimir Shchukin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Vladimir Shchukin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Vladimir Shchukin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Vladimir Shchukin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Vladimir Shchukin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Pavel Stolbov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Pavel Stolbov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Pavel Stolbov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Pavel Stolbov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Pavel Stolbov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Pavel Stolbov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Pavel Stolbov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Pavel Stolbov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Ivan Stretovich,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Ivan Stretovich,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Ivan Stretovich,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Ivan Stretovich,M,Russia,RUS,2016,Rio de Janeiro,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Vladimir Tikhonov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Vladimir Tikhonov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Vladimir Tikhonov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Vladimir Tikhonov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Vladimir Tikhonov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Vladimir Tikhonov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Vladimir Tikhonov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Vladimir Tikhonov,M,Russia,URS,1976,Montreal,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Individual All-Around,Bronze,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Horse Vault,Bronze,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Horizontal Bar,Silver,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1956,Melbourne,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Individual All-Around,Bronze,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Floor Exercise,Silver,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1960,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Horizontal Bar,Silver,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Yury Titov,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Aleksandr Tkachov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Aleksandr Tkachov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Aleksandr Tkachov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Aleksandr Tkachov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Parallel Bars,Gold,Gymnastics,GAR,True
+Aleksandr Tkachov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Aleksandr Tkachov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Rings,Silver,Gymnastics,GAR,True
+Aleksandr Tkachov,M,Russia,URS,1980,Moskva,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Dmitry Trush,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Dmitry Trush,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Dmitry Trush,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Dmitry Trush,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Dmitry Trush,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Dmitry Trush,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Dmitry Trush,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Yury Tsapenko,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Yury Tsapenko,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Yury Tsapenko,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Yury Tsapenko,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Yury Tsapenko,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Yury Tsapenko,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Yury Tsapenko,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Yury Tsapenko,M,Russia,URS,1964,Tokyo,Gymnastics,Gymnastics Men's Pommelled Horse,Bronze,Gymnastics,GAR,True
+Dmitry Vasilenko,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Dmitry Vasilenko,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Dmitry Vasilenko,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Dmitry Vasilenko,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Dmitry Vasilenko,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Dmitry Vasilenko,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Dmitry Vasilenko,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Individual All-Around,Silver,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Horse Vault,Gold,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Parallel Bars,Silver,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Horizontal Bar,Gold,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Rings,Silver,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1968,Mexico City,Gymnastics,Gymnastics Men's Pommelled Horse,Bronze,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Team All-Around,Silver,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Rings,Silver,Gymnastics,GAR,True
+Mikhail Voronin,M,Russia,URS,1972,Munich,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Aleksey Voropayev,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,True
+Aleksey Voropayev,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Team All-Around,Gold,Gymnastics,GAR,True
+Aleksey Voropayev,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Floor Exercise,No medal,Gymnastics,GAR,True
+Aleksey Voropayev,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Horse Vault,No medal,Gymnastics,GAR,True
+Aleksey Voropayev,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Parallel Bars,No medal,Gymnastics,GAR,True
+Aleksey Voropayev,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Horizontal Bar,No medal,Gymnastics,GAR,True
+Aleksey Voropayev,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Rings,No medal,Gymnastics,GAR,True
+Aleksey Voropayev,M,Russia,RUS,1996,Atlanta,Gymnastics,Gymnastics Men's Pommelled Horse,No medal,Gymnastics,GAR,True
+Fyodor Zabelin,M,Russia,RUS,1912,Stockholm,Gymnastics,Gymnastics Men's Individual All-Around,No medal,Gymnastics,GAR,False
+Denis Abliazin,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's All-Around,No medal,Men's,GAR,True
+Denis Abliazin,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True
+Denis Abliazin,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True
+Denis Abliazin,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True
+Denis Abliazin,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Vault,Silver,Men's,GAR,True
+Denis Abliazin,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True
+Denis Abliazin,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True
+Denis Abliazin,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Team,Gold,Men's,GAR,True
+David Belyavskiy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's All-Around,No medal,Men's,GAR,True
+David Belyavskiy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True
+David Belyavskiy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True
+David Belyavskiy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True
+David Belyavskiy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True
+David Belyavskiy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True
+David Belyavskiy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True
+David Belyavskiy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Team,Gold,Men's,GAR,True
+Artur Dalaloyan,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's All-Around,No medal,Men's,GAR,True
+Artur Dalaloyan,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True
+Artur Dalaloyan,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True
+Artur Dalaloyan,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True
+Artur Dalaloyan,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True
+Artur Dalaloyan,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True
+Artur Dalaloyan,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True
+Artur Dalaloyan,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Team,Gold,Men's,GAR,True
+Aleksandr Kartsev,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's All-Around,No medal,Men's,GAR,True
+Aleksandr Kartsev,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True
+Aleksandr Kartsev,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True
+Aleksandr Kartsev,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True
+Aleksandr Kartsev,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True
+Aleksandr Kartsev,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True
+Aleksandr Kartsev,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True
+Nikita Nagornyy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's All-Around,Bronze,Men's,GAR,True
+Nikita Nagornyy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True
+Nikita Nagornyy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True
+Nikita Nagornyy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True
+Nikita Nagornyy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True
+Nikita Nagornyy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True
+Nikita Nagornyy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Horizontal Bar,Bronze,Men's,GAR,True
+Nikita Nagornyy,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Team,Gold,Men's,GAR,True
+Vladislav Poliashov,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's All-Around,No medal,Men's,GAR,True
+Vladislav Poliashov,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Floor Exercise,No medal,Men's,GAR,True
+Vladislav Poliashov,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Pommel Horse,No medal,Men's,GAR,True
+Vladislav Poliashov,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Rings,No medal,Men's,GAR,True
+Vladislav Poliashov,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Vault,No medal,Men's,GAR,True
+Vladislav Poliashov,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Parallel Bars,No medal,Men's,GAR,True
+Vladislav Poliashov,M,Russia,ROC,2020,Tokyo,Artistic Gymnastics,Men's Horizontal Bar,No medal,Men's,GAR,True

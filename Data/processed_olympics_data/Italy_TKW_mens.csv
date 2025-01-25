@@ -1,0 +1,12 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Leonardo Basile,M,Italy,ITA,2008,Beijing,Taekwondo,Taekwondo Men's Heavyweight,No medal,Taekwondo,TKW,False
+Mario Meo,M,Italy,ITA,2000,Sydney,Taekwondo,Taekwondo Men's Welterweight,No medal,Taekwondo,TKW,False
+Carlo Molfetta,M,Italy,ITA,2004,Athina,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,True
+Carlo Molfetta,M,Italy,ITA,2012,London,Taekwondo,Taekwondo Men's Heavyweight,Gold,Taekwondo,TKW,True
+Claudio Nolano,M,Italy,ITA,2000,Sydney,Taekwondo,Taekwondo Men's Featherweight,No medal,Taekwondo,TKW,False
+Mauro Sarmiento,M,Italy,ITA,2008,Beijing,Taekwondo,Taekwondo Men's Welterweight,Silver,Taekwondo,TKW,True
+Mauro Sarmiento,M,Italy,ITA,2012,London,Taekwondo,Taekwondo Men's Welterweight,Bronze,Taekwondo,TKW,True
+Simone Alessio,M,Italy,ITA,2020,Tokyo,Taekwondo,Men -80kg,No medal,Men,TKW,True
+Vito Dell'aquila,M,Italy,ITA,2020,Tokyo,Taekwondo,Men -58kg,Gold,Men,TKW,False
+Vito Dell,M,Italy,ITA,2024,Paris,Taekwondo,Men -58kg,No medal,Men,TKW,False
+Simone Alessio,M,Italy,ITA,2024,Paris,Taekwondo,Men -80kg,Bronze,Men,TKW,True

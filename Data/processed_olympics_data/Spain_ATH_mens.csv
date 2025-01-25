@@ -1,0 +1,547 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Antonio Beci,M,Spain,ESP,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
+Jos Gmez,M,Spain,ESP,1980,Moskva,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Jos Gmez,M,Spain,ESP,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",Bronze,Athletics,ATH,True
+Alfonso Lpez,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Jos Arias,M,Spain,ESP,1992,Barcelona,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,False
+Juan Elizarn,M,Spain,ESP,1948,London,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Juan Elizarn,M,Spain,ESP,1948,London,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Fernando Camacho,M,Spain,ESP,1964,Tokyo,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Fernando Camacho,M,Spain,ESP,1964,Tokyo,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Jos Calles,M,Spain,ESP,1960,Roma,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
+Jos Ferrer,M,Spain,ESP,1988,Seoul,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Manuel Fornieles,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Manuel Fornieles,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Jos Valero,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True
+Jos Valero,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True
+Javier Salgado,M,Spain,ESP,1968,Mexico City,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
+Javier Salgado,M,Spain,ESP,1972,Munich,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Javier Salgado,M,Spain,ESP,1972,Munich,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Jos Aguilar,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's 3,000 metres, Team",No medal,Athletics,ATH,True
+Jos Aguilar,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's Cross-Country, Individual",No medal,Athletics,ATH,True
+Jos Aguilar,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's Cross-Country, Team",No medal,Athletics,ATH,True
+Jos Guilln,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False
+Daniel Ponce,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Abel Rodrigo,M,Spain,ESP,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Abel Rodrigo,M,Spain,ESP,1992,Barcelona,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Abel Rodrigo,M,Spain,ESP,1996,Atlanta,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Abel Rodrigo,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Eleuterio Palacios,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Pedro Zarrga,M,Spain,ESP,1948,London,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,False
+Francisco Aller,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False
+Jos Ramos,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Jos Gil,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,False
+Luis Sampriz,M,Spain,ESP,1960,Roma,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
+Luis Sampriz,M,Spain,ESP,1960,Roma,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True
+Luis Sampriz,M,Spain,ESP,1964,Tokyo,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
+Luis Sampriz,M,Spain,ESP,1964,Tokyo,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True
+Luis Sampriz,M,Spain,ESP,1968,Mexico City,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True
+Francisco Criado,M,Spain,ESP,1964,Tokyo,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
+Jos Ferrer,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Jos Ferrer,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Jos Ferrer,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Jos Ferrer,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Melanio Montes,M,Spain,ESP,1960,Roma,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
+Andrs Garca,M,Spain,ESP,1976,Montreal,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Antonio Alonso,M,Spain,ESP,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Toms Ballestn,M,Spain,ESP,1960,Roma,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
+Jaime Ramrez,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Jaime Ramrez,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Gustavo Lasso,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
+Francisco Martn,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True
+Francisco Martn,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True
+Francisco Martn,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True
+Javier Merino,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True
+Javier Merino,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True
+Alemayehu Desta,M,Spain,ESP,2008,Beijing,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
+Jos Quevedo,M,Spain,ESP,2008,Beijing,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
+Rafael Alcantuz,M,Spain,ESP,1976,Montreal,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,False
+Manuel Mena,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
+Carlos Polanco,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Carlos Polanco,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+lvaro Busto,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,False
+David Gonzlez,M,Spain,ESP,2012,London,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+David Gonzlez,M,Spain,ESP,2016,Rio de Janeiro,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Igor Bychkov,M,Spain,ESP,2012,London,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,False
+Roberto Cuadrado,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
+Eusebio Lpez,M,Spain,ESP,2012,London,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,False
+Ignacio Llorca,M,Spain,ESP,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Fermn Ruiz,M,Spain,ESP,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",Gold,Athletics,ATH,True
+Fermn Ruiz,M,Spain,ESP,1996,Atlanta,Athletics,"Athletics Men's 1,500 metres",Silver,Athletics,ATH,True
+Jos Quiles,M,Spain,ESP,1976,Montreal,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
+Jaime Gordon,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
+David Valero,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
+David Valero,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+David Valero,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+David Valero,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
+David Valero,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Manuel Snchez,M,Spain,ESP,1972,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Juan Pastor,M,Spain,ESP,1976,Montreal,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
+Dionisio Salvador,M,Spain,ESP,1924,Paris,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Fernando Morillo,M,Spain,ESP,2016,Rio de Janeiro,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
+Jos Pern,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True
+Jos Pern,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Arturo Alda,M,Spain,ESP,2008,Beijing,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
+Yennifer Hernndez,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
+Yennifer Hernndez,M,Spain,ESP,2012,London,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
+Yennifer Hernndez,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
+Carles Salvador,M,Spain,ESP,2004,Athina,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Carles Salvador,M,Spain,ESP,2008,Beijing,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Carles Salvador,M,Spain,ESP,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Carles Salvador,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Marco Martn,M,Spain,ESP,2000,Sydney,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
+Jos Moreno,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Fernando Asenjo,M,Spain,ESP,1976,Montreal,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
+Ral Serrano,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False
+Ramn Pardo,M,Spain,ESP,1976,Montreal,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True
+Ramn Pardo,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,True
+Javier Pinilla,M,Spain,ESP,2012,London,Athletics,Athletics Men's Hammer Throw,No medal,Athletics,ATH,True
+Javier Pinilla,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's Hammer Throw,No medal,Athletics,ATH,True
+Juan Zambrano,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,False
+Yidiel Garca,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,False
+Antonio Cervantes,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
+Antonio Cervantes,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
+Antonio Cervantes,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
+Gaiet Pamies,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
+Gaiet Pamies,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
+Gaiet Pamies,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Jos Clapera,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,False
+Teodoro Pelaz,M,Spain,ESP,2000,Sydney,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,False
+Alfonso Asn,M,Spain,ESP,1960,Roma,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,False
+lvaro Lpez,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Enrique Rodrguez-codes,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Enrique Rodrguez-codes,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Juan Yunta,M,Spain,ESP,2008,Beijing,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,False
+Santiago Cuevas,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Miguel Gayarre,M,Spain,ESP,1960,Roma,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,False
+Carlos Allariz,M,Spain,ESP,1992,Barcelona,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Carlos Allariz,M,Spain,ESP,1996,Atlanta,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Elisardo Allariz,M,Spain,ESP,1996,Atlanta,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
+Miguel Vilches,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,False
+Toms Colina,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Toms Colina,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Andrs Daz,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Andrs Daz,M,Spain,ESP,2000,Sydney,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Jos Velzquez,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,False
+Jess Romero,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's 3,000 metres, Team",No medal,Athletics,ATH,True
+Jess Romero,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's Cross-Country, Individual",No medal,Athletics,ATH,True
+Jess Romero,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's Cross-Country, Team",No medal,Athletics,ATH,True
+Jos Guimera,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Jos Guimera,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Julio Yebra,M,Spain,ESP,1920,Antwerpen,Athletics,"Athletics Men's Cross-Country, Individual",No medal,Athletics,ATH,False
+Youssef Serhani,M,Spain,ESP,2000,Sydney,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
+Flix Erauzquin,M,Spain,ESP,1948,London,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,False
+Jess Cobo,M,Spain,ESP,2008,Beijing,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Jess Cobo,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Reyes Lpez,M,Spain,ESP,1996,Atlanta,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Reyes Lpez,M,Spain,ESP,2004,Athina,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Reyes Lpez,M,Spain,ESP,2008,Beijing,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Jos Echegoyen,M,Spain,ESP,1960,Roma,Athletics,Athletics Men's Hammer Throw,No medal,Athletics,ATH,False
+Frutos Prez,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Frutos Prez,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Agustn Daz-pavn,M,Spain,ESP,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Agustn Daz-pavn,M,Spain,ESP,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+lvaro Cerezo,M,Spain,ESP,2004,Athina,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
+Antonio Ortz,M,Spain,ESP,1972,Munich,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Francisco Pelez,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Francisco Pelez,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 20 kilometres Walk,Silver,Athletics,ATH,True
+Francisco Pelez,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Jos Serrano,M,Spain,ESP,1960,Roma,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
+Sergio Roda,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
+Emilio Calvo,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Illias Temesmani,M,Spain,ESP,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
+Martn Martn,M,Spain,ESP,1992,Barcelona,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Martn Martn,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Martn Martn,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Luis Martnez,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False
+Jess Artuedo,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,False
+Alberto Fernndez,M,Spain,ESP,2000,Sydney,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Alberto Fernndez,M,Spain,ESP,2008,Beijing,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Carlos Garca,M,Spain,ESP,2004,Athina,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
+Diego Corrales,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Diego Corrales,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Francisco Lpez,M,Spain,ESP,1972,Munich,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Francisco Lpez,M,Spain,ESP,1972,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Francisco Lpez,M,Spain,ESP,1976,Montreal,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Javier Chico,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True
+Javier Chico,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's Pole Vault,Bronze,Athletics,ATH,True
+Javier Chico,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True
+Javier Chico,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True
+Jess Bragado,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Jess Bragado,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Jess Bragado,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Jess Bragado,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Jess Bragado,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Jess Bragado,M,Spain,ESP,2012,London,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Jess Bragado,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Jorge Gonzlez,M,Spain,ESP,1984,Los Angeles,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
+Jos Lorenzana,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
+Miguel Onsalo,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
+Miguel Onsalo,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Roberto Garca,M,Spain,ESP,2004,Athina,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
+Vctor Blazquez,M,Spain,ESP,2012,London,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
+Luis Ortz,M,Spain,ESP,1964,Tokyo,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True
+Luis Ortz,M,Spain,ESP,1968,Mexico City,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True
+Florencio Lvarez,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
+Rodrigo Rodrguez,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Manuel Daz,M,Spain,ESP,1972,Munich,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Javier Condon,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,False
+Alejandro Cabral,M,Spain,ESP,1988,Seoul,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Alejandro Cabral,M,Spain,ESP,1992,Barcelona,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Alejandro Cabral,M,Spain,ESP,1996,Atlanta,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+David Martnez,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True
+David Martnez,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True
+Julio Almazn,M,Spain,ESP,1960,Roma,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Miguel Campuzano,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
+Benjamn Gmez,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Benjamn Gmez,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Benjamn Gmez,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Jorge Amo,M,Spain,ESP,1968,Mexico City,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
+Jos Cobacho,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,False
+Jos Snchez,M,Spain,ESP,1980,Moskva,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Jos Snchez,M,Spain,ESP,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Jos Snchez,M,Spain,ESP,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Luis Fanegas,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Manuel Solanes,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,False
+Jos Jamar,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Mariano Cisneros,M,Spain,ESP,1968,Mexico City,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
+Mariano Cisneros,M,Spain,ESP,1972,Munich,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Mariano Cisneros,M,Spain,ESP,1972,Munich,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Mariano Cisneros,M,Spain,ESP,1976,Montreal,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+ngel Lzaro,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
+ngel Lzaro,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+ngel Lzaro,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+ngel Yez,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,False
+Honorato Blanco,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Jos Cabrera,M,Spain,ESP,2012,London,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Juan Mate,M,Spain,ESP,2000,Sydney,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Juan Mate,M,Spain,ESP,2004,Athina,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Juan Mate,M,Spain,ESP,2008,Beijing,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Isidoro Baz,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
+Isidoro Baz,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Bruno Roig,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
+Ignacio Echaniz,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,True
+Ignacio Echaniz,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,True
+Anacleto Pastor,M,Spain,ESP,1996,Atlanta,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
+AntonioDavid Pentinel,M,Spain,ESP,2004,Athina,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
+Ral Prez,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's Hammer Throw,No medal,Athletics,ATH,False
+Venancio Murca,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Venancio Murca,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Venancio Murca,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Venancio Murca,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Juan Bogua,M,Spain,ESP,1924,Paris,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Juan Bogua,M,Spain,ESP,1924,Paris,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Juan Bogua,M,Spain,ESP,1924,Paris,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Alberto Lpez,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Alberto Lpez,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Fernando Bonnecaze,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,False
+Ayad Mouhcin,M,Spain,ESP,2008,Beijing,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Ayad Mouhcin,M,Spain,ESP,2012,London,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Santiago Toba,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
+Santiago Toba,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
+Jos-Mara Eguidazu,M,Spain,ESP,1924,Paris,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Jos-Mara Eguidazu,M,Spain,ESP,1924,Paris,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Jos-Mara Eguidazu,M,Spain,ESP,1924,Paris,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Gabino Berastegui,M,Spain,ESP,1924,Paris,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,False
+Jorge Ribas,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's 50 kilometres Walk,Silver,Athletics,ATH,True
+Jorge Ribas,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Jorge Ribas,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Juan Calvet,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
+Kevin Yerga,M,Spain,ESP,2012,London,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Kevin Yerga,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Miguel Nicolas,M,Spain,ESP,2012,London,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Miguel Nicolas,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Miguel Nicolas,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Sergio Alpez,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
+Ramon Duro,M,Spain,ESP,1968,Mexico City,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,False
+Santiago Pascual,M,Spain,ESP,1976,Montreal,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Luis Contreras,M,Spain,ESP,2012,London,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Jos Sospedra,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Jos Sospedra,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Jos Sospedra,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Jos Sospedra,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Jos Sospedra,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Jos Sospedra,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+David Laguna,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False
+Daniel Lluch,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,False
+lvaro Uriol,M,Spain,ESP,2012,London,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+lvaro Uriol,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Eliseo Omenat,M,Spain,ESP,2000,Sydney,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
+Eliseo Omenat,M,Spain,ESP,2004,Athina,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
+Eliseo Omenat,M,Spain,ESP,2008,Beijing,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
+Francisco Morrillas,M,Spain,ESP,1976,Montreal,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
+Luis Berlanas,M,Spain,ESP,2000,Sydney,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
+Luis Berlanas,M,Spain,ESP,2004,Athina,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
+David Varela,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
+David Varela,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
+David Varela,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
+Javier Gimnez,M,Spain,ESP,1976,Montreal,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
+Joan Armenteros,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's Long Jump,Bronze,Athletics,ATH,False
+Jos Vzquez,M,Spain,ESP,1968,Mexico City,Athletics,Athletics Men's Hammer Throw,No medal,Athletics,ATH,False
+Jos Fernndez,M,Spain,ESP,2004,Athina,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Jos Fernndez,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Lois Gonzlez,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,False
+Manuel Gutirrez,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,True
+Manuel Gutirrez,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,True
+Manuel Gutirrez,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's Shot Put,Bronze,Athletics,ATH,True
+Manuel Gutirrez,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,True
+Sebastin Roa,M,Spain,ESP,2016,Rio de Janeiro,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
+Valent Gracia,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Valent Gracia,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Valent Gracia,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 50 kilometres Walk,Bronze,Athletics,ATH,True
+Valent Gracia,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Jordi Rodrguez,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Jordi Rodrguez,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Adel Mechaal,M,Spain,ESP,2016,Rio de Janeiro,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Adel Mechaal,M,Spain,ESP,2016,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Luis Gardeas,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 10 kilometres Walk,No medal,Athletics,ATH,False
+Luis Linares,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
+Luis Linares,M,Spain,ESP,2012,London,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
+Flix Mendiburu,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Flix Mendiburu,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Flix Mendiburu,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Flix Mendiburu,M,Spain,ESP,1924,Paris,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Flix Mendiburu,M,Spain,ESP,1924,Paris,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Flix Mendiburu,M,Spain,ESP,1924,Paris,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Abdel Noureddine,M,Spain,ESP,2012,London,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
+Abdel Noureddine,M,Spain,ESP,2016,Rio de Janeiro,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
+Joaqun Casas,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Joaqun Casas,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's 3,000 metres, Team",No medal,Athletics,ATH,True
+Joaqun Casas,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
+Joaqun Casas,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Constantino Justo,M,Spain,ESP,1948,London,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Constantino Justo,M,Spain,ESP,1948,London,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
+Ramn Dez,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,False
+Enrique Vargas,M,Spain,ESP,1996,Atlanta,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Enrique Vargas,M,Spain,ESP,2000,Sydney,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Juan Morote,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Juan Morote,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Jos Montes,M,Spain,ESP,1960,Roma,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
+igo Senz,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True
+igo Senz,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True
+igo Senz,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Jos Gmez,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Javier Torrente,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
+Javier Torrente,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
+Javier Torrente,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
+Manuel Snchez,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Santiago Hernando,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False
+Juan Sasieta,M,Spain,ESP,1920,Antwerpen,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Juan Sasieta,M,Spain,ESP,1920,Antwerpen,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+ngel Rodrguez,M,Spain,ESP,2012,London,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
+Fernando Alcorta,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Fernando Alcorta,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Francisco Snchez,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Francisco Snchez,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Miguel Palos,M,Spain,ESP,1960,Roma,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Mikel Domnguez,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Mikel Domnguez,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Mikel Domnguez,M,Spain,ESP,2012,London,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Jean Kouletio,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,False
+Jess Malln,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
+Jess Malln,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,True
+Manuel Villar,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Manuel Villar,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Diego Arcauz,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Diego Arcauz,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Diego Arcauz,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Diego Arcauz,M,Spain,ESP,1924,Paris,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Diego Arcauz,M,Spain,ESP,1924,Paris,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Diego Arcauz,M,Spain,ESP,1924,Paris,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Diego Arcauz,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Diego Arcauz,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Diego Arcauz,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Orlando Alejo,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's 110 metres Hurdles,Silver,Athletics,ATH,False
+Arturo Santos,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True
+Arturo Santos,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True
+Arturo Santos,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,True
+Jess Gonzlez,M,Spain,ESP,1928,Amsterdam,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,False
+Antonio Montero,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Carlos Lamo,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,False
+Miguel Claveras,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Miguel Claveras,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's 3,000 metres, Team",No medal,Athletics,ATH,True
+Miguel Claveras,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's Cross-Country, Individual",No medal,Athletics,ATH,True
+Amador Iturraspe,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's Cross-Country, Individual",No medal,Athletics,ATH,True
+Amador Iturraspe,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's Cross-Country, Team",No medal,Athletics,ATH,True
+Rubn Barrera,M,Spain,ESP,2008,Beijing,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
+Manuel Chica,M,Spain,ESP,1992,Barcelona,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,True
+Manuel Chica,M,Spain,ESP,1996,Atlanta,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Roberto Mateo,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,False
+Arturo Aznar,M,Spain,ESP,1928,Amsterdam,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Arturo Aznar,M,Spain,ESP,1928,Amsterdam,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Miguel Moral,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's Cross-Country, Individual",No medal,Athletics,ATH,True
+Miguel Moral,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's Cross-Country, Team",No medal,Athletics,ATH,True
+Antoni Pico,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Antonio Asencio,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True
+Antonio Asencio,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's Decathlon,Silver,Athletics,ATH,True
+Antonio Asencio,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,True
+Martn Grau,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's High Jump,No medal,Athletics,ATH,False
+Carlos Alonso,M,Spain,ESP,1960,Roma,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Carlos Alonso,M,Spain,ESP,1968,Mexico City,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Carlos Alonso,M,Spain,ESP,1972,Munich,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Santiago Alonso,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Santiago Alonso,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Mario Garca,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
+Mario Garca,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
+Mario Garca,M,Spain,ESP,2012,London,Athletics,Athletics Men's Discus Throw,No medal,Athletics,ATH,True
+scar Torra,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
+Daniel Montero,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Daniel Montero,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 20 kilometres Walk,Gold,Athletics,ATH,True
+Daniel Montero,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Teodoro Domnguez,M,Spain,ESP,1920,Antwerpen,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Teodoro Domnguez,M,Spain,ESP,1920,Antwerpen,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Antonio Velasco,M,Spain,ESP,1980,Moskva,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Antonio Velasco,M,Spain,ESP,1984,Los Angeles,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Antonio Velasco,M,Spain,ESP,1988,Seoul,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Miguel Adanero,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False
+Ricardo Ministrol,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False
+Miguel Velasco,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Miguel Velasco,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Jackson Vernaza,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
+Jackson Vernaza,M,Spain,ESP,2012,London,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
+Luis Menarges,M,Spain,ESP,1980,Moskva,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
+Luis Menarges,M,Spain,ESP,1984,Los Angeles,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,True
+Jos Contreras,M,Spain,ESP,2000,Sydney,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
+Antonio Ballesteros,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Antonio Ballesteros,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Antonio Ballesteros,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Antonio Ballesteros,M,Spain,ESP,2012,London,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Federico Linazasoro,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Federico Linazasoro,M,Spain,ESP,1920,Antwerpen,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Julio Paz,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Julio Paz,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Jos Juan,M,Spain,ESP,1960,Roma,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,False
+Jos Ortega,M,Spain,ESP,2000,Sydney,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Jos Ortega,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Jos Ortega,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,True
+Rogelio Aval,M,Spain,ESP,1964,Tokyo,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,False
+Valentn Cilveti,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,False
+lvaro Melero,M,Spain,ESP,2012,London,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
+ngel Garca,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+ngel Garca,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+ngel Garca,M,Spain,ESP,2012,London,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Eduardo Ramallo,M,Spain,ESP,2000,Sydney,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Eduardo Ramallo,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,True
+Eduardo Ramallo,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Gregorio Sagredo,M,Spain,ESP,1948,London,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Gregorio Sagredo,M,Spain,ESP,1948,London,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Alberto Benito,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True
+Alberto Benito,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True
+Diego Sanz,M,Spain,ESP,2012,London,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
+Jos Bernal,M,Spain,ESP,1976,Montreal,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,False
+Carlos Molera,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
+Carlos Molera,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
+Carlos Molera,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
+Carlos Molera,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
+Carlos Molera,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,True
+Antonio Muoz,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
+Antonio Muoz,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Antonio Muoz,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 400 metres,No medal,Athletics,ATH,True
+Antonio Muoz,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Benjamn Bermejo,M,Spain,ESP,2008,Beijing,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,True
+Benjamn Bermejo,M,Spain,ESP,2012,London,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Francisco Vargas,M,Spain,ESP,1980,Moskva,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
+Jos Paraso,M,Spain,ESP,1968,Mexico City,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Jos Paraso,M,Spain,ESP,1972,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Jos Paraso,M,Spain,ESP,1976,Montreal,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Luis Pescador,M,Spain,ESP,1972,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Luis Pescador,M,Spain,ESP,1976,Montreal,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Juan Bofill,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Juan Bofill,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's 200 metres,No medal,Athletics,ATH,True
+Juan Bofill,M,Spain,ESP,1928,Amsterdam,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Antonio Snchez,M,Spain,ESP,1988,Seoul,Athletics,"Athletics Men's 10,000 metres",No medal,Athletics,ATH,True
+Antonio Snchez,M,Spain,ESP,1992,Barcelona,Athletics,"Athletics Men's 5,000 metres",No medal,Athletics,ATH,True
+Ignacio Cortabarria,M,Spain,ESP,1964,Tokyo,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True
+Ignacio Cortabarria,M,Spain,ESP,1968,Mexico City,Athletics,Athletics Men's Pole Vault,No medal,Athletics,ATH,True
+Alberto Galn,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's Long Jump,No medal,Athletics,ATH,False
+Manuel Nieto,M,Spain,ESP,1972,Munich,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
+Julin Madrazo,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's Javelin Throw,No medal,Athletics,ATH,False
+Manuel Molezn,M,Spain,ESP,1948,London,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,False
+Enrique Rubio,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Enrique Rubio,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Enrique Rubio,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Carlos Aspirez,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,False
+Pau Ricart,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's Decathlon,No medal,Athletics,ATH,False
+Juan Daz,M,Spain,ESP,1984,Los Angeles,Athletics,"Athletics Men's 3,000 metres Steeplechase",No medal,Athletics,ATH,False
+Pablo Navarro,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's Triple Jump,No medal,Athletics,ATH,False
+Colomn Prez,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Colomn Prez,M,Spain,ESP,1980,Moskva,Athletics,Athletics Men's 4 x 400 metres Relay,No medal,Athletics,ATH,True
+Colomn Prez,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Colomn Prez,M,Spain,ESP,1988,Seoul,Athletics,Athletics Men's 800 metres,No medal,Athletics,ATH,True
+Juan Hidalgo,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 100 metres,No medal,Athletics,ATH,True
+Juan Hidalgo,M,Spain,ESP,1992,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,No medal,Athletics,ATH,True
+Juan Fuente,M,Spain,ESP,1984,Los Angeles,Athletics,Athletics Men's Marathon,No medal,Athletics,ATH,False
+Fernando Martnez,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 20 kilometres Walk,No medal,Athletics,ATH,False
+Fabin Coello,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's 3,000 metres, Team",No medal,Athletics,ATH,True
+Fabin Coello,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's Cross-Country, Individual",No medal,Athletics,ATH,True
+Fabin Coello,M,Spain,ESP,1924,Paris,Athletics,"Athletics Men's Cross-Country, Team",No medal,Athletics,ATH,True
+Andrs Llorens,M,Spain,ESP,1984,Los Angeles,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
+Isaac Plaza,M,Spain,ESP,1996,Atlanta,Athletics,"Athletics Men's 1,500 metres",No medal,Athletics,ATH,False
+Salvador Navarro,M,Spain,ESP,1996,Atlanta,Athletics,Athletics Men's 400 metres Hurdles,No medal,Athletics,ATH,False
+Enrique Vargas,M,Spain,ESP,1948,London,Athletics,Athletics Men's 50 kilometres Walk,No medal,Athletics,ATH,True
+Felipe Ruiz,M,Spain,ESP,2004,Athina,Athletics,Athletics Men's 110 metres Hurdles,No medal,Athletics,ATH,False
+Borja Jimnez,M,Spain,ESP,2012,London,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,True
+Borja Jimnez,M,Spain,ESP,2016,Rio de Janeiro,Athletics,Athletics Men's Shot Put,No medal,Athletics,ATH,True
+Daniel Arce,M,Spain,ESP,2020,Tokyo,Athletics,Men's 3000m Steeplechase,No medal,Men's,ATH,True
+Julio Arenas,M,Spain,ESP,2020,Tokyo,Athletics,4 x 400m Relay Mixed,No medal,4,ATH,True
+Adrian Ben,M,Spain,ESP,2020,Tokyo,Athletics,Men's 800m,No medal,Men's,ATH,True
+Eusebio Caceres,M,Spain,ESP,2020,Tokyo,Athletics,Men's Long Jump,No medal,Men's,ATH,False
+Fernando Carro,M,Spain,ESP,2020,Tokyo,Athletics,Men's 3000m Steeplechase,No medal,Men's,ATH,False
+Javier Cienfuegos,M,Spain,ESP,2020,Tokyo,Athletics,Men's Hammer Throw,No medal,Men's,ATH,False
+Manuel Corchete,M,Spain,ESP,2020,Tokyo,Athletics,Men's 50km Race Walk,No medal,Men's,ATH,False
+Bernat Erta,M,Spain,ESP,2020,Tokyo,Athletics,4 x 400m Relay Mixed Team,No medal,4,ATH,False
+Sergio Fernandez,M,Spain,ESP,2020,Tokyo,Athletics,Men's 400m Hurdles,No medal,Men's,ATH,False
+Ignacio Fontes,M,Spain,ESP,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,True
+Diego Garcia,M,Spain,ESP,2020,Tokyo,Athletics,Men's 20km Race Walk,No medal,Men's,ATH,True
+Angel Garcia,M,Spain,ESP,2020,Tokyo,Athletics,Men's 50km Race Walk,No medal,Men's,ATH,False
+Samuel Garcia,M,Spain,ESP,2020,Tokyo,Athletics,4 x 400m Relay Mixed Team,No medal,4,ATH,True
+Jesus Gomez,M,Spain,ESP,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,False
+Javier Guerra,M,Spain,ESP,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False
+Oscar Husillos,M,Spain,ESP,2020,Tokyo,Athletics,Men's 400m,No medal,Men's,ATH,True
+Odei Jainaga,M,Spain,ESP,2020,Tokyo,Athletics,Men's Javelin Throw,No medal,Men's,ATH,False
+Mohamed Katir,M,Spain,ESP,2020,Tokyo,Athletics,Men's 5000m,No medal,Men's,ATH,False
+Ayad Lamdassem,M,Spain,ESP,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False
+Angel Lopez,M,Spain,ESP,2020,Tokyo,Athletics,Men's 20km Race Walk,No medal,Men's,ATH,True
+Alvaro Martin,M,Spain,ESP,2020,Tokyo,Athletics,Men's 20km Race Walk,No medal,Men's,ATH,True
+Asier Martinez,M,Spain,ESP,2020,Tokyo,Athletics,Men's 110m Hurdles,No medal,Men's,ATH,True
+Maikel Martinez,M,Spain,ESP,2020,Tokyo,Athletics,Men's Discus Throw,No medal,Men's,ATH,False
+Sebastian Martos,M,Spain,ESP,2020,Tokyo,Athletics,Men's 3000m Steeplechase,No medal,Men's,ATH,False
+Daniel Mateo,M,Spain,ESP,2020,Tokyo,Athletics,Men's Marathon,No medal,Men's,ATH,False
+Carlos Mayo,M,Spain,ESP,2020,Tokyo,Athletics,"Men's 10,000m",No medal,Men's,ATH,False
+Adel Mechaal,M,Spain,ESP,2020,Tokyo,Athletics,Men's 1500m,No medal,Men's,ATH,True
+Saul Ordonez,M,Spain,ESP,2020,Tokyo,Athletics,Men's 800m,No medal,Men's,ATH,False
+Orlando Ortega,M,Spain,ESP,2020,Tokyo,Athletics,Men's 110m Hurdles,No medal,Men's,ATH,False
+Pablo Sanchez-valladares,M,Spain,ESP,2020,Tokyo,Athletics,Men's 800m,No medal,Men's,ATH,False
+Pablo Torrijos,M,Spain,ESP,2020,Tokyo,Athletics,Men's Triple Jump,No medal,Men's,ATH,False
+Marc Tur,M,Spain,ESP,2020,Tokyo,Athletics,Men's 50km Race Walk,No medal,Men's,ATH,False
+Jorge Urena,M,Spain,ESP,2020,Tokyo,Athletics,Men's Decathlon,No medal,Men's,ATH,True
+Alberto Amezcua,M,Spain,ESP,2024,Paris,Athletics,Marathon Race Walk Relay Mixed,No medal,Marathon,ATH,False
+Daniel Arce,M,Spain,ESP,2024,Paris,Athletics,Men's 3000m Steeplechase,No medal,Men's,ATH,True
+Julio Arenas,M,Spain,ESP,2024,Paris,Athletics,Men's 4 x 400m Relay,No medal,Men's,ATH,True
+Mohamed Attaoui,M,Spain,ESP,2024,Paris,Athletics,Men's 800m,No medal,Men's,ATH,False
+Adrian Ben,M,Spain,ESP,2024,Paris,Athletics,Men's 800m,No medal,Men's,ATH,True
+Inaki Canal,M,Spain,ESP,2024,Paris,Athletics,Men's 4 x 400m Relay,No medal,Men's,ATH,False
+Ibrahim Chakir,M,Spain,ESP,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,False
+Alejandro Diaz,M,Spain,ESP,2024,Paris,Athletics,Men's Triple Jump,Gold,Men's,ATH,False
+Ignacio Fontes,M,Spain,ESP,2024,Paris,Athletics,Men's 1500m,No medal,Men's,ATH,True
+Samuel Garcia,M,Spain,ESP,2024,Paris,Athletics,Men's 4 x 400m Relay,No medal,Men's,ATH,True
+Diego Garcia,M,Spain,ESP,2024,Paris,Athletics,Men's 20km Race Walk,No medal,Men's,ATH,True
+Mario Garcia,M,Spain,ESP,2024,Paris,Athletics,Men's 1500m,No medal,Men's,ATH,False
+David Garcia,M,Spain,ESP,2024,Paris,Athletics,Men's 4 x 400m Relay,No medal,Men's,ATH,False
+Manuel Guijarro,M,Spain,ESP,2024,Paris,Athletics,Men's 4 x 400m Relay,No medal,Men's,ATH,False
+Oscar Husillos,M,Spain,ESP,2024,Paris,Athletics,Men's 4 x 400m Relay,No medal,Men's,ATH,True
+Enrique Llopis,M,Spain,ESP,2024,Paris,Athletics,Men's 110m Hurdles,No medal,Men's,ATH,False
+Angel Lopez,M,Spain,ESP,2024,Paris,Athletics,Marathon Race Walk Relay Mixed,No medal,Marathon,ATH,True
+Alvaro Martin,M,Spain,ESP,2024,Paris,Athletics,Men's 20km Race Walk,Bronze,Men's,ATH,True
+Alvaro Martin,M,Spain,ESP,2024,Paris,Athletics,Marathon Race Walk Relay Mixed,Gold,Marathon,ATH,True
+Asier Martinez,M,Spain,ESP,2024,Paris,Athletics,Men's 110m Hurdles,No medal,Men's,ATH,True
+McGRATH Paul,M,Spain,ESP,2024,Paris,Athletics,Men's 20km Race Walk,No medal,Men's,ATH,False
+Adel Mechaal,M,Spain,ESP,2024,Paris,Athletics,Men's 1500m,No medal,Men's,ATH,True
+Adel Mechaal,M,Spain,ESP,2024,Paris,Athletics,Men's 5000m,No medal,Men's,ATH,True
+Thierry Ndikumwenayo,M,Spain,ESP,2024,Paris,Athletics,"Men's 10,000m",No medal,Men's,ATH,True
+Thierry Ndikumwenayo,M,Spain,ESP,2024,Paris,Athletics,Men's 5000m,No medal,Men's,ATH,True
+Tariku Novales,M,Spain,ESP,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,False
+Abdessamad Oukhelfen,M,Spain,ESP,2024,Paris,Athletics,"Men's 10,000m",No medal,Men's,ATH,False
+Yago Rojo,M,Spain,ESP,2024,Paris,Athletics,Men's Marathon,No medal,Men's,ATH,False
+Jorge Urena,M,Spain,ESP,2024,Paris,Athletics,Men's Decathlon,No medal,Men's,ATH,True
+Josue Canales,M,Spain,ESP,2024,Paris,Athletics,Men's 800m,No medal,Men's,ATH,False

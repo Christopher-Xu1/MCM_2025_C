@@ -1,0 +1,21 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Karel (-robtn),M,Bohemia,BOH,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Karel (-robtn),M,Bohemia,BOH,1912,Stockholm,Tennis,"Tennis Men's Singles, Covered Courts",No medal,Tennis,TEN,True
+Josef (miovsk),M,Bohemia,BOH,1908,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Jaroslav Hainz,M,Bohemia,BOH,1912,Stockholm,Tennis,"Tennis Men's Singles, Covered Courts",No medal,Tennis,TEN,False
+Bohuslav Hyk,M,Bohemia,BOH,1908,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Bohuslav Hyk,M,Bohemia,BOH,1908,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Bohuslav Hyk,M,Bohemia,BOH,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Jaroslav Just,M,Bohemia,BOH,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Ji Kodl,M,Bohemia,BOH,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Josef Ebek,M,Bohemia,BOH,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+David Slva,M,Bohemia,BOH,1908,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+David Slva,M,Bohemia,BOH,1908,London,Tennis,Tennis Men's Doubles,No medal,Tennis,TEN,True
+Jaromr Zeman,M,Bohemia,BOH,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Jaroslav Emla,M,Bohemia,BOH,1906,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,False
+Ladislav Emla,M,Bohemia,BOH,1906,Athina,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Ladislav Emla,M,Bohemia,BOH,1906,Athina,Tennis,Tennis Men's Doubles,Bronze,Tennis,TEN,True
+Ladislav Emla,M,Bohemia,BOH,1908,London,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Ladislav Emla,M,Bohemia,BOH,1912,Stockholm,Tennis,Tennis Men's Singles,No medal,Tennis,TEN,True
+Zdenk Emla,M,Bohemia,BOH,1906,Athina,Tennis,Tennis Men's Singles,Bronze,Tennis,TEN,True
+Zdenk Emla,M,Bohemia,BOH,1906,Athina,Tennis,Tennis Men's Doubles,Bronze,Tennis,TEN,True

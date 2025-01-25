@@ -1,0 +1,13 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Juan Dueas,M,Colombia,COL,1984,Los Angeles,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Andrs Solano,M,Colombia,COL,2016,Rio de Janeiro,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Daniel Osorio,M,Colombia,COL,2012,London,Archery,Archery Men's Individual,No medal,Archery,ARC,False
+Felipe Pineda,M,Colombia,COL,2020,Tokyo,Archery,Men's Individual,No medal,Men's,ARC,True
+Felipe Pineda,M,Colombia,COL,2020,Tokyo,Archery,Mixed Team,No medal,Mixed,ARC,True
+Jorge Enriquez,M,Colombia,COL,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True
+Jorge Enriquez,M,Colombia,COL,2024,Paris,Archery,Men's Team,No medal,Men's,ARC,True
+Santiago Arcila,M,Colombia,COL,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True
+Santiago Arcila,M,Colombia,COL,2024,Paris,Archery,Men's Team,No medal,Men's,ARC,True
+Santiago Arcila,M,Colombia,COL,2024,Paris,Archery,Mixed Team,No medal,Mixed,ARC,True
+Andres Hernandez,M,Colombia,COL,2024,Paris,Archery,Men's Individual,No medal,Men's,ARC,True
+Andres Hernandez,M,Colombia,COL,2024,Paris,Archery,Men's Team,No medal,Men's,ARC,True

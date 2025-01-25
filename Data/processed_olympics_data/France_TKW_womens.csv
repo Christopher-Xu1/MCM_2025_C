@@ -1,0 +1,14 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Yasmina Aziez,F,France,FRA,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Flyweight,No medal,Taekwondo,TKW,False
+Myriam Baverel,F,France,FRA,2000,Sydney,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,True
+Myriam Baverel,F,France,FRA,2004,Athina,Taekwondo,Taekwondo Women's Heavyweight,Silver,Taekwondo,TKW,True
+Gwladys Pangue,F,France,FRA,2004,Athina,Taekwondo,Taekwondo Women's Featherweight,No medal,Taekwondo,TKW,True
+Gwladys Pangue,F,France,FRA,2008,Beijing,Taekwondo,Taekwondo Women's Welterweight,Bronze,Taekwondo,TKW,True
+Gwladys Pangue,F,France,FRA,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Heavyweight,No medal,Taekwondo,TKW,True
+Anne-Caroline Graffe,F,France,FRA,2012,London,Taekwondo,Taekwondo Women's Heavyweight,Silver,Taekwondo,TKW,False
+Marlne Harnois,F,France,FRA,2012,London,Taekwondo,Taekwondo Women's Featherweight,Bronze,Taekwondo,TKW,False
+Haby Niar,F,France,FRA,2016,Rio de Janeiro,Taekwondo,Taekwondo Women's Welterweight,Silver,Taekwondo,TKW,False
+Althea Laurin,F,France,FRA,2020,Tokyo,Taekwondo,Women +67kg,Bronze,Women,TKW,True
+Magda Wiet,F,France,FRA,2020,Tokyo,Taekwondo,Women -67kg,No medal,Women,TKW,False
+Magda Wiet-henin,F,France,FRA,2024,Paris,Taekwondo,Women -67kg,No medal,Women,TKW,False
+Althea Laurin,F,France,FRA,2024,Paris,Taekwondo,Women +67kg,Gold,Women,TKW,True

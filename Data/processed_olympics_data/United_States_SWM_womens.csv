@@ -1,0 +1,841 @@
+Athlete,Gender,Country,Country Code,Year,City,Sport,Event,Medal,Discipline,Event Code,Multiple Events
+Natalie (-brannan),F,United States,USA,2012,London,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+Natalie (-brannan),F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+Amanda (-schneider),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,False
+Christine (-perham),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Christine (-perham),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,Silver,Swimming,SWM,True
+Christine (-perham),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Joan (-braskamp),F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Joan (-braskamp),F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Lynne (-olson),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,False
+Alyssa Anderson,F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False
+Haley Anderson,F,United States,USA,2012,London,Swimming,Swimming Women's 10 kilometres Open Water,Silver,Swimming,SWM,True
+Haley Anderson,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 10 kilometres Open Water,No medal,Swimming,SWM,True
+Theresa Andrews,F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 100 metres Backstroke,Gold,Swimming,SWM,True
+Theresa Andrews,F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Samantha (-livingstone),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False
+Susanne Atwood,F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
+Susanne Atwood,F,United States,USA,1972,Munich,Swimming,Swimming Women's 100 metres Backstroke,Bronze,Swimming,SWM,True
+Susanne Atwood,F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Backstroke,Silver,Swimming,SWM,True
+Susanne Atwood,F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Shirley Babashoff,F,United States,USA,1972,Munich,Swimming,Swimming Women's 100 metres Freestyle,Silver,Swimming,SWM,True
+Shirley Babashoff,F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Freestyle,Silver,Swimming,SWM,True
+Shirley Babashoff,F,United States,USA,1972,Munich,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
+Shirley Babashoff,F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Shirley Babashoff,F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Shirley Babashoff,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Shirley Babashoff,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 200 metres Freestyle,Silver,Swimming,SWM,True
+Shirley Babashoff,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 400 metres Freestyle,Silver,Swimming,SWM,True
+Shirley Babashoff,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 800 metres Freestyle,Silver,Swimming,SWM,True
+Shirley Babashoff,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Shirley Babashoff,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Kathleen Baker,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Backstroke,Silver,Swimming,SWM,True
+Kathleen Baker,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Catherine (-condon),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Catherine (-condon),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Jane (-brown),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 200 metres Freestyle,Bronze,Swimming,SWM,True
+Jane (-brown),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Jane (-brown),F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Elizabeth (-isaak),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
+Elizabeth (-isaak),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
+Elizabeth (-isaak),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Jennifer (-mcgillin),F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Jennifer (-mcgillin),F,United States,USA,1972,Munich,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Sybil Bauer,F,United States,USA,1924,Paris,Swimming,Swimming Women's 100 metres Backstroke,Gold,Swimming,SWM,False
+Amanda (-brown),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,Silver,Swimming,SWM,True
+Amanda (-brown),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 200 metres Breaststroke,Silver,Swimming,SWM,True
+Amanda (-brown),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Amanda (-brown),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 200 metres Breaststroke,Bronze,Swimming,SWM,True
+Amanda (-brown),F,United States,USA,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Amanda (-brown),F,United States,USA,2004,Athina,Swimming,Swimming Women's 200 metres Breaststroke,Gold,Swimming,SWM,True
+Amanda (-brown),F,United States,USA,2004,Athina,Swimming,Swimming Women's 200 metres Individual Medley,Silver,Swimming,SWM,True
+Amanda (-brown),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Amanda (-brown),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Barbara (-miller),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
+Barbara (-miller),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Elizabeth Beisel,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
+Elizabeth Beisel,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Elizabeth Beisel,F,United States,USA,2012,London,Swimming,Swimming Women's 200 metres Backstroke,Bronze,Swimming,SWM,True
+Elizabeth Beisel,F,United States,USA,2012,London,Swimming,Swimming Women's 400 metres Individual Medley,Silver,Swimming,SWM,True
+Elizabeth Beisel,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Melissa -ripley),F,United States,USA,1972,Munich,Swimming,Swimming Women's 100 metres Backstroke,Gold,Swimming,SWM,True
+Melissa -ripley),F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Backstroke,Gold,Swimming,SWM,True
+Melissa -ripley),F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Melissa -ripley),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
+Lindsay (-mintenko),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Lindsay (-mintenko),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Lindsay (-mintenko),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
+Lindsay (-mintenko),F,United States,USA,2004,Athina,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Lindsay (-mintenko),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Lindsay (-mintenko),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Brooke (-frioud),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 800 metres Freestyle,Gold,Swimming,SWM,True
+Brooke (-frioud),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 400 metres Freestyle,Gold,Swimming,SWM,True
+Brooke (-frioud),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 800 metres Freestyle,Gold,Swimming,SWM,True
+Kimberly Black,F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False
+Ethelda (-schlatke),F,United States,USA,1920,Antwerpen,Swimming,Swimming Women's 100 metres Freestyle,Gold,Swimming,SWM,True
+Ethelda (-schlatke),F,United States,USA,1920,Antwerpen,Swimming,Swimming Women's 300 metres Freestyle,Gold,Swimming,SWM,True
+Ethelda (-schlatke),F,United States,USA,1920,Antwerpen,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Wendy Boglioli,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Wendy Boglioli,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 100 metres Butterfly,Bronze,Swimming,SWM,True
+Wendy Boglioli,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Rachel Bootsma,F,United States,USA,2012,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
+Rachel Bootsma,F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Brenda (-bartlett),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
+Molly -trees),F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,False
+Elizabeth Botsford,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 100 metres Backstroke,Gold,Swimming,SWM,True
+Elizabeth Botsford,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
+Elizabeth Botsford,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Charlotte (-clune),F,United States,USA,1920,Antwerpen,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
+Elaine (-penrose),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Elaine (-penrose),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+Elaine (-penrose),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Elizabeth (mullen-),F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,False
+Erika (-holderith),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,False
+Alice (-roche),F,United States,USA,1936,Berlin,Swimming,Swimming Women's 100 metres Backstroke,Bronze,Swimming,SWM,False
+Caroline (-mcandrew),F,United States,USA,2004,Athina,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Tami (-armstrong),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
+Tami (-armstrong),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
+Caroline Burckle,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Bronze,Swimming,SWM,False
+Lynn (-mcconville),F,United States,USA,1960,Roma,Swimming,Swimming Women's 100 metres Backstroke,Gold,Swimming,SWM,True
+Lynn (-mcconville),F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Marjorie (-lott),F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Patricia -brown),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,False
+Catherine (-west),F,United States,USA,1972,Munich,Swimming,Swimming Women's 100 metres Breaststroke,Gold,Swimming,SWM,True
+Catherine (-west),F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Tracy (-stockwell),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Tracy (-stockwell),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 200 metres Individual Medley,Gold,Swimming,SWM,True
+Tracy (-stockwell),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 400 metres Individual Medley,Gold,Swimming,SWM,True
+Tracy (-stockwell),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Kristen Caverly,F,United States,USA,2004,Athina,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,False
+Florence (-newkirk),F,United States,USA,1924,Paris,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Claudia (-hernandez),F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Tiffany -lalonde),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 400 metres Freestyle,Gold,Swimming,SWM,True
+Tiffany -lalonde),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 800 metres Freestyle,Gold,Swimming,SWM,True
+Lynn Colella,F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Butterfly,Silver,Swimming,SWM,False
+Eleanor (-dilweg),F,United States,USA,1924,Paris,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Carin (-vanderbush),F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 100 metres Backstroke,Silver,Swimming,SWM,False
+Haley (-clark),F,United States,USA,2004,Athina,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
+Haley (-clark),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Julia Cornell,F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Maritza (-mcclendon),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,False
+Marie (-mortell),F,United States,USA,1948,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Marie (-mortell),F,United States,USA,1948,London,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Natalie (-hall),F,United States,USA,2004,Athina,Swimming,Swimming Women's 100 metres Freestyle,Bronze,Swimming,SWM,True
+Natalie (-hall),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Natalie (-hall),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Natalie (-hall),F,United States,USA,2004,Athina,Swimming,Swimming Women's 100 metres Backstroke,Gold,Swimming,SWM,True
+Natalie (-hall),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Natalie (-hall),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 100 metres Freestyle,Bronze,Swimming,SWM,True
+Natalie (-hall),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Natalie (-hall),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Natalie (-hall),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 100 metres Backstroke,Gold,Swimming,SWM,True
+Natalie (-hall),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 200 metres Individual Medley,Bronze,Swimming,SWM,True
+Natalie (-hall),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Natalie (-hall),F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Madeleine Crippen,F,United States,USA,2000,Sydney,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,False
+Iris (-critchell),F,United States,USA,1936,Berlin,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Ann (-cuneo),F,United States,USA,1948,London,Swimming,Swimming Women's 100 metres Freestyle,Silver,Swimming,SWM,True
+Ann (-cuneo),F,United States,USA,1948,London,Swimming,Swimming Women's 400 metres Freestyle,Gold,Swimming,SWM,True
+Ann (-cuneo),F,United States,USA,1948,London,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Eleanor (-drye),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 100 metres Butterfly,Silver,Swimming,SWM,True
+Eleanor (-drye),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 200 metres Butterfly,Bronze,Swimming,SWM,True
+Eleanor (-drye),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Eleanor (-drye),F,United States,USA,1972,Munich,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Eleanor (-drye),F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Butterfly,Bronze,Swimming,SWM,True
+Donna (-pinto),F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Donna (-pinto),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Donna (-pinto),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Donna (-pinto),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 400 metres Individual Medley,Gold,Swimming,SWM,True
+Deena (-schmidt),F,United States,USA,1972,Munich,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Deena (-schmidt),F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Madeline Dirado,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Madeline Dirado,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Backstroke,Gold,Swimming,SWM,True
+Madeline Dirado,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Individual Medley,Bronze,Swimming,SWM,True
+Madeline Dirado,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Individual Medley,Silver,Swimming,SWM,True
+Susan Doerr,F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,False
+Claire Donahue,F,United States,USA,2012,London,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Claire Donahue,F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Euphrasia -berlin),F,United States,USA,1924,Paris,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,False
+Virginia Duenkel,F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 400 metres Freestyle,Gold,Swimming,SWM,True
+Virginia Duenkel,F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 100 metres Backstroke,Bronze,Swimming,SWM,True
+Gertrude Ederle,F,United States,USA,1924,Paris,Swimming,Swimming Women's 100 metres Freestyle,Bronze,Swimming,SWM,True
+Gertrude Ederle,F,United States,USA,1924,Paris,Swimming,Swimming Women's 400 metres Freestyle,Bronze,Swimming,SWM,True
+Gertrude Ederle,F,United States,USA,1924,Paris,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Kathleen -greer),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 100 metres Freestyle,Bronze,Swimming,SWM,True
+Kathleen -greer),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Kathleen -greer),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 100 metres Butterfly,Bronze,Swimming,SWM,True
+Kathleen -greer),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Janet Evans,F,United States,USA,1988,Seoul,Swimming,Swimming Women's 400 metres Freestyle,Gold,Swimming,SWM,True
+Janet Evans,F,United States,USA,1988,Seoul,Swimming,Swimming Women's 800 metres Freestyle,Gold,Swimming,SWM,True
+Janet Evans,F,United States,USA,1988,Seoul,Swimming,Swimming Women's 400 metres Individual Medley,Gold,Swimming,SWM,True
+Janet Evans,F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 400 metres Freestyle,Silver,Swimming,SWM,True
+Janet Evans,F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 800 metres Freestyle,Gold,Swimming,SWM,True
+Janet Evans,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
+Janet Evans,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
+Jane (-manske),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Cathy (-brennan),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 100 metres Backstroke,Gold,Swimming,SWM,True
+Cathy (-brennan),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Leigh (-witt),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,False
+Sharon (-rittenhouse),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 400 metres Individual Medley,Silver,Swimming,SWM,False
+Hali Flickinger,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+LeLei (-moore),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+LeLei (-moore),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Norene (-lancucki),F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
+Catherine Fox,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Catherine Fox,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Melissa Franklin,F,United States,USA,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Melissa Franklin,F,United States,USA,2012,London,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Melissa Franklin,F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Melissa Franklin,F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Melissa Franklin,F,United States,USA,2012,London,Swimming,Swimming Women's 100 metres Backstroke,Gold,Swimming,SWM,True
+Melissa Franklin,F,United States,USA,2012,London,Swimming,Swimming Women's 200 metres Backstroke,Gold,Swimming,SWM,True
+Melissa Franklin,F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Melissa Franklin,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Melissa Franklin,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Melissa Franklin,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
+Mary -spitzer),F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Mavis Freeman,F,United States,USA,1936,Berlin,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,False
+Eleanor Garatti-saville,F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 100 metres Freestyle,Silver,Swimming,SWM,True
+Eleanor Garatti-saville,F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Eleanor Garatti-saville,F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 100 metres Freestyle,Bronze,Swimming,SWM,True
+Eleanor Garatti-saville,F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Agnes (-mcandrews),F,United States,USA,1924,Paris,Swimming,Swimming Women's 200 metres Breaststroke,Silver,Swimming,SWM,True
+Agnes (-mcandrews),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Diane (-nuess),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,False
+Marian (-sharpe),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Ann Steinburg),F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Ann Steinburg),F,United States,USA,1936,Berlin,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Cynthia (-shroeder),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,False
+Maryanne (-keever),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,False
+Susan (-mcgreivy),F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
+Carolyn (-lewis),F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
+Irene (-loog),F,United States,USA,1920,Antwerpen,Swimming,Swimming Women's 100 metres Freestyle,Silver,Swimming,SWM,True
+Irene (-loog),F,United States,USA,1920,Antwerpen,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Linda (-mcguire),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 100 metres Freestyle,Bronze,Swimming,SWM,True
+Linda (-mcguire),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 400 metres Freestyle,Silver,Swimming,SWM,True
+Linda (-mcguire),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Nicole (-bacher),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Nicole (-bacher),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,Gold,Swimming,SWM,True
+Nicole (-bacher),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Nicole (-bacher),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Nicole (-bacher),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Kaye (-greff),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 100 metres Backstroke,Gold,Swimming,SWM,True
+Kaye (-greff),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 200 metres Backstroke,Bronze,Swimming,SWM,True
+Kaye (-greff),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Jeanne (-craig),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Jeanne (-craig),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Jeanne (-neville),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,False
+Molly Hannis,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Erika (-stebbins),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Erika (-stebbins),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
+Erika (-stebbins),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
+Erika (-stebbins),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Janis (-dowd),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Jessica (-meichtry),F,United States,USA,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
+Jessica (-meichtry),F,United States,USA,2012,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Jessica (-meichtry),F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Jessica (-meichtry),F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Nina (-thompson),F,United States,USA,1960,Roma,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
+Nina (-thompson),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
+Nina (-thompson),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Jo (-carson),F,United States,USA,1972,Munich,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,False
+Andrea (-dickson),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,False
+Tamara (-murphy),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Kathryn -drum),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
+Whitney (-luther),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Whitney (-luther),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 100 metres Backstroke,Silver,Swimming,SWM,True
+Whitney (-luther),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 200 metres Backstroke,Silver,Swimming,SWM,True
+Whitney (-luther),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Brenda Morelos),F,United States,USA,1948,London,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Brenda Morelos),F,United States,USA,1948,London,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
+Brenda Morelos),F,United States,USA,1948,London,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Jan (-hawkins),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 100 metres Freestyle,Gold,Swimming,SWM,True
+Jan (-hawkins),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 200 metres Freestyle,Silver,Swimming,SWM,True
+Jan (-hawkins),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Jan (-hawkins),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 200 metres Individual Medley,Bronze,Swimming,SWM,True
+Jan (-hawkins),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Susan (-preston),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,False
+Kathleen Hersey,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+Kathleen Hersey,F,United States,USA,2012,London,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+Antonia (-cervantes),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Antonia (-cervantes),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+Margaret Hoelzer,F,United States,USA,2004,Athina,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
+Margaret Hoelzer,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 100 metres Backstroke,Bronze,Swimming,SWM,True
+Margaret Hoelzer,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 200 metres Backstroke,Silver,Swimming,SWM,True
+Margaret Hoelzer,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Kathryn (-anderson),F,United States,USA,2004,Athina,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Kathryn (-anderson),F,United States,USA,2004,Athina,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Kathryn (-anderson),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Kathryn (-anderson),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 400 metres Freestyle,Silver,Swimming,SWM,True
+Kathryn (-anderson),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
+Kathryn (-anderson),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Kathryn (-anderson),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Kathryn (-anderson),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 400 metres Individual Medley,Bronze,Swimming,SWM,True
+Margaret Hoffman,F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Margaret Hoffman,F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Nancy (-makar),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 100 metres Freestyle,Gold,Swimming,SWM,True
+Nancy (-makar),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Nancy (-makar),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+Nancy (-makar),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 200 metres Individual Medley,Silver,Swimming,SWM,True
+Nancy (-makar),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Eleanor -whalen),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
+Eleanor -whalen),F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 100 metres Backstroke,Gold,Swimming,SWM,True
+Jennifer (-brinegar),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Jennifer (-brinegar),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Carolyn (-helmuth),F,United States,USA,1960,Roma,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
+Misty Hyman,F,United States,USA,2000,Sydney,Swimming,Swimming Women's 200 metres Butterfly,Gold,Swimming,SWM,False
+Trina (-falca),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Trina (-falca),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Trina (-falca),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+Lisa Jacob,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Lisa Jacob,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Catherine (-imwalle),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Rhiannon Jeffrey,F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False
+Barbara -jackson),F,United States,USA,1948,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Linda Jezek,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
+Linda Jezek,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Helen (-carroll),F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,False
+Jenna Johnson,F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Jenna Johnson,F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 100 metres Butterfly,Silver,Swimming,SWM,True
+Jenna Johnson,F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Jill (-chasson),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Susan (-lipscomb),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
+Susanne (-roy),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Susanne (-roy),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Janel (-mcardle),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Janel (-mcardle),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Kara Joyce,F,United States,USA,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
+Kara Joyce,F,United States,USA,2004,Athina,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Kara Joyce,F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Kara Joyce,F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Kara Joyce,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
+Kara Joyce,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Kara Joyce,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Kara Joyce,F,United States,USA,2012,London,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
+Thelma (-aiu),F,United States,USA,1948,London,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,False
+Evelyn (-konno),F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 400 metres Freestyle,Bronze,Swimming,SWM,True
+Evelyn (-konno),F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Kalyn (-robinson),F,United States,USA,2004,Athina,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
+Kalyn (-robinson),F,United States,USA,2004,Athina,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
+Jennifer Kempf,F,United States,USA,1972,Munich,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Jennifer Kempf,F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Patricia Kempner,F,United States,USA,1960,Roma,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Patricia Kempner,F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Lenore Kight-wingard,F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 400 metres Freestyle,Silver,Swimming,SWM,True
+Lenore Kight-wingard,F,United States,USA,1936,Berlin,Swimming,Swimming Women's 400 metres Freestyle,Bronze,Swimming,SWM,True
+Lilly King,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Breaststroke,Gold,Swimming,SWM,True
+Lilly King,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Lilly King,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Dana Kirk,F,United States,USA,2004,Athina,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,False
+Tara Kirk,F,United States,USA,2004,Athina,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Tara Kirk,F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Megan (-morris),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Megan (-morris),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Kathryn (-norton),F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,False
+Claudia Kolb,F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 200 metres Breaststroke,Silver,Swimming,SWM,True
+Claudia Kolb,F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 200 metres Individual Medley,Gold,Swimming,SWM,True
+Claudia Kolb,F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 400 metres Individual Medley,Gold,Swimming,SWM,True
+Rachel Komisarz,F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Rachel Komisarz,F,United States,USA,2004,Athina,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Rachel Komisarz,F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Kristina Kowal,F,United States,USA,2000,Sydney,Swimming,Swimming Women's 200 metres Breaststroke,Silver,Swimming,SWM,False
+Nicole Kramer,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,False
+Mitzi (-tighe),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Mitzi (-tighe),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Mitzi (-tighe),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Pamela Kruse,F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
+Pamela Kruse,F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 800 metres Freestyle,Silver,Swimming,SWM,True
+Ariana Kukors,F,United States,USA,2012,London,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,False
+Ethel (-watkins),F,United States,USA,1924,Paris,Swimming,Swimming Women's 100 metres Freestyle,Gold,Swimming,SWM,True
+Ethel (-watkins),F,United States,USA,1924,Paris,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Susanne (-scavey),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Susanne (-scavey),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Adelaide (-ballard),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,False
+Catherine (-walker),F,United States,USA,1948,London,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Colleen Lanne,F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,False
+Bernice (-squier),F,United States,USA,1936,Berlin,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Bernice (-squier),F,United States,USA,1936,Berlin,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Renee (-kelly),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,False
+Breeja Larson,F,United States,USA,2012,London,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Breeja Larson,F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Jacqueline Lavine,F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,False
+Micah Lawrence,F,United States,USA,2012,London,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Kathleen Ledecky,F,United States,USA,2012,London,Swimming,Swimming Women's 800 metres Freestyle,Gold,Swimming,SWM,True
+Kathleen Ledecky,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Freestyle,Gold,Swimming,SWM,True
+Kathleen Ledecky,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Freestyle,Gold,Swimming,SWM,True
+Kathleen Ledecky,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 800 metres Freestyle,Gold,Swimming,SWM,True
+Kathleen Ledecky,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Kathleen Ledecky,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Nancy -boland),F,United States,USA,1948,London,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
+Caitlin Leverenz,F,United States,USA,2012,London,Swimming,Swimming Women's 200 metres Individual Medley,Bronze,Swimming,SWM,True
+Caitlin Leverenz,F,United States,USA,2012,London,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Anna (-olson),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Kimberley Linehan,F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
+Lea (-maurer),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,Bronze,Swimming,SWM,True
+Lea (-maurer),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
+Lea (-maurer),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Helene Madison,F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 100 metres Freestyle,Gold,Swimming,SWM,True
+Helene Madison,F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 400 metres Freestyle,Gold,Swimming,SWM,True
+Helene Madison,F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Holly (-tucker),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Christine Magnuson,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 100 metres Butterfly,Silver,Swimming,SWM,True
+Christine Magnuson,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Shelley Mann,F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Shelley Mann,F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Shelley Mann,F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 100 metres Butterfly,Gold,Swimming,SWM,True
+Simone Manuel,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,Silver,Swimming,SWM,True
+Simone Manuel,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,Gold,Swimming,SWM,True
+Simone Manuel,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Simone Manuel,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Mary (-witchger),F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Melanie Margalis,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Melanie Margalis,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Barbara Marshall,F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Barbara Marshall,F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Christine Marshall,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Bronze,Swimming,SWM,False
+Angelina -sims),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,Bronze,Swimming,SWM,True
+Angelina -sims),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Angelina -sims),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
+Angelina -sims),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 100 metres Freestyle,Bronze,Swimming,SWM,True
+Angelina -sims),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Angelina -sims),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 100 metres Butterfly,Bronze,Swimming,SWM,True
+Angelina -sims),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Tracey (-mirande),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Tracey (-mirande),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Tracey (-mirande),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Ethel (-engelsen),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
+Mary (-mucha),F,United States,USA,1936,Berlin,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Mary (-mucha),F,United States,USA,1936,Berlin,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Josephine (-chalmers),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 400 metres Freestyle,Bronze,Swimming,SWM,True
+Josephine (-chalmers),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Josephine (-chalmers),F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Josephine (-chalmers),F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Joan (-huffman),F,United States,USA,1932,Los Angeles,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Mary (-plant),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 100 metres Butterfly,Gold,Swimming,SWM,True
+Mary (-plant),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 200 metres Butterfly,Gold,Swimming,SWM,True
+Mary (-plant),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Mary (-plant),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Mary (-plant),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 200 metres Butterfly,Bronze,Swimming,SWM,True
+Mary (-plant),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Catherine Meili,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Breaststroke,Bronze,Swimming,SWM,True
+Catherine Meili,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Judith Melick,F,United States,USA,1972,Munich,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Judith Melick,F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Muriel Mellon,F,United States,USA,1948,London,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Whitney (-krosse),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,False
+Deliana (-dooling),F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
+Deborah (-weber),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 200 metres Freestyle,Gold,Swimming,SWM,True
+Deborah (-weber),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 400 metres Freestyle,Gold,Swimming,SWM,True
+Deborah (-weber),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 800 metres Freestyle,Gold,Swimming,SWM,True
+Barbara Mitchell,F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Elizabeth Mitchell,F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 100 metres Backstroke,Silver,Swimming,SWM,True
+Elizabeth Mitchell,F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Elizabeth Mitchell,F,United States,USA,1988,Seoul,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
+Elizabeth Mitchell,F,United States,USA,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Karen (-humphreys),F,United States,USA,1972,Munich,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
+Karen (-humphreys),F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Butterfly,Gold,Swimming,SWM,True
+Karen (-humphreys),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+Mary Montgomery,F,United States,USA,1972,Munich,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,False
+Kendis (-drake),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Marcia Morey,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Marcia Morey,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Edith (-polster),F,United States,USA,1936,Berlin,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Diana (-depetro),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 400 metres Freestyle,Silver,Swimming,SWM,True
+Diana (-depetro),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Diana (-depetro),F,United States,USA,2004,Athina,Swimming,Swimming Women's 800 metres Freestyle,Bronze,Swimming,SWM,True
+Maureen Murphy,F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Nadia (-richesson),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 100 metres Breaststroke,Silver,Swimming,SWM,True
+Nadia (-richesson),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 200 metres Breaststroke,Bronze,Swimming,SWM,True
+Nadia (-richesson),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Lia Neal,F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Lia Neal,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Sandra (-bell),F,United States,USA,1972,Munich,Swimming,Swimming Women's 100 metres Freestyle,Gold,Swimming,SWM,True
+Sandra (-bell),F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Sandra (-bell),F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Alexandra Nitta,F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Martha -brown),F,United States,USA,1924,Paris,Swimming,Swimming Women's 400 metres Freestyle,Gold,Swimming,SWM,True
+Martha -brown),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 400 metres Freestyle,Gold,Swimming,SWM,True
+Martha -brown),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Lacey (-john),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Lacey (-john),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Coralie O'connor,F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Albina Aken),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 100 metres Freestyle,Gold,Swimming,SWM,True
+Albina Aken),F,United States,USA,1928,Amsterdam,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Rada Owen,F,United States,USA,2000,Sydney,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,False
+Susan (-pankey),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 100 metres Freestyle,Silver,Swimming,SWM,True
+Susan (-pankey),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Susan (-pankey),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 200 metres Individual Medley,Silver,Swimming,SWM,True
+Susan (-pankey),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Susan (-pankey),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Carol (-taylor),F,United States,USA,1948,London,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Lauren Perdue,F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False
+Gail (-roper),F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Mary (-skok),F,United States,USA,1936,Berlin,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
+Kimberley (-mcdonald),F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Kimberley (-mcdonald),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Kimberley (-mcdonald),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Erin Phenix,F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,False
+Carly (-ryan),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False
+Susan (-anderson),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,False
+Kristine (-julian),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Kristine (-julian),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Kristine (-julian),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Megan Quann-jendrick,F,United States,USA,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,Gold,Swimming,SWM,True
+Megan Quann-jendrick,F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Megan Quann-jendrick,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Megan Quann-jendrick,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Katrina (-gerry),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,False
+Marilyn Ramenofsky,F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 400 metres Freestyle,Silver,Swimming,SWM,False
+Nancy (-lethcoe),F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 100 metres Butterfly,Silver,Swimming,SWM,False
+Martha Randall,F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 400 metres Individual Medley,Bronze,Swimming,SWM,False
+Susan Lippe),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Susan Lippe),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 200 metres Breaststroke,Silver,Swimming,SWM,True
+Susan Lippe),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Susan Lippe),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Katherine -green),F,United States,USA,1936,Berlin,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Katherine -green),F,United States,USA,1936,Berlin,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Judith Reeder,F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,False
+Kimberly (-macklin),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Michelle (-ahlers),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 800 metres Freestyle,Silver,Swimming,SWM,False
+Aileen (-soule),F,United States,USA,1924,Paris,Swimming,Swimming Women's 100 metres Backstroke,Bronze,Swimming,SWM,False
+Judith (-thomas),F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,False
+Joan Rosazza,F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Joan Rosazza,F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Gabrielle Rose,F,United States,USA,2000,Sydney,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,False
+Keena -zorovich),F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Freestyle,Bronze,Swimming,SWM,True
+Keena -zorovich),F,United States,USA,1972,Munich,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
+Keena -zorovich),F,United States,USA,1972,Munich,Swimming,Swimming Women's 800 metres Freestyle,Gold,Swimming,SWM,True
+Cierra Runge,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False
+Sylvia Ruuska,F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 400 metres Freestyle,Bronze,Swimming,SWM,True
+Sylvia Ruuska,F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Sylvia Ruuska,F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Elizabeth Ryan,F,United States,USA,1936,Berlin,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,False
+Annette Salmeen,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Annette Salmeen,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+Kaitlin (-hogan),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 800 metres Freestyle,Bronze,Swimming,SWM,True
+Kaitlin (-hogan),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+Kaitlin (-hogan),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Kaitlin (-hogan),F,United States,USA,2004,Athina,Swimming,Swimming Women's 400 metres Freestyle,Bronze,Swimming,SWM,True
+Kaitlin (-hogan),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Kaitlin (-hogan),F,United States,USA,2004,Athina,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+Kaitlin (-hogan),F,United States,USA,2004,Athina,Swimming,Swimming Women's 400 metres Individual Medley,Silver,Swimming,SWM,True
+Summer -schlopy),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Summer -schlopy),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 200 metres Butterfly,Gold,Swimming,SWM,True
+Summer -schlopy),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 200 metres Individual Medley,Silver,Swimming,SWM,True
+Summer -schlopy),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 400 metres Individual Medley,Bronze,Swimming,SWM,True
+Summer -schlopy),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Matilda (-haires),F,United States,USA,1924,Paris,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Dorothy -haver),F,United States,USA,1936,Berlin,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Allison Schmitt,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Allison Schmitt,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Allison Schmitt,F,United States,USA,2012,London,Swimming,Swimming Women's 200 metres Freestyle,Gold,Swimming,SWM,True
+Allison Schmitt,F,United States,USA,2012,London,Swimming,Swimming Women's 400 metres Freestyle,Silver,Swimming,SWM,True
+Allison Schmitt,F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Allison Schmitt,F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Allison Schmitt,F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Allison Schmitt,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Allison Schmitt,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Dana Schoenfield,F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Breaststroke,Silver,Swimming,SWM,False
+Frances Schroth,F,United States,USA,1920,Antwerpen,Swimming,Swimming Women's 100 metres Freestyle,Bronze,Swimming,SWM,True
+Frances Schroth,F,United States,USA,1920,Antwerpen,Swimming,Swimming Women's 300 metres Freestyle,Bronze,Swimming,SWM,True
+Frances Schroth,F,United States,USA,1920,Antwerpen,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Carolyn Schuler,F,United States,USA,1960,Roma,Swimming,Swimming Women's 100 metres Butterfly,Gold,Swimming,SWM,True
+Carolyn Schuler,F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Mary Sears,F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Mary Sears,F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 100 metres Butterfly,Bronze,Swimming,SWM,True
+Idella -moore),F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Courtney (-hart),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Courtney (-hart),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
+Courtney (-hart),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Patience Sherman,F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,False
+Susanne (-white),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 100 metres Butterfly,Bronze,Swimming,SWM,True
+Susanne (-white),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Dana (-butler),F,United States,USA,1972,Munich,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Dana (-butler),F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Marley (-tobian),F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
+Marley (-tobian),F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Laura Siering,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Laura Siering,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Laura Siering,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Emily Silver,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,False
+Ann Simmons,F,United States,USA,1972,Munich,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,False
+Nancy (-peterson),F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Nancy (-peterson),F,United States,USA,1956,Melbourne,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Jilen Siroky,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Lynn (-nelson),F,United States,USA,1972,Munich,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Lynn (-nelson),F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
+Julia Smit,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Julia Smit,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Leah Smith,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 400 metres Freestyle,Bronze,Swimming,SWM,True
+Leah Smith,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
+Leah Smith,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Miriam Smith,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,False
+Olivia Smoliga,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
+Olivia Smoliga,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Rebecca Soni,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 100 metres Breaststroke,Silver,Swimming,SWM,True
+Rebecca Soni,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 200 metres Breaststroke,Gold,Swimming,SWM,True
+Rebecca Soni,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Rebecca Soni,F,United States,USA,2012,London,Swimming,Swimming Women's 100 metres Breaststroke,Silver,Swimming,SWM,True
+Rebecca Soni,F,United States,USA,2012,London,Swimming,Swimming Women's 200 metres Breaststroke,Gold,Swimming,SWM,True
+Rebecca Soni,F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Joan Spillane,F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Joan Spillane,F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Barbara (-jordan),F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Carolyn (-bates),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 100 metres Freestyle,Gold,Swimming,SWM,True
+Carolyn (-bates),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Carolyn (-bates),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Marie (-wehmann),F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Marie (-wehmann),F,United States,USA,1952,Helsinki,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Gillian Sterkel,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Gillian Sterkel,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Gillian Sterkel,F,United States,USA,1976,Montreal,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Gillian Sterkel,F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Gillian Sterkel,F,United States,USA,1988,Seoul,Swimming,Swimming Women's 50 metres Freestyle,Bronze,Swimming,SWM,True
+Gillian Sterkel,F,United States,USA,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Terri -strunck),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 400 metres Freestyle,Bronze,Swimming,SWM,False
+Staciana (-winfield),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Staciana (-winfield),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Shirley Stobs,F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,False
+Sharon (-clark),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 100 metres Freestyle,Silver,Swimming,SWM,True
+Sharon (-clark),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Sharon (-clark),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 100 metres Butterfly,Gold,Swimming,SWM,True
+Sharon (-clark),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Julia Stowers,F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False
+Chloe Sutton,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 10 kilometres Open Water,No medal,Swimming,SWM,True
+Chloe Sutton,F,United States,USA,2012,London,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
+Jane (-hill),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 100 metres Backstroke,Bronze,Swimming,SWM,True
+Jane (-hill),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Sheila Taormina,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False
+Ashley (-doussan),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Ashley (-doussan),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Ashley (-doussan),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Cristina Teuscher,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Cristina Teuscher,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
+Cristina Teuscher,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Cristina Teuscher,F,United States,USA,2000,Sydney,Swimming,Swimming Women's 200 metres Individual Medley,Bronze,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 100 metres Freestyle,Silver,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 100 metres Freestyle,Bronze,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,2004,Athina,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,2004,Athina,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Jennifer (-cumpelik),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Dara -minas),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Dara -minas),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Dara -minas),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Dara -minas),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Dara -minas),F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Dara -minas),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,Bronze,Swimming,SWM,True
+Dara -minas),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 100 metres Freestyle,Bronze,Swimming,SWM,True
+Dara -minas),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Dara -minas),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 100 metres Butterfly,Bronze,Swimming,SWM,True
+Dara -minas),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Dara -minas),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 50 metres Freestyle,Silver,Swimming,SWM,True
+Dara -minas),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Dara -minas),F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Tori (-smith),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,False
+Eleanor (-gash),F,United States,USA,1920,Antwerpen,Swimming,Swimming Women's 300 metres Freestyle,No medal,Swimming,SWM,False
+Melanie Valerio,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,False
+Amy (-rouen),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 50 metres Freestyle,Gold,Swimming,SWM,True
+Amy (-rouen),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Amy (-rouen),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Amy (-rouen),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 100 metres Butterfly,Gold,Swimming,SWM,True
+Amy (-rouen),F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Amy (-rouen),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
+Amy (-rouen),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Amy (-rouen),F,United States,USA,2000,Sydney,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Kimberly Vandenberg,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Bronze,Swimming,SWM,False
+Tauna -oshea),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,False
+Lynn (-gautschi),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 400 metres Individual Medley,Silver,Swimming,SWM,True
+Lynn (-gautschi),F,United States,USA,1972,Munich,Swimming,Swimming Women's 100 metres Breaststroke,No medal,Swimming,SWM,True
+Lynn (-gautschi),F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Individual Medley,Bronze,Swimming,SWM,True
+Lynn (-gautschi),F,United States,USA,1972,Munich,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Dana (-grant),F,United States,USA,2004,Athina,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Dana (-grant),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Dana (-grant),F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,True
+Dana (-grant),F,United States,USA,2012,London,Swimming,Swimming Women's 100 metres Butterfly,Gold,Swimming,SWM,True
+Dana (-grant),F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Dana (-grant),F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Dana (-grant),F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Butterfly,Bronze,Swimming,SWM,True
+Dana (-grant),F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Susan (-olmstead),F,United States,USA,1960,Roma,Swimming,Swimming Women's 100 metres Freestyle,Silver,Swimming,SWM,True
+Susan (-olmstead),F,United States,USA,1960,Roma,Swimming,Swimming Women's 400 metres Freestyle,Gold,Swimming,SWM,True
+Susan (-olmstead),F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Susan (-olmstead),F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Shannon Vreeland,F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False
+Allison Wagner,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Allison Wagner,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 400 metres Individual Medley,Silver,Swimming,SWM,True
+Elizabeth Wagstaff,F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 100 metres Backstroke,No medal,Swimming,SWM,True
+Elizabeth Wagstaff,F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 200 metres Backstroke,No medal,Swimming,SWM,True
+Elizabeth Wagstaff,F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Helen (-stelling),F,United States,USA,1924,Paris,Swimming,Swimming Women's 400 metres Freestyle,Silver,Swimming,SWM,False
+Laura Walker,F,United States,USA,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,False
+Anne (-cribbs),F,United States,USA,1960,Roma,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,True
+Anne (-cribbs),F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Lillian (-richardson),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Lillian (-richardson),F,United States,USA,1964,Tokyo,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Lillian (-richardson),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 200 metres Backstroke,Gold,Swimming,SWM,True
+Mary (-bradburne),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 200 metres Freestyle,Gold,Swimming,SWM,True
+Mary (-bradburne),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Mary (-bradburne),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 200 metres Freestyle,No medal,Swimming,SWM,True
+Mary (-bradburne),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Mary (-bradburne),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,True
+Mary (-bradburne),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Mariechen (-jackson),F,United States,USA,1924,Paris,Swimming,Swimming Women's 100 metres Freestyle,Silver,Swimming,SWM,True
+Mariechen (-jackson),F,United States,USA,1924,Paris,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Wendy -weil),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 800 metres Freestyle,Bronze,Swimming,SWM,False
+Amanda (-davis),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Amanda (-davis),F,United States,USA,2004,Athina,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Amanda (-davis),F,United States,USA,2012,London,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,True
+Amanda (-davis),F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Abbey Weitzeil,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,No medal,Swimming,SWM,True
+Abbey Weitzeil,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Abbey Weitzeil,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver,Swimming,SWM,True
+Abbey Weitzeil,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Donnalee (-carlson),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+Donnalee (-carlson),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 400 metres Individual Medley,No medal,Swimming,SWM,True
+Ina Wester-krieg,F,United States,USA,1992,Barcelona,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,False
+Amy (-ballidis),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 200 metres Backstroke,Silver,Swimming,SWM,False
+Ashley Whitney,F,United States,USA,1996,Atlanta,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,Gold,Swimming,SWM,False
+Sharon (-jones),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 100 metres Breaststroke,Bronze,Swimming,SWM,True
+Sharon (-jones),F,United States,USA,1968,Mexico City,Swimming,Swimming Women's 200 metres Breaststroke,Gold,Swimming,SWM,True
+Jeanne (-vaughan),F,United States,USA,1948,London,Swimming,Swimming Women's 200 metres Breaststroke,No medal,Swimming,SWM,False
+Carolyn Wood,F,United States,USA,1960,Roma,Swimming,Swimming Women's 100 metres Freestyle,No medal,Swimming,SWM,True
+Carolyn Wood,F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Carolyn Wood,F,United States,USA,1960,Roma,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Carolyn Wood,F,United States,USA,1960,Roma,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Margaret (-presley),F,United States,USA,1920,Antwerpen,Swimming,Swimming Women's 300 metres Freestyle,Silver,Swimming,SWM,True
+Margaret (-presley),F,United States,USA,1920,Antwerpen,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Gold,Swimming,SWM,True
+Cynthia -brennan),F,United States,USA,1984,Los Angeles,Swimming,Swimming Women's 200 metres Freestyle,Silver,Swimming,SWM,False
+Carolyn Woods,F,United States,USA,1972,Munich,Swimming,Swimming Women's 200 metres Individual Medley,No medal,Swimming,SWM,False
+Kelsi Worrell,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Kelsi Worrell,F,United States,USA,2016,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold,Swimming,SWM,True
+Camille (-thompson),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 100 metres Butterfly,No medal,Swimming,SWM,True
+Camille (-thompson),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 200 metres Butterfly,No medal,Swimming,SWM,True
+Camille (-thompson),F,United States,USA,1976,Montreal,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver,Swimming,SWM,True
+Jennifer Wylie,F,United States,USA,1972,Munich,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,False
+Kathryn (-northcutt),F,United States,USA,1988,Seoul,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze,Swimming,SWM,False
+Kate Ziegler,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 400 metres Freestyle,No medal,Swimming,SWM,True
+Kate Ziegler,F,United States,USA,2008,Beijing,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
+Kate Ziegler,F,United States,USA,2012,London,Swimming,Swimming Women's 800 metres Freestyle,No medal,Swimming,SWM,True
+Suzanne (-edwards),F,United States,USA,1948,London,Swimming,Swimming Women's 100 metres Backstroke,Silver,Swimming,SWM,False
+Phoebe Bacon,F,United States,USA,2020,Tokyo,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,True
+Erika Brown,F,United States,USA,2020,Tokyo,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,True
+Erika Brown,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,Bronze,Women's,SWM,True
+Erika Brown,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,Silver,Women's,SWM,True
+Claire Curzan,F,United States,USA,2020,Tokyo,Swimming,Women's 100m Butterfly,No medal,Women's,SWM,True
+Claire Curzan,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,Silver,Women's,SWM,True
+de Catie,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,Bronze,Women's,SWM,False
+Kate Douglass,F,United States,USA,2020,Tokyo,Swimming,Women's 200m Individual Medley,Bronze,Women's,SWM,True
+Hali Flickinger,F,United States,USA,2020,Tokyo,Swimming,Women's 200m Butterfly,Bronze,Women's,SWM,True
+Hali Flickinger,F,United States,USA,2020,Tokyo,Swimming,Women's 400m Individual Medley,Bronze,Women's,SWM,True
+Brooke Forde,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 200m Freestyle Relay Team,Silver,Women's,SWM,False
+Katie Grimes,F,United States,USA,2020,Tokyo,Swimming,Women's 800m Freestyle,No medal,Women's,SWM,True
+Natalie Hinds,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,Bronze,Women's,SWM,False
+Torri Huske,F,United States,USA,2020,Tokyo,Swimming,Women's 100m Butterfly,No medal,Women's,SWM,True
+Torri Huske,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,Silver,Women's,SWM,True
+Torri Huske,F,United States,USA,2020,Tokyo,Swimming,Mixed 4 x 100m Medley Relay Team,No medal,Mixed,SWM,True
+Lydia Jacoby,F,United States,USA,2020,Tokyo,Swimming,Women's 100m Breaststroke,Gold,Women's,SWM,True
+Lydia Jacoby,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,Silver,Women's,SWM,True
+Lydia Jacoby,F,United States,USA,2020,Tokyo,Swimming,Mixed 4 x 100m Medley Relay Team,No medal,Mixed,SWM,True
+Lilly King,F,United States,USA,2020,Tokyo,Swimming,Women's 100m Breaststroke,Bronze,Women's,SWM,True
+Lilly King,F,United States,USA,2020,Tokyo,Swimming,Women's 200m Breaststroke,Silver,Women's,SWM,True
+Lilly King,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,Silver,Women's,SWM,True
+Annie Lazor,F,United States,USA,2020,Tokyo,Swimming,Women's 200m Breaststroke,Bronze,Women's,SWM,False
+Kathleen Ledecky,F,United States,USA,2020,Tokyo,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True
+Kathleen Ledecky,F,United States,USA,2020,Tokyo,Swimming,Women's 400m Freestyle,Silver,Women's,SWM,True
+Kathleen Ledecky,F,United States,USA,2020,Tokyo,Swimming,Women's 800m Freestyle,Gold,Women's,SWM,True
+Kathleen Ledecky,F,United States,USA,2020,Tokyo,Swimming,Women's 1500m Freestyle,Gold,Women's,SWM,True
+Kathleen Ledecky,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 200m Freestyle Relay Team,Silver,Women's,SWM,True
+Paige Madden,F,United States,USA,2020,Tokyo,Swimming,Women's 400m Freestyle,No medal,Women's,SWM,True
+Paige Madden,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 200m Freestyle Relay Team,Silver,Women's,SWM,True
+Simone Manuel,F,United States,USA,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True
+Simone Manuel,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,Bronze,Women's,SWM,True
+Mc Kathryn,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 200m Freestyle Relay Team,Silver,Women's,SWM,False
+Allison Schmitt,F,United States,USA,2020,Tokyo,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True
+Allison Schmitt,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,Bronze,Women's,SWM,True
+Allison Schmitt,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 200m Freestyle Relay Team,Silver,Women's,SWM,True
+Arabella Sims,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 200m Freestyle Relay Team,Silver,Women's,SWM,False
+Regan Smith,F,United States,USA,2020,Tokyo,Swimming,Women's 100m Backstroke,Bronze,Women's,SWM,True
+Regan Smith,F,United States,USA,2020,Tokyo,Swimming,Women's 200m Butterfly,Silver,Women's,SWM,True
+Regan Smith,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,Silver,Women's,SWM,True
+Regan Smith,F,United States,USA,2020,Tokyo,Swimming,Mixed 4 x 100m Medley Relay Team,No medal,Mixed,SWM,True
+Olivia Smoliga,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,Bronze,Women's,SWM,True
+Erica Sullivan,F,United States,USA,2020,Tokyo,Swimming,Women's 1500m Freestyle,Silver,Women's,SWM,False
+Alex Walsh,F,United States,USA,2020,Tokyo,Swimming,Women's 200m Individual Medley,Silver,Women's,SWM,True
+Abbey Weitzeil,F,United States,USA,2020,Tokyo,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True
+Abbey Weitzeil,F,United States,USA,2020,Tokyo,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,True
+Abbey Weitzeil,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Freestyle Relay Team,Bronze,Women's,SWM,True
+Abbey Weitzeil,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,Silver,Women's,SWM,True
+Abbey Weitzeil,F,United States,USA,2020,Tokyo,Swimming,Mixed 4 x 100m Medley Relay Team,No medal,Mixed,SWM,True
+Emma Weyant,F,United States,USA,2020,Tokyo,Swimming,Women's 400m Individual Medley,Silver,Women's,SWM,True
+Elizabeth White,F,United States,USA,2020,Tokyo,Swimming,Women's 100m Backstroke,No medal,Women's,SWM,True
+Elizabeth White,F,United States,USA,2020,Tokyo,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,True
+Elizabeth White,F,United States,USA,2020,Tokyo,Swimming,Women's 4 x 100m Medley Relay Team,Silver,Women's,SWM,True
+Abbey Weitzeil,F,United States,USA,2024,Paris,Swimming,Women's 4 x 100m Freestyle Relay,Silver,Women's,SWM,True
+Abbey Weitzeil,F,United States,USA,2024,Paris,Swimming,Relay Only Athlete,No medal,Relay,SWM,True
+Abbey Weitzeil,F,United States,USA,2024,Paris,Swimming,Mixed 4 x 100m Medley Relay,Gold,Mixed,SWM,True
+Phoebe Bacon,F,United States,USA,2024,Paris,Swimming,Women's 200m Backstroke,No medal,Women's,SWM,True
+Katharine Berkoff,F,United States,USA,2024,Paris,Swimming,Women's 100m Backstroke,Bronze,Women's,SWM,True
+Katharine Berkoff,F,United States,USA,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,Gold,Women's,SWM,True
+Erika Connolly,F,United States,USA,2024,Paris,Swimming,Women's 4 x 100m Freestyle Relay,Silver,Women's,SWM,True
+Erika Connolly,F,United States,USA,2024,Paris,Swimming,Relay Only Athlete,No medal,Relay,SWM,True
+Kate Douglass,F,United States,USA,2024,Paris,Swimming,Women's 200m Breaststroke,Gold,Women's,SWM,True
+Kate Douglass,F,United States,USA,2024,Paris,Swimming,Women's 200m Individual Medley,Silver,Women's,SWM,True
+Kate Douglass,F,United States,USA,2024,Paris,Swimming,Women's 4 x 100m Freestyle Relay,Silver,Women's,SWM,True
+Kate Douglass,F,United States,USA,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,Gold,Women's,SWM,True
+Erin Gemmell,F,United States,USA,2024,Paris,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True
+Erin Gemmell,F,United States,USA,2024,Paris,Swimming,Women's 4 x 200m Freestyle Relay,Silver,Women's,SWM,True
+Katie Grimes,F,United States,USA,2024,Paris,"Marathon Swimming, Swimming",Women's 10km,No medal,Women's,SWM,True
+Katie Grimes,F,United States,USA,2024,Paris,"Marathon Swimming, Swimming",Women's 1500m Freestyle,No medal,Women's,SWM,True
+Katie Grimes,F,United States,USA,2024,Paris,"Marathon Swimming, Swimming",Women's 400m Individual Medley,No medal,Women's,SWM,True
+Torri Huske,F,United States,USA,2024,Paris,Swimming,Women's 100m Butterfly,Gold,Women's,SWM,True
+Torri Huske,F,United States,USA,2024,Paris,Swimming,Women's 100m Freestyle,Silver,Women's,SWM,True
+Torri Huske,F,United States,USA,2024,Paris,Swimming,Women's 4 x 100m Freestyle Relay,Silver,Women's,SWM,True
+Torri Huske,F,United States,USA,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,Gold,Women's,SWM,True
+Torri Huske,F,United States,USA,2024,Paris,Swimming,Mixed 4 x 100m Medley Relay,Gold,Mixed,SWM,True
+Lilly King,F,United States,USA,2024,Paris,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,True
+Lilly King,F,United States,USA,2024,Paris,Swimming,Women's 200m Breaststroke,No medal,Women's,SWM,True
+Lilly King,F,United States,USA,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,Gold,Women's,SWM,True
+Katie Ledecky,F,United States,USA,2024,Paris,Swimming,Women's 1500m Freestyle,Gold,Women's,SWM,True
+Katie Ledecky,F,United States,USA,2024,Paris,Swimming,Women's 400m Freestyle,Bronze,Women's,SWM,True
+Katie Ledecky,F,United States,USA,2024,Paris,Swimming,Women's 4 x 200m Freestyle Relay,Silver,Women's,SWM,True
+Katie Ledecky,F,United States,USA,2024,Paris,Swimming,Women's 800m Freestyle,Gold,Women's,SWM,True
+Paige Madden,F,United States,USA,2024,Paris,Swimming,Women's 400m Freestyle,No medal,Women's,SWM,True
+Paige Madden,F,United States,USA,2024,Paris,Swimming,Women's 4 x 200m Freestyle Relay,Silver,Women's,SWM,True
+Paige Madden,F,United States,USA,2024,Paris,Swimming,Women's 800m Freestyle,Bronze,Women's,SWM,True
+Simone Manuel,F,United States,USA,2024,Paris,Swimming,Women's 4 x 100m Freestyle Relay,Silver,Women's,SWM,True
+Simone Manuel,F,United States,USA,2024,Paris,Swimming,Women's 4 x 200m Freestyle Relay,Silver,Women's,SWM,True
+Simone Manuel,F,United States,USA,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True
+Anna Peplowski,F,United States,USA,2024,Paris,Swimming,Women's 4 x 200m Freestyle Relay,Silver,Women's,SWM,True
+Anna Peplowski,F,United States,USA,2024,Paris,Swimming,Relay Only Athlete,No medal,Relay,SWM,True
+Alex Shackell,F,United States,USA,2024,Paris,Swimming,Women's 200m Butterfly,No medal,Women's,SWM,True
+Alex Shackell,F,United States,USA,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,Gold,Women's,SWM,True
+Alex Shackell,F,United States,USA,2024,Paris,Swimming,Women's 4 x 200m Freestyle Relay,Silver,Women's,SWM,True
+Regan Smith,F,United States,USA,2024,Paris,Swimming,Women's 100m Backstroke,Silver,Women's,SWM,True
+Regan Smith,F,United States,USA,2024,Paris,Swimming,Women's 200m Backstroke,Silver,Women's,SWM,True
+Regan Smith,F,United States,USA,2024,Paris,Swimming,Women's 200m Butterfly,Silver,Women's,SWM,True
+Regan Smith,F,United States,USA,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,Gold,Women's,SWM,True
+Regan Smith,F,United States,USA,2024,Paris,Swimming,Mixed 4 x 100m Medley Relay,Gold,Mixed,SWM,True
+Alex Walsh,F,United States,USA,2024,Paris,Swimming,Women's 200m Individual Medley,No medal,Women's,SWM,True
+Gretchen Walsh,F,United States,USA,2024,Paris,Swimming,Women's 100m Butterfly,Silver,Women's,SWM,True
+Gretchen Walsh,F,United States,USA,2024,Paris,Swimming,Women's 100m Freestyle,No medal,Women's,SWM,True
+Gretchen Walsh,F,United States,USA,2024,Paris,Swimming,Women's 4 x 100m Freestyle Relay,Silver,Women's,SWM,True
+Gretchen Walsh,F,United States,USA,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,Gold,Women's,SWM,True
+Gretchen Walsh,F,United States,USA,2024,Paris,Swimming,Women's 50m Freestyle,No medal,Women's,SWM,True
+Gretchen Walsh,F,United States,USA,2024,Paris,Swimming,Mixed 4 x 100m Medley Relay,Gold,Mixed,SWM,True
+Emma Weber,F,United States,USA,2024,Paris,Swimming,Women's 100m Breaststroke,No medal,Women's,SWM,True
+Emma Weber,F,United States,USA,2024,Paris,Swimming,Women's 4 x 100m Medley Relay,Gold,Women's,SWM,True
+Claire Weinstein,F,United States,USA,2024,Paris,Swimming,Women's 200m Freestyle,No medal,Women's,SWM,True
+Claire Weinstein,F,United States,USA,2024,Paris,Swimming,Women's 4 x 200m Freestyle Relay,Silver,Women's,SWM,True
+Emma Weyant,F,United States,USA,2024,Paris,Swimming,Women's 400m Individual Medley,Bronze,Women's,SWM,True
