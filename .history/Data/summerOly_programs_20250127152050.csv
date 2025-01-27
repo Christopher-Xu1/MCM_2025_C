@@ -69,7 +69,7 @@ Weightlifting,Weightlifting,WLF,IWF,2,2,2,0,0,0,5,5,5,5,5,6,7,7,7,7,7,9,9,10,10,
 Wrestling,Freestyle,WRF,UWW,0,0,7,0,5,0,5,7,7,7,7,8,8,8,8,8,8,10,10,10,10,10,10,10,8,11,11,11,12,12,12
 Wrestling,Greco-Roman,WRG,UWW,1,0,0,4,4,5,5,6,6,7,7,8,8,8,8,8,8,10,10,10,10,10,10,10,8,7,7,7,6,6,6
 Skating,Figure,FSK,ISU,0,0,0,0,4,0,3,,,,,,,,,,,,,,,,,,,,,,,,
-Ice Hockey,Ice Hockey,IHO,IIHF,0,0,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,
+Ice Hockey,Ice Hockey,IHO,IIHF,0,0,0,0,0,0,1,Included in winter games (see data_dictionary.csv)[s5],,,,,,,,,,,,,,,,,,,,,,,
 Total events,Total events,Total events,Total events,43,97,95,76,110,102,156,126,109,117,129,136,149,151,150,163,172,195,198,203,221,237,257,271,300,301,302,302,306,339,329
 Total disciplines,Total disciplines,Total disciplines,Total disciplines,10,22,18,13,25,18,29,23,20,20,25,23,23,23,23,25,24,28,27,27,29,31,34,37,40,40,42,40,42,50,48
 Total sports,Total sports,Total sports,Total sports,11,20,16,11,22,14,22,17,14,14,19,17,17,17,17,19,18,21,21,21,21,23,25,25,27,27,27,26,28,33,32
